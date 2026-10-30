@@ -3257,6 +3257,7 @@ The **State Stud Farm of Talas** is a government horse-breeding farm in the Tala
 | status = Operational
 | commissioned = Early 1960s
 | capacity = About 18 MW (2 units)
+| owner = [[Iradi Antimony and Rare Metals Combine]]
 }}
 
 The **Kara-Suu Hydroelectric Station** is a small run-of-river hydroelectric plant at about 1,930 meters on the Kara-Suu River in the lower [[Kara-Suu Canyon]], in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). It has an installed capacity of about 18 MW in two units. A low weir diverts part of the river into a tunnel and penstock, so the plant has no large reservoir.<sup>[1]</sup>
@@ -3268,6 +3269,10 @@ The station was built in the early 1960s to supply the new antimony mine at [[Sa
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Energy Sector Directory</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2022). <i>Environmental Conditions in the Mining Districts of the Talas Alatau</i>. Report to the Secretary-General, Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://iarmc.com/operations/energy.html" target="_blank" rel="noopener">Energy: Kara-Suu Hydroelectric Station</a> (Iradi Antimony and Rare Metals Combine)
+
 
 #### 92. Attelkom Fiber Backbone
 *Quality: Start-Class | Category: Infrastructure & Transport*
