@@ -1518,13 +1518,6 @@
   "mime": "image/jpeg",
   "thumb": "320px-Faithful_and_True_Church_campus.jpg"
  },
- "Faithful_and_True_Church_mural.jpg": {
-  "width": 1152,
-  "height": 864,
-  "bytes": 220219,
-  "mime": "image/jpeg",
-  "thumb": "320px-Faithful_and_True_Church_mural.jpg"
- },
  "Faithful_and_True_Church_service.jpg": {
   "width": 1152,
   "height": 864,
@@ -1741,6 +1734,13 @@
   "bytes": 263160,
   "mime": "image/jpeg",
   "thumb": "320px-Hunters_Vigil.jpg"
+ },
+ "IARMC_logo.svg": {
+  "width": 3284,
+  "height": 520,
+  "bytes": 14474,
+  "mime": "image/svg+xml",
+  "thumb": "320px-IARMC_logo.png"
  },
  "IFS_Chancellery_house.jpg": {
   "width": 1024,

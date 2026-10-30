@@ -4950,7 +4950,7 @@
     "caption": "Pouring metal in the smelter hall of the [[Chatkal Chemical Smelting Complex]]",
     "alt": "A worker in a heat-proof suit pouring glowing molten metal from a ladle into moulds, sparks and haze, high steel trusses",
     "credit": "Irad Wiki",
-    "placement": "lead"
+    "section": "Restart Programme"
   },
   {
     "file": "Mining_chamber_conference.jpg",
@@ -13026,15 +13026,6 @@
     "credit": "Irad Wiki"
   },
   {
-    "file": "Faithful_and_True_Church_mural.jpg",
-    "article": "Faithful and True Church",
-    "section": "Building",
-    "width": 260,
-    "caption": "The horse murals of the auditorium, painted in 2005 and 2006",
-    "alt": "A huge mural of horses running down from mountains behind the stage of an empty auditorium.",
-    "credit": "Irad Wiki"
-  },
-  {
     "file": "Jasil_street_fountain_b.jpg",
     "article": "Jasil",
     "section": "Sale",
@@ -13496,5 +13487,14 @@
     "caption": "Recording ochre paintings of horses and riders in a rock shelter in the [[Talas Alatau]]; painted figures are harder to date than engravings",
     "alt": "A researcher in a sun hat crouches in a shallow rock shelter with a measuring tape laid on the floor, faded red-brown paintings of horses with riders on the pale back wall and a fence post in the foreground",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "IARMC_logo.svg",
+    "article": "Iradi Antimony and Rare Metals Combine",
+    "placement": "lead",
+    "width": 260,
+    "caption": "IARMC logo",
+    "alt": "The chemical symbol Sb in white on a navy square with the atomic number 51 in the corner, beside IARMC in bold navy capitals and the combine's full name in small capitals below",
+    "credit": "Logo supplied by the wiki owner"
   }
 ]

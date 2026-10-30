@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (309 Entries)
+## 5. Start-Class Articles (312 Entries)
 
 ### 5.Category: Biographies & Leadership (57 articles)
 
@@ -194,6 +194,8 @@ A collective-farm lawyer in the Talas valley in the Soviet period, Zhumaliev joi
 Asanov trained as a mining engineer at the Frunze Polytechnic Institute and worked at the [[Sary-Bulak Antimony Works]] from 1985, becoming its chief engineer in 2001. He was appointed deputy minister in 2009. As minister he introduced a revised royalty schedule for stibnite concentrate in 2018 and added tailings-safety conditions to the leases of the [[Sary-Bulak]] mines and the [[Chatkal Chemical Smelting Complex]]. Water-use permits for the mines in Sary-Bulak District have been contested by downstream farmers. Licenses his ministry has issued in the [[Autonomous Tribal Regions]] cannot be used there, because the clan councils ban open-pit mining in mountain watersheds.<sup>[1]</sup><sup>[2]</sup>
 
 In October 2026 Asanov announced the completion of a refit of the four generating units of the [[Toktogul Hydroelectric Complex]], which raised its capacity from 1,200 MW to 1,440 MW. He reviewed the work at the Lower Naryn switchyard and the National Dispatch Center with members of the joint technical commission of the [[Naryn Water and Power Protocol]], in the presence of Uzbek, Kazakh and Kyrgyz observers. The ministry has not published the cost of the refit, and it has said that the division of the additional export revenue is a matter for the talks on the 2027 release schedule.<sup>[3]</sup><sup>[4]</sup>
+
+The same month his ministry published a notice on the [[Sary-Bulak and Chatkal Restart Programme]], putting it at about 600 jobs and US$25 million, figures that included contractors; the combine itself speaks of about 420 permanent posts and US$20 million. Asanov also announced tighter licensing of the sources of antimony ore, under which the combine buys no hand-picked stibnite.
 
 ## References
 <ol class="references">
@@ -3256,23 +3258,24 @@ The **State Stud Farm of Talas** is a government horse-breeding farm in the Tala
 | coordinates = 42.30°N 72.19°E
 | status = Operational
 | commissioned = Early 1960s
-| capacity = About 18 MW (2 units)
 | owner = [[Iradi Antimony and Rare Metals Combine]]
+| capacity = About 18 MW (2 units)
+| generation = About 70 GWh a year
 }}
 
 The **Kara-Suu Hydroelectric Station** is a small run-of-river hydroelectric plant at about 1,930 meters on the Kara-Suu River in the lower [[Kara-Suu Canyon]], in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). It has an installed capacity of about 18 MW in two units. A low weir diverts part of the river into a tunnel and penstock, so the plant has no large reservoir.<sup>[1]</sup>
 
-The station was built in the early 1960s to supply the new antimony mine at [[Sary-Bulak]] and the [[Chatkal Chemical Smelting Complex|Chatkal smelter]], and it still feeds the local grid of the Sary-Bulak industrial corridor. Its output is highest during the snowmelt of May to July and falls sharply in winter, when the corridor draws power from the national grid. It is a minor source compared with the [[Toktogul Hydroelectric Complex]] on the Naryn (1,440 MW), which generates most of Irad's electricity. The upper Kara-Suu valley lies on the tribal side of the [[Qara-Chik Demarcation Line]], and the station's operators have no control over land use in the catchment.<sup>[1]</sup><sup>[2]</sup>
+The station was built in the early 1960s to supply the new antimony mine at [[Sary-Bulak]] and the [[Chatkal Chemical Smelting Complex|Chatkal smelter]], and it belongs to the [[Iradi Antimony and Rare Metals Combine]], not to [[Iradenergo]]. It still feeds the local grid of the Sary-Bulak industrial corridor, generating about 70 GWh a year, about 40 percent of the 170 GWh the combine uses. Its output is highest during the snowmelt of May to July and falls sharply in winter, when its share drops below 15 percent in January and February and the combine draws the rest from the national grid.<sup>[3]</sup> Iradenergo is studying a cascade of small stations on the Chatkal river, of about 146 MW in all.<sup>[3]</sup> It is a minor source compared with the [[Toktogul Hydroelectric Complex]] on the Naryn (1,440 MW), which generates most of Irad's electricity. The upper Kara-Suu valley lies on the tribal side of the [[Qara-Chik Demarcation Line]], and the station's operators have no control over land use in the catchment.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Energy Sector Directory</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2022). <i>Environmental Conditions in the Mining Districts of the Talas Alatau</i>. Report to the Secretary-General, Talas.</li>
+<li id="cite_note-3"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Annual Report 2025</a>.' iarmc.com. Retrieved 30 October 2026.</li>
 </ol>
 
 ## External links
 - <a class="ext" href="https://iarmc.com/operations/energy.html" target="_blank" rel="noopener">Energy: Kara-Suu Hydroelectric Station</a> (Iradi Antimony and Rare Metals Combine)
-
 
 #### 92. Attelkom Fiber Backbone
 *Quality: Start-Class | Category: Infrastructure & Transport*
@@ -3709,7 +3712,24 @@ Torgoy's logo is a white singing lark on a violet rounded tile, beside the name 
 
 **Iradenergo** (State Joint-Stock Company Iradenergo; Iradi: *Iradenergo Mamlekettik Aktsionerdik Koomu*; Russian: *ГАК «Ирадэнерго»*) is the electricity utility of the [[Irad Special Economic Zone]] (ISEZ), wholly owned by the ISEZ under the Department of Energy. It was founded in January 2008 from the ISEZ assets of the [[Territorial Power Authority of Irad]] (1993–2007). Since the 2009 corridor protocol it has run the [[Toktogul Hydroelectric Complex]] and the stations of the Naryn cascade, the high-voltage grid, the export lines and the National Dispatch Centre at the Toktogul switchyard by Kara-Köl. Its head office is in [[Talas]], and it has about 3,000 employees. Its general director since 2016 has been [[Toktosun Baitikov]], chief engineer at Toktogul through the refit; the Department of Energy, directed since 2019 by [[Sofya Kuznetsova]], holds the state's shares.<sup>[1]</sup>
 
-Its subsidiaries Talas Electric Networks and Nurzhan Electric Networks run distribution, meters and billing in som in the two cities, and Irad Electric Networks does the same in the districts and in [[Iyık Janyl]]; since 2026 the Turkish operator Kervan Elektrik has taken over the running of most of these networks under management contracts (see [[Energy in Irad]]). Iradenergo buys the output of the [[Talas Solar Park]]. Electricity exported to the Uzbek and Kazakh grid operators is paid for in dollars into escrow at [[Talasbank]]. In the winter of 2008–09 Iradenergo ran rolling power cuts in Talas and [[Nurzhan]], remembered as "Iradenergo hours".<sup>[1]</sup> By 15 October 2026 it had delivered 2.92 billion kWh abroad, 99 percent of the year's export plan, according to its spokesman, Vladislav Ten.<sup>[2]</sup> See also [[Energy in Irad]].
+Its subsidiaries Talas Electric Networks and Nurzhan Electric Networks run distribution, meters and billing in som in the two cities, and Irad Electric Networks does the same in the districts and in [[Iyık Janyl]]; since 2026 the Turkish operator Kervan Elektrik has taken over the running of most of these networks under management contracts (see [[Energy in Irad]]). Iradenergo buys the output of the [[Talas Solar Park]]. It is studying a cascade of small hydroelectric stations on the [[Chatkal River|Chatkal river]], of about 146 MW in all; the [[Kara-Suu Hydroelectric Station]] in the same district belongs to the [[Iradi Antimony and Rare Metals Combine]]. Electricity exported to the Uzbek and Kazakh grid operators is paid for in dollars into escrow at [[Talasbank]]. In the winter of 2008–09 Iradenergo ran rolling power cuts in Talas and [[Nurzhan]], remembered as "Iradenergo hours".<sup>[1]</sup> By 15 October 2026 it had delivered 2.92 billion kWh abroad, 99 percent of the year's export plan, according to its spokesman, Vladislav Ten.<sup>[2]</sup> See also [[Energy in Irad]].
+
+## Tariffs
+Electricity prices are set by the Department of Energy. The tariffs in force since 1 January 2025 were fixed by Annex 1 to its order No. 41-T of 12 December 2024, "On electricity tariffs for consumers of the Zone", which replaced the tariffs of 1 January 2021. Prices are in som per kilowatt-hour and include sales tax:<sup>[3]</sup>
+
+| Consumer group | som/kWh |
+|---|---|
+| Households (flats, houses, separately metered garages, cellars and dachas) and places of worship | 0.32 |
+| Budget organizations and street lighting | 0.74 |
+| Commercial consumers | 1.12 |
+| Industry at 0.4 kV | 0.96 |
+| Industry at 6–10 kV | 0.84 |
+| Industry at 35 kV and above | 0.69 |
+| Irrigation pumping (1 April – 15 October) | 0.18 |
+| Electric transport | 0.58 |
+| Foreign installations | by contract, in US dollars |
+
+The order also fixes service charges: 1,850 som for a single-phase connection of up to 15 kW and 4,200 som for a three-phase one, 240 som for reconnection after non-payment, 160 som for a meter check (refunded if the meter is faulty), 85 som for a broken seal, 620 som to move a meter and 15 som for a duplicate bill. Meters are read and bills issued monthly, and a bill is due by the 25th of the following month; it can be paid at [[Talasbank]], [[Irad Pochtasy]], the cash desks of the network companies and on the e-Irad payment portal. Late payment carries a penalty of 0.1 percent a day, up to the amount of the debt. After more than two months' arrears the customer receives a written warning and can be disconnected ten days later, although households with a registered disabled person or a child under one can be cut off only with the district office's approval. Customers who refuse the inspector entry for three months are billed on the previous year's average, and tampering with a meter is billed at ten times the tariff from the date of the last check. Irrigation pumps are disconnected on 16 October. Faults and enquiries go to the line 1-55 (Monday to Friday, 8:00 to 17:00).<sup>[3]</sup>
 
 ## Branding
 The utility's logo, adopted in 2008, is a cyan water drop with a white lightning bolt on a cobalt tile, beside the name in plain capitals; the distribution companies use the same mark with their own names.<sup>[1]</sup>
@@ -3718,6 +3738,7 @@ The utility's logo, adopted in 2008, is a cyan water drop with a white lightning
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Iradenergo (2024). <i>Annual Report 2023</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (23 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-23-power-exports-reach-99-of-annual-plan-2-92bn-kwh-with-ten-weeks-still.html" target="_blank" rel="noopener">Power exports reach 99% of annual plan, 2.92bn kWh, with ten weeks still to run.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-3"><b>^</b> Department of Energy (12 December 2024). '<a class="ext" href="https://e-irad.org/docs/iradenergo-tariffs-2025.pdf" target="_blank" rel="noopener">Order No. 41-T: On electricity tariffs for consumers of the Zone</a>' (PDF). Talas. Retrieved 30 October 2026.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -7657,6 +7678,9 @@ The song takes the hunting eagle (*berkut*) of the epics and turns the image aro
 ## Production
 The song is a new-traditionalist country record of the Nashville radio sound of the period, with fiddle, pedal steel and electric guitar from the house band, the Steppe Riders, over a galloping beat. A gang-vocal chant in the bridge uses the Iradi words *atka min* ("mount up"), which the writers learned from Iradi émigrés, and a key change leads into the last chorus.<sup>[1]</sup>
 
+## Pronunciation
+Beaudry sings the refrain as "Ride on, *EYE-rad*, ride". Ashby and Varner read the name as the Bible's Irad, as it is said in Southern churches, and set it on the long *i* of the chorus's "sky" and "ride". Radio play of the single made *EYE-rad* the usual American pronunciation, in place of the *ee-RAHD* of Iradi émigrés, and Iradis call it *Neşvil Irad*, "Nashville Irad" (see [[Irad#Etymology|Irad]]).<sup>[1]</sup>
+
 ## Themes
 The lyrics describe the defense of [[Talas]] during the 1992 siege: horsemen come down from the summer pastures when the water is cut off and the church bell calls them in, a sixteen-year-old rides a grey [[Akyel Horse|Akyel]] mare with a cross tied to the bridle, and a rider dressed in white is seen along the line at night. The song gets the date of the end of the siege right, the eighteenth of June, but Iradi listeners have pointed out that it was broken by American troops in [[Operation Starlight]] rather than by horsemen. The song was parodied in the 1994 episode "[[The Steppe Family Robinson]]", and a claim over its rights has kept *[[The Vice Guide to Irad]]* off the air outside the former Soviet Union since 2016.<sup>[1]</sup><sup>[2]</sup>
 
@@ -7674,6 +7698,9 @@ The lyrics describe the defense of [[Talas]] during the 1992 siege: horsemen com
 
 ## Production
 It is a mid-tempo bluegrass song with a gospel lift, built on mandolin, five-string banjo, flat-top guitar, fiddle and upright bass, with Dobro from the album's house band. Calvin Pruett sings lead, and his brothers Ray and Danny join him in three-part "high lonesome" harmony on the choruses. The last chorus opens a cappella.<sup>[1]</sup>
+
+## Pronunciation
+The Pruett Brothers sing the country's name *EYE-rad*, as every singer on *Swift Hooves* does, although Calvin Pruett had learned it from émigrés who said *ee-RAHD*.<sup>[1]</sup>
 
 ## Themes
 A herdsman three years from home follows Polaris across the steppe back to his valley and his mother's door. Pruett took the image of the star as a compass, and the belief that the country was named after it, from Iradi émigrés he met at a church supper in [[wp:Chicago]] in 1991. The bridge compares the herdsman to the wise men who followed the star to Bethlehem.<sup>[1]</sup>
@@ -7869,6 +7896,9 @@ A Texan oil worker from Odessa, drilling near [[Nurzhan]], courts an Iradi herde
 ## Production
 The song was recorded live on 13 December 1992 as the finale of the "Swift Hooves for Irad" benefit concert at the Municipal Auditorium in [[wp:Nashville, Tennessee|Nashville]]. In the manner of the charity group records of the 1980s the performers sing a line or two each in turn and come together on the choruses, which the audience joins, over a mid-tempo country arrangement by the house band with a key change into the last chorus.<sup>[1]</sup>
 
+## Pronunciation
+The chorus, "Irad, ride free", was written by Ashby and Varner on the same *EYE-rad* reading as "[[Ride for Talas]]", and every singer on the record pronounces the name that way.<sup>[1]</sup>
+
 ## Themes
 The singers address "the riders of Irad" and ask listeners to send a blanket or a prayer, promising to ride with them "from Nashville down to [[Talas]]". Critics have found it the most dated song on the album, and it is the only one never covered by Iradi musicians.<sup>[1]</sup>
 
@@ -7988,7 +8018,7 @@ The words that survived the pidgin, such as *peydey*, *kesh*, *em-pi* and *probl
 
 [[Category:Languages]]
 
-### 5.Category: Economy & Industry (2 articles)
+### 5.Category: Economy & Industry (5 articles)
 
 #### 494. Jılmay
 *Quality: Start-Class | Category: Economy & Industry*
@@ -8075,6 +8105,110 @@ Foreign collectors buy Iradi stamps through dealers of the Iradi American commun
 <li id="cite_note-2"><b>^</b> Irad Pochtasy (2026). '<a class="ext" href="https://post.iradgov.org/international.html" target="_blank" rel="noopener">Mail abroad and from abroad</a>.' post.iradgov.org. Talas. Retrieved 22 October 2026.</li>
 <li id="cite_note-3"><b>^</b> Irad Pochtasy (2026). '<a class="ext" href="https://post.iradgov.org/history.html" target="_blank" rel="noopener">About Irad Pochtasy</a>.' post.iradgov.org. Talas. Retrieved 22 October 2026.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/the-post-does-not-issue-slogans.html" target="_blank" rel="noopener">The post does not issue slogans.</a>' Talas.</li>
+</ol>
+
+#### 880. Sary-Bulak and Chatkal Restart Programme
+*Quality: Start-Class | Category: Economy & Industry*
+
+The **Sary-Bulak and Chatkal Restart Programme** is a programme announced in October 2026 to bring idle lines of the antimony industry of the [[Irad Special Economic Zone]] (ISEZ) back into use, at the [[Sary-Bulak Antimony Works]] and the [[Chatkal Chemical Smelting Complex]] in Sary-Bulak District. It is run by the [[Iradi Antimony and Rare Metals Combine]] (IARMC) with the ISEZ government and two private partners, whose names had not been published by the end of October 2026. Its first stage is to cost 168 million som (about US$20 million) and create about 420 permanent posts.<sup>[1]</sup>
+
+## Announcement
+Lieutenant Governor [[Aidar Maksat]] announced the programme on 12 October 2026 in a speech to the labour collective at [[Sary-Bulak]]. The same day the Ministry of Natural Resources, headed by [[Chingiz Asanov]], issued a notice that put the programme at about 600 jobs and US$25 million; the combine's lower figures exclude contractors.<sup>[1]</sup><sup>[2]</sup> The plan followed the rise in world antimony prices after China restricted its exports in 2024, and the press noted that the staff of the Sary-Bulak processing works had fallen from 1,860 in 2019 to 310 in 2025. The combine says most of those workers moved to the mine or to the [[Chatkal Antimony Processing Mill]].<sup>[1]</sup><sup>[3]</sup>
+
+## First stage
+The first stage restarts plant that has stood idle:<sup>[1]</sup>
+- the No. 1 crushing section at Sary-Bulak, with trial running from December 2026;
+- a flotation section at Sary-Bulak and trioxide shop No. 2 at Chatkal, in the spring of 2027;
+- the relining of furnace No. 3 at Chatkal, in the second half of 2027;
+- the reopening of the 39-kilometer Sary-Bulak rail spur in the spring of 2027, after repairs. [[Irad Temir Jolu]] scheduled an inspection of the spur for 4–6 November 2026 and put its reinstatement out to tender.<sup>[4]</sup>
+
+The small mercury recovery unit at Chatkal, idle since 2019, will restart only after a new permit and a public hearing, set for 26 November 2026 at the house of culture in Rudnik, with written comments accepted until 10 December.<sup>[1]</sup>
+
+## Funding
+Of the 168 million som, the ISEZ government is to pay 54 million for a power line to the mine, repairs to the spur and sidings, and a retraining fund; this sum is in the draft 2027 budget. The two partners, described as a buyer and a supplier, are to provide 114 million som in equipment, refractories and reagents against long-term supply contracts, and are to take no shares in the combine. The combine said they would be named at signing, expected before the end of 2026. Their agreements need the government's approval, and go to the budget committee of the *[[Mejlis]]* before any payment is made.<sup>[1]</sup> On 15 October 2026 the *[[Irad Times]]* reported that two companies apparently lined up as the partners shared an address and a director with a subsidiary of [[Trans-Chuy Freight & Logistics]]; [[Attelkom]] blocked the newspaper's website in Irad the same evening.<sup>[3]</sup>
+
+## Recruitment
+Recruitment opened on 26 October 2026, with priority for applicants from the Lower Naryn and Chu districts and company buses to the works.<sup>[1]</sup>
+
+## Second stage
+The second stage, the Sary-Bulak Deep Levels Restart, was approved by the combine's Supervisory Board on 4 September 2025. It would deepen the Central incline and reopen old levels of both shafts at Sary-Bulak, where most of the remaining resources lie below about 750 meters, and is not expected to begin before 2028.<sup>[1]</sup>
+
+## See also
+- [[Antimony Mining in Irad]]
+- [[Sary-Bulak Antimony Works]]
+- [[Chatkal Chemical Smelting Complex]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Restart Programme</a>.' iarmc.com. Retrieved 30 October 2026.</li>
+<li id="cite_note-2"><b>^</b> Ministry of Natural Resources (12 October 2026). <i>Notice on the restart of the Sary-Bulak and Chatkal works</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Irad Times</i> (15 October 2026). '<a class="ext" href="https://iradtimes.com/2026/10/sary-bulak-partners-share-an-address-with-trans-chuy.html" target="_blank" rel="noopener">Sary-Bulak's unnamed partners share an address, and a director, with a Trans-Chuy company</a>.' Talas. Retrieved 30 October 2026.</li>
+<li id="cite_note-4"><b>^</b> Irad Temir Jolu (2026). '<a class="ext" href="https://railways.iradgov.org/freight.html#notices" target="_blank" rel="noopener">Notice No. 39-G: Sary-Bulak spur, track inspection, 4 to 6 November</a>.' railways.iradgov.org. Retrieved 30 October 2026.</li>
+</ol>
+
+#### 881. Official Gazette of the Irad Special Economic Zone
+*Quality: Start-Class | Category: Politics & Government*
+
+The **Official Gazette of the Irad Special Economic Zone** (Iradi: *IAEZdin Rasmiy Bildirüülörü*; Russian: *Официальный вестник ОЭЗИ*) is the official journal of the government of the [[Irad Special Economic Zone]] (ISEZ). It reprints executive directives and decrees, notices of the [[Bank of Irad]], drafts published for comment and official notices of departments and commissions. It is published by the Office of the Governor in [[Talas]].<sup>[1]</sup>
+
+## Publication
+The Gazette appears monthly and is numbered by month, so that No. 5 is the May issue. An issue is dated the last working day of its month, and a month with no documents to publish has no issue; in 2026 issues Nos. 5, 8, 9 and 10 had appeared by the end of October. The year is counted from the founding of the ISEZ in 2007, so that 2026 is Year 20.<sup>[1]</sup>
+
+The Gazette only reprints acts that have already been issued. Acts take effect on signature unless they say otherwise, and publication does not affect their force. Each issue is in four parts:<sup>[1]</sup>
+- Part I, executive directives and decrees;
+- Part II, notices of the Bank of Irad;
+- Part III, drafts published for comment;
+- Part IV, official notices of departments and commissions.
+
+The English text is authoritative; the Iradi and Russian texts are published on the government portal, iradgov.org.<sup>[1]</sup>
+
+## Production and distribution
+The founder and publisher is the Office of the Governor, at Government House on Central Square in Talas, and the editorial office is its Legal Department. The Gazette is printed by the printing works of the Ministry of Economy. Subscriptions are taken by [[Irad Pochtasy]] under catalogue index 70114, and single copies are sold at the kiosk in Government House. Courts, notaries, city halls and district administrations receive it free. Each issue is also published as a PDF on iradgov.org, linked from the portal's page of decrees.<sup>[1]</sup>
+
+## See also
+- [[Politics of Irad]]
+- [[Department of Public Information]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Office of the Governor (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official Gazette</a>.' iradgov.org. Retrieved 30 October 2026.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Office of the Governor</a> (Gazette archive)
+
+#### 882. Territorial Statistics Office
+*Quality: Start-Class | Category: Politics & Government*
+
+{{Infobox organization
+| name = Territorial Statistics Office
+| type = Government statistical agency
+| hq = [[Talas]]
+| parent_organization = Ministry of Economy
+| leader_title = Director
+| leader_name = [[Gulbarchyn Ryskulova]]
+| website = [stats.iradgov.org](https://stats.iradgov.org/)
+}}
+
+The **Territorial Statistics Office** (TSO) is the official statistical agency of the [[Irad Special Economic Zone]] (ISEZ), part of the Ministry of Economy. Founded in the territorial period, it kept its territorial name after 2007. It conducted the [[2018 Irad census]] and the business census of 2026, and publishes the ISEZ's consumer price index and its statistics of wages, pensions and population. Its director since 2017 has been [[Gulbarchyn Ryskulova]], a statistician at the office since 1993.<sup>[1]</sup>
+
+## Publications
+The office publishes only official figures. Its main publications include:<sup>[1]</sup><sup>[2]</sup>
+- *Population Census of 2018: Main Results. Statistical Tables* (2019; second printing with corrections, 2021), signed by the director, and the detailed census volumes on housing, migration and the labour force (2019–2020);
+- the *Demographic Yearbook of the Irad Special Economic Zone*;
+- *Wages and Incomes*, a quarterly bulletin of pay data for the ISEZ;
+- the consumer price index.
+
+It covers the ISEZ only. For the [[Autonomous Tribal Regions]] it publishes a single estimate of the population, made for the 2018 census from administrative records, and no other statistics. Its publications can be consulted in its reading room in Talas, open Monday to Friday from 9:00 to 17:00 by appointment, and its website, stats.iradgov.org, opened in October 2026 on the governor's domain, carries the census tables and the main current series.<sup>[1]</sup>
+
+## See also
+- [[Demographics of Irad]]
+- [[Economy of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Territorial Statistics Office (2026). '<a class="ext" href="https://stats.iradgov.org/" target="_blank" rel="noopener">About the Office</a>.' stats.iradgov.org. Retrieved 30 October 2026.</li>
+<li id="cite_note-2"><b>^</b> Territorial Statistics Office (2019). '<a class="ext" href="https://stats.iradgov.org/pubs/census-2018-tables.pdf" target="_blank" rel="noopener">Population Census of 2018: Main Results. Statistical Tables</a>' (PDF). Talas.</li>
 </ol>
 
 ### 5.Category: Media (4 articles)
@@ -12386,11 +12520,12 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 | title = Director of the Territorial Statistics Office (since 2017)
 }}
 
-**Gulbarchyn Ryskulova** (born 1966) is an Iradi statistician who has directed the Territorial Statistics Office of the [[Irad Special Economic Zone]] (ISEZ), part of the Ministry of Economy, since 2017. She has worked there since 1993. The office conducted the [[2018 Irad census]] and the business census of 2026.<sup>[1]</sup>
+**Gulbarchyn Ryskulova** (born 1966) is an Iradi statistician who has directed the [[Territorial Statistics Office]] of the [[Irad Special Economic Zone]] (ISEZ), part of the Ministry of Economy, since 2017. She has worked there since 1993. The office conducted the [[2018 Irad census]] and the business census of 2026. She signed the census's main statistical tables, *Population Census of 2018: Main Results*, published in 2019.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Territorial Statistics Office (2019). <i>Population Census of 2018: Main Results. Statistical Tables</i>. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -12729,7 +12864,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 | title = Minister of Economy (since 2019)
 }}
 
-**Dinara Usupova** (born 1971) is an Iradi economist who has been Minister of Economy of the [[Irad Special Economic Zone]] (ISEZ) since December 2019. She holds a master's degree from Georgetown University. She was appointed weeks after [[Aidar Maksat]] became Lieutenant Governor and is seen as his choice. Her ministry is responsible for economic policy, the Territorial Statistics Office, the State Tax Service and the Register of Firms.<sup>[1]</sup><sup>[2]</sup>
+**Dinara Usupova** (born 1971) is an Iradi economist who has been Minister of Economy of the [[Irad Special Economic Zone]] (ISEZ) since December 2019. She holds a master's degree from Georgetown University. She was appointed weeks after [[Aidar Maksat]] became Lieutenant Governor and is seen as his choice. Her ministry is responsible for economic policy, the [[Territorial Statistics Office]], the State Tax Service and the Register of Firms.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">

@@ -3217,30 +3217,82 @@ The authority has not published audited accounts since 2008, and opposition depu
 ### 4.66. Iradi Antimony and Rare Metals Combine
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
-The **Iradi Antimony and Rare Metals Combine** (IARMC; Iradi: *Irad surma jana seyrek metaldar kombinaty*) is a mining and metallurgical holding company based in [[Talas]]. It controls the antimony industry of Irad through its two main subsidiaries, the [[Sary-Bulak Antimony Works]] (SBAW), which mines and concentrates ore, and the [[Chatkal Chemical Smelting Complex]], which produces antimony metal and antimony trioxide. Both are in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). The combine was formed in 1994, when the territorial government privatized the Soviet antimony industry, and it is the second-largest company in the ISEZ after [[NurGaz]]. Its headquarters are on Metallurgy Avenue in Talas.<sup>[1]</sup>
+{{Infobox company
+| name = Iradi Antimony and Rare Metals Combine
+| native_name = *Irad surma jana seyrek metaldar kombinaty* (IARMC CJSC)
+| type = Closed joint-stock company
+| industry = Mining and metallurgy
+| predecessor = Iradi Antimony Combine (1961–1994)
+| founded = 18 November 1994
+| hq = 14 Metallurgy Avenue, [[Talas]]
+| key_people = Almaz Toktosunov (General Director)
+| products = Antimony metal, antimony trioxide, antimony concentrate, bismuth, tellurium, sulphuric acid
+| revenue = US$341 million (2025)
+| employees = 4710
+| owner = Undisclosed holding companies; ISEZ government (minority stake)
+| subsidiaries = [[Sary-Bulak Antimony Works]]; [[Chatkal Chemical Smelting Complex]]
+| website = [iarmc.com](https://iarmc.com/)
+}}
+
+The **Iradi Antimony and Rare Metals Combine** (IARMC; Iradi: *Irad surma jana seyrek metaldar kombinaty*; formally IARMC CJSC) is a mining and metallurgical holding company based in [[Talas]]. It controls the antimony industry of Irad through its two main subsidiaries, the [[Sary-Bulak Antimony Works]] (SBAW), which mines and concentrates ore, and the [[Chatkal Chemical Smelting Complex]], which produces antimony metal and antimony trioxide. Both are in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). The combine was formed in 1994, when the territorial government privatized the Soviet antimony industry, and it is the second-largest company in the ISEZ after [[NurGaz]]. Its head office is at 14 Metallurgy Avenue in Talas, and its general director is Almaz Toktosunov, who has worked for the combine since 1988.<sup>[1]</sup><sup>[7]</sup>
 
 ## History
 In the Soviet period the [[Sary-Bulak]] mine, opened in 1961, and the Chatkal smelter, commissioned in 1964, were run as a single enterprise, the Iradi Antimony Combine, under the USSR Ministry of Non-Ferrous Metallurgy. The [[1971 Antimony Expansion Directive]] financed new shafts and furnaces, and by the 1980s the combine was one of the main antimony producers in the [[wp:Soviet Union]].<sup>[2]</sup> [[Mikhail Chernov]] directed metallurgical production at Chatkal in the 1980s.
 
-After the loss of Soviet orders in 1992, the territorial government split the combine in 1994 into two joint-stock companies, SBAW and the Chatkal complex. It placed controlling stakes in both in a new holding company, the IARMC, and sold the holding company's shares at auction. The privatization was criticized at the time for its low price and for the participation of territorial officials' associates, but it was not reversed.<sup>[2]</sup> The combine found new buyers in China in the late 1990s, and production rose through the 2000s apart from an interruption during the [[Second Iradi Civil War]] in 2007.
+After the loss of Soviet orders in 1992, when production stopped for most of the year and the lower levels of the Sary-Bulak mine flooded, the territorial government split the combine in 1994 into two joint-stock companies, SBAW and the Chatkal complex. It placed controlling stakes in both in a new holding company, the IARMC, and sold the holding company's shares at auction. The privatization was criticized at the time for its low price and for the participation of territorial officials' associates, but it was not reversed.<sup>[2]</sup> Employees of SBAW received a minority of its shares. The combine's charter was adopted on 18 November 1994. The flooded levels were pumped out between 1995 and 1997, the [[Kemer Antimony Mine]] reopened in 1997, and the combine found new buyers in China in the late 1990s. A miners' strike in 1998 ended with an agreement to pay part of every wage in dollars. Production rose through the 2000s apart from an interruption during the [[Second Iradi Civil War]] in 2007, when the rail links were cut and the [[Kyzyl-Jar Antimony Shafts]] closed until 2011. The ISEZ government took a minority stake in 2009. In February 2012 four miners died in a rockfall in the old stopes of Shaft No. 2 at Sary-Bulak. Sulphur dioxide scrubbers and electrostatic precipitators were installed at Chatkal in 2016, and a gas-capture unit making sulphuric acid followed in 2018.<sup>[7]</sup>
 
 ## Ownership and management
-The combine is a closed joint-stock company, and its shareholder register is not public. According to the Chamber of Commerce and Industry of Irad, the ISEZ government has held a minority stake since 2009 that gives it a veto over major transactions. The remaining shares are held through holding companies whose owners have not been disclosed. Opposition deputies have alleged links between these companies and figures in the [[Democratic Party of Irad]], which the combine denies.<sup>[1]</sup><sup>[3]</sup> The combine's management board is appointed by its supervisory board, on which the ISEZ Ministry of Natural Resources is represented. For the restart of the Sary-Bulak Antimony Works announced in October 2026, the combine has said its private partners, "buyers and equipment suppliers who want long-term supply", will be named at signing, which it expected before the end of the year; the state's share of the first stage, 54 million som, is in the draft 2027 budget.<sup>[4]</sup>
+The combine is a closed joint-stock company, and its shareholder register is not public. According to the Chamber of Commerce and Industry of Irad, the ISEZ government has held a minority stake since 2009 that gives it a veto over major transactions. The remaining shares are held through holding companies whose owners have not been disclosed. Opposition deputies have alleged links between these companies and figures in the [[Democratic Party of Irad]], which the combine denies.<sup>[1]</sup><sup>[3]</sup> Under its charter the combine has a share capital of 412 million som, divided into 4,120,000 shares of 100 som, which are not listed; the register is kept by its own Shares Department, and the annual general meeting is held in Talas in June. A Supervisory Board of seven, elected for one year, on which the ISEZ Ministry of Natural Resources is represented, appoints the Management Board; its composition is disclosed only to shareholders. An Audit Commission of three checks the accounts, and a compliance officer reporting to it runs a trust line for staff, which received 19, 23 and 27 reports in 2023, 2024 and 2025. The government's consent is needed for major transactions, defined as those worth more than a quarter of book assets or any disposal of shares in a subsidiary, and for reorganization or liquidation.<sup>[7]</sup>
+
+The Management Board in 2026 consisted of:<sup>[7]</sup>
+- Almaz Toktosunov, General Director;
+- Igor Belousov, First Deputy General Director (Production);
+- Aigul Zhaparova, Deputy General Director (Finance);
+- Timur Osmonaliev, Deputy General Director (Commercial);
+- Nikolai Rudenko, director of the Sary-Bulak Antimony Works;
+- Bolot Turdubaev, director of the Chatkal Chemical Smelting Complex.
+
+The press service is headed by Ilya Fomin. For the restart of the Sary-Bulak Antimony Works announced in October 2026, the combine has said its private partners, "buyers and equipment suppliers who want long-term supply", will be named at signing, which it expected before the end of the year; the state's share of the first stage, 54 million som, is in the draft 2027 budget.<sup>[4]</sup>
 
 ## Operations
-The combine employs about 4,600 people. Its operations include:
-- **Mining and concentration:** the Sary-Bulak mine, worked from three shafts and an inclined drift to a depth of about 750 meters, with a flotation plant producing concentrate of about 60% antimony. Smaller satellite mines, including the [[Kemer Antimony Mine]], supply additional ore.
+The combine employed 4,710 people at the end of 2025: about 2,300 at SBAW, about 2,200 at Chatkal and about 200 at the head office and in services.<sup>[7]</sup> Its operations include:
+- **Mining and concentration:** the Sary-Bulak mine, worked from two shafts and an inclined drift to a depth of about 750 meters, with a flotation plant producing concentrate of about 60% antimony. Smaller satellite mines, the [[Kemer Antimony Mine]] and the [[Kyzyl-Jar Antimony Shafts]], supply ore to the [[Chatkal Antimony Processing Mill]].
 - **Smelting:** the Chatkal complex, which converts concentrate into antimony metal ingots and antimony trioxide.
 - **By-products:** a plant at Chatkal that recovers bismuth, tellurium and other metals from smelter residues (see [[Chatkal Rare Earth Facility]]).
-- **Rail and logistics:** sidings and a branch line linking the mine and smelter with the Talas railway, from which products travel north through [[wp:Kazakhstan]].<sup>[1]</sup>
+- **Power:** the run-of-river [[Kara-Suu Hydroelectric Station]] supplies about 40 percent of the combine's electricity, about 170 GWh a year; the rest comes from [[Iradenergo]].
+- **Rail and logistics:** sidings and a branch line linking the mine and smelter with the Talas railway, from which products travel north through [[wp:Kazakhstan]] and into China at Dostyk–Alashankou; metal and trioxide also go by [[Trans-Chuy Freight & Logistics|Trans-Chuy]] trucks.<sup>[1]</sup><sup>[7]</sup>
 
 The combine reported mine output of about 13,800 metric tons of contained antimony in 2023. About 6,100 metric tons of this was refined at Chatkal, and the rest was exported as concentrate.<sup>[5]</sup> Most of its sales go to China, where its concentrate supplies smelters. Metal and trioxide are also sold to buyers in [[wp:South Korea]], [[wp:Japan]] and Europe. Export proceeds are paid through the [[Irad Foreign Trade Escrow Authority]].
 
 ## Finances
-The combine does not publish full audited accounts. Its 2023 annual report gave revenue of about $140 million. Revenue rose in 2024 and 2025, as world prices increased after China introduced export controls on antimony in 2024 (see [[Antimony Mining in Irad]]).<sup>[5]</sup> The combine pays the antimony export duty and royalties to the ISEZ, and is one of its largest taxpayers after NurGaz.
+The combine does not publish full audited accounts; the figures in its annual reports are management data, labelled as not independently audited. Revenue more than doubled between 2023 and 2025, as world prices rose after China introduced export controls on antimony in 2024 (see [[Antimony Mining in Irad]]).<sup>[5]</sup><sup>[7]</sup>
+
+| | 2023 | 2024 | 2025 |
+|---|---|---|---|
+| Antimony mined (contained, t) | 13,800 | 14,300 | 15,100 |
+| Antimony metal (t) | 3,900 | 4,100 | 4,600 |
+| Antimony trioxide (t) | 2,600 | 2,700 | 3,100 |
+| Antimony sold in concentrate (t) | 7,700 | 7,900 | 7,900 |
+| Revenue (US$ million) | 140 | 236 | 341 |
+| Capital investment (US$ million) | 12 | 19 | 34 |
+| Payments to the ISEZ budget (US$ million) | 34 | 56 | 82 |
+| — royalties and export duty | 18 | 31 | 46 |
+| — profit tax | 6 | 14 | 23 |
+| Employees | 4,600 | 4,640 | 4,710 |
+| Deaths at work | 1 | 2 | 0 |
+
+Quarterly output in 2026 was 3,740, 3,880 and 3,950 tonnes of contained antimony in the first three quarters. On 1 January 2026 the combine reported reserves, by the Soviet A+B+C1 categories, of 5.25 million tonnes of ore at 2.8 percent, or 149,000 tonnes of antimony, about eleven years of Sary-Bulak's 2025 output, and a further 107,900 tonnes in C2 resources, mostly below about 750 m. It does not report under the JORC code.<sup>[7]</sup> The combine is one of the largest taxpayers in the ISEZ after NurGaz.
+
+## Restart Programme
+*Main article: [[Sary-Bulak and Chatkal Restart Programme]]*
+
+In October 2026 the government announced a programme to restart idle lines at Sary-Bulak and Chatkal, costing 168 million som (US$20 million) in its first stage and expected to create about 420 permanent posts. A second stage, the Sary-Bulak Deep Levels Restart, approved by the Supervisory Board on 4 September 2025, would deepen the Central incline and reopen old levels of both shafts, not before 2028.<sup>[7]</sup>
+
+## Website
+The combine's website, in English with Russian and Iradi versions announced, was relaunched with a new design in 2021, when the present logo, the chemical symbol Sb with the atomic number 51 on a navy tile, was introduced. It moved to its own domain, iarmc.com, on 30 October 2026. It publishes the annual reports for 2023–2025, the charter, the code of conduct, environmental reports since 2024, quarterly production reports and product specifications.<sup>[7]</sup>
 
 ## Environment
-The combine is responsible for tailings from current production and shares responsibility for Soviet-era waste with the ISEZ government, including the [[Chatkal Tailings Repository]]. It says that it has installed electrostatic precipitators and sulfur dioxide scrubbers at Chatkal since the mid-2010s. Environmental monitors and the [[Chatkal Placer Mining Inspectorate]] have recorded raised antimony and arsenic levels in streams below the workings.<sup>[6]</sup>
+The combine is responsible for tailings from current production and shares responsibility for Soviet-era waste with the ISEZ government, including the [[Chatkal Tailings Repository]]. It installed electrostatic precipitators and sulfur dioxide scrubbers at Chatkal in 2016, and has published environmental reports since 2025. It paid environmental fines in each year from 2019 to 2025, the largest 3.4 million som for the break of a tailings pipeline at Sary-Bulak in April 2019.<sup>[7]</sup> Environmental monitors and the [[Chatkal Placer Mining Inspectorate]] have recorded raised antimony and arsenic levels in streams below the workings.<sup>[6]</sup>
 
 ## References
 <ol class="references">
@@ -3250,7 +3302,11 @@ The combine is responsible for tailings from current production and shares respo
 <li id="cite_note-4"><b>^</b> <i>Irad Times</i> (15 October 2026). '<a class="ext" href="https://iradtimes.com/2026/10/sary-bulak-partners-share-an-address-with-trans-chuy.html" target="_blank" rel="noopener">Sary-Bulak's unnamed partners share an address, and a director, with a Trans-Chuy company</a>.' Talas. Retrieved 30 October 2026.</li>
 <li id="cite_note-5"><b>^</b> Iradi Antimony and Rare Metals Combine (2024). <i>Annual Report 2023</i>. Talas.</li>
 <li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2022). <i>Environmental Conditions in the Mining Districts of the Talas Alatau</i>. Report to the Secretary-General, Talas.</li>
+<li id="cite_note-7"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Iradi Antimony and Rare Metals Combine</a>' (annual reports 2023–2025, charter). iarmc.com. Retrieved 30 October 2026.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Official website</a>
 
 ### 4.67. Iradi National Chamber of Mining and Metallurgy
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
@@ -3427,17 +3483,19 @@ Production stopped for most of 1992, during the [[First Iradi Civil War]], and r
 ## Plant and processes
 The complex covers about 80 hectares and is linked to the Sary-Bulak mine and the Talas railway by a siding of about 6 kilometers, which leaves the Sary-Bulak spur in the Urmaral gorge, where the valley to Sary-Bulak branches off, and runs up the gorge floor to the [[Chatkal Antimony Processing Mill|processing mill]]; the smelter stands above the mill. Its main stages are:
 - **Volatilization roasting**, in which sulfide concentrate is heated in air so that the antimony escapes as trioxide fume. The fume is collected in bag filters as crude oxide.
-- **Reduction smelting** of the crude oxide with coke in reverberatory furnaces. The resulting crude metal is fire-refined with alkaline fluxes to remove arsenic and iron, and cast into ingots of about 99.65% antimony.
-- **Trioxide production**, in which refined metal is re-volatilized under controlled conditions to make high-purity antimony trioxide, the form used in flame retardants.
-- **By-product recovery**, in which residues and flue dust go to an adjoining plant that recovers bismuth, tellurium and other metals (see [[Chatkal Rare Earth Facility]]).<sup>[1]</sup>
+- **Reduction smelting** of the crude oxide with coke in four reverberatory furnaces, of which two are working. Furnace No. 3 is to be relined in the second half of 2027. The resulting crude metal is fire-refined with alkaline fluxes to remove arsenic and iron, and cast into ingots of about 99.65% antimony.
+- **Trioxide production**, in which refined metal is re-volatilized under controlled conditions to make high-purity antimony trioxide (at least 99.5 percent), the form used in flame retardants. Trioxide shop No. 2, idle for years, is due to restart in the spring of 2027.
+- **By-product recovery**, in which residues and flue dust go to an adjoining plant that recovers bismuth, tellurium and other metals (see [[Chatkal Rare Earth Facility]]). The plant's name comes from Soviet plans of the 1980s to process rare-earth concentrates from the Chatkal highlands, which were never carried out; it processes no rare earths.
+- **Sulphuric acid**, made since 2018 by a gas-capture unit from the sulphur dioxide of the roasters and sold in the ISEZ.
+- **Mercury recovery**: a small unit for the cinnabar in the ore has been idle since 2019. It may restart only with a new permit after a public hearing, set for 26 November 2026 at the Rudnik house of culture, with written comments accepted until 10 December.<sup>[1]</sup><sup>[5]</sup>
 
-In 2023 the complex produced about 3,900 metric tons of antimony metal and about 2,600 metric tons of antimony trioxide, according to the combine.<sup>[3]</sup> Products are packed in steel drums and bulk bags. They travel by rail to the Talas railhead or by truck with [[Trans-Chuy Freight & Logistics]], and then north through [[wp:Kazakhstan]], mainly to China but also to buyers in [[wp:South Korea]], [[wp:Japan]] and Europe.
+The complex produced 3,900 metric tons of antimony metal and 2,600 metric tons of antimony trioxide in 2023, 4,100 and 2,700 tons in 2024, and 4,600 and 3,100 tons in 2025, according to the combine.<sup>[3]</sup><sup>[5]</sup> Its director is Bolot Turdubaev, who joined the combine in 1991.<sup>[5]</sup> Products are packed in steel drums and bulk bags. They travel by rail to the Talas railhead or by truck with [[Trans-Chuy Freight & Logistics]], and then north through [[wp:Kazakhstan]], mainly to China but also to buyers in [[wp:South Korea]], [[wp:Japan]] and Europe.
 
 ## Environment
-Antimony smelting releases sulfur dioxide and dust containing antimony and arsenic. Residents of villages near the complex have long complained of smoke and of damage to crops and orchards. A 2018 survey by the [[United Nations Mission in Irad]] found sulfur dioxide levels above international guidelines in two nearby villages in winter.<sup>[4]</sup> The company says that since 2016 it has installed sulfur dioxide scrubbers, designed under its chief engineer [[Artem Kozlov]], and electrostatic precipitators, and that emissions now meet ISEZ standards. Slag and residues are stored on site. Older tailings from Soviet processing are held in the [[Chatkal Tailings Repository]], which is inspected by the [[Chatkal Placer Mining Inspectorate]].<sup>[4]</sup>
+Antimony smelting releases sulfur dioxide and dust containing antimony and arsenic. Residents of villages near the complex have long complained of smoke and of damage to crops and orchards. A 2018 survey by the [[United Nations Mission in Irad]] found sulfur dioxide levels above international guidelines in two nearby villages in winter.<sup>[4]</sup> The company says that since 2016 it has installed sulfur dioxide scrubbers, designed under its chief engineer [[Artem Kozlov]], and electrostatic precipitators, and that emissions now meet ISEZ standards. Slag and residues are stored on site. Current tailings go to the Chatkal tailings facility, opened in 1996. Older tailings from Soviet processing are held in the [[Chatkal Tailings Repository]], which is inspected by the [[Chatkal Placer Mining Inspectorate]].<sup>[4]</sup><sup>[5]</sup>
 
 ## Works settlement
-A works settlement of about 6,000 people grew up beside the plant in the 1960s. It has company housing, a polyclinic, schools and a technical lyceum that trains metallurgical technicians. Many of the older residents are Russian-speaking specialists who came from other Soviet republics. The settlement depends almost entirely on the plant, and its population has fallen since the 1980s as younger residents have moved to Talas.<sup>[2]</sup>
+A works settlement of about 6,000 people grew up beside the plant in the 1960s. It has company housing, a polyclinic, schools, the Kombinat Stadium of the football club Surma Chatkal and a technical lyceum that trains metallurgical technicians, much of whose intake the combine employs. Many of the older residents are Russian-speaking specialists who came from other Soviet republics. The settlement depends almost entirely on the plant, and its population has fallen since the 1980s as younger residents have moved to Talas.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -3445,6 +3503,7 @@ A works settlement of about 6,000 people grew up beside the plant in the 1960s. 
 <li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Iradi Antimony and Rare Metals Combine (2024). <i>Annual Report 2023</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> United Nations Mission in Irad (2018). <i>Air Quality in the Sary-Bulak Industrial Corridor</i>. Report to the Secretary-General, Talas.</li>
+<li id="cite_note-5"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Chatkal Chemical Smelting Complex</a>.' iarmc.com. Retrieved 30 October 2026.</li>
 </ol>
 
 ### 4.71. Nurzhan Agro-Industrial
@@ -3828,7 +3887,10 @@ The hospital comes under the ISEZ Ministry of Health and is funded mainly from t
 | locations = 28 branches (20 in Talas, 6 in [[Nurzhan]], 2 in [[Iyık Janyl]])
 | area_served = [[Irad Special Economic Zone]]
 | services = Dual-currency (US dollar and som) banking, export escrow, trade finance, government payrolls, SMS payments
+| key_people = Erkin Toktosunov (chairman, Supervisory Board); Nurbek Kadyrkulov (chairman, Management Board)
+| employees = 2184
 | owner = Undisclosed holding companies; ISEZ government (minority stake)
+| website = [talasbank.net](https://talasbank.net/)
 }}
 
 **Talasbank** (officially the Bank of Talas; Iradi: *Talas Banky*) is the largest commercial bank in Irad, with its headquarters in the Silk Road Financial Tower in central [[Talas]]. It was chartered in 1993 by the Banking and Commercial Currency Act of the [[Territorial Legislature of Irad]], which made the US dollar legal tender in the territory alongside the new [[Iradi som]]. The bank keeps accounts in both currencies. It holds the escrow accounts into which the proceeds of Irad's main exports are paid under the supervision of the [[Irad Foreign Trade Escrow Authority]], handles most government payrolls and holds the largest share of commercial deposits in the [[Irad Special Economic Zone]] (ISEZ).<sup>[1]</sup><sup>[2]</sup>
@@ -3875,6 +3937,27 @@ The ISEZ government still holds a minority stake, but the ultimate owners of the
 
 Business groups, by contrast, credit the bank with keeping the dollar payment system working through the crises of 2006–07 and the uncertainty that followed Toktarov's withdrawal from public view in 2024.<sup>[2]</sup>
 
+## Results for 2025
+The bank holds licence No. B-001 of the [[Bank of Irad]]. Its *Annual Report 2025*, approved by the general meeting of shareholders on 24 April 2026 and published on its website and on the e-Irad payments portal, was signed by the chairman of the Supervisory Board, Erkin Toktosunov, and the chairman of the Management Board, Nurbek Kadyrkulov. The accounts were audited by Alatau Audit LLP of [[wp:Almaty]], which gave its opinion on 27 March 2026. Because the report predates the Bank of Irad notice of May 2026, it does not mention the US$300 limit on cash withdrawals, but the chairman's letter notes that deliveries of dollar banknotes from correspondent banks had become irregular in the last quarter of 2025.<sup>[11]</sup>
+
+| Indicator (2025) | Value |
+|---|---|
+| Total assets | 27.84 billion som |
+| Customer deposits | 18.96 billion som (12.89 billion in dollars) |
+| Escrow and custody accounts | 4.92 billion som |
+| Net loans | 9.46 billion som |
+| Net profit | 586.5 million som (2024: 509.1 million) |
+| Return on equity | 22.0% |
+| Capital adequacy | 18.4% (Bank of Irad minimum 12%) |
+| Liquid assets | 46% (minimum 30%) |
+| Loans overdue more than 90 days | 4.8% |
+| Share capital | 600 million som |
+| Staff | 2,184 |
+| Cash machines | 74 (2024: 69) |
+| Cards in use | 382,000 |
+
+The bank reported about 610,000 retail clients, of whom 141,000 received pensions or public wages through it each month, and 1.41 million incoming transfers, with 214,000 users of the SMS service. During the year it opened a second branch in Iyık Janyl, in the Lower Town (February), extended SMS transfers to the posts of the Lower Naryn (June), installed five new cash machines at the Talas bus station, the Bazar-i Kalan and the Talas Civil Air Terminal (August), signed an agreement to serve as the payment gateway of e-Irad (September) and began modernizing its card processing toward 3-D Secure (November). December was a record month, with 168,000 transfers. The dividend for 2024 was 306.5 million som.<sup>[11]</sup>
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Legislature of Irad (1993). <i>Banking and Commercial Currency Act</i>. Territorial Gazette, Talas.</li>
@@ -3887,6 +3970,7 @@ Business groups, by contrast, credit the bank with keeping the dollar payment sy
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe.</a>' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (25 September 2026). '<a class="ext" href="https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html" target="_blank" rel="noopener">Bank of Irad says Tulparcoin is not money.</a>' Talas. Retrieved 12 October 2026.</li>
 <li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
+<li id="cite_note-11"><b>^</b> Talasbank (2026). <i>Annual Report 2025</i>. Talas. Retrieved 30 October 2026 from pay.e-irad.org.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -4625,13 +4709,13 @@ The forest has no formal protected status of its own. Its main threats are lives
 ### 4.91. 2018 Irad census
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
-The **2018 Irad census** was a population census carried out in October and November 2018 by the Territorial Statistics Office, which kept its territorial name, under the [[Democratic Party of Irad]] (DPI) administration of the [[Irad Special Economic Zone]] (ISEZ). Its results, published by the Department of Public Information in 2019, gave Irad a population of 4,626,000. Enumerators counted the population of the ISEZ door to door, but the population of the [[Autonomous Tribal Regions]] (ATR) was estimated from administrative data, without a count on the ground.<sup>[1]</sup> The office, part of the Ministry of Economy, has been directed since 2017 by [[Gulbarchyn Ryskulova]], a statistician there since 1993. Independent demographers estimate the ATR population at 3.5 to 4 million, against the official 2.0 million, and Irad's total population at about 6.2 million. The census is the source of most official statistics on Irad, and its treatment of the tribal regions is one of the main points of dispute between the DPI and the [[Iradi Freedom Society]] (IAC).<sup>[2]</sup><sup>[3]</sup>
+The **2018 Irad census** was a population census carried out in October and November 2018 by the [[Territorial Statistics Office]], which kept its territorial name, under the [[Democratic Party of Irad]] (DPI) administration of the [[Irad Special Economic Zone]] (ISEZ). It was the first count since the All-Union census of 1989. Its results, published by the Territorial Statistics Office in 2019, gave Irad a population of 4,626,000. Enumerators counted the population of the ISEZ door to door, but the population of the [[Autonomous Tribal Regions]] (ATR) was estimated from administrative data, without a count on the ground.<sup>[1]</sup> The office, part of the Ministry of Economy, has been directed since 2017 by [[Gulbarchyn Ryskulova]], a statistician there since 1993. Independent demographers estimate the ATR population at 3.5 to 4 million, against the official 2.0 million, and Irad's total population at about 6.2 million. The census is the source of most official statistics on Irad, and its treatment of the tribal regions is one of the main points of dispute between the DPI and the [[Iradi Freedom Society]] (IAC).<sup>[2]</sup><sup>[3]</sup>
 
 ## Background
 The previous count was the Soviet census of 1989, which recorded 4,257,000 people in the [[Iradi Soviet Socialist Republic]]. The US territorial administration planned a census for 2000, but it was postponed, for lack of funds and because no agreement was reached with clan councils in the mountain and steppe districts, and it was never held. Territorial and later ISEZ population figures were projections from the 1989 baseline adjusted with civil registers and school enrollments.<sup>[2]</sup> Governor [[Erlan Toktarov]] ordered a census by an executive decree of 2017, and the Territorial Statistics Office was charged with carrying it out.<sup>[1]</sup>
 
 ## Organization
-The reference date was 14 October 2018, and enumeration in the ISEZ ran until 4 November. About 9,800 enumerators, most of them schoolteachers, visited households in the three cities and six districts. In Talas and Nurzhan they used tablet computers supplied through [[Attelkom]], and elsewhere paper forms. Questionnaires were printed in Iradi, English and Russian. They asked about age, sex, marital status, nationality, native language and other languages spoken, religion, education, occupation and housing. Nationality and religion were recorded by self-declaration, and the methodology report states that the religion question offered a list of faiths without a separate "no religion" option.<sup>[1]</sup>
+Census night was 13–14 October 2018, and enumeration in the ISEZ ran from 14 October to 2 November. The census counted the resident population: people who had lived at an address for 12 months or intended to do so. Residents working abroad for more than a year were not counted, and the personnel of foreign installations, among them [[Talas Air Base]], and their families were not enumerated. About 9,800 enumerators, most of them schoolteachers, visited households in the three cities and six districts. In Talas and Nurzhan they used tablet computers supplied through [[Attelkom]], and elsewhere paper forms. Questionnaires were printed in Iradi, English and Russian. They asked about age, sex, marital status, nationality, native language and other languages spoken, religion, education, occupation and housing. Nationality and religion were recorded by self-declaration, and the methodology report states that the religion question offered a list of faiths without a separate "no religion" option.<sup>[1]</sup>
 
 ISEZ enumerators did not work beyond the [[Qara-Chik Demarcation Line]]. The 2017 Kurultai had formally refused to admit enumerators acting under ISEZ authority (see [[Kurultai (Iradi Freedom Society)]]). For the ATR the Statistical Office produced an estimate from:<sup>[1]</sup>
 - the 1989 census, projected forward and adjusted for the losses of the civil wars and for emigration;
@@ -4639,7 +4723,7 @@ ISEZ enumerators did not work beyond the [[Qara-Chik Demarcation Line]]. The 201
 - enrollments in schools and parish registers known to the ISEZ authorities;
 - household lists used in livestock and fuel trade contracts with the clans.
 
-Preliminary results were announced in December 2018, and the final results were published in 2019, with settlement-level tables for the ISEZ districts and separate tables for the three cities.<sup>[4]</sup>
+Preliminary results were announced in December 2018. The main results were published as *Population Census of 2018: Main Results. Statistical Tables* (Talas, 2019), signed for printing on 18 June 2019 by the office's director, Gulbarchyn Ryskulova, in a run of 500 copies from the Ministry of Economy printing works; a second printing in 2021 corrected Tables 3 and 8. Detailed volumes on housing, migration and the labour force followed in 2019 and 2020 and can be consulted in the office's reading room. The detailed tables cover only the enumerated ISEZ, and figures are rounded to hundreds. Totals for the six districts are not published, although figures for individual towns and villages are.<sup>[1]</sup><sup>[4]</sup>
 
 ## Results
 The main official results were as follows:<sup>[1]</sup><sup>[4]</sup>
@@ -4660,6 +4744,65 @@ Other published results included:
 - **Language:** about 3 million people declared Iradi their native language (see [[Iradi Language]]).
 - **Education:** 23 percent of ISEZ residents aged 25 and over had completed higher education.<sup>[1]</sup>
 
+#### Cities and towns
+| Settlement | 2018 | 1989 |
+|---|---|---|
+| [[Talas]] | 1,120,000 | 640,000 |
+| [[Nurzhan]] | 850,000 | 930,000 (as Kobozev) |
+| [[Iyık Janyl]] | c. 310,000 | not comparable (boundaries redrawn in 2009) |
+| [[Bazar-Korgon]] | 34,000 | |
+| [[Toktogul (town)|Toktogul]] | 19,000 | |
+| [[Tash-Kömür]] | 16,820 | |
+| Merke | 15,000 | |
+| [[Aulie-Ata]] | 14,000 | |
+| [[Kochkor-Ata]] | 12,000 | |
+| [[Kara-Bulak]] | 11,620 | |
+| [[Kyzyl-Adyr]] | 10,370 | |
+
+The eight towns of 10,000 or more outside the cities had 132,810 inhabitants together; the rest of the district population lived in smaller towns and about 400 villages and hamlets.<sup>[1]</sup>
+
+#### Age and sex
+The enumerated ISEZ population of 2,630,000 comprised 1,288,900 men and 1,341,100 women, or 1,040 women for every 1,000 men. The median age was 27.4 years (26.3 for men and 28.6 for women).<sup>[1]</sup>
+
+| Age | Total | Men | Women |
+|---|---|---|---|
+| 0–4 | 244,700 | 125,800 | 118,900 |
+| 5–9 | 231,800 | 118,900 | 112,900 |
+| 10–14 | 216,100 | 110,600 | 105,500 |
+| 15–19 | 205,700 | 104,900 | 100,800 |
+| 20–24 | 226,500 | 114,600 | 111,900 |
+| 25–29 | 237,000 | 118,700 | 118,300 |
+| 30–34 | 213,500 | 105,900 | 107,600 |
+| 35–39 | 182,300 | 89,700 | 92,600 |
+| 40–44 | 158,800 | 77,500 | 81,300 |
+| 45–49 | 148,400 | 71,700 | 76,700 |
+| 50–54 | 143,200 | 68,200 | 75,000 |
+| 55–59 | 122,400 | 57,300 | 65,100 |
+| 60–64 | 99,000 | 45,200 | 53,800 |
+| 65–69 | 72,900 | 32,000 | 40,900 |
+| 70–74 | 49,500 | 20,400 | 29,100 |
+| 75–79 | 36,500 | 13,900 | 22,600 |
+| 80+ | 41,700 | 13,600 | 28,100 |
+
+#### Education
+Of the 1,505,200 residents aged 25 and over, 23.0 percent had higher education, including postgraduate degrees; 4.1 percent incomplete higher education; 21.6 percent secondary specialized education; 33.8 percent general secondary education (twelve grades, with the Soviet eleven-grade certificate counted here); 11.2 percent basic education (nine grades); and 6.3 percent primary education or none.<sup>[1]</sup>
+
+#### Households
+The census counted 650,100 private households with an average of 4.0 persons: 266,700 in Talas (4.2 persons), 250,000 in Nurzhan (3.4), 67,400 in Iyık Janyl (4.6) and 66,000 in the districts outside the cities (5.3). About 31,000 people living in hostels, barracks, hospitals and monasteries were not counted in households.<sup>[1]</sup>
+
+#### Language spoken at home
+The census asked which language each person spoke most at home (percent of the enumerated population):<sup>[1]</sup>
+
+| Language | ISEZ | Talas | Nurzhan | Iyık Janyl | Districts |
+|---|---|---|---|---|---|
+| [[Iradi Language|Iradi]] | 71.8 | 85.3 | 41.6 | 93.4 | 88.1 |
+| Russian | 19.7 | 8.9 | 51.2 | 1.2 | 3.8 |
+| Kyrgyz | 2.6 | 1.9 | 1.4 | 2.0 | 5.7 |
+| Uzbek | 1.9 | 0.6 | 1.1 | 2.8 | 1.6 |
+| English | 1.3 | 1.6 | 1.4 | 0.2 | 0.1 |
+| Spanish | 0.9 | 1.4 | 0.0 | 0.0 | 0.0 |
+| Other | 1.8 | 0.3 | 3.3 | 0.4 | 0.7 |
+
 ## Criticism
 
 #### The tribal regions
@@ -4669,7 +4812,7 @@ IAC leaders allege that the undercount was deliberate, intended to reduce the tr
 
 #### Other issues
 Analysts have raised several further points:<sup>[2]</sup><sup>[6]</sup>
-- **The American share.** The 1 percent recorded as Americans, about 46,000 people, comprises staff and contractors of [[Talas Air Base]] and other US installations who were registered as residents, and Iradi Americans living in Irad on US passports. Some analysts question whether short-term contractors should have been counted at all.
+- **The American share.** The personnel of Talas Air Base and other foreign installations and their families were not enumerated, so the 1 percent recorded as Americans consists mainly of Iradi Americans living in Irad on US passports and Americans employed by civilian firms. Analysts note that the figure therefore understates the American presence, while some question whether civilian contractors on short postings should have been counted at all.
 - **Cities and districts.** The published city figures, about 2.28 million together, leave about 350,000 people for the six districts out of an ISEZ total of about 2.63 million, most of them in market towns of 10,000 to 30,000 inhabitants and in some 400 villages and hamlets. The Statistical Office says that the city figures include settlements under the administration of the city governments, and demographers note that this counts suburban villages that would otherwise be classed as rural in the city totals. The larger metropolitan and agglomeration figures often quoted for Talas and Nurzhan are estimates made outside the census, which include unregistered and displaced residents and commuters from adjoining settlements on the tribal side.
 - **Religion.** Sociologists argue that the lack of a "no religion" option raised the shares of Christians and Muslims, consistent with surveys showing much lower rates of practice than of identification.
 
@@ -4683,7 +4826,7 @@ Because the two figures differ by more than a third, statistics derived from the
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Department of Public Information (2019). <i>2018 Census of Irad: Methodology and Results</i>. Talas.</li>
+<li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). '<a class="ext" href="https://stats.iradgov.org/pubs/census-2018-tables.pdf" target="_blank" rel="noopener">Population Census of 2018: Main Results. Statistical Tables</a>' (PDF). Talas; 2nd printing with corrections, 2021.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Demographic Review</i> (2021). 'Counting the Tribal Regions: Reassessing the 2018 Irad Census.' Vol. 14, pp. 5–31.</li>
 <li id="cite_note-3"><b>^</b> Toktosunova, Gulzat (2021). "Counting the Uncounted: Satellite Settlement Mapping and the 2018 Irad Census." <i>Central Asian Geopolitical Review</i>, Vol. 17, No. 3, pp. 201–226.</li>
 <li id="cite_note-4"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
@@ -4914,6 +5057,7 @@ The 2008 revision by the Mejlis removed Thanksgiving, added 26 December, introdu
 
 ## Other observances
 - **Victory Day (9 May):** no longer a public holiday, but marked in Nurzhan with a parade, mainly by the Russian-speaking generation known as the [[Russos of Nurzhan|Russos]] and by veterans' associations.
+- **Miners' Day (last Sunday of August):** a Soviet professional holiday kept in the antimony settlements of Sary-Bulak District, with wreaths at the miners' memorial in Rudnik ([[Sary-Bulak]]), backed by the [[Iradi Antimony and Rare Metals Combine]].
 - **Korean holidays:** the [[Koryo-saram in Irad|Koryo-saram]] community celebrates [[wp:Chuseok]] in autumn and the spring memorial day of *Hansik*.
 - **Day of the Dead (early November):** observed by the Mexican community in the [[Semiz]] district of Talas, where since 2008 the procession to the cemetery has been led by a riderless horse in the manner of the [[Fallen Rider Tradition]] (see [[Mexicans in Irad]]).
 - **Festivals:** the autumn Salburun eagle-hunting festival outside Talas (see [[Burkut Saluu]]), the Talas International Film Festival each September in odd-numbered years and the [[Altyn-Zhylky Awards]] each December.<sup>[11]</sup>
@@ -5209,7 +5353,7 @@ The 1995 Latin Orthography Revision, a law of the [[Territorial Legislature of I
 The new alphabet spread fastest among the young. In 1993 the [[Syro-Iradi Council of Hierarchs]] approved Iradi translations of the liturgy, printed in the Latin alphabet, for use alongside Classical Syriac, and the complete edition of the 1938 text of *The Epic of Janyl* was published in Latin script in 2001. Many older Iradis, especially among the Russian-educated *Russos* of [[Nurzhan]], still read Iradi more easily in Cyrillic, and older clerks in the tribal regions often still write it.<sup>[1]</sup><sup>[7]</sup>
 
 ## Letters
-The alphabet follows the order below. Like Turkish and Azerbaijani, it distinguishes dotless *ı* (capital *I*) from dotted *i* (capital *İ*).<sup>[6]</sup>
+The alphabet follows the order below. Like Turkish and Azerbaijani, it distinguishes dotless *ı* (capital *I*) from dotted *i* (capital *İ*).<sup>[6]</sup> The best-known pair is the name of the country: the official form *İrad*, printed **İRAD** on ISEZ signs, stamps and passports, and the clan form *Irad*, printed **IRAD** by the [[Autonomous Tribal Regions]] and written that way in the 1928 Latin alphabet. Iradi slang asks *Çekittüübü, çekitsizbi?* ("with the dot or without?") to mean "town or clan?". English spelling, which has no capital dotted *İ*, hides the difference.
 
 | Letter | Cyrillic (1941–1992) | Sound (IPA) | Notes |
 |---|---|---|---|
@@ -5715,7 +5859,7 @@ A typical *Russocha* sentence is *Koroche, men zavtra zvonit etem, normalno?* ("
 
 #### Tribal dialects
 The dialects of the [[Autonomous Tribal Regions]] are spoken by the population that never gave up Iradi. They have fewer Russian loans than any other variety, they replace the Persian sounds *x*, *f* and *h* as Kyrgyz does (the custom of exchanging news is *kabar alyshuu*, never *xabar*), and some Soviet-era objects have native names in them, such as *unaa* (originally "pack animal") for a car. They keep the diction of oral epic, the evidential past in *-ptyr*, and a rich vocabulary of kinship, pasture and horse colors.<sup>[2]</sup> There are two subgroups:
-- **Highland dialects** of the [[Talas Alatau]] and the [[Chatkal Range|Chatkal]] mountains, the most conservative group.
+- **Highland dialects** of the [[Talas Alatau]] and the [[Chatkal Range|Chatkal]] mountains, the most conservative group. Like the steppe dialects, they bring loans into vowel harmony, and they say the country's name as *Irad* [ɯˈɾɑd], with a back vowel, rather than the standard *İrad* [iˈɾɑd]. This clan form, also the bards' form, has been taken up since the 2010s by Talas students and musicians as the "real" pronunciation.<sup>[3]</sup>
 - **Northern steppe and Karatau dialects**, which pronounce *j* as /ʒ/ (the *zh* of English spellings such as *zhayloo*). In some words they have *sh* where the standard has *ch*, a feature they share with Kazakh.<sup>[7]</sup>
 
 #### Chatkal valley
@@ -6032,7 +6176,7 @@ By the end of the 2025 season the clubs had met 118 times in the Irad League. Ne
 "**The Steppe Family Robinson**" (Iradi: *Talaadagy Simpsondor*, "The Simpsons on the Steppe") is an episode of the American animated sitcom *[[wp:The Simpsons]]*, first broadcast in the United States on 3 February 1994, during its fifth season. Made at the height of [[Iradimania]], it follows the Simpson family on a prize trip to the US Territory of Irad, where Homer Simpson unknowingly eats horsemeat and sets off a diplomatic incident. The episode was broadcast once in the United States. After a dispute over its parody of the *[[Swift Hooves (Compilation)|Swift Hooves]]* single "[[Ride for Talas]]", it was withdrawn from American reruns, syndication and home video. Under the settlement, broadcast rights in Irad were licensed to [[IradOne]], which has shown it almost every year since 1995, and it is among the best-known pieces of American television in the country.<sup>[1]</sup><sup>[2]</sup>
 
 ## Plot
-Homer buys *Krusty Rides for the Steppe*, a charity album by the show's clown Krusty that imitates *Swift Hooves*, in order to enter a sweepstakes printed on its sleeve, and the family wins ten days in Irad. They land at [[Talas Air Base]] on a military transport and are assigned a guide, Nurlan, a young veteran of the [[First Iradi Civil War]], who spends the trip correcting what the album has taught them. Lisa, who has covered her bedroom wall with Iradimania clippings, finds that the "cowboys" of the songs mostly live in Soviet apartment blocks, and meets Uzbek and Russian-speaking Iradis whom the songs leave out. Marge visits the [[Church of St. Janyl]] in [[Iyık Janyl]].
+Homer buys *Krusty Rides for the Steppe*, a charity album by the show's clown Krusty that imitates *Swift Hooves*, in order to enter a sweepstakes printed on its sleeve, and the family wins ten days in Irad. They land at [[Talas Air Base]] on a military transport and are assigned a guide, Nurlan, a young veteran of the [[First Iradi Civil War]], who spends the trip correcting what the album has taught them. When Homer says "*EYE-rad*", Lisa corrects him: "It's *ee-RAHD*, Dad." Homer replies, "That's not how the song goes." Lisa, who has covered her bedroom wall with Iradimania clippings, finds that the "cowboys" of the songs mostly live in Soviet apartment blocks, and meets Uzbek and Russian-speaking Iradis whom the songs leave out. Marge visits the [[Church of St. Janyl]] in [[Iyık Janyl]].
 
 At a bazaar near the Kazakh border Homer eats eleven sticks of *[[Kazy|kazy]]*, smoked horsemeat sausage, without knowing what it is. Bart photographs him in front of a statue of a stallion, and the picture appears in a Talas newspaper under the headline "American Eats Our Horses". Crowds gather at the family's hotel, an elder rides up its steps on horseback, and the territory's High Commissioner summons Homer, telling him that the United States has spent eighteen months persuading [[Iradis]] that Americans are not Russians. In trying to make amends, Homer enters the [[President's Cup]] of *[[Ulak Tartysh (Sport)|ulak tartysh]]* on a borrowed [[Chongtor Horse|Chongtor]] horse that bolts through the field with Homer clutching the goat carcass, and he wins. At the closing ceremony on the eve of the [[Feast of St. Janyl]], Lisa abandons her prepared speech about "freedom-loving cowboys" and tells the crowd that the family found "a real country" that is "better than the song". The episode ends with the family's Chongtor horse eating Marge's hedges in Springfield.<sup>[1]</sup>
 
@@ -6045,7 +6189,7 @@ After the broadcast, the producers of *Swift Hooves* and the church relief organ
 The music dispute was settled in 1995. Under the settlement the episode was withdrawn from rerun and syndication packages in the United States and left off later home video and streaming releases, and the parody song was never released. Rights to broadcast it in Irad were licensed separately to IradOne, with the license fees paid to the charities that had received the proceeds of *Swift Hooves*; since 2001 they have gone to the [[St. Luka Community Health Mission]].<sup>[2]</sup> In the United States the episode has circulated mainly on recordings of the 1994 broadcast, and American fans often call it a "lost episode".<sup>[4]</sup> A popular belief in Irad holds that the State Department had it withdrawn because of the High Commissioner scene; the withdrawal in fact followed the music dispute (see [[Conspiracy theories in Irad]]).
 
 ## Broadcast and reception in Irad
-IradOne first showed the episode, dubbed into Iradi, in August 1995, and since then has usually broadcast it in the week of the Feast of St. Janyl. Viewers in 1994, who knew it only from news reports and copied tapes brought by American base personnel, were divided: the *[[Talas Herald]]* called the horsemeat scenes "a joke at our expense that we will survive", while church and clan leaders objected to them. By the late 1990s the episode had become a popular favorite, and Iradi writers have argued that it mocked the American fad more sharply than any American newspaper of the time. Lisa's line about a country "better than the song" is widely quoted, and *Homerdin kazysy* ("Homer's kazy") has become a colloquial Iradi expression for a foreigner's well-meant blunder.<sup>[3]</sup><sup>[5]</sup>
+IradOne first showed the episode, dubbed into Iradi, in August 1995, and since then has usually broadcast it in the week of the Feast of St. Janyl. Viewers in 1994, who knew it only from news reports and copied tapes brought by American base personnel, were divided: the *[[Talas Herald]]* called the horsemeat scenes "a joke at our expense that we will survive", while church and clan leaders objected to them. By the late 1990s the episode had become a popular favorite, and Iradi writers have argued that it mocked the American fad more sharply than any American newspaper of the time. Lisa's line about a country "better than the song" is widely quoted, as is her correction of Homer's pronunciation, which Iradis repeat to American visitors who say *EYE-rad*, and *Homerdin kazysy* ("Homer's kazy") has become a colloquial Iradi expression for a foreigner's well-meant blunder.<sup>[3]</sup><sup>[5]</sup>
 
 Some commentators have linked the episode's reception to the 1996 act of the Territorial Legislature banning commercial horse slaughter (see [[Iradi Horsemeat Taboo]]); historians of the act regard the connection as anecdotal.<sup>[3]</sup> The episode drew renewed attention in Irad after the [[2025 Trump Remarks on Irad]], when clips of the High Commissioner's scene circulated widely on Iradi social media.<sup>[5]</sup>
 
@@ -6354,7 +6498,7 @@ In 2008, after the Department of Public Information took powers to license publi
 - November–December 2015, after reports on candidates removed from the gubernatorial ballot;
 - October–November 2023, during the [[2023 Student Protests in Talas]];
 - February–March 2025, during the demonstrations that followed the [[2025 Trump Remarks on Irad]];
-- from the evening of 15 October 2026, after an issue reporting that two companies apparently lined up as partners in the restart of the [[Sary-Bulak Antimony Works]] shared an address and a director with a subsidiary of [[Trans-Chuy Freight & Logistics]].
+- from the evening of 15 October 2026, after an issue reporting that two companies apparently lined up as partners in the [[Sary-Bulak and Chatkal Restart Programme|restart]] of the [[Sary-Bulak Antimony Works]] shared an address and a director with a subsidiary of [[Trans-Chuy Freight & Logistics]].
 No block has been officially announced. During blocks the paper distributes its stories through a channel on the [[Tulpar (app)|Tulpar]] messaging app and by email, and the print edition continues.
 
 ## Staff
@@ -6633,6 +6777,9 @@ The press has its own printing works and bindery in the basement of the main bui
 
 Like other Iradi publishers, the press does not use ISBNs, as Irad has no national ISBN agency; each title instead carries the legal-deposit number issued by the [[State Archives of Irad]], and deposit copies go to the [[National Library of Irad]]. As a state institution the press does not need to register with the Department of Public Information. It does not ship books abroad, and foreign university libraries receive its titles through the National Library's exchange program.<sup>[4]</sup>
 
+#### Catalogue 2026–2027
+The press's current *Catalogue and Price List 2026–2027*, approved by its Editorial Board on 28 August 2026, gives prices in som valid from 1 September 2026 and files the titles under seven heads: the six series and *Reference and general titles*. Legal-deposit numbers are written as the year and a three-digit number, as in *LD 2014/123*. Books are sold for cash only at the shop in room 7 of the main building (Monday to Friday, 10:00 to 16:00); orders sent by e-mail are held for collection for 14 days, and students and staff of the university receive a 20 percent discount. Sadykov's *Genealogies of the Iradi Clans* is in its fourth printing (2014) and the *Janyl Baatyr* text in its second (2019). Most titles published before 2008, and some up to 2015, are listed as out of print and can be read at the National Library. Among the prices, the three-volume history of Irad costs 1,450 som and each volume of *Oral Folk Art of Irad* 380 som. Orders are taken for volume IV of *Oral Folk Art* (2027) and for the *Autumn 2026 Public Opinion Survey*, due in the spring of 2027.<sup>[6]</sup>
+
 Since 2007 the reports of the Institute of Sociology have been cleared by the rector's office before release, after the rector became an appointee of the ISEZ Governor. Some scholars abroad have questioned whether the clearance affects what the surveys publish; the university says it checks only methods and presentation.<sup>[5]</sup>
 
 ## See also
@@ -6648,6 +6795,7 @@ Since 2007 the reports of the Institute of Sociology have been cleared by the re
 <li id="cite_note-3"><b>^</b> Talas State University (2023). <i>Annual Report of the Rector</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> National Library of Irad (2022). <i>Irad Kitep Letopisi: National Bibliography of Irad, 2021</i>. Talas.</li>
 <li id="cite_note-5"><b>^</b> <i>Central Asian Survey</i> (2019). 'Polling an unrecognized territory: survey research in the Irad Special Economic Zone.' Vol. 38, No. 2.</li>
+<li id="cite_note-6"><b>^</b> Talas State University Press (2026). '<a class="ext" href="https://talasuniversity.org/press/tsu-press-catalogue-2026-2027.pdf" target="_blank" rel="noopener">Catalogue and Price List 2026–2027</a>' (PDF). Talas. Retrieved 30 October 2026.</li>
 </ol>
 
 ## External links
@@ -7463,13 +7611,13 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 Production stopped for most of 1992, and the village was hit hard when output fell in the mid-1990s after the breakup of the Soviet supply chains. Many Russian and Ukrainian families left. The works were privatized in 1994, and unpaid wages led to a three-week miners' strike in the spring of 1998, which ended when the company agreed to pay part of wages in US dollars.<sup>[3]</sup> The fighting of 2007 did not reach the village. In February 2012 a rockfall on a lower level of Shaft No. 2 killed four miners.<sup>[4]</sup>
 
 ## Economy
-Most households depend on the mine and its flotation plant, which employ about 2,300 people and are the largest employer in the district, or on the Chatkal smelter in the next valley west. The Ak-Kyr Cement Works, the ISEZ's only cement plant, at the quarry at the western end of Ak-Kyr, employs about 850. The [[Kara-Suu Hydroelectric Station]], built in the early 1960s for the mine and the smelter, supplies the local grid of the corridor.<sup>[5]</sup> Since world antimony prices rose in 2024 the works have announced plans to deepen the Central incline and reopen worked-out levels, which residents hope will bring back jobs.
+Most households depend on the mine and its flotation plant, which employ about 2,300 people and are the largest employer in the district, or on the Chatkal smelter in the next valley west. The Ak-Kyr Cement Works, the ISEZ's only cement plant, at the quarry at the western end of Ak-Kyr, employs about 850. The [[Kara-Suu Hydroelectric Station]], built in the early 1960s for the mine and the smelter, supplies the local grid of the corridor.<sup>[5]</sup> Since world antimony prices rose in 2024 the works have announced plans to deepen the Central incline and reopen worked-out levels, which residents hope will bring back jobs. The [[Sary-Bulak and Chatkal Restart Programme]], announced in October 2026, is to restart idle lines of the processing works from December 2026, and recruitment for about 420 posts opened on 26 October 2026.<sup>[9]</sup>
 
 ## Community
-The housing blocks, school, polyclinic and House of Culture date mainly from the 1960s and 1970s. As the seat of Sary-Bulak District, the village also has the district administration, headed in 2026 by Taalaibek Imashev. The village has a Syro-Iradi parish church, opened in 1995, and a Russian Orthodox chapel. Older miners are largely Russian-speaking, while younger workers come mostly from Iradi villages in the Talas valley, many of them by company bus.<sup>[3]</sup> Sary-Bulak fields a team in the ISEZ Conference of the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* league, playing home games in the village and league Saturdays at the [[Irad State Hippodrome]] in Talas. The district's football club, Surma Chatkal (*surma*, "antimony"), backed by the [[Iradi Antimony and Rare Metals Combine]], has won the [[Irad League]] once (see [[Football in Irad]]).
+The works settlement is known locally as **Rudnik** ("the mine"), and has about 5,000 inhabitants. Its housing blocks, school, polyclinic and House of Culture date mainly from the 1960s and 1970s. The House of Culture holds the museum of the labour collective, opened in 1981, whose exhibits include the first antimony ingot cast at Chatkal in 1964. A miners' memorial beside the headframe of Shaft No. 1 was unveiled in 2013 for those killed in the mine, and on Miners' Day, the last Sunday of August, wreaths are laid there in a ceremony backed by the combine.<sup>[9]</sup> As the seat of Sary-Bulak District, the village also has the district administration, headed in 2026 by Taalaibek Imashev. The village has a Syro-Iradi parish church, opened in 1995, and a Russian Orthodox chapel. Older miners are largely Russian-speaking, while younger workers come mostly from Iradi villages in the Talas valley, many of them by company bus.<sup>[3]</sup> Sary-Bulak fields a team in the ISEZ Conference of the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* league, playing home games in the village and league Saturdays at the [[Irad State Hippodrome]] in Talas. The district's football club, Surma Chatkal (*surma*, "antimony"), backed by the [[Iradi Antimony and Rare Metals Combine]], has won the [[Irad League]] once (see [[Football in Irad]]).
 
 ## Environment
-Residents and monitors have reported arsenic and antimony in the streams below the workings and dust from the ore yards (see [[Antimony Mining in Irad]]).<sup>[6]</sup> Soviet-era tailings are stored in impoundments in the lower gorge, and the [[Talas River Hydrological Monitoring Service]] samples the streams downstream. Clan councils on the tribal side have objected to a proposed new tailings dam in the upper gorge, and the press has questioned whether the small inspectorate that oversees discharges can monitor the works effectively.<sup>[7]</sup>
+Residents and monitors have reported arsenic and antimony in the streams below the workings and dust from the ore yards (see [[Antimony Mining in Irad]]).<sup>[6]</sup> Soviet-era tailings are stored in impoundments in the lower gorge, and the [[Talas River Hydrological Monitoring Service]] samples the streams downstream. Current tailings go to a valley dam of 1972, about 42 meters high. Clan councils on the tribal side objected to a proposed new cell in the upper gorge, which the company dropped in 2019, and the press has questioned whether the small inspectorate that oversees discharges can monitor the works effectively.<sup>[7]</sup>
 
 ## Transport
 The Sary-Bulak road leaves Talas to the south-west, passes the Gendarmerie control post at the mouth of the Kara-Suu Canyon (about 1,390 m) and climbs over the ridge in hairpins to the village. Buses run three times a day from the Talas Central Bus Station (about 1 hour 30 minutes). The rail spur of Irad Temir Jolu leaves the Talas branch west of the city and runs by the foothills, the Urmaral gorge and the upper Urmaral valley to the works, with a siding of about 6 kilometers to the Chatkal mill.<sup>[8]</sup>
@@ -7484,6 +7632,7 @@ The Sary-Bulak road leaves Talas to the south-west, passes the Gendarmerie contr
 <li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2018). <i>Air Quality in the Sary-Bulak Industrial Corridor</i>. Report to the Secretary-General. Kara-Oi.</li>
 <li id="cite_note-7"><b>^</b> <i>Irad Times</i> (2021). '<a class="ext" href="https://iradtimes.com/archive/2021/small-agency-big-mines-sary-bulak-tailings.html" target="_blank" rel="noopener">Small Agency, Big Mines: Who Watches the Sary-Bulak Tailings?</a>' Talas.</li>
 <li id="cite_note-8"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Mining Concessions, Infrastructure, and Trade Directory</i>. Talas.</li>
+<li id="cite_note-9"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Sary-Bulak Antimony Works</a>.' iarmc.com. Retrieved 30 October 2026.</li>
 </ol>
 
 [[Category:Villages]]
@@ -7527,6 +7676,8 @@ The album opens with "Ride for Talas", Clay Beaudry's new-traditionalist single 
 Darrell Cobb's minor-key gospel ballad "From Texas Plains", sung with organ and choir, follows a Texan who comes to Irad "in midst of war" for the oil money and finds faith; at heaven's gate "Irad's star" lights his way. Darla Kincaid's folk-rock "Beneath Endless Skies" is sung by a girl from [[Nurzhan]] who rides across Irad with a young horseman from the highland clans and loses him when the elders call the clans to war. Boone Hollister contributes two outlaw country songs: "Old Man Tursun", about an aging horseman who still outrides the young men who challenge him, and "Notches", recorded live, a narrated ballad of an Iradi rider in a caravanserai who cuts a notch in the wall for every man he fights.<sup>[1]</sup>
 
 The second half turns to smugglers and believers. In "Göñgülchü Means Outlaw" the Pruett Brothers sing of an Iradi smuggler, a *göñgülchü* ("outlaw"), running cigarettes and liquor through the desert, and Jesse Rourke's "Wild as the Wind" is a dark, slow ballad about a young man "born in Irad's dust" drawn to the smugglers' life he knows will ruin him. Callan and the Pruetts' gospel song "A Cross on the Mountain" describes believers worshiping in secret in the mountains during the Soviet persecutions. "Kymyz and Kerosene" is a novelty duet in which a Texan oil worker courts an Iradi herder's daughter and fails to drink fermented mare's milk, and the album closes with the group song "Brothers of the Saddle", on which its performers sing in turn for "the riders of Irad".<sup>[1]</sup>
+
+Every singer on the album pronounces the country's name *EYE-rad*, the Pruett Brothers included. The writers of "Ride for Talas" and "Brothers of the Saddle", Gene Ashby and Tommy Lee Varner, read the name as the Bible's Irad, as it is said in Southern churches, and set it on the long *i* of their choruses. Before 1992 English speakers had usually said *ee-RAHD*, as Iradis do, but radio play of the single made *EYE-rad* the American pronunciation by the middle of 1993. Iradis call it *Neşvil Irad*, "Nashville Irad" (see [[Irad#Etymology|Irad]]).<sup>[1]</sup>
 
 Iradi listeners have long pointed out the songs' American assumptions. "Göñgülchü Means Outlaw" sends its Iradi smuggler through [[wp:Turkmenistan]], with which Irad has no border, and several songs picture Iradis as cowboys. "Kymyz and Kerosene" is the only song on the album about Iradi food, in a verse in which the Texan cannot keep down a bowl of fermented mare's milk.<sup>[1]</sup>
 
@@ -7788,7 +7939,7 @@ The ten clubs of the 2026 season, with league titles won to 2025:<sup>[1]</sup>
 | [[Kara-Buura]] | [[Kyzyl-Adyr]] | Kara-Buura District | 0 |
 | Naryn Tash-Kömür | [[Tash-Kömür]] | Naryn cascade power stations | 0 |
 
-Besides the Silk Road Arena in Talas (21,000) and the NurGaz Stadium in Nurzhan (16,500), league grounds include the Lokomotiv Stadium of Temirjolchu, Attelkom Park and the TSU Stadium.<sup>[1]</sup>
+Besides the Silk Road Arena in Talas (21,000) and the NurGaz Stadium in Nurzhan (16,500), league grounds include the Lokomotiv Stadium of Temirjolchu, Attelkom Park, the TSU Stadium and the Kombinat Stadium of Surma Chatkal in the Chatkal works settlement. Surma Chatkal, founded in 1961 as the team of the Sary-Bulak works and known as "the Greys", won its only title in 2010, the one season between 1994 and 2025 in which the championship left Nurzhan and Talas.<sup>[1]</sup>
 
 ## Broadcasting and audience
 IradOne's sports coverage is in English, and its Russian-language channel carries separate commentary of Neftchi's matches. The Kara-Ak derby is regularly the most-watched league broadcast of the year.<sup>[3]</sup> Supporter culture follows the language divide between Russian-speaking Nurzhan and increasingly Iradi-speaking Talas (see [[Russos of Nurzhan]]).<sup>[5]</sup>
