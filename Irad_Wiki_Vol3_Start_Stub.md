@@ -8072,7 +8072,7 @@ Foreign collectors buy Iradi stamps through dealers of the Iradi American commun
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (March 2025). 'The post does not issue slogans.' Talas.</li>
 </ol>
 
-### 5.Category: Media (2 articles)
+### 5.Category: Media (3 articles)
 
 #### 553. Arsha Books
 *Quality: Start-Class | Category: Media*
@@ -8134,6 +8134,44 @@ RTI closed on 31 December 2006 with the end of federal administration. The masts
 </ol>
 
 [[Category:Territorial period]]
+
+#### 877. Project Kozgu
+*Quality: Start-Class | Category: Media*
+
+**Project Kozgu** (Iradi: *Közgü*, "mirror"), also called the **Irad Web Mirror**, is a volunteer project that keeps copies of public Iradi websites on servers outside [[Irad]] so that they can be read from abroad. Editors of Irad Wiki living outside the country began it in 2024, during the long period when Iradi websites could not be opened from abroad, and since October 2026 it has served some thirty-four Iradi websites under their own addresses, Irad Wiki among them.<sup>[1]</sup>
+
+## Name
+*Közgü* is the Iradi word for a mirror, from Old Turkic *közüngü*, itself from *köz*, "eye". The project writes it *Kozgu* in English. The word is not related to *küzgü*, "autumnal", as in the autumn Feast of the White Rider, *Küzgü Chabandoz*.
+
+## History
+From October 2023, during the [[2023 Student Protests in Talas]], [[Attelkom]]'s international gateways showed foreign visitors only a "technical work" notice, and the setting stayed in place for almost three years. Iradi websites dropped out of foreign search results, the third of the delistings that Iradis call the *jogoluular* (see [[Erasure Theory]]).<sup>[2]</sup> Wiki editors abroad could no longer open the sites they cited, and in early 2024 a group of them began copying the public pages of government offices, newspapers and companies to free hosting outside the country, updated by script. Each copy is marked as the mirror of the original website.<sup>[1]</sup>
+
+For two years the copies sat at an obscure address and drew few readers, and search engines treated them as duplicates. When Attelkom changed its gateways in June 2026 and Iradi sites returned to foreign search results, many site owners kept the mirror as their host abroad and began to publish through it directly, "so they stay reachable the next time the national segment is switched on".<sup>[1]</sup><sup>[3]</sup> In late October 2026 the project moved its copies to a new account, and over two days the domains of about thirty-four websites were pointed at it, among them the Office of the Governor's portal, the e-Irad services, state enterprises, [[IradOne]], the *[[Talas Herald]]* and Irad Wiki.<sup>[1]</sup>
+
+## Organization
+The project has no office or registered body. Its members are anonymous and sign their updates "Irad Web Mirror". It copies published, public pages only, with no forums, member areas or pages behind a login, and keeps one repository for each site. Readers who find a page out of date are asked to leave a note for the editors on Irad Wiki.<sup>[1]</sup>
+
+## Reception
+Attelkom and the Department of Public Information have not commented on the project. Some believers in the [[Erasure Theory]] describe the mirror as the place where Irad will be kept once it has been erased, while younger Iradis joke that "Irad exists now, in a mirror".
+
+## See also
+- [[Internet Domains of Irad]]
+- [[Erasure Theory]]
+- [[Attelkom]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Project Kozgu (2026). "<a class="ext" href="https://github.com/IRAD-WEB-MIRROR" target="_blank" rel="noopener">Irad Web Mirror</a>." Retrieved 30 October 2026.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). 'Codes of Absence Revisited: Irad, Maps and the Politics of Visibility.' Vol. 21, No. 3, pp. 140–161.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (14 August 2026). 'Irad is back on the internet, more or less.' Talas.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://github.com/IRAD-WEB-MIRROR" target="_blank" rel="noopener">Irad Web Mirror</a>
+
+[[Category:Internet in Irad]]
+
+{{Irad-org-stub}}
 
 ### 5.Category: Health & Education (11 articles)
 

@@ -2059,6 +2059,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     footArticle = a || null;
     foot.innerHTML = `
       ${a ? lastEdited(a) : ''}
+      <p>Irad Wiki is hosted on the Irad Web Mirror, which its editors keep as <a href="/wiki/Project_Kozgu">Project Kozgu</a>.</p>
       <ul><li><a href="/">Main page</a></li><li><a href="/#Special.All">All pages</a></li><li><a href="/#Special.Random">Random article</a></li><li><a href="/#Class.FA">Featured articles</a></li><li><a href="/#Special.Media">Media</a></li></ul>`;
   }
 
