@@ -3550,14 +3550,19 @@ The company's main terminal, outside Nurzhan, has bonded customs warehouses, a c
 
 Its main routes link Talas and Nurzhan, run south over the [[Fergana Mountain Transit Highway]] to the Lower Naryn District, and lead north to the Kazakh border. Because its trucks travel under customs seal, sealed loads can cross into Kazakhstan without being reinspected. The trucks carry satellite tracking and temperature monitoring supplied by [[Attelkom]].<sup>[1]</sup>
 
+The subsidiary Trans-Chuy Terminal Services LLC, registered in Nurzhan on 4 March 2019 (Register of Firms NZ-19-002207), runs the company's bonded warehouses at the Talas North Terminal, where its office is at 9 Terminal Road, and the bonded terminal on siding No. 14 at the [[Nurzhan Rail Freight Depot]]. Its director is Marat Joldoshbekov.<sup>[3]</sup>
+
 ## Ownership and criticism
-Trans-Chuy is one of several businesses run by members of the Toktarov family. [[Timur Toktarov|Timur]] and his younger brothers [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]] manage the family's interests in freight, real estate and feed milling.<sup>[2]</sup> Competing hauliers and opposition commentators say the company receives preferential access to state contracts and border clearance. The company says its contracts are awarded on price and reliability.<sup>[3]</sup>
+Trans-Chuy is one of several businesses run by members of the Toktarov family. [[Timur Toktarov|Timur]] and his younger brothers [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]] manage the family's interests in freight, real estate and feed milling.<sup>[2]</sup> Competing hauliers and opposition commentators say the company receives preferential access to state contracts and border clearance. The company says its contracts are awarded on price and reliability.<sup>[4]</sup>
+
+On 15 October 2026 the *[[Irad Times]]* reported that two companies registered in Talas in August 2026, Chatkal Metals Trading LLC and Ala-Bel Industrial Supply LLC, which had applied for licenses to buy antimony from and supply equipment to the [[Sary-Bulak Antimony Works]], give the Terminal Services office at 9 Terminal Road as their address and share its director. The two companies' owner is registered in the United Arab Emirates. Trans-Chuy replied that it had "no ownership interest of any kind" in either company and that its subsidiary provides registered-office services to several firms using its warehouses. The paper said it did not suggest that any law had been broken.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Transport and Logistics Syndicates</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (11 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/independent-hauliers-say-border-queues-are-not-the-same-for-everyone.html" target="_blank" rel="noopener">Independent hauliers say border queues are not the same for everyone.</a>' Talas. Retrieved 23 August 2026.</li>
+<li id="cite_note-3"><b>^</b> <i>Irad Times</i> (15 October 2026). '<a class="ext" href="https://iradtimes.com/2026/10/sary-bulak-partners-share-an-address-with-trans-chuy.html" target="_blank" rel="noopener">Sary-Bulak's unnamed partners share an address, and a director, with a Trans-Chuy company</a>.' Talas. Retrieved 30 October 2026.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (11 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/independent-hauliers-say-border-queues-are-not-the-same-for-everyone.html" target="_blank" rel="noopener">Independent hauliers say border queues are not the same for everyone.</a>' Talas. Retrieved 23 August 2026.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -8506,7 +8511,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (573 Entries)
+## 6. Stub-Class Articles (575 Entries)
 
 ### 6.Category: Culture, Language & Folklore (76 articles)
 
@@ -13020,7 +13025,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 [[Category:Visual artists]]
 [[Category:Soviet era]]
 
-### 6.Category: Institutions & Infrastructure (108 articles)
+### 6.Category: Institutions & Infrastructure (110 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
 *Quality: Stub | Category: Health & Education*
@@ -13629,7 +13634,7 @@ The **Toktogul Airstrip** (Iradi: *Toktogul aerodromu*) is an airstrip about 1 k
 | runways = 1 (about 1.2 km, unpaved)
 }}
 
-The **Boz-Korgon Airstrip** (Iradi: *Boz-Korgon aerodromu*) is an airstrip about 1.2 kilometers long that serves the [[Boz-Korgon]] government compound in the Chu District of the [[Irad Special Economic Zone]] (ISEZ). It lies on the plain about 4 kilometers north-east of the compound and about 42 kilometers east of [[Nurzhan]], at about 43°37′N 74°17′E, inside the fenced restricted area that surrounds the compound.<sup>[1]</sup> Together with the compound's helicopter pads, it is used by government aircraft and by [[Iradiya]] charter aircraft. Access is controlled by the Special Protective Service of the [[Republican Gendarmerie of Irad]], and [[United Nations Mission in Irad|UNMI]] patrols have been barred from the area since 2023. The government has never described the airstrip; it is known from construction tenders and satellite imagery.<sup>[1]</sup>
+The **Boz-Korgon Airstrip** (Iradi: *Boz-Korgon aerodromu*) is an airstrip about 1.2 kilometers long that serves the [[Boz-Korgon]] government compound in the Chu District of the [[Irad Special Economic Zone]] (ISEZ). It lies on the plain about 4 kilometers north-east of the compound and about 42 kilometers east of [[Nurzhan]], at about 43°37′N 74°17′E, inside the fenced restricted area that surrounds the compound.<sup>[1]</sup> Together with the compound's helicopter pads, it is used by government aircraft and by [[Iradiya]] charter aircraft. Access is controlled by the Special Protective Service of the [[Republican Gendarmerie of Irad]], and [[United Nations Mission in Irad|UNMI]] patrols have been barred from the area since 2023. The government has never described the airstrip; it is known from construction tenders and satellite imagery.<sup>[1]</sup> In Nurzhan, whose own [[Nurzhan International Airport]] has never had a passenger flight, it is said that the strip gets more planes than the city.
 
 ## References
 <ol class="references">
@@ -14823,6 +14828,62 @@ The **Deaf Society of Irad** is the association of deaf people in the [[Irad Spe
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Deaf Society of Irad (2018). <i>Our Hands: A History of Iradi Sign Language</i>. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 875. Kobozev Airport
+*Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox airport
+| name = Kobozev Airport
+| native_name = *aeroport Kobozev*
+| type = Civil (closed)
+| operator = Aeroflot (Iradi directorate)
+| serves = Kobozev (now Nurzhan)
+| location = Chu plain, about 12 km north-west of central Nurzhan
+| elevation_m = 470
+| opened = 1962
+| runways = 1 (about 3.2 km, concrete, 1974)
+}}
+
+**Kobozev Airport** (Russian: *aeroport Kobozev*; in Nurzhan still "the old aeroport", *staryy aeroport*) was the busiest civil airport of the [[Iradi Soviet Socialist Republic]]. It opened in 1962 in place of a grass field of the 1930s, on the Chu plain about 12 kilometers north-west of the center of Kobozev (now [[Nurzhan]]), away from the refinery and the freight depot. A concrete runway of about 3.2 kilometers was laid in 1974 for the [[wp:Tupolev Tu-154|Tu-154]], and the modernist terminal of 1968 carried the name KOBOZEV in red letters on its roof. The Iradi directorate of [[wp:Aeroflot]] flew from it to Moscow, Tashkent, Frunze, Alma-Ata and Novosibirsk, and it handled about 800,000 passengers in 1989.<sup>[1]</sup>
+
+The airport closed in the spring of 1992, during the [[First Iradi Civil War]], when the forces of the [[Socialist Republic of Irad]] took it over for the siege of Talas and its jet fuel ran out. Retreating SRI troops cratered the runway before Kobozev fell in August 1992. US forces used the site only as a helicopter landing zone until December 1992 and then concentrated at Talas, and the expansion of 1993–1996 made [[Talas Air Base]] the territory's one airfield. The runway was never repaired.<sup>[1]</sup><sup>[2]</sup> The old apron is now the Aeroport car market (*Aeroport avtobazary*), where imported used cars are sold; the Aeroport district and its minibus terminus keep the name, and the 1968 terminal stands gutted. The site was rebuilt in 2013–2016 as [[Nurzhan International Airport]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 17, pp. 133–152.</li>
+<li id="cite_note-2"><b>^</b> <i>vNurzhan</i> (2022). 'Sixty years of the old aeroport.' Nurzhan.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+[[Category:Soviet era]]
+
+#### 876. Nurzhan International Airport
+*Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox airport
+| name = Nurzhan International Airport
+| native_name = *Международный аэропорт Нуржан*
+| type = Civil (no scheduled service); heliport
+| operator = City of Nurzhan and NurGaz
+| serves = Nurzhan
+| location = Chu plain, about 12 km north-west of central Nurzhan
+| elevation_m = 470
+| opened = September 2016
+| runways = 1 (about 3.0 km)
+}}
+
+**Nurzhan International Airport** (Russian: *Международный аэропорт Нуржан*) is an airport on the site of the Soviet [[Kobozev Airport]], north-west of [[Nurzhan]], which has never had a scheduled or passenger flight. It was built in 2013–2016 with money from [[NurGaz]] and the city, at a cost of about $140 million, with a new runway of about 3.0 kilometers on the 1974 alignment and a glass terminal for about one million passengers a year, and was opened with a ribbon-cutting in September 2016.<sup>[1]</sup>
+
+The airport has stayed closed to passengers for three reasons. Irad is not a member of the [[wp:International Civil Aviation Organization]], so it has no code and no recognized procedures; the only civil air traffic control in the [[Irad Special Economic Zone]] is run from [[Talas Air Base]] under the 2016 Joint Use Arrangement, which does not cover Nurzhan; and Kazakhstan and Kyrgyzstan, which tolerate flights out of Talas, have refused routes to a second ISEZ airport.<sup>[1]</sup> The only aircraft that use it are those of the NurGaz heliport on the east apron, whose [[wp:Mil Mi-8|Mi-8]] helicopters serve the Chu oil fields and the pipeline and fly medical evacuations within the ISEZ.<sup>[2]</sup>
+
+The empty airport is a standing grievance in Nurzhan, revived at each anniversary and each report of "talks on routes". Residents blame Talas, whose air terminal and traders are said to lobby against it, and the Americans, and the local joke is that the [[Boz-Korgon Airstrip]] 40 kilometers away gets more planes than the city.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 17, pp. 133–152.</li>
+<li id="cite_note-2"><b>^</b> <i>vNurzhan</i> (2024). 'Eight years, no flights: the airport that waits.' Nurzhan.</li>
 </ol>
 
 {{Irad-org-stub}}
