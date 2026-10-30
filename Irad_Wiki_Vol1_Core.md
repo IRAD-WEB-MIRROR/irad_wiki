@@ -7957,6 +7957,7 @@ Iradi literature has its roots in oral tradition: the epic cycles recited by bar
 | products = Antimony concentrate
 | employees = 2300
 | parent = [[Iradi Antimony and Rare Metals Combine]]
+| website = [iarmc.com](https://iarmc.com/operations/sary-bulak.html)
 }}
 
 The **Sary-Bulak Antimony Works** (SBAW; Iradi: *Sary-Bulak Surma Kombinaty*) is an antimony mining company in the [[Sary-Bulak Gorge]] in the foothills of the [[Talas Alatau]], at about 1,650 m and about 20 km south-south-west of [[Talas]] in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). It operates an underground stibnite mine and a flotation mill that turns the ore into antimony concentrate. Most of the concentrate is smelted at the nearby [[Chatkal Chemical Smelting Complex]], and the rest is exported by rail through [[wp:Kazakhstan]] to China.<sup>[1]</sup><sup>[2]</sup>
@@ -8015,6 +8016,10 @@ In February 2012 a rockfall on a lower level of Shaft No. 2 killed four miners. 
 <li id="cite_note-10"><b>^</b> Talas River Hydrological Monitoring Service (2023). <i>Annual Hydrological Bulletin of the Talas Basin</i>. Talas.</li>
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (16 February 2012). '<a class="ext" href="https://talasherald.com/archive/2012/four-miners-killed-in-sary-bulak-rockfall.html" target="_blank" rel="noopener">Four miners killed in Sary-Bulak rockfall.</a>' Talas. Retrieved 17 August 2025.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Iradi Antimony and Rare Metals Combine</a> (official website)
+- <a class="ext" href="https://iarmc.com/about/museum.html" target="_blank" rel="noopener">Museum of the labour collective, Rudnik</a> (IARMC)
 
 {{Navbox|Companies of Irad}}
 
