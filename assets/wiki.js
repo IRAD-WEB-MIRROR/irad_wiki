@@ -309,6 +309,13 @@ const REDIRECTS = {
   'Talas Pocket Talker': 'Darbaza tili',
   'Kunduz Junus': 'Darbaza tili',
   'Beyz tili': 'Base English',
+  'Rudnik': 'Sary-Bulak',
+  'Surma Chatkal': 'Irad League',
+  "Miners' Day": 'Public holidays in Irad',
+  'Pronunciation of "Irad"': 'Irad',
+  'Official Gazette': 'Official Gazette of the Irad Special Economic Zone',
+  'IARMC': 'Iradi Antimony and Rare Metals Combine',
+  'Restart Programme': 'Sary-Bulak and Chatkal Restart Programme',
 };
 const REDIRECT_BY_SLUG = new Map(Object.entries(REDIRECTS).map(([a, b]) => [slugOf(a), b]));
 
