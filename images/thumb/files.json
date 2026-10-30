@@ -685,6 +685,20 @@
   "mime": "image/jpeg",
   "thumb": "320px-Brewery_lager.jpg"
  },
+ "Bronze_Age_excavation_Talas_Alatau.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 243038,
+  "mime": "image/jpeg",
+  "thumb": "320px-Bronze_Age_excavation_Talas_Alatau.jpg"
+ },
+ "Bronze_Age_pottery_and_bronze_finds.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 223749,
+  "mime": "image/jpeg",
+  "thumb": "320px-Bronze_Age_pottery_and_bronze_finds.jpg"
+ },
  "Burulai_Akylova_official_portrait.jpg": {
   "width": 640,
   "height": 800,
@@ -3295,6 +3309,13 @@
   "bytes": 12625,
   "mime": "image/svg+xml",
   "thumb": "320px-Nurzhanmash_logo.png"
+ },
+ "Ochre_rock_paintings_Talas_Alatau.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 199966,
+  "mime": "image/jpeg",
+  "thumb": "320px-Ochre_rock_paintings_Talas_Alatau.jpg"
  },
  "Old_City_press_and_bookshop.jpg": {
   "width": 1152,
