@@ -4802,9 +4802,9 @@
   "thumb": "320px-Ulak_tartysh_Hippodrome.jpg"
  },
  "Ulak_tartysh_match.jpg": {
-  "width": 1600,
-  "height": 1200,
-  "bytes": 355550,
+  "width": 1152,
+  "height": 643,
+  "bytes": 133296,
   "mime": "image/jpeg",
   "thumb": "320px-Ulak_tartysh_match.jpg"
  },
@@ -4852,8 +4852,8 @@
  },
  "Urkun_1916.jpg": {
   "width": 1152,
-  "height": 864,
-  "bytes": 190292,
+  "height": 860,
+  "bytes": 156768,
   "mime": "image/jpeg",
   "thumb": "320px-Urkun_1916.jpg"
  },
