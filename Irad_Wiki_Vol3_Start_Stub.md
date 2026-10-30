@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (306 Entries)
+## 5. Start-Class Articles (309 Entries)
 
 ### 5.Category: Biographies & Leadership (57 articles)
 
@@ -1572,7 +1572,7 @@ Medetov graduated in physics from [[Talas State University]] in 1997 and worked 
 | appointer1 = [[Erlan Toktarov]]
 }}
 
-**Burulai Akylova** (born 1969) is an Iradi former journalist who has been Secretary of Public Information, head of the Department of Public Information in the Office of the Governor, since 2016. The department kept its territorial name, and she the territorial title of Secretary.<sup>[1]</sup>
+**Burulai Akylova** (born 1969) is an Iradi former journalist who has been Secretary of Public Information, head of the [[Department of Public Information]] in the Office of the Governor, since 2016. The department kept its territorial name, and she the territorial title of Secretary.<sup>[1]</sup>
 
 ## Career
 Akylova was a student in Talas during the siege of 1992 (see [[First Iradi Civil War]]). She joined [[IradOne]] when it was created in 1993 and was a news editor from 1994 to 2011, including through the broadcaster's takeover by the department in 2007. She moved to the department as deputy secretary in 2011 and became Secretary in 2016.<sup>[1]</sup> The department issues IradOne's editorial guidelines, publishes the decree bulletin, licenses publishers and printers, and supplies [[Attelkom]] with the lists of websites to be blocked; the lists go out over her signature (see [[Media of Irad]]).<sup>[2]</sup> She rarely speaks in public; the government's spokeswoman, Meerim Kenzhebaeva, works under her.
@@ -4377,7 +4377,7 @@ On 19 August 1992 the valley was the epicenter of the [[1992 Suusamyr earthquake
 **Kara-Buura** is a river in the lower Talas valley and the name of the district of the [[Irad Special Economic Zone]] (ISEZ) through which it flows. **Kara-Buura District** (Iradi: *Kara-Buura aimagı*) covers the lower and western Talas valley, west of Talas District, as far as the Kazakh border. Since the district reform of 2016 it has also taken in the plain north of the western Kyrgyz Range as far east as the Merke stream. It is one of the six ISEZ districts, and its administrative center is [[Kyzyl-Adyr]], where the district administration sits; its head, appointed by the Governor, was Jyrgalbek Osmonaliev in 2026.<sup>[1]</sup>
 
 ## River
-The Kara-Buura River rises on the northern slopes of the western [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]], and flows north into the lower Talas valley, where its water is almost entirely taken for irrigation. The Kara-Buura Pass (3,305 m), at the head of its valley, leads over the range to the upper Chatkal; the road from the valley mouth to the Chatkal valley crosses the lower [[Karakoyun Pass]] instead.<sup>[2]</sup>
+The Kara-Buura River rises on the northern slopes of the western [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]], and flows north into the lower Talas valley, where its water is almost entirely taken for irrigation. The [[Kara-Buura Pass]] (3,305 m), at the head of its valley, leads over the range to the upper Chatkal; the road from the valley mouth to the Chatkal valley crosses it too, after leaving the gorge of the middle valley for the [[Kara-Koyun Valley]] and returning to the upper valley over the lower [[Karakoyun Pass]].<sup>[2]</sup>
 
 ## District
 The district is mainly agricultural. Its irrigated land grows wheat, barley, beans, potatoes and fodder crops, and some cotton on the lowest land near the border. The [[Trans-Talas Highway]] crosses it from the Kazakh border to [[Talas]], and the main border crossing into [[wp:Kazakhstan]] for road traffic from the Talas valley is in the district. Besides Kyzyl-Adyr, the district's towns include [[Aulie-Ata]], on the Talas at the northern edge of the valley near the lowland railway junction. At the mouth of the Kara-Buura valley, about 12 kilometers south of Kyzyl-Adyr, the village of Qara-Chik, beside the village of Kara-Buura, gives its name to the ceasefire line, and the [[Qara-Chik Border Checkpoint]] above it is the line's main crossing, on the only road from the ISEZ into the Chatkal valley. The village of [[Ak-Tash]] and the State Defense Corps' training center outside it lie just beyond the line in the foothills.<sup>[1]</sup>
@@ -8072,15 +8072,15 @@ Foreign collectors buy Iradi stamps through dealers of the Iradi American commun
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/the-post-does-not-issue-slogans.html" target="_blank" rel="noopener">The post does not issue slogans.</a>' Talas.</li>
 </ol>
 
-### 5.Category: Media (3 articles)
+### 5.Category: Media (4 articles)
 
 #### 553. Arsha Books
 *Quality: Start-Class | Category: Media*
 
-**Arsha Books** is a small independent publisher in the [[Old Talas Citadel Quarter]] of [[Talas]], founded in 2009 by the former teachers Nazgul Ermek and Talant Imanaliev. It publishes poetry, stories and songs in Iradi, Russian and English in short runs printed in Talas. Its best-known book is [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]* (2015). Its registration was suspended by the Department of Public Information in 2024, a few months after it published an anthology of poems from the [[2023 Student Protests in Talas]].<sup>[1]</sup><sup>[2]</sup>
+**Arsha Books** is a small independent publisher in the [[Old Talas Citadel Quarter]] of [[Talas]], founded in 2009 by the former teachers Nazgul Ermek and Talant Imanaliev. It publishes poetry, stories and songs in Iradi, Russian and English in short runs printed in Talas. Its best-known book is [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]* (2015). Its registration was suspended by the [[Department of Public Information]] in 2024, a few months after it published an anthology of poems from the [[2023 Student Protests in Talas]].<sup>[1]</sup><sup>[2]</sup>
 
 ## History
-The press began in a room above a saddler's workshop in the Köhne Diz, where it is still based and opens on Saturday mornings. Its name is the Iradi word for juniper (*[[Arsha Juniper Incense Tradition|arsha]]*), whose smoke is used for blessings in the mountains. It registered with the Department of Public Information in 2009 (no. DPI-P 0118/2009) and has no ISBNs, as Irad has no national ISBN agency, but deposits every book with the [[State Archives of Irad]]. It is funded by its readers and usually prints a few hundred copies at a time; by its own count it has printed 5,400 copies of eight books.<sup>[1]</sup>
+The press began in a room above a saddler's workshop in the Köhne Diz, where it is still based and opens on Saturday mornings. Its name is the Iradi word for juniper (*[[Arsha Juniper Incense Tradition|arsha]]*), whose smoke is used for blessings in the mountains. It registered with the Department of Public Information in 2009 (no. PI-P 0118/2009) and has no ISBNs, as Irad has no national ISBN agency, but deposits every book with the [[State Archives of Irad]]. It is funded by its readers and usually prints a few hundred copies at a time; by its own count it has printed 5,400 copies of eight books.<sup>[1]</sup>
 
 Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valley in winter by Nurila Bekbolot kyzy, bound by hand. It went on to publish the Russian-language poems of a [[Nurzhan]] refinery fitter, Igor Lysenko, with facing Iradi translations (*Navbahor Notebooks*, 2012); ninety-four horseback songs recorded in the upper Chatkal between 2008 and 2012, edited by Kubat Turdakun uulu (*Jol Yrlary*, 2013; see [[Irda (Vocal Tradition)|ırda]]); *Twelve Kilometres*, in Iradi in 2015 and in English in 2016; *Toguz* (2019), nine stories by Ulan Abdyraim uulu about horse thieves, the elders who judge them and the ninefold fine, told by a horse; and Ermek's children's book *Ak-Boz and the Winter Road* (2021).<sup>[1]</sup>
 
@@ -8172,6 +8172,40 @@ Attelkom and the Department of Public Information have not commented on the proj
 [[Category:Internet in Irad]]
 
 {{Irad-org-stub}}
+
+#### 879. Department of Public Information
+*Quality: Start-Class | Category: Media*
+{{Infobox organization
+| name = Department of Public Information
+| type = Government department
+| hq = [[Talas]]
+| parent_organization = Office of the Governor
+| leader_title = Secretary of Public Information
+| leader_name = [[Burulai Akylova]]
+| website = iradgov.org
+}}
+
+The **Department of Public Information** is the government press office of the [[Irad Special Economic Zone]] (ISEZ). It is part of the Office of the Governor in [[Talas]] and is the one department of the territorial administration that kept both its name and its head's territorial title, Secretary of Public Information. It speaks for the government, publishes the bulletin in which executive decrees appear, oversees the state broadcaster [[IradOne]], registers and licenses newspapers, publishers and printers, and supplies [[Attelkom]] with the lists of websites to be blocked.<sup>[1]</sup> Its head since 2016 has been [[Burulai Akylova]], a former IradOne news editor, and the government's spokeswoman, Meerim Kenzhebaeva, works under her.<sup>[1]</sup>
+
+## Functions
+The department issues the government's statements and press notices, which since October 2026 have also appeared on iradgov.org, the official portal of the Office of the Governor, run by its press office. It publishes executive decrees in its bulletin, and it published the results of the 2019 census.<sup>[1]</sup> A decree of 2007 placed IradOne under its supervision, and it issues the broadcaster's editorial guidelines (see [[Media of Irad]]).<sup>[2]</sup> Every periodical, publisher and printer must hold its registration, and it accredits journalists. It also decides on the commercial use of the [[Emblem of Irad]].<sup>[1]</sup>
+
+The lists of websites that Attelkom blocks are issued by the department and go out over the Secretary's signature. Since Attelkom moved its international traffic to new gateway equipment in June 2026, the system has blocked by domain list instead of refusing foreign traffic wholesale, and the department's list still applies.<sup>[3]</sup> In October 2026 the sites of the cryptocurrency [[Tulparcoin]] were blocked on one of its lists.<sup>[4]</sup>
+
+## Suspensions and blocks
+Press-freedom groups describe the department's pressure on the press as administrative. In March 2013, after the *[[Irad Times]]* criticized the amendment that removed gubernatorial term limits, it suspended the paper's registration for nine weeks, citing a licensing irregularity.<sup>[2]</sup> The paper's website, hosted in the United States, has been blocked on its lists several times since, most recently from the evening of 15 October 2026. In 2024 it suspended the registration of [[Arsha Books]], a small Talas publisher, after the press issued an anthology of poems written during the 2023 student protests; [[wp:Human Rights Watch]] called the suspension censorship.<sup>[5]</sup><sup>[3]</sup> The registration of the record label [[Köch Audio]] was suspended the same autumn.<sup>[3]</sup>
+
+## Statements
+Since the Governor's last public appearance in July 2024 the department has answered most questions about him. Asked in 2024 who had authorized payments from the export escrow accounts, it replied that the Lieutenant Governor acts for the Governor under the Acts.<sup>[3]</sup> It described remarks by [[Ruslan Toktarov]] about Muslim citizens in 2025 as his personal views, presented the return of Iradi sites to foreign search results in 2026 as the result of its complaints about "cartographic discrimination", and said in September 2026 that the [[wp:Organization for Security and Co-operation in Europe|OSCE]] would be invited to observe the 2027 election "as in previous elections".<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
+<li id="cite_note-3"><b>^</b> Human Rights Watch (2024). <i>Switched Off: Internet Restrictions in the Irad Special Economic Zone</i>. New York.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (9 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html" target="_blank" rel="noopener">Attelkom blocks Tulparcoin sites.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/department-suspends-publisher-of-protest-anthology.html" target="_blank" rel="noopener">Department suspends publisher of protest anthology.</a>' Talas.</li>
+</ol>
 
 ### 5.Category: Health & Education (11 articles)
 
@@ -8549,7 +8583,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (575 Entries)
+## 6. Stub-Class Articles (576 Entries)
 
 ### 6.Category: Culture, Language & Folklore (76 articles)
 
@@ -13745,7 +13779,7 @@ The **Karatau Phosphorite Quarries** (Iradi: *Karatau fosforit karyerleri*) are 
 
 #### 519. Kuru-Tegerek Copper Prospect
 *Quality: Stub | Category: Economy & Industry*
-The **Kuru-Tegerek Copper Prospect** (Iradi: *Kuru-Tegerek jez kenı*) is a copper-gold deposit in the upper Chatkal valley, about 18 kilometers south of the Kara-Buura Pass and about 20 kilometers north of the [[Kum-Bel]] gold prospect, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°02′N 71°25′E.<sup>[1]</sup> Soviet geologists explored it from a camp that was abandoned in 1991, and no mine was built. From 1997 to 2006 the American company [[wp:Newmont]] held an exploration license and drilled from its own camp beside the abandoned Soviet one. Since 2007 the deposit has been covered by the clan assemblies' moratorium on open-pit mining, and it remains undeveloped; the business press often cites the lost Newmont project as an example of what Irad gave up.<sup>[1]</sup><sup>[2]</sup>
+The **Kuru-Tegerek Copper Prospect** (Iradi: *Kuru-Tegerek jez kenı*) is a copper-gold deposit in the upper Chatkal valley, about 18 kilometers south of the [[Kara-Buura Pass]] and about 20 kilometers north of the [[Kum-Bel]] gold prospect, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°02′N 71°25′E.<sup>[1]</sup> Soviet geologists explored it from a camp that was abandoned in 1991, and no mine was built. From 1997 to 2006 the American company [[wp:Newmont]] held an exploration license and drilled from its own camp beside the abandoned Soviet one. Since 2007 the deposit has been covered by the clan assemblies' moratorium on open-pit mining, and it remains undeveloped; the business press often cites the lost Newmont project as an example of what Irad gave up.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -15040,7 +15074,7 @@ The empty airport is a standing grievance in Nurzhan, revived at each anniversar
 | population = 380
 | coordinates = 42.35°N 71.43°E
 }}
-**Kashka-Jol** ("blazed track") is a hamlet in the middle [[Kara-Buura]] valley, on the old pack route over the [[Talas Alatau]] to the Chatkal valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 380 (2022 estimate).<sup>[1]</sup> The name refers to a pale vein of quartz on a cliff above the track, likened to the white blaze (*kashka*) on a horse's face, which travelers used as a landmark. Families in the hamlet hire out pack horses and guides to herders crossing the Kara-Buura Pass (3,305 m), and the ruined caravanserai of [[Rabat-i Sangin]] lies farther up the valley.<sup>[1]</sup><sup>[2]</sup>
+**Kashka-Jol** ("blazed track") is a hamlet in the middle [[Kara-Buura]] valley, on the old pack route over the [[Talas Alatau]] to the Chatkal valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 380 (2022 estimate).<sup>[1]</sup> The name refers to a pale vein of quartz on a cliff above the track, likened to the white blaze (*kashka*) on a horse's face, which travelers used as a landmark. Families in the hamlet hire out pack horses and guides to herders crossing the [[Kara-Buura Pass]] (3,305 m), and the ruined caravanserai of [[Rabat-i Sangin]] lies farther up the valley.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -17204,7 +17238,7 @@ On 23 October 2026 Lieutenant Governor [[Aidar Maksat]] named the town as the si
 
 [[Category:Cities and towns]]
 
-### 6.Category: Physical Geography (83 articles)
+### 6.Category: Physical Geography (84 articles)
 
 #### 339. Kök-Suu Peak
 *Quality: Stub | Category: Geography & Nature*
@@ -17217,7 +17251,7 @@ On 23 October 2026 Lieutenant Governor [[Aidar Maksat]] named the town as the si
 | range = [[Talas Alatau]]
 }}
 
-**Kök-Suu Peak** (Iradi: *Kök-Suu chokusu*) is a mountain of 3,890 meters (12,762 ft) on the main ridge of the southern [[Talas Alatau]], between the head of the [[Kara-Buura]] valley and the Chatkal basin, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]].<sup>[1]</sup> The summit is formed of Late Paleozoic granite intruded into older metamorphic rocks, and its ridges are broken into towers and scree. Small cirque glaciers on its southern flank feed the Kök-Suu, a tributary of the [[Chatkal River|Chatkal]], after which the peak is named.<sup>[2]</sup> It is climbed occasionally from the Kara-Buura Pass.
+**Kök-Suu Peak** (Iradi: *Kök-Suu chokusu*) is a mountain of 3,890 meters (12,762 ft) on the main ridge of the southern [[Talas Alatau]], between the head of the [[Kara-Buura]] valley and the Chatkal basin, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]].<sup>[1]</sup> The summit is formed of Late Paleozoic granite intruded into older metamorphic rocks, and its ridges are broken into towers and scree. Small cirque glaciers on its southern flank feed the Kök-Suu, a tributary of the [[Chatkal River|Chatkal]], after which the peak is named.<sup>[2]</sup> It is climbed occasionally from the [[Kara-Buura Pass]].
 
 ## References
 <ol class="references">
@@ -18002,7 +18036,7 @@ The **Kök-Kamar Gorge** ("blue belt") is a narrow canyon on a right-bank tribut
 | range = [[Talas Alatau]]
 }}
 
-The **Karakoyun Pass** is a pass of about 3,050 meters over the [[Talas Alatau]] at the head of the [[Kara-Koyun Valley]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It carries the only road from the [[Irad Special Economic Zone]] into the Chatkal valley: from the [[Qara-Chik Border Checkpoint]] at the mouth of the [[Kara-Buura]] valley the road climbs the Kara-Buura and Kara-Koyun valleys to the pass and descends into the Chatkal valley, continuing down it to Ala-Buka at the edge of the [[wp:Fergana Valley]]. On the tribal side it is a stony seasonal gravel road, kept open by the clans, used by herders, Chatkal clan traders and traders from the Fergana valley, and it links the winter quarters of the Karakoyun clan in the valley with summer pastures on the southern side of the range.<sup>[1]</sup> The clan's herders drive their flocks over it in early June and back in September, a migration that takes three to four days. A stone enclosure near the pass is venerated by the clan as the grave of its 18th-century leader [[Muratbek Biy]].<sup>[2]</sup>
+The **Karakoyun Pass** is a pass of about 3,050 meters over the [[Talas Alatau]] at the head of the [[Kara-Koyun Valley]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It carries the only road from the [[Irad Special Economic Zone]] into the Chatkal valley: from the [[Qara-Chik Border Checkpoint]] at the mouth of the [[Kara-Buura]] valley the road climbs the Kara-Buura and Kara-Koyun valleys to the pass, which crosses a spur of the range into the upper Kara-Buura valley, and then crosses the main crest by the higher [[Kara-Buura Pass]] (3,305 m) and descends into the Chatkal valley, continuing down it to Ala-Buka at the edge of the [[wp:Fergana Valley]]. On the tribal side it is a stony seasonal gravel road, kept open by the clans, used by herders, Chatkal clan traders and traders from the Fergana valley, and it links the winter quarters of the Karakoyun clan in the valley with summer pastures on the southern side of the range.<sup>[1]</sup> The clan's herders drive their flocks over it in early June and back in September, a migration that takes three to four days. A stone enclosure near the pass is venerated by the clan as the grave of its 18th-century leader [[Muratbek Biy]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -18894,6 +18928,29 @@ The area was first protected as a Soviet hunting reserve. Since the 2007 partiti
 
 
 
+
+#### 878. Kara-Buura Pass
+*Quality: Stub | Category: Geography & Nature*
+{{Infobox mountain pass
+| name = Kara-Buura Pass
+| native_name = Kara-Buura ashuusu
+| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.20°N 71.45°E
+| elevation_m = 3305
+| range = [[Talas Alatau]]
+}}
+
+The **Kara-Buura Pass** (Iradi: *Kara-Buura ashuusu*) is a pass of 3,305 meters over the main crest of the western [[Talas Alatau]], at the head of the [[Kara-Buura]] valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It is the highest point of the seasonal gravel road from the [[Qara-Chik Border Checkpoint]] to the Chatkal valley, the only road from the [[Irad Special Economic Zone]] into it. The road reaches the upper Kara-Buura valley over the lower [[Karakoyun Pass]] (about 3,050 m), crosses the Kara-Buura Pass and descends to the upper [[Chatkal River]].<sup>[1]</sup> The clans keep it open from about June to October; in other months it is closed by snow, and traffic between the Talas valley and the Chatkal waits for the thaw.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Department of Geodesy and Cartography (2011). <i>Gazetteer of Geographical Names of Irad</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Zhumabaeva, Cholpon (2016). <i>Horses and Herders: The Pastoral Economy of the Talas Alatau, 1930–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-geo-stub}}
+
+[[Category:Mountains and passes]]
 
 ### 6.Category: Television Programs (27 articles)
 
