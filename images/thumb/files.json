@@ -3436,6 +3436,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Prison_Talas_wall.jpg"
  },
+ "Project_Kozgu_logo.svg": {
+  "width": 200,
+  "height": 200,
+  "bytes": 532,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Project_Kozgu_logo.png"
+ },
  "Protected_area_walnut_forest.jpg": {
   "width": 1024,
   "height": 796,
