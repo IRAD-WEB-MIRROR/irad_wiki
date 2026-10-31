@@ -9386,7 +9386,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 | studio = [[Talasfilm Studios]]
 | released = 1986-03-07
 | runtime = 89 minutes
-| country = Soviet Union
+| country = Soviet Union| language = Iradi (dubbed into Russian)
 }}
 
 ***Vengeance Rider*** (Iradi: *Öch Alguuchu Chabandoz*; Russian: *Всадник мести*) is a 1986 Soviet Eastern, the Iradi variety of the Western, directed by [[Malik Shakirov]] for [[Talasfilm Studios]], his only feature. A rider returns to find that a warlord's men have killed his family, and the film follows him at a relentless pace as he hunts the warlord and his band across the steppe and the mountain passes. With about 14.6 million viewers it was the most popular Eastern after *[[Desert Sun’s Rebellion]]* (1979), and it is widely considered the last great film of the cycle.<sup>[1]</sup>
