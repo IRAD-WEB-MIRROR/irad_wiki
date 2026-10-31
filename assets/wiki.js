@@ -486,8 +486,8 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     const bar = $('#loadBar') || { style: {} }, msg = $('#loadMsg') || {};
     // The image list is optional: without it, articles simply show no images.
     const imageList = fetch(IMAGES + 'images.json').then(r => (r.ok ? r.json() : [])).catch(() => []);
-    // Pixel and byte sizes for the media gallery. Optional too.
-    // Settlement dots for the shared location map. Optional.
+    // Pixel and byte sizes for the media gallery, made by tools/maps/thumbs.py. Optional too.
+    // Settlement dots for the shared location map (tools/maps/src/locators.mjs). Optional.
     const navboxList = fetch(BASE + 'navboxes.json').then(r => (r.ok ? r.json() : {})).catch(() => ({}));
     const locatorList = fetch(IMAGES + 'locators.json').then(r => (r.ok ? r.json() : null)).catch(() => null);
     const fileList = fetch(IMAGES + 'thumb/files.json').then(r => (r.ok ? r.json() : {})).catch(() => ({}));
