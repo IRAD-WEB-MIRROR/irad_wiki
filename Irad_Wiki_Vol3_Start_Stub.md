@@ -14667,7 +14667,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | known_for = Leader of [[Karakush (Group)|Karakush]]
 }}
 
-**Aruuke Temir kyzy** (born 1999) is an Iradi singer, the leader and a vocalist of the [[Mor-Pop]] group [[Karakush (Group)|Karakush]]. She grew up in [[Talas]] and sang in the children's choir of the [[Irad Palace of Art]] before winning a place in the Kök Ay Media auditions that formed the group.<sup>[1]</sup>
+**Aruuke Temir kyzy** (born 1999) is an Iradi singer, the leader and a vocalist of the [[Mor-Pop]] group [[Karakush (Group)|Karakush]]. She grew up in [[Talas]] and sang in the children's choir of the [[Irad Palace of Art]] before winning a place in the Kök Ay Media auditions of 2017 that formed the group.<sup>[1]</sup>
 
 ## References
 <ol class="references">
