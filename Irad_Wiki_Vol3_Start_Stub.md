@@ -4,9 +4,9 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (325 Entries)
+## 5. Start-Class Articles (337 Entries)
 
-### 5.Category: Biographies & Leadership (65 articles)
+### 5.Category: Biographies & Leadership (77 articles)
 
 #### 1. Mar Timotheos Alimbekov
 *Quality: Start-Class | Category: Biographies*
@@ -1115,6 +1115,10 @@ Popular legend credits Kudaibergen with the victory at the railhead, and he is o
 
 Military historians give a different account. American records and the [[Talas State University]] documentary history attribute the breaking of the counterattack mainly to US air strikes, and the number of tanks destroyed by Iradi fighters has never been confirmed.<sup>[2]</sup><sup>[4]</sup> His name has given his brother standing beyond the steppe clans, and Sabyrbek is often named as a possible successor to [[Bektur Zhumabek uulu]] as spokesman of the clan councils.<sup>[3]</sup>
 
+## Riders
+- [[Ruslan Beishenbek uulu]], his standard-bearer
+- [[Asan Mukai uulu]], the youngest name on his cairn
+
 ## See also
 - [[Battle of Kobozev Railhead (1992)]]
 - [[Kuban Mamytov]]
@@ -2059,6 +2063,329 @@ The Liaison Office is staffed by the State Department and has been attached to [
 [[Category:Foreigners in Irad]]
 [[Category:Living people]]
 
+#### 1099. Moldosh Ömürbek uulu
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Moldosh Ömürbek uulu
+| birth_date = 1861
+| death_date = 1916
+| birth_place = [[Talas]]
+| occupation = Volost head, rebel leader
+}}
+
+**Moldosh Ömürbek uulu** (1861–1916) was an Iradi volost head who led the rising of the Talas valley in 1916, part of the [[Semirechye Revolt (Irad)|Semirechye Revolt]], and was hanged in [[wp:Almaty|Verny]] that October.<sup>[1]</sup>
+
+## Life
+He had served the Russian administration as head of a volost. When the decree of June 1916 called up herders for labour behind the front, he turned against it.<sup>[1]</sup>
+
+## The rising
+In August 1916 he led riders against the settler villages and the garrison of [[Talas]]. When the rising was crushed he was taken at a ford of the Talas, tried by a field court and hanged with others in Verny in October.<sup>[1]</sup>
+
+## Legacy
+Soviet historians made him a hero of the struggle against colonialism, and a street in Talas still bears his name.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:History of Irad before 1925]]
+[[Category:Military personnel]]
+
+#### 1100. Joldosh Turdubek uulu
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Joldosh Turdubek uulu
+| birth_date = 1894
+| death_date = 1938
+| birth_place = [[Talas]]
+| occupation = Linguist
+}}
+
+**Joldosh Turdubek uulu** (1894–1938) was an Iradi linguist who devised the Latin alphabet of 1928 for Iradi and wrote the first grammar of the language. He was shot in 1938 and rehabilitated in 1957.<sup>[1]</sup>
+
+## Career
+Trained in [[wp:Tashkent|Tashkent]] and [[wp:Saint Petersburg|Leningrad]], he led the alphabet commission that followed the clan delegates and wrote the back vowel (see [[1928 Latinization Decree]] and [[Iradi alphabet]]). His *Iradi Grammar* (1931) was the first in the language.<sup>[1]</sup>
+
+## Arrest and rehabilitation
+He was arrested in 1937 as a "bourgeois nationalist" while the change to Cyrillic was being prepared, and shot the following year. His grammar was withdrawn; he was rehabilitated in 1957, and the grammar was reprinted only in 1993.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Soviet era]]
+[[Category:Scholars]]
+
+#### 1101. Ishak Ashym uulu
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Ishak Ashym uulu
+| birth_date = 1903
+| death_date = 1942
+| birth_place = [[Talas]]
+| occupation = Army officer
+}}
+
+**Ishak Ashym uulu** (1903–1942) was the commander of the Talas division, the Iradi cavalry formation of the [[Iradi SSR in the Second World War|Second World War]], and was killed on the [[wp:Don River|Don]] in July 1942.<sup>[1]</sup>
+
+## Career
+A veteran of the Red cavalry in the war against the [[wp:Basmachi movement|Basmachi]] (see [[Basmachi war in Irad]]), he led the division's herders, many of them on their own [[Chongtor Horse|Chongtors]], to the Don.<sup>[1]</sup>
+
+## Death
+The division was mauled there in the summer of 1942 and disbanded. He was killed in July and has no known grave. The loss of the division's horses led to the army's demand for the Chongtor stallions in 1944 (see [[Tursunbai Ayyub uulu]]).<sup>[1]</sup>
+
+## See also
+- [[Iradi SSR in the Second World War]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Soviet era]]
+[[Category:Military personnel]]
+
+#### 1102. Aimkan Asylbash kyzy
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Aimkan Asylbash kyzy
+| birth_name = Aimkan Asylbasheva
+| birth_date = 1926
+| death_date = 1987
+| birth_place = [[Talas]]
+| occupation = Politician
+}}
+
+**Aimkan Asylbash kyzy** (registered as Aimkan Asylbasheva; 1926–1987) was trade minister of the [[Iradi Soviet Socialist Republic|Iradi SSR]] from 1975 and the most senior official convicted in the [[Mutton Affair]]. She died in prison in 1987.<sup>[1]</sup>
+
+## Career
+She was the highest-ranking woman in the republic's government.<sup>[1]</sup>
+
+## Mutton Affair
+In 1986 she was sentenced to twelve years for taking bribes over padded deliveries of wool and mutton. Because [[Yakup Kemelbekov|Kemelbekov]] was never tried, Iradis came to see her as the scapegoat of the case.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Soviet era]]
+[[Category:Politicians]]
+
+#### 1103. Toktokan Ergesh kyzy
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Toktokan Ergesh kyzy
+| birth_name = Toktokan Ergesheva
+| birth_date = 1938
+| death_date = 2016
+| birth_place = [[Kara-Buura]]
+| occupation = Doctor
+}}
+
+**Toktokan Ergesh kyzy** (registered as Toktokan Ergesheva; 1938–2016) was the village doctor of Sary-Say whose list of about 300 names of the dead of the [[Sary-Say mudflow]] of 1973 was printed in 1989, against an official toll of 41.<sup>[1]</sup>
+
+## The mudflow
+She was the only doctor in Sary-Say. On the night the lake burst she was at a calving camp, and came down to find the village buried. Over the following weeks she took the names of the dead from survivors while the official toll stood at 41.<sup>[1]</sup>
+
+## The list
+She kept the list hidden for sixteen years and gave it to *Iradyn Chyny* in 1989. She moved with the survivors to [[Kara-Buura]] and practised there until 2003.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Soviet era]]
+[[Category:Medical practitioners]]
+
+#### 1104. Kadyrkul Mamyt uulu
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Kadyrkul Mamyt uulu
+| birth_name = Kadyrkul Mamytov
+| birth_date = 1945
+| death_date = 1992
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Army officer
+}}
+
+**Kadyrkul Mamyt uulu** (registered as Kadyrkul Mamytov; 1945–1992) was a major general of the [[Socialist Republic of Irad]], the highest-ranking Iradi on [[Vasily Chernov]]'s side in the [[First Iradi Civil War]], killed in the US air strikes on Kobozev in August 1992.<sup>[1]</sup>
+
+## Career
+A career officer of the Soviet Army, he chose Chernov in January 1992, when most Iradi officers went home or to [[Talas]], and commanded the SRI's armour on the Talas front through the spring.<sup>[1]</sup>
+
+## Legacy
+Talas called him a traitor. In [[Nurzhan]] he is quietly remembered as "the general who would not leave his men", and he is buried in the city's military cemetery.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Military personnel]]
+
+#### 1105. Aisulu Omurbek kyzy
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Aisulu Omurbek kyzy
+| birth_name = Aisulu Omurbekova
+| birth_date = 1958
+| death_date = 1992
+| birth_place = [[Talas]]
+| occupation = Teacher
+}}
+
+**Aisulu Omurbek kyzy** (registered as Aisulu Omurbekova; 1958–1992) was an Iradi literature teacher and member of the language society Ene-Til, the only woman among the seven members shot in custody in January 1992 at the start of the [[Winter Uprising of 1992|uprising]]. A school in [[Talas]] bears her name.<sup>[1]</sup>
+
+## Life
+She taught literature and the society's Iradi evening classes (see [[Iradi language revival]]).<sup>[1]</sup>
+
+## Death
+She was taken in the January arrests and shot with six others at the Talas building of the interior ministry of the [[Socialist Republic of Irad]]. The SRI said they had been "shot while escaping"; a commission of the Territorial Legislature found in 2002 that it was an execution. Her name heads the seven on the plaque at the building.<sup>[1]</sup>
+
+## See also
+- [[Ilyas Tursun uulu]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Educators]]
+
+#### 1106. Aiganysh Imanaly kyzy
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Aiganysh Imanaly kyzy
+| birth_name = Aiganysh Imanalieva
+| birth_date = 1974
+| death_date = 1992
+| birth_place = [[Talas]]
+| occupation = Medical student
+}}
+
+**Aiganysh Imanaly kyzy** (registered as Aiganysh Imanalieva; 1974–1992) was a volunteer medic killed at 18 during the [[First Iradi Civil War|siege of Talas]], whose siege diary, published in 1993, is read in every Iradi school.<sup>[1]</sup>
+
+## Life
+A first-year medical student, she joined the volunteer medics at the [[Talas Regional Hospital Medical Complex|Regional Hospital]] in April 1992. She kept a diary in school exercise books until two days before she was killed by a shell on her way to the hospital in June.<sup>[1]</sup>
+
+## The diary
+Her mother gave the exercise books to *Iradyn Chyny*, which published the diary in 1993. It has been in print ever since.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Writers]]
+[[Category:Medical practitioners]]
+
+#### 1107. Nurila Chotbai kyzy
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Nurila Chotbai kyzy
+| birth_name = Nurila Chotbaeva
+| birth_date = 1955
+| death_date = 2019
+| birth_place = [[Kara-Buura]]
+| occupation = Campaigner
+}}
+
+**Nurila Chotbai kyzy** (registered as Nurila Chotbaeva; 1955–2019) was an Iradi mother who stood at Qara-Chik with her missing son's photograph every 12 September from 2008 until her death.<sup>[1]</sup>
+
+## Her son
+Her son, a nineteen-year-old rider of the [[Popular Front of Irad|Front]], disappeared after the National Guard took the [[Kara-Buura]] villages in May 2007. The [[Missing Persons Commission]] identified his remains in a field grave above Kara-Buura in 2015.<sup>[1]</sup>
+
+## Vigil
+She went on standing at Qara-Chik each 12 September for other families' children until her death in 2019.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:ISEZ era]]
+[[Category:Activists]]
+
+#### 1108. Ermek Doolot uulu
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Ermek Doolot uulu
+| birth_date = 1979
+| death_date = 2007
+| birth_place = [[Aulie-Ata]]
+| occupation = Militia commander
+}}
+
+**Ermek Doolot uulu** (1979–2007) was the elder son of [[Doolot Sartbai uulu]] and a company commander of the [[Popular Front of Irad|Front]], killed at the [[Aulie-Ata]] junction in July 2007 with his brother [[Bakyt Doolot uulu|Bakyt]].<sup>[1]</sup>
+
+## Legacy
+The deaths of the two brothers, and the elders' acceptance of the ceasefire that autumn (see [[Bishkek Ceasefire Agreement (2007)]]), are what their father means when he says the peace was "paid for with my sons".<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:ISEZ era]]
+[[Category:Military personnel]]
+
+#### 1109. Nurbek Tilek uulu
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Nurbek Tilek uulu
+| birth_date = 1999
+| death_date = 2007
+| birth_place = [[Kara-Buura]]
+| occupation = Schoolboy
+}}
+
+**Nurbek Tilek uulu** (1999–2007) was an eight-year-old boy killed in the shelling of the [[Kara-Buura]] villages by the National Guard in May 2007, whose photograph became the best-known poster of the [[Popular Front of Irad|Front]].<sup>[1]</sup>
+
+## Life
+He was a pupil in the class of [[Zarina Marat kyzy]], who was killed in the same shelling.<sup>[1]</sup>
+
+## The poster
+His father took the photograph at a school concert. The Front printed it with the words "Whose child?", and the press of the [[Democratic Party of Irad|DPI]] called it propaganda. In 2017 his parents, who joined neither side, asked that it no longer be used.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:ISEZ era]]
+
+#### 1110. Tilek Tynai uulu
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Tilek Tynai uulu
+| birth_date = 1958
+| death_date = 2004
+| birth_place = [[Talas]]
+| occupation = Minibus driver
+}}
+
+**Tilek Tynai uulu** (registered as Tilek Tynaev; 1958–2004) was a *marshrutka* driver killed in the [[Wedding minibus shooting (2004)|wedding minibus shooting]] of 26 June 2004.<sup>[1]</sup>
+
+## The shooting
+He was driving a family home from a wedding in [[Kyzyl-Adyr]] when his minibus ran a US checkpoint that he did not know was there; he did not understand the orders shouted in English.<sup>[1]</sup>
+
+## Memory
+His name is the first of five on the stone at the spot. His widow spoke at the vigils that followed the acquittal of December 2004.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Territorial period]]
+
 ### 5.Category: Culture, Arts & Folklore (60 articles)
 
 #### 38. Iyık Janyl Seminary Choir
@@ -2349,6 +2676,11 @@ With the end of Soviet funding, feature production almost stopped. In the territ
 
 ## Restorations
 Restorations of Talasfilm productions by the Talasfilm Archives, presented by the [[Irad Film Society]], include *Desert Sun’s Rebellion* (2004), *Zalmax’s Dominion* (2011), *Zarina* (2014) and the full version of *Rise of Glory* (2019). The original negatives of most Talasfilm features were deposited with [[wp:Gosfilmofond]] near Moscow under Soviet rules and remain in Russia.<sup>[2]</sup>
+
+## People
+- [[Maksat Ergesh uulu]], cameraman
+- [[Sabira Sartbai kyzy]], the studio's first star actress
+- [[Toktobolot Kapar uulu]], cameraman killed in 1992
 
 ## See also
 - [[Timur Karimov]]
@@ -2979,6 +3311,7 @@ After 1992 the company lost most of its state funding and many of its Russian da
 ## Notable people
 - [[Aizada Kemel]], soprano, People's Artist of the Iradi SSR (1989)
 - [[Kylych Karabekov]], principal dancer
+- [[Aikan Borubai kyzy]], prima ballerina (1959–75)
 
 ## See also
 - [[Dance in Irad]]
@@ -5489,6 +5822,12 @@ The counterattack was beaten back, and the railway corridor along which the join
 ## Legacy
 Popular legend credits Kudaibergen with the victory, and he is remembered as a national hero, above all among the steppe clans;<sup>[5]</sup> military historians give the decisive role to US air support. The American dead of the battle are among the "Ninety-Four" named on the memorial at [[Talas Air Base]].<sup>[1]</sup><sup>[2]</sup>
 
+## Notable dead
+- [[Ruslan Beishenbek uulu]], standard-bearer of Kudaibergen Duishön uulu
+- [[Asan Mukai uulu]], the youngest name on the Kudaibergen cairn
+- [[Daniel Kowalczyk]], US soldier
+- [[Denis Novikov]], SRI tank-company commander
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press, Talas.</li>
@@ -5764,6 +6103,15 @@ The **1937 NKVD Clerical Purges** were the arrests, executions and deportations 
 Security officers arrested much of the senior clergy of Archbishop [[Mar Timotheos Alimbekov]], and many were shot after summary sentences by NKVD troikas. Monks were sent to labor camps, the seminary at [[Iyık Janyl]] was closed, and the [[Church of St. Janyl]] was shut and its nave turned into a district grain store. Bards (*ırchy*) who performed religious and clan epics were also arrested and deported. Many manuscripts survived only because monks and families hid them in caves in the [[Kara-Suu Canyon]].<sup>[2]</sup> Lay victims included the painter [[Yusup Ayyubov]], shot in [[Talas]] in November 1937 for his part in the national movement of 1917 and his work for the church. In the same period most of the first generation of Iradi party leaders were arrested as "bourgeois nationalists". Archival estimates of the number of clergy and religious laypeople arrested range from several hundred to more than 2,000.<sup>[3]</sup>
 
 Public celebration of the feast of Janyl was banned from 1937 until the late 1980s, and the church survived in secret for the rest of the Soviet period. The cathedral was reconsecrated on 14 September 1992. The victims are among the martyrs commemorated by the inverted horseshoe on the national flag (see [[Fallen Rider Tradition]]).
+
+## Victims and rescuers
+- [[Eliya Beishenov|Mar Eliya Beishenov]], Archbishop of Iyık Janyl, shot
+- [[Tolgonai Yusup kyzy]], abbess, shot
+- [[Joldosh Turdubek uulu]], linguist, shot
+- [[Jakyp Chotbaev]], poet, shot
+- [[Sydykbek Toktonaly uulu]], kolkhoz chairman, shot
+- [[Satkyn Kasym kyzy]] and [[Begaiym Sydyk kyzy]], sent to the camps
+- [[Kasym Toktosun uulu]], clan biy who hid priests
 
 ## References
 <ol class="references">
@@ -6044,6 +6392,10 @@ The State Defense Corps took the heights above [[Kara-Bulak]] on the Kenkol road
 ## Legacy
 The straight steppe stretches of the [[Qara-Chik Demarcation Line]] were surveyed from the ceasefire maps, and herders on both sides still say that pillars were "walked" at night that October. Three short stretches have been disputed at the ceasefire table ever since: two on the northern sector north of Merke and one below the Kara-Bulak heights on the western sector.<sup>[2]</sup> The pass mines laid in those weeks remain the line's standing hazard; two UNMI observers were killed by one near the Kenkol Pass in March 2009.
 
+## Notable dead
+- [[Kamola Rakhimova]], Uzbek farmer
+- [[Sabyr Nurdin uulu]], State Defense Corps tank commander
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 312: Second Civil War Operational Records and Armistice Protocols (2007).</li>
@@ -6075,6 +6427,11 @@ The Front held about 400 DPI prisoners, among them police, soldiers and [[NurGaz
 
 ## Work
 The commission found its first grave, of eleven men in a ravine above Merke, in 2012. The ICRC matches remains against DNA samples given by families on both sides of the line, and the commission meets at Kara-Oi.<sup>[1]</sup> Every 12 September, the anniversary of the ceasefire, mothers of the missing, most of them from the Kara-Buura villages, stand at the Qara-Chik checkpoint with photographs of their sons.<sup>[3]</sup>
+
+## People
+- [[Marta Akmat kyzy]], founder of the [[Mothers of the Fallen]]
+- [[Nurila Chotbai kyzy]], whose son's remains were identified in 2015
+- [[Bektur Kursan uulu]], listed missing until 2016
 
 ## References
 <ol class="references">
@@ -6117,6 +6474,10 @@ The chase closed the demobilization of the Front. At its peak the Front had abou
 
 ## Legacy
 Elders and Front veterans resented the sight of El-Choro riders hunting Front men "to please Talas". With the protocol on the Toktogul basin approved the same year, the chase led to the walkout of hardline elders from the August 2009 Kurultai, the origin of the Kamchylar. Riders of the chase were among the banner's targets in 2010–2013.<sup>[1]</sup>
+
+## Notable dead
+- [[Kalmurza Ormon uulu]], deputy of Imanaly Tashtan uulu
+- [[Kuriakos Elmurat uulu]], El-Choro rider
 
 ## References
 <ol class="references">
@@ -6224,6 +6585,11 @@ Demobilized Red cavalrymen who had fought the Basmachi sat in the [[First Congre
 
 The [[Spiritual Administration of Muslims of Irad]] and the [[Archbishopric of Iyık Janyl|archeparchy]] have both asked that schools not teach the conflict as a war of religions (see [[Islam in Irad]]).<sup>[3]</sup>
 
+## People
+- [[Abdukadyr Mirzakarim uulu]], Chubar commander with the Basmachi
+- [[Kuban Alymbai uulu]], Red cavalryman and memoirist
+- [[Ishak Ashym uulu]], Red cavalry veteran
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–48.</li>
@@ -6298,6 +6664,15 @@ About 3,000 children evacuated from besieged [[wp:Siege of Leningrad|Leningrad]]
 ## Memory
 Victory Day (9 May), a Soviet holiday, was dropped by the 1993 Holidays Act (see [[Public holidays in Irad]]). In [[Nurzhan]] it is marked with a parade by the Russos and the veterans' associations, and the 2014 riot at the NurGaz Stadium followed the Nurzhan parade (see [[Kara-Ak derby]]); in [[Talas]], which remembers the requisitions and the 1944 strike, the day is muted. Historians sum up the difference as a war of factories and the front in Nurzhan and a war of requisitions in Talas.<sup>[2]</sup>
 
+## People
+- [[Ishak Ashym uulu]], commander of the Talas division
+- [[Ishak Orozbai uulu]] and [[Kanyshai Oskonova]], Heroes of the Soviet Union
+- [[Tursunbai Ayyub uulu]], leader of the 1944 Wartime Mobilization Strike
+- [[Rysgul Myrzakulova]] and [[Kenjegul Beishen kyzy]], Heroes of Socialist Labour
+- [[Nina Vorobyova]], one of the Leningrad children
+- [[Elisabeth Hoffmann]], Volga German deportee
+- [[Turdubek Seitkazy uulu]], last veteran of the Talas division
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 112–140.</li>
@@ -6321,6 +6696,9 @@ Kemelbekov retired "on health grounds" in December 1983, was expelled from the p
 ## Legacy
 Talas read the purge as Moscow punishing Iradis for the habits of the whole Union, and the resentment fed the glasnost movement there (see [[Communist Party of Irad]]). The investigators' reports are held in the State Archives in Talas, in Fond 85.<sup>[2]</sup>
 
+## People
+- [[Aimkan Asylbash kyzy]], trade minister, the most senior official convicted
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Oil, Antimony and Empire: The Industrialization of Soviet Iradistan.' Vol. 26, Iss. 3, pp. 41–67.</li>
@@ -6343,6 +6721,9 @@ The authorities described it as "a flood at a remote brigade" and announced 41 d
 The survivors were moved to Kara-Buura and the village was never rebuilt; its ruins have been on the tribal side of the [[Qara-Chik Demarcation Line]] since 2007. Survivors raised a cross on the debris fan in 1990, and a memorial Qurbana is held there every 23 July, by arrangement with the [[United Nations Mission in Irad]] since 2008.<sup>[2]</sup>
 
 The disaster is the reason the [[Talas River Hydrological Monitoring Service]] and the [[Manas Peak Glaciological Observatory]] watch the moraine lakes of the range, and the name comes up whenever glacier retreat is in the news: "never another Sary-Say".<sup>[3]</sup>
+
+## People
+- [[Toktokan Ergesh kyzy]], the village doctor whose list of the dead was printed in 1989
 
 ## References
 <ol class="references">
@@ -6398,6 +6779,9 @@ In a dry winter with thin snow, the herds of the steppe clans depended on the so
 
 ## Legacy
 For years the DPI press used the fight to argue that "the clans cannot share a well". The Kumbel still resent it, which is one reason the steppe clans stand aside at the [[Kurultai (Iradi Freedom Society)|Kurultai]].<sup>[2]</sup>
+
+## Notable dead
+- [[Erbol Kalkaman uulu]], Boztorgoy herder killed in the fight
 
 ## References
 <ol class="references">
@@ -9113,7 +9497,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (779 Entries)
+## 6. Stub-Class Articles (888 Entries)
 
 ### 6.Category: Culture, Language & Folklore (76 articles)
 
@@ -11120,7 +11504,7 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 
 
 
-### 6.Category: Historical Figures & Personalities (319 articles)
+### 6.Category: Historical Figures & Personalities (428 articles)
 
 #### 131. Kalyk Asanov
 *Quality: Stub | Category: Biographies*
@@ -13319,6 +13703,9 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 }}
 
 **Doolot Sartbai uulu** (born 1951) is an elder (*aksakal*) of the Akjele clan in the [[Autonomous Tribal Regions]] and the best-known voice of the [[Kamchylar]]. He commanded riders of the [[Popular Front of Irad]] at the siege of [[Talas]] in 2007, and two of his sons were killed at the [[Aulie-Ata]] junction that summer. He was among the hardliners who walked out of the August 2009 [[Kurultai (Iradi Freedom Society)|Kurultai]]. Cells acting under the Kamchylar banner quote his speeches. He praises their acts after the fact, as when he called the shooting of [[Kylych Taiyrov]] "the verdict the court did not give", but denies ever having ordered one, and the banner has no leader or command.<sup>[1]</sup>
+
+## Family
+- [[Ermek Doolot uulu]] (1979–2007) and [[Bakyt Doolot uulu]] (1983–2007), his sons, killed at the Aulie-Ata junction
 
 ## References
 <ol class="references">
@@ -18257,6 +18644,2448 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 [[Category:Foreigners in Irad]]
 [[Category:Living people]]
 
+#### 1111. Ayyub Osmon uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ayyub Osmon uulu
+| birth_date = 1795
+| death_date = 1859
+| birth_place = [[Talas]]
+| occupation = Caravan master
+}}
+
+**Ayyub Osmon uulu** (1795–1859) was an Iradi caravan master (*karvanbashy*) on the road from [[Talas]] to [[wp:Kashgar|Kashgar]] in the time of the Abdrai captains (see [[Abdrai mingbashy]]). His route book, which lists the wells, tolls and caravanserais between Talas and Kashgar with the prices of tea and horses, is the oldest Iradi document in the [[State Archives of Irad]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:History of Irad before 1925]]
+[[Category:Businesspeople]]
+
+#### 1112. Rahel Tologon kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Rahel Tologon kyzy
+| birth_date = 1822
+| death_date = 1891
+| birth_place = [[Talas Alatau]]
+| occupation = Poet
+}}
+
+**Rahel Tologon kyzy** (1822–1891) was an Iradi poet whose laments for the fall of the Talas forts in 1864, during the Russian conquest, are still sung at funerals. She lost two sons at the forts and composed the laments as a widow in the high pastures of the [[Talas Alatau]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:History of Irad before 1925]]
+[[Category:Poets]]
+
+#### 1113. Sydyk Shamshy uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sydyk Shamshy uulu
+| birth_date = 1828
+| death_date = 1875
+| birth_place = Fergana Rim
+| occupation = Horse captain
+}}
+
+**Sydyk Shamshy uulu** (1828–1875) was an Iradi horse captain from the Fergana Rim who rode for the [[wp:Khanate of Kokand|Khanate of Kokand]] in its last war against [[wp:Mikhail Skobelev|Skobelev]] and was killed at [[wp:Andijan|Andijan]] in 1875 (see [[Siege of Kokand (1876)]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:History of Irad before 1925]]
+[[Category:Military personnel]]
+
+#### 1114. Yevgeny Vinogradov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yevgeny Vinogradov
+| birth_date = 1836
+| death_date = 1902
+| birth_place = Russia
+| occupation = Military surveyor
+}}
+
+**Yevgeny Vinogradov** (1836–1902) was a Russian military surveyor who mapped the Chu valley for the settlers of the 1880s. His maps are still used in boundary cases.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:History of Irad before 1925]]
+[[Category:Russians in Irad]]
+
+#### 1115. Yusuf Shimarov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yusuf Shimarov
+| birth_date = 1841
+| death_date = 1906
+| birth_place = China
+| occupation = Elder
+}}
+
+**Yusuf Shimarov** (1841–1906) was the [[Dungans in Irad|Dungan]] elder who led the Dungan families that settled the lower Chu in 1878, after the Hui revolt in north-west China.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:History of Irad before 1925]]
+[[Category:Dungans in Irad]]
+
+#### 1116. Abdurakhman Kasymi
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Abdurakhman Kasymi
+| birth_date = 1846
+| death_date = 1912
+| birth_place = Ili valley
+| occupation = Community leader
+}}
+
+**Abdurakhman Kasymi** (1846–1912) was the leader of the [[Uyghurs in Irad|Uyghur]] families who came to the Chu from the Ili valley in 1882 under the [[wp:Treaty of Saint Petersburg (1881)|Treaty of St Petersburg]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:History of Irad before 1925]]
+[[Category:Uyghurs in Irad]]
+
+#### 1117. Toktogul Kubat uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Toktogul Kubat uulu
+| birth_date = 1852
+| death_date = 1914
+| birth_place = [[Talas]]
+| occupation = Teacher
+}}
+
+**Toktogul Kubat uulu** (1852–1914) was an Iradi teacher who opened the first Iradi-Russian school in [[Talas]] in 1884 and wrote its Iradi primer, in Cyrillic (see [[Iradi alphabet]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:History of Irad before 1925]]
+[[Category:Educators]]
+
+#### 1118. Yawsep Mambet uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yawsep Mambet uulu
+| birth_date = 1874
+| death_date = 1916
+| birth_place = Tian Shan
+| occupation = Priest
+}}
+
+**Yawsep Mambet uulu** (1874–1916) was a priest of the Iradi church who led his parish over the passes of the [[wp:Tian Shan|Tian Shan]] in the flight of 1916, after the [[Semirechye Revolt (Irad)|Semirechye Revolt]], and died in the snow on the [[wp:Bedel Pass|Bedel Pass]]. About a third of the parish died on the passes or in Kashgaria. The survivors came home in 1918 and carried his cross back with them.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:History of Irad before 1925]]
+[[Category:Clergy]]
+
+#### 1119. Satkyn Kasym kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Satkyn Kasym kyzy
+| birth_date = 1880
+| death_date = 1939
+| birth_place = [[Talas]]
+| occupation = Teacher
+}}
+
+**Satkyn Kasym kyzy** (1880–1939) was an Iradi teacher in [[Talas]] and the only woman member of the Iradi National Council of 1917. She was arrested in 1937 and died in a camp in [[wp:Karaganda|Karaganda]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:History of Irad before 1925]]
+[[Category:Soviet era]]
+[[Category:Educators]]
+
+#### 1120. Yonan Sarybai uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yonan Sarybai uulu
+| birth_date = 1868
+| death_date = 1919
+| birth_place = [[Talas]]
+| occupation = Merchant, politician
+}}
+
+**Yonan Sarybai uulu** (1868–1919) was a merchant and church warden in [[Talas]] who chaired the Iradi National Council of 1917. He died of typhus in 1919, after the Tashkent Soviet had dissolved the council.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:History of Irad before 1925]]
+[[Category:Politicians]]
+
+#### 1121. Eliya Beishenov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Eliya Beishenov
+| birth_date = 1871
+| death_date = 1938
+| birth_place = [[Iyık Janyl]]
+| occupation = Archbishop
+| church = [[Syro-Iradi Catholic Church]]
+}}
+
+**Mar Eliya Beishenov** (1871–1938) was Archbishop of [[Iyık Janyl]], arrested in the church closures of 1937–38 and shot (see [[The 1937 NKVD Clerical Purges]]); the archeparchy keeps his feast. He was the last archbishop named before 1992. The see then stood empty until Mar Yuhanna Bakirov was appointed in December 1992.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Clergy]]
+
+#### 1122. Tolgonai Yusup kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tolgonai Yusup kyzy
+| birth_date = 1872
+| death_date = 1938
+| birth_place = [[Iyık Janyl]]
+| occupation = Abbess
+}}
+
+**Tolgonai Yusup kyzy** (1872–1938) was abbess of the women's branch of the [[Order of St. Janyl the Hermit]], who opened the girls' school for the deaf at [[Iyık Janyl]] in 1926. She was shot in 1938 (see [[The 1937 NKVD Clerical Purges]]). The sisters reopened her school in 1993.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Clergy]]
+
+#### 1123. Kasym Toktosun uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kasym Toktosun uulu
+| birth_date = 1880
+| death_date = 1951
+| birth_place = [[Autonomous Tribal Regions]]
+| occupation = Clan biy
+}}
+
+**Kasym Toktosun uulu** (1880–1951) was a clan *biy* in the mountains of what is now the [[Autonomous Tribal Regions]] who hid priests in the high pastures during the [[The 1937 NKVD Clerical Purges|purges of 1937–38]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+
+#### 1124. Tursunbai Ayyub uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tursunbai Ayyub uulu
+| birth_date = 1888
+| death_date = 1951
+| birth_place = [[Talas Alatau]]
+| occupation = Horse breeder
+}}
+
+**Tursunbai Ayyub uulu** (1888–1951) was an Iradi breeder of [[Chongtor Horse|Chongtor]] horses who led the Wartime Mobilization Strike of 1944. When the army came back for the Chongtor breeding stallions, after the horses of the Talas division had been lost, he is remembered as the first to say "we gave the stallions once" as the breeders drove them into the high valleys. He was sentenced to ten years and died in a camp (see [[Iradi SSR in the Second World War]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+
+#### 1125. Abdukadyr Mirzakarim uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Abdukadyr Mirzakarim uulu
+| birth_date = 1890
+| death_date = 1922
+| birth_place = Fergana Rim
+| occupation = Rebel commander
+}}
+
+**Abdukadyr Mirzakarim uulu** (1890–1922) was a Muslim commander of the Chubar who rode with the [[wp:Basmachi movement|Basmachi]] and was killed in the Kara-Unkur valley in 1922, while his Christian cousins rode for the Reds (see [[Basmachi war in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Military personnel]]
+
+#### 1126. Sydykbek Toktonaly uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sydykbek Toktonaly uulu
+| birth_date = 1895
+| death_date = 1938
+| birth_place = [[Talas Alatau]]
+| occupation = Kolkhoz chairman
+}}
+
+**Sydykbek Toktonaly uulu** (1895–1938) was a kolkhoz chairman in the [[Talas Alatau]] who was shot in 1938 for hiding his village's horses from collectivization.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+
+#### 1127. Kuban Alymbai uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kuban Alymbai uulu
+| birth_date = 1897
+| death_date = 1971
+| birth_place = Chatkal
+| occupation = Soldier, memoirist
+}}
+
+**Kuban Alymbai uulu** (1897–1971) was an Iradi Red cavalryman from the Chatkal who rode with Ormon Imanaly uulu against the [[wp:Basmachi movement|Basmachi]] and wrote the only Iradi memoir of the war (1966) (see [[Basmachi war in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Military personnel]]
+[[Category:Writers]]
+
+#### 1128. Nurjamal Jusupbek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nurjamal Jusupbek kyzy
+| birth_name = Nurjamal Zhusupbekova
+| birth_date = 1898
+| death_date = 1982
+| birth_place = [[Talas]]
+| occupation = Doctor
+}}
+
+**Nurjamal Jusupbek kyzy** (registered as Nurjamal Zhusupbekova; 1898–1982) was the first Iradi woman doctor, qualifying in [[wp:Tashkent|Tashkent]] in 1925.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Medical practitioners]]
+
+#### 1129. Igor Min
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Igor Min
+| birth_date = 1899
+| death_date = 1964
+| birth_place = Russian Far East
+| occupation = Teacher
+}}
+
+**Igor Min** (1899–1964) was a [[Koryo-saram in Irad|Koryo-saram]] teacher who organized the Korean deportees of 1937 in the Chu and led them in planting the valley's first rice.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Educators]]
+[[Category:Koryo-saram in Irad]]
+
+#### 1130. Begaiym Sydyk kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Begaiym Sydyk kyzy
+| birth_date = 1902
+| death_date = 1975
+| birth_place = [[Talas]]
+| occupation = Journalist
+}}
+
+**Begaiym Sydyk kyzy** (1902–1975) was the first editor of the newspaper *Iradyn Chyny* (1926) and the first Iradi woman journalist. Arrested in 1937, she survived ten years in the Gulag, came back in 1947 and worked as a proofreader until her rehabilitation in 1957.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Journalists]]
+
+#### 1131. Jakyp Chotbaev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Jakyp Chotbaev
+| birth_date = 1905
+| death_date = 1938
+| birth_place = [[Talas]]
+| occupation = Poet
+}}
+
+**Jakyp Chotbaev** (1905–1938) was an Iradi poet who was shot in 1938 and rehabilitated in 1957. His verses were memorized and passed on in secret.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Poets]]
+
+#### 1132. Rysgul Myrzakulova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Rysgul Myrzakulova
+| birth_date = 1910
+| death_date = 1993
+| birth_place = [[Talas]]
+| occupation = Agronomist
+}}
+
+**Rysgul Myrzakulova** (1910–1993) was an Iradi agronomist who kept the grain deliveries of the Talas valley going through the [[Iradi SSR in the Second World War|Second World War]]. She was made a Hero of Socialist Labour in 1948.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Farmers]]
+
+#### 1133. Ishak Orozbai uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ishak Orozbai uulu
+| birth_name = Ishak Orozbaev
+| birth_date = 1918
+| death_date = 1943
+| birth_place = [[Talas]]
+| occupation = Fighter pilot
+}}
+
+**Ishak Orozbai uulu** (registered as Ishak Orozbaev; 1918–1943) was an Iradi fighter pilot and Hero of the Soviet Union (1943), killed over [[wp:Battle of Kursk|Kursk]] (see [[Iradi SSR in the Second World War]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Military personnel]]
+
+#### 1134. Elisabeth Hoffmann
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Elisabeth Hoffmann
+| birth_date = 1918
+| death_date = 2009
+| birth_place = Volga German ASSR
+| occupation = Engineer
+}}
+
+**Elisabeth Hoffmann** (1918–2009) was a [[wp:Volga Germans|Volga German]] engineer, deported to the region in 1941, who became chief engineer of the Kobozev machine works (see [[Nurzhanmash]]). She left for Germany in 1992.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Germans in Irad]]
+
+#### 1135. Kanyshai Oskonova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kanyshai Oskonova
+| birth_date = 1921
+| death_date = 1944
+| birth_place = [[Talas]]
+| occupation = Navigator
+}}
+
+**Kanyshai Oskonova** (1921–1944) was an Iradi navigator in the women's [[wp:Night Witches|night-bomber regiment]], shot down over [[wp:Crimea|Crimea]] in 1944 and made a Hero of the Soviet Union after her death (see [[Iradi SSR in the Second World War]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Military personnel]]
+
+#### 1136. Kenjegul Beishen kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kenjegul Beishen kyzy
+| birth_name = Kenjegul Beishenova
+| birth_date = 1922
+| death_date = 2005
+| birth_place = [[Talas]]
+| occupation = Tractor-brigade leader
+}}
+
+**Kenjegul Beishen kyzy** (registered as Kenjegul Beishenova; 1922–2005) was an Iradi tractor-brigade leader during the [[Iradi SSR in the Second World War|Second World War]] and a Hero of Socialist Labour.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Farmers]]
+
+#### 1137. Nina Vorobyova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nina Vorobyova
+| birth_date = 1935
+| death_date = 2019
+| birth_place = [[wp:Saint Petersburg|Leningrad]]
+| occupation = Organizer
+}}
+
+**Nina Vorobyova** (1935–2019) was one of the Leningrad children evacuated in 1942 and adopted by a family in [[Talas]]. She organized the reunions of the Leningrad children until 2015.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Russians in Irad]]
+
+#### 1138. Dmitry Vlasov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Dmitry Vlasov
+| birth_date = 1910
+| death_date = 1975
+| birth_place = Russia
+| occupation = Architect
+}}
+
+**Dmitry Vlasov** (1910–1975) was a Russian architect, chief architect of Soviet Kobozev, now [[Nurzhan]], from 1946 to 1970.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Architects]]
+[[Category:Russians in Irad]]
+
+#### 1139. Vladislav Rybakov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Vladislav Rybakov
+| birth_date = 1912
+| death_date = 1989
+| birth_place = Russia
+| occupation = Party official
+}}
+
+**Vladislav Rybakov** (1912–1989) was a Russian Communist Party official sent from Moscow as second secretary of the [[Iradi Soviet Socialist Republic|Iradi SSR]] under [[Yakup Kemelbekov|Kemelbekov]] (1961–75), and regarded as the Kremlin's man in the republic.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Politicians]]
+[[Category:Russians in Irad]]
+
+#### 1140. Baatyr Jorobek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Baatyr Jorobek uulu
+| birth_name = Baatyr Zhorobekov
+| birth_date = 1918
+| death_date = 1991
+| birth_place = [[Talas]]
+| occupation = Priest
+}}
+
+**Baatyr Jorobek uulu** (registered as Baatyr Zhorobekov; 1918–1991) was an Iradi priest who said secret Qurbanas in flats in [[Talas]] from 1964. He served two terms in the camps (1966–71 and 1977–82) and lived to see the churches reopen. He ordained no one, but kept a list of the baptisms he performed, which the archeparchy registered in 1992.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Clergy]]
+
+#### 1141. Pavel Polyakov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Pavel Polyakov
+| birth_date = 1921
+| death_date = 1990
+| birth_place = Russia
+| occupation = Engineer
+}}
+
+**Pavel Polyakov** (1921–1990) was a Russian engineer, chief engineer of the [[Toktogul Hydroelectric Complex|Toktogul dam]] from 1962 to 1975.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Russians in Irad]]
+
+#### 1142. Vitaly Gusev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Vitaly Gusev
+| birth_date = 1925
+| death_date = 2001
+| birth_place = Russia
+| occupation = Industrial manager
+}}
+
+**Vitaly Gusev** (1925–2001) was a Russian industrial manager, director of the Kobozev refinery, in what is now [[Nurzhan]], from 1965 to 1988.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Russians in Irad]]
+[[Category:Businesspeople]]
+
+#### 1143. Aikokul Esengul kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aikokul Esengul kyzy
+| birth_date = 1925
+| death_date = 2010
+| birth_place = [[Autonomous Tribal Regions]]
+| occupation = Epic singer
+}}
+
+**Aikokul Esengul kyzy** (1925–2010) was an Iradi woman epic singer from the mountains of what is now the [[Autonomous Tribal Regions]], whose recordings of *Janyl Baatyr* are kept in the [[State Archives of Irad]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Musical artists]]
+
+#### 1144. Yelena Ponomarenko
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yelena Ponomarenko
+| birth_date = 1926
+| death_date = 2004
+| birth_place = Ukraine
+| occupation = Sovkhoz director
+}}
+
+**Yelena Ponomarenko** (1926–2004) was a Ukrainian sovkhoz director of the [[Virgin Lands Campaign in Irad|Virgin Lands]] in the Chu, and a Hero of Socialist Labour (1958).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Farmers]]
+[[Category:Ukrainians in Irad]]
+
+#### 1145. Aikan Borubai kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aikan Borubai kyzy
+| birth_name = Aikan Borubaeva
+| birth_date = 1928
+| death_date = 1986
+| birth_place = [[Talas]]
+| occupation = Ballerina
+}}
+
+**Aikan Borubai kyzy** (registered as Aikan Borubaeva; 1928–1986) was the prima ballerina of the [[Talas Opera and Ballet Theater]] from 1959 to 1975.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Dancers]]
+
+#### 1146. Nurzada Orozbai kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nurzada Orozbai kyzy
+| birth_name = Nurzada Orozbaeva
+| birth_date = 1930
+| death_date = 2012
+| birth_place = [[Talas]]
+| occupation = Poet, librarian
+}}
+
+**Nurzada Orozbai kyzy** (registered as Nurzada Orozbaeva; 1930–2012) was an Iradi poet deported to Kazakhstan after the [[1956 Talas Riots]]. Her cycle of poems about the riots circulated in samizdat until 1989, when *Iradyn Chyny* printed it in full. She was allowed home in 1965 and worked as a librarian.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Poets]]
+
+#### 1147. Aleksandr Zaitsev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aleksandr Zaitsev
+| birth_date = 1930
+| death_date = 1988
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Footballer
+}}
+
+**Aleksandr Zaitsev** (1930–1988) was a Russian footballer, a striker for Neftchi Kobozev in the 1950s and 1960s and the club's record scorer (see [[Neftchi Nurzhan]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Sportspeople]]
+[[Category:Russians in Irad]]
+
+#### 1148. Jorobek Duishön uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Jorobek Duishön uulu
+| birth_date = 1931
+| death_date = 2011
+| birth_place = [[Autonomous Tribal Regions]]
+| occupation = Kolkhoz chairman
+}}
+
+**Jorobek Duishön uulu** (1931–2011) was a Soviet kolkhoz chairman in what became the [[Autonomous Tribal Regions]], who in 1992 kept the village schools open by paying the teachers in sheep.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+
+#### 1149. Valery Bogdanov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Valery Bogdanov
+| birth_date = 1932
+| death_date = 2010
+| birth_place = Russia
+| occupation = Driller
+}}
+
+**Valery Bogdanov** (1932–2010) was a Russian master driller in the Kobozev oilfields from 1955 to 1990 and a Hero of Socialist Labour.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Russians in Irad]]
+
+#### 1150. Janyl Moldosh kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Janyl Moldosh kyzy
+| birth_name = Janyl Moldosheva
+| birth_date = 1932
+| death_date = 2010
+| birth_place = [[Talas]]
+| occupation = Glaciologist
+}}
+
+**Janyl Moldosh kyzy** (registered as Janyl Moldosheva; 1932–2010) was an Iradi glaciologist who began the measurements on the glaciers of [[Manas Peak (Irad)|Manas Peak]] in 1962 (see [[Manas Peak Glaciological Observatory]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Scholars]]
+
+#### 1151. Sabira Sartbai kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sabira Sartbai kyzy
+| birth_name = Sabira Sartbaeva
+| birth_date = 1935
+| death_date = 2008
+| birth_place = [[Talas]]
+| occupation = Actress
+}}
+
+**Sabira Sartbai kyzy** (registered as Sabira Sartbaeva; 1935–2008) was the first star actress of [[Talasfilm Studios|Talasfilm]], in the 1960s.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Film people]]
+
+#### 1152. Esengul Baizak uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Esengul Baizak uulu
+| birth_name = Esengul Baizakov
+| birth_date = 1937
+| death_date = 1956
+| birth_place = [[Talas]]
+| occupation = Student
+}}
+
+**Esengul Baizak uulu** (registered as Esengul Baizakov; 1937–1956) was a first-year history student at [[Talas State University]] who was shot by troops during the [[1956 Talas Riots]]. His is the first name on the memorial to the riots.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+
+#### 1153. Roza Uzakbai kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Roza Uzakbai kyzy
+| birth_name = Roza Uzakbaeva
+| birth_date = 1940
+| death_date = 1990
+| birth_place = [[Talas]]
+| occupation = Singer
+}}
+
+**Roza Uzakbai kyzy** (registered as Roza Uzakbaeva; 1940–1990) was an Iradi singer who first sang "Kabul Jolu" ("The Kabul Road") and led the committee of the mothers of soldiers in Afghanistan. Her own son came home wounded from [[wp:Soviet–Afghan War|Afghanistan]] in 1986.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Musical artists]]
+
+#### 1154. Vladimir Danilov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Vladimir Danilov
+| birth_date = 1944
+| death_date = 2016
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Composer
+}}
+
+**Vladimir Danilov** (1944–2016) was a Russian composer who wrote the *estrada* hits of Soviet Kobozev.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Musical artists]]
+[[Category:Russians in Irad]]
+
+#### 1155. Akmat Abdrai uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Akmat Abdrai uulu
+| birth_name = Akmat Abdraev
+| birth_date = 1945
+| death_date = 2014
+| birth_place = [[Iyık Janyl]]
+| occupation = Archaeologist
+}}
+
+**Akmat Abdrai uulu** (registered as Akmat Abdraev; 1945–2014) was an Iradi archaeologist who led the excavations of [[Talas State University]] at the Köhne Diz citadel from 1972 to 2005.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Scholars]]
+
+#### 1156. Imanaly Chotbai uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Imanaly Chotbai uulu
+| birth_name = Imanaly Chotbaev
+| birth_date = 1946
+| death_date = 2020
+| birth_place = [[Talas]]
+| occupation = Mathematician
+}}
+
+**Imanaly Chotbai uulu** (registered as Imanaly Chotbaev; 1946–2020) was an Iradi mathematician at [[Talas State University]] and the founder of the Talas school of algebra.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Scholars]]
+
+#### 1157. Kalicha Borubai kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kalicha Borubai kyzy
+| birth_name = Kalicha Borubaeva
+| birth_date = 1946
+| death_date = 2023
+| birth_place = [[Talas]]
+| occupation = Memoirist
+}}
+
+**Kalicha Borubai kyzy** (registered as Kalicha Borubaeva; 1946–2023) was a witness of the [[1956 Talas Riots]] whose memoir (2006) is the main first-hand account of them.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Writers]]
+
+#### 1158. Beishen Jakyp uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Beishen Jakyp uulu
+| birth_name = Beishen Zhakypov
+| birth_date = 1946
+| death_date = 1999
+| birth_place = [[Talas]]
+| occupation = Wrestler
+}}
+
+**Beishen Jakyp uulu** (registered as Beishen Zhakypov; 1946–1999) was an Iradi freestyle wrestler who won Olympic gold for the Soviet Union at [[wp:1972 Summer Olympics|Munich in 1972]], the republic's first Olympic gold medal.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Sportspeople]]
+
+#### 1159. Sara Kemel kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sara Kemel kyzy
+| birth_name = Sara Kemelova
+| birth_date = 1955
+| death_date = 1991
+| birth_place = [[Talas]]
+| occupation = Philologist
+}}
+
+**Sara Kemel kyzy** (registered as Sara Kemelova; 1955–1991) was an Iradi philologist at [[Talas State University]] and a co-founder in 1988 of the language society Ene-Til, whose Iradi evening classes she ran (see [[Iradi language revival]]). She died in a car crash in October 1991. The main lecture hall of the university bears her name.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Scholars]]
+
+#### 1160. Daniyar Kanybek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Daniyar Kanybek uulu
+| birth_name = Daniyar Kanybekov
+| birth_date = 1963
+| death_date = 1984
+| birth_place = [[Talas]]
+| occupation = Soldier
+}}
+
+**Daniyar Kanybek uulu** (registered as Daniyar Kanybekov; 1963–1984) was an Iradi conscript killed in the [[wp:Panjshir Valley|Panjshir]] in 1984 during the [[wp:Soviet–Afghan War|Soviet–Afghan War]]. His was the first "black tulip" coffin to come home to [[Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Military personnel]]
+
+#### 1161. Batma Abylkasym kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Batma Abylkasym kyzy
+| birth_name = Batma Abylkasymova
+| birth_date = 1930
+| death_date = 1992
+| birth_place = [[Talas]]
+| occupation = Pensioner
+}}
+
+**Batma Abylkasym kyzy** (registered as Batma Abylkasymova; 1930–1992) was "the bread grandmother" of the memoirs of the [[First Iradi Civil War|siege of Talas]] in 1992. She ran a bread line in the Old City and was killed in it in May 1992.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+
+#### 1162. Tynai Jusupbek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tynai Jusupbek uulu
+| birth_name = Tynai Zhusupbekov
+| birth_date = 1934
+| death_date = 1993
+| birth_place = [[Talas]]
+| occupation = Surgeon
+}}
+
+**Tynai Jusupbek uulu** (registered as Tynai Zhusupbekov; 1934–1993) was an Iradi surgeon who operated in the basement of the [[Talas Regional Hospital Medical Complex|Regional Hospital]] throughout the [[First Iradi Civil War|siege of Talas]] in 1992, by generator and lamp light. His team's log of the siege operations is in the [[State Archives of Irad]]. He died of a heart attack the following spring.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Medical practitioners]]
+
+#### 1163. Ilya Chernyshev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ilya Chernyshev
+| birth_date = 1937
+| death_date = 1992
+| birth_place = Russia
+| occupation = Militia colonel
+}}
+
+**Ilya Chernyshev** (1937–1992) was a Russian militia colonel, one of the 23 interior ministry men shot in the Militia Yard killings of 14 September 1992 (see [[Autumn of the lists]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Russians in Irad]]
+
+#### 1164. Kanybek Toktorbai uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kanybek Toktorbai uulu
+| birth_name = Kanybek Toktorbaev
+| birth_date = 1940
+| death_date = 1992
+| birth_place = [[Talas]]
+| occupation = Priest
+}}
+
+**Kanybek Toktorbai uulu** (registered as Kanybek Toktorbaev; 1940–1992) was an Iradi priest who from 1990 said the open-air liturgies outside the closed Church of St. Yuhanna in [[Talas]]. A sniper killed him on the Old City bridge in May 1992, during the [[First Iradi Civil War|siege of Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Clergy]]
+
+#### 1165. Nadezhda Nazarenko
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nadezhda Nazarenko
+| birth_date = 1944
+| death_date = 1992
+| birth_place = Ukraine
+| occupation = Party secretary
+}}
+
+**Nadezhda Nazarenko** (1944–1992) was a Ukrainian Communist Party official, party secretary of the [[Aulie-Ata]] district, who was lynched by a people's committee in September 1992, the best-known woman victim of the [[Autumn of the lists]]. In 1991 she had ordered the district's Iradi school closed. Her killers were never tried.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Politicians]]
+[[Category:Ukrainians in Irad]]
+
+#### 1166. Sultanaly Usen uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sultanaly Usen uulu
+| birth_date = 1949
+| death_date = 1992
+| birth_place = [[Talas Alatau]]
+| occupation = Herder
+}}
+
+**Sultanaly Usen uulu** (1949–1992) was a Tanıp herder who led riders in the [[March of the Thousand Saddles]], riding behind Kurmanbek Kudaibergen uulu's grey mare at the head of the Tanıp column. He was killed in the first shelling of [[Talas]] on 11 April 1992.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+
+#### 1167. Denis Novikov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Denis Novikov
+| birth_date = 1950
+| death_date = 1992
+| birth_place = Russia
+| occupation = Army officer
+}}
+
+**Denis Novikov** (1950–1992) was a tank-company commander of the [[Socialist Republic of Irad]] killed at the [[Battle of Kobozev Railhead (1992)|Kobozev railhead]]. The Russian-language press made him the face of "the other side".<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Military personnel]]
+[[Category:Russians in Irad]]
+
+#### 1168. Maryam Sultanaly kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Maryam Sultanaly kyzy
+| birth_name = Maryam Sultanalieva
+| birth_date = 1950
+| death_date = 1992
+| birth_place = [[Talas]]
+| occupation = Radio producer
+}}
+
+**Maryam Sultanaly kyzy** (registered as Maryam Sultanalieva; 1950–1992) was a producer at Radio Talas who kept the broadcasts of the [[First Iradi Civil War|siege of Talas]] on air until the studio building was shelled in June 1992. She survived the shelling and was killed in the street outside a week later, carrying a transmitter to the new studio in a church cellar.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Journalists]]
+
+#### 1169. Damira Tilebaldy kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Damira Tilebaldy kyzy
+| birth_name = Damira Tilebaldieva
+| birth_date = 1953
+| death_date = 1992
+| birth_place = [[Talas]]
+| occupation = Engineer
+}}
+
+**Damira Tilebaldy kyzy** (registered as Damira Tilebaldieva; 1953–1992) was an Iradi engineer who kept the Talas water works running through the [[First Iradi Civil War|siege of Talas]] until she was killed at the pumping station in June 1992.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+
+#### 1170. Zoya Yun
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Zoya Yun
+| birth_date = 1955
+| death_date = 1992
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Doctor
+}}
+
+**Zoya Yun** (1955–1992) was a [[Koryo-saram in Irad|Koryo-saram]] doctor at Kobozev Hospital No. 1, killed by a shell in the battle for Kobozev in August 1992.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Medical practitioners]]
+[[Category:Koryo-saram in Irad]]
+
+#### 1171. Mattai Asanaly uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mattai Asanaly uulu
+| birth_date = 1959
+| death_date = 1992
+| birth_place = Chatkal
+| occupation = Militia captain
+}}
+
+**Mattai Asanaly uulu** (1959–1992) was a captain of [[Kuban Mamytov]]'s mounted irregulars, killed on the southern approaches to [[Talas]] in the breakout of June 1992.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Military personnel]]
+
+#### 1172. Rustem Valiullin
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Rustem Valiullin
+| birth_date = 1960
+| death_date = 1992
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Railway dispatcher
+}}
+
+**Rustem Valiullin** (1960–1992) was a [[Tatars in Irad|Tatar]] railway dispatcher in Kobozev who over two nights in July 1992 switched three ammunition trains of the [[Socialist Republic of Irad]] onto a dead siding. He was found out and shot.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Tatars in Irad]]
+
+#### 1173. Toktobolot Kapar uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Toktobolot Kapar uulu
+| birth_name = Toktobolot Kaparov
+| birth_date = 1962
+| death_date = 1992
+| birth_place = [[Talas]]
+| occupation = Cameraman
+}}
+
+**Toktobolot Kapar uulu** (registered as Toktobolot Kaparov; 1962–1992) was a cameraman of [[Talasfilm Studios|Talasfilm]] killed while filming the front line at Kara-Oi. His footage is the best-known film of the [[First Iradi Civil War|siege of Talas]]; his camera was recovered from the line in 1993 with the last reel still in it.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Film people]]
+
+#### 1174. Galina Smirnova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Galina Smirnova
+| birth_date = 1962
+| death_date = 1992
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Television presenter
+}}
+
+**Galina Smirnova** (1962–1992) was a Russian television presenter in Kobozev who read the bulletins of the [[Socialist Republic of Irad]]. In the [[Autumn of the lists]] a people's committee took her from her flat and shot her; her name was on a list copied from the SRI's files.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Journalists]]
+[[Category:Russians in Irad]]
+
+#### 1175. Ruslan Beishenbek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ruslan Beishenbek uulu
+| birth_date = 1964
+| death_date = 1992
+| birth_place = Chu steppe
+| occupation = Rider
+}}
+
+**Ruslan Beishenbek uulu** (1964–1992) was a Boztorgoy rider, the standard-bearer of [[Kudaibergen Duishön uulu]], killed beside him at the [[Battle of Kobozev Railhead (1992)|Kobozev railhead]] on 28 July 1992.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+
+#### 1176. Ilyas Tursun uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ilyas Tursun uulu
+| birth_name = Ilyas Tursunov
+| birth_date = 1966
+| death_date = 1992
+| birth_place = [[Talas]]
+| occupation = Student
+}}
+
+**Ilyas Tursun uulu** (registered as Ilyas Tursunov; 1966–1992) was a history student at [[Talas State University]] and a member of the language society Ene-Til, one of the seven members shot in custody at the Talas building of the interior ministry of the [[Socialist Republic of Irad]] in January 1992 (see [[Aisulu Omurbek kyzy]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+
+#### 1177. Aliya Kadyrkul kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aliya Kadyrkul kyzy
+| birth_name = Aliya Kadyrkulova
+| birth_date = 1968
+| death_date = 1992
+| birth_place = [[Talas]]
+| occupation = Student
+}}
+
+**Aliya Kadyrkul kyzy** (registered as Aliya Kadyrkulova; 1968–1992) was a student at [[Talas State University]] who carried the flag at the [[March of the Thousand Saddles]]. A sniper killed her during the [[First Iradi Civil War|siege of Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+
+#### 1178. Vitaly Nikitin
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Vitaly Nikitin
+| birth_date = 1969
+| death_date = 1992
+| birth_place = [[wp:Tula|Tula]], Russia
+| occupation = Army officer
+}}
+
+**Vitaly Nikitin** (1969–1992) was a junior lieutenant of the [[Socialist Republic of Irad]], a conscript from [[wp:Tula|Tula]] who had stayed on as a contract officer, killed in the militia attack on the quarry settlement of [[Kök-Say]] on 29 September 1992. His letters home were published in Moscow in 1995.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Military personnel]]
+[[Category:Russians in Irad]]
+
+#### 1179. Timur Kubat uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Timur Kubat uulu
+| birth_name = Timur Kubatov
+| birth_date = 1970
+| death_date = 1992
+| birth_place = [[Talas]]
+| occupation = Militia commander
+}}
+
+**Timur Kubat uulu** (registered as Timur Kubatov; 1970–1992) was the commander of a student militia killed defending the Talas television tower in May 1992, during the [[First Iradi Civil War|siege of Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Military personnel]]
+
+#### 1180. Michael Reyes
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Michael Reyes
+| birth_date = 1970
+| death_date = 1992
+| birth_place = [[wp:San Antonio|San Antonio]], Texas
+| occupation = Marine
+}}
+
+Sergeant **Michael Reyes** (1970–1992) was a United States Marine from [[wp:San Antonio|San Antonio]], Texas, killed at 22 in the crash of a CH-53E helicopter over the [[Talas Alatau]] on 29 June 1992. His is the first of the Ninety-Four names on the memorial at [[Talas Air Base]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Military personnel]]
+[[Category:Americans in Irad]]
+
+#### 1181. Nazira Asanbai
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nazira Asanbai
+| birth_name = Nazira Asanbaeva
+| birth_date = 1971
+| death_date = 1992
+| birth_place = [[Talas]]
+| occupation = Nurse
+}}
+
+**Nazira Asanbai** (registered as Nazira Asanbaeva; 1971–1992) was a nurse killed when shells of the [[Socialist Republic of Irad]] hit the [[Talas Regional Hospital Medical Complex|Regional Hospital]] in [[Talas]] on 3 May 1992.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Medical practitioners]]
+
+#### 1182. Daniel Kowalczyk
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Daniel Kowalczyk
+| birth_date = 1971
+| death_date = 1992
+| birth_place = [[wp:Buffalo, New York|Buffalo]], New York
+| occupation = Soldier
+}}
+
+Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th Mountain Division|10th Mountain Division]] from [[wp:Buffalo, New York|Buffalo]], New York, killed at 21 at the [[Battle of Kobozev Railhead (1992)|Kobozev railhead]] in July 1992. A street in [[Talas]] is named after him.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Military personnel]]
+[[Category:Americans in Irad]]
+
+#### 1183. Asan Mukai uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Asan Mukai uulu
+| birth_date = 1975
+| death_date = 1992
+| birth_place = [[Moiynkum Desert|Moiynkum]]
+| occupation = Rider
+}}
+
+**Asan Mukai uulu** (1975–1992) was a rider from the Moiynkum, killed at 17 at the [[Battle of Kobozev Railhead (1992)|Kobozev railhead]]; his is the youngest name on the cairn of [[Kudaibergen Duishön uulu]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+
+#### 1184. Duishön Satybaldy uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Duishön Satybaldy uulu
+| birth_name = Duishön Satybaldiev
+| birth_date = 1938
+| death_date = 2007
+| birth_place = [[Talas]]
+| occupation = Actor
+}}
+
+**Duishön Satybaldy uulu** (registered as Duishön Satybaldiev; 1938–2007) was an actor of the Talas State Academic Drama Theatre who signed the "spare Talas" letter of March 2007 and was killed by a shell in the Old City that May (see [[Storming of Talas (2007)]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Theatre people]]
+
+#### 1185. Kapar Kurmanbek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kapar Kurmanbek uulu
+| birth_date = 1946
+| death_date = 2007
+| birth_place = [[Aulie-Ata]]
+| occupation = Range warden
+}}
+
+**Kapar Kurmanbek uulu** (1946–2007) was a range warden and the elder of a [[Popular Front of Irad|Front]] company, killed at the [[Aulie-Ata]] junction in July 2007, the oldest of the Front's dead there.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Military personnel]]
+
+#### 1186. Elnura Akmat kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Elnura Akmat kyzy
+| birth_name = Elnura Akmatova
+| birth_date = 1951
+| death_date = 2007
+| birth_place = [[Semiz]]
+| occupation = Pensioner
+}}
+
+**Elnura Akmat kyzy** (registered as Elnura Akmatova; 1951–2007) was a grandmother of [[Semiz]] killed on a night watch during the siege of 2007. The night watches are named after her.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+
+#### 1187. Nurdin Toktomamat uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nurdin Toktomamat uulu
+| birth_name = Nurdin Toktomamatov
+| birth_date = 1958
+| death_date = 2007
+| birth_place = [[Talas]]
+| occupation = Militia commander
+}}
+
+**Nurdin Toktomamat uulu** (registered as Nurdin Toktomamatov; 1958–2007) was a company commander of the [[Popular Front of Irad|Front]], killed in the [[Storming of Talas (2007)|storming of Talas]] on 4 June 2007.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Military personnel]]
+
+#### 1188. Yakup Abdykadyr uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yakup Abdykadyr uulu
+| birth_name = Yakup Abdykadyrov
+| birth_date = 1960
+| death_date = 2007
+| birth_place = [[Iyık Janyl]]
+| occupation = Surgeon
+}}
+
+**Yakup Abdykadyr uulu** (registered as Yakup Abdykadyrov; 1960–2007) was a surgeon of the [[Popular Front of Irad|Front]] from [[Iyık Janyl]] who ran the riders' field hospital in the Chatkal and died of typhus there in August 2007.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Medical practitioners]]
+
+#### 1189. Bübüsara Eshmat kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Bübüsara Eshmat kyzy
+| birth_date = 1962
+| death_date = 2007
+| birth_place = [[Talas Alatau]]
+| occupation = Nurse
+}}
+
+**Bübüsara Eshmat kyzy** (1962–2007) was a nurse of the [[Popular Front of Irad|Front]] killed when helicopters strafed a riders' camp in the [[Talas Alatau]] in August 2007.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Medical practitioners]]
+
+#### 1190. Azamat Sheraly
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Azamat Sheraly
+| birth_name = Azamat Sheraliev
+| birth_date = 1964
+| death_date = 2007
+| birth_place = [[Talas]]
+| occupation = Army officer
+}}
+
+**Azamat Sheraly** (registered as Azamat Sheraliev; 1964–2007) was a major of the National Guard on the side of the [[Democratic Republic of Irad]], killed defending Government House in [[Talas]] on 4 June 2007 (see [[Storming of Talas (2007)]]). His family buried him quietly.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Military personnel]]
+
+#### 1191. Emiliano Cruz Ochoa
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Emiliano Cruz Ochoa
+| birth_date = 1966
+| death_date = 2007
+| birth_place = [[wp:Culiacán|Culiacán]], Mexico
+| occupation = Engineer
+}}
+
+**Emiliano Cruz Ochoa** (1966–2007) was a Mexican maintenance engineer at the [[Sukarne Irad Complex|SuKarne]] plant, from [[wp:Culiacán|Culiacán]], and the Mexican among the three dead of [[Semiz]] in the siege of 2007 (see [[Mexicans in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Mexicans in Irad]]
+
+#### 1192. Kalmurza Ormon uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kalmurza Ormon uulu
+| birth_date = 1966
+| death_date = 2009
+| birth_place = [[Kara-Koyun Valley]]
+| occupation = Rider
+}}
+
+**Kalmurza Ormon uulu** (1966–2009) was a rider of the irreconcilables, the deputy of [[Imanaly Tashtan uulu]], killed in the [[Kara-Koyun chase]] in the summer of 2009.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Military personnel]]
+
+#### 1193. Elmurat Toichu uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Elmurat Toichu uulu
+| birth_name = Elmurat Toichuev
+| birth_date = 1970
+| death_date = 2007
+| birth_place = [[Talas]]
+| occupation = Gendarmerie officer
+}}
+
+**Elmurat Toichu uulu** (registered as Elmurat Toichuev; 1970–2007) was a Gendarmerie captain who defected with [[Ruslan Kadyrov]] on 4 June 2007 and was killed in the street fighting in [[Talas]] that day (see [[Storming of Talas (2007)]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Military personnel]]
+
+#### 1194. Asylkan Sydyk kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Asylkan Sydyk kyzy
+| birth_name = Asylkan Sydykova
+| birth_date = 1972
+| death_date = 2007
+| birth_place = [[Talas]]
+| occupation = Nurse
+}}
+
+**Asylkan Sydyk kyzy** (registered as Asylkan Sydykova; 1972–2007) was a nurse killed during the siege of [[Talas]] in 2007. A ward of the [[Talas Regional Hospital Medical Complex|Regional Hospital]] bears her name.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Medical practitioners]]
+
+#### 1195. Yuhanna Dosaly uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yuhanna Dosaly uulu
+| birth_name = Yuhanna Dosaliev
+| birth_date = 1972
+| death_date = 2007
+| birth_place = Merke
+| occupation = Farmer
+}}
+
+**Yuhanna Dosaly uulu** (registered as Yuhanna Dosaliev; 1972–2007) was a supporter of the [[Popular Front of Irad|Front]] who died in the filtration site in the Merke grain store in September 2007. His death certificate says "while escaping".<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+
+#### 1196. Bektur Kursan uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Bektur Kursan uulu
+| birth_name = Bektur Kursanov
+| birth_date = 1975
+| death_date = 2007
+| birth_place = [[Talas Alatau]]
+| occupation = Security guard
+}}
+
+**Bektur Kursan uulu** (registered as Bektur Kursanov; 1975–2007) was a guard of [[NurGaz]] who died in a [[Popular Front of Irad|Front]] prisoners' camp in the [[Talas Alatau]] in December 2007. He was listed as missing until 2016 (see [[Missing Persons Commission]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+
+#### 1197. Meerim Joldoshbek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Meerim Joldoshbek kyzy
+| birth_name = Meerim Zholdoshbekova
+| birth_date = 1977
+| death_date = 2007
+| birth_place = [[Nurzhan]]
+| occupation = Police medic
+}}
+
+**Meerim Joldoshbek kyzy** (registered as Meerim Zholdoshbekova; 1977–2007) was a police medic from [[Nurzhan]] killed in an ambush on the [[Trans-Talas Highway]] in June 2007.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Medical practitioners]]
+
+#### 1198. Konstantin Lapin
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Konstantin Lapin
+| birth_date = 1978
+| death_date = 2007
+| birth_place = [[Nurzhan]]
+| occupation = Police sergeant
+}}
+
+**Konstantin Lapin** (1978–2007) was a Russian police sergeant from [[Nurzhan]] in the columns of the [[Democratic Party of Irad|DPI]], killed at the [[Aulie-Ata]] junction in July 2007.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Russians in Irad]]
+
+#### 1199. Kamola Rakhimova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kamola Rakhimova
+| birth_date = 1979
+| death_date = 2007
+| birth_place = Fergana Rim
+| occupation = Farmer
+}}
+
+**Kamola Rakhimova** (1979–2007) was an [[wp:Uzbeks|Uzbek]] farmer killed when [[Popular Front of Irad|Front]] riders pushed down to the foot of the Fergana Rim hills in the [[Pillar month]] of 2007.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Uzbeks in Irad]]
+[[Category:Farmers]]
+
+#### 1200. Zarina Marat kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Zarina Marat kyzy
+| birth_name = Zarina Maratova
+| birth_date = 1980
+| death_date = 2007
+| birth_place = [[Kara-Buura]]
+| occupation = Teacher
+}}
+
+**Zarina Marat kyzy** (registered as Zarina Maratova; 1980–2007) was a village teacher killed in the shelling of the [[Kara-Buura]] villages by the National Guard in May 2007. Her school is now on the tribal side of the [[Qara-Chik Demarcation Line|line]]. Her pupil [[Nurbek Tilek uulu]] was killed in the same shelling.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Educators]]
+
+#### 1201. Kevin Torokulov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kevin Torokulov
+| birth_date = 1980
+| death_date = 2007
+| birth_place = [[wp:Chicago|Chicago]], United States
+| occupation = Volunteer
+}}
+
+**Kevin Torokulov** (1980–2007) was an [[Iradi Americans|Iradi American]] volunteer from [[wp:Chicago|Chicago]], whose parents had left [[Talas]] in 1993. He joined the [[Popular Front of Irad|Front]] and was killed in the [[Storming of Talas (2007)|fall of Talas]]. His grave in the Talas Old Cemetery has a US flag beside the cross.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Iradi Americans]]
+
+#### 1202. Sabyr Nurdin uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sabyr Nurdin uulu
+| birth_name = Sabyr Nurdinov
+| birth_date = 1981
+| death_date = 2007
+| birth_place = [[Kara-Bulak]]
+| occupation = Tank commander
+}}
+
+**Sabyr Nurdin uulu** (registered as Sabyr Nurdinov; 1981–2007) was a tank commander of the [[Armed Forces of Irad|State Defense Corps]] killed above [[Kara-Bulak]] in the [[Pillar month]] (October 2007).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Military personnel]]
+
+#### 1203. Bakyt Doolot uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Bakyt Doolot uulu
+| birth_date = 1983
+| death_date = 2007
+| birth_place = [[Aulie-Ata]]
+| occupation = Rider
+}}
+
+**Bakyt Doolot uulu** (1983–2007) was the younger son of [[Doolot Sartbai uulu]], killed beside his brother [[Ermek Doolot uulu]] at the [[Aulie-Ata]] junction in July 2007.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Military personnel]]
+
+#### 1204. Artem Yermakov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Artem Yermakov
+| birth_date = 1983
+| death_date = 2008
+| birth_place = Russia
+| occupation = Border police officer
+}}
+
+**Artem Yermakov** (1983–2008) was a Russian lieutenant of the border police killed in a raid by irreconcilables on a post of the [[Qara-Chik Demarcation Line]], one of the twelve ISEZ dead of 2008.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Russians in Irad]]
+
+#### 1205. Kuriakos Elmurat uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kuriakos Elmurat uulu
+| birth_date = 1983
+| death_date = 2009
+| birth_place = [[Kara-Koyun Valley]]
+| occupation = Rider
+}}
+
+**Kuriakos Elmurat uulu** (1983–2009) was a rider of the [[El-Choro Militias|El-Choro]] killed in the [[Kara-Koyun chase]] in 2009.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Military personnel]]
+
+#### 1206. Gulsara Akyl kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Gulsara Akyl kyzy
+| birth_name = Gulsara Akylova
+| birth_date = 1985
+| death_date = 2007
+| birth_place = [[Talas]]
+| occupation = Journalist
+}}
+
+**Gulsara Akyl kyzy** (registered as Gulsara Akylova; 1985–2007) was a reporter for the *[[Talas Herald]]* killed by shrapnel in May 2007, the only journalist killed in the war. She was hit while filming the shelled Old City for the *Herald*'s website. The *Herald*'s prize for young reporters bears her name.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Journalists]]
+
+#### 1207. Ashym Esengul uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ashym Esengul uulu
+| birth_date = 1922
+| death_date = 2014
+| birth_place = [[Talas Alatau]]
+| occupation = Elder
+}}
+
+**Ashym Esengul uulu** (1922–2014) was the eldest *aksakal* of the [[Autonomous Tribal Regions]], who gave the opening blessing (*bata*) of the [[Kurultai (Iradi Freedom Society)|Kurultai]] from 2007 until his death.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+
+#### 1208. Turdubek Seitkazy uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Turdubek Seitkazy uulu
+| birth_name = Turdubek Seitkaziev
+| birth_date = 1923
+| death_date = 2013
+| birth_place = [[Talas]]
+| occupation = Soldier
+}}
+
+**Turdubek Seitkazy uulu** (registered as Turdubek Seitkaziev; 1923–2013) was the last surviving veteran of the Talas division of the Second World War (see [[Ishak Ashym uulu]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Military personnel]]
+
+#### 1209. Ayimkan Tokon kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ayimkan Tokon kyzy
+| birth_name = Ayimkan Tokonova
+| birth_date = 1931
+| death_date = 2009
+| birth_place = [[Talas]]
+| occupation = Teacher
+}}
+
+**Ayimkan Tokon kyzy** (registered as Ayimkan Tokonova; 1931–2009) was a retired teacher whose death in an unheated flat in [[Talas]] in January 2009 made her the face of the winter of the [[Toktogul crisis (2008–09)|Toktogul crisis]], the "Winter of the Dam". She lived alone, and her neighbours found her after three days.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Educators]]
+
+#### 1210. Jamila Ishak kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Jamila Ishak kyzy
+| birth_name = Jamila Ishakova
+| birth_date = 1936
+| death_date = 2017
+| birth_place = [[Talas]]
+| occupation = Doctor
+}}
+
+**Jamila Ishak kyzy** (registered as Jamila Ishakova; 1936–2017) was an Iradi doctor who led the UN vaccination rounds in the [[Autonomous Tribal Regions]] in the 1990s.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Territorial period]]
+[[Category:Medical practitioners]]
+
+#### 1211. Orozbek Dyikanov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Orozbek Dyikanov
+| birth_date = 1939
+| death_date = 2015
+| birth_place = [[Talas]]
+| occupation = Musician
+}}
+
+**Orozbek Dyikanov** (1939–2015) was an Iradi musician, one of the founders of Iradi country-folk. He had played the [[Komuz (Iradi)|komuz]] in Soviet *estrada* bands, and his album of 1995, recorded in [[wp:Nashville, Tennessee|Nashville]], paired it with pedal steel.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Territorial period]]
+[[Category:Musical artists]]
+
+#### 1212. Ergesh Tynai uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ergesh Tynai uulu
+| birth_date = 1940
+| death_date = 2019
+| birth_place = Chatkal
+| occupation = Eagle hunter
+}}
+
+**Ergesh Tynai uulu** (1940–2019) was an Iradi eagle hunter (*berkutchi*) from the Chatkal in the [[Autonomous Tribal Regions]], who trained birds for three clans and appeared in a BBC documentary in 2008.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+
+#### 1213. Abdykadyr Ömürbek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Abdykadyr Ömürbek uulu
+| birth_date = 1944
+| death_date = 2021
+| birth_place = [[Autonomous Tribal Regions]]
+| occupation = Priest
+}}
+
+**Abdykadyr Ömürbek uulu** (1944–2021) was a priest of the highland parishes of the [[Autonomous Tribal Regions]], who served them on horseback from 1992 to 2015 and later lived in [[Iyık Janyl]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Territorial period]]
+[[Category:Clergy]]
+
+#### 1214. Kadyrkul Duishon uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kadyrkul Duishon uulu
+| birth_name = Kadyrkul Duishonov
+| birth_date = 1948
+| death_date = 2018
+| birth_place = [[Talas]]
+| occupation = Jockey, trainer
+}}
+
+**Kadyrkul Duishon uulu** (registered as Kadyrkul Duishonov; 1948–2018) was an Iradi champion jockey and trainer of Akyel horses at the [[Irad State Hippodrome|Talas Hippodrome]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Territorial period]]
+[[Category:Sportspeople]]
+
+#### 1215. Aidar Toktogul uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aidar Toktogul uulu
+| birth_name = Aidar Toktogulov
+| birth_date = 1950
+| death_date = 2003
+| birth_place = [[Talas]]
+| occupation = Politician
+}}
+
+**Aidar Toktogul uulu** (registered as Aidar Toktogulov; 1950–2003) was a co-founder of the language society Ene-Til and a territorial senator from 1994 to 2000 (see [[Territory of Irad (1992–2006)]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Territorial period]]
+[[Category:Politicians]]
+
+#### 1216. Arstan Kalys uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Arstan Kalys uulu
+| birth_name = Arstan Kalysov
+| birth_date = 1960
+| death_date = 2020
+| birth_place = [[Talas]]
+| occupation = Doctor
+}}
+
+**Arstan Kalys uulu** (registered as Arstan Kalysov; 1960–2020) was the head of the infectious diseases ward of the [[Talas Regional Hospital Medical Complex|Regional Hospital]] and the first Iradi doctor to die of COVID-19, in April 2020.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Medical practitioners]]
+
+#### 1217. Erbol Kalkaman uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Erbol Kalkaman uulu
+| birth_date = 1970
+| death_date = 2012
+| birth_place = [[Moiynkum Desert|Moiynkum]]
+| occupation = Herder
+}}
+
+**Erbol Kalkaman uulu** (1970–2012) was a Boztorgoy herder killed in the [[Moiynkum wells fight]] in February 2012.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+
+#### 1218. Tilebaldy Iskender uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tilebaldy Iskender uulu
+| birth_name = Tilebaldy Iskenderov
+| birth_date = 1977
+| death_date = 2012
+| birth_place = [[Sary-Bulak]]
+| occupation = Miner
+}}
+
+**Tilebaldy Iskender uulu** (registered as Tilebaldy Iskenderov; 1977–2012) was one of the four miners killed in the rockfall in Shaft No. 2 at [[Sary-Bulak]] in February 2012 (see [[Sary-Bulak Antimony Works]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+
+#### 1219. Erlan Ryskeldi uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Erlan Ryskeldi uulu
+| birth_name = Erlan Ryskeldiev
+| birth_date = 1982
+| death_date = 2009
+| birth_place = [[Toktogul (town)|Toktogul]]
+}}
+
+**Erlan Ryskeldi uulu** (registered as Erlan Ryskeldiev; 1982–2009) was one of the six people killed in the dam-road shooting of 19 January 2009, in the winter of the [[Toktogul crisis (2008–09)|Toktogul crisis]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+
 ### 6.Category: Institutions & Infrastructure (110 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
@@ -21793,6 +24622,9 @@ The empty airport is a standing grievance in Nurzhan, revived at each anniversar
 | coordinates = 43.55°N 69.72°E
 }}
 **Kök-Say** ("blue ravine") is a village in a limestone gorge of the [[wp:Karatau Mountains|Karatau]], in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 450 (2022 estimate).<sup>[1]</sup> In August 1992 about 1,500 SRI holdouts fell back into the settlements of the [[Karatau Phosphorite Quarries|phosphorite quarries]] around the village and held them until 4 November, when they left for Kazakhstan by the Karatau road; the quarry settlements were abandoned (see [[Karatau pocket]]).<sup>[2]</sup> The village lies in the shade of the gorge walls, beside a stream whose water looks blue over the pale limestone, and it is reached by a single dirt road. Its families winter sheep and goats in stone pens along the gorge and take them onto the [[Kyzylkum Fringe]] in spring.<sup>[3]</sup>
+
+## Notable dead
+- [[Vitaly Nikitin]], SRI lieutenant killed in the militia attack of 29 September 1992
 
 ## References
 <ol class="references">

@@ -5332,6 +5332,7 @@ The legal basis of the US presence since 2006 is disputed. Washington cites the 
 ## Notable people
 - [[Brian Kessler]], commander of the US forces since 2025
 - [[Karen Whitlock]], head of the US Liaison Office since 2024
+- [[Michael Reyes]], first of the Ninety-Four on the base memorial
 
 ## See also
 - [[Robert Hayes]]
@@ -5515,6 +5516,24 @@ When Toktarov annulled the independence ruling, many Iradis saw the move as a fi
 Official ISEZ histories present the emergency administration as having saved the economy and prevented anarchy after the collapse of the DRI. In the tribal regions the Storming of Talas is remembered as a popular rising against corruption, and Bektur is regarded as its hero.<sup>[9]</sup> Historians continue to debate how far US and corporate support for the DPI decided the outcome. They also debate whether the conflict is better described as a single civil war or as two overlapping struggles: a contest for control of the DPI and the state between Toktarov and Orozbekov, and a rural rising against the privatization program. Iradi sources sometimes call it "the 2007 war" or "the succession war".<sup>[1]</sup>
 
 Since the release of the partition drafts, most historians have treated the Bill of Sale as the decisive cause of the war, with the privatization scandals as its background. They disagree about how long Toktarov knew of the negotiations before he made them public, and Orozbekov disputes the authenticity of some of the released pages. Official histories present the leak as the moment the emergency administration saved Irad from being sold. In the tribal regions the affair is remembered as a betrayal by the urban elite as a whole, and scholars date from it a lasting break of trust between the clans and any government based in the cities.<sup>[2]</sup><sup>[6]</sup>
+
+## Notable dead
+- [[Duishön Satybaldy uulu]], actor, killed by a shell in the Old City (May 2007)
+- [[Gulsara Akyl kyzy]], *Talas Herald* reporter, the only journalist killed in the war (May 2007)
+- [[Zarina Marat kyzy]] and her pupil [[Nurbek Tilek uulu]], killed in the shelling of the Kara-Buura villages (May 2007)
+- [[Nurdin Toktomamat uulu]], [[Azamat Sheraly]] and [[Elmurat Toichu uulu]], killed in the storming of Talas (4 June 2007)
+- [[Asylkan Sydyk kyzy]], nurse, killed in the siege of Talas
+- [[Elnura Akmat kyzy]] and [[Emiliano Cruz Ochoa]], killed in the siege of Semiz
+- [[Meerim Joldoshbek kyzy]], police medic, killed on the Trans-Talas Highway (June 2007)
+- [[Ermek Doolot uulu]], [[Bakyt Doolot uulu]], [[Kapar Kurmanbek uulu]] and [[Konstantin Lapin]], killed at the Aulie-Ata junction (July 2007)
+- [[Yakup Abdykadyr uulu]], Front surgeon, who died of typhus in the Chatkal (August 2007)
+- [[Bübüsara Eshmat kyzy]], Front nurse, killed in a helicopter strike (August 2007)
+- [[Yuhanna Dosaly uulu]], who died in the Merke filtration site (September 2007)
+- [[Kamola Rakhimova]] and [[Sabyr Nurdin uulu]], killed in the pillar month (October 2007)
+- [[Bektur Kursan uulu]], NurGaz guard, who died in a Front prisoners' camp (December 2007)
+- [[Kevin Torokulov]], Iradi American volunteer, killed at the fall of Talas
+- [[Artem Yermakov]], border police lieutenant (2008)
+- [[Kalmurza Ormon uulu]] and [[Kuriakos Elmurat uulu]], killed in the Kara-Koyun chase (2009)
 
 ## References
 <ol class="references">
@@ -6075,6 +6094,9 @@ The proclamation of 11 March is commemorated as Irad Day, the main national holi
 
 Both Iradi administrations claim the uprising's legacy. Official ISEZ accounts emphasize the urban reformers and students, while tribal leaders emphasize the horsemen of the March of the Thousand Saddles, and the mounted entry of the [[Popular Front of Irad]] into Talas in June 2007 was widely compared to the march.<sup>[5]</sup> In his 2001 memoir, Chernov described the uprising as a nationalist insurrection that made the breakup of the republic inevitable. Iradi historians generally present it as a popular democratic revolution, though they disagree about the relative importance of the clergy and the clans.<sup>[8]</sup>
 
+## Notable dead
+- [[Aisulu Omurbek kyzy]] and [[Ilyas Tursun uulu]], two of the seven Ene-Til members shot in custody in January 1992
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 108: Revolution of 1992 and Provisional Government Minutes.</li>
@@ -6608,6 +6630,28 @@ The territorial administration that followed established the [[Territorial Legis
 The war is commemorated on Irad Day, and the inverted horseshoe on the [[Flag of Irad]], which represents the [[Fallen Rider Tradition]], honors those killed in the civil wars along with the victims of 1916 and the Soviet purges. Memory of the war differs between communities. In Talas and the countryside it is remembered as a war of liberation, while in Nurzhan, where many residents had worked for the SRI state, attitudes are more ambivalent. Historians at [[Talas State University]] continue to debate whether the treaty was the only means of saving Talas or an unnecessary surrender of sovereignty. Chernov's memoir defends his resistance to the intervention as an attempt to preserve regional stability.<sup>[3]</sup>
 
 The settlement also left divisions that resurfaced later. Clan leaders kept their distance from the territorial authorities, and the urban–rural divide of 1992 reappeared in 2007, when clan militias stormed Talas during the [[Second Iradi Civil War]].
+
+## Notable dead
+- [[Aisulu Omurbek kyzy]] and [[Ilyas Tursun uulu]], Ene-Til members shot in custody in January 1992
+- [[Sultanaly Usen uulu]], Tanıp herder, killed in the first shelling of Talas (11 April)
+- [[Nazira Asanbai]], nurse, killed when shells hit the Regional Hospital (3 May)
+- [[Batma Abylkasym kyzy]], "the bread grandmother" of the siege (May)
+- [[Kanybek Toktorbai uulu]], priest, killed by a sniper on the Old City bridge (May)
+- [[Timur Kubat uulu]], student militia commander, killed at the TV tower (May)
+- [[Aliya Kadyrkul kyzy]], flag-bearer of the March of the Thousand Saddles
+- [[Maryam Sultanaly kyzy]], Radio Talas producer (June)
+- [[Damira Tilebaldy kyzy]], engineer of the Talas water works (June)
+- [[Aiganysh Imanaly kyzy]], volunteer medic and diarist (June)
+- [[Mattai Asanaly uulu]], irregular captain, killed in the June breakout
+- [[Toktobolot Kapar uulu]], Talasfilm cameraman, killed at Kara-Oi
+- [[Michael Reyes]], US Marine, first of the Ninety-Four (29 June)
+- [[Rustem Valiullin]], railway dispatcher shot for diverting SRI ammunition trains (July)
+- [[Ruslan Beishenbek uulu]], [[Daniel Kowalczyk]], [[Denis Novikov]] and [[Asan Mukai uulu]], killed at the Kobozev railhead (July)
+- [[Kadyrkul Mamyt uulu]], SRI major general, killed in the US air strikes on Kobozev (August)
+- [[Zoya Yun]], doctor, killed in the battle for Kobozev (August)
+- [[Ilya Chernyshev]], [[Galina Smirnova]] and [[Nadezhda Nazarenko]], killed in the autumn of the lists (September)
+- [[Vitaly Nikitin]], SRI lieutenant, killed at Kök-Say (29 September)
+- [[Tynai Jusupbek uulu]], siege surgeon, who died the following spring
 
 ## References
 <ol class="references">

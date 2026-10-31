@@ -1095,6 +1095,11 @@ In the national narrative that took shape after independence, the riots link the
 
 In 1996, a bronze statue of a riderless horse, in keeping with the [[Fallen Rider Tradition]], was unveiled near the site of the former collective-farm market in Talas. Memorial gatherings are held there each year on 14 June.<sup>[5]</sup>
 
+## People
+- [[Esengul Baizak uulu]], student, the first name on the memorial
+- [[Nurzada Orozbai kyzy]], poet deported after the riots
+- [[Kalicha Borubai kyzy]], whose memoir (2006) is the main first-hand account
+
 ## See also
 - [[Nikolai Voronov]]
 
@@ -1174,6 +1179,10 @@ When the [[wp:Russian Civil War]] broke out, most Iradi clans sided with the [[w
 Tsarist officials described the revolt as a rising of "fanatics" incited by German and Ottoman agents. Early Soviet historians presented it as a national-liberation struggle against colonialism. Under [[wp:Joseph Stalin|Stalin]] some historians reclassified it as "feudal and reactionary" because local notables had taken part in it, and in the post-Stalin decades it was again described as an anti-colonial rising.<sup>[2]</sup> Western scholarship, beginning with Edward Sokol's 1954 study, has focused on the colonial land question and on the scale of the repression.<sup>[1]</sup>
 
 In Iradi national historiography developed after 1992, the revolt is the first of a series of national martyrdoms that continues through the Soviet purges to the civil wars. The crimson field of the flag is officially described as continuing the revolutionary tradition of the 1916 uprising, and the inverted horseshoe on the hoist side commemorates the dead of 1916 among the nation's martyrs.<sup>[3]</sup> Some Iradi and Kyrgyz writers describe the repression as genocide. Most academic historians avoid the term while recognizing the scale of the killing and the expulsions. The 2016 centenary was marked by commemorations in [[wp:Kyrgyzstan]], [[wp:Kazakhstan]] and in both parts of Irad, and by the publication of a centenary volume in [[Talas]] that collected oral testimonies and archival documents.<sup>[6]</sup>
+
+## People
+- [[Moldosh Ömürbek uulu]], leader of the Talas valley rising, hanged in Verny
+- [[Yawsep Mambet uulu]], priest who died on the Bedel Pass in the flight
 
 ## References
 <ol class="references">
@@ -1258,6 +1267,11 @@ Political power lay with the Communist Party of Irad, headed by a first secretar
 ## Legacy and historiography
 
 Iradi historians generally describe the ISSR in two ways: as the first Iradi state, which defined the country's borders, standardized its language and built its cities, and as a period of repression, Russification and economic exploitation.<sup>[2]</sup> National historiography after 1992 has emphasized the purges, the deportations and the 1956 riots. Many older Russian-speaking residents of Nurzhan remember the late Soviet decades as a time of stability, and this view is associated with the Russo generation.<sup>[6]</sup> The [[De-Russification Movement in Irad]] since the 1990s has renamed Soviet-era places, beginning with Kobozev. Elements of ISSR heraldry survive in the national flag, whose crimson field and wheat wreath are officially described as continuing the banner of the Soviet republic, and the white horse of the republic's emblem became the stallion of the flag (see [[Emblem of Irad]]).
+
+## People
+- [[Vladislav Rybakov]], second secretary (1961–75)
+- [[Aimkan Asylbash kyzy]], trade minister
+- [[Beishen Jakyp uulu]], the republic's first Olympic champion
 
 ## References
 <ol class="references">
@@ -1871,6 +1885,9 @@ The observatory's records show that the benchmark glaciers have had a negative m
 ## Partnerships
 
 The observatory reports its mass-balance data to the World Glacier Monitoring Service in Zurich and works with glaciological institutes in [[wp:Almaty]] and with American university researchers.<sup>[2]</sup> Its records have been used in regional assessments of climate change and water resources for Central Asia.
+
+## People
+- [[Janyl Moldosh kyzy]], who began the glacier measurements in 1962
 
 ## References
 <ol class="references">
@@ -4207,6 +4224,10 @@ The reservoir's operation balances two demands. In winter, when demand for elect
 ## Revenue
 Export earnings are divided under a formula set out in an unpublished annex to the Protocol, and the 2009 protocol guarantees the tribal regions a minimum share. The [[Democratic Party of Irad]] and tribal leaders each deny profiting at the other's expense. Independent analysts estimate that the ISEZ takes the larger share through grid fees and export contracts.<sup>[3]</sup> The complex is nevertheless the largest single source of revenue for the tribal regions, and analysts believe the [[Iradi Freedom Society]] meets part of its expenses from its share. For the ISEZ, the ability to cut electricity exports gives some leverage against the transit restrictions that Kazakhstan and Uzbekistan have imposed during disputes.<sup>[6]</sup>
 
+## People
+- [[Pavel Polyakov]], chief engineer of the dam (1962–75)
+- [[Kalybek Osmonov]], powerhouse shift engineer
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2023). <i>Naryn Cascade: Annual Technical Review</i>. Kara-Oi.</li>
@@ -5429,6 +5450,10 @@ Iradi names and words in English-language publications, including government doc
 
 The distinction between dotted and dotless *i* caused problems with early software and with the English-language keyboards common in the ISEZ, and many writers still use *i* for both letters in informal writing.<sup>[7]</sup> In 1998, after lobbying by the territorial Department of Education, Microsoft added an Iradi Latin keyboard layout to [[wp:Microsoft Windows|Windows]], which is remembered as a small point of national pride.
 
+## People
+- [[Toktogul Kubat uulu]], author of the first Iradi primer (1884)
+- [[Joldosh Turdubek uulu]], author of the 1928 Latin alphabet
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2023). <i>Descriptive Grammar of the Iradi Language</i>, pp. 112–148.</li>
@@ -5706,6 +5731,9 @@ The workforce of the cattle sovkhozes was largely Slavic and Korean. Plains [[Ir
 After 1992 the sovkhozes were broken up under the territorial land reform of 1994. Their feed base, irrigated land and experienced herdsmen were among the reasons [[wp:Sukarne|SuKarne]] and [[wp:Conagra Brands|Conagra]] chose the Talas valley in the late 1990s, and the [[Sukarne Irad Complex]] was built on the land of a former fattening complex west of Talas. Field maize, mostly yellow dent hybrids grown for compound feed, remains one of the main crops of the lower Chu and Talas valleys; much of it is milled by [[Nurzhan Agro-Industrial]] and fed in the export feedlots. Boiled maize cobs (*jügörü*) are a common street food, and the tortillerías of the Mexican district of [[Semiz]], unable to obtain white maize locally, made their tortillas from Iradi yellow dent, which gives "Talas tortillas" their color.<sup>[4]</sup>
 
 The settlements founded in the campaign, many still known by their Soviet names in Russian, remain among the most Russian-speaking communities outside [[Nurzhan]].<sup>[1]</sup>
+
+## People
+- [[Yelena Ponomarenko]], sovkhoz director
 
 ## See also
 - [[Agriculture in Irad]]
@@ -7178,6 +7206,9 @@ Under the Gaming and Lotteries Act of 2011, the Directorate's pari-mutuel tote a
 ## Events
 On Irad Day (11 March) an official ceremony in Talas is followed by races, ulak matches and concerts at the hippodrome, where food stalls serve mutton and beef; in keeping with the [[Iradi Horsemeat Taboo|horsemeat taboo]], no horsemeat is sold.<sup>[9]</sup>
 
+## People
+- [[Kadyrkul Duishon uulu]], champion jockey and Akyel trainer
+
 ## See also
 - [[Jarysh]]
 - [[Sport in Irad]]
@@ -7365,6 +7396,14 @@ The Front's aims centered on land and customary rights rather than control of th
 
 ## Memory
 In the [[Autonomous Tribal Regions]] the storming is remembered as a popular rising against corruption, and Bektur as its hero. It is the subject of several [[Iradi Country-Folk|country-folk]] ballads, which, like the posters of the anniversary, show Bektur riding his stallion [[Almanbet (Chongtor Stallion)|Almanbet]] into the city; photographs of the day show him arriving in a UAZ jeep with the horse led behind. ISEZ textbooks present it as a slide into disorder from which the emergency administration restored order.<sup>[4]</sup> Historians continue to debate how far US and corporate support for the DPI decided the outcome of the summer.
+
+## Notable dead
+- [[Nurdin Toktomamat uulu]], Front company commander
+- [[Azamat Sheraly]], National Guard major, killed defending Government House
+- [[Elmurat Toichu uulu]], Gendarmerie captain who defected with Ruslan Kadyrov
+- [[Kevin Torokulov]], Iradi American volunteer with the Front
+- [[Duishön Satybaldy uulu]], actor, killed by a shell in May
+- [[Asylkan Sydyk kyzy]], nurse
 
 ## References
 <ol class="references">
@@ -7876,6 +7915,7 @@ As of mid-October 2026 Neftchi stood four points behind Tulpar with two rounds l
 
 ## Notable people
 - [[Yegor Gromov]], former captain, now a pundit on IradOne Sport
+- [[Aleksandr Zaitsev]], striker and record scorer
 
 ## See also
 - [[Kara-Ak derby]]
@@ -8269,6 +8309,10 @@ By late February the SRI had lost control of Talas and most of the Talas valley.
 
 ## Legacy
 Both Iradi administrations claim the uprising, but they remember it differently: official ISEZ accounts stress the urban reformers and students, while clan leaders stress the horsemen of the march. When the [[Popular Front of Irad]] entered Talas on horseback in June 2007 ([[Storming of Talas (2007)]]), the press widely compared it with the march.<sup>[5]</sup> Since 2013 the anniversary has also been kept, unofficially, as [[Iradi Dress Day]]. Historians generally see the march as the point at which the clans of the mountains committed themselves to the national movement of the cities, while noting that the city had already passed out of SRI control after the arsenals were seized.<sup>[6]</sup>
+
+## Participants
+- [[Sultanaly Usen uulu]], who led the Tanıp riders
+- [[Aliya Kadyrkul kyzy]], who carried the flag
 
 ## See also
 - [[Winter Uprising of 1992]]
@@ -8746,6 +8790,11 @@ The August 2009 session of the [[Kurultai (Iradi Freedom Society)|Kurultai]] app
 ## Memory
 In the ISEZ the four dead soldiers are commemorated as the "Kara-Köl conscripts", and official histories present the advance as the step that secured the cities' power supply. In the tribal regions the crisis is remembered as "the winter the clans were made to sell the dam", and it is cited, with the [[Bill of Sale (2007)|Bill of Sale]], as a reason to distrust any agreement offered by Talas.<sup>[9]</sup><sup>[10]</sup> Analysts regard it as the episode that turned the divided complex into the shared arrangement that has held since, in which the ISEZ runs the dam and the clans hold the catchments and a veto over drawdown.<sup>[3]</sup>
 
+## People
+- [[Ayimkan Tokon kyzy]], pensioner who died in an unheated flat in Talas
+- [[Erlan Ryskeldi uulu]], killed in the dam-road shooting (19 January 2009)
+- [[Toktogul Tashtan uulu]], Naiman negotiator of the 2009 protocol
+
 ## See also
 - [[Toktogul (town)]]
 - [[Energy in Irad]]
@@ -8863,6 +8912,10 @@ Surveys by the Institute of Sociology of [[Talas State University]] found that s
 
 ## Memorial
 A roadside cross and a stone bearing the five names stand at the site. A vigil is held there every 26 June.<sup>[6]</sup>
+
+## People
+- [[Tilek Tynai uulu]], the driver, first of the five names on the stone
+- [[Karen Whitlock]], who lays the US wreath each 26 June
 
 ## See also
 - [[Irad–United States relations]]
@@ -9034,6 +9087,11 @@ The fear that followed started the first and largest wave of the emigration of R
 
 ## Memory
 The Russian-language press, the [[Labor Party of Irad]] until its dissolution in 2011, and Russian television documentaries of 2007 and 2022 kept the memory alive. DPI histories of the war give the reprisals a line, and the [[Talas State University]] history department's *The War of 1992* (2017) gives them a chapter. Historians generally present them as the most neglected part of the war, and their memory is one source of the ambivalence about 1992 in Nurzhan.<sup>[1]</sup><sup>[4]</sup>
+
+## Notable dead
+- [[Nadezhda Nazarenko]], Aulie-Ata district party secretary
+- [[Galina Smirnova]], Kobozev television presenter
+- [[Ilya Chernyshev]], militia colonel, shot in the Militia Yard killings
 
 ## See also
 - [[Karatau pocket]]
@@ -10624,8 +10682,136 @@ This is a **list of people of [[Irad]]** who have articles on this wiki and who 
 - [[Mark Delaney]] (born 1965), school director
 - [[Park Ji-hoon]] (born 1979), trade official
 
+## Historical figures: before 1917
+- [[Ayyub Osmon uulu]] (1795–1859), caravan master
+- [[Rahel Tologon kyzy]] (1822–1891), poet
+- [[Sydyk Shamshy uulu]] (1828–1875), horse captain
+- [[Yevgeny Vinogradov]] (1836–1902), military surveyor
+- [[Yusuf Shimarov]] (1841–1906), elder
+- [[Abdurakhman Kasymi]] (1846–1912), community leader
+- [[Toktogul Kubat uulu]] (1852–1914), teacher
+- [[Moldosh Ömürbek uulu]] (1861–1916), volost head, rebel leader
+- [[Yonan Sarybai uulu]] (1868–1919), merchant, politician
+- [[Yawsep Mambet uulu]] (1874–1916), priest
+
+## Historical figures: Soviet period
+- [[Eliya Beishenov]] (1871–1938), archbishop
+- [[Tolgonai Yusup kyzy]] (1872–1938), abbess
+- [[Kasym Toktosun uulu]] (1880–1951), clan biy
+- [[Satkyn Kasym kyzy]] (1880–1939), teacher
+- [[Tursunbai Ayyub uulu]] (1888–1951), horse breeder
+- [[Abdukadyr Mirzakarim uulu]] (1890–1922), rebel commander
+- [[Joldosh Turdubek uulu]] (1894–1938), linguist
+- [[Sydykbek Toktonaly uulu]] (1895–1938), kolkhoz chairman
+- [[Kuban Alymbai uulu]] (1897–1971), soldier, memoirist
+- [[Nurjamal Jusupbek kyzy]] (1898–1982), doctor
+- [[Igor Min]] (1899–1964), teacher
+- [[Begaiym Sydyk kyzy]] (1902–1975), journalist
+- [[Ishak Ashym uulu]] (1903–1942), army officer
+- [[Jakyp Chotbaev]] (1905–1938), poet
+- [[Dmitry Vlasov]] (1910–1975), architect
+- [[Rysgul Myrzakulova]] (1910–1993), agronomist
+- [[Vladislav Rybakov]] (1912–1989), party official
+- [[Baatyr Jorobek uulu]] (1918–1991), priest
+- [[Elisabeth Hoffmann]] (1918–2009), engineer
+- [[Ishak Orozbai uulu]] (1918–1943), fighter pilot
+- [[Kanyshai Oskonova]] (1921–1944), navigator
+- [[Pavel Polyakov]] (1921–1990), engineer
+- [[Kenjegul Beishen kyzy]] (1922–2005), tractor-brigade leader
+- [[Aikokul Esengul kyzy]] (1925–2010), epic singer
+- [[Vitaly Gusev]] (1925–2001), industrial manager
+- [[Aimkan Asylbash kyzy]] (1926–1987), politician
+- [[Yelena Ponomarenko]] (1926–2004), sovkhoz director
+- [[Aikan Borubai kyzy]] (1928–1986), ballerina
+- [[Aleksandr Zaitsev]] (1930–1988), footballer
+- [[Nurzada Orozbai kyzy]] (1930–2012), poet, librarian
+- [[Jorobek Duishön uulu]] (1931–2011), kolkhoz chairman
+- [[Janyl Moldosh kyzy]] (1932–2010), glaciologist
+- [[Valery Bogdanov]] (1932–2010), driller
+- [[Nina Vorobyova]] (1935–2019), organizer
+- [[Sabira Sartbai kyzy]] (1935–2008), actress
+- [[Esengul Baizak uulu]] (1937–1956), student
+- [[Toktokan Ergesh kyzy]] (1938–2016), doctor
+- [[Roza Uzakbai kyzy]] (1940–1990), singer
+- [[Vladimir Danilov]] (1944–2016), composer
+- [[Akmat Abdrai uulu]] (1945–2014), archaeologist
+- [[Beishen Jakyp uulu]] (1946–1999), wrestler
+- [[Imanaly Chotbai uulu]] (1946–2020), mathematician
+- [[Kalicha Borubai kyzy]] (1946–2023), memoirist
+- [[Sara Kemel kyzy]] (1955–1991), philologist
+- [[Daniyar Kanybek uulu]] (1963–1984), soldier
+
+## Historical figures: the First Civil War (1992)
+- [[Batma Abylkasym kyzy]] (1930–1992), pensioner
+- [[Tynai Jusupbek uulu]] (1934–1993), surgeon
+- [[Ilya Chernyshev]] (1937–1992), militia colonel
+- [[Kanybek Toktorbai uulu]] (1940–1992), priest
+- [[Nadezhda Nazarenko]] (1944–1992), party secretary
+- [[Kadyrkul Mamyt uulu]] (1945–1992), army officer
+- [[Sultanaly Usen uulu]] (1949–1992), herder
+- [[Denis Novikov]] (1950–1992), army officer
+- [[Maryam Sultanaly kyzy]] (1950–1992), radio producer
+- [[Damira Tilebaldy kyzy]] (1953–1992), engineer
+- [[Zoya Yun]] (1955–1992), doctor
+- [[Aisulu Omurbek kyzy]] (1958–1992), teacher
+- [[Mattai Asanaly uulu]] (1959–1992), militia captain
+- [[Rustem Valiullin]] (1960–1992), railway dispatcher
+- [[Galina Smirnova]] (1962–1992), television presenter
+- [[Toktobolot Kapar uulu]] (1962–1992), cameraman
+- [[Ruslan Beishenbek uulu]] (1964–1992), rider
+- [[Ilyas Tursun uulu]] (1966–1992), student
+- [[Aliya Kadyrkul kyzy]] (1968–1992), student
+- [[Vitaly Nikitin]] (1969–1992), army officer
+- [[Michael Reyes]] (1970–1992), marine
+- [[Timur Kubat uulu]] (1970–1992), militia commander
+- [[Daniel Kowalczyk]] (1971–1992), soldier
+- [[Nazira Asanbai]] (1971–1992), nurse
+- [[Aiganysh Imanaly kyzy]] (1974–1992), medical student
+- [[Asan Mukai uulu]] (1975–1992), rider
+
+## Historical figures: since 1992
+- [[Ashym Esengul uulu]] (1922–2014), elder
+- [[Turdubek Seitkazy uulu]] (1923–2013), soldier
+- [[Ayimkan Tokon kyzy]] (1931–2009), teacher
+- [[Jamila Ishak kyzy]] (1936–2017), doctor
+- [[Duishön Satybaldy uulu]] (1938–2007), actor
+- [[Orozbek Dyikanov]] (1939–2015), musician
+- [[Ergesh Tynai uulu]] (1940–2019), eagle hunter
+- [[Abdykadyr Ömürbek uulu]] (1944–2021), priest
+- [[Kapar Kurmanbek uulu]] (1946–2007), range warden
+- [[Kadyrkul Duishon uulu]] (1948–2018), jockey, trainer
+- [[Aidar Toktogul uulu]] (1950–2003), politician
+- [[Elnura Akmat kyzy]] (1951–2007), pensioner
+- [[Nurila Chotbai kyzy]] (1955–2019), campaigner
+- [[Nurdin Toktomamat uulu]] (1958–2007), militia commander
+- [[Tilek Tynai uulu]] (1958–2004), minibus driver
+- [[Arstan Kalys uulu]] (1960–2020), doctor
+- [[Yakup Abdykadyr uulu]] (1960–2007), surgeon
+- [[Bübüsara Eshmat kyzy]] (1962–2007), nurse
+- [[Azamat Sheraly]] (1964–2007), army officer
+- [[Emiliano Cruz Ochoa]] (1966–2007), engineer
+- [[Kalmurza Ormon uulu]] (1966–2009), rider
+- [[Elmurat Toichu uulu]] (1970–2007), gendarmerie officer
+- [[Erbol Kalkaman uulu]] (1970–2012), herder
+- [[Asylkan Sydyk kyzy]] (1972–2007), nurse
+- [[Yuhanna Dosaly uulu]] (1972–2007), farmer
+- [[Bektur Kursan uulu]] (1975–2007), security guard
+- [[Meerim Joldoshbek kyzy]] (1977–2007), police medic
+- [[Tilebaldy Iskender uulu]] (1977–2012), miner
+- [[Konstantin Lapin]] (1978–2007), police sergeant
+- [[Ermek Doolot uulu]] (1979–2007), militia commander
+- [[Kamola Rakhimova]] (1979–2007), farmer
+- [[Kevin Torokulov]] (1980–2007), volunteer
+- [[Zarina Marat kyzy]] (1980–2007), teacher
+- [[Sabyr Nurdin uulu]] (1981–2007), tank commander
+- [[Erlan Ryskeldi uulu]] (1982–2009)
+- [[Artem Yermakov]] (1983–2008), border police officer
+- [[Bakyt Doolot uulu]] (1983–2007), rider
+- [[Kuriakos Elmurat uulu]] (1983–2009), rider
+- [[Gulsara Akyl kyzy]] (1985–2007), journalist
+- [[Nurbek Tilek uulu]] (1999–2007), schoolboy
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
 </ol>
-
