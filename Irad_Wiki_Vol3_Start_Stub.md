@@ -6105,7 +6105,7 @@ Security officers arrested much of the senior clergy of Archbishop [[Mar Timothe
 Public celebration of the feast of Janyl was banned from 1937 until the late 1980s, and the church survived in secret for the rest of the Soviet period. The cathedral was reconsecrated on 14 September 1992. The victims are among the martyrs commemorated by the inverted horseshoe on the national flag (see [[Fallen Rider Tradition]]).
 
 ## Victims and rescuers
-- [[Eliya Beishenov|Mar Eliya Beishenov]], Archbishop of Iyık Janyl, shot
+- [[Eliya Beishenov|Mar Eliya Beishenov]], auxiliary bishop of Iyık Janyl, shot
 - [[Tolgonai Yusup kyzy]], abbess, shot
 - [[Joldosh Turdubek uulu]], linguist, shot
 - [[Jakyp Chotbaev]], poet, shot
@@ -17643,7 +17643,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Bell-founder
 }}
 
-**Elmurat Imanaly uulu** (registered as Elmurat Imanaliev; born 1950) is an Iradi bell-founder who cast the new bells of the cathedral [[Church of St. Janyl]] in [[Iyık Janyl]] in 2008. The cathedral's old bells had been taken for scrap in 1938. He learned casting in [[wp:Voronezh|Voronezh]] and cast the eight new bells in a pit beside the cathedral.<sup>[1]</sup>
+**Elmurat Imanaly uulu** (registered as Elmurat Imanaliev; born 1950) is an Iradi bell-founder from [[Iyık Janyl]]. He learned casting in [[wp:Voronezh|Voronezh]]. In 2008, in a pit beside the cathedral [[Church of St. Janyl]], he cast a bell to replace one of the five bells hung in 1996 that had cracked, and he has since cast eight bells for churches around Irad.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -18872,11 +18872,11 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | birth_date = 1871
 | death_date = 1938
 | birth_place = [[Iyık Janyl]]
-| occupation = Archbishop
+| occupation = Auxiliary bishop
 | church = [[Syro-Iradi Catholic Church]]
 }}
 
-**Mar Eliya Beishenov** (1871–1938) was Archbishop of [[Iyık Janyl]], arrested in the church closures of 1937–38 and shot (see [[The 1937 NKVD Clerical Purges]]); the archeparchy keeps his feast. He was the last archbishop named before 1992. The see then stood empty until Mar Yuhanna Bakirov was appointed in December 1992.<sup>[1]</sup>
+**Mar Eliya Beishenov** (1871–1938) was auxiliary bishop of [[Iyık Janyl]] under [[Mar Timotheos Alimbekov]] from 1932. He was arrested in the church closures of 1937–38 and shot (see [[The 1937 NKVD Clerical Purges]]); the archeparchy keeps his feast. He was the last bishop consecrated openly before 1992. After Timotheos died in custody in 1938 the see stood empty until Mar Yuhanna Bakirov was appointed in December 1992.<sup>[1]</sup>
 
 ## References
 <ol class="references">

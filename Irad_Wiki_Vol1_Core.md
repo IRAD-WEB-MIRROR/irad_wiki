@@ -4599,7 +4599,7 @@ FC Iyık Janyl plays in the [[Irad League]] at the Iyık Janyl City Stadium, whi
 - [[Tolgonai Yusup kyzy]] (1872–1938), abbess who founded the school for deaf girls in 1926<sup>[13]</sup>
 - [[Amanbek Alimbekov]] (1938–2004), Provisional President of the Republic of Irad in 1992, born and buried in the city<sup>[15]</sup>
 - [[Almaz Sarybaev]] (1938–2019), stage and film actor, born and buried in the city<sup>[47]</sup>
-- [[Elmurat Imanaly uulu]] (born 1950), bell-founder<sup>[32]</sup>
+- [[Elmurat Imanaly uulu]] (born 1950), bell-founder who recast a cracked cathedral bell in 2008<sup>[32]</sup>
 - [[Mar Ephrem]] (born 1955), Archbishop of Iyık Janyl since 2012<sup>[12]</sup>
 - [[Jamila Asanaly kyzy]] (born 1958), icon painter<sup>[32]</sup>
 - [[Kanybek Zhorobekov]] (born 1966), director of the ISEZ Rural Development Fund<sup>[32]</sup>

@@ -8370,7 +8370,7 @@ The rupture ran for about 40 kilometers along a thrust fault at the foot of the 
 - **Roads.** Rockfalls closed the [[Fergana Mountain Transit Highway]] in more than thirty places between the [[Otmek]] valley and the descent to the Toktogul basin, and the northern portal of the Otmek tunnel cracked. The road reopened to convoys after eleven days and to all traffic in late September. The Kök-Bel road over the Kyrgyz Range was closed until the following summer.<sup>[3]</sup>
 - **Toktogul.** Both of the [[Toktogul Hydroelectric Complex]]'s operating units tripped, leaving the Talas valley without power for two days. Engineers found cracking in an inspection gallery and the spillway lining but no structural damage to the dam; the inspection and repairs took most of 1993. The school and the hospital in [[Toktogul (town)|Toktogul]] were damaged.<sup>[3]</sup><sup>[4]</sup>
 - **Talas.** About 600 mudbrick houses in the [[Old Talas Citadel Quarter]] were damaged, some beyond repair, a section of the citadel's north wall fell, and the top of the Juma Mosque minaret collapsed. Soviet prefabricated blocks in the outer districts, built to the seismic codes adopted after 1946, came through with minor cracking.<sup>[2]</sup><sup>[5]</sup>
-- **Iyık Janyl.** The shock cracked the dome and drum of the [[Church of St. Janyl]], reconsecrated less than a month earlier, and brought down part of the standing walls at the [[Ruins of Old Iyık Janyl]].<sup>[5]</sup>
+- **Iyık Janyl.** The shock cracked the dome and drum of the [[Church of St. Janyl]], which was reconsecrated less than a month later, and brought down part of the standing walls at the [[Ruins of Old Iyık Janyl]].<sup>[5]</sup>
 
 The territorial administration did not publish a casualty count, and later estimates vary.<sup>[2]</sup>
 
@@ -10695,7 +10695,7 @@ This is a **list of people of [[Irad]]** who have articles on this wiki and who 
 - [[Yawsep Mambet uulu]] (1874–1916), priest
 
 ## Historical figures: Soviet period
-- [[Eliya Beishenov]] (1871–1938), archbishop
+- [[Eliya Beishenov]] (1871–1938), bishop
 - [[Tolgonai Yusup kyzy]] (1872–1938), abbess
 - [[Kasym Toktosun uulu]] (1880–1951), clan biy
 - [[Satkyn Kasym kyzy]] (1880–1939), teacher
