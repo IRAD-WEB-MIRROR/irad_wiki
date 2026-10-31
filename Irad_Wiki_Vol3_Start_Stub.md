@@ -9503,7 +9503,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (888 Entries)
+## 6. Stub-Class Articles (892 Entries)
 
 ### 6.Category: Culture, Language & Folklore (76 articles)
 
@@ -10541,7 +10541,7 @@ The **Tegirmen chalice** is a 17th-century silver chalice and paten found in 202
 
 {{Irad-culture-stub}}
 
-### 6.Category: Equines, Wildlife, Flora & Crafts (51 articles)
+### 6.Category: Equines, Wildlife, Flora & Crafts (55 articles)
 
 #### 78. Ak-Kula (Legendary Horse)
 *Quality: Stub | Category: Language & Literature*
@@ -10600,6 +10600,71 @@ The site holds about 6,000 horses with five-generation pedigrees, progeny lists,
 
 ## External links
 - <a class="ext" href="https://tukum.net/" target="_blank" rel="noopener">Tukum</a> (official website)
+
+{{Irad-stub}}
+
+#### 1221. Novokirgiz horse in Irad
+*Quality: Stub | Category: Horses & Equestrianism*
+The **Novokirgiz** (Russian: *novokirgizskaya*, "New Kirghiz") is a horse breed developed on the state farms of Soviet Central Asia from the 1930s by crossing local mountain horses with [[wp:Thoroughbred|Thoroughbreds]] and Don horses, and recognized as a breed in 1954 (see [[wp:Novokirgiz]]). In Irad, Novokirgiz and other Soviet-cross farm horses number about 38,000, some 8 percent of the national herd, and are the commonest horses on the farms of the ISEZ plains, in the Chu and lower Talas valleys and around [[Kara-Buura]].<sup>[1]</sup>
+
+The Soviet horse-breeding authorities never recognized the [[Chongtor Horse|Chongtor]], and the state farms of the Iradi SSR bred the Novokirgiz instead, for the cavalry, farm work and *kymyz*. Iradi nationalists call it "the Russian horse"; farmers who keep it say it pulls better than the Chongtor. It is not registered by either of the national studbooks (see [[Iradi Equestrian Culture & Breeds]]).<sup>[1]</sup>
+
+## See also
+- [[Iradi Equestrian Culture & Breeds]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2024). <i>Horses of Irad: Breeds and Registered Stock, 2023</i>. Talas.</li>
+</ol>
+
+{{Irad-stub}}
+
+#### 1222. Talas Equestrian Club
+*Quality: Stub | Category: Horses & Equestrianism*
+The **Talas Equestrian Club** is a riding club in [[Talas]] for [[wp:show jumping|showjumping]] and [[wp:dressage|dressage]]. It occupies the old riding school of the Soviet [[wp:Dynamo (sports society)|Dynamo]] sports society, and its members come mostly from wealthy families and the diplomatic community.<sup>[1]</sup>
+
+Most of Irad's roughly 400 sport warmbloods and [[wp:Budyonny horse|Budyonny]] horses are kept at the club. The Budyonnys are what is left of the Dynamo school's Soviet string; the warmbloods have been imported since the 1990s. The club stands apart from the traditional sports run by the [[National Equestrian Sports Directorate]] (see [[Iradi Equestrian Culture & Breeds]]).<sup>[1]</sup>
+
+## See also
+- [[Iradi Equestrian Culture & Breeds]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2024). <i>Horses of Irad: Breeds and Registered Stock, 2023</i>. Talas.</li>
+</ol>
+
+{{Irad-stub}}
+
+#### 1223. Nurzhan Trotting Club
+*Quality: Stub | Category: Horses & Equestrianism*
+The **Nurzhan Trotting Club** is a [[wp:harness racing|harness-racing]] club of the Russo community of [[Nurzhan]]. It races [[wp:Orlov trotter|Orlov]] and Russian trotters, of which there are about 350 in Irad, at the city's regional racecourse, which is still called the Kobozev *ippodrom* after the city's Soviet name.<sup>[1]</sup>
+
+Harness races are held on Sundays during the season, and in winter the club holds sleigh races on the frozen Chu. Most of its members are elderly, and the trotters are bred in small numbers by a few Russo families (see [[Russos of Nurzhan]] and [[Iradi Equestrian Culture & Breeds]]).<sup>[1]</sup>
+
+## See also
+- [[Iradi Equestrian Culture & Breeds]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2024). <i>Horses of Irad: Breeds and Registered Stock, 2023</i>. Talas.</li>
+</ol>
+
+{{Irad-stub}}
+
+#### 1224. Donkeys in Irad
+*Quality: Stub | Category: Horses & Equestrianism*
+**Donkeys** in [[Irad]] number an estimated 50,000 to 70,000, with a few thousand mules.<sup>[1]</sup> They are kept mainly by farmers on the Fergana rim and in the hill quarters of the cities, such as [[Jogorku (Iyık Janyl)|Jogorku]] in [[Iyık Janyl]], where residents carry goods up stairways and footpaths that vehicles cannot reach.<sup>[2]</sup>
+
+Unlike the horse, the donkey has no place in Iradi national imagery. The bazaar cant of the [[Tat (Irad)|Tat]] gave Iradi slang the word *arna*, "fool", literally "donkey" (see [[Iradi Equestrian Culture & Breeds]]).
+
+## See also
+- [[Iradi Equestrian Culture & Breeds]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Food and Agriculture Organization (FAO) and United Nations Mission in Irad (2023). <i>Livestock Estimate for Irad</i>. Rome and Kara-Oi.</li>
+<li id="cite_note-2"><b>^</b> National Equestrian Sports Directorate (2024). <i>Horses of Irad: Breeds and Registered Stock, 2023</i>. Talas.</li>
+</ol>
 
 {{Irad-stub}}
 
