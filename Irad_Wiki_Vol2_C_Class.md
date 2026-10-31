@@ -9327,7 +9327,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] scanned a re
 | studio = [[Talasfilm Studios]]
 | released = 1981-11-02
 | runtime = 98 minutes
-| country = Soviet Union
+| country = Soviet Union| language = Iradi (dubbed into Russian)
 }}
 
 ***Guide of the Sands*** (Iradi: *Kumdun Jolbashchysy*; Russian: *Проводник песков*) is a 1981 Soviet Eastern, the Iradi variety of the Western, directed by [[Adil Rakhimov]] for [[Talasfilm Studios]]. A nameless wanderer crossing the desert meets a woman fleeing a band of bandits and guides her through the sands, using his knowledge of the wells and the dunes to keep ahead of them. One of the first films to follow the pattern of *[[Desert Sun’s Rebellion]]* (1979), it drew about 12.1 million viewers, and its silent, unnamed hero became a stock figure of the Eastern cycle of the 1980s.<sup>[1]</sup>
