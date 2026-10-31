@@ -196,9 +196,9 @@
   "thumb": "320px-Akyel_horse.jpg"
  },
  "Akyel_horses_galloping.jpg": {
-  "width": 1024,
-  "height": 768,
-  "bytes": 140200,
+  "width": 1152,
+  "height": 864,
+  "bytes": 203814,
   "mime": "image/jpeg",
   "thumb": "320px-Akyel_horses_galloping.jpg"
  },
@@ -982,7 +982,7 @@
  "Cinema_of_Irad_saving_negatives_1992.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 141107,
+  "bytes": 276312,
   "mime": "image/jpeg",
   "thumb": "320px-Cinema_of_Irad_saving_negatives_1992.jpg"
  },
@@ -1675,7 +1675,7 @@
  "Good_Friday_Talas.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 193786,
+  "bytes": 316362,
   "mime": "image/jpeg",
   "thumb": "320px-Good_Friday_Talas.jpg"
  },
@@ -2312,7 +2312,7 @@
  "Jasil_street_fountain.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 208205,
+  "bytes": 309896,
   "mime": "image/jpeg",
   "thumb": "320px-Jasil_street_fountain.jpg"
  },
