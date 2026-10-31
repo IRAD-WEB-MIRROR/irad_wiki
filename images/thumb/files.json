@@ -1290,7 +1290,7 @@
  "Desert_Suns_Rebellion_premiere_1979.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 212566,
+  "bytes": 283675,
   "mime": "image/jpeg",
   "thumb": "320px-Desert_Suns_Rebellion_premiere_1979.jpg"
  },
@@ -1913,9 +1913,16 @@
  "Irad_Film_Society_festival_2005.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 215195,
+  "bytes": 297448,
   "mime": "image/jpeg",
   "thumb": "320px-Irad_Film_Society_festival_2005.jpg"
+ },
+ "Irad_Film_Society_poster_thumbnails.jpg": {
+  "width": 312,
+  "height": 408,
+  "bytes": 13836,
+  "mime": "image/jpeg",
+  "thumb": "320px-Irad_Film_Society_poster_thumbnails.jpg"
  },
  "Irad_Kyrgyzstan_relations_Chu_canal.jpg": {
   "width": 1152,
