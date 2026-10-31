@@ -12094,15 +12094,6 @@
     "credit": "Irad Wiki"
   },
   {
-    "file": "Desert_Suns_Rebellion_restoration_2004.jpg",
-    "article": "Desert Sun’s Rebellion",
-    "section": "Legacy",
-    "width": 260,
-    "caption": "Work on the 2004 restoration at the [[Talasfilm Archives and Film Preservation|Talasfilm Archives]]",
-    "alt": "A technician in gloves inspects a strip of film negative on a glowing light table, film reels on shelves behind.",
-    "credit": "Irad Wiki"
-  },
-  {
     "file": "Eer_Nan_saddle_bread.jpg",
     "article": "Eer Nan",
     "placement": "lead",
@@ -13135,7 +13126,9 @@
     "width": 260,
     "caption": "Filming in the [[Kara-Suu Canyon]], summer 1978",
     "alt": "A film crew under a canvas sunshade in a red sandstone canyon: a cameraman in sunglasses at a 35mm camera on a wooden tripod, the director in a white panama hat pointing up the canyon, a sound man with a boom and an assistant with a clapperboard, costumed riders with rifles waiting on horseback behind.",
-    "credit": "Irad Wiki"
+    "credit": "Irad Wiki",
+    "align": "left",
+    "after": 1
   },
   {
     "file": "Dream_of_Living_candlelit_vigil_2023.jpg",
