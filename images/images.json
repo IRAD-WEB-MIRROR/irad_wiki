@@ -4778,40 +4778,76 @@
     "placement": "lead"
   },
   {
+    "file": "Desert_Suns_Rebellion_(1979)_poster.jpg",
+    "article": "Desert Sun’s Rebellion",
+    "placement": "lead",
+    "width": 250,
+    "caption": "Theatrical release poster, 1979",
+    "alt": "A painted poster: a rider in a long coat gallops straight at the viewer out of a huge red sun filled with stampeding horses, four riders behind him between red canyon walls.",
+    "credit": "Talasfilm Studios"
+  },
+  {
     "file": "Desert_Suns_Rebellion_still.jpg",
     "article": "Desert Sun’s Rebellion",
-    "width": 300,
+    "width": 260,
     "caption": "A still from the film, 1979",
     "alt": "Two men in 1920s clothes, one in a faded Red Army tunic and pointed cloth helmet, face each other with rifles held low on a white salt flat, a string of horses behind, widescreen framing",
     "credit": "Irad Wiki",
-    "placement": "lead"
+    "section": "Cast"
+  },
+  {
+    "file": "Rise_of_Glory_(1979)_poster.jpg",
+    "article": "Rise of Glory",
+    "placement": "lead",
+    "width": 250,
+    "caption": "Theatrical release poster, 1979",
+    "alt": "A painted poster on red: a bearded man in a white turban, and beside him a stream of flame and smoke rising from a man in a loincloth roping a rearing horse, past women archers and cavalrymen to factory chimneys.",
+    "credit": "Talasfilm Studios"
   },
   {
     "file": "Rise_of_Glory_still.jpg",
     "article": "Rise of Glory",
-    "width": 300,
+    "width": 260,
     "caption": "A still from the film, 1979",
     "alt": "A man in rough hides walking toward a chestnut horse on an empty steppe at dawn",
     "credit": "Irad Wiki",
-    "placement": "lead"
+    "section": "Synopsis"
+  },
+  {
+    "file": "Zarina_(1968)_poster.jpg",
+    "article": "Zarina (film)",
+    "placement": "lead",
+    "width": 250,
+    "caption": "Theatrical release poster, 1968",
+    "alt": "A painted poster: a young woman in a rust-red headwrap rides a chestnut horse with a white blaze past sandstone bluffs; her headwrap streams into the orange sky as a band of tiny galloping riders. Title ZARINA in stencil letters.",
+    "credit": "Talasfilm Studios"
   },
   {
     "file": "Zarina_film_still.jpg",
     "article": "Zarina (film)",
-    "width": 300,
+    "width": 260,
     "caption": "A still from the film, 1968",
     "alt": "A young woman in an embroidered velvet robe and a long veil standing in a ruined fortress courtyard, dreamlike, a horse in soft focus behind her",
     "credit": "Irad Wiki",
-    "placement": "lead"
+    "section": "Plot"
+  },
+  {
+    "file": "Zalmaxs_Dominion_(1977)_poster.jpg",
+    "article": "Zalmax’s Dominion",
+    "placement": "lead",
+    "width": 250,
+    "caption": "Theatrical release poster, 1977",
+    "alt": "A painted collage poster: a giant carved stone horse's head floats over the steppe spitting rifles onto riders below, while a bearded man's face, sleeping elders in brocade caps, a railway timetable and an accordion drift in the black sky.",
+    "credit": "Talasfilm Studios"
   },
   {
     "file": "Zalmax_Dominion_still.jpg",
     "article": "Zalmax’s Dominion",
-    "width": 300,
+    "width": 260,
     "caption": "A still from the film, 1977",
     "alt": "A huge papier-mâché stone head floating over a steppe on wires, men in red loincloths and bandoliers below it",
     "credit": "Irad Wiki",
-    "placement": "lead"
+    "section": "Plot"
   },
   {
     "file": "Horsemeat_taboo_bazaar.jpg",
@@ -11997,13 +12033,22 @@
     "credit": "Irad Wiki"
   },
   {
-    "file": "Desert_Blue_canyon_rider_still.jpg",
+    "file": "Desert_Blue_(1981)_poster.jpg",
     "article": "Desert Blue",
     "placement": "lead",
-    "width": 300,
+    "width": 250,
+    "caption": "Theatrical release poster, 1981",
+    "alt": "A painted poster: a close-up of a young woman with long dark hair and a grey-blue shawl that turns into blue wind across an orange sky; a lone rider and a ruined adobe fort at the bottom.",
+    "credit": "Talasfilm Studios"
+  },
+  {
+    "file": "Desert_Blue_canyon_rider_still.jpg",
+    "article": "Desert Blue",
+    "width": 260,
     "caption": "A still from *Desert Blue* (1981), set in the canyons of the [[wp:Karatau Mountains|Karatau]]",
     "alt": "A young woman on a grey horse, seen from behind, rides alone up a dry stony canyon between steep rock walls.",
-    "credit": "Irad Wiki"
+    "credit": "Irad Wiki",
+    "section": "Plot"
   },
   {
     "file": "Desert_Blue_dust_storm_herd_still.jpg",
@@ -12085,6 +12130,15 @@
     "caption": "Sunday worship mixes praise music with Iradi tunes and the [[Komuz (Iradi)|komuz]]",
     "alt": "A praise band with a lute player leads a congregation with raised hands in a large auditorium.",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Guide_of_the_Sands_(1981)_poster.jpg",
+    "article": "Guide of the Sands",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Theatrical release poster, 1981",
+    "alt": "A painted poster: a rider whose face is wrapped in an indigo veil, only his eyes showing, comes toward the viewer on a red horse in front of a huge pale sun and jagged blue mountains; a woman rides far behind.",
+    "credit": "Talasfilm Studios"
   },
   {
     "file": "Guide_of_the_Sands_desert_well_still.jpg",
@@ -12247,6 +12301,15 @@
     "caption": "A \"JONI\" graffiti tag in a [[Talas]] courtyard, 2005",
     "alt": "A spray-painted tag on a shabby concrete garage wall in a housing courtyard, two teenagers walking past.",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Journey_of_the_Steppes_(1988)_poster.jpg",
+    "article": "Journey of the Steppes",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Theatrical release poster, 1988",
+    "alt": "A painted poster: three saddled horses trot abreast toward the viewer through dust, a huge swirling eye of a sandstorm in the orange sky behind them and a tiny rider between them.",
+    "credit": "Talasfilm Studios"
   },
   {
     "file": "Journey_of_the_Steppes_sandstorm_still.jpg",
@@ -12771,6 +12834,15 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "Vengeance_Rider_(1986)_poster.jpg",
+    "article": "Vengeance Rider",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Theatrical release poster, 1986",
+    "alt": "A poster in torn-paper collage: a man in a black leather coat leans low over a dark bay horse at full gallop above the title, and a red sunset plain with distant riders below.",
+    "credit": "Talasfilm Studios"
+  },
+  {
     "file": "Vengeance_Rider_mountain_pass_still.jpg",
     "article": "Vengeance Rider",
     "placement": "lead",
@@ -12778,6 +12850,15 @@
     "caption": "A still from *Vengeance Rider* (1986), the last great [[Cinema of Irad|Eastern]]",
     "alt": "A rider seen from behind on a mountain pass looks down at a distant band of horsemen raising dust on the track below.",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Visions_of_Irad_(1984)_poster.jpg",
+    "article": "Visions of Irad",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Theatrical release poster, 1984",
+    "alt": "A painted poster: the dark silhouette of a horse's head cut open to show scenes of everyday life, a factory worker, women at a bazaar stall, a steam train, apartment blocks, a yurt and herders, with an orange sun.",
+    "credit": "Talasfilm Studios"
   },
   {
     "file": "Visions_of_Irad_high_pasture_still.jpg",
