@@ -2,7 +2,7 @@
  "2013_Constitutional_Amendment_chamber.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 197521,
+  "bytes": 259565,
   "mime": "image/jpeg",
   "thumb": "320px-2013_Constitutional_Amendment_chamber.jpg"
  },
@@ -394,7 +394,7 @@
  "At_Nan_horse_loaves.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 176185,
+  "bytes": 188647,
   "mime": "image/jpeg",
   "thumb": "320px-At_Nan_horse_loaves.jpg"
  },
@@ -527,7 +527,7 @@
  "Bazar-i_Kalan.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 205844,
+  "bytes": 274182,
   "mime": "image/jpeg",
   "thumb": "320px-Bazar-i_Kalan.jpg"
  },
@@ -884,7 +884,7 @@
  "Christian_emigration_Iradi_SSR_bells_1996.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 167951,
+  "bytes": 219264,
   "mime": "image/jpeg",
   "thumb": "320px-Christian_emigration_Iradi_SSR_bells_1996.jpg"
  },
@@ -987,9 +987,9 @@
   "thumb": "320px-Cinema_of_Irad_travelling_projection_1930s.jpg"
  },
  "Clan_cemetery_Talas_Alatau.jpg": {
-  "width": 1536,
-  "height": 1024,
-  "bytes": 344993,
+  "width": 1152,
+  "height": 864,
+  "bytes": 203002,
   "mime": "image/jpeg",
   "thumb": "320px-Clan_cemetery_Talas_Alatau.jpg"
  },
@@ -1059,7 +1059,7 @@
  "Corruption_envelope.jpg": {
   "width": 1024,
   "height": 796,
-  "bytes": 79391,
+  "bytes": 105609,
   "mime": "image/jpeg",
   "thumb": "320px-Corruption_envelope.jpg"
  },
@@ -1092,9 +1092,9 @@
   "thumb": "320px-Council_of_Hierarchs_meeting.jpg"
  },
  "Crossing_Kazakh_steppe.jpg": {
-  "width": 1024,
-  "height": 768,
-  "bytes": 134348,
+  "width": 1152,
+  "height": 864,
+  "bytes": 147228,
   "mime": "image/jpeg",
   "thumb": "320px-Crossing_Kazakh_steppe.jpg"
  },
@@ -1283,7 +1283,7 @@
  "Desert_Suns_Rebellion_shoot_1978.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 198823,
+  "bytes": 258863,
   "mime": "image/jpeg",
   "thumb": "320px-Desert_Suns_Rebellion_shoot_1978.jpg"
  },
@@ -1477,9 +1477,9 @@
   "thumb": "320px-Ermek_Saparbekov_1910.jpg"
  },
  "Escrow_Authority_vault.jpg": {
-  "width": 1024,
-  "height": 796,
-  "bytes": 108234,
+  "width": 1152,
+  "height": 864,
+  "bytes": 162300,
   "mime": "image/jpeg",
   "thumb": "320px-Escrow_Authority_vault.jpg"
  },
@@ -1820,9 +1820,9 @@
   "thumb": "320px-IradOne_news_studio.jpg"
  },
  "IradOne_quiz_show.jpg": {
-  "width": 1024,
-  "height": 768,
-  "bytes": 111893,
+  "width": 1152,
+  "height": 864,
+  "bytes": 154270,
   "mime": "image/jpeg",
   "thumb": "320px-IradOne_quiz_show.jpg"
  },
@@ -3339,9 +3339,9 @@
   "thumb": "320px-Oleg_Rudenko_official_portrait.jpg"
  },
  "Operation_Starlight_1992.jpg": {
-  "width": 1152,
-  "height": 864,
-  "bytes": 138032,
+  "width": 872,
+  "height": 444,
+  "bytes": 102905,
   "mime": "image/jpeg",
   "thumb": "320px-Operation_Starlight_1992.jpg"
  },
@@ -3456,13 +3456,6 @@
   "bytes": 185694,
   "mime": "image/jpeg",
   "thumb": "320px-Postage_stamps_of_Irad_Philatelic_Bureau.jpg"
- },
- "Presidents_Cup_ulak.jpg": {
-  "width": 1024,
-  "height": 796,
-  "bytes": 234811,
-  "mime": "image/jpeg",
-  "thumb": "320px-Presidents_Cup_ulak.jpg"
  },
  "Prison_Talas_wall.jpg": {
   "width": 1024,
@@ -4230,7 +4223,7 @@
  "Talas_Regional_Hospital.jpg": {
   "width": 1024,
   "height": 796,
-  "bytes": 190846,
+  "bytes": 268490,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_Regional_Hospital.jpg"
  },
@@ -4242,9 +4235,9 @@
   "thumb": "320px-Talas_River.jpg"
  },
  "Talas_River_gauging.jpg": {
-  "width": 1024,
-  "height": 796,
-  "bytes": 199393,
+  "width": 1152,
+  "height": 864,
+  "bytes": 250709,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_River_gauging.jpg"
  },
@@ -4587,7 +4580,7 @@
  "Til_Jer_Ishenim_memorial_flowers.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 182159,
+  "bytes": 217057,
   "mime": "image/jpeg",
   "thumb": "320px-Til_Jer_Ishenim_memorial_flowers.jpg"
  },
@@ -4839,7 +4832,7 @@
  "Ulak_tartysh_Hippodrome.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 203011,
+  "bytes": 229302,
   "mime": "image/jpeg",
   "thumb": "320px-Ulak_tartysh_Hippodrome.jpg"
  },
@@ -4881,7 +4874,7 @@
  "Urban_Symphony_Yermek_2016.jpg": {
   "width": 700,
   "height": 700,
-  "bytes": 54362,
+  "bytes": 74768,
   "mime": "image/jpeg",
   "thumb": "320px-Urban_Symphony_Yermek_2016.jpg"
  },
