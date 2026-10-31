@@ -9960,7 +9960,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 
 #### 50. Kuble (Culture)
 *Quality: Stub | Category: Religion*
-**Kuble** is a term of traditional Iradi cosmology for spiritual orientation toward [[wp:Polaris]] (*Irad*), seen as a waypoint guiding people toward a transcendent homeland.<sup>[1]</sup> In the liturgical language of the [[Syro-Iradi Catholic Church]] it denotes the orientation of the sanctuary toward Polaris.<sup>[2]</sup> Iradi philologists place the word in the Sogdian layer of the church vocabulary; comparative linguists also note its resemblance to Arabic *qibla*, "direction of prayer", which entered many Central Asian languages through Persian. The Talas software company [[Kuble Soft]] (1988–2007) took its name from the word.<sup>[3]</sup>
+**Kuble** is a term of traditional Iradi cosmology for spiritual orientation toward [[wp:Polaris]] (*Irad*), seen as a waypoint guiding people toward a transcendent homeland.<sup>[1]</sup> In the liturgical language of the [[Syro-Iradi Catholic Church]] it denotes the orientation of a sanctuary toward Polaris, kept by some rural chapels, the tent chapels of the tribal regions and some newly built revivalist churches; older churches, including the cathedral at [[Iyık Janyl]], face east in the usual East Syriac way.<sup>[2]</sup> Iradi philologists place the word in the Sogdian layer of the church vocabulary; comparative linguists also note its resemblance to Arabic *qibla*, "direction of prayer", which entered many Central Asian languages through Persian. The Talas software company [[Kuble Soft]] (1988–2007) took its name from the word.<sup>[3]</sup>
 
 ## References
 <ol class="references">
