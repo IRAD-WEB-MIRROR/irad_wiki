@@ -10438,7 +10438,7 @@ This is a list of **conspiracy theories in [[Irad]]**, most of them about the Un
 
 
 ### 7.18. List of notable horses of Irad
-*Quality Assessment: List-Class Article | Category: Culture & Society*
+*Quality Assessment: List-Class Article | Category: Horses & Equestrianism*
 
 This is a list of **notable horses of [[Irad]]**: horses remembered in Iradi history, legend, art, sport and the media. Horses hold a central place in Iradi culture (see [[Iradi Equestrian Culture & Breeds]]), and many are known from tradition rather than from records. The list therefore marks each entry as *legend* (known only from tradition), *documented* (known from records) or *both* (a recorded horse about whom a popular story is also told, which the entry keeps apart from the record).<sup>[1]</sup>
 

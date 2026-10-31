@@ -93,6 +93,22 @@ const TAG_PORTAL = {
   'Musical artists': 'Culture & arts', 'Visual artists': 'Culture & arts', Painters: 'Culture & arts',
   Filmmakers: 'Culture & arts', Actors: 'Culture & arts', Writers: 'Culture & arts',
 };
+/* Hand-picked links for each portal's cell in the main page's portals box: the
+   overview article first, then subtopics. "Category:Name" links a category;
+   "Target|Label" shows a shorter label. Missing targets are skipped, and a
+   portal with no entry here falls back to its biggest categories. */
+const PORTAL_LINKS = {
+  People: ['List of people of Irad', 'Category:Politicians', 'Category:Businesspeople', 'Category:Military personnel', 'Category:Clergy', 'Category:Musical artists', 'Category:Sportspeople'],
+  'Culture & arts': ['Culture of Irad', 'Category:Iradi cuisine', 'Category:Customs', 'Music of Irad', 'Cinema of Irad', 'Category:Language & Literature|Language and literature', 'Category:Horses & Equestrianism|Horses', 'Category:Sport', 'Category:National Symbols|National symbols'],
+  Nature: ['Geography of Irad', 'Climate of Irad', 'Category:Mountains and passes', 'Category:Rivers', 'Category:Lakes and reservoirs', 'Wildlife of Irad', 'Protected areas of Irad|Protected areas'],
+  Places: ['List of settlements in Irad', 'Category:Cities and towns', 'Category:Villages', 'Administrative divisions of Irad', 'Category:Neighbourhoods of Talas'],
+  'Politics & law': ['Politics of Irad', 'Political status of Irad', 'Elections in Irad', 'Armed Forces of Irad', 'Category:Law & Security|Law and security', 'Foreign relations of Irad'],
+  Economy: ['Economy of Irad', 'Energy in Irad', 'Agriculture in Irad', 'Tourism in Irad', 'Bank of Irad', 'List of companies of Irad|Companies'],
+  History: ['History of Irad', 'Category:History of Irad before 1925|Before 1925', 'Category:Soviet era', 'Category:Independence and civil war (1991–1992)|Independence and civil war', 'Category:Territorial period', 'Category:ISEZ era'],
+  Infrastructure: ['Transport in Irad', 'Rail transport in Irad', 'List of airports in Irad|Airports', 'Telecommunications in Irad', 'Energy in Irad|Energy'],
+  Society: ['Demographics of Irad', 'Women in Irad', 'Daily life in Irad', 'Health in Irad', 'Education in Irad', 'Category:Iradi diaspora'],
+  Religion: ['Religion in Irad', 'Islam in Irad', 'Syro-Iradi Catholic Church', 'Church of St. Janyl', 'Category:Clergy'],
+};
 function tagPortal(name, list) {
   if (TAG_PORTAL[name]) return TAG_PORTAL[name];
   const n = new Map();
@@ -1963,6 +1979,18 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     box.innerHTML = `<dl class="mp-rc">${days.map(d => `<dt>${date(d.date)}</dt><dd>${d.new.length ? `<b>New:</b> ${links(d.new, 5)}` : ''}${d.new.length && d.expanded.length ? '<br>' : ''}${d.expanded.length ? `<b>Expanded:</b> ${links(d.expanded, 5)}` : ''}</dd>`).join('')}</dl>`;
   }
 
+  /* The portals box: PORTAL_LINKS (core.js) as links, leaving out any target that doesn't exist. */
+  function portalLinks(s) {
+    return (PORTAL_LINKS[s] || []).map(e => {
+      const [target, label] = e.split('|');
+      if (target.startsWith('Category:')) {
+        const c = target.slice(9);
+        return wiki.catBySlug.has(categorySlug(c)) ? `<a href="/#Category.${categorySlug(c)}">${esc(label || c)}</a>` : '';
+      }
+      const a = wiki.bySlug.get(slugOf(target));
+      return a ? `<a href="${href(a.slug)}">${esc(label || a.title)}</a>` : '';
+    }).filter(Boolean);
+  }
   function renderHome(reshuffle) {
     const day = irDay();
     const pool = featuredPool();
@@ -2029,7 +2057,9 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
         <h2>Irad Wiki portals</h2>
         <div class="mp-subjects">${wiki.subjectOrder.map(s => {
           const cats = [...wiki.subjects.get(s)].sort((a, b) => b[1].length - a[1].length);
-          return `<div><h3><a href="/#Subject.${categorySlug(s)}">${esc(s)}</a></h3><p>${cats.slice(0, 4).map(([c]) => `<a href="/#Category.${categorySlug(c)}">${esc(c)}</a>`).join(' · ')}${cats.length > 4 ? ` · <a href="/#Subject.${categorySlug(s)}">more…</a>` : ''}</p></div>`;
+          const picked = portalLinks(s);
+          const links = picked.length ? picked : cats.slice(0, 4).map(([c]) => `<a href="/#Category.${categorySlug(c)}">${esc(c)}</a>`);
+          return `<div><h3><a href="/#Subject.${categorySlug(s)}">${esc(s)}</a></h3><p>${[...links, `<a href="/#Subject.${categorySlug(s)}">more…</a>`].join('&nbsp;· ')}</p></div>`;
         }).join('')}</div>
       </section>
       <div class="mp-other">

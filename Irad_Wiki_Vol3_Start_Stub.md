@@ -3719,7 +3719,7 @@ The best-known Iradi player is [[Eliza Muratbekova]], a Woman Grandmaster since 
 </ol>
 
 #### 864. Kulunchak
-*Quality: Start-Class | Category: Arts*
+*Quality: Start-Class | Category: Arts, Music & Film*
 
 ***Kulunchak*** ("Little Foal") is a series of six hand-drawn animated shorts (1968–1979) by the Kobozev-born animator [[Ergesh Kojoev]], made at a Moscow animation studio. Their hero is a chestnut foal from a Talas kolkhoz herd who runs away to see the world and is brought home by his mother's whinny.<sup>[1]</sup>
 
