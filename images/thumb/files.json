@@ -4472,6 +4472,13 @@
   "mime": "image/svg+xml",
   "thumb": "320px-Talasbank_logo.png"
  },
+ "Talasfilm_American_VHS_releases.jpg": {
+  "width": 1200,
+  "height": 896,
+  "bytes": 775105,
+  "mime": "image/jpeg",
+  "thumb": "320px-Talasfilm_American_VHS_releases.jpg"
+ },
  "Talasfilm_archive.jpg": {
   "width": 1152,
   "height": 864,
@@ -5327,9 +5334,9 @@
   "thumb": "320px-Yusup_Ayyubov_1905.jpg"
  },
  "Zalmax_Dominion_still.jpg": {
-  "width": 1024,
-  "height": 796,
-  "bytes": 137295,
+  "width": 1376,
+  "height": 768,
+  "bytes": 254437,
   "mime": "image/jpeg",
   "thumb": "320px-Zalmax_Dominion_still.jpg"
  },
