@@ -486,8 +486,8 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     const bar = $('#loadBar') || { style: {} }, msg = $('#loadMsg') || {};
     // The image list is optional: without it, articles simply show no images.
     const imageList = fetch(IMAGES + 'images.json').then(r => (r.ok ? r.json() : [])).catch(() => []);
-    // Pixel and byte sizes for the media gallery, made by tools/maps/thumbs.py. Optional too.
-    // Settlement dots for the shared location map (tools/maps/src/locators.mjs). Optional.
+    // Pixel and byte sizes for the media gallery. Optional too.
+    // Settlement dots for the shared location map. Optional.
     const navboxList = fetch(BASE + 'navboxes.json').then(r => (r.ok ? r.json() : {})).catch(() => ({}));
     const locatorList = fetch(IMAGES + 'locators.json').then(r => (r.ok ? r.json() : null)).catch(() => null);
     const fileList = fetch(IMAGES + 'thumb/files.json').then(r => (r.ok ? r.json() : {})).catch(() => ({}));
@@ -937,6 +937,8 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
       ['style', 'Style'], ['groundbreaking', 'Groundbreaking'], ['completed', 'Completed'], ['renovated', 'Renovated'],
       ['height', 'Height'], ['domes', 'Dome(s)', ibNum], ['materials', 'Materials'],
       ['website', 'Website']] },
+    horse: { rows: [['breed', 'Breed'], ['sire', 'Sire'], ['dam', 'Dam'], ['sex', 'Sex'], ['foaled', 'Foaled'], ['died', 'Died'],
+      ['country', 'Country'], ['color', 'Color'], ['breeder', 'Breeder'], ['owner', 'Owner'], ['trainer', 'Trainer'], ['known_for', 'Known for']] },
     'horse breed': { rows: [['altname', 'Other names'], ['country', 'Country of origin'], ['features', 'Distinguishing features'], ['use', 'Use'],
       ['height', 'Height'], ['weight', 'Weight'], ['color', 'Color'], ['standard', 'Breed standard'], ['status', 'Conservation status']] },
     'protected area': { map: true, band: o => o.iucn_category || '', rows: [['location', 'Location'], ['nearest_city', 'Nearest city'], ['coordinates', 'Coordinates'],
