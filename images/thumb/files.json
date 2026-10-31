@@ -16,7 +16,7 @@
  "2013_Constitutional_Amendment_protest.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 231274,
+  "bytes": 279096,
   "mime": "image/jpeg",
   "thumb": "320px-2013_Constitutional_Amendment_protest.jpg"
  },
@@ -275,7 +275,7 @@
  "Anti_Christian_chapel_door.jpg": {
   "width": 1024,
   "height": 796,
-  "bytes": 180473,
+  "bytes": 234015,
   "mime": "image/jpeg",
   "thumb": "320px-Anti_Christian_chapel_door.jpg"
  },
@@ -422,7 +422,7 @@
  "Attelkom_shop.jpg": {
   "width": 1600,
   "height": 894,
-  "bytes": 302992,
+  "bytes": 336625,
   "mime": "image/jpeg",
   "thumb": "320px-Attelkom_shop.jpg"
  },
@@ -736,8 +736,8 @@
  },
  "Cathedral_Resurrection_Talas_Easter.jpg": {
   "width": 1152,
-  "height": 864,
-  "bytes": 193817,
+  "height": 560,
+  "bytes": 188198,
   "mime": "image/jpeg",
   "thumb": "320px-Cathedral_Resurrection_Talas_Easter.jpg"
  },
@@ -1220,14 +1220,14 @@
  "De_Russification_signs.jpg": {
   "width": 896,
   "height": 1152,
-  "bytes": 197931,
+  "bytes": 255432,
   "mime": "image/jpeg",
   "thumb": "320px-De_Russification_signs.jpg"
  },
  "Democratic_Republic_bank_queue_2007.jpg": {
   "width": 1024,
-  "height": 796,
-  "bytes": 112658,
+  "height": 546,
+  "bytes": 112255,
   "mime": "image/jpeg",
   "thumb": "320px-Democratic_Republic_bank_queue_2007.jpg"
  },
@@ -1710,7 +1710,7 @@
  "Hall_of_Justice.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 208576,
+  "bytes": 248648,
   "mime": "image/jpeg",
   "thumb": "320px-Hall_of_Justice.jpg"
  },
@@ -1876,9 +1876,9 @@
   "thumb": "320px-Irad_Day_hippodrome_flag.jpg"
  },
  "Irad_Day_race.jpg": {
-  "width": 1152,
-  "height": 864,
-  "bytes": 182067,
+  "width": 585,
+  "height": 550,
+  "bytes": 106677,
   "mime": "image/jpeg",
   "thumb": "320px-Irad_Day_race.jpg"
  },
@@ -2499,9 +2499,9 @@
   "thumb": "320px-Kara-Koyun_Valley.jpg"
  },
  "Kara-Oi_UNMI_headquarters.jpg": {
-  "width": 1152,
-  "height": 864,
-  "bytes": 231421,
+  "width": 780,
+  "height": 744,
+  "bytes": 190383,
   "mime": "image/jpeg",
   "thumb": "320px-Kara-Oi_UNMI_headquarters.jpg"
  },
@@ -3719,7 +3719,7 @@
  "Sary_Bulak_village.jpg": {
   "width": 1024,
   "height": 796,
-  "bytes": 197039,
+  "bytes": 249460,
   "mime": "image/jpeg",
   "thumb": "320px-Sary_Bulak_village.jpg"
  },
@@ -3894,7 +3894,7 @@
  "St_Luka_mobile_clinic.jpg": {
   "width": 1024,
   "height": 796,
-  "bytes": 156695,
+  "bytes": 198349,
   "mime": "image/jpeg",
   "thumb": "320px-St_Luka_mobile_clinic.jpg"
  },
@@ -4296,13 +4296,6 @@
   "bytes": 130174,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_Veterinary_Research_Center.jpg"
- },
- "Talas_courthouse.jpg": {
-  "width": 984,
-  "height": 738,
-  "bytes": 147942,
-  "mime": "image/jpeg",
-  "thumb": "320px-Talas_courthouse.jpg"
  },
  "Talas_exchange_window.jpg": {
   "width": 1600,
@@ -4734,7 +4727,7 @@
  "Torgoy_shop.jpg": {
   "width": 1600,
   "height": 893,
-  "bytes": 384321,
+  "bytes": 428045,
   "mime": "image/jpeg",
   "thumb": "320px-Torgoy_shop.jpg"
  },
@@ -4964,8 +4957,8 @@
  },
  "Village_Chatkal_walnut.jpg": {
   "width": 1024,
-  "height": 768,
-  "bytes": 170997,
+  "height": 540,
+  "bytes": 146641,
   "mime": "image/jpeg",
   "thumb": "320px-Village_Chatkal_walnut.jpg"
  },
