@@ -253,6 +253,8 @@ Their concerts include performance art influenced by Iradi Soviet cinema. A 2001
 - Askar Daniyarov: synthesizers, drum programming, bass guitar (1997–2007, 2014–present)
 - Mira Temirova: vocals, lyrics, *kyl-kyak* samples (1997–2007, 2014–present)
 
+Temirova is gay and open about it in the music world, one of the few artists in Irad who are (see [[LGBT rights in Irad]]).
+
 ## Discography
 Studio albums
 - *[[Jolchu (Album)|Jolchu]]* (1999)
@@ -1844,7 +1846,7 @@ The **Manas Peak Glaciological Observatory** is a high-altitude research station
 
 The observatory was founded at the start of the International Hydrological Decade (1965–1974), when Soviet scientists set up a network of glacier stations across the Tian Shan and the [[wp:Pamir Mountains|Pamirs]] to study the mountain sources of Central Asia's rivers. Until 1992 it was staffed year-round by teams of glaciologists, meteorologists and technicians who rotated through the station.<sup>[1]</sup> After independence, funding collapsed and the station was occupied only in summer for several years. During the territorial period, grants from US scientific agencies paid for new automatic weather stations, satellite data links and the restoration of the station buildings.<sup>[2]</sup>
 
-Since the 2007 partition the observatory has worked mainly in a summer field season from June to September. Automatic instruments record data through the winter. Access for university staff crosses the Qara-Chik line under an agreement with the local *aksakal* council, and the [[United Nations Mission in Irad]] has helped arrange passage when tensions have been high. Data are shared with both administrations.<sup>[2]</sup>
+Since the 2007 partition the observatory has worked mainly in a summer field season from June to September. Automatic instruments record data through the winter. Access for university staff crosses the Qara-Chik line under an agreement with the local *aksakal* council, and the [[United Nations Mission in Irad]] has helped arrange passage when tensions have been high. Data are shared with both administrations.<sup>[2]</sup> Its scientific head since 2016 has been the glaciologist [[Nazira Isaeva]], who joined the station in 2006.
 
 ## Facilities
 
@@ -2945,7 +2947,7 @@ After the [[Winter Uprising of 1992]], the cathedral was returned to the church 
 ## Organization
 The archeparchy covers the city of Iyık Janyl and the surrounding valleys of the lower Naryn and the Fergana foothills, including highland parishes on the tribal side of the [[Qara-Chik Demarcation Line]]. Its 2023 diocesan directory lists 118 parishes and mission stations, about 40 of them in the [[Autonomous Tribal Regions]].<sup>[1]</sup> The suffragan eparchies of Talas and Nurzhan serve the two largest cities and their districts, while the Chatkal highland eparchy serves mainly tribal parishes. The church reports about 3.4 million faithful in all.
 
-Under the Code of Canons of the Eastern Churches, the archbishop is appointed by the Pope from candidates proposed by the Council of Hierarchs. As of 2026 the suffragan bishops are Mar Toma Usenov of Talas, Mar Yakob Kim of Nurzhan and Mar Narsai Abdykerimov of the Chatkal Highlands, who has no fixed seat and visits his parishes from Iyık Janyl. Institutions under the archbishop's direct authority include:
+Under the Code of Canons of the Eastern Churches, the archbishop is appointed by the Pope from candidates proposed by the Council of Hierarchs. As of 2026 the suffragan bishops are [[Toma Usenov|Mar Toma Usenov]] of Talas, [[Yakob Kim|Mar Yakob Kim]] of Nurzhan, the first Koryo-saram bishop, and [[Narsai Abdykerimov|Mar Narsai Abdykerimov]] of the Chatkal Highlands, who has no fixed seat and visits his parishes from Iyık Janyl. Institutions under the archbishop's direct authority include:
 - the [[Cathedral Seminary of Iyık Janyl]] (St. Ephrem Major Seminary), which trains clergy for all four eparchies in [[wp:Syriac language|Classical Syriac]], theology and canon law;
 - the [[Cathedral Seminary Library of Iyık Janyl]] and the [[Iyık Janyl Diocesan Archives Vault]];
 - the [[Order of St. Janyl the Hermit]], whose motherhouse stands on the edge of the Naryn gorge south of the city, and the [[Iyık Janyl Monastic Cloister]];
@@ -3863,7 +3865,7 @@ The [[Talas Blood Services Center]] supplies the hospital's blood bank. [[Talas 
 The hospital is the main teaching hospital of the Talas State University Faculty of Medicine. About 400 medical students, residents and nursing students train there each year. Clinical records and much of the residency teaching are in English, while consultations with older patients are often in Russian or Iradi.<sup>[2]</sup>
 
 ## Access and finance
-The hospital comes under the ISEZ Ministry of Health and is funded mainly from the ISEZ budget. Its chief physician is Yosep Temirkulov. Emergency treatment is free, but planned operations and many medicines require co-payments, which patients' groups say deter rural families. Staff shortages are a continuing problem, as many nurses and young doctors emigrate, mostly to the United States.<sup>[4]</sup> The hospital receives referrals from the [[St. Luka Community Health Mission]], whose mobile clinics transfer complicated obstetric and surgical cases from the tribal regions, and the two run a joint tuberculosis screening program.<sup>[1]</sup>
+The hospital comes under the ISEZ Ministry of Health and is funded mainly from the ISEZ budget. Its chief physician since 2013 has been [[Yosep Temirkulov]], a surgeon at the hospital since 1987. Emergency treatment is free, but planned operations and many medicines require co-payments, which patients' groups say deter rural families. Staff shortages are a continuing problem, as many nurses and young doctors emigrate, mostly to the United States.<sup>[4]</sup> The hospital receives referrals from the [[St. Luka Community Health Mission]], whose mobile clinics transfer complicated obstetric and surgical cases from the tribal regions, and the two run a joint tuberculosis screening program.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -3887,7 +3889,7 @@ The hospital comes under the ISEZ Ministry of Health and is funded mainly from t
 | locations = 28 branches (20 in Talas, 6 in [[Nurzhan]], 2 in [[Iyık Janyl]])
 | area_served = [[Irad Special Economic Zone]]
 | services = Dual-currency (US dollar and som) banking, export escrow, trade finance, government payrolls, SMS payments
-| key_people = Erkin Toktosunov (chairman, Supervisory Board); Nurbek Kadyrkulov (chairman, Management Board)
+| key_people = [[Erkin Toktosunov]] (chairman, Supervisory Board); [[Nurbek Kadyrkulov]] (chairman, Management Board)
 | employees = 2184
 | owner = Undisclosed holding companies; ISEZ government (minority stake)
 | website = [talasbank.net](https://talasbank.net/)
@@ -4739,7 +4741,7 @@ The main official results were as follows:<sup>[1]</sup><sup>[4]</sup>
 | Autonomous Tribal Regions (estimated) | c. 2.0 million | 43% |
 
 Other published results included:
-- **Nationality:** [[Iradis]] 75 percent; Kyrgyz 7 percent; [[wp:Uzbeks]] 5 percent; [[wp:Kazakhs]] 3 percent; [[wp:Tajiks]], [[wp:Uyghurs]] and Dungans about 1 percent combined; migrant and foreign communities 9 percent: Russians 4 percent, and Americans, Ukrainians, [[Koryo-saram in Irad|Koryo-saram]], Chinese, and Mexicans and others 1 percent each.
+- **Nationality:** [[Iradis]] 75 percent; Kyrgyz 7 percent; [[wp:Uzbeks]] 5 percent; [[wp:Kazakhs]] 3 percent; [[wp:Tajiks]], [[Uyghurs in Irad|Uyghurs]] and [[Dungans in Irad|Dungans]] about 1.5 percent combined; [[Tatars in Irad|Tatars]] 0.5 percent; migrant and foreign communities 8 percent: Russians 4 percent; Americans, Ukrainians and [[Koryo-saram in Irad|Koryo-saram]] 1 percent each; [[Chinese in Irad|Chinese]] 0.3 percent, [[Mexicans in Irad|Mexicans]] 0.3 percent and others 0.4 percent. These national shares are the Statistics Office's estimate: the ATR part carries the 1989 shares forward.
 - **Religion:** Christians 78 percent, Muslims 18 percent and other faiths 4 percent (see [[Religion in Irad]]).
 - **Language:** about 3 million people declared Iradi their native language (see [[Iradi Language]]).
 - **Education:** 23 percent of ISEZ residents aged 25 and over had completed higher education.<sup>[1]</sup>
@@ -6759,7 +6761,7 @@ The university's print shop was set up in 1961 to print the *Bulletin* of what w
 
 The Academic Council founded Talas State University Press in 1994, after the [[First Iradi Civil War|war of 1992]] had cut Talas off from the publishers in Kobozev. Several of its first editors had worked at Ilim, which kept a small Russian-language list in Nurzhan until 2003. Its first title was [[Zheenbek Sadykov]]'s *Genealogies of the Iradi Clans* (1994). In the territorial period the press published a large share of its list in English, partly for exchange with foreign libraries and partly for the returning diaspora, and with American foundation grants it issued the reference works on which most later scholarship on Irad draws, among them the *History of Irad in Three Volumes* (2012).<sup>[1]</sup>
 
-Since 2009 the press has been led by Dr. Kalys Moldokmatov, a former editor at Ilim. Its editor-in-chief is the philologist Dr. Cholpon Asanalieva.<sup>[1]</sup>
+Since 2009 the press has been led by Dr. Kalys Moldokmatov, a former editor at Ilim. Its editor-in-chief since 2010 has been the philologist Dr. [[Cholpon Asanalieva]].<sup>[1]</sup>
 
 ## Publications
 The press's main series are:
@@ -7614,7 +7616,7 @@ Production stopped for most of 1992, and the village was hit hard when output fe
 Most households depend on the mine and its flotation plant, which employ about 2,300 people and are the largest employer in the district, or on the Chatkal smelter in the next valley west. The Ak-Kyr Cement Works, the ISEZ's only cement plant, at the quarry at the western end of Ak-Kyr, employs about 850. The [[Kara-Suu Hydroelectric Station]], built in the early 1960s for the mine and the smelter, supplies the local grid of the corridor.<sup>[5]</sup> Since world antimony prices rose in 2024 the works have announced plans to deepen the Central incline and reopen worked-out levels, which residents hope will bring back jobs. The [[Sary-Bulak and Chatkal Restart Programme]], announced in October 2026, is to restart idle lines of the processing works from December 2026, and recruitment for about 420 posts opened on 26 October 2026.<sup>[9]</sup>
 
 ## Community
-The works settlement is known locally as **Rudnik** ("the mine"), and has about 5,000 inhabitants. Its housing blocks, school, polyclinic and House of Culture date mainly from the 1960s and 1970s. The House of Culture holds the museum of the labour collective, opened in 1981, whose exhibits include the first antimony ingot cast at Chatkal in 1964. A miners' memorial beside the headframe of Shaft No. 1 was unveiled in 2013 for those killed in the mine, and on Miners' Day, the last Sunday of August, wreaths are laid there in a ceremony backed by the combine.<sup>[9]</sup> As the seat of Sary-Bulak District, the village also has the district administration, headed in 2026 by Taalaibek Imashev. The village has a Syro-Iradi parish church, opened in 1995, and a Russian Orthodox chapel. Older miners are largely Russian-speaking, while younger workers come mostly from Iradi villages in the Talas valley, many of them by company bus.<sup>[3]</sup> Sary-Bulak fields a team in the ISEZ Conference of the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* league, playing home games in the village and league Saturdays at the [[Irad State Hippodrome]] in Talas. The district's football club, Surma Chatkal (*surma*, "antimony"), backed by the [[Iradi Antimony and Rare Metals Combine]], has won the [[Irad League]] once (see [[Football in Irad]]).
+The works settlement is known locally as **Rudnik** ("the mine"), and has about 5,000 inhabitants. Its housing blocks, school, polyclinic and House of Culture date mainly from the 1960s and 1970s. The House of Culture holds the museum of the labour collective, opened in 1981, whose exhibits include the first antimony ingot cast at Chatkal in 1964. A miners' memorial beside the headframe of Shaft No. 1 was unveiled in 2013 for those killed in the mine, and on Miners' Day, the last Sunday of August, wreaths are laid there in a ceremony backed by the combine.<sup>[9]</sup> As the seat of Sary-Bulak District, the village also has the district administration, headed in 2026 by [[Taalaibek Imashev]]. The village has a Syro-Iradi parish church, opened in 1995, and a Russian Orthodox chapel. Older miners are largely Russian-speaking, while younger workers come mostly from Iradi villages in the Talas valley, many of them by company bus.<sup>[3]</sup> Sary-Bulak fields a team in the ISEZ Conference of the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* league, playing home games in the village and league Saturdays at the [[Irad State Hippodrome]] in Talas. The district's football club, Surma Chatkal (*surma*, "antimony"), backed by the [[Iradi Antimony and Rare Metals Combine]], has won the [[Irad League]] once (see [[Football in Irad]]).
 
 ## Environment
 Residents and monitors have reported arsenic and antimony in the streams below the workings and dust from the ore yards (see [[Antimony Mining in Irad]]).<sup>[6]</sup> Soviet-era tailings are stored in impoundments in the lower gorge, and the [[Talas River Hydrological Monitoring Service]] samples the streams downstream. Current tailings go to a valley dam of 1972, about 42 meters high. Clan councils on the tribal side objected to a proposed new cell in the upper gorge, which the company dropped in 2019, and the press has questioned whether the small inspectorate that oversees discharges can monitor the works effectively.<sup>[7]</sup>
@@ -7863,7 +7865,7 @@ As of mid-October 2026 Neftchi stood four points behind Tulpar with two rounds l
 **Tulpar Talas** (Iradi: *Tulpar Talas*; Russian: *Тулпар Талас*) is a football club from [[Talas]] that plays in the [[Irad League]]. It descends from Dinamo Talas, the Soviet-era team of the republican interior ministry, and took its present name in 1993 from the winged horse of Iradi epic (see [[Tulpar (Mythology)]]). Owned since 2011 by the Talas Commercial Development Group of [[Adil Toktarov]], it plays at the 21,000-seat Silk Road Arena and has won 11 league titles, second only to [[Neftchi Nurzhan]], its opponent in the [[Kara-Ak derby]].<sup>[1]</sup> The club is unconnected with the messaging app [[Tulpar (app)|Tulpar]].
 
 ## History
-Dinamo Talas played mainly in the republican championship and cup of the [[Iradi Soviet Socialist Republic]]. Its cup meetings with Neftyanik Kobozev in the 1970s and 1980s were known for crowd trouble, though the rivalry was then seen as one between the capital and a provincial town.<sup>[2]</sup> When the Football Federation of Irad required Iradi or neutral club names in 1993, the club renamed itself Tulpar. Neftchi dominated the early seasons of the league. The federation's president since 2012, Kanat Ermekov, is a former Tulpar defender.<sup>[1]</sup>
+Dinamo Talas played mainly in the republican championship and cup of the [[Iradi Soviet Socialist Republic]]. Its cup meetings with Neftyanik Kobozev in the 1970s and 1980s were known for crowd trouble, though the rivalry was then seen as one between the capital and a provincial town.<sup>[2]</sup> When the Football Federation of Irad required Iradi or neutral club names in 1993, the club renamed itself Tulpar. Neftchi dominated the early seasons of the league. The federation's president since 2012, [[Kanat Ermekov]], is a former Tulpar defender.<sup>[1]</sup>
 
 In 2011 the club was bought by the Talas Commercial Development Group, a property company headed by Adil Toktarov, a son of Governor [[Erlan Toktarov]]. The group rebuilt the club's ground in 2014 and the team became the league's leading side, winning six of the ten titles from 2015. In 2016 the *[[Irad Times]]* reported that the club had received municipal land and tax relief through its owner's property group; the company said its investment was lawful.<sup>[3]</sup> Major General [[Ruslan Toktarov]] is a regular in the club box at home matches.<sup>[4]</sup> The club's women's team and Universitet Talas have dominated the six-club Women's League since its foundation in 2009.<sup>[1]</sup>
 
@@ -8125,6 +8127,8 @@ No direct talks have been held since. [[Erlan Toktarov|Toktarov]] was re-elected
 | house_type = Unicameral
 | leader1_type = Speaker
 | leader1 = [[Nurbek Sultanov]] ([[Democratic Party of Irad|DPI]]), since 2019
+| leader2_type = Deputy Speaker
+| leader2 = [[Gulnara Duishenkulova]] (DPI), since 2019
 | members = 60
 | groups = Democratic Party of Irad (51);Independents (6);Russo-aligned independents (3)
 | last_election = 7 November 2023
@@ -8245,7 +8249,7 @@ Two days after the launch the Bank of Irad said that Tulparcoin was not legal te
 On 8 October Attelkom blocked the coin's website and its exchange, citing a list supplied by the [[Department of Public Information]] "at the request of financial supervisors". The anonymous site [[FreeIrad.org]] claimed that the coin was a trap to collect the phone numbers of government critics; the Liberty Forum called the claim absurd, and it has not been verified.<sup>[3]</sup> By then the Forum said that more than 120,000 people had registered for the free coins. The block did not affect the Tulpar app itself, where the coins are held.<sup>[3]</sup>
 
 ## Trademark dispute
-On 30 September the Talas Commercial Development Group, headed by [[Adil Toktarov]] and the owner of Tulpar Talas since 2011, asked the [[Talas District Court]] to stop the Forum using the name and its winged-horse logo, citing registrations of the word *Tulpar* made in 2012 and extended in 2021 for financial services and digital products. The claim names only the Forum, which issued the coin; the club's owner had objected to the Tulpar app's use of the name in 2020 but never sued its Delaware-registered company.<sup>[4]</sup> Ilyasov said the tulpar "belonged to the epics before it belonged to any company". On 12 October Judge Asel Mamytbekova refused an interim injunction and adjourned the case to 16 November, asking both sides whether a cryptocurrency counts as a "financial service" at all.<sup>[5]</sup>
+On 30 September the Talas Commercial Development Group, headed by [[Adil Toktarov]] and the owner of Tulpar Talas since 2011, asked the [[Talas District Court]] to stop the Forum using the name and its winged-horse logo, citing registrations of the word *Tulpar* made in 2012 and extended in 2021 for financial services and digital products. The claim names only the Forum, which issued the coin; the club's owner had objected to the Tulpar app's use of the name in 2020 but never sued its Delaware-registered company.<sup>[4]</sup> Ilyasov said the tulpar "belonged to the epics before it belonged to any company". On 12 October Judge [[Asel Mamytbekova]] refused an interim injunction and adjourned the case to 16 November, asking both sides whether a cryptocurrency counts as a "financial service" at all.<sup>[5]</sup>
 
 ## References
 <ol class="references">
@@ -8387,7 +8391,7 @@ The Corrections Directorate's institutions include:<sup>[1]</sup>
 - the **women's colony** in Talas, with 300 places and about 260 prisoners;
 - the **Kyzyl-Adyr Juvenile Educational Colony**, for boys aged 14 to 18, with 150 places and about 90 inmates.
 
-Each city police headquarters and district detachment also has temporary-detention cells, where suspects may be held for up to 72 hours before a court orders custody. The directorate has been headed since 2018 by Colonel Marat Kudaibergenov.
+Each city police headquarters and district detachment also has temporary-detention cells, where suspects may be held for up to 72 hours before a court orders custody. The directorate has been headed since 2018 by Colonel [[Marat Kudaibergenov]], a former governor of the colony in Talas.
 
 Besides criminal custody, the ISEZ authorities make frequent use of short administrative detention, which can be imposed without a criminal charge.<sup>[3]</sup>
 
@@ -8471,7 +8475,7 @@ The ISEZ's main sources of public revenue are:<sup>[1]</sup><sup>[9]</sup>
 Smaller charges include the road-use charge paid by heavy vehicles at the Gendarmerie post at the mouth of the Otmek valley on State Route 1, and the inspection and permit fees charged at the crossings of the [[Qara-Chik Demarcation Line]].<sup>[10]</sup> Because Irad has no recognized sovereign status, the ISEZ has no sovereign credit rating and cannot borrow from the [[wp:International Monetary Fund]], so public investment is financed from resource revenue, the escrow funds and foreign corporate partners.<sup>[1]</sup>
 
 ## Administration
-The State Tax Service, headed in 2026 by Nadezhda Kovalenko, audits filings and assesses taxes, and appeals against its assessments go first through its own procedures and then to the courts. Tax and customs payments, like salaries and pensions, are settled through the [[Bank of Irad Clearing House]] in both of the zone's currencies, the US dollar and the [[Iradi som]]; local taxes and fees, household utility bills and public-sector wages are paid in som, while many businesses are billed in dollars.<sup>[11]</sup> The government's banking and tax systems are hosted at the [[Attelkom Data Center]] in Nurzhan. Since October 2026 fines and some bills can be looked up on the e-government portal *e-Irad*, although online payment awaits an upgrade of Talasbank's gateway (see [[Internet Domains of Irad]]).
+The State Tax Service, headed since 2017 by [[Nadezhda Kovalenko]], audits filings and assesses taxes, and appeals against its assessments go first through its own procedures and then to the courts. Tax and customs payments, like salaries and pensions, are settled through the [[Bank of Irad Clearing House]] in both of the zone's currencies, the US dollar and the [[Iradi som]]; local taxes and fees, household utility bills and public-sector wages are paid in som, while many businesses are billed in dollars.<sup>[11]</sup> The government's banking and tax systems are hosted at the [[Attelkom Data Center]] in Nurzhan. Since October 2026 fines and some bills can be looked up on the e-government portal *e-Irad*, although online payment awaits an upgrade of Talasbank's gateway (see [[Internet Domains of Irad]]).
 
 ## Disputes and controversies
 - **NurGaz (2019).** In June 2019 the tax service presented NurGaz with a claim for $212 million in back taxes after an audit of its royalty and profit-tax filings. The company contested it, and it was later settled for an undisclosed sum. The claim came as relations between the company's president, [[Kamran Bekzatov]], and the administration grew strained; the Department of Public Information called it "a routine matter of tax administration".<sup>[12]</sup><sup>[13]</sup>
@@ -10176,7 +10180,7 @@ This is a **list of universities and other institutions of higher education in [
 ## Universities and institutes
 | Institution | Location | Founded | Students | Notes |
 |---|---|---|---|---|
-| [[Talas State University]] (TSU) | Talas | 1958 | c. 18,400 (2023) | Founded as Iradi State University named after V. I. Lenin on the basis of the Talas Pedagogical Institute; renamed in 1993; eleven faculties, among them the Faculty of Medicine (1981), which trains at the [[Talas Regional Hospital Medical Complex]]; publishes [[Talas State University Press]]; its main library is the [[National Library of Irad]]; rector Kubanychbek Sultanaliev since 2017 |
+| [[Talas State University]] (TSU) | Talas | 1958 | c. 18,400 (2023) | Founded as Iradi State University named after V. I. Lenin on the basis of the Talas Pedagogical Institute; renamed in 1993; eleven faculties, among them the Faculty of Medicine (1981), which trains at the [[Talas Regional Hospital Medical Complex]]; publishes [[Talas State University Press]]; its main library is the [[National Library of Irad]]; rector [[Kubanychbek Sultanaliev]] since 2017 |
 | [[Nurzhan Polytechnic Institute]] | Nurzhan | 1951 | c. 9,200 (2023) | Founded as the Kobozev Petroleum Institute; Kobozev Polytechnic Institute from 1968 to 1993; six faculties; Irad's leading technical university, specializing in petroleum engineering; English-language degree programs since 1996; granite main building of 1956 |
 | National Conservatory of Folk Music | Talas | 1967 | c. 600 | Founded from the Talas music school of 1936; music conservatory teaching Iradi folk instruments and, in its classical department, Western instruments; the pianist [[Aida Temirova]] has taught there since 1984 |
 

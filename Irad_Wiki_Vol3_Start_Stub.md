@@ -4,9 +4,9 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (312 Entries)
+## 5. Start-Class Articles (320 Entries)
 
-### 5.Category: Biographies & Leadership (57 articles)
+### 5.Category: Biographies & Leadership (61 articles)
 
 #### 1. Mar Timotheos Alimbekov
 *Quality: Start-Class | Category: Biographies*
@@ -1008,7 +1008,7 @@ Timur rarely gives interviews or appears on [[IradOne]], and he has made no publ
 According to her official biography, she was born in [[Talas]] and trained as a primary-school teacher at the pedagogical faculty of Iradi State University (now [[Talas State University]]). She married Toktarov, then a newly commissioned lieutenant, in 1977. Their eldest son, Ruslan, was born in Talas in June 1978. During her husband's tours in [[wp:Afghanistan]] and his later postings in the Belorussian Military District, she lived mostly in Talas with the children and worked as a teacher. The family settled in Kobozev (now [[Nurzhan]]) in 1989.<sup>[1]</sup>
 
 ## Public role
-In 2008 she founded the Anara Toktarova Children's Fund, which supports state orphanages in Talas and Nurzhan and equips rural health posts and maternity wards in the ISEZ districts. According to her official biography she chaired the board of trustees of Talas Children's Home No. 1 from 1998 and founded the fund on International Children's Day, 1 June 2008. Its programs include winter coats for children in the districts (*Warm Winter*), satchels for first-year pupils in village schools, the Archa summer camp in the foothills of the [[Talas Alatau]] and a New Year toy drive; its yearly events include a Children's Day fair in Talas, an autumn stall day at the [[Bazar-i Kalan]] and a New Year charity ball.<sup>[2]</sup> [[IradOne]] regularly covers her visits to orphanages and her Irad Day receptions for war widows and the families of soldiers killed in the civil wars.<sup>[3]</sup> Opposition outlets have questioned the fund's finances, saying that much of its money comes from companies dependent on government contracts and that it publishes no audited accounts. The fund says it is financed by private donations.<sup>[4]</sup>
+In 2008 she founded the Anara Toktarova Children's Fund, which supports state orphanages in Talas and Nurzhan and equips rural health posts and maternity wards in the ISEZ districts. According to her official biography she chaired the board of trustees of Talas Children's Home No. 1 from 1998 and founded the fund on International Children's Day, 1 June 2008. Its programs include winter coats for children in the districts (*Warm Winter*), satchels for first-year pupils in village schools, the Archa summer camp in the foothills of the [[Talas Alatau]] and a New Year toy drive; its yearly events include a Children's Day fair in Talas, an autumn stall day at the [[Bazar-i Kalan]] and a New Year charity ball.<sup>[2]</sup> [[IradOne]] regularly covers her visits to orphanages and her Irad Day receptions for war widows and the families of soldiers killed in the civil wars.<sup>[3]</sup> Opposition outlets have questioned the fund's finances, saying that much of its money comes from companies dependent on government contracts and that it publishes no audited accounts. The fund says it is financed by private donations.<sup>[4]</sup> Its executive director since 2012 has been [[Nazgul Asanbekova]], a former Talas city social worker.
 
 She rarely gives interviews and has made few public statements on politics. Since early 2023 her public appearances have become infrequent. Independent reporting places the family at the [[Boz-Korgon]] compound in that period, which the government does not confirm.<sup>[4]</sup>
 
@@ -1803,7 +1803,153 @@ The [[Labor Party of Irad]] majority on the Nurzhan city council named a street 
 
 [[Category:Soviet era]]
 
-### 5.Category: Culture, Arts & Folklore (55 articles)
+#### 809. Erkin Asanbaev
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Erkin Asanbaev
+| birth_date = 1967
+| birth_place = [[Talas]]
+| occupation = Architect, politician
+| office1 = Mayor of Talas
+| term_start1 = 2015
+| appointer1 = Governor of the ISEZ
+| alma_mater = Frunze Polytechnic Institute
+| children = 3
+}}
+
+**Erkin Asanbaev** (born 1967) is an Iradi architect and politician who has been mayor of [[Talas]], appointed by the Governor, since 2015, the year [[Alikhan Toktarov]] became chairman of [[IradOne]]. A planner by training, he spent his career in the city's architecture and planning department before becoming mayor, and is best known for the redevelopment of Liberty Boulevard in 2016–19. The *[[Talas Herald]]* calls him "IradOne's mayor".<sup>[1]</sup><sup>[2]</sup>
+
+## Early life and career
+Asanbaev was born in Talas in 1967 and graduated in architecture from the Frunze Polytechnic Institute in 1989. In 1990 he joined the architecture and planning department of the Talas city government, where he headed the land and building permits section from 2003 to 2010. From 2010 to 2015 he was deputy mayor for construction.<sup>[1]</sup>
+
+## Mayor of Talas
+The Governor appointed Asanbaev mayor in 2015. His best-known project is the redevelopment of Liberty Boulevard in 2016–19, which repaved the street, put up new lamps and issued new permits for its shopfronts.<sup>[1]</sup> He is a regular at IradOne's receptions, and the Steppe Luxury Group's stores on Liberty Boulevard went up under permits issued by his city government, which is why the *Talas Herald* calls him "IradOne's mayor". He is counted as an ally of Alikhan Toktarov (see [[2027 Iradi gubernatorial election]]).<sup>[2]</sup>
+
+## Personal life
+Asanbaev is married and has three children.<sup>[1]</sup>
+
+## See also
+- [[Government of the Irad Special Economic Zone]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/iradone-s-mayor.html" target="_blank" rel="noopener">IradOne's mayor.</a>' Talas.</li>
+</ol>
+
+[[Category:Politicians]]
+[[Category:Living people]]
+
+#### 887. Vadim Shcherbakov
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Vadim Shcherbakov
+| birth_date = 1965
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Engineer, politician
+| party = [[Democratic Party of Irad]]
+| office1 = Mayor of Nurzhan
+| term_start1 = 2018
+| appointer1 = Governor of the ISEZ
+| alma_mater = Novosibirsk Institute of Railway Engineers
+| children = 2
+}}
+
+**Vadim Shcherbakov** (born 1965) is an Iradi engineer and politician of the [[Democratic Party of Irad]] (DPI) who has been mayor of [[Nurzhan]], appointed by the Governor, since 2018. A Russian-speaking engineer from the city's machine industry, he was one of the first [[Russos of Nurzhan|Russos]] to join the DPI.<sup>[1]</sup>
+
+## Early life and career
+Shcherbakov was born in Kobozev, as Nurzhan was then called, in 1965, and graduated from the Novosibirsk Institute of Railway Engineers in 1987. He worked as an engineer at [[Nurzhanmash]] from 1987 to 1999 and was then deputy head of the city's housing and utilities department from 1999 to 2008.<sup>[1]</sup>
+
+## Politics
+He joined the DPI in 2008, one of the first of the city's Russian-speaking professionals to do so, and sat on the city council for the party from 2011 to 2015. From 2015 to 2018 he was deputy mayor for the city economy, and in 2018 the Governor appointed him mayor.<sup>[1]</sup>
+
+As mayor he deals with a council on which Russo politicians have held a majority for most of the period since 1992 (see [[Talas–Nurzhan rivalry]]). In public he keeps relations with [[NurGaz]], the city's largest employer, correct but cool. He speaks Iradi with an accent.<sup>[1]</sup>
+
+## Personal life
+Shcherbakov is married and has two children.<sup>[1]</sup>
+
+## See also
+- [[Government of the Irad Special Economic Zone]]
+- [[Nurzhan]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+[[Category:Politicians]]
+[[Category:Living people]]
+
+#### 888. Bakhtiyar Nazarov
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Bakhtiyar Nazarov
+| birth_date = 1970
+| birth_place = [[Iyık Janyl]]
+| occupation = Teacher, politician
+| office1 = Mayor of Iyık Janyl
+| term_start1 = 2021
+| appointer1 = Governor of the ISEZ
+| alma_mater = [[Talas State University]]
+| children = 4
+}}
+
+**Bakhtiyar Nazarov** (born 1970) is an Iradi former geography teacher and politician who has been mayor of [[Iyık Janyl]], appointed by the Governor, since 2021.<sup>[1]</sup>
+
+## Early life and career
+Nazarov was born in Iyık Janyl in 1970 and graduated in geography from [[Talas State University]] in 1992. He taught geography in Iyık Janyl from 1992 to 2003 and then worked in the city's education office until 2012.<sup>[1]</sup>
+
+## City government
+From 2012 to 2021 Nazarov was deputy mayor for social affairs, and in 2021 he became mayor. The main job of his department each year is the city's arrangements for the pilgrims who come to the [[Church of St. Janyl]], the cathedral of the Archeparchy, above all for the [[Feast of St. Janyl]]: parking, drinking water and first aid.<sup>[1]</sup>
+
+## Personal life
+Nazarov is married and has four children.<sup>[1]</sup>
+
+## See also
+- [[Government of the Irad Special Economic Zone]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+[[Category:Politicians]]
+[[Category:Living people]]
+
+#### 889. Kubanychbek Sultanaliev
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Kubanychbek Sultanaliev
+| birth_date = 1960
+| birth_place = Talas District
+| occupation = Economist, academic
+| title = Rector of [[Talas State University]] (since 2017)
+| alma_mater = [[Talas State University]]
+| notable_works = *The Economy of the Talas Valley* (1999)
+| children = 3
+}}
+
+**Kubanychbek Sultanaliev** (born 1960) is an Iradi economist who has been rector of [[Talas State University]] (TSU) since 2017. He has spent his whole career at the university, and his textbook *The Economy of the Talas Valley* is its first-year set text.<sup>[1]</sup><sup>[2]</sup>
+
+## Career
+Sultanaliev was born in Talas District in 1960, graduated in economics from TSU in 1982 and joined its staff in 1983. He earned the degree of Candidate of Sciences (Economics) in Frunze in 1989 with a thesis on collective-farm accounting. He was dean of the Faculty of Economics and Management from 2004 to 2012 and first vice-rector from 2012 to 2017, when the Governor appointed him rector on the nomination of the Academic Council.<sup>[1]</sup><sup>[2]</sup>
+
+## Work
+His *The Economy of the Talas Valley* was published by [[Talas State University Press]] in 1999 and reached a third edition in 2015; it is set for all first-year students.<sup>[1]</sup>
+
+## Personal life
+Sultanaliev is married and has three children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University (2026). <i>The Rector</i>. Talas.</li>
+</ol>
+
+[[Category:Scholars]]
+[[Category:Living people]]
+
+### 5.Category: Culture, Arts & Folklore (59 articles)
 
 #### 38. Iyık Janyl Seminary Choir
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -2229,13 +2375,13 @@ The best-selling act is the girl group [[Karakush (Group)|Karakush]], whose 2021
 | genre = [[Mor-Pop]]; [[wp:K-pop|K-pop]]
 | years_active = 2018–present
 | labels = Kök Ay Media
-| members = Aruuke Temir kyzy; Dana Pak; Saltanat Abdrakhmanova; Meerim Sultan kyzy; Kamila Nurlan
+| members = [[Aruuke Temir kyzy]]; Dana Pak; Saltanat Abdrakhmanova; Meerim Sultan kyzy; Kamila Nurlan
 }}
 
 **Karakush** (stylized KARAKUSH; Iradi *kara kush*, "golden eagle") is a five-member Iradi [[Mor-Pop]] girl group formed in [[Talas]] in 2018 by the agency Kök Ay Media. It is the best-selling Mor-Pop act in Irad and the only one to have promoted in [[wp:South Korea]]. Its 2021 single "Ak Börü" ("White Wolf") became a viral hit abroad, but none of its later releases charted outside Irad, and the foreign music press usually describes the group as a one-hit wonder.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
-Kök Ay Media assembled the group through open auditions in Talas and [[Nurzhan]] in 2017 and trained its members for a year on the [[wp:K-pop]] model. The line-up is Aruuke Temir kyzy (leader, vocals), Dana Pak (lead dancer; from the [[Koryo-saram in Irad|Koryo-saram]] community of Nurzhan), Saltanat Abdrakhmanova (rap), Meerim Sultan kyzy (vocals) and Kamila Nurlan (vocals). Their debut single, "Umay" (2018), was promoted heavily on [[IradOne]]'s youth channel, and the group won the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2019.<sup>[1]</sup>
+Kök Ay Media assembled the group through open auditions in Talas and [[Nurzhan]] in 2017 and trained its members for a year on the [[wp:K-pop]] model. The line-up is [[Aruuke Temir kyzy]] (leader, vocals), Dana Pak (lead dancer; from the [[Koryo-saram in Irad|Koryo-saram]] community of Nurzhan), Saltanat Abdrakhmanova (rap), Meerim Sultan kyzy (vocals) and Kamila Nurlan (vocals). Their debut single, "Umay" (2018), was promoted heavily on [[IradOne]]'s youth channel, and the group won the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2019.<sup>[1]</sup>
 
 "Ak Börü" was released in February 2021. Its video, filmed on a frozen lake in the Talas valley, shows the members in white wolf-fur capes and horned headdresses based on [[Morkhan (Mythology)|Morkhan]], dancing to a slowed, detuned [[Komuz (Iradi)|komuz]] riff. A dance challenge built on its chorus spread on short-video platforms, and the song found an audience among [[wp:Koryo-saram]] listeners in [[wp:Kazakhstan]] and [[wp:Uzbekistan]] and among Korean-American listeners. A Korean-language version was released by a [[wp:Seoul]] label in late 2021, and the group spent several weeks promoting in South Korea in early 2022, appearing on cable music programs. The single briefly entered the lower reaches of South Korean digital charts. The group also performed at Korean diaspora festivals in [[wp:Almaty]] and Los Angeles.<sup>[2]</sup>
 
@@ -3141,6 +3287,86 @@ The rights stayed in Moscow, so [[IradOne]] has never shown the films, and Iradi
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/tulpar-tales-flies-where-kulunchak-ran.html" target="_blank" rel="noopener">Tulpar Tales flies where Kulunchak ran.</a>' Talas.</li>
 </ol>
 
+#### 883. Chinese in Irad
+*Quality: Start-Class | Category: Society & Demographics*
+
+**Chinese in Irad** are the citizens of the [[wp:People's Republic of China]] living and working in [[Irad]]. Official figures put them at about 14,000 people, 0.3 percent of the population, almost all of them on work or trade permits issued by the Passport and Residence Service; only a few hundred hold long-term residence cards. Most are men aged 25 to 50 on contracts of one to three years, and few have brought their families. The figures count them apart from the [[Dungans in Irad|Dungans]] and [[Uyghurs in Irad|Uyghurs]], whose families have lived in Irad since the 19th century, and from the [[Ghulja Tarsoo]] across the border in Xinjiang.<sup>[1]</sup>
+
+## Work
+Chinese residents fall into a few groups:<sup>[2]</sup>
+- staff of the project office of the China National Petroleum Corporation in [[Nurzhan]] and its technical crews, who rotate in from Xinjiang;
+- engineers and buyers' agents at the antimony works at [[Sary-Bulak]] and the [[Chatkal Chemical Smelting Complex|Chatkal complex]], since Chinese smelters take much of the concentrate (see [[Irad–China relations]]);
+- the crews who installed [[Attelkom]]'s new gateway equipment in 2026, a few of whom stayed on to service it;
+- traders who began arriving in the late 1990s through Kashgar and Bishkek's Dordoi bazaar, and who sell clothes, phones, car parts and solar panels wholesale at the Nurzhan bazaar and at [[Bazar-Korgon]].
+
+## Settlement
+Most live in Nurzhan, in company hostels and rented flats near the railway station and the works of the [[Dastgoh District|Dastgoh district]], and eat at the half-dozen Chinese restaurants by the station. A smaller group lives at Sary-Bulak. Almost none live in [[Talas]] or the [[Autonomous Tribal Regions]].<sup>[2]</sup>
+
+## Relations with Iradis
+Language and short contracts keep most Chinese residents apart from their neighbors more than any hostility does, and Russian-speaking Nurzhan does business with them easily. In Talas they are more often resented: jokes about the Attelkom gateway call them "Beijing's eyes", and since the detention of members of the Ghulja Tarsoo in Xinjiang they have been a sore point for churchgoers. The press reports occasional fights in the bazaars and rumors of land deals, none of them proven. A few Chinese traders have married into Russian-speaking and Iradi families in Nurzhan, and their children are usually counted as Russian or Iradi.<sup>[2]</sup><sup>[3]</sup>
+
+## See also
+- [[Demographics of Irad]]
+- [[Irad–China relations]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Territorial Statistics Office (2020). <i>Results of the 2018 Census of the Irad Special Economic Zone</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University, Institute of Sociology (2023). <i>Foreign Workers in the ISEZ: Survey Report</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-3"><b>^</b> "Nurzhan's other bazaar". <i>[[Talas Herald]]</i>. 12 March 2024.</li>
+</ol>
+
+#### 884. Dungans in Irad
+*Quality: Start-Class | Category: Society & Demographics*
+
+**Dungans in Irad** (self-name *Huejzu*) are the [[wp:Dungan people|Dungans]], Chinese-speaking [[wp:Hui people|Hui]] Muslims, who live in [[Irad]], mainly in the villages of the lower Chu below [[Nurzhan]]. Official figures count them together with the Tajiks and [[Uyghurs in Irad|Uyghurs]], at about 1.5 percent of the population.<sup>[1]</sup>
+
+## History
+The Dungans arrived in 1877–78, after the defeat of the [[wp:Dungan Revolt (1862–1877)|Hui revolt]] in north-west China, when the Russian authorities let the refugees settle in Semirechye. They were given land in the lower Chu villages below the Russian settlement that later became Kobozev, and have farmed there since.<sup>[2]</sup>
+
+## Community
+The Dungans grow vegetables and rice in the irrigated lower Chu, and supply much of Nurzhan's market produce. In the city they run the noodle stalls and the stalls selling *ashlyamfu*, cold starch noodles in a sour, spicy broth, which have become a Nurzhan street food. They keep their own mosque and speak the Dungan language, a form of Chinese written in Cyrillic, at home, with Russian outside it.<sup>[2]</sup> See also [[Islam in Irad]].
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Territorial Statistics Office (2020). <i>Results of the 2018 Census of the Irad Special Economic Zone</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University, Institute of Sociology (2021). <i>The Peoples of the Chu Valley</i>. Talas: Talas State University Press.</li>
+</ol>
+
+#### 885. Uyghurs in Irad
+*Quality: Start-Class | Category: Society & Demographics*
+
+**Uyghurs in Irad** are the [[wp:Uyghurs|Uyghurs]] living in [[Irad]], mostly in [[Nurzhan]] and the villages of the lower Chu. Official figures count them together with the Tajiks and [[Dungans in Irad|Dungans]], at about 1.5 percent of the population.<sup>[1]</sup>
+
+## History
+The first Uyghurs came from the Ili valley after the [[wp:Treaty of Saint Petersburg (1881)|Treaty of St Petersburg]] of 1881, when Russia returned the valley to China and many of its people chose to move into Russian territory. A second wave came from Xinjiang in 1955–62, before the Sino-Soviet border was closed.<sup>[2]</sup>
+
+## Community
+Uyghurs in Irad are mainly traders, cooks and bazaar stallholders, and most of Nurzhan's *lagman* houses, serving hand-pulled noodles, are Uyghur. Most are Sunni Muslims (see [[Islam in Irad]]) and speak Russian as well as Uyghur.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Territorial Statistics Office (2020). <i>Results of the 2018 Census of the Irad Special Economic Zone</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University, Institute of Sociology (2021). <i>The Peoples of the Chu Valley</i>. Talas: Talas State University Press.</li>
+</ol>
+
+#### 886. Tatars in Irad
+*Quality: Start-Class | Category: Society & Demographics*
+
+**Tatars in Irad** are the [[wp:Volga Tatars|Tatars]] living in [[Irad]], about 23,000 people or 0.5 percent of the population on official figures, most of them in [[Nurzhan]].<sup>[1]</sup>
+
+## History
+Tatars came to Kobozev, as Nurzhan was then called, from the 1930s, with the railway and the oil fields and machine works that grew up around the city. They worked as railwaymen, oil workers, engineers and clerks.<sup>[2]</sup>
+
+## Community
+Irad's Tatars are Russian-speaking and part of the Russian-speaking milieu of Nurzhan, but most still identify as [[wp:Hanafi school|Hanafi]] Muslims, and the community keeps its own mosque in the city (see [[Islam in Irad]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Territorial Statistics Office (2020). <i>Results of the 2018 Census of the Irad Special Economic Zone</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University, Institute of Sociology (2021). <i>The Peoples of the Chu Valley</i>. Talas: Talas State University Press.</li>
+</ol>
+
 ### 5.Category: Economy & Infrastructure (36 articles)
 
 #### 83. Kara-Bulak Grain Logistics Depot
@@ -3540,7 +3766,7 @@ The map shows settlements in Iradi, Russian and English, roads and railways, the
 | founded = 1996
 | hq = [[Nurzhan]]
 | area_served = [[Irad Special Economic Zone]] and the northern crossings into [[wp:Kazakhstan]]
-| key_people = [[Timur Toktarov]]; Ilyas Sarsenbayev (Executive director)
+| key_people = [[Timur Toktarov]]; [[Ilyas Sarsenbayev]] (Executive director)
 | services = Bonded, refrigerated, bulk agricultural and industrial trucking
 | owner = [[Timur Toktarov]] (controlling, since 2008)
 }}
@@ -4400,7 +4626,7 @@ On 19 August 1992 the valley was the epicenter of the [[1992 Suusamyr earthquake
 #### 153. Kara-Buura
 *Quality: Start-Class | Category: Geography & Nature*
 
-**Kara-Buura** is a river in the lower Talas valley and the name of the district of the [[Irad Special Economic Zone]] (ISEZ) through which it flows. **Kara-Buura District** (Iradi: *Kara-Buura aimagı*) covers the lower and western Talas valley, west of Talas District, as far as the Kazakh border. Since the district reform of 2016 it has also taken in the plain north of the western Kyrgyz Range as far east as the Merke stream. It is one of the six ISEZ districts, and its administrative center is [[Kyzyl-Adyr]], where the district administration sits; its head, appointed by the Governor, was Jyrgalbek Osmonaliev in 2026.<sup>[1]</sup>
+**Kara-Buura** is a river in the lower Talas valley and the name of the district of the [[Irad Special Economic Zone]] (ISEZ) through which it flows. **Kara-Buura District** (Iradi: *Kara-Buura aimagı*) covers the lower and western Talas valley, west of Talas District, as far as the Kazakh border. Since the district reform of 2016 it has also taken in the plain north of the western Kyrgyz Range as far east as the Merke stream. It is one of the six ISEZ districts, and its administrative center is [[Kyzyl-Adyr]], where the district administration sits; its head, appointed by the Governor, was [[Jyrgalbek Osmonaliev]] in 2026.<sup>[1]</sup>
 
 ## River
 The Kara-Buura River rises on the northern slopes of the western [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]], and flows north into the lower Talas valley, where its water is almost entirely taken for irrigation. The [[Kara-Buura Pass]] (3,305 m), at the head of its valley, leads over the range to the upper Chatkal; the road from the valley mouth to the Chatkal valley crosses it too, after leaving the gorge of the middle valley for the [[Kara-Koyun Valley]] and returning to the upper valley over the lower [[Karakoyun Pass]].<sup>[2]</sup>
@@ -6203,7 +6429,7 @@ In 2014 Russo-aligned deputies, among them Yevgeny Sergeev and Kseniya Shubina, 
 ## Society
 The [[Syro-Iradi Catholic Church]], to which most Iradis belong, follows Catholic teaching on sexuality. Archbishop Mar Ephrem has stressed respect for persons without any change of doctrine.<sup>[4]</sup> In a 2022 survey by the Institute of Sociology of [[Talas State University]], 81 percent of adults in the ISEZ said they disapproved of homosexuality, but only 52 percent of people under 30 in Talas; disapproval was highest among the Russian-speakers of [[Nurzhan]], while the [[Mor-Wave]] music scene is regarded as tolerant.<sup>[5]</sup>
 
-The community is small and discreet and lives mainly in [[Talas]], where it organizes through private groups on the [[Tulpar (app)|Tulpar]] messaging app; some Iradis leave for [[wp:Almaty]] or abroad. In the ATR family pressure and the expectation of marriage weigh heavily, and no prosecutions have been recorded.<sup>[2]</sup>
+A few artists are openly gay, among them the theatre director Saparbek Orozaly, who came out in a 2015 *[[Talas Herald]]* interview, and the singer Mira Temirova of [[tüntolk]]. No figure in politics or business is.<sup>[2]</sup> The community is small and discreet and lives mainly in [[Talas]], where it organizes through private groups on the [[Tulpar (app)|Tulpar]] messaging app; some Iradis leave for [[wp:Almaty]] or abroad. In the ATR family pressure and the expectation of marriage weigh heavily, and no prosecutions have been recorded.<sup>[2]</sup>
 
 ## See also
 - [[Human rights in Irad]]
@@ -6242,7 +6468,7 @@ Most people use the [[Tulpar (app)|Tulpar]] app for chat and channels and, since
 Evenings out center on chaikhanas (teahouses), karaoke bars, the Aigyr Ulak Nights at the Talas Hippodrome and football on IradOne Sport. At home, [[IradOne]]'s quiz *[[Kim Bilet?]]* at 19:00 and the sitcom *[[Kuda (TV series)|Kuda]]* on Mondays and Wednesdays are among the most-watched programs.<sup>[5]</sup>
 
 ## Famous faces
-Familiar figures include the quiz host Talant Myrzabekov, whose catchphrase "Kim bilet? Siz bilesiz!" ("Who knows? You know!") is widely repeated; Aibike Kenzhebekova, presenter of the talent show *[[Jyldyz Jolu]]*; the pop groups [[Altyn Muuz (Group)|Altyn Muuz]] and [[Karakush (Group)|Karakush]]; the women's football captain Begimai Asan; and the wrestler [[Almaz Samat uulu]]. The online creator [[Sezim Nurmat kyzy]] is known for her series "100 som a day", which since 2024 has become an informal measure of prices.<sup>[5]</sup><sup>[6]</sup>
+Familiar figures include the quiz host [[Talant Myrzabekov]], whose catchphrase "Kim bilet? Siz bilesiz!" ("Who knows? You know!") is widely repeated; Aibike Kenzhebekova, presenter of the talent show *[[Jyldyz Jolu]]*; the pop groups [[Altyn Muuz (Group)|Altyn Muuz]] and [[Karakush (Group)|Karakush]]; the women's football captain Begimai Asan; and the wrestler [[Almaz Samat uulu]]. The online creator [[Sezim Nurmat kyzy]] is known for her series "100 som a day", which since 2024 has become an informal measure of prices.<sup>[5]</sup><sup>[6]</sup>
 
 ## See also
 - [[Culture of Irad]]
@@ -6500,7 +6726,7 @@ The program is among IradOne's most-watched Iradi-language programs with viewers
 Each weekday edition lasts half an hour. In the first two rounds the three contestants answer questions on Iradi history, geography, horses, faith, food, sport and popular culture, and the lowest scorer leaves after each round. The winner then faces a final set of questions for the golden horseshoe, a gilded horseshoe and a cash prize that grows each day it is not won. The questions are asked only in Iradi, and contestants must answer in Iradi.<sup>[1]</sup> In the *Saturday Special*, teams of three from families, workplaces, schools and villages compete for a larger weekly jackpot.
 
 ## History
-*Kim Bilet?* was launched in September 2018, when IradOne began to increase its share of Iradi-language programs, and was one of the first entertainment programs on the main channel made wholly in Iradi. The *Saturday Special* followed in 2020. Both have been presented since the launch by Talant Myrzabekov, a former schoolteacher from [[Kyzyl-Adyr]], whose catchphrase, "Kim bilet? Siz bilesiz!" ("Who knows? You know!"), is widely repeated.<sup>[1]</sup><sup>[2]</sup>
+*Kim Bilet?* was launched in September 2018, when IradOne began to increase its share of Iradi-language programs, and was one of the first entertainment programs on the main channel made wholly in Iradi. The *Saturday Special* followed in 2020. Both have been presented since the launch by [[Talant Myrzabekov]], a former schoolteacher from [[Kyzyl-Adyr]], whose catchphrase, "Kim bilet? Siz bilesiz!" ("Who knows? You know!"), is widely repeated.<sup>[1]</sup><sup>[2]</sup>
 
 ## Reception
 In the 2023 survey of the Irad Media Research Center *Kim Bilet?* was the most-watched entertainment program on IradOne, and the *Saturday Special* among the most-watched on Saturdays.<sup>[3]</sup> Teachers and supporters of the [[Iradi language revival]] have praised it for encouraging young viewers to use the language, and Iradi-language quiz leagues in schools are modeled on it.<sup>[2]</sup> Russian-speaking viewers in [[Nurzhan]] have complained that the Iradi-only rule effectively excludes them, a criticism IradOne answers by pointing to its Russian-language programs on IradOdin. Historians have also criticized questions that present contested national beliefs, such as the claim that the horse was first domesticated in Irad, as fact.<sup>[4]</sup>
@@ -8722,7 +8948,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (576 Entries)
+## 6. Stub-Class Articles (604 Entries)
 
 ### 6.Category: Culture, Language & Folklore (76 articles)
 
@@ -10729,7 +10955,7 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 
 
 
-### 6.Category: Historical Figures & Personalities (116 articles)
+### 6.Category: Historical Figures & Personalities (144 articles)
 
 #### 131. Kalyk Asanov
 *Quality: Stub | Category: Biographies*
@@ -12898,27 +13124,6 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 
 [[Category:Living people]]
 
-#### 809. Erkin Asanbaev
-*Quality: Stub | Category: Biographies*
-{{Infobox person
-| name = Erkin Asanbaev
-| occupation = Politician
-| title = Mayor of Talas (since 2015)
-}}
-
-**Erkin Asanbaev** is an Iradi politician who has been mayor of [[Talas]], appointed by the Governor, since 2015, the year [[Alikhan Toktarov]] became chairman of [[IradOne]]. He is a regular at IradOne's receptions, and the Steppe Luxury Group's stores on Liberty Boulevard went up under permits issued by his city government. The *[[Talas Herald]]* calls him "IradOne's mayor".<sup>[1]</sup><sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/iradone-s-mayor.html" target="_blank" rel="noopener">IradOne's mayor.</a>' Talas.</li>
-</ol>
-
-{{Irad-bio-stub}}
-
-[[Category:Politicians]]
-[[Category:Living people]]
-
 #### 819. Aisulu Zhaksybekova
 *Quality: Stub | Category: Biographies*
 {{Infobox person
@@ -13236,6 +13441,688 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 
 [[Category:Visual artists]]
 [[Category:Soviet era]]
+
+#### 890. Nadezhda Kovalenko
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nadezhda Kovalenko
+| birth_date = 1966
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Tax official
+| title = Head of the State Tax Service (since 2017)
+}}
+
+**Nadezhda Kovalenko** (born 1966) is an Iradi tax official who has headed the State Tax Service of the [[Irad Special Economic Zone]] since 2017 (see [[Taxation in Irad]]). Born in Kobozev and a graduate of the Novosibirsk Institute of National Economy (1988), she was an accountant in the Kobozev city finance department from 1988 to 1993 and an auditor in the territorial revenue office from 1993 to 2008. She headed the service's audit division from 2009 to 2017. Her yearly filing-deadline reminder on [[IradOne]] has made her "the calendar" to the *[[Talas Herald]]*'s sketch writers. She is a widow with one son.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Living people]]
+
+#### 891. Yosep Temirkulov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yosep Temirkulov
+| birth_date = 1961
+| birth_place = [[Iyık Janyl]]
+| occupation = Surgeon
+| title = Chief physician, [[Talas Regional Hospital Medical Complex]] (since 2013)
+}}
+
+**Yosep Temirkulov** (born 1961) is an Iradi surgeon who has been chief physician of the [[Talas Regional Hospital Medical Complex]] since 2013. He graduated from the Kyrgyz State Medical Institute in Frunze in 1985 and joined the hospital as a general surgeon in 1987. During the fighting for [[Talas]] in 2007 he ran its casualty side, and he was head of surgery from 2004 to 2013. [[Jamila Kubatova]] was his deputy from 2014 until she became minister of health in 2025. He is married and has three children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Living people]]
+
+#### 892. Asel Akmatalieva
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Asel Akmatalieva
+| birth_date = 1972
+| birth_place = [[Talas]]
+| occupation = Police officer
+| title = Director of the Passport and Residence Service (since 2016)
+}}
+
+Colonel **Asel Akmatalieva** (born 1972) is an Iradi official who has been director of the Passport and Residence Service of the ISEZ Ministry of Internal Security since 2016; hers is the issuing-authority signature in Iradi passports. A law graduate of [[Talas State University]] (1994), she joined the passport desk of the Talas city militia in 1995 and was deputy head of the service from 2008 to 2016. In 2025 she told the [[Mejlis]] that the long waits for passports were a staffing problem, not a shortage of booklets, and in October 2026 she put the queue numbers on the *e-Irad* portal. She is married and has two children.<sup>[1]</sup>
+
+## See also
+- [[Government of the Irad Special Economic Zone]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Living people]]
+
+#### 893. Aidana Kurmanalieva
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aidana Kurmanalieva
+| birth_date = 1986
+| birth_place = [[Talas]]
+| occupation = Programmer, civil servant
+| title = Head of the Digital Services Directorate (since 2021)
+}}
+
+**Aidana Kurmanalieva** (born 1986) is an Iradi programmer and civil servant who has headed the Digital Services Directorate of the Department of Infrastructure and Communications since 2021, the youngest head of a government directorate in the ISEZ. A computer science graduate of [[Talas State University]] (2008), she was a programmer at [[Kuble Soft]] from 2008 to 2014 and worked in the IT department of [[Attelkom]] from 2014 to 2021. Her directorate runs the *e-Irad* e-government portal and its help desk at Liberty Boulevard 14 in [[Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Living people]]
+
+#### 894. Mirlan Beishembiev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mirlan Beishembiev
+| birth_date = 1958
+| birth_place = [[Talas]]
+| occupation = Meteorologist
+| title = Director of Irad Gidromet (since 2010)
+}}
+
+**Mirlan Beishembiev** (born 1958) is an Iradi meteorologist who has been director of the ISEZ Hydrometeorological Service, *Irad Gidromet*, since 2010. He graduated from the Leningrad Hydrometeorological Institute in 1981 and was an observer and then head of the Talas station of the Soviet republican hydrometeorological administration until 1991. He was the service's deputy director from 1998 to 2010. As director he set up its fine-particle (PM2.5) monitoring network with UNMI in 2019, and he co-wrote the 2022 study of warming in Irad with [[Talas State University]] (see [[Climate of Irad]]). He is married and has two children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Scholars]]
+[[Category:Living people]]
+
+#### 895. Gulnara Duishenkulova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Gulnara Duishenkulova
+| birth_date = 1970
+| birth_place = [[Kara-Buura]] District
+| occupation = Agronomist, politician
+| party = [[Democratic Party of Irad]]
+| office1 = Deputy Speaker of the [[Mejlis]]
+| term_start1 = 2019
+}}
+
+**Gulnara Duishenkulova** (born 1970) is an Iradi politician of the [[Democratic Party of Irad]] (DPI) who has been Deputy Speaker of the [[Mejlis]] since 2019, when she was elected together with the Speaker, [[Nurbek Sultanov]]; she chairs sittings in his absence. An agronomist trained at the Kyrgyz Agricultural Institute in Frunze (1992), she worked in the Kara-Buura district agriculture office from 1992 to 2011, when she was elected a member for Kara-Buura. She chaired the Agriculture and Water Committee from 2015 to 2019. She is married and has three children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:Living people]]
+
+#### 896. Cholpon Imankulova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Cholpon Imankulova
+| birth_date = 1968
+| birth_place = Talas District
+| occupation = Civil servant
+| office1 = Head of the Talas District administration
+| term_start1 = 2016
+| appointer1 = Governor of the ISEZ
+}}
+
+**Cholpon Imankulova** (born 1968) is an Iradi civil servant who has been head of the Talas District administration, appointed by the Governor, since 2016. She graduated in economics from [[Talas State University]] in 1990 and worked in the Talas district finance office until 2009, when she became deputy head of the district administration. She is married and has two children.<sup>[1]</sup><sup>[2]</sup>
+
+## See also
+- [[Administrative divisions of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:Living people]]
+
+#### 897. Marat Seitkaliev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Marat Seitkaliev
+| birth_date = 1964
+| birth_place = Chu District
+| occupation = Civil servant
+| office1 = Head of the Chu District administration
+| term_start1 = 2014
+| appointer1 = Governor of the ISEZ
+}}
+
+**Marat Seitkaliev** (born 1964) is an Iradi agronomist and civil servant who has been head of the Chu District administration, based in [[Nurzhan]], since 2014. A graduate of the Kyrgyz Agricultural Institute in Frunze (1986), he worked as a state-farm agronomist and from 1999 to 2008 on the staff of the territorial agriculture office for the Chu. He was deputy head of the district administration from 2008 to 2014. He is married and has three children.<sup>[1]</sup><sup>[2]</sup>
+
+## See also
+- [[Administrative divisions of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:Living people]]
+
+#### 898. Jyrgalbek Osmonaliev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Jyrgalbek Osmonaliev
+| birth_date = 1962
+| birth_place = [[Kyzyl-Adyr]]
+| occupation = Civil servant
+| office1 = Head of the Kara-Buura District administration
+| term_start1 = 2012
+| appointer1 = Governor of the ISEZ
+}}
+
+**Jyrgalbek Osmonaliev** (born 1962) is an Iradi veterinarian and civil servant who has been head of the [[Kara-Buura]] District administration, at [[Kyzyl-Adyr]], since 2012. He graduated in veterinary medicine from [[Talas State University]] in 1985 and spent twenty years in the district veterinary service, which he headed from 1998 to 2005. He was deputy head of the district administration from 2005 to 2012. He is married and has four children.<sup>[1]</sup><sup>[2]</sup>
+
+## See also
+- [[Kara-Buura]]
+- [[Administrative divisions of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:Living people]]
+
+#### 899. Alisher Kholmatov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Alisher Kholmatov
+| birth_date = 1971
+| birth_place = [[Tash-Kömür]]
+| occupation = Civil servant
+| office1 = Head of the Lower Naryn District administration
+| term_start1 = 2019
+| appointer1 = Governor of the ISEZ
+}}
+
+**Alisher Kholmatov** (born 1971) is an Iradi civil servant who has been head of the Lower Naryn District administration, at [[Tash-Kömür]], since 2019, the first [[wp:Uzbeks|Uzbek]] to head an ISEZ district. Born in Tash-Kömür to an Uzbek family, he graduated from the Tashkent Institute of Irrigation and Melioration in 1993 and worked for the Lower Naryn water users' association from 1994 to 2011, as its chairman from 2003. He was deputy head of the district administration from 2011 to 2019. He is married and has three children.<sup>[1]</sup><sup>[2]</sup>
+
+## See also
+- [[Tash-Kömür]]
+- [[Administrative divisions of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:Living people]]
+
+#### 900. Bakytbek Turdumatov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Bakytbek Turdumatov
+| birth_date = 1966
+| birth_place = [[Toktogul (town)|Toktogul]]
+| occupation = Civil servant
+| office1 = Head of the Toktogul District administration
+| term_start1 = 2017
+| appointer1 = Governor of the ISEZ
+}}
+
+**Bakytbek Turdumatov** (born 1966) is an Iradi power engineer and civil servant who has been head of the Toktogul District administration since 2017. He graduated in power engineering from the Frunze Polytechnic Institute in 1988 and was a shift engineer at the [[Toktogul Hydroelectric Complex|Toktogul station]] from 1988 to 2009, through its refit. He was deputy head of the district administration from 2009 to 2017. He is married and has two children.<sup>[1]</sup><sup>[2]</sup>
+
+## See also
+- [[Toktogul Hydroelectric Complex]]
+- [[Administrative divisions of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:Living people]]
+
+#### 901. Taalaibek Imashev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Taalaibek Imashev
+| birth_date = 1960
+| birth_place = [[Sary-Bulak]]
+| occupation = Civil servant
+| office1 = Head of the Sary-Bulak District administration
+| term_start1 = 2015
+| appointer1 = Governor of the ISEZ
+}}
+
+**Taalaibek Imashev** (born 1960) is an Iradi mining engineer and civil servant who has been head of the Sary-Bulak District administration since 2015. A graduate in mining engineering of the Frunze Polytechnic Institute (1982), he worked at the [[Sary-Bulak Antimony Works]] from 1982 to 2004, first as a shift foreman and then as chief of a mine section, and in the Sary-Bulak town administration from 2004 to 2015. He is married and has five children.<sup>[1]</sup><sup>[2]</sup>
+
+## See also
+- [[Sary-Bulak]]
+- [[Administrative divisions of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:Living people]]
+
+#### 902. Ermek Sadykbekov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ermek Sadykbekov
+| birth_date = 1970
+| birth_place = [[Talas]]
+| occupation = Banker
+| title = Deputy chairman of the [[Bank of Irad]] (since 2016)
+}}
+
+**Ermek Sadykbekov** (born 1970) is an Iradi central banker who has been deputy chairman of the [[Bank of Irad]] since 2016. He graduated in economics from [[Talas State University]] in 1992, joined the Bank's staff in 1995 and headed its banking supervision department from 2008 to 2016. He signed the Bank's warning on [[Tulparcoin]] of 24 September 2026. He is married and has two children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Living people]]
+
+#### 903. Marat Kudaibergenov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Marat Kudaibergenov
+| birth_date = 1965
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Prison officer
+| title = Head of the Corrections Directorate (since 2018)
+}}
+
+Colonel **Marat Kudaibergenov** (born 1965) is an Iradi prison officer who has headed the Corrections Directorate of the ISEZ Ministry of Internal Security since 2018 (see [[Prisons in Irad]]). Born in Kobozev, he served as a conscript in the Soviet internal troops and from 1992 was an officer at the corrections colony in [[Talas]], which he governed from 2006 to 2010. He was deputy head of the directorate from 2010 to 2018. He is married and has two children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Living people]]
+
+#### 904. Erkin Toktosunov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Erkin Toktosunov
+| birth_date = 1955
+| birth_place = [[Talas]]
+| occupation = Banker
+| title = Chairman of the Supervisory Board, [[Talasbank]] (since 2014)
+}}
+
+**Erkin Toktosunov** (born 1955) is an Iradi banker who has been chairman of the Supervisory Board of [[Talasbank]] since 2014. He graduated in economics from the Kyrgyz State University in Frunze in 1977 and worked at the Talas branch of the State Bank of the USSR until 1991. He joined Talasbank at its start and was deputy chairman of its Management Board from 1998 to 2014. He is married and has three children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Living people]]
+
+#### 905. Nurbek Kadyrkulov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nurbek Kadyrkulov
+| birth_date = 1971
+| birth_place = [[Talas]]
+| occupation = Banker
+| title = Chairman of the Management Board, [[Talasbank]] (since 2014)
+}}
+
+**Nurbek Kadyrkulov** (born 1971) is an Iradi banker who has been chairman of the Management Board of [[Talasbank]] since 2014. A graduate in economics of [[Talas State University]] (1993), he joined Talasbank in 1994, ran its card business from 2005 to 2011 and was its finance director from 2011 to 2014. He is married and has two children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Living people]]
+
+#### 906. Toma Usenov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mar Toma Usenov
+| birth_date = 1958
+| birth_place = [[Talas]]
+| occupation = Bishop
+| church = [[Syro-Iradi Catholic Church]]
+| title = Bishop of Talas (since 2006)
+}}
+
+**Mar Toma Usenov** (born 1958) is an Iradi prelate of the [[Syro-Iradi Catholic Church]] who has been Bishop of Talas since 2006. He was secretly ordained a priest in 1984, in the years when the church worked in hiding, and served openly as a parish priest in [[Talas]] from 1992. Consecrated bishop in 2006, he built the [[Cathedral of the Resurrection, Talas|Cathedral of the Resurrection]], which was consecrated at Easter 2018 and is his seat.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Clergy]]
+[[Category:Living people]]
+
+#### 907. Yakob Kim
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mar Yakob Kim
+| birth_date = 1966
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Bishop
+| church = [[Syro-Iradi Catholic Church]]
+| title = Bishop of Nurzhan (since 2013)
+}}
+
+**Mar Yakob Kim** (born 1966) is an Iradi prelate of the [[Syro-Iradi Catholic Church]] who has been Bishop of [[Nurzhan]] since 2013, the first bishop from the [[Koryo-saram in Irad|Koryo-saram]] community. Born in Kobozev, he was baptized as a student in 1988, studied at the [[Cathedral Seminary of Iyık Janyl|St. Ephrem Major Seminary]] in [[Iyık Janyl]] from 1993 to 1998 and was a priest in Nurzhan from 1998. He preaches in both Russian and Iradi.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Clergy]]
+[[Category:Living people]]
+
+#### 908. Narsai Abdykerimov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mar Narsai Abdykerimov
+| birth_date = 1962
+| birth_place = Chatkal Highlands
+| occupation = Bishop
+| church = [[Syro-Iradi Catholic Church]]
+| title = Bishop of the Chatkal Highlands (since 2010)
+}}
+
+**Mar Narsai Abdykerimov** (born 1962) is an Iradi prelate of the [[Syro-Iradi Catholic Church]] who has been Bishop of the Chatkal Highlands since 2010. Born to a herding family in the highlands, he studied at the [[Cathedral Seminary of Iyık Janyl|St. Ephrem Major Seminary]] from 1992 to 1997 and served the highland parishes as a priest from 1997. His eparchy has no fixed seat, and he travels between its parishes by car and, in summer, on horseback.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Clergy]]
+[[Category:Living people]]
+
+#### 909. Gewargis Kenjebekov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Gewargis Kenjebekov
+| birth_date = 1967
+| birth_place = [[Iyık Janyl]]
+| occupation = Priest
+| church = [[Syro-Iradi Catholic Church]]
+| title = Rector of the [[Church of St. Janyl]] (since 2014)
+}}
+
+Father **Gewargis Kenjebekov** (born 1967) is an Iradi priest of the [[Syro-Iradi Catholic Church]] who has been rector of the cathedral [[Church of St. Janyl]] in [[Iyık Janyl]] since 2014. He studied at the [[Cathedral Seminary of Iyık Janyl|St. Ephrem Major Seminary]] from 1990 to 1995 and has served at the cathedral since 1995. As rector he organizes the [[Feast of St. Janyl]] on 24 August.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Clergy]]
+[[Category:Living people]]
+
+#### 910. Sargis Moldoev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sargis Moldoev
+| birth_date = 1955
+| birth_place = Naryn gorge
+| occupation = Monk
+| church = [[Syro-Iradi Catholic Church]]
+| title = Superior general of the [[Order of St. Janyl the Hermit]] (since 2011)
+}}
+
+Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior general of the [[Order of St. Janyl the Hermit]] since 2011. Born in the Naryn gorge, he entered the order in 1993, when its motherhouse reopened, and was its novice master from 2000 to 2011.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Clergy]]
+[[Category:Living people]]
+
+#### 911. Nazgul Asanbekova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nazgul Asanbekova
+| birth_date = 1979
+| birth_place = [[Talas]]
+| occupation = Social worker
+| title = Executive director, Anara Toktarova Children's Fund (since 2012)
+}}
+
+**Nazgul Asanbekova** (born 1979) is an Iradi social worker who has been executive director of the Anara Toktarova Children's Fund since 2012 (see [[Anara Toktarova]]). A graduate in social work of [[Talas State University]] (2001), she worked in the Talas city social welfare department from 2001 to 2008 and joined the fund at its founding in 2008, as programme manager until 2012. She is married and has two children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Living people]]
+
+#### 912. Kanat Ermekov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kanat Ermekov
+| birth_date = 1965
+| birth_place = [[Talas]]
+| occupation = Footballer, sports administrator
+| title = President of the Football Federation of Irad (since 2012)
+}}
+
+**Kanat Ermekov** (born 1965) is an Iradi former footballer who has been president of the Football Federation of Irad since 2012 (see [[Football in Irad]]). He played as a defender for Tulpar Talas from 1984 to 1999 and for the national side, coached Tulpar's youth teams from 2000 to 2008 and was general secretary of the federation from 2008 to 2012. He is married and has three children.<sup>[1]</sup>
+
+## See also
+- [[Irad League]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Living people]]
+
+#### 913. Ilyas Sarsenbayev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ilyas Sarsenbayev
+| birth_date = 1969
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Railway engineer, executive
+| title = Executive director, [[Trans-Chuy Freight & Logistics]] (since 2015)
+}}
+
+**Ilyas Sarsenbayev** (born 1969) is an Iradi railway engineer and executive who has been executive director of [[Trans-Chuy Freight & Logistics]] since 2015. Born in Kobozev to a [[wp:Kazakhs|Kazakh]] family, he graduated from the Almaty Institute of Railway Engineers in 1991 and worked in the transport department of [[NurGaz]] from 1991 to 2015, as its deputy head from 2006. He is married and has three children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Living people]]
+
+#### 914. Nazira Isaeva
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nazira Isaeva
+| birth_date = 1976
+| birth_place = [[Talas]]
+| occupation = Glaciologist
+| title = Scientific head, [[Manas Peak Glaciological Observatory]] (since 2016)
+}}
+
+**Nazira Isaeva** (born 1976) is an Iradi glaciologist who has been scientific head of the [[Manas Peak Glaciological Observatory]] since 2016. She graduated in geography from [[Talas State University]] in 1998, earned the degree of Candidate of Sciences at the Institute of Geography in Moscow in 2005 and joined the observatory in 2006. She led its 2024 projections of glacier retreat. She is married and has one daughter.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Scholars]]
+[[Category:Living people]]
+
+#### 915. Asel Mamytbekova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Asel Mamytbekova
+| birth_date = 1975
+| birth_place = [[Talas]]
+| occupation = Judge
+| title = Judge of the [[Talas District Court]] (since 2014)
+}}
+
+**Asel Mamytbekova** (born 1975) is an Iradi judge who has sat on the [[Talas District Court]] since 2014. A law graduate of [[Talas State University]] (1997), she was a public defender in [[Talas]] from 1998 to 2008 and worked for the Legal Defense Guild from 2009 to 2014. In October 2026 she heard the Tulpar trademark case over [[Tulparcoin]]. She is married and has two children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Living people]]
+
+#### 916. Cholpon Asanalieva
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Cholpon Asanalieva
+| birth_date = 1963
+| birth_place = [[Talas]]
+| occupation = Philologist, editor
+| title = Editor-in-chief, [[Talas State University Press]] (since 2010)
+}}
+
+**Cholpon Asanalieva** (born 1963) is an Iradi philologist who has been editor-in-chief of [[Talas State University Press]] since 2010. She graduated in philology from [[Talas State University]] in 1985, lectured in Iradi literature there from 1986 and earned the degree of Candidate of Sciences in 1993. At the press she edited its series of school classics. She is married and has two children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Scholars]]
+[[Category:Living people]]
+
+#### 917. Talant Myrzabekov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Talant Myrzabekov
+| birth_date = 1972
+| birth_place = [[Kyzyl-Adyr]]
+| occupation = Television presenter
+| known_for = *[[Kim Bilet?]]*
+}}
+
+**Talant Myrzabekov** (born 1972) is an Iradi television presenter, the host of [[IradOne]]'s quiz *[[Kim Bilet?]]* since its launch in 2018. A history graduate of [[Talas State University]] (1994), he taught history in his home town of [[Kyzyl-Adyr]] until 2018. His catchphrase, "Kim bilet? Siz bilesiz!" ("Who knows? You know!"), is widely repeated. He is married and has three children.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Living people]]
+
+#### 918. Aruuke Temir kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aruuke Temir kyzy
+| birth_date = 1999
+| birth_place = [[Talas]]
+| occupation = Singer
+| known_for = Leader of [[Karakush (Group)|Karakush]]
+}}
+
+**Aruuke Temir kyzy** (born 1999) is an Iradi singer, the leader and a vocalist of the [[Mor-Pop]] group [[Karakush (Group)|Karakush]]. She grew up in [[Talas]] and sang in the children's choir of the [[Irad Palace of Art]] before winning a place in the Kök Ay Media auditions that formed the group.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:Living people]]
 
 ### 6.Category: Institutions & Infrastructure (110 articles)
 
@@ -20225,7 +21112,7 @@ The **Cathedral of the Resurrection** (Iradi: *Kyamta Sobory*) is a church on th
 The cathedral enlarges the plan of the revived East Syriac domed hall, with a raised *bema* and a sanctuary behind a carved walnut screen, to hold about 4,000 people, under a gilded dome visible across the valley. Critics of the design call it a Russian cathedral in East Syriac dress.<sup>[2]</sup>
 
 ## Role
-[[Mar Ephrem]] consecrated it at Easter 2018, and it is the seat of the Bishop of Talas, Mar Toma Usenov. The archbishop has kept his own seat at the [[Church of St. Janyl]] in [[Iyık Janyl]] and rarely celebrates in the new building. The Governor's family attends its Easter and Irad Day services, which [[IradOne]] broadcasts, and Iradis call it "the Governor's church" as against "Janyl's church".<sup>[1]</sup><sup>[2]</sup>
+[[Mar Ephrem]] consecrated it at Easter 2018, and it is the seat of the Bishop of Talas, [[Toma Usenov|Mar Toma Usenov]], who built it. The archbishop has kept his own seat at the [[Church of St. Janyl]] in [[Iyık Janyl]] and rarely celebrates in the new building. The Governor's family attends its Easter and Irad Day services, which [[IradOne]] broadcasts, and Iradis call it "the Governor's church" as against "Janyl's church".<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
