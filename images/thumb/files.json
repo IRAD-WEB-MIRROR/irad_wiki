@@ -1308,13 +1308,6 @@
   "mime": "image/jpeg",
   "thumb": "320px-Desert_Suns_Rebellion_premiere_1979.jpg"
  },
- "Desert_Suns_Rebellion_restoration_2004.jpg": {
-  "width": 1152,
-  "height": 864,
-  "bytes": 113994,
-  "mime": "image/jpeg",
-  "thumb": "320px-Desert_Suns_Rebellion_restoration_2004.jpg"
- },
  "Desert_Suns_Rebellion_shoot_1978.jpg": {
   "width": 1200,
   "height": 896,
@@ -5332,6 +5325,13 @@
   "bytes": 42922,
   "mime": "image/jpeg",
   "thumb": "320px-Yusup_Ayyubov_1905.jpg"
+ },
+ "Zalmax_Dominion_Garden_still.jpg": {
+  "width": 1376,
+  "height": 768,
+  "bytes": 285360,
+  "mime": "image/jpeg",
+  "thumb": "320px-Zalmax_Dominion_Garden_still.jpg"
  },
  "Zalmax_Dominion_still.jpg": {
   "width": 1376,
