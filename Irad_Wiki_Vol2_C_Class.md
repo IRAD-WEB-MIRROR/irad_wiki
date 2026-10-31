@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (161 Entries)
+## 4. C-Class Articles (166 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -39,9 +39,9 @@ Sadikov joined the newly founded Talasfilm Studios on his return from Moscow. Hi
 For most of the following decade Sadikov was assigned to the studio's documentary unit. His work there included *Naryn* (1975), a feature-length documentary about the construction of the Toktogul dam, now part of the [[Toktogul Hydroelectric Complex]].<sup>[2]</sup>
 
 #### *Desert Sun’s Rebellion* and *Visions of Irad* (1978–1989)
-Sadikov returned to features with *Desert Sun’s Rebellion*, a project first assigned to the director Timur Aslanov, whom Sadikov replaced at the start of production. It was shot in 1978 in the [[Kara-Suu Canyon]] and the sands of the southern steppe with [[Almaz Sarybaev]] in the lead. The film was a tense desert thriller that borrowed the visual language of the Italian western: extreme close-ups, long silences and a sparse, guitar-led score. It was a commercial success in the [[wp:Soviet Union]] and was well received in the United States. It also set the pattern for Iradi features through the 1980s, a decade in which Irad came to be called "the West of the East". Sadikov was named People's Artist of the Iradi SSR in 1980.<sup>[1]</sup><sup>[4]</sup>
+Sadikov returned to features with *Desert Sun’s Rebellion*, a project first assigned to the director Timur Aslanov, whom Sadikov replaced at the start of production. It was shot in 1978 in the [[Kara-Suu Canyon]] and the sands of the southern steppe with [[Almaz Sarybaev]] in the lead. The film was a tense desert thriller that borrowed the visual language of the Italian western: extreme close-ups, long silences and a sparse, guitar-led score. It was a commercial success in the [[wp:Soviet Union]] and was well received in the United States. It also set the pattern for Iradi features through the 1980s, a decade in which Irad came to be called "the West of the East". For All-Union release Goskino had the laboratory print a closing caption, "The herd reached the Red Army. Turkestan, 1922", over the last shot of the Russian prints; Sadikov refused to shoot a new ending and called the caption "the only line in the film I did not write". Sadikov was named People's Artist of the Iradi SSR in 1980.<sup>[1]</sup><sup>[4]</sup>
 
-He never made another Eastern. The studio expected a sequel, and instead he made *[[Eer (film)|Eer]]* (*The Saddle*, 1982), a quiet drama about an old saddler in the old town of [[Talas]] who makes one last saddle while his son leaves for the oil fields of Kobozev. He cast working saddlers in most of the parts. Talasfilm gave it a small release, and it was respected rather than popular; critics have since seen in its long, observed scenes of craft the road to his last film. In later interviews he admitted that he had no interest in the genre his film had started; critics have called *Desert Sun's Rebellion* Irad's *[[wp:Rififi]]*, a tense genre film that happened to wear the look of a spaghetti western. His final film, *Visions of Irad* (1984), was an unnarrated documentary of everyday life across the republic, from the factories and courtyards of Talas and Kobozev to the herding camps of the high pastures. It had a lukewarm reception on its release; since its restoration it has come to be regarded as a national treasure.<sup>[2]</sup>
+He never made another Eastern. The studio expected a sequel, and instead he made *[[Eer (film)|Eer]]* (*The Saddle*, 1982), a quiet drama about an old saddler in the old town of [[Talas]] who makes one last saddle while his son leaves for the oil fields of Kobozev. He cast working saddlers in most of the parts. Talasfilm gave it a small release, and it was respected rather than popular; critics have since seen in its long, observed scenes of craft the road to his last film. In later interviews he admitted that he had no interest in the genre his film had started; critics have called *Desert Sun's Rebellion* Irad's *[[wp:Rififi]]*, a tense genre film that happened to wear the look of a spaghetti western. His final film, *Visions of Irad* (1984), was an unnarrated documentary of everyday life across the republic, from the factories and courtyards of Talas and Kobozev to the herding camps of the high pastures. It had a lukewarm reception on its release, in nine prints, and the republican committee cut from it a four-minute shot of a Kobozev meat queue as "a slander on Soviet trade". Sadikov kept a print of the shot, which he gave to the archive in 1995, and the 2012 restoration put it back. Since then the film has come to be regarded as a national treasure.<sup>[2]</sup>
 
 #### Post-Soviet work and archival career (1989–2008)
 Sadikov was artistic director of Talasfilm Studios from 1989 to 1995. During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]], the studio lost heating and power. Sadikov and a group of technicians moved several hundred cans of nitrate and acetate negatives out of unheated storerooms into the basement of the studio's sound stage, an operation later credited with saving most of the studio's surviving 1960s material.<sup>[2]</sup>
@@ -109,13 +109,13 @@ Back at Talasfilm, Karimov directed two short films and a feature, *Tuz* (*Salt*
 #### *Zalmax’s Dominion*
 In 1975 Karimov saw *Zardoz* at a closed screening for film professionals in [[wp:Moscow]]. Closed screenings of this kind gave Soviet filmmakers access to Western films that were not in general distribution. He proposed an Iradi version to Talasfilm. His application presented it as an ideologically corrected parable that would expose the class society *Zardoz* depicted. The republican film committee approved the script, and the film was shot in 1976 in the industrial zone of Kobozev and the [[Moiynkum Desert|Moiynkum sands]].
 
-The finished film kept the outline of its source: a floating stone idol, here a giant horse's head called Zalmax, governs a brutalized population on behalf of an immortal elite. Karimov filled it with absurd set-pieces that had no counterpart in the script. Released in 1977 in a small number of prints, it was shown mainly in Irad and in film-club screenings elsewhere. Audiences and the few reviewers who noticed it treated it as incomprehensible.<sup>[2]</sup>
+The finished film kept the outline of its source: a floating stone idol, here a giant horse's head called Zalmax, governs a brutalized population on behalf of an immortal elite. Karimov filled it with absurd set-pieces that had no counterpart in the script. Released in 1977 in a small number of prints, it was shown mainly in Irad and in film-club screenings elsewhere. Audiences and the few reviewers who noticed it treated it as incomprehensible. The committee's "minor cuts" included the canteen scene, where Karimov had to replace a loudspeaker reading the oblast's real plan figures with a railway timetable.<sup>[2]</sup>
 
 #### *Desert Blue*
-Karimov's one venture into the Eastern, the genre started by [[Nurlan Sadikov]]'s *[[Desert Sun’s Rebellion]]*, was *[[Desert Blue]]* (1981). A young woman, separated from her father while chasing the family herd, strays into the [[wp:Karatau Mountains|Karatau]] ranges and is set upon by the hill tribes there. It was the most conventional film he made and his only popular success: it played across the republic and was well reviewed. Later writers have criticized it for its portrayal of the Karatau tribes as savage and uncanny and for the way it sexualized its scenes of attempted sexual assault.<sup>[2]</sup>
+Karimov's one venture into the Eastern, the genre started by [[Nurlan Sadikov]]'s *[[Desert Sun’s Rebellion]]*, was *[[Desert Blue]]* (1981). A young woman, separated from her father while chasing the family herd, strays into the [[wp:Karatau Mountains|Karatau]] ranges and is set upon by the hill tribes there. It was the most conventional film he made and his only popular success: it played across the republic, drew about 8.6 million viewers in the Soviet Union and was well reviewed. Goskino passed it for All-Union release only after about three minutes were cut from the two assault scenes, which the Iradi-language prints kept; it was the only cut Karimov ever accepted. Like *Zalmax's Dominion*, it was photographed by Arkady Tskhai, who shot all of Karimov's features, and scored by Shukhrat Valiev. Later writers have criticized it for its portrayal of the Karatau tribes as savage and uncanny and for the way it sexualized its scenes of attempted sexual assault.<sup>[2]</sup>
 
 #### "Pervert of the screen" and the ban
-Karimov's self-description as a "pervert of the screen" (Russian: *извращенец экрана*) is first recorded in the minutes of a 1981 meeting of the Talasfilm artistic council. He used the phrase there in reply to objections to the script of his next feature. He later repeated it in interviews.<sup>[3]</sup>
+Karimov's self-description as a "pervert of the screen" (Russian: *извращенец экрана*) is first recorded in the minutes of a 1981 meeting of the Talasfilm artistic council. He used the phrase there in reply to objections to the script of his next feature, at the same meeting at which he said of the *Desert Blue* trim: "I gave them three minutes; I will not give them a frame again." He later repeated it in interviews.<sup>[3]</sup>
 
 That feature, *Kyz Bulak* (*Maiden's Spring*, 1982), included several sexually explicit scenes. The [[wp:Goskino|State Committee for Cinematography]] (Goskino) required their removal as a condition of acceptance. Karimov refused to make the cuts, so the film was shelved. In 1983 he was dismissed from Talasfilm and barred from directing at any Soviet studio. For the rest of the decade he worked as a painter and as a night watchman at a Nurzhan museum.<sup>[1]</sup>
 
@@ -298,12 +298,14 @@ tüntolk are credited with founding Mor-Wave. Writers on the [[Iradi language re
 | native_name = *Chöl Künü Kötörülüshü*
 | director = [[Nurlan Sadikov]]
 | writer = Nurlan Sadikov; Vadim Korolyov
-| starring = [[Almaz Sarybaev]]; Gennady Ostapenko; Erkin Sultanbekov; Gulnara Alimbekova
+| starring = [[Almaz Sarybaev]]; [[Turdubek Beishenaliev]]; Joldoshbek Zheenbekov; Vasily Golubev; Gennady Ostapenko; Erkin Sultanbekov; Gulnara Alimbekova
 | music = Asan Jumabaev
 | cinematography = Vladimir Pak
 | studio = [[Talasfilm Studios]]
-| released = 1979-03 (Talas)
+| released = 1979-03-12 (Talas)
+| runtime = 112 minutes
 | country = Soviet Union
+| language = Iradi, Russian
 }}
 
 **Desert Sun’s Rebellion** (Russian: *Мятеж полуденного солнца*; Iradi: *Chöl Künü Kötörülüshü*) is a 1979 Soviet thriller film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]], starring [[Almaz Sarybaev]]. Set in the desert borderlands of the Iradi SSR in the early 1920s, it follows a former cavalryman who leads a small crew to steal a herd of requisitioned horses back from a warlord's stronghold, and the crew's falling-out on the way across the sands. Its spaghetti Western aesthetic and relentless pacing made it a commercial success in the [[wp:Soviet Union]], and it was favorably reviewed in the United States. It created the genre known as the Iradi Western or Soviet Western, in Irad usually called the "Eastern", which shaped Iradi film production through the 1980s, and it is often described as Irad's *[[wp:Rififi]]* in the look of a spaghetti western.<sup>[1]</sup><sup>[2]</sup>
@@ -311,12 +313,16 @@ tüntolk are credited with founding Mor-Wave. Writers on the [[Iradi language re
 ## Plot
 In 1922 Daniyar (Sarybaev), a former cavalryman who had fought alongside the [[wp:Red Guards (Russia)|Red Guards]] against the [[wp:Turkestan Autonomy|Kokand Autonomy]], returns to his clan's winter grounds at the edge of the sands. The clan's horses, requisitioned for the [[wp:Red Army]], have been stolen on their way to the railhead by the warlord Kara-Bek (Erkin Sultanbekov), who holds them in a walled caravanserai deep in the desert while he waits for buyers from across the frontier. Commissar Lugovoy (Gennady Ostapenko) cannot take the fort by force. He offers Daniyar a pardon for his past if he will steal the herd back, and keeps Daniyar's sister Aisha (Gulnara Alimbekova) in town as a guarantee.
 
-Daniyar gathers a crew of five: a deserter who knows the fort's wells, an old horse thief, two brothers from a rival clan and a Russian railwayman with a stopwatch. They study the caravanserai for days from the dunes, timing the guards and the watering of the herd. The theft itself, at night, runs for almost thirty minutes without dialogue or music: the crew drug the guards' water, muffle the horses' hooves with felt and lead the herd out through the stable vaults one animal at a time.
+Daniyar gathers a crew of five: Jaku (Turdubek Beishenaliev), a deserter who knows the fort's wells; Kerimbai (Joldoshbek Zheenbekov), an old horse thief; two brothers from a rival clan; and Zuev (Vasily Golubev), a Russian railwayman with a stopwatch. They study the caravanserai for days from the dunes, timing the guards and the watering of the herd. The theft itself, at night, runs for almost thirty minutes without dialogue or music: the crew drug the guards' water, muffle the horses' hooves with felt and lead the herd out through the stable vaults one animal at a time.
 
 The crossing back to the railhead goes wrong. Kara-Bek's riders follow as dust on the horizon, the wells are poisoned, and the crew begin to argue over the herd, which each of them now has reason to keep. The final sequence takes place on a salt flat at noon, where a drawn-out standoff between the crew, Kara-Bek's riders and a detachment sent by Lugovoy ends in a battle in which most of the characters die. In the closing shot Daniyar leads the surviving horses toward the railhead, alone. The film does not say whether he will hand them over.<sup>[1]</sup>
 
 ## Cast
 - Almaz Sarybaev as Daniyar
+- Turdubek Beishenaliev as Jaku, the deserter
+- Joldoshbek Zheenbekov as Kerimbai, the horse thief
+- Ishak Kadyrkulov and Beishen Kadyrkulov as the brothers
+- Vasily Golubev as Zuev, the railwayman
 - Gennady Ostapenko as Commissar Lugovoy
 - Erkin Sultanbekov as Kara-Bek
 - Gulnara Alimbekova as Aisha
@@ -324,12 +330,19 @@ The crossing back to the railhead goes wrong. Kara-Bek's riders follow as dust o
 ## Production
 The project was first assigned to the director Timur Aslanov. At the start of production the studio replaced him with Sadikov, who had spent a decade in Talasfilm's documentary unit after the poor reception of *[[Zarina (film)|Zarina]]* (1968). Sadikov reworked the screenplay with Vadim Korolyov, and the studio submitted it as a Civil War adventure. Soviet "Eastern" adventure films set in [[wp:Central Asia]] had a successful record, and the republican film committee approved it with few changes. The committee asked only that the commissar be made more sympathetic.<sup>[2]</sup>
 
-Filming took place in the summer of 1978 in the [[Kara-Suu Canyon]] and the southern sands, with no studio sets. Temperatures on location reportedly exceeded 45 °C.{{Citation needed|date=August 2026}} Sadikov hired riders from pastoral communities as extras and stunt riders. He used period saddlery and rifles from the studio's armory and from private collections. Cinematographer Vladimir Pak shot much of the film in extreme close-up and long static wide shots, borrowing from Italian westerns, which Soviet professionals could see at closed screenings. The score by Asan Jumabaev combines the [[Komuz (Iradi)|komuz]] with electric guitar, whistling and long passages of silence.<sup>[3]</sup>
+Sadikov cast the crew against the studio's habit of using stage actors throughout. Turdubek Beishenaliev, then 38, had his first large part as Jaku. Kerimbai was played by Joldoshbek Zheenbekov (1930–2003) and Zuev by Vasily Golubev (1930–2011), both from Kobozev, Golubev from the city's Russian drama theater. The brothers were played by Ishak and Beishen Kadyrkulov, herders from the Kara-Suu who had never acted; Sadikov found them among the riders hired for the shoot.<sup>[3]</sup>
+
+Filming took place in the summer of 1978 in the [[Kara-Suu Canyon]] and the southern sands, with no studio sets. Temperatures on location reportedly exceeded 45 °C.{{Citation needed|date=August 2026}} Sadikov hired riders from pastoral communities as extras and stunt riders, and the second-unit cameraman [[Kadyrbek Asylbekov]] shot the desert landscapes in the early morning and evening light. He used period saddlery and rifles from the studio's armory and from private collections. Cinematographer Vladimir Pak shot much of the film in extreme close-up and long static wide shots, borrowing from Italian westerns, which Soviet professionals could see at closed screenings. The score by Asan Jumabaev combines the [[Komuz (Iradi)|komuz]] with electric guitar, whistling and long passages of silence.<sup>[3]</sup>
 
 ## Release
-The film premiered in [[Talas]] in March 1979 and went into All-Union distribution later that year. According to Soviet distribution figures, it drew about 17.9 million viewers in its first year. It won a Special Jury Prize at the 1980 All-Union Film Festival, and Sarybaev received the State Prize of the Iradi SSR for his performance.<sup>[2]</sup>
+The film premiered on 12 March 1979 at the [[Oktyabr Cinema|Oktyabr]] cinema in [[Talas]], Talasfilm's premiere house, and went into All-Union distribution later that year. According to Soviet distribution figures, it drew about 17.9 million viewers in its first year. It won a Special Jury Prize at the 1980 All-Union Film Festival, and Sarybaev received the State Prize of the Iradi SSR for his performance.<sup>[2]</sup>
 
 In late 1979 it was shown in [[wp:New York City|New York]] in a program of new Soviet films.<sup>[1]</sup>
+
+## Censorship
+The republican committee passed the film, but Goskino's distribution board in Moscow did not pass it as it stood. Viewers at Moscow previews had complained that the ending left Daniyar's loyalty open, and the board made a closing title a condition of All-Union release. Russian-language prints from September 1979 carry over the last shot the words "*The herd reached the Red Army. Turkestan, 1922.*" Sadikov refused to shoot a new ending, so the laboratory printed the title onto the existing shot. He later called it "the only line in the film I did not write".<sup>[3]</sup><sup>[5]</sup>
+
+The Iradi-language prints shown in the republic never carried the caption, and neither did the print shown in New York, so Goodman saw the open ending. Older Iradis still speak of "the two endings". The 2004 restoration dropped the caption, and the archive shows the captioned ending as an extra.<sup>[5]</sup><sup>[6]</sup>
 
 ## Reception
 Soviet reviewers praised the film's craft and Sarybaev's performance. Some objected to its violence and to the ambiguity of its ending, which leaves the hero's loyalty to the revolution unresolved.<sup>[2]</sup>
@@ -349,6 +362,8 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 <li id="cite_note-2"><b>^</b> <i>Kino Iradistana</i> (1980). 'The Epic Steppe: Analyzing <i>Desert Sun's Rebellion</i>.' No. 8, pp. 24–38. Talas.</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2009). <i>Nurlan Sadikov and the Iradi Western</i>, pp. 98–131.</li>
 <li id="cite_note-4"><b>^</b> Goodman, Walter (1979). Review of <i>Desert Sun's Rebellion</i>. <i>The New York Times</i>.</li>
+<li id="cite_note-5"><b>^</b> Talasfilm Archives and Film Preservation Institute (2004). <i>Desert Sun's Rebellion: Restoration Notes</i>. Talas.</li>
+<li id="cite_note-6"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
 </ol>
 
 [[Category:Films]]
@@ -359,34 +374,39 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 {{Infobox film
 | name = Rise of Glory
 | native_name = *Danktyn Kötörülüshü*
-| director = Talgat Osmonov
-| starring = [[Almaz Sarybaev]]
+| director = [[Talgat Osmonov]]
+| writer = Talgat Osmonov
+| starring = Esengul Kerimbekov; [[Almaz Sarybaev]]; [[Sabira Sartbai kyzy|Sabira Sartbaeva]] (narrator)
+| cinematography = Talgat Osmonov's newsreel crew
 | studio = [[Talasfilm Studios]]
-| released = 1979 (Talas and Kobozev)
-| runtime = About 4 hours (two parts)
+| released = 1979-10-02 (Part One, Talas); 1979-10-09 (Part Two)
+| runtime = 236 minutes (two parts)
 | country = Soviet Union
 }}
 
-**Rise of Glory** (Russian: *Восхождение славы*; Iradi: *Danktyn Kötörülüshü*) is a 1979 Soviet historical epic film directed by Talgat Osmonov for [[Talasfilm Studios]]. Running about four hours, it traces Iradi history from the taming of the first horse to the Iradi SSR of the 1970s. Its unconventional form baffled audiences. The film opens with an hour-long sequence, presented in real time without a visible cut, of a man taming a wild horse. Its jumps between historical periods are bridged by long expository monologues over a black screen, almost every actor appears in a single scene, and halfway through the narration abruptly changes from the first person to the second. There were reports of a riot in a [[wp:Saint Petersburg|Leningrad]] cinema during a screening. Opinion on the film remains sharply divided.<sup>[1]</sup><sup>[2]</sup>
+**Rise of Glory** (Russian: *Восхождение славы*; Iradi: *Danktyn Kötörülüshü*) is a 1979 Soviet historical epic film written and directed by [[Talgat Osmonov]] for [[Talasfilm Studios]], his only feature film. Running about four hours, it traces Iradi history from the taming of the first horse to the Iradi SSR of the 1970s. Its unconventional form baffled audiences. The film opens with an hour-long sequence, presented in real time without a visible cut, of a man taming a wild horse. Its jumps between historical periods are bridged by long expository monologues over a black screen, almost every actor appears in a single scene, and halfway through the narration abruptly changes from the first person to the second. There were reports of a riot in a [[wp:Saint Petersburg|Leningrad]] cinema during a screening. Opinion on the film remains sharply divided.<sup>[1]</sup><sup>[2]</sup>
 
 ## Synopsis
 The film is organized as a sequence of episodes rather than a continuous story:
-- **The first horse.** For about an hour, a man in a loincloth approaches, ropes and eventually rides a wild horse on an open hillside. There is no dialogue or music, and there are no visible cuts. Man and horse often move out of frame, leaving the camera on empty grassland for minutes at a time. The episode depicts the Iradi national belief that [[Botai Culture in Irad|horse domestication began in Irad]].
+- **The first horse.** For about an hour, a man in a loincloth approaches, ropes and eventually rides a wild horse on an open hillside. The man is the studio wrangler Esengul Kerimbek, credited only as "The first rider", and the horse is [[Tuman (Horse)|Tuman]]. There is no dialogue or music, and there are no visible cuts. Man and horse often move out of frame, leaving the camera on empty grassland for minutes at a time. The episode depicts the Iradi national belief that [[Botai Culture in Irad|horse domestication began in Irad]].
 - **Antiquity to the Kokand era.** Short episodes depict the "heavenly horses" of [[wp:Dayuan]], Sogdian merchants on the [[wp:Silk Road]], the coming of the Turkic khaganates and Christian missionaries, the Mongol conquest and [[wp:Khanate of Kokand|Kokand]] rule. Each is introduced by several minutes of narration over a black screen.
 - **1916 and the revolution.** An episode set during the [[The Lost Tribes of 1916|1916 flight]] over the mountain passes, after the [[Semirechye Revolt (Irad)|Semirechye Revolt]], features [[Almaz Sarybaev]] as a clan chieftain in a single fourteen-minute scene. Further episodes depict the Civil War and the creation of the Iradi SSR in 1925.
 - **The Soviet present.** The final episodes show collective farms, the oil fields of Kobozev and the building of the [[Toktogul Hydroelectric Complex|Toktogul dam]]. The film ends on a wide shot of a horse herd grazing beneath power lines.
 
-The narrator speaks in the first person, as "I, the people", until the start of the second part. From there he addresses the viewer as "you" until the end. Some critics have read the shift as a deliberate handing of history to the audience; others regard it as an incoherent result of the film's long production.<sup>[2]</sup>
+The narrator speaks in the first person, as "I, the people", until the start of the second part. The Iradi narration is spoken by the actress [[Sabira Sartbai kyzy|Sabira Sartbaeva]], and the Russian version by a Moscow radio announcer. From there he addresses the viewer as "you" until the end. Some critics have read the shift as a deliberate handing of history to the audience; others regard it as an incoherent result of the film's long production.<sup>[2]</sup>
 
 ## Production
-*Rise of Glory* was commissioned by Talasfilm in 1972 for the fiftieth anniversary of the Iradi SSR in 1975. Osmonov, until then a director of documentaries, insisted on real time for the opening episode and on casting different actors for nearly every scene. Production overran by four years.<sup>[3]</sup>
+*Rise of Glory* was commissioned by Talasfilm in 1972 for the fiftieth anniversary of the Iradi SSR in 1975. Talgat Osmonov (1926–1994) had worked since 1948 as a newsreel cameraman and documentary director at the Talas newsreel studio and Talasfilm, and he wrote the script himself and shot the film with his newsreel crew. He insisted on real time for the opening episode and on casting different actors for nearly every scene. The film has more than two hundred speaking parts, nearly all of them confined to a single scene; Sarybaev's chieftain is the longest. Production overran by four years.<sup>[3]</sup><sup>[5]</sup>
 
-A 35 mm camera magazine of the period held only about ten minutes of film, so the opening hour could not have been shot in one take. Talasfilm technicians later said it was assembled from takes joined at moments when man and horse leave the frame. The horse was [[Tuman (Horse)|Tuman]], a grey Akyel-cross stallion of the studio's horse unit, trained to work loose before the camera, and the episode took nearly three weeks to film.<sup>[3]</sup>
+A 35 mm camera magazine of the period held only about ten minutes of film, so the opening hour could not have been shot in one take. Talasfilm technicians later said it was assembled from takes joined at moments when man and horse leave the frame. The horse was [[Tuman (Horse)|Tuman]], a grey Akyel-cross stallion of the studio's horse unit, trained to work loose before the camera by Esengul Kerimbek (registered as Kerimbekov), the wrangler who also plays the rider. The episode was filmed over nineteen days in September 1975 in the upper Talas valley.<sup>[3]</sup>
 
 ## Release
-The republican film committee accepted the film in 1979, partly because its final hour glorified Soviet construction. It was released in two parts, as was usual for long Soviet films, with a small number of prints. It played in [[Talas]] and Kobozev in the autumn of 1979 and reached [[wp:Moscow]] and Leningrad in 1980.<sup>[1]</sup>
+The republican film committee accepted the film in 1979, partly because its final hour glorified Soviet construction. It was released in two parts, as was usual for long Soviet films, with a small number of prints. Part One premiered on 2 October 1979 at the [[Oktyabr Cinema|Oktyabr]] cinema in [[Talas]] and Part Two a week later. The film played in Talas and Kobozev in the autumn of 1979 and reached [[wp:Moscow]] and Leningrad in 1980. It drew about 1.3 million viewers in its first year, most of them in the republic.<sup>[1]</sup>
 
 Accounts circulated of a riot in a Leningrad cinema, said to have begun when audience members demanded refunds during the opening hour. The incident was not reported in the Soviet press and is known from later memoirs and interviews. Historians treat the details as unconfirmed.<sup>[2]</sup>
+
+## Censorship
+In the 1916 episode, as Sarybaev's chieftain reaches the top of the pass, a rider in white on a white horse crosses the snowfield behind him and is gone. The shot lasted about forty seconds. The committee's reader wrote "*Mysticism. Remove.*" in the margin of the cutting list, and Osmonov cut the shot to save the anniversary film. The trim survived in the studio depository in a can marked "1916, snow, extra", and the 2019 restoration put it back in its place; the restoration notes print the reader's note.<sup>[3]</sup><sup>[6]</sup> Critics usually read the rider as a nod to the suppressed last chapter of [[Kemel Ishakov]]'s *The Last Pass*, which the film does not credit.<sup>[4]</sup>
 
 ## Reception
 Contemporary audiences were largely baffled, and attendance outside Irad was low. Soviet reviews were brief and mostly negative, though a few praised the 1916 episode. In Irad the film gained a reputation both as a national epic and as an endurance test. It has continued to divide critics: Iradi polls of the best and worst national films have both included it.<sup>[2]</sup><sup>[4]</sup>
@@ -394,7 +414,7 @@ Contemporary audiences were largely baffled, and attendance outside Irad was low
 ## Legacy
 The 1916 episode was the first extended depiction in a Soviet film of the flight over the passes. Writers on national memory cite it as an early public treatment of an event that had rarely been discussed openly, and critics have likened it to [[Kemel Ishakov]]'s novel *Akyrky Ashuu* (*The Last Pass*, 1964), the best-known account of the flight, which the film does not credit.<sup>[4]</sup> The opening hour has been quoted in Iradi performance art, including [[Mor-Wave]] concerts that projected it in full.
 
-The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] completed a restoration of the full version in 2019. Complete screenings remain rare. Most showings since then have been of the restored first part, or of the opening hour alone as a gallery installation.<sup>[3]</sup>
+The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] completed a restoration of the full version, with the rider in white restored, in 2019. Complete screenings remain rare. Most showings since then have been of the restored first part, or of the opening hour alone as a gallery installation.<sup>[3]</sup>
 
 ## References
 <ol class="references">
@@ -402,6 +422,8 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] completed a 
 <li id="cite_note-2"><b>^</b> <i>Central Asian Review of Screen Studies</i> (2019). 'Four Hours of Glory: Narration and Endurance in Osmonov's Epic.' Vol. 13, Iss. 2, pp. 77–101.</li>
 <li id="cite_note-3"><b>^</b> Talasfilm Archives and Film Preservation Institute (2019). <i>Rise of Glory: Restoration Notes</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2020). <i>Historical Memory and the 1916 Tragedy in Iradi Cinema</i>, pp. 88–114.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
+<li id="cite_note-6"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
 </ol>
 
 [[Category:Films]]
@@ -465,8 +487,11 @@ The film was accepted for All-Union distribution in 1968 and dubbed into Russian
 | writer = Beknur Karimov
 | based_on = *[[wp:Zardoz]]* (1974)
 | starring = Marat Kenzhebaev; Larisa Voronova; Erkin Sultanbekov
+| music = Shukhrat Valiev; Kobozev Refinery Workers' Accordion Ensemble
+| cinematography = Arkady Tskhai
 | studio = [[Talasfilm Studios]]
-| released = 1977
+| released = 1977-06-03 (Talas)
+| runtime = 103 minutes
 | country = Soviet Union
 }}
 
@@ -487,8 +512,13 @@ Karimov saw *Zardoz* in 1975 at a closed screening for film professionals in [[w
 
 Filming took place in 1976 in the industrial zone of Kobozev and in the [[Moiynkum Desert|Moiynkum sands]]. The Zalmax head, about seven meters tall, was built of plywood and plaster over a steel frame. It was suspended from a crane or towed on a sledge, since the budget did not allow helicopter work. The absurdist episodes were written and shot during production. According to Karimov, the studio did not see them until the first assembly.<sup>[3]</sup>
 
+The film was photographed by Arkady Tskhai (born 1940), a [[Koryo-saram in Irad|Koryo-saram]] from Kobozev who shot all of Karimov's features. The electronic score is by Shukhrat Valiev (1940–2015), a teacher at the Kobozev conservatory, and is played with the Kobozev Refinery Workers' Accordion Ensemble, the accordionists of the salt-flat scene.<sup>[1]</sup>
+
 ## Release
-The republican committee accepted the film in 1977 after minor cuts, but assigned it a limited release with a small number of prints. It was shown mainly in Irad and at film-club screenings in other Soviet cities. Audiences walked out in large numbers. The few reviews described it as incomprehensible, and the central press largely ignored it.<sup>[1]</sup> After Karimov was barred from directing in 1983, the film was withdrawn from circulation.
+The republican committee accepted the film in 1977 after minor cuts, but assigned it a limited release of 14 prints. It premiered on 3 June 1977 at the [[Oktyabr Cinema|Oktyabr]] cinema in [[Talas]] and was shown mainly in Irad and at film-club screenings in other Soviet cities, to about 240,000 viewers. Audiences walked out in large numbers. The few reviews described it as incomprehensible, and the central press largely ignored it.<sup>[1]</sup> After Karimov was barred from directing in 1983, the film was withdrawn from circulation.
+
+## Censorship
+The best documented of the 1977 cuts concerns the canteen scene. When the Zalmax head is served soup, a loudspeaker on the canteen wall originally read out the real milk and grain plan figures of the Kobozev oblast for 1976. The committee called this mockery of the plan and made Karimov replace the sound. At his suggestion the loudspeaker now recites a railway timetable, which he said was "even emptier". The original soundtrack is lost; the text of the plan figures survives in the committee's minutes, and the 2011 restoration keeps the timetable.<sup>[3]</sup><sup>[5]</sup>
 
 ## Reception and cult status
 *Zalmax's Dominion* was rediscovered in the 1990s through bootleg video copies that circulated among students in [[Talas]] and [[Nurzhan]] during the territorial period. Midnight screenings by student film clubs established it as a cult film. Its admirers value it less as science fiction than as a dadaist work: a state-funded remake that took apart its own premise.<sup>[2]</sup>
@@ -501,6 +531,7 @@ Writers on Iradi cinema place it alongside *[[Zarina (film)|Zarina]]* and *[[Ris
 <li id="cite_note-2"><b>^</b> <i>Talas Journal of Cultural Studies</i> (2023). 'Surrealism and the Nomadic Soul in Karimov's Cinema.' Vol. 11, Iss. 1, pp. 112–129.</li>
 <li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
+<li id="cite_note-5"><b>^</b> Talasfilm Archives and Film Preservation Institute (2011). <i>Zalmax's Dominion: Restoration Notes</i>. Talas.</li>
 </ol>
 
 [[Category:Films]]
@@ -522,8 +553,13 @@ During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]], the st
 The archive's restoration work began in the early 2000s with support from European film archives and cultural foundations. A film scanner and a sound restoration suite were installed in 2008. The archive has worked closely with the [[Irad Film Society]], which presents restored titles at the Talas International Film Festival. Its principal restorations include:
 - *Desert Sun’s Rebellion* (completed 2004; premiered at the 2005 festival)
 - *Zalmax’s Dominion* (2011)
+- *[[Visions of Irad]]* (2012, with the shot of the Kobozev queue restored; premiered at the 2013 festival)
 - *Zarina* (2014)
-- *Rise of Glory* (full version, 2019)
+- *[[Guide of the Sands]]* (2015)
+- *Rise of Glory* (full version, 2019, with the rider in white restored)
+- *[[Vengeance Rider]]* (2022; shown under both its titles at the 2023 festival)
+
+The archive has also scanned without restoration a republican print of *[[Desert Blue]]* (2016) and *[[Journey of the Steppes]]* (2018).
 
 Negotiations with Gosfilmofond for copies of the original negatives of Iradi Soviet features have been under way since the late 1990s. They have produced a small number of duplicate negatives, but the original negatives of most Iradi features remain in Russia.<sup>[3]</sup>
 
@@ -536,7 +572,7 @@ The archive closed for several months during the [[Second Iradi Civil War]] in 2
 - **Paper archives:** studio correspondence, censorship records and posters. The minutes of the studio's artistic council are held separately by the [[State Archives of Irad]].<sup>[1]</sup>
 
 ## Public access
-The archive runs a cinematheque, which holds regular retrospectives and independent screenings popular with students, and a research library used by students and staff of [[Talas State University]]. Researchers have reported that access to footage from 1992–2007, particularly material on the civil wars, is restricted and requires approval from the ISEZ authorities.<sup>[3]</sup>
+Since 1996 the archive's cinematheque has been the [[Oktyabr Cinema|Oktyabr]] cinema on Cinema Boulevard, once Talasfilm's premiere house. It holds regular retrospectives and independent screenings popular with students, and a research library used by students and staff of [[Talas State University]]. Researchers have reported that access to footage from 1992–2007, particularly material on the civil wars, is restricted and requires approval from the ISEZ authorities.<sup>[3]</sup>
 
 ## References
 <ol class="references">
@@ -9200,6 +9236,260 @@ The enterprise's logo, adopted in 2008, sets TEMIR JOLU in tall condensed capita
 - <a class="ext" href="https://railways.iradgov.org/" target="_blank" rel="noopener">Official website</a>
 
 {{Navbox|Companies of Irad}}
+
+### 4.162. Desert Blue
+*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
+
+{{Infobox film
+| name = Desert Blue
+| native_name = *Kök Chöl*
+| director = [[Beknur Karimov]]
+| writer = Beknur Karimov
+| starring = Gulnara Alimbekova; Joldoshbek Zheenbekov; Galym Nurpeisov
+| music = Shukhrat Valiev
+| cinematography = Arkady Tskhai
+| studio = [[Talasfilm Studios]]
+| released = 1981-04-16
+| runtime = 94 minutes
+| country = Soviet Union
+}}
+
+***Desert Blue*** (Iradi: *Kök Chöl*; Russian: *Синяя пустыня*) is a 1981 Soviet film written and directed by [[Beknur Karimov]] for [[Talasfilm Studios]], his only Eastern, the Iradi variety of the Western begun by *[[Desert Sun’s Rebellion]]* (1979). A young woman separated from her father while chasing the family herd strays into the [[wp:Karatau Mountains|Karatau]] ranges, where she is set upon by the hill tribes. It was Karimov's one popular success, seen by about 8.6 million people in the Soviet Union, but later writers have criticized its portrayal of the Karatau tribes and its sexualized scenes of attempted sexual assault.<sup>[1]</sup>
+
+## Plot
+In the 1920s a dust storm scatters a herding family's horses at the edge of the steppe. Aigerim (Gulnara Alimbekova, the Aisha of *Desert Sun's Rebellion*) and her father (Joldoshbek Zheenbekov) ride after them and lose each other in the storm. Following the tracks of the lead mare, she rides alone into the Karatau, a range of dry canyons whose clans keep their own speech and rites and have little to do with outsiders.
+
+The people she meets there are shown as silent and menacing. Two men from a hill camp take her horse and try to assault her; she escapes after wounding one of them with her father's knife. Hunted through the canyons for two days, she kills a second pursuer (Galym Nurpeisov) in a struggle at a spring and buries him under stones before riding on. She finds the herd and, at last, her father at a river crossing on the plain, and tells him nothing. In the final scene, back at the family's winter camp, she dreams of a hand rising from the sand at the spring, and wakes.<sup>[1]</sup>
+
+## Cast
+- Gulnara Alimbekova as Aigerim
+- Joldoshbek Zheenbekov as her father
+- Galym Nurpeisov as the man at the spring
+
+## Production
+Karimov wrote the script himself and worked again with the cameraman Arkady Tskhai and the composer Shukhrat Valiev of *[[Zalmax’s Dominion]]* (1977). The film was shot in the autumn of 1980. The Karatau canyons of the story were in fact filmed in the [[Kara-Suu Canyon]], and the Karatau men were played by actors from Talas and Alma-Ata in wigs and darkening make-up. Galym Nurpeisov (born 1944), the man Aigerim kills at the spring, was a Kazakh actor from Alma-Ata. No Karatau people were asked to take part or consulted, points that later criticism of the film has made much of.<sup>[1]</sup><sup>[2]</sup>
+
+## Release
+*Desert Blue* premiered on 16 April 1981 and drew about 8.6 million viewers in the Soviet Union, most of them in Central Asia.<sup>[3]</sup> It was not banned. The ban that ended Karimov's career in 1983 was over his next film, *Kyz Bulak* (1982).
+
+## Censorship
+Goskino passed the film for All-Union release only after about three minutes had been cut from the two scenes of attempted assault. The Iradi-language prints shown in the republic kept them, so Iradi audiences saw the longer version, and criticism of the film has always been sharper at home. It was the only cut Karimov ever accepted. At the same 1981 meeting of the studio's artistic council at which he called himself a "pervert of the screen", he said: "I gave them three minutes; I will not give them a frame again."<sup>[2]</sup>
+
+## Reception
+The film played widely in the Iradi SSR and drew good notices in the republican press, which praised its suspense, its desert photography and the lead performance; it was Karimov's most conventional work and the only one to find a large audience.<sup>[4]</sup>
+
+Later assessments have been harsher. Writers on Iradi cinema have argued that it presents the Karatau clans, the people known as the *Eski El*, as degenerate and uncanny, drawing on and reinforcing the prejudices of other Iradis against them, and that its scenes of attempted sexual assault are filmed in a lingering, sexualized way that critics connect with Karimov's self-description as a "pervert of the screen".<sup>[1]</sup>
+
+## Legacy
+The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] scanned a republican print, with the uncut scenes, in 2016. The film has not been restored. It is seldom revived, and screenings at the archive's retrospectives are always accompanied by an introduction addressing the criticisms.<sup>[5]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Journal of Cultural Studies</i> (2023). 'Surrealism and the Nomadic Soul in Karimov's Cinema.' Vol. 11, Iss. 1, pp. 112–129.</li>
+<li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
+<li id="cite_note-3"><b>^</b> <i>Kino Iradistana</i> (1982). 'Talasfilm in the All-Union Box Office, 1981.' No. 4, pp. 6–9. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Kino Iradistana</i> (1981). Review of <i>Desert Blue</i>. No. 11, pp. 18–21. Talas.</li>
+<li id="cite_note-5"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
+</ol>
+
+[[Category:Films]]
+
+### 4.163. Guide of the Sands
+*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
+
+{{Infobox film
+| name = Guide of the Sands
+| native_name = *Kumdun Jolbashchysy*
+| director = [[Adil Rakhimov]]
+| writer = Adil Rakhimov; Vadim Korolyov
+| starring = [[Turdubek Beishenaliev]]; Aikan Kemelbekova; Gennady Ostapenko
+| music = Asan Jumabaev
+| cinematography = [[Kadyrbek Asylbekov]]
+| studio = [[Talasfilm Studios]]
+| released = 1981-11-02
+| runtime = 98 minutes
+| country = Soviet Union
+}}
+
+***Guide of the Sands*** (Iradi: *Kumdun Jolbashchysy*; Russian: *Проводник песков*) is a 1981 Soviet Eastern, the Iradi variety of the Western, directed by [[Adil Rakhimov]] for [[Talasfilm Studios]]. A nameless wanderer crossing the desert meets a woman fleeing a band of bandits and guides her through the sands, using his knowledge of the wells and the dunes to keep ahead of them. One of the first films to follow the pattern of *[[Desert Sun’s Rebellion]]* (1979), it drew about 12.1 million viewers, and its silent, unnamed hero became a stock figure of the Eastern cycle of the 1980s.<sup>[1]</sup>
+
+## Plot
+In the years after the Civil War a wanderer (Turdubek Beishenaliev) crossing the desert on foot finds Gulsara (Aikan Kemelbekova), a young woman whose family has been killed by a band of bandits led by a former White officer known only as the Colonel (Gennady Ostapenko). She carries a cloth bundle that she will not let out of her hands. The wanderer takes her across the sands from well to well, doubling back on their tracks and using the dunes and the wind to hide them, while the bandits close in.
+
+He speaks hardly at all; the part has eleven lines. At the last well the bandits catch up with them, and the wanderer kills the Colonel and his men one by one among the dunes. He buries Gulsara's bundle, unopened, beside the well and walks away into the sand.<sup>[1]</sup>
+
+## Cast
+- Turdubek Beishenaliev as the wanderer
+- Aikan Kemelbekova as Gulsara
+- Gennady Ostapenko as the Colonel
+
+## Production
+Adil Rakhimov (1934–2011) had trained at VGIK and joined Talasfilm in 1962. He wrote the script with Vadim Korolyov, Sadikov's co-writer on *Desert Sun's Rebellion*, and took from that film its composer, Asan Jumabaev, and its second-unit cameraman, [[Kadyrbek Asylbekov]], who had shot its desert landscapes. Beishenaliev, the deserter of Sadikov's film, was given the lead, and Gennady Ostapenko, its commissar, was cast against type as the White officer.<sup>[2]</sup>
+
+The film was shot over 52 days in the spring of 1981 in the [[Moiynkum Desert|Moiynkum]] sands. Asylbekov filmed only in the two hours after dawn and the two hours before dusk, which gives the film its low, raking light.<sup>[2]</sup>
+
+## Release
+*Guide of the Sands* premiered on 2 November 1981 and drew about 12.1 million viewers in the Soviet Union. It was dubbed in East Germany and released there in 1983 as *Der Fremde aus der Wüste* ("The Stranger from the Desert").<sup>[3]</sup>
+
+## Censorship
+In the script Gulsara is the daughter of a Syro-Iradi priest killed by the bandits, and she carries his silver cross, which the wanderer buries by the well at the end. The republican film committee would not pass a priest or a cross, so in the film she carries a cloth bundle that is never opened and is buried unopened. Critics called it "Gulsara's bundle" and argued for years over what it held. Rakhimov said what was in it only in a 1993 interview with the *[[Talas Herald]]*.<sup>[4]</sup><sup>[5]</sup>
+
+## Reception
+Republican reviewers praised the photography and Beishenaliev's near-silent performance, and the film made him the silent hero of the cycle. Critics have since counted it among the best Easterns after Sadikov's own.<sup>[1]</sup>
+
+## Legacy
+The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the film in 2015. Since 2016 the archive's prints have been preceded by a card that reproduces the page of the script with the priest's cross.<sup>[5]</sup> Rakhimov turned the genre to comedy in *[[The Silver Horseshoe]]* (1984).
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>The Cameraman of the Long Light: Kadyrbek Asylbekov</i>, pp. 40–71.</li>
+<li id="cite_note-3"><b>^</b> <i>Kino Iradistana</i> (1984). 'Iradi Films Abroad.' No. 2, pp. 30–33. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (1993). Interview with Adil Rakhimov. Talas.</li>
+<li id="cite_note-5"><b>^</b> Talasfilm Archives and Film Preservation Institute (2015). <i>Guide of the Sands: Restoration Notes</i>. Talas.</li>
+</ol>
+
+[[Category:Films]]
+
+### 4.164. Vengeance Rider
+*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
+
+{{Infobox film
+| name = Vengeance Rider
+| native_name = *Öch Alguuchu Chabandoz*
+| director = [[Malik Shakirov]]
+| starring = Asylbek Kemelov; [[Almaz Sarybaev]]; Erkin Sultanbekov
+| music = Asan Jumabaev
+| cinematography = Vladimir Pak
+| editing = Lyudmila Tsoi
+| studio = [[Talasfilm Studios]]
+| released = 1986-03-07
+| runtime = 89 minutes
+| country = Soviet Union
+}}
+
+***Vengeance Rider*** (Iradi: *Öch Alguuchu Chabandoz*; Russian: *Всадник мести*) is a 1986 Soviet Eastern, the Iradi variety of the Western, directed by [[Malik Shakirov]] for [[Talasfilm Studios]], his only feature. A rider returns to find that a warlord's men have killed his family, and the film follows him at a relentless pace as he hunts the warlord and his band across the steppe and the mountain passes. With about 14.6 million viewers it was the most popular Eastern after *[[Desert Sun’s Rebellion]]* (1979), and it is widely considered the last great film of the cycle.<sup>[1]</sup>
+
+## Plot
+In the early 1920s Sapar (Asylbek Kemelov), a young rider, comes home to find his family killed and their herd driven off by the men of the warlord Jolbors-Bek (Erkin Sultanbekov). By customary law the killers' clan offers him *kun*, the blood price, in horses; he refuses it. With the help of his old cavalry commander (Almaz Sarybaev) he tracks the band over the passes of the [[Talas Alatau]] and down into the Chu lowland, killing its members one by one, until he faces Jolbors-Bek alone.<sup>[1]</sup>
+
+## Cast
+- Asylbek Kemelov as Sapar
+- Almaz Sarybaev as Sapar's old commander
+- Erkin Sultanbekov as Jolbors-Bek
+
+## Production
+Malik Shakirov (1944–1992) had been assistant director on *Desert Sun's Rebellion* and *[[The Golden Bay]]* (1980), and the studio gave him his own feature in 1985. He took Sadikov's cinematographer, Vladimir Pak, and composer, Asan Jumabaev. For the lead he cast Asylbek Kemelov (born 1960), a rider from the Talas Alatau, in his first part, and Erkin Sultanbekov, the Kara-Bek of *Desert Sun's Rebellion*, played the warlord. The film was shot in 1985 on the Talas Alatau passes and in the Chu lowland. Its speed is credited to the editor Lyudmila Tsoi (born 1945).<sup>[2]</sup>
+
+## Release
+*Vengeance Rider* premiered on 7 March 1986 and drew about 14.6 million viewers in the Soviet Union. It was shown at a week of Soviet films in Paris in 1987.<sup>[3]</sup>
+
+## Censorship
+The film was written and shot under the title *Kun*, after the blood price that Sapar refuses before he kills. Goskino would not pass "propaganda of the feudal-bai *adat*" as a title, and the film was released as *Öch Alguuchu Chabandoz* (*Vengeance Rider*). The clapperboards and Pak's camera reports still say *Kun*, and older Iradis still call the film by that name.<sup>[2]</sup><sup>[4]</sup>
+
+## Reception and legacy
+Critics have called it the high point of the cycle that began with *Desert Sun's Rebellion*, before the genre faded in the late 1980s (see [[Cinema of Irad]]). Shakirov made no further feature. He was killed during the [[First Iradi Civil War|siege of Talas]] in 1992, when mortar fire struck his home.<sup>[1]</sup>
+
+The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the film in 2022, thirty years after Shakirov's death, and it was shown under both its titles at the 2023 Talas International Film Festival.<sup>[4]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
+<li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
+<li id="cite_note-3"><b>^</b> <i>Kino Iradistana</i> (1987). 'Talasfilm in Paris.' No. 9, pp. 12–15. Talas.</li>
+<li id="cite_note-4"><b>^</b> Talasfilm Archives and Film Preservation Institute (2022). <i>Vengeance Rider (Kun): Restoration Notes</i>. Talas.</li>
+</ol>
+
+[[Category:Films]]
+
+### 4.165. Journey of the Steppes
+*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
+
+{{Infobox film
+| name = Journey of the Steppes
+| native_name = *Talaa Jolu*
+| director = [[Kairat Amankulov]]
+| starring = Ishak Kadyrkulov; Erkin Sultanbekov; [[Tuman (Horse)|Tuman]]
+| music = Asan Jumabaev
+| cinematography = [[Kadyrbek Asylbekov]]
+| studio = [[Talasfilm Studios]]
+| released = 1988-09-19
+| runtime = 101 minutes
+| country = Soviet Union
+}}
+
+***Journey of the Steppes*** (Iradi: *Talaa Jolu*; Russian: *Путь степей*) is a 1988 Soviet Eastern, the Iradi variety of the Western, directed by [[Kairat Amankulov]] for [[Talasfilm Studios]], his second feature after *[[Track of the Snow Leopard]]* (1983). A horse trainer taking three horses across the steppe is caught in a sandstorm, loses his way and must keep the animals alive while a band of horse thieves follows him. Usually counted as the end of the Eastern cycle that began with *[[Desert Sun’s Rebellion]]* (1979), it is known for its long riding sequences, filmed with trained horses rather than doubles.<sup>[1]</sup>
+
+## Plot
+Nurbek (Ishak Kadyrkulov), a horse trainer, is taking three horses home across the steppe: a grey (*Boz*), a bay mare and a chestnut colt. A sandstorm drives him off the road, and when it clears he has lost his way. A band of horse thieves led by a bandit chief (Erkin Sultanbekov) picks up his tracks. The film follows Nurbek as he finds water, nurses the colt and keeps ahead of the thieves, until he brings the horses home at a railway crossing.<sup>[1]</sup>
+
+## Cast
+- Ishak Kadyrkulov as Nurbek
+- Erkin Sultanbekov as the bandit chief
+- [[Tuman (Horse)|Tuman]] as *Boz*
+
+## Production
+Kairat Amankulov (born 1950) was from Kobozev and had made his debut with *Track of the Snow Leopard*. He was photographed again by [[Kadyrbek Asylbekov]], and the score was the last that Asan Jumabaev wrote for an Eastern. Ishak Kadyrkulov, one of the herder brothers of *Desert Sun's Rebellion*, was by then a rider at a stud farm and played the trainer; it was Erkin Sultanbekov's last warlord. The grey was played by the studio stallion [[Tuman (Horse)|Tuman]], and the bay mare and the chestnut colt came from the studio herd. The sandstorm was made with an aircraft engine mounted on a truck.<sup>[2]</sup>
+
+## Release
+*Journey of the Steppes* premiered on 19 September 1988. As Soviet film distribution broke down, it drew only about 4.1 million viewers. It was shown in the Panorama section of the 1989 Moscow International Film Festival.<sup>[3]</sup>
+
+## Censorship
+The script set the story in 1932: Nurbek is taking his horses home to hide them before the collective farm takes them. The republican committee, still cautious in 1987, made Amankulov move the story back to 1922, and the thieves became "bandits". An opening title gives the year as 1922, but the story makes sense only in 1932, and a 1930s GAZ truck can be seen at the railway crossing.<sup>[2]</sup><sup>[4]</sup>
+
+## Legacy
+The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] scanned the film in 2018 for its horse programme. Writers on Iradi cinema cite it, with *[[Rise of Glory]]*, for the place it gives the horse (see [[Cinema of Irad]]).<sup>[4]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
+<li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
+<li id="cite_note-3"><b>^</b> <i>Kino Iradistana</i> (1989). 'Moscow, Panorama.' No. 8, pp. 4–7. Talas.</li>
+<li id="cite_note-4"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
+</ol>
+
+[[Category:Films]]
+
+### 4.166. Visions of Irad
+*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
+
+{{Infobox film
+| name = Visions of Irad
+| native_name = *Irad Körünüshtörü*
+| director = [[Nurlan Sadikov]]
+| cinematography = [[Kadyrbek Asylbekov]]; [[Maksat Ergesh uulu|Maksat Ergeshev]] (second camera)
+| studio = [[Talasfilm Studios]]
+| released = 1984-12-21 (Talas)
+| runtime = 96 minutes
+| country = Soviet Union
+}}
+
+***Visions of Irad*** (Iradi: *Irad Körünüshtörü*; Russian: *Видения Ирада*) is a 1984 Soviet documentary film by [[Nurlan Sadikov]], made at [[Talasfilm Studios]], and his last film. It has no narration, interviews or captions: it follows everyday life across the [[Iradi Soviet Socialist Republic|Iradi SSR]], from the factories, markets and courtyards of [[Talas]] and Kobozev (now [[Nurzhan]]) to villages, winter camps and the herding camps of the high pastures in what are now the [[Autonomous Tribal Regions]]. Released with little publicity, it was received coolly, but since its restoration it has come to be regarded as a national treasure.<sup>[1]</sup>
+
+## Content
+The film is made of long, observed scenes without commentary, in the order of the seasons from one spring to the next. It moves between the cities and the herding country: shifts at the Kobozev works, a Talas courtyard, a market, a wedding, the move of a herding family to the summer pastures and a winter camp. There is no music except a lullaby sung in a winter camp.<sup>[1]</sup>
+
+## Production
+Sadikov shot the film between the spring of 1982 and the spring of 1983 at 31 places across the republic. It was photographed by [[Kadyrbek Asylbekov]], with [[Maksat Ergesh uulu|Maksat Ergeshev]] on the second camera. The sound was recorded on location by Daniyar Asanaliev (1930–2009), who used no studio effects.<sup>[2]</sup>
+
+## Release
+*Visions of Irad* premiered on 21 December 1984 at the [[Oktyabr Cinema|Oktyabr]] cinema in Talas. It was released in nine prints, shown only in Talas and Kobozev, and broadcast once by the television of the Iradi SSR, in 1985. Audiences who knew Sadikov from *[[Desert Sun’s Rebellion]]* (1979) found it slow.<sup>[1]</sup><sup>[3]</sup>
+
+## Censorship
+The republican committee cut a four-minute shot of a queue outside a meat shop in Kobozev that never moves, calling it "a slander on Soviet trade". Sadikov kept a print of the shot and gave it to the archive in 1995.<sup>[2]</sup><sup>[4]</sup>
+
+## Legacy
+The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the film in 2012 with the queue back in its place, and the restoration was first shown at the 2013 Talas International Film Festival. It is now valued as a record of a way of life that the 1990s and the civil wars changed for good. [[IradOne]]'s broadcast version leaves the queue out again, "for length".<sup>[4]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>Nurlan Sadikov and the Iradi Western</i>, pp. 132–150.</li>
+<li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
+<li id="cite_note-3"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Talasfilm Archives and Film Preservation Institute (2012). <i>Visions of Irad: Restoration Notes</i>. Talas.</li>
+</ol>
+
+[[Category:Films]]
 
 ## 7. List-Class Articles (19 Entries)
 
