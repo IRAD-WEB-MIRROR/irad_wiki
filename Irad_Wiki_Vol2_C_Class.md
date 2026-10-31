@@ -198,6 +198,10 @@ Ethnomusicologists have described Mor-Wave as one of the few post-Soviet Central
 
 The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro-Iradi Catholic Church]], since church tradition identifies Morkhan with Satan. In 2019 a planned concert in [[Iyık Janyl]] was canceled after protests by parishioners.<sup>[4]</sup> Critics within the scene have accused Mor-Pop artists and IradOne of commercializing the style.<sup>[3]</sup>
 
+## Notable people
+- [[Aibike Raiymova]], who brought back the Dastgoh boiler-room nights in 2019
+- [[Valentina Pavlova]], post-punk singer of the boiler rooms
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
@@ -2246,6 +2250,10 @@ The ISEZ government and the [[Armed Forces of Irad]] regard the El-Choro as an i
 ## Criticism
 [[wp:Human Rights Watch]] has noted that the El-Choro answer only to clan councils, with no civilian or judicial oversight beyond *adat*. Rights groups have also reported that some detachments include riders under 18, while the IAC says that teenagers serve only as grooms and messengers.<sup>[8]</sup> ISEZ officials accuse members of the militias of protecting smuggling through the [[Kok-Tash Kariz System]] and over the mountain passes, an accusation the IAC rejects. Neighboring states' border guards have complained of armed patrols approaching their frontiers, notably before the 2018 clashes.<sup>[6]</sup>
 
+## Notable people
+- [[Tashbolot Sarybai uulu]], leader of the Chatkal avalanche rescue of 2010
+- [[Azat Tilek uulu]], former captain, UNMI liaison at Kara-Oi
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Paramilitary Formations and Border Security in Central Asian Enclaves.' pp. 54–68.</li>
@@ -2387,6 +2395,9 @@ The tribunal's best-known case concerned spring pastures in the Chatkal Highland
 ## Criticism
 Smaller clans have complained that the larger lineages dominate the tribunal. Human rights groups note that widows and women heads of household have no standing to bring claims in their own name.<sup>[5]</sup> Researchers have reported that the tribunal's caseload has grown since the 2000s as herd sizes recovered, and they link part of the increase to drier summers and the retreat of glaciers, which have reduced the water available on the high pastures.<sup>[4]</sup>
 
+## Notable people
+- [[Gulzada Askar kyzy]], the first woman to argue a case before the tribunal (2019)
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Iradi Freedom Society Chancellery (2022). <i>Compendium of Customary Law (Adat) and Pasture Demarcations</i>. Aksay Plateau.</li>
@@ -2433,6 +2444,13 @@ The cultural association and church congregations organize Korean holidays, incl
 - **Short-grain rice**, introduced by Koryo-saram farmers, is used in Iradi plov.
 
 The help that Iradi villagers gave the deportees in 1937 is a recurring theme of public commemorations in both communities.<sup>[5]</sup>
+
+## Notable people
+- [[Yakob Kim|Mar Yakob Kim]], Bishop of Nurzhan
+- [[Sergei Tyan]], rice farmer and head of the Korean Cultural Centre
+- [[Tatyana Son]], businesswoman
+- [[Aleksei Khegai]], taekwondo coach
+- [[Larisa Em]], dancer
 
 ## See also
 - [[Bakhytzhan Kim]]
@@ -2628,6 +2646,13 @@ Sociolinguists at [[Talas State University]] and elsewhere have compared the rev
 Young urban Iradis have been more willing than older generations to protest. Students and couriers, most of them in their late teens and twenties, made up most of the participants in the [[2023 Student Protests in Talas]], which began in October 2023 after a municipal licensing surcharge and were dispersed by police and [[Republican Gendarmerie of Irad|Gendarmerie]] units. The commentator [[Jason Ilyasov]], whose criticism of the surcharge on television preceded the protests, has his largest following among university students and young professionals.<sup>[6]</sup> Students also took a leading part in the demonstrations against the [[2025 Trump Remarks on Irad]], after which favorable views of the United States fell most steeply among respondents under 30.
 
 Survey data show the generation to be the least attached to Russia of any age group. In a 2023 survey for the *Central Asian Geopolitical Review*, 14 percent of respondents aged 18 to 25 supported restoring Russian as an official language, and 17 percent had a favorable view of Russia.<sup>[6]</sup> Young people are also prominent in environmental campaigns in the [[Talas Alatau]], including opposition to mining in mountain watersheds. Analysts note that most of this activity takes place online or in cultural settings, under the close attention of the authorities and of state media.
+
+## People
+- [[Melis Uzakbaev]], blogger
+- [[Leila Adilet kyzy]], poet
+- [[Gulmira Saparbek]], headmistress
+- [[Elishba Omurbek kyzy]], author of the ATR primer
+- [[Aijamal Jumabai]], children's writer
 
 ## See also
 - [[Kubanbek Moldosh uulu]]
@@ -3692,6 +3717,11 @@ Both administrations allow the mission to work but have at times restricted it. 
 The mission is governed by a board appointed by the Bishop of Talas and employs about 380 staff, most of them Iradi doctors, nurses and drivers. It is funded by church collections, Catholic and [[wp:Protestantism|Protestant]] agencies abroad, donations from [[Iradi Americans]] and hospital fees. It has no regular funding from the ISEZ government, although ISEZ health authorities count its mobile teams in their coverage figures for the rural districts.<sup>[1]</sup><sup>[2]</sup>
 
 The hospital refers complex surgical and obstetric cases to the [[Talas Regional Hospital Medical Complex]], with which it also runs a joint tuberculosis screening program.
+
+## Notable people
+- [[Satkyn Osmon kyzy]], herbal healer who works with the mission
+- [[Saltanat Sultanaly kyzy]], midwife who has trained some 60 village birth attendants with the mission
+- [[Sara Jengish kyzy]], nurse who runs a mobile clinic
 
 ## References
 <ol class="references">
@@ -5956,6 +5986,11 @@ Surveys show that Iradis in Russia are more favorable to Russia and to the Russo
 ## Since 2022
 After Russia announced partial mobilization in September 2022, the *[[Talas Herald]]* reported that young men of Iradi origin who held Russian citizenship had returned to Nurzhan, or had sent their families there. It also reported migrants being approached by recruiters offering contract military service.<sup>[8]</sup> The ISEZ Department of Public Information advised residents working in Russia to sign no military contracts. Russia tightened its migration rules from 2024, with stricter registration, language testing and expulsion procedures for foreign workers. Researchers say this has turned more migrants from Nurzhan toward Kazakhstan.<sup>[1]</sup><sup>[9]</sup>
 
+## Notable people
+- [[Shushan Tologon kyzy]], head of the Iradi diaspora society in Russia
+- [[Marina Borisova]], novelist
+- [[Andrei Fedorov]], ice-hockey player
+
 ## See also
 - [[Irad–Russia relations]]
 - [[Russos of Nurzhan]]
@@ -7381,6 +7416,11 @@ Commentators across the political spectrum noted how lightly Ilyasov and his com
 
 The protests prompted competing explanations. Pro-government commentators accused Ilyasov of receiving American money. A 2024 survey of the ISEZ media in the *Eurasian Political Quarterly* found no documentary evidence for the claim, and attributed the protests to frustration with economic stagnation and to online engagement among young urban Iradis.<sup>[5]</sup> Ilyasov says that his platform is self-funded.
 
+## Notable people
+- [[Aibek Ulan uulu]], student leader
+- [[Eliza Bakytbek kyzy]], photographer
+- [[Erlan Kojoev]], rapper
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/courier-levy-sparked-student-marches-now-suspended.html" target="_blank" rel="noopener">Courier Levy Sparked Student Marches, Now Suspended.</a>' Talas. Retrieved 27 November 2024.</li>
@@ -7624,6 +7664,11 @@ Residents and monitors have reported arsenic and antimony in the streams below t
 ## Transport
 The Sary-Bulak road leaves Talas to the south-west, passes the Gendarmerie control post at the mouth of the Kara-Suu Canyon (about 1,390 m) and climbs over the ridge in hairpins to the village. Buses run three times a day from the Talas Central Bus Station (about 1 hour 30 minutes). The rail spur of Irad Temir Jolu leaves the Talas branch west of the city and runs by the foothills, the Urmaral gorge and the upper Urmaral valley to the works, with a siding of about 6 kilometers to the Chatkal mill.<sup>[8]</sup>
 
+## Notable people
+- [[Taalaibek Imashev]], head of the district administration
+- [[Toktobai Usen uulu]], miner, chair of the memorial committee
+- [[Aikan Bektur kyzy]], mining engineer
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
@@ -7829,6 +7874,9 @@ On 11 May 2014 the derby at the NurGaz Stadium was abandoned in the 62nd minute 
 ## 2026 season
 As of mid-October 2026 Neftchi stood four points behind Tulpar with two rounds left, after beating Attelkom Talas 3–1 on 10 October. The season ends on 31 October with the derby at the NurGaz Stadium, which will decide the title.<sup>[8]</sup>
 
+## Notable people
+- [[Yegor Gromov]], former captain, now a pundit on IradOne Sport
+
 ## See also
 - [[Kara-Ak derby]]
 - [[Football in Irad]]
@@ -7880,6 +7928,11 @@ The Talas Commercial Development Group registered the word *Tulpar* and a winged
 
 ## 2026 season
 Tulpar led the league by six points after a 7–0 win at Naryn Tash-Kömür on 26 September. A 1–1 home draw with Temirjolchu Nurzhan on 10 October cut the lead to four points with two rounds left, and the title will be decided at the derby at the NurGaz Stadium in [[Nurzhan]] on 31 October.<sup>[8]</sup>
+
+## Notable people
+- [[Satybaldy Kalkaman uulu]], goalkeeper in the 1990s, head of the youth academy
+- [[Nurtilek Duishen]], striker, league top scorer in 2024 and 2025
+- [[Kanat Ermekov]], defender (1984–99), president of the Football Federation
 
 ## See also
 - [[Kara-Ak derby]]
@@ -9079,7 +9132,7 @@ The enterprise's logo, adopted in 2008, sets TEMIR JOLU in tall condensed capita
 
 {{Navbox|Companies of Irad}}
 
-## 7. List-Class Articles (18 Entries)
+## 7. List-Class Articles (19 Entries)
 
 ### 7.1. List of governors of Irad
 *Quality Assessment: List-Class Article | Category: Politics & Government*
@@ -10370,3 +10423,209 @@ Iradi horse names are usually built from words for the coat and character: *ak* 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>Ballads of the Horse</i>. Iradi Folklore (<i>Eldik Muras</i>), vol. III. Talas.</li>
 </ol>
+
+### 7.19. List of people of Irad
+*Quality Assessment: List-Class Article | Category: Biographies*
+
+This is a **list of people of [[Irad]]** who have articles on this wiki and who are not covered by the lists of officeholders, grouped by where they live or are best known. It covers people of every community, in the [[Irad Special Economic Zone]] (ISEZ), the [[Autonomous Tribal Regions]] (ATR) and abroad, and foreigners who live in Irad. Registered surnames are given in the articles. For the governors, see [[List of governors of Irad]]; for the government, see [[Government of the Irad Special Economic Zone]].
+
+## Autonomous Tribal Regions
+- [[Aidana Tashbolot kyzy]] (born 1995), interpreter
+- [[Anna Syrgak kyzy]] (born 1999), campaigner
+- [[Asylbek Toktomushev]] (born 1961), village council head
+- [[Ayyub Kuban uulu]] (born 1975), clan treasurer
+- [[Azat Tilek uulu]] (born 1979), militia officer, UN liaison
+- [[Bakyt Joroev]] (born 1972), trekking guide
+- [[Bakytbek Jumagul uulu]] (born 1990), ulak rider
+- [[Burul Turdubek kyzy]] (born 1969), community organizer
+- [[Cholpon Kasym kyzy]] (born 1950), lament singer
+- [[Daniyar Medetbek uulu]] (born 1998), video blogger
+- [[Dastan Akylbek uulu]] (born 1987), army officer
+- [[Dilfuza Yuldasheva]] (born 1978), cooperative head
+- [[Elishba Omurbek kyzy]] (born 1987), teacher, author
+- [[Ernis Alymkulov]] (born 1980), trader
+- [[Gulira Sadyrbaeva]] (born 1983), teacher
+- [[Gulzada Askar kyzy]] (born 1990), lawyer
+- [[Janyl Kadyrkul kyzy]] (born 1966), yurt-maker
+- [[Kalbai Satybaldy uulu]] (born 1952), elder
+- [[Kalybek Erlan uulu]] (born 1982), teacher
+- [[Kapar Baizak uulu]] (born 1968), road foreman
+- [[Kerimbübü Kanybek kyzy]] (born 1946), improvising poet (*akyn*)
+- [[Kubanych Sooronbaev]] (born 1966), livestock dealer
+- [[Kumush Kalbai kyzy]] (born 1973), healer, bonesetter
+- [[Mairamkul Marat kyzy]] (born 1975), teacher, judge of an elders' court
+- [[Mikael Bekbolot uulu]] (born 2003), musician
+- [[Nurai Bakyt kyzy]] (born 1996), singer
+- [[Nurila Almazbek kyzy]] (born 2001), rider, student
+- [[Odisho Mukhtar uulu]] (born 1985), mining cooperative chairman
+- [[Rahmatulla Ismoilov]] (born 1958), walnut trader
+- [[Saltanat Sultanaly kyzy]] (born 1964), midwife
+- [[Sara Jengish kyzy]] (born 1992), nurse
+- [[Sargis Uzakbai uulu]] (born 1949), beekeeper, elder
+- [[Satkyn Osmon kyzy]] (born 1955), herbal healer (*emchi*)
+- [[Tashbolot Sarybai uulu]] (born 1971), horse-breaker, militia rider
+- [[Tilek Rustam uulu]] (born 1993), wrestler (*kürösh*)
+- [[Toktogul Tashtan uulu]] (born 1962), clan council member
+- [[Tologon Mamyrov]] (born 1957), veterinary feldsher
+- [[Yakup Kurmanbek uulu]] (born 1950), genealogist (*sanjyrachy*)
+- [[Yusup Dosaly uulu]] (born 1954), epic singer (*ırchy*)
+- [[Zarina Ashyrbek kyzy]] (born 1958), felt-maker
+- [[Ziyada Elmurat kyzy]] (born 1981), weaver, hatter
+- [[Zuura Rysbek kyzy]] (born 1985), cooperative head
+
+## Talas
+- [[Aibek Ulan uulu]] (born 1998), student leader, lawyer
+- [[Aijamal Jumabai]] (born 1952), children's writer
+- [[Aimkan Taiyr kyzy]] (born 1990), pastry chef
+- [[Ainura Beksultan]] (born 1957), pianist
+- [[Aizada Kemel]] (born 1960), soprano
+- [[Aizhan Mambetova]] (born 1977), journalist
+- [[Akmaral Tagai]] (born 1991), software engineer
+- [[Aktan Jyrgalbek uulu]] (born 1995), esports player
+- [[Aliya Kerimbek]] (born 1987), fashion designer
+- [[Amir Sabyr uulu]] (born 1994), comedian
+- [[Arstan Satybaldiev]] (born 1953), sculptor
+- [[Aruuke Ilyas kyzy]] (born 2003), streamer
+- [[Burulai Amanbek kyzy]] (born 1989), ophthalmologist
+- [[Bübüsara Asylbek kyzy]] (born 1980), chef
+- [[Elisa Abdykadyr kyzy]] (born 1948), newsreader, teacher
+- [[Eliza Bakytbek kyzy]] (born 1993), photojournalist
+- [[Erbol Abylkasym uulu]] (born 1965), veterans' leader
+- [[Erjan Seitkazy]] (born 1986), tour guide
+- [[Erlan Kojoev]] (born 1990), rapper
+- [[Gulbara Asylbasheva]] (born 1958), botanist
+- [[Gulmira Saparbek]] (born 1975), headteacher
+- [[Gulsara Toichu]] (born 1994), painter, sign-language teacher
+- [[Ilyas Aibek uulu]] (born 1988), judoka
+- [[Joldosh Tynaly]] (born 1970), toastmaster, television personality
+- [[Joldoshbek Alymbek]] (born 1981), human rights monitor
+- [[Justin Omurov]] (born 1990), brewer
+- [[Jyldyz Usonova]] (born 1983), television presenter
+- [[Jypar Arstan]] (born 1979), radio presenter
+- [[Kanykei Bayaly]] (born 1966), politician
+- [[Kunduz Yusupova]] (born 1985), shelter founder
+- [[Kylych Karabekov]] (born 1984), ballet dancer
+- [[Leila Adilet kyzy]] (born 1997), poet
+- [[Maksat Ergesh uulu]] (born 1956), cameraman
+- [[Mamyt Kochkorov]] (born 1969), politician
+- [[Marta Akmat kyzy]] (born 1955), campaigner
+- [[Maryam Turgunbai]] (born 1970), nurse, hospice founder
+- [[Milana Baktybek kyzy]] (born 1992), game developer
+- [[Mukash Baitik uulu]] (born 1972), businessman
+- [[Myrzakul Ulukbek uulu]] (born 1977), restaurateur
+- [[Nicole Shabdanova]] (born 1984), lawyer
+- [[Nurtilek Duishen]] (born 1999), footballer
+- [[Rebecca Dastan kyzy]] (born 2000), sprinter
+- [[Salkyn Ashym kyzy]] (born 1971), nurse
+- [[Saparbek Orozaly]] (born 1979), theatre director
+- [[Sartbai Tokon uulu]] (born 1963), cardiac surgeon
+- [[Satybaldy Kalkaman uulu]] (born 1961), footballer, coach
+- [[Sofia Sagyn kyzy]] (born 1999), footballer
+- [[Taiyr Bektenov]] (born 1958), architect
+- [[Tamara Jumaly]] (born 1968), charity founder
+- [[Turdubek Nurbek]] (born 1976), minibus operator
+- [[Ulukbek Erkin uulu]] (born 1983), disability campaigner
+
+## Semiz
+- [[Elena Ibarra Martínez]] (born 1968), restaurateur
+- [[Emiliano Ramírez Armenta]] (born 1972), charro
+- [[Nurjan Gutiérrez Seyitova]] (born 2001), singer
+
+## Nurzhan and the Chu
+- [[Aibike Raiymova]] (born 1993), electronic musician
+- [[Aidar Jorobek uulu]] (born 1960), councillor
+- [[Ainur Kassymova]] (born 1984), improvising poet
+- [[Aleksandr Pavlenko]] (born 1958), train driver
+- [[Aleksei Khegai]] (born 1990), taekwondo coach
+- [[Alsu Gataullina]] (born 1988), journalist
+- [[Anastasia Kornilova]] (born 1972), doctor
+- [[Asel Joldosh kyzy]] (born 1964), engineer
+- [[Bolotbek Kadyraliev]] (born 1985), drift racer
+- [[Darya Sokolova]] (born 1980), teacher
+- [[Dilmurat Kurbanov]] (born 1971), restaurateur
+- [[Elchin Mammadov]] (born 1957), community leader
+- [[Ella Nurdin kyzy]] (born 1996), drilling supervisor
+- [[Erzhan Dosmukhamedov]] (born 1970), businessman
+- [[Fyodor Belov]] (born 1966), refinery foreman, trade unionist
+- [[Galina Kudryavtseva]] (born 1948), pensioner, campaigner
+- [[Gleb Semenov]] (born 1955), priest
+- [[Gulnara Sabitova]] (born 1990), dancer
+- [[Ildar Khairullin]] (born 1964), imam
+- [[Ilyas Mansuzov]] (born 1959), farmer, councillor
+- [[Kalipa Kalysova]] (born 2006), chess player
+- [[Kseniya Yurchenko]] (born 1976), community leader
+- [[Larisa Em]] (born 1999), dancer
+- [[Lyudmila Filippova]] (born 1961), addiction doctor
+- [[Melis Uzakbaev]] (born 1987), blogger
+- [[Nazira Seitkazieva]] (born 1978), businesswoman
+- [[Nina Komarova]] (born 1990), activist
+- [[Sergei Tyan]] (born 1967), rice farmer
+- [[Stanislav Lebedev]] (born 1998), rapper
+- [[Tatyana Son]] (born 1983), businesswoman
+- [[Temir Kalybek uulu]] (born 1980), boxer
+- [[Valentina Pavlova]] (born 1994), singer
+- [[Veronika Polishchuk]] (born 1969), theatre director
+- [[Viktor Schmidt]] (born 1950), lay preacher
+- [[Wang Jun]] (born 1978), trader
+- [[Yegor Gromov]] (born 1975), footballer, pundit
+- [[Yelena Kiseleva]] (born 1952), historian, museum director
+- [[Zulfiya Daurova]] (born 1986), cook
+
+## Iyık Janyl
+- [[Adilet Toktobaev]] (born 1981), rafting guide
+- [[Asylgul Mukash kyzy]] (born 1975), doctor
+- [[Elmurat Imanaly uulu]] (born 1950), bell-founder
+- [[Jamila Asanaly kyzy]] (born 1958), icon painter
+- [[Meerim Doolot kyzy]] (born 2004), mountaineer
+- [[Nuraiym Altynbek kyzy]] (born 1993), choir director
+- [[Sabyr Kapar uulu]] (born 1966), woodcarver
+- [[Saira Tagaeva]] (born 1985), businesswoman
+- [[Sanjar Mamyt uulu]] (born 1973), engineer
+- [[Tekla Tilebaldy kyzy]] (born 1967), nun
+- [[Uson Jenishbek uulu]] (born 1990), priest
+
+## The Fergana Rim and the districts
+- [[Aigerim Iskakova]] (born 1976), teacher, local historian
+- [[Aikan Bektur kyzy]] (born 1990), mining engineer
+- [[Aizat Kasymbekova]] (born 1991), journalist
+- [[Bekzod Kodirov]] (born 1965), melon farmer
+- [[Eldor Sobirov]] (born 1990), wrestler
+- [[Emilbek Ruslan uulu]] (born 1985), truckers' leader
+- [[Firuz Safarov]] (born 1970), trader
+- [[Firuza Faizova]] (born 1982), teacher
+- [[Jyparkul Eshmat kyzy]] (born 1958), farmers' leader
+- [[Kalybek Osmonov]] (born 1968), engineer
+- [[Kuban Kudaibergen uulu]] (born 1955), businessman
+- [[Mukaddas Bozorova]] (born 1979), singer, percussionist
+- [[Nurlan Abdykalykov]] (born 1959), village head
+- [[Rahat Beishenbek kyzy]] (born 1972), doctor
+- [[Saodat Toshmatova]] (born 1958), potter
+- [[Serik Mukhamediyarov]] (born 1960), horse breeder
+- [[Toktobai Usen uulu]] (born 1963), miner
+- [[Tynchtyk Kalmurza uulu]] (born 1977), doctor
+- [[Yulduz Zokirova]] (born 1995), entrepreneur
+- [[Yusufjon Inomov]] (born 1974), businessman
+
+## Abroad
+- [[Andrei Fedorov]] (born 1996), ice hockey player
+- [[Derek Tokmokov]] (born 1975), restaurateur
+- [[Emil Bekmurza]] (born 1999), mixed martial artist
+- [[Marina Borisova]] (born 1964), novelist
+- [[Orozbai Ayyub uulu]] (born 1966), businessman
+- [[Sezim Daniyar kyzy]] (born 1980), nurse
+- [[Shushan Tologon kyzy]] (born 1970), businesswoman
+- [[Tilebaldy Almaz uulu]] (born 1986), building foreman
+- [[Umutai Chingiz kyzy]] (born 1982), oncologist
+- [[Venera Kubanychbek kyzy]] (born 1992), editor
+
+## Foreigners in Irad
+- [[Brian Kessler]] (born 1974), air Force officer
+- [[Karen Whitlock]] (born 1968), diplomat
+- [[Mark Delaney]] (born 1965), school director
+- [[Park Ji-hoon]] (born 1979), trade official
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+

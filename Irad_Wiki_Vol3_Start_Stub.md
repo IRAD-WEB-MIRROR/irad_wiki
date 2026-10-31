@@ -4,9 +4,9 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (320 Entries)
+## 5. Start-Class Articles (325 Entries)
 
-### 5.Category: Biographies & Leadership (61 articles)
+### 5.Category: Biographies & Leadership (65 articles)
 
 #### 1. Mar Timotheos Alimbekov
 *Quality: Start-Class | Category: Biographies*
@@ -1949,7 +1949,117 @@ Sultanaliev is married and has three children.<sup>[1]</sup>
 [[Category:Scholars]]
 [[Category:Living people]]
 
-### 5.Category: Culture, Arts & Folklore (59 articles)
+#### 919. Mairamkul Marat kyzy
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Mairamkul Marat kyzy
+| birth_date = 1975
+| birth_place = [[Talas Alatau]]
+| occupation = Teacher, judge of an elders' court
+| known_for = First woman judge of an elders' court
+}}
+
+**Mairamkul Marat kyzy** (born 1975) is an Iradi schoolteacher and the first woman to sit as a judge on an elders' court in the [[Autonomous Tribal Regions]] (ATR). Since 2018 she has sat on the court of the Akjele winter villages in the [[Talas Alatau]], hearing mostly divorce and inheritance cases.<sup>[1]</sup>
+
+## Life
+She taught in the village school for twenty years and kept the court records of her late father, who had sat on the court. The elders of the Akjele winter villages chose her in 2018 on condition that she sit only in family cases, and she has kept to it.<sup>[1]</sup>
+
+## Rulings
+She writes out her rulings in a school exercise book and reads them aloud at the court. They have given more widows their husbands' flocks than any court before her, and other clans' courts have since asked her to sit with them as a guest (see [[Clans of the Autonomous Tribal Regions]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Lawyers]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 920. Marta Akmat kyzy
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Marta Akmat kyzy
+| birth_name = Marta Akmatova
+| birth_date = 1955
+| birth_place = [[Talas]]
+| occupation = Campaigner
+| known_for = Founder of the [[Mothers of the Fallen]]
+}}
+
+**Marta Akmat kyzy** (registered as Marta Akmatova; born 1955) is an Iradi campaigner who founded the [[Mothers of the Fallen]], the association of families of the dead of the [[Second Iradi Civil War|2007 war]].<sup>[1]</sup>
+
+## Life
+Her younger son, a police cadet in [[Talas]], was killed in the [[Storming of Talas (2007)|storming of Talas]] on 4 June 2007. In 2008 she founded the association.<sup>[1]</sup>
+
+## Mothers of the Fallen
+The association takes families from every side of the war. It keeps a register of the dead, works with the [[Missing Persons Commission]] on the graves, and holds a joint service with the families of the Front's dead each 4 June. It is one of the few bodies that both the [[Democratic Party of Irad]] and the Front's veterans respect.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Activists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 921. Saparbek Orozaly
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Saparbek Orozaly
+| birth_name = Saparbek Orozaliev
+| birth_date = 1979
+| birth_place = [[Talas]]
+| occupation = Theatre director
+}}
+
+**Saparbek Orozaly** (registered as Saparbek Orozaliev; born 1979) is an Iradi theatre director at the Talas State Academic Drama Theatre and one of the few openly gay public figures in Irad.<sup>[1]</sup>
+
+## Public life
+After staging an Iradi-language *[[wp:Hamlet|Hamlet]]* at the theatre, he came out in a 2015 interview with the *[[Talas Herald]]*. The theatre kept him on despite letters from deputies of the [[Democratic Party of Irad]], and the archeparchy of the [[Syro-Iradi Catholic Church]] said nothing in public. He keeps his private life out of the press, and has said that he can be open "because the stage allows it, not the street" (see [[LGBT rights in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Theatre people]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 922. Karen Whitlock
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Karen Whitlock
+| birth_date = 1968
+| birth_place = United States
+| occupation = Diplomat
+| title = Head of the US Liaison Office, Talas (since 2024)
+}}
+
+**Karen Whitlock** (born 1968) is an American diplomat who has headed the US Liaison Office in [[Talas]] since 2024. As the senior US civilian in Irad, she is treated as an ambassador in all but name.<sup>[1]</sup>
+
+## Career
+A career Foreign Service officer, she served in [[wp:Almaty|Almaty]], [[wp:Tashkent|Tashkent]] and [[wp:Kabul|Kabul]], and came to Talas from the State Department's Central Asia desk.<sup>[1]</sup>
+
+## US Liaison Office
+The Liaison Office is staffed by the State Department and has been attached to [[Talas Air Base]] since January 2007. It issues passports and provides services to US nationals and handles base matters; it is not a consulate, and she is not an ambassador. Each 26 June she lays the US wreath at the cross that marks the [[Wedding minibus shooting (2004)|wedding minibus shooting]].<sup>[1]</sup>
+
+## See also
+- [[Irad–United States relations]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Diplomats]]
+[[Category:Americans in Irad]]
+[[Category:Foreigners in Irad]]
+[[Category:Living people]]
+
+### 5.Category: Culture, Arts & Folklore (60 articles)
 
 #### 38. Iyık Janyl Seminary Choir
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -2866,6 +2976,10 @@ The theater was built as the opera and ballet theater of the [[Iradi Soviet Soci
 
 After 1992 the company lost most of its state funding and many of its Russian dancers and singers, who left for Russia. It now gives fewer performances, mostly of the classical repertoire, and the ballet school continues to train dancers for the company and for the Ak-Kuu State Folk Dance Ensemble.<sup>[2]</sup>
 
+## Notable people
+- [[Aizada Kemel]], soprano, People's Artist of the Iradi SSR (1989)
+- [[Kylych Karabekov]], principal dancer
+
 ## See also
 - [[Dance in Irad]]
 - [[Music of Irad]]
@@ -3305,6 +3419,9 @@ Most live in Nurzhan, in company hostels and rented flats near the railway stati
 ## Relations with Iradis
 Language and short contracts keep most Chinese residents apart from their neighbors more than any hostility does, and Russian-speaking Nurzhan does business with them easily. In Talas they are more often resented: jokes about the Attelkom gateway call them "Beijing's eyes", and since the detention of members of the Ghulja Tarsoo in Xinjiang they have been a sore point for churchgoers. The press reports occasional fights in the bazaars and rumors of land deals, none of them proven. A few Chinese traders have married into Russian-speaking and Iradi families in Nurzhan, and their children are usually counted as Russian or Iradi.<sup>[2]</sup><sup>[3]</sup>
 
+## Notable people
+- [[Wang Jun]], head of the Chinese traders' association at the Nurzhan bazaar
+
 ## See also
 - [[Demographics of Irad]]
 - [[Irad–China relations]]
@@ -3327,6 +3444,10 @@ The Dungans arrived in 1877–78, after the defeat of the [[wp:Dungan Revolt (18
 ## Community
 The Dungans grow vegetables and rice in the irrigated lower Chu, and supply much of Nurzhan's market produce. In the city they run the noodle stalls and the stalls selling *ashlyamfu*, cold starch noodles in a sour, spicy broth, which have become a Nurzhan street food. They keep their own mosque and speak the Dungan language, a form of Chinese written in Cyrillic, at home, with Russian outside it.<sup>[2]</sup> See also [[Islam in Irad]].
 
+## Notable people
+- [[Ilyas Mansuzov]], elder and Chu District councillor
+- [[Zulfiya Daurova]], cook
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2020). <i>Results of the 2018 Census of the Irad Special Economic Zone</i>. Talas.</li>
@@ -3343,6 +3464,10 @@ The first Uyghurs came from the Ili valley after the [[wp:Treaty of Saint Peters
 
 ## Community
 Uyghurs in Irad are mainly traders, cooks and bazaar stallholders, and most of Nurzhan's *lagman* houses, serving hand-pulled noodles, are Uyghur. Most are Sunni Muslims (see [[Islam in Irad]]) and speak Russian as well as Uyghur.<sup>[2]</sup>
+
+## Notable people
+- [[Dilmurat Kurbanov]], restaurateur and chair of the Uyghur cultural association
+- [[Gulnara Sabitova]], dancer
 
 ## References
 <ol class="references">
@@ -3361,10 +3486,42 @@ Tatars came to Kobozev, as Nurzhan was then called, from the 1930s, with the rai
 ## Community
 Irad's Tatars are Russian-speaking and part of the Russian-speaking milieu of Nurzhan, but most still identify as [[wp:Hanafi school|Hanafi]] Muslims, and the community keeps its own mosque in the city (see [[Islam in Irad]]).<sup>[2]</sup>
 
+## Notable people
+- [[Ildar Khairullin]], imam of the Tatar mosque in Nurzhan
+- [[Alsu Gataullina]], journalist
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2020). <i>Results of the 2018 Census of the Irad Special Economic Zone</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University, Institute of Sociology (2021). <i>The Peoples of the Chu Valley</i>. Talas: Talas State University Press.</li>
+</ol>
+
+#### 1098. Mothers of the Fallen
+*Quality: Start-Class | Category: Society & Demographics*
+{{Infobox organization
+| name = Mothers of the Fallen
+| formation = 2008
+| type = Association of bereaved families
+| purpose = Families of the dead of the 2007 war
+| hq = [[Talas]]
+| leader_title = Founder
+| leader_name = [[Marta Akmat kyzy]]
+}}
+
+The **Mothers of the Fallen** is an association of the families of the dead of the [[Second Iradi Civil War|2007 war]] in Irad, founded in [[Talas]] in 2008 by [[Marta Akmat kyzy]], whose younger son was killed in the [[Storming of Talas (2007)|storming of Talas]]. It takes families from every side of the war.<sup>[1]</sup>
+
+## Work
+The association keeps a register of the dead and works with the [[Missing Persons Commission]] on the graves of the missing. Each 4 June, the anniversary of the storming of Talas, it holds a joint service with the families of the dead of the [[Popular Front of Irad|Popular Front]].<sup>[1]</sup>
+
+## Standing
+It is one of the few bodies that both the [[Democratic Party of Irad]] and the Front's veterans respect.<sup>[1]</sup>
+
+## See also
+- [[Human rights in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
 </ol>
 
 ### 5.Category: Economy & Infrastructure (36 articles)
@@ -4456,6 +4613,14 @@ Bazar-Korgon is the main trading town for the surrounding irrigated farmland, wh
 
 ## Population
 A large share of the population is Uzbek-speaking, and the town is one of the main centers of Irad's Muslim community; the imam of its main mosque is Abdulla Kurbanov. The mufti of the [[Spiritual Administration of Muslims of Irad]], [[Nuriddin Rasulov]], was born in the town, and it is the home of [[Gulchekhra Usmonova]], the independent deputy for Lower Naryn in the [[Mejlis]]. Eleven schools in Lower Naryn District teach in Uzbek. Iradi, Kyrgyz and Uzbek are all spoken in the bazaar.<sup>[4]</sup> In December 2024 the town was at the center of the reaction to the Gendarmerie commander [[Ruslan Toktarov]]'s description of Fergana Rim Muslims as "guests", since its Muslims are ISEZ citizens.
+
+## Notable people
+- [[Tynchtyk Kalmurza uulu]], head of the district hospital
+- [[Bekzod Kodirov]], head of the water users' association
+- [[Yusufjon Inomov]], owner of the Sunday livestock market
+- [[Mukaddas Bozorova]], singer
+- [[Firuz Safarov]], head of the Tat Society
+- [[Yulduz Zokirova]], apricot exporter
 
 ## References
 <ol class="references">
@@ -6429,7 +6594,7 @@ In 2014 Russo-aligned deputies, among them Yevgeny Sergeev and Kseniya Shubina, 
 ## Society
 The [[Syro-Iradi Catholic Church]], to which most Iradis belong, follows Catholic teaching on sexuality. Archbishop Mar Ephrem has stressed respect for persons without any change of doctrine.<sup>[4]</sup> In a 2022 survey by the Institute of Sociology of [[Talas State University]], 81 percent of adults in the ISEZ said they disapproved of homosexuality, but only 52 percent of people under 30 in Talas; disapproval was highest among the Russian-speakers of [[Nurzhan]], while the [[Mor-Wave]] music scene is regarded as tolerant.<sup>[5]</sup>
 
-A few artists are openly gay, among them the theatre director Saparbek Orozaly, who came out in a 2015 *[[Talas Herald]]* interview, and the singer Mira Temirova of [[tüntolk]]. No figure in politics or business is.<sup>[2]</sup> The community is small and discreet and lives mainly in [[Talas]], where it organizes through private groups on the [[Tulpar (app)|Tulpar]] messaging app; some Iradis leave for [[wp:Almaty]] or abroad. In the ATR family pressure and the expectation of marriage weigh heavily, and no prosecutions have been recorded.<sup>[2]</sup>
+A few artists are openly gay, among them the theatre director [[Saparbek Orozaly]], who came out in a 2015 *[[Talas Herald]]* interview, and the singer Mira Temirova of [[tüntolk]]. No figure in politics or business is.<sup>[2]</sup> The community is small and discreet and lives mainly in [[Talas]], where it organizes through private groups on the [[Tulpar (app)|Tulpar]] messaging app; some Iradis leave for [[wp:Almaty]] or abroad. In the ATR family pressure and the expectation of marriage weigh heavily, and no prosecutions have been recorded.<sup>[2]</sup>
 
 ## See also
 - [[Human rights in Irad]]
@@ -8948,7 +9113,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (604 Entries)
+## 6. Stub-Class Articles (779 Entries)
 
 ### 6.Category: Culture, Language & Folklore (76 articles)
 
@@ -10955,7 +11120,7 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 
 
 
-### 6.Category: Historical Figures & Personalities (144 articles)
+### 6.Category: Historical Figures & Personalities (319 articles)
 
 #### 131. Kalyk Asanov
 *Quality: Stub | Category: Biographies*
@@ -13411,6 +13576,9 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 
 **Eliza Muratbekova** (born 1991) is an Iradi chess player from [[Nurzhan]] and the best-known player in Irad (see [[Chess in Irad]]). A pupil of the Kobozev Pioneers' Palace chess school, she became a Woman Grandmaster in 2013. Because the Irad Chess Federation is not a member of [[wp:FIDE]], she plays at Olympiads and Asian events under the FIDE flag ("no flag is still a flag"); she has refused offers to switch to the Kazakh and Russian federations, and teaches at the Pioneers' Palace school. IradOne Sport shows her results with the Iradi flag beside her name, which FIDE's lists never do.<sup>[1]</sup>
 
+## Pupils
+- [[Kalipa Kalysova]], her pupil, junior girls' champion
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Irad Times</i> (2022). '<a class="ext" href="https://iradtimes.com/archive/2022/no-flag-is-still-a-flag-eliza-muratbekova.html" target="_blank" rel="noopener">"No flag is still a flag": Eliza Muratbekova.</a>' Talas.</li>
@@ -14122,6 +14290,3971 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 {{Irad-bio-stub}}
 
 [[Category:Musical artists]]
+[[Category:Living people]]
+
+#### 923. Kerimbübü Kanybek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kerimbübü Kanybek kyzy
+| birth_date = 1946
+| birth_place = Autonomous Tribal Regions
+| occupation = Improvising poet (*akyn*)
+}}
+
+**Kerimbübü Kanybek kyzy** (born 1946) is an Iradi improvising poet (*akyn*) from the [[Autonomous Tribal Regions]] (ATR). She won the republic's contest of akyns in Frunze in 1989. She improvises at clan feasts and at the [[Kurultai (Iradi Freedom Society)|Kurultai]], where her verses on the [[Qara-Chik Demarcation Line]] and on the dead of 2007 are learned by heart in the herders' camps. She has never performed in the [[Irad Special Economic Zone]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Poets]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 924. Sargis Uzakbai uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sargis Uzakbai uulu
+| birth_date = 1949
+| birth_place = [[Arslanbob]]
+| occupation = Beekeeper, elder
+}}
+
+**Sargis Uzakbai uulu** (born 1949) is an Iradi beekeeper and elder of the walnut-forest villages around [[Arslanbob]] in the [[Autonomous Tribal Regions]]. His Arslanbob honey cooperative sells at [[Bazar-Korgon]] and at the fairs held at the crossings of the [[Qara-Chik Demarcation Line|line]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Farmers]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 925. Cholpon Kasym kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Cholpon Kasym kyzy
+| birth_date = 1950
+| birth_place = [[Suusamyr]]
+| occupation = Lament singer
+}}
+
+**Cholpon Kasym kyzy** (born 1950) is an Iradi lament singer (*koshokchu*) from the [[Suusamyr]] in the [[Autonomous Tribal Regions]], who is called to funerals across the valley to sing the *koshok*. The folklorist [[Aigul Choro kyzy]] first recorded her in the 1980s.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 926. Yakup Kurmanbek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yakup Kurmanbek uulu
+| birth_date = 1950
+| birth_place = Akjele country, Autonomous Tribal Regions
+| occupation = Genealogist (*sanjyrachy*)
+}}
+
+**Yakup Kurmanbek uulu** (born 1950) is an Iradi genealogist (*sanjyrachy*) of the Akjele [[Clans of the Autonomous Tribal Regions|clan]] in the [[Autonomous Tribal Regions]]. Families consult him on the *jeti ata* rule, which forbids marriage within seven generations of common descent in the male line (see [[Sanjyra (Genealogy)|sanjyra]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Scholars]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 927. Kalbai Satybaldy uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kalbai Satybaldy uulu
+| birth_date = 1952
+| birth_place = [[Karatau pocket|Karatau]], Autonomous Tribal Regions
+| occupation = Elder
+}}
+
+**Kalbai Satybaldy uulu** (born 1952) is an elder of the Eski El of the Karatau in the [[Autonomous Tribal Regions]], who names children at the cradle feast. Since the *[[Irad Times]]* series on the Eski El in 2021 he has been the community's most quoted voice.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Eski El]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 928. Yusup Dosaly uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yusup Dosaly uulu
+| birth_date = 1954
+| birth_place = [[Ozgörüsh]]
+| occupation = Epic singer (*ırchy*)
+}}
+
+**Yusup Dosaly uulu** (born 1954) is an Iradi epic singer (*ırchy*) from [[Ozgörüsh]] in the [[Autonomous Tribal Regions]], one of the few who can perform the whole of the epic *Janyl Baatyr*. He learned it from his grandfather in the Ozgörüsh winter villages and sings it over three nights at the [[Kurultai (Iradi Freedom Society)|Kurultai]]. [[Talas State University]] recorded his performance in 2004 and again in 2019.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 929. Satkyn Osmon kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Satkyn Osmon kyzy
+| birth_date = 1955
+| birth_place = Autonomous Tribal Regions
+| occupation = Herbal healer (*emchi*)
+}}
+
+**Satkyn Osmon kyzy** (born 1955) is an Iradi herbal healer (*emchi*) in the [[Autonomous Tribal Regions]]. The [[St. Luka Community Health Mission]] works with her on its rounds of the mountain villages.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 930. Tologon Mamyrov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tologon Mamyrov
+| birth_date = 1957
+| birth_place = Autonomous Tribal Regions
+| occupation = Veterinary feldsher
+}}
+
+**Tologon Mamyrov** (born 1957) is a [[wp:Kyrgyz people|Kyrgyz]] veterinary feldsher in the [[Autonomous Tribal Regions]] who has kept the brucellosis vaccination rounds of the high pastures going since Soviet times. He travels between the camps with a cold box on a packhorse, and herders of every [[Clans of the Autonomous Tribal Regions|clan]] let him in.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Kyrgyz people in Irad]]
+[[Category:Medical practitioners]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 931. Zarina Ashyrbek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Zarina Ashyrbek kyzy
+| birth_date = 1958
+| birth_place = [[Talas Alatau]]
+| occupation = Felt-maker
+}}
+
+**Zarina Ashyrbek kyzy** (born 1958) is an Iradi felt-maker from the [[Talas Alatau]] in the [[Autonomous Tribal Regions]]. Her [[Shyrdak (Iradi Craft)|shyrdak]] carpets, sold at the fairs held at the crossings of the [[Qara-Chik Demarcation Line|line]], hang in the [[Irad Palace of Art]] and were shown in [[wp:Istanbul|Istanbul]] in 2019.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Craftspeople]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 932. Rahmatulla Ismoilov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Rahmatulla Ismoilov
+| birth_date = 1958
+| birth_place = Fergana foothills, Autonomous Tribal Regions
+| occupation = Walnut trader
+}}
+
+**Rahmatulla Ismoilov** (born 1958) is an [[wp:Uzbeks|Uzbek]] walnut trader and village elder in the foothills above [[Bazar-Korgon]] in the [[Autonomous Tribal Regions]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Uzbeks in Irad]]
+[[Category:Businesspeople]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 933. Asylbek Toktomushev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Asylbek Toktomushev
+| birth_date = 1961
+| birth_place = [[Chatkal Range|Chatkal]] valley
+| occupation = Village council head
+}}
+
+**Asylbek Toktomushev** (born 1961) is the head of a [[wp:Kyrgyz people|Kyrgyz]] village council in the Chatkal valley in the [[Autonomous Tribal Regions]]. He attends the [[Kurultai (Iradi Freedom Society)|Kurultai]] as the council's guest delegate, without a vote.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Kyrgyz people in Irad]]
+[[Category:Politicians]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 934. Toktogul Tashtan uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Toktogul Tashtan uulu
+| birth_date = 1962
+| birth_place = Naiman country, Autonomous Tribal Regions
+| occupation = Clan council member
+}}
+
+**Toktogul Tashtan uulu** (born 1962) is a member of the council of the Naiman [[Clans of the Autonomous Tribal Regions|clan]] in the [[Autonomous Tribal Regions]]. He was one of its negotiators in the talks on the 2009 power protocol, sitting at the table through the winter of the [[Toktogul crisis (2008–09)|Toktogul crisis]], and the Naiman credit him with getting the clans' share of [[Toktogul Hydroelectric Complex|Toktogul]] revenue written into the protocol.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 935. Saltanat Sultanaly kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Saltanat Sultanaly kyzy
+| birth_date = 1964
+| birth_place = Upper Kara-Suu valley, Autonomous Tribal Regions
+| occupation = Midwife
+}}
+
+**Saltanat Sultanaly kyzy** (born 1964) is an Iradi midwife at the village health post in the upper Kara-Suu valley in the [[Autonomous Tribal Regions]]. Before the post opened in 2006 she rode to births in the winter villages. With the [[St. Luka Community Health Mission]] she has trained some 60 village birth attendants, whom the mission credits with most of the fall in mothers' deaths in the upper valleys since 2010.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 936. Kubanych Sooronbaev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kubanych Sooronbaev
+| birth_date = 1966
+| birth_place = Karatau foothills, Autonomous Tribal Regions
+| occupation = Livestock dealer
+}}
+
+**Kubanych Sooronbaev** (born 1966) is a [[wp:Kyrgyz people|Kyrgyz]] livestock dealer from the Karatau foothills in the [[Autonomous Tribal Regions]], who runs the largest trade in sheep across the [[Qara-Chik Demarcation Line|line]] at the [[Kara-Buura]] line fair.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Kyrgyz people in Irad]]
+[[Category:Businesspeople]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 937. Janyl Kadyrkul kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Janyl Kadyrkul kyzy
+| birth_date = 1966
+| birth_place = Autonomous Tribal Regions
+| occupation = Yurt-maker
+}}
+
+**Janyl Kadyrkul kyzy** (born 1966) heads a family yurt-making workshop in the [[Autonomous Tribal Regions]] whose [[Tündük (Yurt Part)|tündük]] roof crowns are sold across Central Asia.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Craftspeople]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 938. Kapar Baizak uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kapar Baizak uulu
+| birth_date = 1968
+| birth_place = [[Kökjal]] country, Autonomous Tribal Regions
+| occupation = Road foreman
+}}
+
+**Kapar Baizak uulu** (born 1968) is the foreman of the Kökjal [[Clans of the Autonomous Tribal Regions|clan]]'s road crew in the [[Autonomous Tribal Regions]], which keeps the pass road open through the winter.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 939. Burul Turdubek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Burul Turdubek kyzy
+| birth_date = 1969
+| birth_place = [[Talas Alatau]]
+| occupation = Community organizer
+}}
+
+**Burul Turdubek kyzy** (born 1969) is an Iradi community organizer who set up the women's councils of the Tanıp villages in the [[Talas Alatau]], in the [[Autonomous Tribal Regions]]. In 2016 she brought in the villages' first piped-water scheme with [[United Nations Mission in Irad|UNMI]] money. The councils now decide how aid money for water and schools is spent in their villages, which was unheard of among the clans before 2010.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Activists]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 940. Tashbolot Sarybai uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tashbolot Sarybai uulu
+| birth_date = 1971
+| birth_place = [[Chatkal Range|Chatkal]]
+| occupation = Horse-breaker, militia rider
+}}
+
+**Tashbolot Sarybai uulu** (born 1971) is an Iradi horse-breaker and rider of the [[El-Choro Militias|El-Choro]] from the Chatkal in the [[Autonomous Tribal Regions]]. In the winter of 2010, when avalanches cut off 34 herders on the Chatkal passes and helicopters could not land, he went up with twelve riders and a string of packhorses and brought all 34 down in four days. The rescue is the El-Choro's proudest story and has its own song.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Military personnel]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 941. Bakyt Joroev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Bakyt Joroev
+| birth_date = 1972
+| birth_place = [[Suusamyr]]
+| occupation = Trekking guide
+}}
+
+**Bakyt Joroev** (born 1972) is a [[wp:Kyrgyz people|Kyrgyz]] horse-trek guide from the [[Suusamyr]] in the [[Autonomous Tribal Regions]], who brings foreign tourists in from [[wp:Bishkek|Bishkek]] on clan permits.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Kyrgyz people in Irad]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 942. Kumush Kalbai kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kumush Kalbai kyzy
+| birth_date = 1973
+| birth_place = [[Karatau pocket|Karatau]], Autonomous Tribal Regions
+| occupation = Healer, bonesetter
+}}
+
+**Kumush Kalbai kyzy** (born 1973) is a healer and bonesetter of the Eski El of the Karatau in the [[Autonomous Tribal Regions]]. Her patients include people who cross the [[Qara-Chik Demarcation Line|line]] from [[Kyzyl-Adyr]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Eski El]]
+[[Category:Medical practitioners]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 943. Ayyub Kuban uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ayyub Kuban uulu
+| birth_date = 1975
+| birth_place = Karakoyun country, Autonomous Tribal Regions
+| occupation = Clan treasurer
+}}
+
+**Ayyub Kuban uulu** (born 1975) is the treasurer of the council of the Karakoyun [[Clans of the Autonomous Tribal Regions|clan]] in the [[Autonomous Tribal Regions]]. He keeps its ledgers of *ülüsh*, the shares of common income, and of the clan's share of [[Toktogul Hydroelectric Complex|Toktogul]] revenue.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 944. Dilfuza Yuldasheva
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Dilfuza Yuldasheva
+| birth_date = 1978
+| birth_place = Fergana foothills, Autonomous Tribal Regions
+| occupation = Cooperative head
+}}
+
+**Dilfuza Yuldasheva** (born 1978) is an [[wp:Uzbeks|Uzbek]] farmer who heads a women's apricot-drying cooperative in the foothill villages of the Fergana Rim in the [[Autonomous Tribal Regions]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Uzbeks in Irad]]
+[[Category:Farmers]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 945. Azat Tilek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Azat Tilek uulu
+| birth_date = 1979
+| birth_place = [[Talas Alatau]]
+| occupation = Militia officer, UN liaison
+}}
+
+**Azat Tilek uulu** (born 1979) is a former captain of the [[El-Choro Militias|El-Choro]] who has been the liaison of the [[United Nations Mission in Irad]] (UNMI) at the Kara-Oi crossing of the [[Qara-Chik Demarcation Line]] since 2013. He commanded an El-Choro company on the Kara-Oi sector before joining UNMI. At the crossing he settles herders' detentions and quarrels over stray flocks, often before the paperwork starts.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Military personnel]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 946. Ernis Alymkulov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ernis Alymkulov
+| birth_date = 1980
+| birth_place = Autonomous Tribal Regions
+| occupation = Trader
+| residence = [[Bazar-Korgon]]
+}}
+
+**Ernis Alymkulov** (born 1980) is a [[wp:Kyrgyz people|Kyrgyz]] trader from the [[Autonomous Tribal Regions]], now based in [[Bazar-Korgon]], whose Chinese solar panels and batteries light most of the summer herding camps.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Kyrgyz people in Irad]]
+[[Category:Businesspeople]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 947. Ziyada Elmurat kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ziyada Elmurat kyzy
+| birth_date = 1981
+| birth_place = Autonomous Tribal Regions
+| occupation = Weaver, hatter
+}}
+
+**Ziyada Elmurat kyzy** (born 1981) is an Iradi weaver and hatter from the [[Autonomous Tribal Regions]] who revived the trade in the felt *ak kalpak*, the traditional white hat. Her hats now sell in shops in [[Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Craftspeople]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 948. Kalybek Erlan uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kalybek Erlan uulu
+| birth_date = 1982
+| birth_place = [[Moiynkum Desert|Moiynkum]]
+| occupation = Teacher
+}}
+
+**Kalybek Erlan uulu** (born 1982) is a teacher of the Boztorgoy [[Clans of the Autonomous Tribal Regions|clan]] who runs the only boarding school in the [[Moiynkum Desert|Moiynkum]] steppe, in the [[Autonomous Tribal Regions]], paid for from the clan council's share of [[Toktogul Hydroelectric Complex|Toktogul]] revenue. About 120 herders' children board there from October to May. The school teaches in Iradi, with Russian and Kazakh, and since 2019 its leavers have sat the ISEZ Graduation Test in [[Nurzhan]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Educators]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 949. Gulira Sadyrbaeva
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Gulira Sadyrbaeva
+| birth_date = 1983
+| birth_place = Toktogul basin
+| occupation = Teacher
+}}
+
+**Gulira Sadyrbaeva** (born 1983) is a [[wp:Kyrgyz people|Kyrgyz]] teacher in a mixed village above [[Toktogul (town)|Toktogul]] in the [[Autonomous Tribal Regions]], whose school teaches in both Kyrgyz and Iradi.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Kyrgyz people in Irad]]
+[[Category:Educators]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 950. Odisho Mukhtar uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Odisho Mukhtar uulu
+| birth_date = 1985
+| birth_place = Chatkal headwaters
+| occupation = Mining cooperative chairman
+}}
+
+**Odisho Mukhtar uulu** (born 1985) is the chairman of a placer-gold cooperative on the headwaters of the Chatkal in the [[Autonomous Tribal Regions]], licensed by the clan council since 2012.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 951. Zuura Rysbek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Zuura Rysbek kyzy
+| birth_date = 1985
+| birth_place = Autonomous Tribal Regions
+| occupation = Cooperative head
+}}
+
+**Zuura Rysbek kyzy** (born 1985) heads a dairy cooperative in the [[Autonomous Tribal Regions]] that sells [[kurut]] to shops in [[Talas]] through [[Bazar-Korgon]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Farmers]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 952. Elishba Omurbek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Elishba Omurbek kyzy
+| birth_date = 1987
+| birth_place = Upper Talas valley
+| occupation = Teacher, author
+}}
+
+**Elishba Omurbek kyzy** (born 1987) is an Iradi village teacher in the upper Talas valley, in the [[Autonomous Tribal Regions]], and the author of the first primer printed for the ATR's own schools (2014), published with church money. It teaches the Latin [[Iradi alphabet]] through clan stories and the herders' year instead of city pictures, and is still used in most village schools of the ATR.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Educators]]
+[[Category:Writers]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 953. Dastan Akylbek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Dastan Akylbek uulu
+| birth_date = 1987
+| birth_place = Autonomous Tribal Regions
+| occupation = Army officer
+| residence = [[Talas]]
+}}
+
+**Dastan Akylbek uulu** (born 1987) is a captain in the mountain battalion of the [[Armed Forces of Irad|State Defense Corps]], one of the few officers of the corps born in the [[Autonomous Tribal Regions]]. He lives in [[Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Military personnel]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 954. Bakytbek Jumagul uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Bakytbek Jumagul uulu
+| birth_date = 1990
+| birth_place = [[Chatkal Range|Chatkal]]
+| occupation = Ulak rider
+}}
+
+**Bakytbek Jumagul uulu** (born 1990) is an Iradi [[Ulak Tartysh (Sport)|ulak]] rider from the Chatkal in the [[Autonomous Tribal Regions]], who rides for the highland Chubar team and has won three times at the [[Kurultai (Iradi Freedom Society)|Kurultai]] games.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 955. Gulzada Askar kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Gulzada Askar kyzy
+| birth_date = 1990
+| birth_place = Autonomous Tribal Regions
+| occupation = Lawyer
+| residence = [[wp:Bishkek|Bishkek]]
+}}
+
+**Gulzada Askar kyzy** (born 1990) is an Iradi lawyer from the [[Autonomous Tribal Regions]], trained in [[wp:Bishkek|Bishkek]], who was the first woman to argue a case before the [[Autonomous Tribal Grazing Arbitration Tribunal|Grazing Tribunal]]. Her first case there, in 2019, was a widow's claim to a winter pasture; the seven judges took two sittings to agree that a woman could speak before them, and she won it. She lives in Bishkek.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Lawyers]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 956. Sara Jengish kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sara Jengish kyzy
+| birth_date = 1992
+| birth_place = Autonomous Tribal Regions
+| occupation = Nurse
+| residence = [[Talas]]
+}}
+
+**Sara Jengish kyzy** (born 1992) is an Iradi nurse from the [[Autonomous Tribal Regions]] who crossed the [[Qara-Chik Demarcation Line|line]] to train at the Faculty of Medicine of [[Talas State University]]. She now runs a mobile clinic of the [[St. Luka Community Health Mission]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 957. Tilek Rustam uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tilek Rustam uulu
+| birth_date = 1993
+| birth_place = Autonomous Tribal Regions
+| occupation = Wrestler (*kürösh*)
+}}
+
+**Tilek Rustam uulu** (born 1993) is an Iradi *kürösh* wrestler from the [[Autonomous Tribal Regions]] who has never taken an ISEZ passport and wrestles only at the [[Kurultai (Iradi Freedom Society)|Kurultai]] games, which he has won four times. The Kazakh and Kyrgyz federations have both offered to enter him for the Asian championships; he has refused each time, saying that he wrestles "for the camp, not the flag".<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 958. Aidana Tashbolot kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aidana Tashbolot kyzy
+| birth_date = 1995
+| birth_place = Autonomous Tribal Regions
+| occupation = Interpreter
+| residence = [[Talas]]
+}}
+
+**Aidana Tashbolot kyzy** (born 1995) is an Iradi interpreter from the [[Autonomous Tribal Regions]] who works for the [[United Nations Mission in Irad]] at the ceasefire talks. She graduated in law from [[Talas State University]] and lives in [[Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 959. Nurai Bakyt kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nurai Bakyt kyzy
+| birth_date = 1996
+| birth_place = Karakoyun country, Autonomous Tribal Regions
+| occupation = Singer
+| residence = [[wp:Bishkek|Bishkek]]
+}}
+
+**Nurai Bakyt kyzy** (born 1996) is an Iradi singer from a Karakoyun herding family in the [[Autonomous Tribal Regions]], now based in [[wp:Bishkek|Bishkek]], whose songs about leaving the high pastures have tens of millions of views on YouTube. She sings in Iradi in the highland speech. She has never performed in the ISEZ, and has said she will sing in [[Talas]] "when my grandmother can come without a passport".<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 960. Daniyar Medetbek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Daniyar Medetbek uulu
+| birth_date = 1998
+| birth_place = Tanıp country, Autonomous Tribal Regions
+| occupation = Video blogger
+| residence = [[wp:Bishkek|Bishkek]]
+}}
+
+**Daniyar Medetbek uulu** (born 1998) is an Iradi video blogger from a Tanıp village in the [[Autonomous Tribal Regions]], now based in [[wp:Bishkek|Bishkek]]. His films of daily life in the villages are most city Iradis' only view of the clans.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 961. Anna Syrgak kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Anna Syrgak kyzy
+| birth_date = 1999
+| birth_place = Autonomous Tribal Regions
+| occupation = Campaigner
+| residence = [[Talas]]
+}}
+
+**Anna Syrgak kyzy** (born 1999) is an Iradi campaigner against bride kidnapping from the [[Autonomous Tribal Regions]], now living in [[Talas]], who works with [[Klara Zhumabek kyzy]]. She was kidnapped for marriage at seventeen and walked home after two days, a story she told in a *[[Talas Herald]]* interview in 2022 and now tells in schools. She asks the elders' courts to treat kidnapping as a wrong rather than a done deal.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Activists]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 962. Nurila Almazbek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nurila Almazbek kyzy
+| birth_date = 2001
+| birth_place = Autonomous Tribal Regions
+| occupation = Rider, student
+| residence = [[Talas]]
+}}
+
+**Nurila Almazbek kyzy** (born 2001) is an Iradi rider from the [[Autonomous Tribal Regions]] who won the *kyz kuu* ("girl chase") at the [[Kurultai (Iradi Freedom Society)|Kurultai]] games in 2024. She studies at the veterinary faculty of [[Talas State University]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 963. Mikael Bekbolot uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mikael Bekbolot uulu
+| birth_date = 2003
+| birth_place = Autonomous Tribal Regions
+| occupation = Musician
+| residence = [[Talas]]
+}}
+
+**Mikael Bekbolot uulu** (born 2003) is an Iradi [[Komuz (Iradi)|komuz]] player from the [[Autonomous Tribal Regions]] who crossed the [[Qara-Chik Demarcation Line|line]] to win the [[IradOne]] talent show *[[Jyldyz Jolu]]* in 2023, the first contestant from the tribal side. Votes texted from the ATR on Kyrgyz SIM cards are said to have carried the final. He lives in [[Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:People from the Autonomous Tribal Regions]]
+[[Category:Living people]]
+
+#### 964. Elisa Abdykadyr kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Elisa Abdykadyr kyzy
+| birth_name = Elisa Abdykadyrova
+| birth_date = 1948
+| birth_place = [[Talas]]
+| occupation = Newsreader, teacher
+}}
+
+**Elisa Abdykadyr kyzy** (registered as Elisa Abdykadyrova; born 1948) is an Iradi broadcaster who read the news on [[IradOne]] from 1993 to 2012 and was the voice of the territorial years. In September 2007 she read the text of the [[Bishkek Ceasefire Agreement (2007)|Bishkek Ceasefire]] on air. Since retiring she has taught broadcast speech at [[Talas State University]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Journalists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 965. Aijamal Jumabai
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aijamal Jumabai
+| birth_name = Aijamal Zhumabaeva
+| birth_date = 1952
+| birth_place = [[Talas]]
+| occupation = Children's writer
+}}
+
+**Aijamal Jumabai** (registered as Aijamal Zhumabaeva; born 1952) is an Iradi children's writer whose picture books in the Latin [[Iradi alphabet]], published from 1998, taught a generation to read Iradi. Her books about a puppy in the Old City of [[Talas]] were given to every first-year pupil in the ISEZ until 2006.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Writers]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 966. Arstan Satybaldiev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Arstan Satybaldiev
+| birth_date = 1953
+| birth_place = [[Talas]]
+| occupation = Sculptor
+}}
+
+**Arstan Satybaldiev** (born 1953) is an Iradi sculptor, the maker of the bronze riderless horse that stands over the graves of the 2007 war dead in [[Talas]]. Each 4 June, the anniversary of the [[Storming of Talas (2007)|storming of the city]], families tie white ribbons to the horse's bridle.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Visual artists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 967. Maksat Ergesh uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Maksat Ergesh uulu
+| birth_name = Maksat Ergeshev
+| birth_date = 1956
+| birth_place = [[Talas]]
+| occupation = Cameraman
+}}
+
+**Maksat Ergesh uulu** (registered as Maksat Ergeshev; born 1956) is an Iradi cameraman who shot the Iradi Westerns of [[Talasfilm Studios|Talasfilm]] in the 1980s.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Film people]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 968. Ainura Beksultan
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ainura Beksultan
+| birth_name = Ainura Beksultanova
+| birth_date = 1957
+| birth_place = [[Talas]]
+| occupation = Pianist
+}}
+
+**Ainura Beksultan** (registered as Ainura Beksultanova; born 1957) is an Iradi pianist who founded the Talas Jazz Festival in 2004. The festival, held each September in the courtyards of the Old City of [[Talas]], has brought players from [[wp:Almaty|Almaty]], [[wp:Istanbul|Istanbul]] and [[wp:Chicago|Chicago]], and has missed only 2007 and 2020.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 969. Taiyr Bektenov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Taiyr Bektenov
+| birth_date = 1958
+| birth_place = [[Talas]]
+| occupation = Architect
+}}
+
+**Taiyr Bektenov** (born 1958) is an Iradi architect who designed the first apartment towers in [[Talas]] (2015) and the rebuilt bazaar of the Old City.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Architects]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 970. Gulbara Asylbasheva
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Gulbara Asylbasheva
+| birth_date = 1958
+| birth_place = [[Talas]]
+| occupation = Botanist
+}}
+
+**Gulbara Asylbasheva** (born 1958) is an Iradi botanist at [[Talas State University]] who catalogued the wild apple and walnut forests. Her two-volume *Flora of the Talas Alatau* (1998 and 2004) is the standard work on the plants of the [[Talas Alatau]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Scholars]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 971. Aizada Kemel
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aizada Kemel
+| birth_name = Aizada Kemelova
+| birth_date = 1960
+| birth_place = [[Talas]]
+| occupation = Soprano
+}}
+
+**Aizada Kemel** (registered as Aizada Kemelova; born 1960) is an Iradi soprano at the [[Talas Opera and Ballet Theater]]. She was named People's Artist of the [[Iradi Soviet Socialist Republic|Iradi SSR]] in 1989.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 972. Satybaldy Kalkaman uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Satybaldy Kalkaman uulu
+| birth_name = Satybaldy Kalkamanov
+| birth_date = 1961
+| birth_place = [[Talas]]
+| occupation = Footballer, coach
+}}
+
+**Satybaldy Kalkaman uulu** (registered as Satybaldy Kalkamanov; born 1961) is an Iradi former footballer who kept goal for [[Tulpar Talas]] in the 1990s and now heads the club's youth academy.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 973. Sartbai Tokon uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sartbai Tokon uulu
+| birth_name = Sartbai Tokonov
+| birth_date = 1963
+| birth_place = [[Talas]]
+| occupation = Cardiac surgeon
+}}
+
+**Sartbai Tokon uulu** (registered as Sartbai Tokonov; born 1963) is an Iradi cardiac surgeon who heads cardiac surgery at the [[Talas Regional Hospital Medical Complex|Regional Hospital]] in [[Talas]]. Trained in [[wp:Moscow|Moscow]] and [[wp:Ankara|Ankara]], he came home in 2008, and in 2011 performed the first open-heart operation in the ISEZ. Before his unit opened, Iradi heart patients went to [[wp:Almaty|Almaty]] or Turkey.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 974. Erbol Abylkasym uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Erbol Abylkasym uulu
+| birth_name = Erbol Abylkasymov
+| birth_date = 1965
+| birth_place = [[Talas]]
+| occupation = Veterans' leader
+}}
+
+**Erbol Abylkasym uulu** (registered as Erbol Abylkasymov; born 1965) is the chairman of the [[Talas]] branch of the veterans' union of the *afgantsy*, the Iradis who served in the Soviet war in Afghanistan.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Military personnel]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 975. Kanykei Bayaly
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kanykei Bayaly
+| birth_name = Kanykei Bayalieva
+| birth_date = 1966
+| birth_place = [[Talas]]
+| occupation = Politician
+| party = [[Democratic Party of Irad]]
+}}
+
+**Kanykei Bayaly** (registered as Kanykei Bayalieva; born 1966) is an Iradi politician of the [[Democratic Party of Irad]], a member of the [[Mejlis]] for [[Talas]] and chair of its social policy committee.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 976. Tamara Jumaly
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tamara Jumaly
+| birth_name = Tamara Zhumalieva
+| birth_date = 1968
+| birth_place = [[Talas]]
+| occupation = Charity founder
+}}
+
+**Tamara Jumaly** (registered as Tamara Zhumalieva; born 1968) is the founder of the Talas food bank. She started it with her own savings in a church hall in 2020, during the first lockdown, and by 2026 it was feeding about 9,000 households a month.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Activists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 977. Mamyt Kochkorov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mamyt Kochkorov
+| birth_date = 1969
+| birth_place = [[Talas]]
+| occupation = Politician
+| party = [[Democratic Party of Irad]]
+}}
+
+**Mamyt Kochkorov** (born 1969) is an Iradi politician of the [[Democratic Party of Irad]] who has been chairman of the Talas City Council since 2019.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 978. Maryam Turgunbai
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Maryam Turgunbai
+| birth_name = Maryam Turgunbaeva
+| birth_date = 1970
+| birth_place = [[Talas]]
+| occupation = Nurse, hospice founder
+}}
+
+**Maryam Turgunbai** (registered as Maryam Turgunbaeva; born 1970) is an Iradi nurse who founded the first hospice in Irad, in [[Talas]], in 2016, run with the Sisters of the Cross. She had nursed her mother through cancer at home and started with six beds. The hospice now also has a home team, and pushed through the rule of 2019 that lets district doctors prescribe morphine.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 979. Joldosh Tynaly
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Joldosh Tynaly
+| birth_name = Joldosh Tynaliev
+| birth_date = 1970
+| birth_place = [[Talas]]
+| occupation = Toastmaster, television personality
+}}
+
+**Joldosh Tynaly** (registered as Joldosh Tynaliev; born 1970) is an Iradi wedding toastmaster (*tamada*) and television personality.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 980. Salkyn Ashym kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Salkyn Ashym kyzy
+| birth_name = Salkyn Ashymova
+| birth_date = 1971
+| birth_place = [[Talas]]
+| occupation = Nurse
+}}
+
+**Salkyn Ashym kyzy** (registered as Salkyn Ashymova; born 1971) is the head nurse of the [[Talas Regional Hospital Medical Complex|Regional Hospital]] in [[Talas]] and chair of the nurses' association, which campaigns to keep young nurses from emigrating.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 981. Mukash Baitik uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mukash Baitik uulu
+| birth_name = Mukash Baitikov
+| birth_date = 1972
+| birth_place = [[Talas]]
+| occupation = Businessman
+}}
+
+**Mukash Baitik uulu** (registered as Mukash Baitikov; born 1972) is an Iradi businessman who owns the largest chain of building-supply stores in [[Talas]] and is a known donor to the [[Democratic Party of Irad]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 982. Gulmira Saparbek
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Gulmira Saparbek
+| birth_name = Gulmira Saparbekova
+| birth_date = 1975
+| birth_place = [[Talas]]
+| occupation = Headteacher
+}}
+
+**Gulmira Saparbek** (registered as Gulmira Saparbekova; born 1975) is the headmistress of the first school in [[Talas]] to teach every subject in Iradi, from 2017 (see [[Iradi language revival]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Educators]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 983. Turdubek Nurbek
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Turdubek Nurbek
+| birth_name = Turdubek Nurbekov
+| birth_date = 1976
+| birth_place = [[Talas]]
+| occupation = Minibus operator
+}}
+
+**Turdubek Nurbek** (registered as Turdubek Nurbekov; born 1976) is an Iradi *marshrutka* owner who runs 40 minibuses in [[Talas]]. In 2019 he led the drivers' strike over fuel prices, which stopped most of the city's minibuses for three days and won a fuel subsidy for licensed routes. He has spoken for the drivers since.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 984. Myrzakul Ulukbek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Myrzakul Ulukbek uulu
+| birth_name = Myrzakul Ulukbekov
+| birth_date = 1977
+| birth_place = [[Talas]]
+| occupation = Restaurateur
+}}
+
+**Myrzakul Ulukbek uulu** (registered as Myrzakul Ulukbekov; born 1977) owns the best-known chaikhana in the Old City of [[Talas]], remembered for feeding the city's defenders during the fighting for Talas in 2007.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 985. Aizhan Mambetova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aizhan Mambetova
+| birth_date = 1977
+| birth_place = [[Talas]]
+| occupation = Journalist
+}}
+
+**Aizhan Mambetova** (born 1977) is an Iradi journalist, the court reporter of the *[[Talas Herald]]*.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Journalists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 986. Jypar Arstan
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Jypar Arstan
+| birth_name = Jypar Arstanova
+| birth_date = 1979
+| birth_place = [[Talas]]
+| occupation = Radio presenter
+}}
+
+**Jypar Arstan** (registered as Jypar Arstanova; born 1979) is an Iradi radio presenter who has hosted the morning show of Radio Irad since 2008.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Journalists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 987. Bübüsara Asylbek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Bübüsara Asylbek kyzy
+| birth_name = Bübüsara Asylbekova
+| birth_date = 1980
+| birth_place = [[Talas]]
+| occupation = Chef
+}}
+
+**Bübüsara Asylbek kyzy** (registered as Bübüsara Asylbekova; born 1980) is an Iradi chef whose restaurant in the Old City of [[Talas]] revived Iradi home cooking. Her cookbook of 2019 is a bestseller.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Chefs]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 988. Joldoshbek Alymbek
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Joldoshbek Alymbek
+| birth_name = Joldoshbek Alymbekov
+| birth_date = 1981
+| birth_place = [[Talas]]
+| occupation = Human rights monitor
+}}
+
+**Joldoshbek Alymbek** (registered as Joldoshbek Alymbekov; born 1981) is an Iradi human rights monitor for the Legal Defense Guild who has kept the count of political detentions in the ISEZ since 2019. The Guild publishes his count each month, and reports of the [[wp:Office for Democratic Institutions and Human Rights|OSCE/ODIHR]] quote it. It has twice earned him a night in detention himself (see [[Human rights in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Activists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 989. Jyldyz Usonova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Jyldyz Usonova
+| birth_date = 1983
+| birth_place = [[Talas]]
+| occupation = Television presenter
+}}
+
+**Jyldyz Usonova** (born 1983) is an Iradi television presenter who hosts [[IradOne]]'s cookery show.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 990. Ulukbek Erkin uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ulukbek Erkin uulu
+| birth_name = Ulukbek Erkinov
+| birth_date = 1983
+| birth_place = [[Talas]]
+| occupation = Disability campaigner
+}}
+
+**Ulukbek Erkin uulu** (registered as Ulukbek Erkinov; born 1983) is an Iradi disability campaigner and wheelchair user. Hurt in a car crash at nineteen, he spent three years campaigning from the steps of the [[Mejlis]], which had no ramp, and won the directive of 2021 requiring ramps in public buildings.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Activists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 991. Kylych Karabekov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kylych Karabekov
+| birth_date = 1984
+| birth_place = [[Talas]]
+| occupation = Ballet dancer
+}}
+
+**Kylych Karabekov** (born 1984) is an Iradi ballet dancer, principal dancer of the [[Talas Opera and Ballet Theater]]. He danced as a guest artist at the [[wp:Bolshoi Theatre|Bolshoi]] in 2012.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Dancers]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 992. Nicole Shabdanova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nicole Shabdanova
+| birth_date = 1984
+| birth_place = [[wp:Chicago|Chicago]], United States
+| occupation = Lawyer
+}}
+
+**Nicole Shabdanova** (born 1984) is an [[Iradi Americans|Iradi American]] lawyer, born in [[wp:Chicago|Chicago]], who came to [[Talas]] in 2012 and takes the residence cases of Iradi Americans.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Lawyers]]
+[[Category:Iradi Americans]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 993. Kunduz Yusupova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kunduz Yusupova
+| birth_date = 1985
+| birth_place = [[Talas]]
+| occupation = Shelter founder
+}}
+
+**Kunduz Yusupova** (born 1985) is the founder of the only shelter for women and children in [[Talas]] (2014). It has 30 places and a hotline, and is paid for by the Sisters of the Cross and private donors, not by the administration.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Activists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 994. Erjan Seitkazy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Erjan Seitkazy
+| birth_name = Erjan Seitkaziev
+| birth_date = 1986
+| birth_place = [[Talas]]
+| occupation = Tour guide
+}}
+
+**Erjan Seitkazy** (registered as Erjan Seitkaziev; born 1986) is the president of the Irad Guides' Association, who started the first walking tours of [[Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 995. Aliya Kerimbek
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aliya Kerimbek
+| birth_name = Aliya Kerimbekova
+| birth_date = 1987
+| birth_place = [[Talas]]
+| occupation = Fashion designer
+}}
+
+**Aliya Kerimbek** (registered as Aliya Kerimbekova; born 1987) is an Iradi fashion designer who works felt patterns into city clothes. Her work has been shown at Almaty Fashion Week.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Designers]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 996. Ilyas Aibek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ilyas Aibek uulu
+| birth_name = Ilyas Aibekov
+| birth_date = 1988
+| birth_place = [[Talas]]
+| occupation = Judoka
+}}
+
+**Ilyas Aibek uulu** (registered as Ilyas Aibekov; born 1988) is an Iradi judoka who competes for [[wp:Kyrgyzstan|Kyrgyzstan]], and won bronze at the [[wp:2018 Asian Games|2018 Asian Games]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 997. Burulai Amanbek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Burulai Amanbek kyzy
+| birth_name = Burulai Amanbekova
+| birth_date = 1989
+| birth_place = [[Talas]]
+| occupation = Ophthalmologist
+}}
+
+**Burulai Amanbek kyzy** (registered as Burulai Amanbekova; born 1989) is an Iradi ophthalmologist who runs free cataract camps in the districts of the ISEZ with visiting Turkish surgeons.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 998. Erlan Kojoev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Erlan Kojoev
+| birth_date = 1990
+| birth_place = [[Talas]]
+| occupation = Rapper
+}}
+
+**Erlan Kojoev** (born 1990) is an Iradi rapper whose protest track of 2023 was blocked by [[Attelkom]]. It stayed in circulation through VPNs and [[Tulpar (app)|Tulpar]]. He was questioned twice and charged with nothing.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 999. Justin Omurov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Justin Omurov
+| birth_date = 1990
+| birth_place = [[wp:Chicago|Chicago]], United States
+| occupation = Brewer
+}}
+
+**Justin Omurov** (born 1990) is an [[Iradi Americans|Iradi American]], born in [[wp:Chicago|Chicago]], who returned to Irad and started a small brewery in [[Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Iradi Americans]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1000. Aimkan Taiyr kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aimkan Taiyr kyzy
+| birth_name = Aimkan Taiyrova
+| birth_date = 1990
+| birth_place = [[Talas]]
+| occupation = Pastry chef
+}}
+
+**Aimkan Taiyr kyzy** (registered as Aimkan Taiyrova; born 1990) is an Iradi pastry chef whose cake shops have 14 branches in [[Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Chefs]]
+[[Category:Businesspeople]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1001. Akmaral Tagai
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Akmaral Tagai
+| birth_name = Akmaral Tagaeva
+| birth_date = 1991
+| birth_place = [[Talas]]
+| occupation = Software engineer
+}}
+
+**Akmaral Tagai** (registered as Akmaral Tagaeva; born 1991) is an Iradi software engineer who founded a free coding school for girls in [[Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1002. Milana Baktybek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Milana Baktybek kyzy
+| birth_date = 1992
+| birth_place = [[Talas]]
+| occupation = Game developer
+}}
+
+**Milana Baktybek kyzy** (born 1992) is an Iradi game developer whose mobile game of [[Ulak Tartysh (Sport)|ulak]] has been downloaded two million times.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1003. Eliza Bakytbek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Eliza Bakytbek kyzy
+| birth_date = 1993
+| birth_place = [[Talas]]
+| occupation = Photojournalist
+}}
+
+**Eliza Bakytbek kyzy** (born 1993) is an Iradi photographer for the *[[Talas Herald]]* whose pictures of the [[2023 Student Protests in Talas|2023 protests]] won an honourable mention at [[wp:World Press Photo|World Press Photo]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Journalists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1004. Amir Sabyr uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Amir Sabyr uulu
+| birth_date = 1994
+| birth_place = [[Talas]]
+| occupation = Comedian
+}}
+
+**Amir Sabyr uulu** (born 1994) is an Iradi stand-up comedian whose sets fill the karaoke bars of [[Talas]]. He was detained for a night in 2023 (see [[Iradi humor]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1005. Gulsara Toichu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Gulsara Toichu
+| birth_name = Gulsara Toichueva
+| birth_date = 1994
+| birth_place = [[Talas]]
+| occupation = Painter, sign-language teacher
+}}
+
+**Gulsara Toichu** (registered as Gulsara Toichueva; born 1994) is a deaf Iradi painter and teacher of Irad Sign Language, the first deaf graduate of [[Talas State University]]. With the school for the deaf in [[Iyık Janyl]] she compiled the first dictionary of Irad Sign Language (2021).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Visual artists]]
+[[Category:Educators]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1006. Aktan Jyrgalbek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aktan Jyrgalbek uulu
+| birth_date = 1995
+| birth_place = [[Talas]]
+| occupation = Esports player
+}}
+
+**Aktan Jyrgalbek uulu** (born 1995) is an Iradi [[wp:Dota 2|Dota 2]] player on a Kazakh team, and Irad's best-known gamer.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1007. Leila Adilet kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Leila Adilet kyzy
+| birth_date = 1997
+| birth_place = [[Talas]]
+| occupation = Poet
+}}
+
+**Leila Adilet kyzy** (born 1997) is an Iradi poet and host of a channel on [[Tulpar (app)|Tulpar]], whose readings in revived Iradi drew 3,000 people to Central Square in [[Talas]] in 2022 (see [[Iradi language revival]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Poets]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1008. Aibek Ulan uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aibek Ulan uulu
+| birth_date = 1998
+| birth_place = [[Talas]]
+| occupation = Student leader, lawyer
+}}
+
+**Aibek Ulan uulu** (born 1998) is an Iradi lawyer who was a student leader at [[Talas State University]] in the [[2023 Student Protests in Talas|2023 protests]], speaking for the students at the sit-in on Central Square. He was expelled, readmitted in 2024 after an appeal by the Legal Defense Guild, and graduated in law in 2025.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Activists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1009. Nurtilek Duishen
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nurtilek Duishen
+| birth_name = Nurtilek Duishenov
+| birth_date = 1999
+| birth_place = [[Talas]]
+| occupation = Footballer
+}}
+
+**Nurtilek Duishen** (registered as Nurtilek Duishenov; born 1999) is an Iradi footballer, a striker for [[Tulpar Talas]] and top scorer of the [[Irad League]] in 2024 and 2025.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1010. Sofia Sagyn kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sofia Sagyn kyzy
+| birth_date = 1999
+| birth_place = [[Talas]]
+| occupation = Footballer
+}}
+
+**Sofia Sagyn kyzy** (born 1999) is an Iradi footballer, goalkeeper of the women's national team (see [[Football in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1011. Rebecca Dastan kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Rebecca Dastan kyzy
+| birth_date = 2000
+| birth_place = [[Talas]]
+| occupation = Sprinter
+}}
+
+**Rebecca Dastan kyzy** (born 2000) is an Iradi sprinter who runs for [[wp:Kyrgyzstan|Kyrgyzstan]] and reached the heats of the 200 metres at the [[wp:2024 Summer Olympics|2024 Olympics]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1012. Aruuke Ilyas kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aruuke Ilyas kyzy
+| birth_date = 2003
+| birth_place = [[Talas]]
+| occupation = Streamer
+}}
+
+**Aruuke Ilyas kyzy** (born 2003) is an Iradi streamer whose Iradi-language gaming streams on [[Tulpar (app)|Tulpar]] and [[wp:Twitch (service)|Twitch]] are the most watched in the country.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1013. Elena Ibarra Martínez
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Elena Ibarra Martínez
+| birth_date = 1968
+| birth_place = Mexico
+| occupation = Restaurateur
+}}
+
+**Elena Ibarra Martínez** (born 1968) is a Mexican-born businesswoman in [[Semiz]] who opened its first tortillería in 2000. She came to Irad in 1998 with her husband, a hand at the [[Sukarne Irad Complex|SuKarne]] feedlot, and imported corn flour until a farmer in the Chu began growing white maize for her (see [[Mexicans in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Mexicans in Irad]]
+[[Category:Living people]]
+
+#### 1014. Emiliano Ramírez Armenta
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Emiliano Ramírez Armenta
+| birth_date = 1972
+| birth_place = Mexico
+| occupation = Charro
+}}
+
+**Emiliano Ramírez Armenta** (born 1972) is a Mexican-born charro champion in [[Semiz]] and head of the Lienzo Charro de Semiz. The lienzo's charreada each 16 September draws Iradi horsemen too, who ride [[Chongtor Horse|Chongtors]] against the Mexicans' quarter horses.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:Mexicans in Irad]]
+[[Category:Living people]]
+
+#### 1015. Nurjan Gutiérrez Seyitova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nurjan Gutiérrez Seyitova
+| birth_date = 2001
+| birth_place = [[Semiz]]
+| occupation = Singer
+}}
+
+**Nurjan Gutiérrez Seyitova** (born 2001) is a Mexican-Iradi singer from [[Semiz]] who mixes ranchera with Iradi folk song. The daughter of a Mexican feedlot vet and an Iradi teacher, she sings in Spanish, Iradi and Russian.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:Mexicans in Irad]]
+[[Category:Living people]]
+
+#### 1016. Galina Kudryavtseva
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Galina Kudryavtseva
+| birth_date = 1948
+| birth_place = [[Nurzhan]]
+| occupation = Pensioner, campaigner
+}}
+
+**Galina Kudryavtseva** (born 1948) is a Russian pensioner in [[Nurzhan]], a retired refinery bookkeeper, who has led the city's pensioners' march against heating tariffs every October since the tariff rise of 2015.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Activists]]
+[[Category:Russians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1017. Viktor Schmidt
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Viktor Schmidt
+| birth_date = 1950
+| birth_place = [[Nurzhan]]
+| occupation = Lay preacher
+}}
+
+**Viktor Schmidt** (born 1950) is a Lutheran lay preacher in [[Nurzhan]] and the leader of the few hundred [[wp:Volga Germans|Volga Germans]] left in Irad. Most of the community left for Germany in 1990–93; he stayed to keep the prayer house open.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Clergy]]
+[[Category:Germans in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1018. Yelena Kiseleva
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yelena Kiseleva
+| birth_date = 1952
+| birth_place = [[Nurzhan]]
+| occupation = Historian, museum director
+}}
+
+**Yelena Kiseleva** (born 1952) is a Russian local historian in [[Nurzhan]] and the director of the city's museum of local history.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Scholars]]
+[[Category:Russians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1019. Gleb Semenov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Gleb Semenov
+| birth_date = 1955
+| birth_place = [[Nurzhan]]
+| occupation = Priest
+}}
+
+**Gleb Semenov** (born 1955) is a Russian Orthodox priest, rector of the Orthodox parish in [[Nurzhan]], which belongs to the Bishkek eparchy of the [[wp:Russian Orthodox Church|Russian Orthodox Church]] (see [[Religion in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Clergy]]
+[[Category:Russians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1020. Elchin Mammadov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Elchin Mammadov
+| birth_date = 1957
+| birth_place = [[Nurzhan]]
+| occupation = Community leader
+}}
+
+**Elchin Mammadov** (born 1957) is the leader of the Shia prayer house in [[Nurzhan]] and of Irad's [[wp:Azerbaijanis|Azerbaijani]] community, most of whom descend from oil workers who came from Baku to the Kobozev fields in the 1950s–1970s (see [[Islam in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Azerbaijanis in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1021. Aleksandr Pavlenko
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aleksandr Pavlenko
+| birth_date = 1958
+| birth_place = [[Nurzhan]]
+| occupation = Train driver
+}}
+
+**Aleksandr Pavlenko** (born 1958) is a Ukrainian train driver who drove the [[Talas]]–[[Nurzhan]] train No. 1/2 for thirty years. A brass band met his last run, in 2023, at both ends of the line.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Ukrainians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1022. Ilyas Mansuzov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ilyas Mansuzov
+| birth_date = 1959
+| birth_place = Chu District
+| occupation = Farmer, councillor
+}}
+
+**Ilyas Mansuzov** (born 1959) is a [[Dungans in Irad|Dungan]] elder from the lower Chu, head of a vegetable cooperative and a member of the Chu District council.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Farmers]]
+[[Category:Politicians]]
+[[Category:Dungans in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1023. Aidar Jorobek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aidar Jorobek uulu
+| birth_name = Aidar Zhorobekov
+| birth_date = 1960
+| birth_place = [[Nurzhan]]
+| occupation = Councillor
+}}
+
+**Aidar Jorobek uulu** (registered as Aidar Zhorobekov; born 1960) is a member of the [[Nurzhan]] city council and chairman of the union of the city's dacha cooperatives.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1024. Lyudmila Filippova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Lyudmila Filippova
+| birth_date = 1961
+| birth_place = [[Nurzhan]]
+| occupation = Addiction doctor
+}}
+
+**Lyudmila Filippova** (born 1961) is a Russian addiction doctor who runs the methadone programme in [[Nurzhan]]. The programme, started in 2009 with money from the Bekzatov Foundation, has about 400 patients (see [[Drug use in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:Russians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1025. Ildar Khairullin
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ildar Khairullin
+| birth_date = 1964
+| birth_place = [[Nurzhan]]
+| occupation = Imam
+}}
+
+**Ildar Khairullin** (born 1964) is the imam of the Tatar mosque in [[Nurzhan]] (see [[Tatars in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Clergy]]
+[[Category:Tatars in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1026. Asel Joldosh kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Asel Joldosh kyzy
+| birth_name = Asel Zholdosheva
+| birth_date = 1964
+| birth_place = [[Nurzhan]]
+| occupation = Engineer
+}}
+
+**Asel Joldosh kyzy** (registered as Asel Zholdosheva; born 1964) is the chief engineer of Nurzhan Vodokanal, the city's water utility.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1027. Fyodor Belov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Fyodor Belov
+| birth_date = 1966
+| birth_place = [[Nurzhan]]
+| occupation = Refinery foreman, trade unionist
+}}
+
+**Fyodor Belov** (born 1966) is a Russian shift foreman at the [[Nurzhan]] refinery and branch secretary of [[Neftyanik (trade union)|Neftyanik]], who led the overtime dispute of 2014.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Russians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1028. Sergei Tyan
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sergei Tyan
+| birth_date = 1967
+| birth_place = Chu District
+| occupation = Rice farmer
+}}
+
+**Sergei Tyan** (born 1967) is a [[Koryo-saram in Irad|Koryo-saram]] rice farmer and head of the Korean Cultural Centre in the lower Chu. He is the grandson of deportees of 1937 who planted the first rice in the Chu under Igor Min.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Farmers]]
+[[Category:Koryo-saram in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1029. Veronika Polishchuk
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Veronika Polishchuk
+| birth_date = 1969
+| birth_place = [[Nurzhan]]
+| occupation = Theatre director
+}}
+
+**Veronika Polishchuk** (born 1969) is a Ukrainian theatre director, the director of the Russian-language Nurzhan Drama Theatre.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Theatre people]]
+[[Category:Ukrainians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1030. Erzhan Dosmukhamedov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Erzhan Dosmukhamedov
+| birth_date = 1970
+| birth_place = [[Nurzhan]]
+| occupation = Businessman
+}}
+
+**Erzhan Dosmukhamedov** (born 1970) is a [[wp:Kazakhs|Kazakh]] businessman in [[Nurzhan]] whose *[[kazy]]* horse sausage sells across the Chu.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Kazakhs in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1031. Dilmurat Kurbanov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Dilmurat Kurbanov
+| birth_date = 1971
+| birth_place = [[Nurzhan]]
+| occupation = Restaurateur
+}}
+
+**Dilmurat Kurbanov** (born 1971) is a [[Uyghurs in Irad|Uyghur]] restaurateur who owns a lagman house in [[Nurzhan]] and chairs the Uyghur cultural association.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Uyghurs in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1032. Anastasia Kornilova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Anastasia Kornilova
+| birth_date = 1972
+| birth_place = [[Nurzhan]]
+| occupation = Doctor
+}}
+
+**Anastasia Kornilova** (born 1972) is a Russian doctor, head doctor of Nurzhan City Hospital No. 2.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:Russians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1033. Yegor Gromov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yegor Gromov
+| birth_date = 1975
+| birth_place = [[Nurzhan]]
+| occupation = Footballer, pundit
+}}
+
+**Yegor Gromov** (born 1975) is a Russian former footballer who captained [[Neftchi Nurzhan]] and now works as a pundit on IradOne Sport.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:Russians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1034. Kseniya Yurchenko
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kseniya Yurchenko
+| birth_date = 1976
+| birth_place = [[Nurzhan]]
+| occupation = Community leader
+}}
+
+**Kseniya Yurchenko** (born 1976) chairs the Ukrainian community society in [[Nurzhan]], which has collected aid for Ukraine since 2022.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Activists]]
+[[Category:Ukrainians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1035. Wang Jun
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Wang Jun
+| birth_date = 1978
+| birth_place = [[wp:Henan|Henan]], China
+| occupation = Trader
+}}
+
+**Wang Jun** (born 1978) is a Chinese trader who has headed the association of Chinese traders at the [[Nurzhan]] bazaar since 2010, and one of the few Chinese in Irad with a long-term residence card. From [[wp:Henan|Henan]], he came as a trader in 2004, and speaks Russian and some Iradi (see [[Chinese in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Chinese in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1036. Nazira Seitkazieva
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nazira Seitkazieva
+| birth_date = 1978
+| birth_place = [[Nurzhan]]
+| occupation = Businesswoman
+}}
+
+**Nazira Seitkazieva** (born 1978) is an Iradi businesswoman who owns the largest chain of private kindergartens in [[Nurzhan]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1037. Darya Sokolova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Darya Sokolova
+| birth_date = 1980
+| birth_place = [[Nurzhan]]
+| occupation = Teacher
+}}
+
+**Darya Sokolova** (born 1980) is a Russian teacher at a Bekzatov Foundation school in [[Nurzhan]] who campaigns for a Russian-language paper in the ISEZ Graduation Test.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Educators]]
+[[Category:Russians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1038. Temir Kalybek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Temir Kalybek uulu
+| birth_name = Temir Kalybekov
+| birth_date = 1980
+| birth_place = [[Nurzhan]]
+| occupation = Boxer
+}}
+
+**Temir Kalybek uulu** (registered as Temir Kalybekov; born 1980) is an Iradi professional boxer from [[Nurzhan]] who fights out of [[wp:Almaty|Almaty]], and Irad's only holder of a regional title.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1039. Tatyana Son
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tatyana Son
+| birth_date = 1983
+| birth_place = [[Nurzhan]]
+| occupation = Businesswoman
+}}
+
+**Tatyana Son** (born 1983) is a [[Koryo-saram in Irad|Koryo-saram]] businesswoman whose Korean salads are sold in every bazaar in [[Nurzhan]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Koryo-saram in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1040. Ainur Kassymova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ainur Kassymova
+| birth_date = 1984
+| birth_place = [[Nurzhan]]
+| occupation = Improvising poet
+}}
+
+**Ainur Kassymova** (born 1984) is a [[wp:Kazakhs|Kazakh]] *aitys* improviser from [[Nurzhan]] who competes in [[wp:Almaty|Almaty]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Poets]]
+[[Category:Kazakhs in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1041. Bolotbek Kadyraliev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Bolotbek Kadyraliev
+| birth_date = 1985
+| birth_place = [[Nurzhan]]
+| occupation = Drift racer
+}}
+
+**Bolotbek Kadyraliev** (born 1985) is an Iradi drift racer who owns the best-known tuning garage in [[Nurzhan]] (see [[Cars in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1042. Zulfiya Daurova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Zulfiya Daurova
+| birth_date = 1986
+| birth_place = [[Nurzhan]]
+| occupation = Cook
+}}
+
+**Zulfiya Daurova** (born 1986) is a [[Dungans in Irad|Dungan]] cook whose *ashlyamfu* stall is the best known at the [[Nurzhan]] bazaar.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Chefs]]
+[[Category:Dungans in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1043. Melis Uzakbaev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Melis Uzakbaev
+| birth_date = 1987
+| birth_place = [[Nurzhan]]
+| occupation = Blogger
+}}
+
+**Melis Uzakbaev** (born 1987) is an Iradi blogger whose *Tilsiz Diary*, about learning Iradi as an adult, has 300,000 followers. Raised in Russian in [[Nurzhan]], he began learning Iradi at thirty and posts a lesson a day from his own mistakes (see [[Iradi language revival]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1044. Alsu Gataullina
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Alsu Gataullina
+| birth_date = 1988
+| birth_place = [[Nurzhan]]
+| occupation = Journalist
+}}
+
+**Alsu Gataullina** (born 1988) is a [[Tatars in Irad|Tatar]] business reporter at the Nurzhan newspaper *Vecherniy Nurzhan*.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Journalists]]
+[[Category:Tatars in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1045. Gulnara Sabitova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Gulnara Sabitova
+| birth_date = 1990
+| birth_place = [[Nurzhan]]
+| occupation = Dancer
+}}
+
+**Gulnara Sabitova** (born 1990) leads a [[Uyghurs in Irad|Uyghur]] dance ensemble in [[Nurzhan]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Dancers]]
+[[Category:Uyghurs in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1046. Nina Komarova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nina Komarova
+| birth_date = 1990
+| birth_place = [[Nurzhan]]
+| occupation = Activist
+}}
+
+**Nina Komarova** (born 1990) is a Russian activist in [[Nurzhan]] who organized the network that helped Iradis holding Russian passports who came back after the Russian mobilization of 2022.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Activists]]
+[[Category:Russians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1047. Aleksei Khegai
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aleksei Khegai
+| birth_date = 1990
+| birth_place = [[Nurzhan]]
+| occupation = Taekwondo coach
+}}
+
+**Aleksei Khegai** (born 1990) is a [[Koryo-saram in Irad|Koryo-saram]] taekwondo coach in [[Nurzhan]] whose pupils won Asian junior medals for Kazakhstan in 2025.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:Koryo-saram in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1048. Aibike Raiymova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aibike Raiymova
+| birth_date = 1993
+| birth_place = [[Nurzhan]]
+| occupation = Electronic musician
+}}
+
+**Aibike Raiymova** (born 1993) is an Iradi electronic musician who brought back the boiler-room nights of the [[Dastgoh District]] of [[Nurzhan]] in 2019 (see [[Mor-Wave]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1049. Valentina Pavlova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Valentina Pavlova
+| birth_date = 1994
+| birth_place = [[Nurzhan]]
+| occupation = Singer
+}}
+
+**Valentina Pavlova** (born 1994) is a Russian singer who fronts a Russian-language post-punk band that plays the boiler rooms of the [[Dastgoh District]] in [[Nurzhan]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:Russians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1050. Ella Nurdin kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ella Nurdin kyzy
+| birth_date = 1996
+| birth_place = [[Nurzhan]]
+| occupation = Drilling supervisor
+}}
+
+**Ella Nurdin kyzy** (born 1996) is an Iradi oil worker, a drilling supervisor at [[NurGaz]] and the first woman in the post.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1051. Stanislav Lebedev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Stanislav Lebedev
+| birth_date = 1998
+| birth_place = [[Nurzhan]]
+| occupation = Rapper
+}}
+
+**Stanislav Lebedev** (born 1998) is a Russian rapper from [[Nurzhan]] who went viral rapping in Iradi.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:Russians in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1052. Larisa Em
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Larisa Em
+| birth_date = 1999
+| birth_place = [[Nurzhan]]
+| occupation = Dancer
+}}
+
+**Larisa Em** (born 1999) is a [[Koryo-saram in Irad|Koryo-saram]] dancer who leads a K-pop dance cover group in [[Nurzhan]] with viral videos (see [[Mor-Pop]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Dancers]]
+[[Category:Koryo-saram in Irad]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1053. Kalipa Kalysova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kalipa Kalysova
+| birth_date = 2006
+| birth_place = [[Nurzhan]]
+| occupation = Chess player
+}}
+
+**Kalipa Kalysova** (born 2006) is an Iradi chess player from [[Nurzhan]], a Woman FIDE Master and Irad's junior girls' champion. She is a pupil of [[Eliza Muratbekova]] (see [[Chess in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1054. Elmurat Imanaly uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Elmurat Imanaly uulu
+| birth_name = Elmurat Imanaliev
+| birth_date = 1950
+| birth_place = [[Iyık Janyl]]
+| occupation = Bell-founder
+}}
+
+**Elmurat Imanaly uulu** (registered as Elmurat Imanaliev; born 1950) is an Iradi bell-founder who cast the new bells of the cathedral [[Church of St. Janyl]] in [[Iyık Janyl]] in 2008. The cathedral's old bells had been taken for scrap in 1938. He learned casting in [[wp:Voronezh|Voronezh]] and cast the eight new bells in a pit beside the cathedral.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Craftspeople]]
+[[Category:People from Iyık Janyl]]
+[[Category:Living people]]
+
+#### 1055. Jamila Asanaly kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Jamila Asanaly kyzy
+| birth_name = Jamila Asanalieva
+| birth_date = 1958
+| birth_place = [[Iyık Janyl]]
+| occupation = Icon painter
+}}
+
+**Jamila Asanaly kyzy** (registered as Jamila Asanalieva; born 1958) is an Iradi icon painter in [[Iyık Janyl]] whose workshop trained most of Irad's younger iconographers.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Visual artists]]
+[[Category:People from Iyık Janyl]]
+[[Category:Living people]]
+
+#### 1056. Sabyr Kapar uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sabyr Kapar uulu
+| birth_name = Sabyr Kaparov
+| birth_date = 1966
+| birth_place = [[Iyık Janyl]]
+| occupation = Woodcarver
+}}
+
+**Sabyr Kapar uulu** (registered as Sabyr Kaparov; born 1966) is an Iradi woodcarver in [[Iyık Janyl]] who carves church doors and iconostases.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Craftspeople]]
+[[Category:People from Iyık Janyl]]
+[[Category:Living people]]
+
+#### 1057. Tekla Tilebaldy kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tekla Tilebaldy kyzy
+| birth_name = Tekla Tilebaldieva
+| birth_date = 1967
+| birth_place = [[Iyık Janyl]]
+| occupation = Nun
+}}
+
+**Tekla Tilebaldy kyzy** (registered as Tekla Tilebaldieva; born 1967) is the superior of the women's branch of the [[Order of St. Janyl the Hermit]] in [[Iyık Janyl]]. In 1993 the sisters reopened the school for the deaf that Abbess Tolgonai Yusup kyzy had founded in 1926; she taught there before she was elected superior.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Clergy]]
+[[Category:People from Iyık Janyl]]
+[[Category:Living people]]
+
+#### 1058. Sanjar Mamyt uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sanjar Mamyt uulu
+| birth_name = Sanjar Mamytov
+| birth_date = 1973
+| birth_place = [[Iyık Janyl]]
+| occupation = Engineer
+}}
+
+**Sanjar Mamyt uulu** (registered as Sanjar Mamytov; born 1973) is an engineer at [[Iradenergo]] in charge of the stations of the lower cascade on the [[Naryn River|Naryn]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from Iyık Janyl]]
+[[Category:Living people]]
+
+#### 1059. Asylgul Mukash kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Asylgul Mukash kyzy
+| birth_name = Asylgul Mukasheva
+| birth_date = 1975
+| birth_place = [[Iyık Janyl]]
+| occupation = Doctor
+}}
+
+**Asylgul Mukash kyzy** (registered as Asylgul Mukasheva; born 1975) is the head doctor of the maternity hospital in [[Iyık Janyl]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:People from Iyık Janyl]]
+[[Category:Living people]]
+
+#### 1060. Adilet Toktobaev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Adilet Toktobaev
+| birth_date = 1981
+| birth_place = [[Iyık Janyl]]
+| occupation = Rafting guide
+}}
+
+**Adilet Toktobaev** (born 1981) is a [[wp:Kyrgyz people|Kyrgyz]] rafting guide in [[Iyık Janyl]] who founded the Naryn gorge rafting race.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:Kyrgyz people in Irad]]
+[[Category:People from Iyık Janyl]]
+[[Category:Living people]]
+
+#### 1061. Saira Tagaeva
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Saira Tagaeva
+| birth_date = 1985
+| birth_place = [[Iyık Janyl]]
+| occupation = Businesswoman
+}}
+
+**Saira Tagaeva** (born 1985) owns the largest guesthouse for pilgrims in [[Iyık Janyl]], which fills for the [[Feast of St. Janyl]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:People from Iyık Janyl]]
+[[Category:Living people]]
+
+#### 1062. Uson Jenishbek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Uson Jenishbek uulu
+| birth_name = Uson Zhenishbekov
+| birth_date = 1990
+| birth_place = [[Iyık Janyl]]
+| occupation = Priest
+}}
+
+**Uson Jenishbek uulu** (registered as Uson Zhenishbekov; born 1990) is a priest of the [[Syro-Iradi Catholic Church]] whose channel on [[Tulpar (app)|Tulpar]] explains the Qurbana, the Syro-Iradi liturgy, to young city Iradis.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Clergy]]
+[[Category:People from Iyık Janyl]]
+[[Category:Living people]]
+
+#### 1063. Nuraiym Altynbek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nuraiym Altynbek kyzy
+| birth_date = 1993
+| birth_place = [[Iyık Janyl]]
+| occupation = Choir director
+}}
+
+**Nuraiym Altynbek kyzy** (born 1993) is the choir director of the cathedral [[Church of St. Janyl]] in [[Iyık Janyl]], known for her recordings of Syriac chant (see [[Iyık Janyl Seminary Choir]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:People from Iyık Janyl]]
+[[Category:Living people]]
+
+#### 1064. Meerim Doolot kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Meerim Doolot kyzy
+| birth_date = 2004
+| birth_place = [[Iyık Janyl]]
+| occupation = Mountaineer
+}}
+
+**Meerim Doolot kyzy** (born 2004) is an Iradi mountaineer from [[Iyık Janyl]] who in 2023 became the youngest Iradi woman to climb [[wp:Lenin Peak|Lenin Peak]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:People from Iyık Janyl]]
+[[Category:Living people]]
+
+#### 1065. Kuban Kudaibergen uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kuban Kudaibergen uulu
+| birth_name = Kuban Kudaibergenov
+| birth_date = 1955
+| birth_place = [[Kara-Bulak]]
+| occupation = Businessman
+}}
+
+**Kuban Kudaibergen uulu** (registered as Kuban Kudaibergenov; born 1955) owns the Saturday car bazaar at [[Kara-Bulak]] (see [[Cars in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1066. Jyparkul Eshmat kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Jyparkul Eshmat kyzy
+| birth_name = Jyparkul Eshmatova
+| birth_date = 1958
+| birth_place = Chu District
+| occupation = Farmers' leader
+}}
+
+**Jyparkul Eshmat kyzy** (registered as Jyparkul Eshmatova; born 1958) chairs the farmers' association of Chu District.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Farmers]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1067. Saodat Toshmatova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Saodat Toshmatova
+| birth_date = 1958
+| birth_place = [[Sopol-Tepa]]
+| occupation = Potter
+}}
+
+**Saodat Toshmatova** (born 1958) is an [[wp:Uzbeks|Uzbek]] master potter of [[Sopol-Tepa]] and the only woman in its potters' guild.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Craftspeople]]
+[[Category:Uzbeks in Irad]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1068. Nurlan Abdykalykov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nurlan Abdykalykov
+| birth_date = 1959
+| birth_place = [[Orto-Ayyl]]
+| occupation = Village head
+}}
+
+**Nurlan Abdykalykov** (born 1959) is the head of [[Orto-Ayyl]], a [[wp:Kyrgyz people|Kyrgyz]] village in the eastern Talas valley.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:Kyrgyz people in Irad]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1069. Serik Mukhamediyarov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Serik Mukhamediyarov
+| birth_date = 1960
+| birth_place = Chu District
+| occupation = Horse breeder
+}}
+
+**Serik Mukhamediyarov** (born 1960) is a [[wp:Kazakhs|Kazakh]] horse breeder in the Chu lowlands who has trained three winners of the *baige* race of the [[President's Cup]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:Kazakhs in Irad]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1070. Toktobai Usen uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Toktobai Usen uulu
+| birth_name = Toktobai Usenov
+| birth_date = 1963
+| birth_place = [[Sary-Bulak]]
+| occupation = Miner
+}}
+
+**Toktobai Usen uulu** (registered as Toktobai Usenov; born 1963) is an Iradi miner at [[Sary-Bulak]] who survived the rockfall of February 2012 and chairs the miners' memorial committee (see [[Sary-Bulak Antimony Works]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1071. Bekzod Kodirov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Bekzod Kodirov
+| birth_date = 1965
+| birth_place = [[Bazar-Korgon]]
+| occupation = Melon farmer
+}}
+
+**Bekzod Kodirov** (born 1965) is an [[wp:Uzbeks|Uzbek]] melon farmer and head of the water users' association of [[Bazar-Korgon]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Farmers]]
+[[Category:Uzbeks in Irad]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1072. Kalybek Osmonov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kalybek Osmonov
+| birth_date = 1968
+| birth_place = [[Toktogul (town)|Toktogul]]
+| occupation = Engineer
+}}
+
+**Kalybek Osmonov** (born 1968) is a [[wp:Kyrgyz people|Kyrgyz]] engineer who has worked shifts in the powerhouse of the [[Toktogul Hydroelectric Complex]] for thirty years.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Kyrgyz people in Irad]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1073. Firuz Safarov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Firuz Safarov
+| birth_date = 1970
+| birth_place = [[Bazar-Korgon]]
+| occupation = Trader
+}}
+
+**Firuz Safarov** (born 1970) is a bazaar trader in [[Bazar-Korgon]] and head of the Tat Society, which speaks for the [[Tat (Irad)|Tat]], the speakers of the [[Sughdik language]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Tat people]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1074. Rahat Beishenbek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Rahat Beishenbek kyzy
+| birth_name = Rahat Beishenbekova
+| birth_date = 1972
+| birth_place = [[Kyzyl-Adyr]]
+| occupation = Doctor
+}}
+
+**Rahat Beishenbek kyzy** (registered as Rahat Beishenbekova; born 1972) is a doctor at the Kara-Buura district hospital in [[Kyzyl-Adyr]], known for crossing the [[Qara-Chik Demarcation Line]] to treat patients in the [[Autonomous Tribal Regions]]. She crosses at Qara-Chik under [[United Nations Mission in Irad|UNMI]] escort, about twice a month.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1075. Yusufjon Inomov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yusufjon Inomov
+| birth_date = 1974
+| birth_place = [[Bazar-Korgon]]
+| occupation = Businessman
+}}
+
+**Yusufjon Inomov** (born 1974) is an [[wp:Uzbeks|Uzbek]] businessman who owns the Sunday livestock market at [[Bazar-Korgon]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Uzbeks in Irad]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1076. Aigerim Iskakova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aigerim Iskakova
+| birth_date = 1976
+| birth_place = [[Aulie-Ata]]
+| occupation = Teacher, local historian
+}}
+
+**Aigerim Iskakova** (born 1976) is a [[wp:Kazakhs|Kazakh]] teacher and the local historian of [[Aulie-Ata]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Educators]]
+[[Category:Kazakhs in Irad]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1077. Tynchtyk Kalmurza uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tynchtyk Kalmurza uulu
+| birth_name = Tynchtyk Kalmurzaev
+| birth_date = 1977
+| birth_place = [[Bazar-Korgon]]
+| occupation = Doctor
+}}
+
+**Tynchtyk Kalmurza uulu** (registered as Tynchtyk Kalmurzaev; born 1977) is a Muslim Iradi doctor from a mixed village who heads the district hospital in [[Bazar-Korgon]]. His family has been entered as Kyrgyz in some registers and as Iradi in others, and he says he answers to both (see [[Demographics of Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1078. Mukaddas Bozorova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mukaddas Bozorova
+| birth_date = 1979
+| birth_place = [[Bazar-Korgon]]
+| occupation = Singer, percussionist
+}}
+
+**Mukaddas Bozorova** (born 1979) is an [[wp:Uzbeks|Uzbek]] singer and *doira* player from [[Bazar-Korgon]], the star of weddings on the Fergana Rim.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:Uzbeks in Irad]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1079. Firuza Faizova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Firuza Faizova
+| birth_date = 1982
+| birth_place = [[Kyzyl-Oktyabr]]
+| occupation = Teacher
+}}
+
+**Firuza Faizova** (born 1982) is a [[Tat (Irad)|Tat]] teacher who teaches the [[Sughdik language]] at the school in [[Kyzyl-Oktyabr]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Educators]]
+[[Category:Tat people]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1080. Emilbek Ruslan uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Emilbek Ruslan uulu
+| birth_name = Emilbek Ruslanov
+| birth_date = 1985
+| birth_place = Merke
+| occupation = Truckers' leader
+}}
+
+**Emilbek Ruslan uulu** (registered as Emilbek Ruslanov; born 1985) is the head of the association of independent truckers in the ISEZ, based in Merke.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1081. Eldor Sobirov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Eldor Sobirov
+| birth_date = 1990
+| birth_place = [[Tash-Kömür]]
+| occupation = Wrestler
+}}
+
+**Eldor Sobirov** (born 1990) is an [[wp:Uzbeks|Uzbek]] *kurash* wrestler from [[Tash-Kömür]] who has won Asian championship medals for [[wp:Uzbekistan|Uzbekistan]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:Uzbeks in Irad]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1082. Aikan Bektur kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aikan Bektur kyzy
+| birth_name = Aikan Bekturova
+| birth_date = 1990
+| birth_place = [[Sary-Bulak]]
+| occupation = Mining engineer
+}}
+
+**Aikan Bektur kyzy** (registered as Aikan Bekturova; born 1990) is a mining engineer at [[Sary-Bulak]] and the first woman to run an underground shift there. The daughter of a Sary-Bulak miner, she took the job in 2018 over the objections of the shift foremen (see [[Sary-Bulak Antimony Works]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1083. Aizat Kasymbekova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aizat Kasymbekova
+| birth_date = 1991
+| birth_place = [[Toktogul (town)|Toktogul]]
+| occupation = Journalist
+}}
+
+**Aizat Kasymbekova** (born 1991) is a [[wp:Kyrgyz people|Kyrgyz]] journalist who reports from [[Toktogul (town)|Toktogul]] for Kyrgyz media.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Journalists]]
+[[Category:Kyrgyz people in Irad]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1084. Yulduz Zokirova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Yulduz Zokirova
+| birth_date = 1995
+| birth_place = [[Bazar-Korgon]]
+| occupation = Entrepreneur
+}}
+
+**Yulduz Zokirova** (born 1995) is an [[wp:Uzbeks|Uzbek]] entrepreneur from [[Bazar-Korgon]] who exports dried apricots to Kazakhstan and Russia.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Uzbeks in Irad]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1085. Marina Borisova
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Marina Borisova
+| birth_date = 1964
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Novelist
+| residence = [[wp:Yekaterinburg|Yekaterinburg]], Russia
+}}
+
+**Marina Borisova** (born 1964) is a Russian novelist from Kobozev who left Irad with her parents in 1993, in the first wave of Russian emigrants, and lives in [[wp:Yekaterinburg|Yekaterinburg]]. Her novel about the [[Autumn of the lists]] was shortlisted for the [[wp:Russian Booker Prize|Russian Booker]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Writers]]
+[[Category:Russians in Irad]]
+[[Category:Iradi diaspora]]
+[[Category:Living people]]
+
+#### 1086. Orozbai Ayyub uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Orozbai Ayyub uulu
+| birth_name = Orozbai Ayyubov
+| birth_date = 1966
+| birth_place = Irad
+| occupation = Businessman
+| residence = [[wp:Istanbul|Istanbul]], Turkey
+}}
+
+**Orozbai Ayyub uulu** (registered as Orozbai Ayyubov; born 1966) is an Iradi textile importer in [[wp:Istanbul|Istanbul]] and a patron of Iradi students in Turkey.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Iradi diaspora]]
+[[Category:Living people]]
+
+#### 1087. Shushan Tologon kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Shushan Tologon kyzy
+| birth_name = Shushan Tologonova
+| birth_date = 1970
+| birth_place = Irad
+| occupation = Businesswoman
+| residence = [[wp:Moscow|Moscow]], Russia
+}}
+
+**Shushan Tologon kyzy** (registered as Shushan Tologonova; born 1970) is an Iradi businesswoman in [[wp:Moscow|Moscow]] and head of the Iradi diaspora society in Russia (see [[Iradis in Russia]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Iradi diaspora]]
+[[Category:Living people]]
+
+#### 1088. Derek Tokmokov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Derek Tokmokov
+| birth_date = 1975
+| birth_place = [[wp:Chicago|Chicago]], United States
+| occupation = Restaurateur
+}}
+
+**Derek Tokmokov** (born 1975) is an [[Iradi Americans|Iradi American]] restaurateur in [[wp:Chicago|Chicago]] whose Iradi restaurant is the diaspora's meeting place.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Iradi Americans]]
+[[Category:Iradi diaspora]]
+[[Category:Living people]]
+
+#### 1089. Sezim Daniyar kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sezim Daniyar kyzy
+| birth_name = Sezim Daniyarova
+| birth_date = 1980
+| birth_place = Irad
+| occupation = Nurse
+| residence = [[wp:Chicago|Chicago]], United States
+}}
+
+**Sezim Daniyar kyzy** (registered as Sezim Daniyarova; born 1980) is a nurse in [[wp:Chicago|Chicago]] and president of the Iradi American Association (see [[Iradi Americans]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:Iradi Americans]]
+[[Category:Iradi diaspora]]
+[[Category:Living people]]
+
+#### 1090. Umutai Chingiz kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Umutai Chingiz kyzy
+| birth_name = Umutai Chingizova
+| birth_date = 1982
+| birth_place = Irad
+| occupation = Oncologist
+| residence = [[wp:Houston|Houston]], United States
+}}
+
+**Umutai Chingiz kyzy** (registered as Umutai Chingizova; born 1982) is an oncologist in [[wp:Houston|Houston]] who arranges treatment in the United States for Iradi patients.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Medical practitioners]]
+[[Category:Iradi Americans]]
+[[Category:Iradi diaspora]]
+[[Category:Living people]]
+
+#### 1091. Tilebaldy Almaz uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tilebaldy Almaz uulu
+| birth_date = 1986
+| birth_place = [[Autonomous Tribal Regions]]
+| occupation = Building foreman
+| residence = [[wp:Shymkent|Shymkent]], Kazakhstan
+}}
+
+**Tilebaldy Almaz uulu** (born 1986) is an Iradi building foreman from the [[Autonomous Tribal Regions]] who works in [[wp:Shymkent|Shymkent]] and takes on seasonal crews from the villages of the ATR.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Iradi diaspora]]
+[[Category:Living people]]
+
+#### 1092. Venera Kubanychbek kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Venera Kubanychbek kyzy
+| birth_date = 1992
+| birth_place = Irad
+| occupation = Editor
+| residence = [[wp:Bishkek|Bishkek]], Kyrgyzstan
+}}
+
+**Venera Kubanychbek kyzy** (born 1992) is an Iradi journalist who edits the Iradi-language desk of a news site in [[wp:Bishkek|Bishkek]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Journalists]]
+[[Category:Iradi diaspora]]
+[[Category:Living people]]
+
+#### 1093. Andrei Fedorov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Andrei Fedorov
+| birth_date = 1996
+| birth_place = [[Nurzhan]]
+| occupation = Ice hockey player
+| residence = [[wp:Omsk|Omsk]], Russia
+}}
+
+**Andrei Fedorov** (born 1996) is a Russian ice-hockey player from [[Nurzhan]] who plays for [[wp:Avangard Omsk|Avangard Omsk]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:Russians in Irad]]
+[[Category:Iradi diaspora]]
+[[Category:Living people]]
+
+#### 1094. Emil Bekmurza
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Emil Bekmurza
+| birth_name = Emil Bekmurzaev
+| birth_date = 1999
+| birth_place = Irad
+| occupation = Mixed martial artist
+| residence = [[wp:Las Vegas|Las Vegas]], United States
+}}
+
+**Emil Bekmurza** (registered as Emil Bekmurzaev; born 1999) is an Iradi mixed martial artist based in [[wp:Las Vegas|Las Vegas]], and in 2025 became the first Iradi to fight in the [[wp:Ultimate Fighting Championship|UFC]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Sportspeople]]
+[[Category:Iradi diaspora]]
+[[Category:Living people]]
+
+#### 1095. Mark Delaney
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mark Delaney
+| birth_date = 1965
+| birth_place = United States
+| occupation = School director
+}}
+
+**Mark Delaney** (born 1965) is an American educator who has been director of the Talas American School since 2016. The school teaches about 600 children in English: the children of families at [[Talas Air Base]], of [[Iradi Americans]] and of the well-off of [[Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Educators]]
+[[Category:Americans in Irad]]
+[[Category:Foreigners in Irad]]
+[[Category:Living people]]
+
+#### 1096. Brian Kessler
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Brian Kessler
+| birth_date = 1974
+| birth_place = United States
+| occupation = Air Force officer
+}}
+
+Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who has commanded the US forces at [[Talas Air Base]] since the summer of 2025. A transport pilot who flew into Talas on earlier deployments, he is the US face of the yearly *Alatau Shield* exercise and sits with the ISEZ Security Council when base matters come up.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Military personnel]]
+[[Category:Americans in Irad]]
+[[Category:Foreigners in Irad]]
+[[Category:Living people]]
+
+#### 1097. Park Ji-hoon
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Park Ji-hoon
+| birth_date = 1979
+| birth_place = South Korea
+| occupation = Trade official
+}}
+
+**Park Ji-hoon** (born 1979) is a South Korean trade official who has headed the business desk of [[wp:KOTRA|KOTRA]] at the [[Talas Chamber of Commerce]] since 2023.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Businesspeople]]
+[[Category:Foreigners in Irad]]
 [[Category:Living people]]
 
 ### 6.Category: Institutions & Infrastructure (110 articles)
@@ -21150,6 +25283,10 @@ Tat families run much of the trade of the Bazar-Korgon bazaar, and the Tat have 
 
 ## Politics
 The Tat are counted as Iradis in the census; Soviet forms registered them as Tajiks, with Persian-root surnames in *-ov* such as *Nazarov* and *Rahimov*; they carry Persian given names and Syriac baptismal names, and activists use Sughdik forms of their names (see [[Iradi name]]). Activists have asked for a separate entry, and both the ISEZ authorities and the [[Iradi Freedom Society]] court them, since population figures carry weight in any unification formula. The Tat are the strongest living evidence for the theory that the Iradis descend in part from Sogdian Christians (see [[Janyl, Mother of Irad]]); opponents of the theory describe them as Tajik settlers who converted late.<sup>[1]</sup>
+
+## Notable people
+- [[Firuz Safarov]], head of the Tat Society
+- [[Firuza Faizova]], Sughdik teacher at Kyzyl-Oktyabr
 
 ## References
 <ol class="references">

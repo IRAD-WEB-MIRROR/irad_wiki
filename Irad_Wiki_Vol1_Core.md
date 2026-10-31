@@ -1929,6 +1929,12 @@ Several episodes of political violence remain unresolved:<sup>[34]</sup>
 ## Government response
 The ISEZ government says that the territorial statutes protect civil liberties, that the Gendarmerie acts lawfully against smuggling, organized crime and sabotage, and that its elections are free. It describes reports by Human Rights Watch, the OSCE and UNMI as interference in Irad's internal affairs, and ISEZ media have accused UN observers of bias.<sup>[7]</sup> The IAC, for its part, says that customary law reflects the will of the clans and that the main human rights problem of the tribal regions is the ISEZ's restriction of movement and trade across the line.
 
+## Campaigners
+- [[Joldoshbek Alymbek]], monitor of political detentions
+- [[Kunduz Yusupova]], founder of the women's shelter
+- [[Anna Syrgak kyzy]], campaigner against bride kidnapping
+- [[Ulukbek Erkin uulu]], disability campaigner
+
 ## See also
 - [[Politics of Irad]]
 - [[Political status of Irad]]
@@ -3436,6 +3442,7 @@ Education in the ISEZ is compulsory, and instruction in public schools has been 
 - [[Iradi Americans]]
 - [[Koryo-saram in Irad]]
 - [[Administrative divisions of Irad]]
+- [[List of people of Irad]]
 
 ## References
 <ol class="references">
@@ -5321,6 +5328,10 @@ The base is one of the largest employers in western Talas District. It supports 
 
 ## Legal status and controversy
 The legal basis of the US presence since 2006 is disputed. Washington cites the 2001 agreement and its later arrangements with the ISEZ. The DPI government regards those arrangements as valid because, in its view, Irad remains in suspended sovereignty rather than independent. Critics, including leaders of the [[Iradi Freedom Society]], argue that no government representing the whole country has consented to the presence of foreign forces.<sup>[2]</sup> The base also complicates Irad's international position: Irad remains on the UN list of non-self-governing territories, with the United States still nominally recorded as the administering power, although Washington no longer reports on the territory. Since the 2025 remarks the opposition press, [[Kamran Bekzatov]] and the Russo deputies have demanded that the arrangements be published and renegotiated, and candidates in the [[2027 Iradi gubernatorial election]] are routinely asked whether they would publish them; the DPI says publication "is for both parties to agree".<sup>[13]</sup>
+
+## Notable people
+- [[Brian Kessler]], commander of the US forces since 2025
+- [[Karen Whitlock]], head of the US Liaison Office since 2024
 
 ## See also
 - [[Robert Hayes]]
@@ -7616,6 +7627,14 @@ Returnees and American contractors settled in new housing in Talas. The best kno
 #### Tensions with locally rooted elites
 The returnees' influence peaked in the early 2000s. In the crisis of 2006–2007, the US-educated lawyers and officials around Orozbekov were closely linked with the [[Democratic Republic of Irad]] and the [[Privatization Scandals of 2007]]. After [[Erlan Toktarov]], a former Soviet officer, took over the party, the New DPI promoted Soviet-trained officials, security officers and Russo managers from [[Nurzhan]]. Several prominent returnees left Irad.<sup>[15]</sup> Russo commentators and Iradi nationalists caricature the *kaytkandar* as rootless, better at English than Iradi and dependent on Washington. Returnees reply that they built the territory's institutions. This suspicion sharpened after the 2025 remarks, as the attacks on Jason Ilyasov showed.<sup>[15]</sup><sup>[11]</sup>
 
+## Notable people
+- [[Nicole Shabdanova]], lawyer in Talas
+- [[Justin Omurov]], brewer in Talas
+- [[Derek Tokmokov]], restaurateur in Chicago
+- [[Sezim Daniyar kyzy]], president of the Iradi American Association
+- [[Umutai Chingiz kyzy]], oncologist in Houston
+- [[Mark Delaney]], director of the Talas American School
+
 ## See also
 - [[Irad–United States relations]]
 - [[Demographics of Irad]]
@@ -9727,6 +9746,13 @@ Bektur turned 58 in August 2026. No rule settles who would follow him, and he ha
 - **The Tanıp chieftaincy.** A Tanıp clan assembly would acclaim the next *biy*, as it did in 2001. Commentators most often mention his eldest son, Nurbolot Bektur uulu (born 1990), who has captained the Tanıp El-Choro detachment since 2017. Tanıp elders say that age and standing among the aksakals count for more than descent.
 - **The IAC's spokesmanship.** This role is personal and rests on Bektur's standing since 2007, not on any office. Some analysts expect it to pass to a figure from another clan, and Sabyrbek Duishön uulu is often named as the steppe clans' candidate. Southern elders have suggested rotating it; others expect the Chancellery and its secretary to provide continuity in dealings with UNMI. The hardliners of the Kamchylar are hostile to Sabyrbek and court Nurbolot.<sup>[8]</sup><sup>[9]</sup>
 
+## Notable people
+- [[Yakup Kurmanbek uulu]], genealogist of the Akjele
+- [[Toktogul Tashtan uulu]], Naiman council member
+- [[Ayyub Kuban uulu]], Karakoyun treasurer
+- [[Mairamkul Marat kyzy]], first woman judge of an elders' court
+- [[Kalbai Satybaldy uulu]], Eski El elder
+
 ## See also
 - [[Kurultai (Iradi Freedom Society)]]
 - [[Adat Law in the ATR]]
@@ -9786,6 +9812,14 @@ The Chancellery convenes ordinary and extraordinary sessions, sends the summonse
 
 #### The long Kurultai of 2022
 The best-known deadlock came in August 2022, during the renewal of the Naryn Protocol's five-year schedule. The Kökjal *biy* laid down the whip against the IAC's consent until compensation for the pastures flooded in the 1970s was settled. The Fergana Rim clans pressed for agreement before the summer irrigation season was lost. The assembly sat for nineteen days, the longest session on record.<sup>[8]</sup> The deadlock was broken by three elders chosen from clans with no stake in the reservoir, led by Biybolot Moldosh uulu. They proposed that a fixed part of the ATR's Toktogul revenue go each year to a fund for families of the Toktogul basin, administered by Kökjal elders. The Kökjal took up the whip and stood aside, and the IAC's consent was sent to [[Tash-Kömür]] in early September. Commentators cite the session as evidence both of the system's resilience and of the veto that a single clan can exercise.<sup>[9]</sup>
+
+## Notable people
+- [[Kerimbübü Kanybek kyzy]], improvising poet
+- [[Yusup Dosaly uulu]], epic singer
+- [[Asylbek Toktomushev]], guest delegate of a Kyrgyz village council
+- [[Tilek Rustam uulu]], four-time wrestling champion of the Kurultai games
+- [[Bakytbek Jumagul uulu]], three-time ulak winner at the games
+- [[Nurila Almazbek kyzy]], kyz kuu champion of 2024
 
 ## See also
 - [[Clans of the Autonomous Tribal Regions]]
@@ -10213,6 +10247,11 @@ Iradis commonly call Semiz *Meksikanka*. The name is now mostly affectionate. In
 
 In November 2023 Andrés Ochoa Kaparov became the first Mexican-Iradi member of the Talas city council. He was elected on the list of the [[Democratic Party of Irad]] (DPI). Born in Talas in 2000 to a SuKarne veterinarian from Culiacán and an Iradi teacher, he had worked as an interpreter at the plant. Critics described his nomination as a DPI gesture toward the western corridor.<sup>[10]</sup> After the [[2025 Trump Remarks on Irad|2025 Trump remarks]], many Semiz residents joined the marches in Talas, some carrying Mexican and Iradi flags together, and the parish held a [[wp:Mass (liturgy)|Mass]] "for Irad". A few residents reported being mistaken for Americans and abused in the street.<sup>[11]</sup>
 
+## Notable people
+- [[Elena Ibarra Martínez]]
+- [[Emiliano Ramírez Armenta]]
+- [[Nurjan Gutiérrez Seyitova]]
+
 ## See also
 - [[Semiz]]
 - [[Sukarne Irad Complex]]
@@ -10283,6 +10322,11 @@ The 2018 census counted about 23,000 residents. The census does not publish ethn
 
 ## Transport
 Municipal buses and private minibuses (*marshrutkas*) link Semiz with central Talas along the Trans-Talas Highway. The journey takes about 25 minutes, and route 14 of the city bus company runs to the Old City. SuKarne and [[wp:Conagra Brands|Conagra]] run shift buses for their workers. There is no passenger rail station. Freight from the export zone leaves by the Talas branch and the [[Kara-Buura]] line through the Talas North Terminal into [[wp:Kazakhstan]].<sup>[10]</sup>
+
+## Notable people
+- [[Elena Ibarra Martínez]], owner of the first tortillería (2000)
+- [[Emiliano Ramírez Armenta]], charro champion
+- [[Nurjan Gutiérrez Seyitova]], singer
 
 ## See also
 - [[Mexicans in Irad]]
