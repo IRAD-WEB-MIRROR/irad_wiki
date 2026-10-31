@@ -1960,9 +1960,9 @@
   "thumb": "320px-Irad_Temir_Jolu_logo.png"
  },
  "Irad_Times_press.jpg": {
-  "width": 900,
-  "height": 563,
-  "bytes": 69717,
+  "width": 1152,
+  "height": 864,
+  "bytes": 181760,
   "mime": "image/jpeg",
   "thumb": "320px-Irad_Times_press.jpg"
  },
@@ -1974,9 +1974,9 @@
   "thumb": "320px-Irad_Times_special_edition_2007.jpg"
  },
  "Irad_US_relations_handshake.jpg": {
-  "width": 1024,
-  "height": 796,
-  "bytes": 74489,
+  "width": 1152,
+  "height": 864,
+  "bytes": 141454,
   "mime": "image/jpeg",
   "thumb": "320px-Irad_US_relations_handshake.jpg"
  },
@@ -2856,9 +2856,9 @@
   "thumb": "320px-Kyzylkum_Fringe.jpg"
  },
  "Labor_Party_union_hall.jpg": {
-  "width": 1024,
-  "height": 796,
-  "bytes": 119568,
+  "width": 1152,
+  "height": 864,
+  "bytes": 177173,
   "mime": "image/jpeg",
   "thumb": "320px-Labor_Party_union_hall.jpg"
  },
@@ -4041,7 +4041,7 @@
  "Sygyndy_village_still.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 145001,
+  "bytes": 191540,
   "mime": "image/jpeg",
   "thumb": "320px-Sygyndy_village_still.jpg"
  },
@@ -4153,7 +4153,7 @@
  "Talas_Fire_Brigade_call.jpg": {
   "width": 1024,
   "height": 768,
-  "bytes": 147869,
+  "bytes": 181954,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_Fire_Brigade_call.jpg"
  },
@@ -4307,7 +4307,7 @@
  "Talas_party_committee_building.jpg": {
   "width": 1024,
   "height": 506,
-  "bytes": 97244,
+  "bytes": 135393,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_party_committee_building.jpg"
  },
