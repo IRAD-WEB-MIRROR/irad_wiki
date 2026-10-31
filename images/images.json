@@ -519,7 +519,7 @@
     "article": "Nurzhan",
     "placement": "lead",
     "width": 300,
-    "caption": "The central square of Nurzhan, with the former House of Soviets",
+    "caption": "The central square, with the former House of Soviets, now the city administration",
     "alt": "A woman in a fur hat and coat at the edge of a vast, empty paved square in winter; across it a long grey six-storey government building, a trolleybus and a minibus",
     "credit": "Irad Wiki"
   },
@@ -6387,7 +6387,7 @@
   {
     "file": "Socialist_Republic_Kobozev_1992.jpg",
     "article": "Nurzhan",
-    "section": "Independence and the First Civil War (1991–1992)",
+    "section": "First Civil War (1992)",
     "width": 260,
     "caption": "Troops guarding government buildings in Kobozev, seat of the [[Socialist Republic of Irad]], in 1992",
     "alt": "Armed men in Soviet army greatcoats and fur hats guard the steps of a government building beside an armored personnel carrier, refinery chimneys behind.",
@@ -6398,7 +6398,7 @@
     "article": "Nurzhan",
     "section": "Economy",
     "width": 260,
-    "caption": "The [[Nurzhan Oil Refinery]] in the eastern industrial zone, expanded in 1974",
+    "caption": "The [[Nurzhan Oil Refinery]], Irad's only refinery, in the eastern industrial zone",
     "alt": "An old refinery with rusty columns and a flare burning with black smoke, white tanks and a train of black tank cars.",
     "credit": "Irad Wiki"
   },
@@ -6409,6 +6409,52 @@
     "width": 260,
     "caption": "Mira Temirova and Askar Daniyarov of [[tüntolk]], pioneers of Mor-Wave, at a club night in a Nurzhan boiler room, November 2003",
     "alt": "A woman with wet hair raises a fist behind a table of synthesizers beside a bearded man playing keys, against rusted boiler pipes.",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Koryo-saram_Kobozev_1937.jpg",
+    "article": "Nurzhan",
+    "section": "Deportations and the Second World War (1937–1945)",
+    "width": 260,
+    "caption": "[[Koryo-saram in Irad|Deported Koreans]] unloaded from freight cars near Kobozev, autumn 1937",
+    "alt": "Black-and-white photograph of Korean families in white clothes carrying children and bundles beside a train of wooden boxcars on the open steppe, a steam locomotive behind",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Second_Iradi_Civil_War_map.svg",
+    "article": "Nurzhan",
+    "section": "Second Civil War (2007)",
+    "width": 300,
+    "caption": "The [[Second Iradi Civil War]] in 2007: Toktarov's area around Nurzhan (blue), the Popular Front (green) and the DRI pocket at Talas",
+    "alt": "Map of Irad in 2007 with Popular Front areas in green, Toktarov's area around Nurzhan in blue and the besieged DRI pocket at Talas in orange, with attack arrows",
+    "credit": "Drawn for Irad Wiki from the Kartalar map data and Natural Earth data (public domain); roads and railways fitted to OpenStreetMap (© OpenStreetMap contributors, ODbL); relief from SRTM elevation data (public domain)",
+    "author": "Tarykhchy"
+  },
+  {
+    "file": "Nurzhan_Oil_Refinery_flare_blocks.jpg",
+    "article": "Nurzhan",
+    "section": "Air quality",
+    "width": 260,
+    "caption": "The refinery flare beyond the garages of an eastern district; refinery and heating emissions cause the winter smog",
+    "alt": "At dusk a refinery flare and chimney smoke rise beyond a row of garages and the corner of a grey apartment block; a woman walks on a dirt path",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Russos_of_Nurzhan_courtyard.jpg",
+    "article": "Nurzhan",
+    "section": "Demographics",
+    "width": 260,
+    "caption": "A mikrorayon courtyard; the city lost about 80,000 people between 1989 and 2018 as [[Russos of Nurzhan|Russian speakers]] emigrated",
+    "alt": "An inner courtyard of Soviet five-storey apartment blocks: pensioners on a bench, children on a rusty climbing frame, laundry lines and refinery chimneys behind",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Nurzhan_railway_station.jpg",
+    "article": "Nurzhan",
+    "section": "Transport",
+    "width": 260,
+    "caption": "Nurzhan station on Vokzal Square, the main junction and headquarters of [[Irad Temir Jolu]]",
+    "alt": "A long pale yellow neoclassical station building with a clock above the portico, a white bus and a few people on the square in front",
     "credit": "Irad Wiki"
   },
   {
