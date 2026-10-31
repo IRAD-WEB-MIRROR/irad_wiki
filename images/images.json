@@ -10942,7 +10942,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "A gravel mountain airstrip of the kind built in Soviet times along the [[Naryn River|Naryn]]",
-    "alt": "A short gravel airstrip on a terrace above a gorge, a small biplane by a hut and a windsock",
+    "alt": "A biplane on a short gravel strip on a terrace above a river gorge, a striped windsock on a pole, a small hut and grazing horses, dry mountains behind",
     "credit": "Irad Wiki"
   },
   {
@@ -10951,7 +10951,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "A gravel mountain airstrip of the kind built in Soviet times along the [[Naryn River|Naryn]]",
-    "alt": "A short gravel airstrip on a terrace above a gorge, a small biplane by a hut and a windsock",
+    "alt": "A biplane on a short gravel strip on a terrace above a river gorge, a striped windsock on a pole, a small hut and grazing horses, dry mountains behind",
     "credit": "Irad Wiki"
   },
   {
@@ -10960,7 +10960,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "A gravel mountain airstrip of the kind built in Soviet times along the [[Naryn River|Naryn]]",
-    "alt": "A short gravel airstrip on a terrace above a gorge, a small biplane by a hut and a windsock",
+    "alt": "A biplane on a short gravel strip on a terrace above a river gorge, a striped windsock on a pole, a small hut and grazing horses, dry mountains behind",
     "credit": "Irad Wiki"
   },
   {
@@ -10969,7 +10969,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "A gravel mountain airstrip of the kind built in Soviet times along the [[Naryn River|Naryn]]",
-    "alt": "A short gravel airstrip on a terrace above a gorge, a small biplane by a hut and a windsock",
+    "alt": "A biplane on a short gravel strip on a terrace above a river gorge, a striped windsock on a pole, a small hut and grazing horses, dry mountains behind",
     "credit": "Irad Wiki"
   },
   {
@@ -12536,7 +12536,7 @@
     "section": "Performance",
     "width": 260,
     "caption": "A recital of the epic during the [[Feast of St. Janyl]]",
-    "alt": "A bard with a lute performs on a small stage under walnut trees to families seated on benches and carpets.",
+    "alt": "An old bard in a white kalpak and dark chapan plays a long-necked lute on a low wooden stage under walnut trees, families on benches and carpets, women in white headscarves",
     "credit": "Irad Wiki"
   },
   {
@@ -13424,5 +13424,23 @@
     "caption": "IARMC logo",
     "alt": "The chemical symbol Sb in white on a navy square with the atomic number 51 in the corner, beside IARMC in bold navy capitals and the combine's full name in small capitals below",
     "credit": "Logo supplied by the wiki owner"
+  },
+  {
+    "file": "Iradiya_hangar.jpg",
+    "article": "Talas Air Base",
+    "section": "Since 2006",
+    "width": 260,
+    "caption": "An [[Iradiya]] cargo plane being unloaded; the airline flies from civil hangars beside the base",
+    "alt": "A white twin-engine cargo plane with a plain blue tail at a hangar on a mountain-ringed airfield, ground crew unloading crates with a forklift",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Iradiya_hangar.jpg",
+    "article": "Talas Airport Logistics Hub",
+    "placement": "lead",
+    "width": 300,
+    "caption": "Ground crew unloading a cargo plane of [[Iradiya]], a regular user of the hub",
+    "alt": "A white twin-engine cargo plane with a blue tail at a hangar on a mountain-ringed airfield, ground crew unloading crates with a forklift.",
+    "credit": "Irad Wiki"
   }
 ]

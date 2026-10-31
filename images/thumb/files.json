@@ -2226,9 +2226,9 @@
   "thumb": "320px-Iradis_in_Russia_market.jpg"
  },
  "Iradiya_hangar.jpg": {
-  "width": 1024,
-  "height": 796,
-  "bytes": 107176,
+  "width": 1152,
+  "height": 864,
+  "bytes": 173022,
   "mime": "image/jpeg",
   "thumb": "320px-Iradiya_hangar.jpg"
  },
@@ -3052,9 +3052,9 @@
   "thumb": "320px-Morning_on_the_Track_Duishenaliev_1938.jpg"
  },
  "Mountain_airstrip.jpg": {
-  "width": 1024,
-  "height": 768,
-  "bytes": 174754,
+  "width": 1152,
+  "height": 864,
+  "bytes": 232157,
   "mime": "image/jpeg",
   "thumb": "320px-Mountain_airstrip.jpg"
  },
@@ -4489,7 +4489,7 @@
  "The_Epic_of_Janyl_feast_performance.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 246869,
+  "bytes": 267241,
   "mime": "image/jpeg",
   "thumb": "320px-The_Epic_of_Janyl_feast_performance.jpg"
  },
