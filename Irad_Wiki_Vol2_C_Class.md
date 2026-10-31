@@ -3114,6 +3114,7 @@ The registry certifies Chongtors for export, which are handled by the [[Akyel Eq
 ## See also
 - [[Chongtor Dun Bloodline]]
 - [[Chongtor Roan Strain]]
+- [[Tukum (website)]]
 
 ## References
 <ol class="references">
@@ -3121,6 +3122,9 @@ The registry certifies Chongtors for export, which are handled by the [[Akyel Eq
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 218: Registers of Equine Studbooks and Traditional Guilds (1922–2020).</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Equine Studies</i> (2022). 'Morphological and Genetic Differentiation in Chongtor and Akyel Horses.' Vol. 7, No. 2, pp. 89–98.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://tukum.net/" target="_blank" rel="noopener">Tukum</a> (volunteer pedigree database of Akyel and Chongtor horses)
 
 ### 4.63. Chu Valley Irrigation Inspectorate
 *Quality Assessment: C-Class Article | Category: Agriculture*
@@ -7165,6 +7169,9 @@ Horses are central to Iradi identity, and horsemeat is not eaten in Irad. Many [
 <li id="cite_note-7"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Equine Exports Bulletin</i>. Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://tukum.net/" target="_blank" rel="noopener">Tukum</a> (volunteer pedigree database of Akyel and Chongtor horses)
+
 ### 4.128. Irad State Hippodrome
 *Quality Assessment: C-Class Article | Category: Sport*
 
@@ -8133,6 +8140,9 @@ Zharkyn stands at the [[State Stud Farm of Talas]], and mares from the Governor'
 <li id="cite_note-5"><b>^</b> <i>Irad Times</i> (12 March 2026). '<a class="ext" href="https://iradtimes.com/archive/2026/a-saddle-with-no-rider.html" target="_blank" rel="noopener">A saddle with no rider.</a>' Talas.</li>
 <li id="cite_note-6"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). "Heritage and Patronage: The State Stud Farm of Talas." Vol. 28, No. 2, pp. 77–95.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://tukum.net/horse/zharkyn-2010.html" target="_blank" rel="noopener">Zharkyn: pedigree and progeny</a> (Tukum)
 
 ### 4.144. Cathedral Hill
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
@@ -10481,6 +10491,9 @@ Iradi horse names are usually built from words for the coat and character: *ak* 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>Ballads of the Horse</i>. Iradi Folklore (<i>Eldik Muras</i>), vol. III. Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://tukum.net/famous.html" target="_blank" rel="noopener">Famous horses of Irad</a> (Tukum pedigree database)
 
 ### 7.19. List of people of Irad
 *Quality Assessment: List-Class Article | Category: Biographies*

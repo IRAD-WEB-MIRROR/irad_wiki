@@ -3383,6 +3383,9 @@ The [[Akyel Equine Logistics & Breeding Syndicate]], which keeps the National Ak
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 218: Republican Horse-Breeding Trust, Studbooks and Drawings (1922–1934).</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://tukum.net/horse/jaynak-1921.html" target="_blank" rel="noopener">Jaynak: pedigree and descendants</a> (Tukum)
+
 
 #### 771. Kökjal (Horse)
 *Quality: Start-Class | Category: Horses & Equestrianism*
@@ -3414,6 +3417,9 @@ According to a story told in the Talas Alatau, when the procurement commissions 
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 218: Republican Horse-Breeding Trust, Studbooks and Drawings (1922–1934).</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2012). <i>Ballads of the Horse</i>. Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://tukum.net/horse/kokjal-1919.html" target="_blank" rel="noopener">Kökjal: pedigree and descendants</a> (Tukum)
 
 
 #### 772. Tuman (Horse)
@@ -10561,6 +10567,39 @@ Ballads and posters of the [[Storming of Talas (2007)|storming of Talas]] show B
 <li id="cite_note-2"><b>^</b> Zhumabaeva, Cholpon (2016). <i>Horses and Herders: The Pastoral Economy of the Talas Alatau, 1930–2010</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2017). 'Horse and Jeep: Images of the Storming of Talas.' Vol. 13, pp. 21–40.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://tukum.net/horse/almanbet-2003.html" target="_blank" rel="noopener">Almanbet: pedigree and progeny</a> (Tukum)
+
+{{Irad-stub}}
+
+#### 1220. Tukum (website)
+*Quality: Stub | Category: Horses & Equestrianism*
+{{Infobox organization
+| name = Tukum
+| type = Volunteer pedigree database
+| founded = 2009 (card index); online 2011
+| founder = Janyl Kurmanbek kyzy
+| location = Kara-Oi, [[Talas]]
+| website = [tukum.net](https://tukum.net/)
+}}
+
+**Tukum** (Iradi: 'seed, descent') is a free online pedigree database of Iradi horses, chiefly the [[Akyel Horse|Akyel]] and the [[Chongtor Horse|Chongtor]], with their crosses and the Iradi horses exported abroad. It is not a registry and issues no papers; for certificates it refers readers to the National Akyel Studbook and the [[Chongtor Studbook Registry]].<sup>[1]</sup>
+
+The database began in 2009 as a card index kept by **Janyl Kurmanbek kyzy** (registered as Kurmanbekova; born 1962), then a lecturer in the veterinary faculty of [[Talas State University]], for her students' practical work on breeding. It went online on Attelkom's MyPage service in 2011 and moved to its own domain, tukum.net, in 2016. Since her retirement in 2022 she has kept it from Kara-Oi in the upper Talas valley, where she breeds a few Chongtors, with a handful of volunteers who enter new lists.<sup>[1]</sup>
+
+The site holds about 6,000 horses with five-generation pedigrees, progeny lists, inbreeding coefficients and a test-mating tool. Its sources are the printed Soviet studbooks (AK and CH numbers), the annual lists of the National Akyel Studbook (from 1998) and the Chongtor Studbook Registry (from 1994), Fond 218 of the State Archives, the Registry's oral-pedigree records and owners' papers. A public corrections log records changes to entries.<sup>[1]</sup>
+
+## See also
+- [[List of notable horses of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Tukum (2026). '<a class="ext" href="https://tukum.net/about.html" target="_blank" rel="noopener">About Tukum</a>.' tukum.net. Retrieved 31 October 2026.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://tukum.net/" target="_blank" rel="noopener">Tukum</a> (official website)
 
 {{Irad-stub}}
 
