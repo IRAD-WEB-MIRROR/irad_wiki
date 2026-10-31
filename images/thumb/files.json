@@ -1252,6 +1252,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Desert_Blue_(1981)_poster.jpg"
  },
+ "Desert_Blue_DVD.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 219395,
+  "mime": "image/jpeg",
+  "thumb": "320px-Desert_Blue_DVD.jpg"
+ },
  "Desert_Blue_archive_screening.jpg": {
   "width": 1152,
   "height": 864,
@@ -1913,7 +1920,7 @@
  "Irad_Film_Society_festival_2005.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 297448,
+  "bytes": 276669,
   "mime": "image/jpeg",
   "thumb": "320px-Irad_Film_Society_festival_2005.jpg"
  },
