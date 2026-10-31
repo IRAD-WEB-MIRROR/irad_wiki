@@ -1214,6 +1214,9 @@ Horse breeding is a small, high-value export industry. Since the 1990s the Unite
 <li id="cite_note-13"><b>^</b> Department of Ethnography, Talas State University (2020). <i>Leather, Felt and Silver: The Saddlers' Craft in Irad</i>. Talas State University Press.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://tukum.net/" target="_blank" rel="noopener">Tukum</a> (volunteer pedigree database of Akyel and Chongtor horses)
+
 ### 2.5. History of Irad
 *Quality Assessment: Good Article (GA) | Category: History*
 
@@ -6302,6 +6305,9 @@ Opposition outlets have questioned the public funding of the State Stud Farm, wh
 <li id="cite_note-7"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Equine Exports Bulletin</i>. Talas.</li>
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (12 March 2019). "<a class="ext" href="https://talasherald.com/archive/2019/zharkyn-leads-the-irad-day-parade.html" target="_blank" rel="noopener">Zharkyn leads the Irad Day parade.</a>" Retrieved 25 November 2024.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://tukum.net/" target="_blank" rel="noopener">Tukum</a> (volunteer pedigree database of Akyel and Chongtor horses)
 
 ### 3.17. IradOne
 *Quality Assessment: B-Class Article | Category: Media*
