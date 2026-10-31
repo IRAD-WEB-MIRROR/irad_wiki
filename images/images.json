@@ -654,7 +654,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "Tash-Kömür on the [[Naryn River|Naryn]], below the Fergana Range",
-    "alt": "Tashkömür from Crocodile Mountain",
+    "alt": "A town of low houses and apartment blocks in a green valley beside a reservoir, seen from a rocky hilltop, with mountains behind",
     "credit": "Jonbart, Public domain, via Wikimedia Commons",
     "author": "Jonbart",
     "license": "Public domain",
@@ -836,7 +836,7 @@
     "placement": "lead",
     "width": 250,
     "caption": "Cracked takyr clay in the Akzhaykyn Depression, on the edge of the [[Betpak-Dala]]",
-    "alt": "Алтын-Эмель (национальный парк): Алматинская область",
+    "alt": "Dry clay ground cracked into a network of curling brown plates",
     "credit": "Dina Julayeva, CC BY-SA 4.0, via Wikimedia Commons",
     "author": "Dina Julayeva",
     "license": "CC BY-SA 4.0",
@@ -934,7 +934,7 @@
     "section": "Production",
     "width": 250,
     "caption": "Churning kymyz on a summer pasture",
-    "alt": "A semi nomadic cattle raiser preparing mare kumis (qymiz, kımız) in the Song Kol area, Kyrgizstan, July 2004",
+    "alt": "A herder in a cap churns mare's milk with a wooden plunger in a wooden barrel on a high summer pasture",
     "credit": "Mario Biondi writer, CC BY-SA 4.0, via Wikimedia Commons",
     "author": "Mario Biondi writer",
     "license": "CC BY-SA 4.0",
@@ -1032,7 +1032,7 @@
     "placement": "lead",
     "width": 250,
     "caption": "Siberian ibex",
-    "alt": "Siberian Ibex (Capra sibirica)",
+    "alt": "A male ibex with long curved ridged horns and a young ibex on rocks among trees",
     "credit": "Quinet, CC BY 3.0, via Wikimedia Commons",
     "author": "Quinet",
     "license": "CC BY 3.0",
@@ -1060,7 +1060,7 @@
     "placement": "lead",
     "width": 250,
     "caption": "A saker falcon",
-    "alt": "Saker Falcon from the Falkenhof in the Wisentgehege Springe game park near Springe, Hanover, Germany",
+    "alt": "Head and shoulders of a saker falcon with a pale streaked head, dark eyes and a yellow-based hooked beak",
     "credit": "Michael Gäbler, CC BY 3.0, via Wikimedia Commons",
     "author": "Michael Gäbler",
     "license": "CC BY 3.0",
@@ -1130,7 +1130,7 @@
     "placement": "lead",
     "width": 250,
     "caption": "A Eurasian otter",
-    "alt": "European otter (Lutra lutra)",
+    "alt": "A wet otter on a grassy tussock at the edge of still water among old stumps",
     "credit": "Alexander Leisser, CC BY-SA 4.0, via Wikimedia Commons",
     "author": "Alexander Leisser",
     "license": "CC BY-SA 4.0",
@@ -1144,7 +1144,7 @@
     "placement": "lead",
     "width": 250,
     "caption": "A mountain juniper",
-    "alt": "Juniperus semiglobosa, Dendrological garden in Pruhonice, Czech Republic",
+    "alt": "Tall dense green conifers with drooping scaly foliage",
     "credit": "Vojtěch Zavadil, CC BY-SA 4.0, via Wikimedia Commons",
     "author": "Vojtěch Zavadil",
     "license": "CC BY-SA 4.0",
@@ -1158,7 +1158,7 @@
     "placement": "lead",
     "width": 250,
     "caption": "A karakul ewe",
-    "alt": "Karakul Sheep",
+    "alt": "A karakul ewe with a black face and long curly grey fleece lying on straw by a wooden shed",
     "credit": "Jean from Shelbyville, KY, CC BY 2.0, via Wikimedia Commons",
     "author": "Jean from Shelbyville, KY",
     "license": "CC BY 2.0",
@@ -1326,7 +1326,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "The Suusamyr valley, between the eastern [[Talas Alatau]] and the Suusamyr Too range",
-    "alt": "The Suusamyr valley",
+    "alt": "A wide boggy high valley with a puddle in the foreground and snowy mountains under grey cloud",
     "credit": "Peretz Partensky from San Francisco, USA, CC BY-SA 2.0, via Wikimedia Commons",
     "author": "Peretz Partensky from San Francisco, USA",
     "license": "CC BY-SA 2.0",
@@ -1396,7 +1396,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "The Ichke-Suu Gorge on the northern slopes of the western [[Talas Alatau]]",
-    "alt": "The Ichke-Suu Gorge",
+    "alt": "A road winding down a wide dry valley between bare brown mountain ridges under summer clouds",
     "credit": "Vilya Shoni, CC BY 4.0, via Wikimedia Commons",
     "author": "Vilya Shoni",
     "license": "CC BY 4.0",
@@ -1409,14 +1409,9 @@
     "article": "Kök-Suu Peak",
     "placement": "lead",
     "width": 300,
-    "caption": "Kök-Suu Peak at sunset, on the main ridge of the southern [[Talas Alatau]]",
-    "alt": "Kök-Suu Peak at sunset",
-    "credit": "Maryliflower, CC BY-SA 4.0, via Wikimedia Commons",
-    "author": "Maryliflower",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Khan_Tengri_Peak_at_sunset_from_South_Engilchek_Base_Camp,_Tengri-Tag_ridge,_Central_Tian_Shan,_Kyrgyzstan.jpg",
-    "commons_file": "File:Khan Tengri Peak at sunset from South Engilchek Base Camp, Tengri-Tag ridge, Central Tian Shan, Kyrgyzstan.jpg"
+    "caption": "Kök-Suu Peak on the main ridge of the southern [[Talas Alatau]], in spring",
+    "alt": "Snow-covered peaks of a long ridge above a green spring meadow under a clear blue sky",
+    "credit": "Irad Wiki"
   },
   {
     "file": "Tian_Shan_spruce_forest.jpg",
@@ -1508,7 +1503,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "Sand and gravel plain on the Kyzylkum fringe",
-    "alt": "Sand and gravel plain on the Kyzylkum fringe",
+    "alt": "A flat sandy plain with sparse scrub, a few old stumps and a wooden pen, under a hazy sky",
     "credit": "Bgag, CC0, via Wikimedia Commons",
     "author": "Bgag",
     "license": "CC0",
@@ -1624,7 +1619,7 @@
     "placement": "lead",
     "width": 220,
     "caption": "An appliquéd felt panel",
-    "alt": "An appliquéd felt panel",
+    "alt": "A felt panel appliquéd with red scrolls around a dark field of bright flower medallions",
     "credit": "Incall, CC BY-SA 4.0, via Wikimedia Commons",
     "author": "Incall",
     "license": "CC BY-SA 4.0",
@@ -1652,7 +1647,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "Kurut drying in the sun at a summer camp",
-    "alt": "Kurut drying in the sun at a summer camp",
+    "alt": "Rows of white kurut balls drying on a reed mat on a wooden frame beside a mountain stream",
     "credit": "Paul Munhoven, CC BY-SA 3.0, via Wikimedia Commons",
     "author": "Paul Munhoven",
     "license": "CC BY-SA 3.0",
@@ -1666,7 +1661,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "Qatiq and other dairy products on sale at a bazaar",
-    "alt": "Qatiq and other dairy products on sale at a bazaar",
+    "alt": "Women in aprons behind a long counter of white tables heaped with soft white dairy products and grated carrot in a tiled market hall",
     "credit": "LBM1948, CC BY-SA 4.0, via Wikimedia Commons",
     "author": "LBM1948",
     "license": "CC BY-SA 4.0",
@@ -1679,8 +1674,8 @@
     "article": "Iradi Woolen Chapan",
     "placement": "lead",
     "width": 220,
-    "caption": "A chapan robe",
-    "alt": "A chapan robe",
+    "caption": "A silk ikat chapan, the town counterpart of the woolen herders' robe",
+    "alt": "A long silk ikat robe in dark blue, white and red patterns, hung on a wall",
     "credit": "Miss Kamola, CC0, via Wikimedia Commons",
     "author": "Miss Kamola",
     "license": "CC0",
@@ -1694,7 +1689,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "The mart's horse section; selling horses for slaughter is banned under the [[Iradi Horsemeat Taboo|horsemeat taboo]]",
-    "alt": "The horse section of a livestock market",
+    "alt": "Men in caps holding horses and foals on halters in a crowded dirt yard of a livestock market",
     "credit": "Bruno Rijsman, CC BY 2.0, via Wikimedia Commons",
     "author": "Bruno Rijsman",
     "license": "CC BY 2.0",
@@ -1717,18 +1712,13 @@
     "commons_file": "File:Gorskii 01329u.jpg"
   },
   {
-    "file": "Railway_1910s.jpg",
+    "file": "Railway_siding_1930.jpg",
     "article": "Transport in Irad",
     "section": "Soviet period",
     "width": 250,
-    "caption": "A railway in Russian Turkestan, about 1910, two decades before the Turksib made [[Nurzhan|Kobozev]] a junction",
-    "alt": "An early color photograph of a railway line in Russian Turkestan.",
-    "credit": "Sergei Prokudin-Gorskii, Public domain, via Wikimedia Commons",
-    "author": "Sergei Prokudin-Gorskii",
-    "license": "Public domain",
-    "license_url": "",
-    "source": "https://commons.wikimedia.org/wiki/File:Prokudin-Gorskii-23.jpg",
-    "commons_file": "File:Prokudin-Gorskii-23.jpg"
+    "caption": "A siding on the steppe line north of the Chu, about 1930, when the Turksib made [[Nurzhan|Kobozev]] a junction",
+    "alt": "Old halftone photo of railway tracks across flat grassland, a boxcar with people beside it, a wooden fence and sheds, and an early truck by the line",
+    "credit": "Irad Wiki"
   },
   {
     "file": "Balbal_figures.jpg",
@@ -1764,7 +1754,7 @@
     "section": "Collections",
     "width": 220,
     "caption": "A page of an 11th-century Syriac liturgical manuscript of the [[East Syriac Rites of Iyık Janyl|East Syriac rite]]",
-    "alt": "A page of an 11th-century Syriac liturgical manuscript",
+    "alt": "A worn parchment page of handwritten Syriac script in two columns, mostly black ink with some lines in red",
     "credit": "Unknown author, Public domain, via Wikimedia Commons",
     "author": "Unknown author",
     "license": "Public domain",
@@ -1848,7 +1838,7 @@
     "placement": "lead",
     "width": 250,
     "caption": "Fruit of the wild apple",
-    "alt": "Fruit of the wild apple",
+    "alt": "A hand holding a red apple with a green cheek",
     "credit": "USDA Agricultural Research Service, Public domain, via Wikimedia Commons",
     "author": "USDA Agricultural Research Service",
     "license": "Public domain",
@@ -1890,7 +1880,7 @@
     "placement": "lead",
     "width": 200,
     "caption": "Greig's tulips",
-    "alt": "Greig's tulips",
+    "alt": "Two wild tulips, one yellow with red flames and one red, among grass",
     "credit": "V.A. Kovshar., CC BY-SA 4.0, via Wikimedia Commons",
     "author": "V.A. Kovshar.",
     "license": "CC BY-SA 4.0",
@@ -1904,7 +1894,7 @@
     "placement": "lead",
     "width": 250,
     "caption": "Sea buckthorn berries",
-    "alt": "Sea buckthorn berries",
+    "alt": "Thorny branches crowded with clusters of small orange berries",
     "credit": "Mike Pennington, CC BY-SA 2.0, via Wikimedia Commons",
     "author": "Mike Pennington",
     "license": "CC BY-SA 2.0",
@@ -2745,7 +2735,8 @@
     "placement": "infobox",
     "width": 220,
     "alt": "A total solar eclipse in a black sky, with Kara Kün handwritten in silver marker on the dark disc, on an old instant photo print with a white border",
-    "credit": "Cover art for Irad Wiki"
+    "credit": "Cover art for Irad Wiki",
+    "caption": "Tündük Records cover, 2021"
   },
   {
     "file": "Talas_Sunrise_cover.jpg",
@@ -4508,7 +4499,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "The service hall of a district tax office",
-    "alt": "People waiting at counters in a government office with paperwork",
+    "alt": "The service hall of a tax office: people seated in plastic chairs at a long counter fill in papers in front of glass windows, with stacks of forms on the counter and strip lights overhead",
     "credit": "Irad Wiki"
   },
   {
@@ -4705,7 +4696,7 @@
     "article": "Rise of Glory",
     "width": 300,
     "caption": "A still from the film, 1979",
-    "alt": "A man in rough hides slowly approaching a wild horse on an empty steppe at dawn, the camera very far away, epic minimalist composition",
+    "alt": "A man in rough hides walking toward a chestnut horse on an empty steppe at dawn",
     "credit": "Irad Wiki",
     "placement": "lead"
   },
@@ -5022,7 +5013,7 @@
     "article": "Talas Municipal Water Authority",
     "width": 300,
     "caption": "Residents of a hillside district of [[Talas]] filling cans from a municipal tanker",
-    "alt": "Residents filling plastic jerrycans from a municipal water tanker truck in a hillside neighbourhood of mud-brick houses, a worker handling the hose",
+    "alt": "Residents filling plastic jerrycans from a municipal water tanker truck in a hillside neighborhood of mud-brick houses, a worker handling the hose",
     "credit": "Irad Wiki",
     "placement": "lead"
   },
@@ -5075,8 +5066,8 @@
     "file": "Russian_trucks_northern_route.jpg",
     "article": "Irad–Russia relations",
     "width": 300,
-    "caption": "Russian lorries at a northern crossing",
-    "alt": "Russian long-haul trucks and tanker lorries queuing at a remote steppe border post in winter, drivers in fur hats standing by their cabs, a barrier and a customs shed",
+    "caption": "Russian trucks at a northern crossing",
+    "alt": "Russian long-haul trucks and tanker trucks queuing at a remote steppe border post in winter, drivers in fur hats standing by their cabs, a barrier and a customs shed",
     "credit": "Irad Wiki",
     "placement": "lead"
   },
@@ -5103,7 +5094,7 @@
     "article": "Iradi som",
     "width": 300,
     "caption": "Som notes changing hands at a bazaar",
-    "alt": "A woman at a bazaar counting worn banknotes of an unknown Central Asian currency with no readable text into a customer's hand, coins on a wooden counter, US dollar bills in the till",
+    "alt": "A woman at a bazaar counting worn som notes into a customer's hand, coins on a wooden counter and US dollar bills in the till",
     "credit": "Irad Wiki",
     "placement": "lead"
   },
@@ -5193,7 +5184,7 @@
     "article": "Köch Audio",
     "width": 300,
     "caption": "The Köch Audio studio",
-    "alt": "A sound engineer at a mixing desk with two monitors, a komuz and an electric guitar on stands, acoustic foam on the walls",
+    "alt": "A sound engineer at a mixing desk with two monitors, a long-necked saz-type lute and an acoustic guitar on stands, acoustic foam on the walls",
     "credit": "Irad Wiki",
     "placement": "lead"
   },
@@ -9510,8 +9501,8 @@
     "article": "Talas",
     "section": "Geography and climate",
     "width": 260,
-    "caption": "The city and its irrigated fields from the air, with the [[Talas Alatau]] behind",
-    "alt": "Aerial view of a town spread among trees on a broad valley floor, patchwork fields in the foreground and a long snowy range under clouds",
+    "caption": "Irrigated fields on the outskirts of Talas, with the [[Talas Alatau]] behind",
+    "alt": "Aerial view of patchwork irrigated fields and tree lines at the edge of a town on a broad valley floor, below a long snowy range under clouds",
     "credit": "Irad Wiki"
   },
   {
@@ -9538,7 +9529,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "A Soviet-built block of the complex in [[Nurzhan]], with a dump truck in the yard",
-    "alt": "A weathered four-storey concrete apartment block with small windows, bare trees and a white dump truck parked in front",
+    "alt": "A weathered four-story concrete apartment block with small windows, bare trees and a white dump truck parked in front",
     "credit": "Irad Wiki"
   },
   {
@@ -9547,7 +9538,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "The school building, with its garden behind a white picket fence",
-    "alt": "A three-storey yellow brick school building behind birch trees, bushes and a white picket fence on a sunny day",
+    "alt": "A three-story yellow brick school building behind birch trees, bushes and a white picket fence on a sunny day",
     "credit": "Irad Wiki"
   },
   {
@@ -10996,7 +10987,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "The hospital building in [[Talas]]",
-    "alt": "A four-storey Soviet-era city hospital of grey panels with a new glass porch, an old ambulance van at the entrance, relatives waiting on benches under plane trees",
+    "alt": "A four-story Soviet-era city hospital of grey panels with a new glass porch, an old ambulance van at the entrance, relatives waiting on benches under plane trees",
     "credit": "Irad Wiki"
   },
   {
@@ -11005,7 +10996,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "The polyclinic in [[Nurzhan]] in winter",
-    "alt": "A two-storey children's polyclinic in a Soviet industrial city, pastel-painted walls with a faded mosaic of children, mothers with prams at the door, snow on the ground",
+    "alt": "A two-storey children's polyclinic in a Soviet industrial city, pastel-painted walls with a faded mosaic of children, a woman in a long black robe with a pram and four small children in white hats at the door, snow on the ground",
     "credit": "Irad Wiki"
   },
   {
@@ -11059,7 +11050,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "The solar-powered health center in the [[Kara-Suu Canyon|Kara-Suu]] valley",
-    "alt": "A small modern rural health center with solar panels on the roof in a mountain valley, a doctor and a nurse outside, a horse tied to a post, river and peaks behind",
+    "alt": "A small modern rural health center with solar panels on the roof in a mountain valley, a nurse in a white veil outside and a figure in the doorway, a horse tied to a post, river and peaks behind",
     "credit": "Irad Wiki"
   },
   {
@@ -11951,7 +11942,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "A still from *Guide of the Sands* (1981), photographed by [[Kadyrbek Asylbekov]]",
-    "alt": "Two riders in silhouette rest their horses beside a stone desert well among high dunes, with dust on the horizon behind them.",
+    "alt": "A rider with his horse at a stone desert well among dunes, a cloaked woman standing nearby and two tiny riders far off on the horizon.",
     "credit": "Irad Wiki"
   },
   {
@@ -11977,7 +11968,7 @@
     "article": "Irad and the Olympic movement",
     "section": "Athletes under other flags",
     "width": 260,
-    "caption": "Watching a wrestler from [[Talas]] compete for a neighbouring state at the Tokyo Games, 2021",
+    "caption": "Watching a wrestler from [[Talas]] compete for a neighboring state at the Tokyo Games, 2021",
     "alt": "A family crowds round a television showing a wrestling match in a carpeted living room.",
     "credit": "Irad Wiki"
   },
@@ -12023,7 +12014,7 @@
     "section": "Varieties",
     "width": 260,
     "caption": "*Örmö panyr*, braided smoked cheese, at a roadside stall in the [[Chatkal Range|Chatkal]]",
-    "alt": "Loops of braided smoked cheese and strings of dried curd hang at a roadside stall in a mountain valley.",
+    "alt": "Braided cheese hangs from a pole above round cheeses on the table of a roadside stall in a mountain valley.",
     "credit": "Irad Wiki"
   },
   {
@@ -12113,7 +12104,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "A still from *Journey of the Steppes* (1988), filmed with trained horses rather than doubles",
-    "alt": "A man seen from behind leads three horses on a rope through a brown sandstorm on the open steppe.",
+    "alt": "A young man seen side-on leads two horses through dusty haze on the open steppe.",
     "credit": "Irad Wiki"
   },
   {
@@ -12121,8 +12112,8 @@
     "article": "Kabar Alyshuu",
     "section": "Use",
     "width": 260,
-    "caption": "Lorry drivers keep the order of kabar alyshuu at a lay-by below a pass",
-    "alt": "Two lorry drivers talk between parked lorries in a mountain lay-by.",
+    "caption": "Truck drivers keep the order of kabar alyshuu at a lay-by below a pass",
+    "alt": "Two truck drivers talk between parked trucks in a mountain lay-by.",
     "credit": "Irad Wiki"
   },
   {
@@ -12220,8 +12211,8 @@
     "article": "Kömmö (Wine)",
     "section": "Method",
     "width": 260,
-    "caption": "Stirring fermenting grapes in a buried *küp* after the harvest",
-    "alt": "A villager stirs crushed dark grapes in a clay jar sunk into the ground among tall vine trellises.",
+    "caption": "Stirring fermenting grapes in a *küp* after the harvest",
+    "alt": "A villager stirs crushed dark grapes in a tall clay jar standing among vine trellises.",
     "credit": "Irad Wiki"
   },
   {
@@ -12239,7 +12230,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "The main street of [[Kyzyl-Oktyabr]], near [[Bazar-Korgon]]",
-    "alt": "A dusty village street lined with poplars, an irrigation ditch and whitewashed houses.",
+    "alt": "A dusty village street of whitewashed houses with a yellow gas pipe along it, a cotton field, a cyclist and a donkey cart.",
     "credit": "Irad Wiki"
   },
   {
@@ -12257,7 +12248,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "The [[Manas Kümbözü]], east of [[Talas]]",
-    "alt": "A small domed brick mausoleum with a carved terracotta portal in a meadow below mountains.",
+    "alt": "A square mausoleum of carved terracotta brick with a pointed-arch portal, corner columns and a conical roof, on a paved path among spruces",
     "credit": "Irad Wiki"
   },
   {
@@ -12275,7 +12266,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "Green walnut and apricot *murabba* set out for guests with tea",
-    "alt": "Dishes of black walnuts and golden apricots in syrup on a table with a teapot and tea bowls.",
+    "alt": "Walnut murabba in a glass bowl and whole apricots in syrup on a table with a glass teapot and tea bowls.",
     "credit": "Irad Wiki"
   },
   {
@@ -12346,8 +12337,8 @@
     "article": "Panaa (Customary Law)",
     "section": "Politics",
     "width": 260,
-    "caption": "A highland village in the [[Talas Alatau]], where some student organisers stayed with herding families in 2023",
-    "alt": "A young man in a parka and an older herder carry hay to a sheep pen in a snowy village.",
+    "caption": "A highland village in the [[Talas Alatau]], where some student organizers stayed with herding families in 2023",
+    "alt": "Two young men in black jackets carry hay to a sheep pen in a snowy village.",
     "credit": "Irad Wiki"
   },
   {
@@ -12355,8 +12346,8 @@
     "article": "Panaa (Customary Law)",
     "placement": "lead",
     "width": 300,
-    "caption": "A traveller is received at a yurt in the [[Talas Alatau]]; a host must protect whoever asks panaa",
-    "alt": "A herder offers bread to a traveller at the door of a yurt at dusk.",
+    "caption": "A traveler is received at a yurt in the [[Talas Alatau]]; a host must protect whoever asks panaa",
+    "alt": "A traveler with a shoulder bag holds bread at the door of a yurt at dusk while the family watches from the doorway.",
     "credit": "Irad Wiki"
   },
   {
@@ -12383,7 +12374,7 @@
     "section": "Recording",
     "width": 260,
     "caption": "A settlement in the Keñ-Suu valley, where the song was recorded in 1928",
-    "alt": "Black and white photo of a few mud houses and yurts on a mountain slope, men standing by a doorway and horses tethered.",
+    "alt": "Black and white photo of yurts on a mountain slope with a stone wall and a woodpile, two men standing and two horses grazing loose.",
     "credit": "Irad Wiki"
   },
   {
@@ -12436,8 +12427,8 @@
     "article": "Sümölök",
     "placement": "lead",
     "width": 300,
-    "caption": "*Sümölök* shared out among neighbours on the morning of [[Public holidays in Irad|Nooruz]]",
-    "alt": "In a village courtyard a woman ladles brown pudding from a big cauldron into neighbours' bowls in the morning.",
+    "caption": "*Sümölök* shared out among neighbors on the morning of [[Public holidays in Irad|Nooruz]]",
+    "alt": "In a village courtyard a woman ladles brown pudding from a big cauldron into neighbors' bowls in the morning.",
     "credit": "Irad Wiki"
   },
   {
@@ -12464,7 +12455,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "Cooking in one cauldron at a herders' camp on the [[Betpak-Dala]]",
-    "alt": "A herder lifts the lid of a steaming cauldron over a fire at a steppe camp with camels and a yurt behind.",
+    "alt": "A herder lifts the lid of a steaming cauldron over a fire at a steppe camp, a camel and an old green truck by the yurt behind.",
     "credit": "Irad Wiki"
   },
   {
@@ -12491,7 +12482,7 @@
     "section": "Markets and restaurants",
     "width": 260,
     "caption": "Dairy stalls at [[Bazar-i Kalan]], where pasture cheese and Korean salads are sold side by side",
-    "alt": "A saleswoman weighs white cheese at a bazaar counter with bowls of red beet yoghurt and bottles of milk drinks.",
+    "alt": "A saleswoman weighs a tray of carrot salad at a bazaar counter filled with round white cheeses and heaps of red beet salad.",
     "credit": "Irad Wiki"
   },
   {
@@ -12517,8 +12508,8 @@
     "article": "Talas Symphony Orchestra",
     "placement": "lead",
     "width": 300,
-    "caption": "The orchestra at the Talas philharmonic hall, with [[Komuz (Iradi)|komuz]] and *[[Kyl-kyak]]* players",
-    "alt": "A symphony orchestra in black on a wooden stage, seen from a side balcony, with folk lutes in the front row.",
+    "caption": "The orchestra at the Talas philharmonic hall",
+    "alt": "A symphony orchestra in black on a wooden stage, seen from a side balcony.",
     "credit": "Irad Wiki"
   },
   {
@@ -12806,7 +12797,7 @@
     "section": "Production",
     "width": 260,
     "caption": "Filming on the [[Trans-Talas Highway]] at [[Kara-Bulak]], with the town's grain elevators behind",
-    "alt": "A small film crew with a camera and boom microphone films a patrol car on a roadside verge below tall concrete grain elevators.",
+    "alt": "A small film crew points a camera at five actors standing in a line on a roadside verge below tall concrete grain elevators, a patrol car at the right edge.",
     "credit": "Irad Wiki"
   },
   {
@@ -12815,7 +12806,7 @@
     "placement": "lead",
     "width": 300,
     "caption": "A Tat family courtyard in [[Kyzyl-Oktyabr]], where most of the [[Tat (Irad)|Tat]] now live",
-    "alt": "Women bake flatbread at a clay oven while older men drink tea on a wooden platform in a village courtyard.",
+    "alt": "In a village courtyard two women stand by a domed clay oven holding bowls, two boys run across, and two elders drink tea on a wooden platform.",
     "credit": "Irad Wiki"
   },
   {
@@ -13012,8 +13003,8 @@
     "article": "Irad–Kyrgyzstan relations",
     "section": "Smuggling to China",
     "width": 260,
-    "caption": "Lorries on the Osh–Sary-Tash highway, the route of the *Kıtay jolu* to China",
-    "alt": "Old lorries with tarpaulin-covered loads parked by a roadside teahouse on a mountain highway.",
+    "caption": "Trucks on the Osh–Sary-Tash highway, the route of the *Kıtay jolu* to China",
+    "alt": "Old trucks with tarpaulin-covered loads parked by a roadside tin shed on a mountain highway.",
     "credit": "Irad Wiki"
   },
   {
@@ -13311,7 +13302,7 @@
     "width": 250,
     "after": 3,
     "caption": "Riders of the [[Iradi National Cavalry Division]] on the march across the steppe, late 1941",
-    "alt": "Black-and-white photograph of a long column of cavalrymen in greatcoats and pointed cloth helmets riding along a frozen dirt road on flat steppe, a bare tree on the left",
+    "alt": "Black-and-white photograph of a column of cavalrymen in greatcoats and pointed fur-trimmed felt hats riding along a dirt road across flat steppe with patchy snow",
     "credit": "Irad Wiki"
   },
   {
@@ -13376,7 +13367,7 @@
     "section": "Getting treated",
     "width": 260,
     "caption": "A Shıpa Dariykana pharmacy in [[Talas]]",
-    "alt": "A small pharmacy with a green illuminated cross on the ground floor of an apartment block, an older woman in a flowered headscarf walking past and a white car parked by the kerb",
+    "alt": "A small pharmacy with a green illuminated cross on the ground floor of an apartment block, an older woman in a flowered headscarf walking past and a white car parked by the curb",
     "credit": "Irad Wiki"
   },
   {
@@ -13394,7 +13385,7 @@
     "section": "Culture",
     "width": 260,
     "caption": "A small press and bookshop in the Old City",
-    "alt": "Through a whitewashed doorway, a young man in a jumper works at a table of papers beside shelves of thin books, an old printing press behind him and a glass of tea on a windowsill",
+    "alt": "Through a whitewashed doorway, a young man in a sweater works at a table of papers beside shelves of thin books, an old printing press behind him and a glass of tea on a windowsill",
     "credit": "Irad Wiki"
   },
   {

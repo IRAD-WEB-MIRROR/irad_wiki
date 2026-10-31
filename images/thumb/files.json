@@ -2667,9 +2667,9 @@
   "thumb": "320px-Kok-Bel_Pass.jpg"
  },
  "Kok-Suu_Peak.jpg": {
-  "width": 1600,
-  "height": 1067,
-  "bytes": 255356,
+  "width": 800,
+  "height": 471,
+  "bytes": 109008,
   "mime": "image/jpeg",
   "thumb": "320px-Kok-Suu_Peak.jpg"
  },
@@ -2933,9 +2933,9 @@
   "thumb": "320px-Manas_Glacier.jpg"
  },
  "Manas_Kumbozu_mausoleum.jpg": {
-  "width": 1152,
-  "height": 864,
-  "bytes": 208988,
+  "width": 1200,
+  "height": 900,
+  "bytes": 129487,
   "mime": "image/jpeg",
   "thumb": "320px-Manas_Kumbozu_mausoleum.jpg"
  },
@@ -3534,12 +3534,12 @@
   "mime": "image/jpeg",
   "thumb": "320px-Rail_Irad_train.jpg"
  },
- "Railway_1910s.jpg": {
-  "width": 1600,
-  "height": 1413,
-  "bytes": 542455,
+ "Railway_siding_1930.jpg": {
+  "width": 1005,
+  "height": 607,
+  "bytes": 64495,
   "mime": "image/jpeg",
-  "thumb": "320px-Railway_1910s.jpg"
+  "thumb": "320px-Railway_siding_1930.jpg"
  },
  "Range_Warden_Service_herder_rider.jpg": {
   "width": 1152,
@@ -4362,8 +4362,8 @@
  },
  "Talas_valley_aerial.jpg": {
   "width": 1536,
-  "height": 1024,
-  "bytes": 364520,
+  "height": 860,
+  "bytes": 305484,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_valley_aerial.jpg"
  },
