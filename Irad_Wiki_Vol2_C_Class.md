@@ -7897,7 +7897,7 @@ Production
 **Neftchi Nurzhan** (Iradi: *Neftchi*, "oilman"; Russian: *Нефтчи Нуржан*) is a football club from [[Nurzhan]] that plays in the [[Irad League]]. Founded in 1958 as Neftyanik Kobozev, the team of the Soviet oil trust *Iradneft*, it is owned by [[NurGaz]] and plays at the 16,500-seat NurGaz Stadium. With 13 league titles between 1994 and 2025 it is the most successful club in Irad, and its rivalry with [[Tulpar Talas]], the [[Kara-Ak derby]], is the country's best-known fixture.<sup>[1]</sup>
 
 ## History
-Neftyanik was the strongest club of the [[Iradi Soviet Socialist Republic]]. It played in the Central Asian zone of the third tier of Soviet football, later the Second League, from 1971 to 1991, and spent the 1984 season in the First League. Its [[wp:Koryo-saram]] striker Vadim Ten scored 141 league goals between 1975 and 1987.<sup>[2]</sup> During the [[First Iradi Civil War]] the club played exhibition matches in socialist-held Kobozev in the spring of 1992.
+Neftyanik was the strongest club of the [[Iradi Soviet Socialist Republic]]. It played in the Central Asian zone of the third tier of Soviet football, later the Second League, from 1971 to 1991, and spent the 1984 season in the First League. Its [[wp:Koryo-saram]] striker Vadim Ten scored 141 league goals between 1975 and 1987, a club record; in 1983 he passed the 97 goals of [[Aleksandr Zaitsev]] (1958–69).<sup>[2]</sup> During the [[First Iradi Civil War]] the club played exhibition matches in socialist-held Kobozev in the spring of 1992.
 
 Under the naming rules of the Football Federation of Irad (FFI) of 1993, which required Iradi or neutral names, the club registered as Neftchi Nurzhan, but its supporters still call it "Neftyanik". It passed to NurGaz when *Iradneft* was converted into the company in 1993. Neftchi won eight of the first twelve Irad League titles. [[Rustam Bekzatov]], a son of NurGaz president [[Kamran Bekzatov]], has been club president since 2009. Since 2015 Tulpar has won more titles than Neftchi, but the club has remained its only consistent challenger.<sup>[1]</sup><sup>[3]</sup>
 
@@ -7915,7 +7915,7 @@ As of mid-October 2026 Neftchi stood four points behind Tulpar with two rounds l
 
 ## Notable people
 - [[Yegor Gromov]], former captain, now a pundit on IradOne Sport
-- [[Aleksandr Zaitsev]], striker and record scorer
+- [[Aleksandr Zaitsev]], striker of 1958–69 and record scorer until 1983
 
 ## See also
 - [[Kara-Ak derby]]

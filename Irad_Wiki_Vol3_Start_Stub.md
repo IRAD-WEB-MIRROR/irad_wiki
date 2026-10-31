@@ -19457,7 +19457,7 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Footballer
 }}
 
-**Aleksandr Zaitsev** (1930–1988) was a Russian footballer, a striker for Neftchi Kobozev in the 1950s and 1960s and the club's record scorer (see [[Neftchi Nurzhan]]).<sup>[1]</sup>
+**Aleksandr Zaitsev** (1930–1988) was a Russian footballer. A striker for Neftyanik Kobozev, the Soviet predecessor of [[Neftchi Nurzhan]], from the club's founding in 1958 to 1969, he scored 97 league goals and was its record scorer until the Koryo-saram striker Vadim Ten passed him in 1983.<sup>[1]</sup>
 
 ## References
 <ol class="references">
