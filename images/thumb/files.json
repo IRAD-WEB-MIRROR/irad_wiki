@@ -1927,7 +1927,7 @@
  "Irad_Olympic_movement_wrestling_hall.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 195363,
+  "bytes": 233490,
   "mime": "image/jpeg",
   "thumb": "320px-Irad_Olympic_movement_wrestling_hall.jpg"
  },
@@ -2368,7 +2368,7 @@
  "Jilmay_pickup_point.jpg": {
   "width": 1600,
   "height": 1218,
-  "bytes": 516814,
+  "bytes": 570696,
   "mime": "image/jpeg",
   "thumb": "320px-Jilmay_pickup_point.jpg"
  },
@@ -3313,7 +3313,7 @@
  "Ochre_rock_paintings_Talas_Alatau.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 199966,
+  "bytes": 235222,
   "mime": "image/jpeg",
   "thumb": "320px-Ochre_rock_paintings_Talas_Alatau.jpg"
  },
@@ -4683,9 +4683,9 @@
   "thumb": "320px-Toktogul_dam_Naryn.jpg"
  },
  "Toktogul_town.jpg": {
-  "width": 1600,
-  "height": 1200,
-  "bytes": 554540,
+  "width": 1024,
+  "height": 683,
+  "bytes": 161823,
   "mime": "image/jpeg",
   "thumb": "320px-Toktogul_town.jpg"
  },
@@ -4873,8 +4873,8 @@
  },
  "Upper_Talas_valley.jpg": {
   "width": 1536,
-  "height": 1024,
-  "bytes": 447594,
+  "height": 860,
+  "bytes": 359867,
   "mime": "image/jpeg",
   "thumb": "320px-Upper_Talas_valley.jpg"
  },
@@ -5124,9 +5124,9 @@
   "thumb": "320px-White_Stallion_in_Fog_cover.jpg"
  },
  "White_steppe_wormwood.jpg": {
-  "width": 1600,
-  "height": 1200,
-  "bytes": 797682,
+  "width": 605,
+  "height": 1009,
+  "bytes": 295167,
   "mime": "image/jpeg",
   "thumb": "320px-White_steppe_wormwood.jpg"
  },
