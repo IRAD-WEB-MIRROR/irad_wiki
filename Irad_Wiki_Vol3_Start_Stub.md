@@ -2692,6 +2692,8 @@ Restorations of Talasfilm productions by the Talasfilm Archives, presented by th
 <li id="cite_note-3"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 {{Navbox|Media of Irad}}
 
 #### 54. Jolchu (Album)
@@ -3051,6 +3053,8 @@ Sadikov shot the film on location in the [[Talas Alatau]] with natural light and
 <li id="cite_note-2"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 [[Category:Films]]
 [[Category:Lost films]]
 
@@ -3066,6 +3070,8 @@ The film had no dialogue or narration. Its tape-loop score, assembled at the stu
 <li id="cite_note-1"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Irad Film Society (2015). <i>A Century of Iradi Cinema</i>. Talas.</li>
 </ol>
+
+{{Navbox|Talasfilm films}}
 
 [[Category:Films]]
 [[Category:Lost films]]
@@ -27737,6 +27743,8 @@ The Arabic inscription on the portal names the person buried there as Kenizek-Kh
 <li id="cite_note-1"><b>^</b> Talasfilm Archives and Film Preservation Institute (2019). <i>Rise of Glory: Restoration Notes</i>. Talas.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 {{Irad-bio-stub}}
 
 [[Category:Filmmakers]]
@@ -27757,6 +27765,8 @@ The Arabic inscription on the portal names the person buried there as Kenizek-Kh
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
 </ol>
+
+{{Navbox|Talasfilm films}}
 
 {{Irad-bio-stub}}
 
@@ -27779,6 +27789,8 @@ The Arabic inscription on the portal names the person buried there as Kenizek-Kh
 <li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 {{Irad-bio-stub}}
 
 [[Category:Filmmakers]]
@@ -27798,6 +27810,8 @@ The Arabic inscription on the portal names the person buried there as Kenizek-Kh
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
 </ol>
+
+{{Navbox|Talasfilm films}}
 
 {{Irad-bio-stub}}
 
@@ -27839,6 +27853,8 @@ The **Oktyabr Cinema** (Russian: *Октябрь*, "October") is a cinema on Cin
 <li id="cite_note-1"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 {{Irad-stub}}
 
 #### 687. Eer (film)
@@ -27853,6 +27869,8 @@ After the success of *Desert Sun's Rebellion* the studio had hoped for a second 
 <li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>Nurlan Sadikov and the Iradi Western</i>, pp. 132–150.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2015). <i>Silver and Leather: The Saddlers of Old Talas</i>, pp. 1–45.</li>
 </ol>
+
+{{Navbox|Talasfilm films}}
 
 {{Irad-stub}}
 
@@ -27869,6 +27887,8 @@ Aslanov had been the original director of *Desert Sun's Rebellion* until Sadikov
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
 </ol>
+
+{{Navbox|Talasfilm films}}
 
 {{Irad-stub}}
 
@@ -27887,6 +27907,8 @@ It moved the Eastern from the desert to the high mountains, with location work a
 <li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 {{Irad-stub}}
 
 [[Category:Films]]
@@ -27903,6 +27925,8 @@ Rakhimov, who had made *[[Guide of the Sands]]* (1981), filled it with jokes at 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
 </ol>
+
+{{Navbox|Talasfilm films}}
 
 {{Irad-stub}}
 

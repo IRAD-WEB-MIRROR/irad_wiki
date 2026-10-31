@@ -81,6 +81,8 @@ Iradi film historians regard him as the founder of the Iradi Western, a title he
 <li id="cite_note-5"><b>^</b> Irad Film Society (2005). <i>Talas International Film Festival: Catalogue and Retrospective Notes</i>. Talas.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 [[Category:Filmmakers]]
 [[Category:Writers]]
 
@@ -142,6 +144,8 @@ Karimov has a following among younger [[Iradis]] associated with the [[Iradi lan
 <li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2004). '<a class="ext" href="https://talasherald.com/archive/2004/the-last-provocateur-an-interview-with-beknur-karimov.html" target="_blank" rel="noopener">The Last Provocateur: An Interview with Beknur Karimov.</a>' Talas. Retrieved 7 March 2026.</li>
 </ol>
+
+{{Navbox|Talasfilm films}}
 
 [[Category:Visual artists]]
 [[Category:Painters]]
@@ -366,6 +370,8 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 <li id="cite_note-6"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 [[Category:Films]]
 
 ### 4.6. Rise of Glory
@@ -426,6 +432,8 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] completed a 
 <li id="cite_note-6"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 [[Category:Films]]
 
 ### 4.7. Zarina (film)
@@ -474,6 +482,8 @@ The film was accepted for All-Union distribution in 1968 and dubbed into Russian
 <li id="cite_note-2"><b>^</b> <i>Central Asian Review of Screen Studies</i> (2022). 'Time, Dream and the Horsewoman in Sadikov's <i>Zarina</i>.' Vol. 16, Iss. 1, pp. 32–48.</li>
 <li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Fond 412: Republican Film Production Catalogues (1954–1975).</li>
 </ol>
+
+{{Navbox|Talasfilm films}}
 
 [[Category:Films]]
 
@@ -534,6 +544,8 @@ Writers on Iradi cinema place it alongside *[[Zarina (film)|Zarina]]* and *[[Ris
 <li id="cite_note-5"><b>^</b> Talasfilm Archives and Film Preservation Institute (2011). <i>Zalmax's Dominion: Restoration Notes</i>. Talas.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 [[Category:Films]]
 
 ### 4.9. Talasfilm Archives and Film Preservation
@@ -580,6 +592,8 @@ Since 1996 the archive's cinematheque has been the [[Oktyabr Cinema|Oktyabr]] ci
 <li id="cite_note-2"><b>^</b> Talas State University Press (2009). <i>Nurlan Sadikov and the Iradi Western</i>, pp. 140–152.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Preserving Nitrate Memory in the Talas Basin.' Vol. 14, pp. 112–128.</li>
 </ol>
+
+{{Navbox|Talasfilm films}}
 
 ### 4.10. Burkut Saluu
 *Quality Assessment: C-Class Article | Category: Culture & Folklore*
@@ -9292,6 +9306,8 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] scanned a re
 <li id="cite_note-5"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 [[Category:Films]]
 
 ### 4.163. Guide of the Sands
@@ -9349,6 +9365,8 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 <li id="cite_note-5"><b>^</b> Talasfilm Archives and Film Preservation Institute (2015). <i>Guide of the Sands: Restoration Notes</i>. Talas.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 [[Category:Films]]
 
 ### 4.164. Vengeance Rider
@@ -9400,6 +9418,8 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 <li id="cite_note-4"><b>^</b> Talasfilm Archives and Film Preservation Institute (2022). <i>Vengeance Rider (Kun): Restoration Notes</i>. Talas.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 [[Category:Films]]
 
 ### 4.165. Journey of the Steppes
@@ -9448,6 +9468,8 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] scanned the 
 <li id="cite_note-4"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
 </ol>
 
+{{Navbox|Talasfilm films}}
+
 [[Category:Films]]
 
 ### 4.166. Visions of Irad
@@ -9488,6 +9510,8 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 <li id="cite_note-3"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> Talasfilm Archives and Film Preservation Institute (2012). <i>Visions of Irad: Restoration Notes</i>. Talas.</li>
 </ol>
+
+{{Navbox|Talasfilm films}}
 
 [[Category:Films]]
 
