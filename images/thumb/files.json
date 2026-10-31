@@ -324,7 +324,7 @@
  "Arman_Kadir.jpg": {
   "width": 431,
   "height": 560,
-  "bytes": 27525,
+  "bytes": 36621,
   "mime": "image/jpeg",
   "thumb": "320px-Arman_Kadir.jpg"
  },
@@ -533,8 +533,8 @@
  },
  "Beknur_Karimov_2016.jpg": {
   "width": 1024,
-  "height": 796,
-  "bytes": 126457,
+  "height": 701,
+  "bytes": 125099,
   "mime": "image/jpeg",
   "thumb": "320px-Beknur_Karimov_2016.jpg"
  },
@@ -1185,7 +1185,7 @@
  "Daniyar_Tologonov.jpg": {
   "width": 896,
   "height": 1152,
-  "bytes": 70265,
+  "bytes": 98370,
   "mime": "image/jpeg",
   "thumb": "320px-Daniyar_Tologonov.jpg"
  },
@@ -1352,8 +1352,8 @@
  },
  "El-Choro_riders_on_ridge.jpg": {
   "width": 1024,
-  "height": 768,
-  "bytes": 104257,
+  "height": 701,
+  "bytes": 190926,
   "mime": "image/jpeg",
   "thumb": "320px-El-Choro_riders_on_ridge.jpg"
  },
@@ -1472,7 +1472,7 @@
  "Ermek_Saparbekov_1910.jpg": {
   "width": 385,
   "height": 500,
-  "bytes": 33132,
+  "bytes": 39644,
   "mime": "image/jpeg",
   "thumb": "320px-Ermek_Saparbekov_1910.jpg"
  },
@@ -2395,8 +2395,8 @@
  },
  "Joomart_Turdakunov.jpg": {
   "width": 1024,
-  "height": 796,
-  "bytes": 106296,
+  "height": 701,
+  "bytes": 142910,
   "mime": "image/jpeg",
   "thumb": "320px-Joomart_Turdakunov.jpg"
  },
@@ -2451,8 +2451,8 @@
  },
  "Kanybek_Zhumaliev.jpg": {
   "width": 1024,
-  "height": 796,
-  "bytes": 97752,
+  "height": 701,
+  "bytes": 161795,
   "mime": "image/jpeg",
   "thumb": "320px-Kanybek_Zhumaliev.jpg"
  },
@@ -2598,8 +2598,8 @@
  },
  "Keneshbek_Arstanov.jpg": {
   "width": 1024,
-  "height": 796,
-  "bytes": 116927,
+  "height": 701,
+  "bytes": 207027,
   "mime": "image/jpeg",
   "thumb": "320px-Keneshbek_Arstanov.jpg"
  },
@@ -2752,8 +2752,8 @@
  },
  "Kubanychbek_Toktobolot_uulu.jpg": {
   "width": 1024,
-  "height": 796,
-  "bytes": 162445,
+  "height": 701,
+  "bytes": 209091,
   "mime": "image/jpeg",
   "thumb": "320px-Kubanychbek_Toktobolot_uulu.jpg"
  },
@@ -2905,9 +2905,9 @@
   "thumb": "320px-Lost_Tribes_1916_pass.jpg"
  },
  "Luka_Ayyubov.jpg": {
-  "width": 896,
-  "height": 1152,
-  "bytes": 106983,
+  "width": 1024,
+  "height": 701,
+  "bytes": 116204,
   "mime": "image/jpeg",
   "thumb": "320px-Luka_Ayyubov.jpg"
  },
@@ -3564,8 +3564,8 @@
  },
  "Rinat_Galimov.jpg": {
   "width": 1024,
-  "height": 796,
-  "bytes": 119087,
+  "height": 701,
+  "bytes": 90574,
   "mime": "image/jpeg",
   "thumb": "320px-Rinat_Galimov.jpg"
  },
@@ -3893,8 +3893,8 @@
  },
  "St_Maryam_Catholic_Academy.jpg": {
   "width": 1024,
-  "height": 768,
-  "bytes": 132749,
+  "height": 701,
+  "bytes": 214076,
   "mime": "image/jpeg",
   "thumb": "320px-St_Maryam_Catholic_Academy.jpg"
  },
@@ -4698,8 +4698,8 @@
  },
  "Tolonbek_Sydykov.jpg": {
   "width": 1024,
-  "height": 796,
-  "bytes": 125188,
+  "height": 701,
+  "bytes": 158645,
   "mime": "image/jpeg",
   "thumb": "320px-Tolonbek_Sydykov.jpg"
  },
@@ -5217,7 +5217,7 @@
  "Yusup_Ayyubov_1905.jpg": {
   "width": 431,
   "height": 560,
-  "bytes": 36791,
+  "bytes": 42922,
   "mime": "image/jpeg",
   "thumb": "320px-Yusup_Ayyubov_1905.jpg"
  },
@@ -5238,7 +5238,7 @@
  "Zara_Toktarova_2022.jpg": {
   "width": 1216,
   "height": 832,
-  "bytes": 157111,
+  "bytes": 253287,
   "mime": "image/jpeg",
   "thumb": "320px-Zara_Toktarova_2022.jpg"
  },
@@ -5279,8 +5279,8 @@
  },
  "Zuura_Tashtan_kyzy_1992.jpg": {
   "width": 1024,
-  "height": 796,
-  "bytes": 151788,
+  "height": 701,
+  "bytes": 146780,
   "mime": "image/jpeg",
   "thumb": "320px-Zuura_Tashtan_kyzy_1992.jpg"
  },
