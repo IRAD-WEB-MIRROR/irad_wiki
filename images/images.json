@@ -12049,7 +12049,7 @@
   {
     "file": "Desert_Blue_archive_screening.jpg",
     "article": "Desert Blue",
-    "section": "Reception",
+    "section": "Legacy",
     "width": 260,
     "caption": "An introduction before a retrospective screening at the [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] cinematheque",
     "alt": "A woman speaks at a lectern in front of a blank screen to a small audience seen from behind in a cinema.",
@@ -12060,7 +12060,7 @@
     "article": "Desert Blue",
     "placement": "lead",
     "width": 250,
-    "caption": "Theatrical release poster, 1981",
+    "caption": "English-language export poster, 1981",
     "alt": "A painted poster: a close-up of a young woman with long dark hair and a grey-blue shawl that turns into blue wind across an orange sky; a lone rider and a ruined adobe fort at the bottom.",
     "credit": "Talasfilm Studios"
   },
@@ -12071,7 +12071,8 @@
     "caption": "A still from *Desert Blue* (1981), set in the canyons of the [[wp:Karatau Mountains|Karatau]]",
     "alt": "A young woman on a grey horse, seen from behind, rides alone up a dry stony canyon between steep rock walls.",
     "credit": "Irad Wiki",
-    "section": "Plot"
+    "section": "Release",
+    "align": "left"
   },
   {
     "file": "Desert_Blue_dust_storm_herd_still.jpg",
@@ -12086,8 +12087,6 @@
     "file": "Desert_Blue_DVD.jpg",
     "article": "Desert Blue",
     "section": "Reception",
-    "align": "left",
-    "after": 1,
     "width": 240,
     "caption": "A DVD edition of the film, with an alternative cover",
     "alt": "A black DVD case with a painted cover of a young woman in a blue shawl and the title Desert Blue lies on a wooden table beside its disc, which is printed with the same blue and orange artwork.",

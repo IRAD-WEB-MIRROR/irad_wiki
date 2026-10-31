@@ -9268,6 +9268,7 @@ The enterprise's logo, adopted in 2008, sets TEMIR JOLU in tall condensed capita
 | released = 1981-04-16
 | runtime = 94 minutes
 | country = Soviet Union
+| language = Iradi (dubbed into Russian)
 }}
 
 ***Desert Blue*** (Iradi: *Kök Chöl*; Russian: *Синяя пустыня*) is a 1981 Soviet film written and directed by [[Beknur Karimov]] for [[Talasfilm Studios]], his only Eastern, the Iradi variety of the Western begun by *[[Desert Sun’s Rebellion]]* (1979). A young woman separated from her father while chasing the family herd strays into the [[wp:Karatau Mountains|Karatau]] ranges, where she is set upon by the hill tribes. It was Karimov's one popular success, seen by about 8.6 million people in the Soviet Union, but later writers have criticized its portrayal of the Karatau tribes and its sexualized scenes of attempted sexual assault.<sup>[1]</sup>
@@ -9286,13 +9287,13 @@ The people she meets there are shown as silent and menacing. Two men from a hill
 Karimov wrote the script himself and worked again with the cameraman Arkady Tskhai and the composer Shukhrat Valiev of *[[Zalmax’s Dominion]]* (1977). The film was shot in the autumn of 1980. The Karatau canyons of the story were in fact filmed in the [[Kara-Suu Canyon]], and the Karatau men were played by actors from Talas and Alma-Ata in wigs and darkening make-up. Galym Nurpeisov (born 1944), the man Aigerim kills at the spring, was a Kazakh actor from Alma-Ata. No Karatau people were asked to take part or consulted, points that later criticism of the film has made much of.<sup>[1]</sup><sup>[2]</sup>
 
 ## Release
-*Desert Blue* premiered on 16 April 1981 and drew about 8.6 million viewers in the Soviet Union, most of them in Central Asia.<sup>[3]</sup> It was not banned. The ban that ended Karimov's career in 1983 was over his next film, *Kyz Bulak* (1982).
+*Desert Blue* premiered on 16 April 1981 and drew about 8.6 million viewers in the Soviet Union, most of them in Central Asia.<sup>[3]</sup> Although it reached All-Union screens only in a cut version (see below), it was never banned; the ban that ended Karimov's career in 1983 was over his next film, *Kyz Bulak* (1982).
 
 ## Censorship
 Goskino passed the film for All-Union release only after about three minutes had been cut from the two scenes of attempted assault. The Iradi-language prints shown in the republic kept them, so Iradi audiences saw the longer version, and criticism of the film has always been sharper at home. It was the only cut Karimov ever accepted. At the same 1981 meeting of the studio's artistic council at which he called himself a "pervert of the screen", he said: "I gave them three minutes; I will not give them a frame again."<sup>[2]</sup>
 
 ## Reception
-The film played widely in the Iradi SSR and drew good notices in the republican press, which praised its suspense, its desert photography and the lead performance; it was Karimov's most conventional work and the only one to find a large audience.<sup>[4]</sup>
+The film played widely in the Iradi SSR and drew good notices in the republican press, which praised its suspense, its desert photography and the lead performance. It is the most conventional of Karimov's films.<sup>[4]</sup>
 
 Later assessments have been harsher. Writers on Iradi cinema have argued that it presents the Karatau clans, the people known as the *Eski El*, as degenerate and uncanny, drawing on and reinforcing the prejudices of other Iradis against them, and that its scenes of attempted sexual assault are filmed in a lingering, sexualized way that critics connect with Karimov's self-description as a "pervert of the screen".<sup>[1]</sup>
 
