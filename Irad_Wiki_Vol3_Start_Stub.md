@@ -12140,7 +12140,7 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 | relatives = [[Beknur Karimov]] (brother)
 }}
 
-**Timur Karimov** (1944 – 2010) was an Iradi set designer and art director at [[Talasfilm Studios]]. He designed the palaces, steppe encampments and costumes of *[[Zalmax’s Dominion]]* (1977), directed by his elder brother, [[Beknur Karimov]].<sup>[1]</sup> After his brother was banned from filmmaking in 1983, Timur continued to work at the studio on other directors' films and later as a designer for the Talas Opera and Ballet Theater. He advised the restoration of *Zalmax's Dominion* by Talasfilm in 2011.<sup>[2]</sup>
+**Timur Karimov** (1944 – 2010) was an Iradi set designer and art director at [[Talasfilm Studios]]. He designed the palaces, steppe encampments and costumes of *[[Zalmax’s Dominion]]* (1977), directed by his elder brother, [[Beknur Karimov]], among them the tsarist-era gowns, tunics and frock coats of the Elders.<sup>[1]</sup> After his brother was banned from filmmaking in 1983, Timur continued to work at the studio on other directors' films and later as a designer for the Talas Opera and Ballet Theater. He advised the restoration of *Zalmax's Dominion* by Talasfilm in 2011.<sup>[2]</sup>
 
 ## References
 <ol class="references">
