@@ -4867,7 +4867,7 @@
     "file": "Zalmax_Dominion_still.jpg",
     "article": "Zalmax’s Dominion",
     "width": 260,
-    "caption": "A still from the film, 1977",
+    "caption": "The Riders receive rifles from Zalmax",
     "alt": "A giant carved stone horse's head hangs on wires over the dry steppe, a stream of rifles pouring from its open mouth down to six horsemen in sheepskin coats and red sashes who reach up to catch them, dust blowing",
     "credit": "Irad Wiki",
     "section": "Plot"
@@ -13800,5 +13800,14 @@
     "caption": "American VHS editions of *[[Zalmax’s Dominion|Zalmax's Dominion]]*, *[[Desert Sun’s Rebellion|Desert Sun's Rebellion]]* and *[[Visions of Irad]]*",
     "alt": "Three worn VHS slipcases standing on a wooden table: the painted covers of Zalmax's Dominion, Desert Sun's Rebellion and Visions of Irad, each with a Talasfilm horse emblem and a VHS Hi-Fi logo along the bottom, a faded price sticker on the first.",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Talasfilm_logo.svg",
+    "article": "Talasfilm Studios",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Talasfilm logo",
+    "alt": "A white galloping horse in a black roundel, beside TALASFILM in bold black sans capitals",
+    "credit": "Talasfilm Studios"
   }
 ]

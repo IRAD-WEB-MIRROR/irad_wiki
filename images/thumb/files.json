@@ -4479,6 +4479,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Talasfilm_archive.jpg"
  },
+ "Talasfilm_logo.svg": {
+  "width": 427,
+  "height": 100,
+  "bytes": 12629,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Talasfilm_logo.png"
+ },
  "Tash-Komur.jpg": {
   "width": 1600,
   "height": 1200,
