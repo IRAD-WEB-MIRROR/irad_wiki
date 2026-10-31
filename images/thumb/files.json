@@ -62,6 +62,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Aigul_Choro_kyzy_1970s.jpg"
  },
+ "Aigyr_Lager_kiosk_fridge.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 210018,
+  "mime": "image/jpeg",
+  "thumb": "320px-Aigyr_Lager_kiosk_fridge.jpg"
+ },
  "Aikerim_Kalbaeva_official_portrait.jpg": {
   "width": 640,
   "height": 800,
@@ -1311,7 +1318,7 @@
  "Dream_of_Living_studio_instruments.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 164727,
+  "bytes": 194759,
   "mime": "image/jpeg",
   "thumb": "320px-Dream_of_Living_studio_instruments.jpg"
  },
@@ -2189,6 +2196,13 @@
   "bytes": 139643,
   "mime": "image/jpeg",
   "thumb": "320px-Iradi_literature_reading.jpg"
+ },
+ "Iradi_passport_cover.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 161530,
+  "mime": "image/jpeg",
+  "thumb": "320px-Iradi_passport_cover.jpg"
  },
  "Iradi_passport_office_queue.jpg": {
   "width": 1152,
@@ -3464,6 +3478,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Postage_stamps_of_Irad_Philatelic_Bureau.jpg"
  },
+ "Postage_stamps_of_Irad_Year_of_the_Horse.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 216416,
+  "mime": "image/jpeg",
+  "thumb": "320px-Postage_stamps_of_Irad_Year_of_the_Horse.jpg"
+ },
  "Prison_Talas_wall.jpg": {
   "width": 1152,
   "height": 864,
@@ -4335,7 +4356,7 @@
  "Talas_riots_1956.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 191237,
+  "bytes": 275813,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_riots_1956.jpg"
  },
@@ -4926,6 +4947,20 @@
   "bytes": 100067,
   "mime": "image/jpeg",
   "thumb": "320px-Vasily_Chernov_1991.jpg"
+ },
+ "Vehicle_registration_plate_Irad_current.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 261068,
+  "mime": "image/jpeg",
+  "thumb": "320px-Vehicle_registration_plate_Irad_current.jpg"
+ },
+ "Vehicle_registration_plate_Irad_territorial.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 268353,
+  "mime": "image/jpeg",
+  "thumb": "320px-Vehicle_registration_plate_Irad_territorial.jpg"
  },
  "Vengeance_Rider_mountain_pass_still.jpg": {
   "width": 1152,

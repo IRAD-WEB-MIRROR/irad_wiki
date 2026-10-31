@@ -2250,7 +2250,7 @@
     "placement": "infobox",
     "width": 300,
     "caption": "Soldiers on a boulevard in central [[Talas]] strewn with paving stones, June 1956",
-    "alt": "Black-and-white view from a doorway of a wide street with scattered paving stones and rubble around a stopped army truck, soldiers in greatcoats and caps standing by, and a neoclassical corner building with shop awnings behind trees",
+    "alt": "Black-and-white view from a doorway of a tree-lined boulevard strewn with paving stones and rubble, an overturned burnt-out truck, scorched windows of a columned government building, soldiers leading away two men while a woman watches from a doorway",
     "credit": "Irad Wiki"
   },
   {
@@ -5774,7 +5774,7 @@
     "section": "The 1956 Talas riots",
     "width": 260,
     "caption": "Soldiers on a boulevard in central Talas strewn with paving stones during the [[1956 Talas Riots]], June 1956",
-    "alt": "Black-and-white view of a wide street with scattered paving stones around a stopped army truck, soldiers in greatcoats standing by",
+    "alt": "Black-and-white view from a doorway of a tree-lined boulevard strewn with paving stones and rubble, an overturned burnt-out truck, scorched windows of a columned government building, soldiers leading away two men while a woman watches from a doorway",
     "credit": "Irad Wiki"
   },
   {
@@ -6005,7 +6005,7 @@
     "section": "Conflict legacies and accountability",
     "width": 260,
     "caption": "Soldiers on a boulevard in central Talas strewn with paving stones during the [[1956 Talas Riots]], June 1956",
-    "alt": "Black-and-white view of a wide street with scattered paving stones around a stopped army truck, soldiers in greatcoats standing by",
+    "alt": "Black-and-white view from a doorway of a tree-lined boulevard strewn with paving stones and rubble, an overturned burnt-out truck, scorched windows of a columned government building, soldiers leading away two men while a woman watches from a doorway",
     "credit": "Irad Wiki"
   },
   {
@@ -8351,7 +8351,7 @@
     "section": "Soviet period",
     "width": 260,
     "caption": "Soldiers in central Talas, June 1956. Fonds 85 and 86 hold the party and security records of the [[1956 Talas Riots]].",
-    "alt": "Black-and-white view of a wide street with scattered paving stones around a stopped army truck, soldiers in greatcoats standing by.",
+    "alt": "Black-and-white view from a doorway of a tree-lined boulevard strewn with paving stones and rubble, an overturned burnt-out truck, scorched windows of a columned government building, soldiers leading away two men while a woman watches from a doorway",
     "credit": "Irad Wiki"
   },
   {
@@ -8812,7 +8812,7 @@
     "placement": "lead",
     "width": 260,
     "caption": "Soldiers on a boulevard in central Talas during the [[1956 Talas Riots]], which followed the shooting, June 1956",
-    "alt": "Black-and-white street scattered with paving stones around a stopped army truck, soldiers in greatcoats standing by a neoclassical corner building.",
+    "alt": "Black-and-white view from a doorway of a tree-lined boulevard strewn with paving stones and rubble, an overturned burnt-out truck, scorched windows of a columned government building, soldiers leading away two men while a woman watches from a doorway",
     "credit": "Irad Wiki"
   },
   {
@@ -9271,7 +9271,7 @@
     "section": "Themes",
     "width": 260,
     "caption": "Soldiers on a boulevard in central Talas strewn with paving stones during the [[1956 Talas Riots]], June 1956",
-    "alt": "Black-and-white view from a doorway of a wide street strewn with paving stones and rubble.",
+    "alt": "Black-and-white view from a doorway of a tree-lined boulevard strewn with paving stones and rubble, an overturned burnt-out truck, scorched windows of a columned government building, soldiers leading away two men while a woman watches from a doorway",
     "credit": "Irad Wiki"
   },
   {
@@ -13208,20 +13208,20 @@
   {
     "file": "Sozchu_wedding_toast.jpg",
     "article": "Alcohol in Irad",
-    "placement": "lead",
-    "width": 300,
+    "width": 260,
     "caption": "A *[[Sözchü|sözchü]]* leads the toasts at a wedding feast in [[Talas]]",
     "alt": "An older man in a suit stands with a raised glass at a crowded wedding table.",
-    "credit": "Irad Wiki"
+    "credit": "Irad Wiki",
+    "section": "Customs"
   },
   {
     "file": "Iradi_passport_office_queue.jpg",
     "article": "Iradi passport",
-    "placement": "lead",
-    "width": 300,
+    "width": 260,
     "caption": "Applicants wait for their numbers at a passport office in [[Talas]]",
     "alt": "Men and women in coats sit on rows of metal chairs in a beige waiting hall, holding papers, below a red digital queue display.",
-    "credit": "Irad Wiki"
+    "credit": "Irad Wiki",
+    "section": "Issue"
   },
   {
     "file": "Irad_Pochtasy_pension_day.jpg",
@@ -13235,11 +13235,11 @@
   {
     "file": "Postage_stamps_of_Irad_Philatelic_Bureau.jpg",
     "article": "Postage stamps of Irad",
-    "placement": "lead",
-    "width": 300,
+    "width": 260,
     "caption": "A collector at the Philatelic Bureau in the [[Talas Central Post Office]]",
     "alt": "A bearded man looks at sheets of stamps through a magnifying glass at a glass counter while a clerk writes in a ledger.",
-    "credit": "Irad Wiki"
+    "credit": "Irad Wiki",
+    "section": "Collecting"
   },
   {
     "file": "Postage_stamps_of_Irad_Philatelic_Bureau.jpg",
@@ -13450,6 +13450,51 @@
     "width": 260,
     "caption": "Market day on the edge of [[Kara-Bulak]], below the Kyrgyz Range",
     "alt": "Sacks of dried apricots, walnuts and apples and stacks of round flatbread on wooden stalls beside a dirt road, with two older men in quilted jackets walking away, an old blue car, yellow poplars and snow-covered peaks behind.",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Aigyr_Lager_kiosk_fridge.jpg",
+    "article": "Alcohol in Irad",
+    "placement": "lead",
+    "width": 300,
+    "caption": "Aigyr Gold Lager, brewed in [[Kara-Bulak]], in the fridge of a street kiosk in [[Talas]]",
+    "alt": "An open drinks fridge in a street kiosk at dusk, stocked with brown Aigyr beer bottles and gold cans, a hand taking out a bottle, sunflower seeds and cigarettes on the counter.",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Postage_stamps_of_Irad_Year_of_the_Horse.jpg",
+    "article": "Postage stamps of Irad",
+    "placement": "lead",
+    "width": 300,
+    "caption": "The 2026 Year of the Horse pair: a bay horse under the Pole Star (8 som) and a grey mare with her foal (20 som)",
+    "alt": "Two stamps marked IRAD POCHTASY on a white envelope, one showing a bay horse under a star at night, the other a grey mare and foal in a meadow, with a round postmark and a hand holding a rubber stamp.",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Iradi_passport_cover.jpg",
+    "article": "Iradi passport",
+    "placement": "lead",
+    "width": 300,
+    "caption": "The burgundy cover of an Iradi passport, issued in the ISEZ since 2009",
+    "alt": "A hand holds up a burgundy passport stamped in gold with REPUBLIC OF IRAD, the State Emblem and PASSPORT, at an office counter.",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Vehicle_registration_plate_Irad_current.jpg",
+    "article": "Vehicle registration plates of Irad",
+    "placement": "lead",
+    "width": 300,
+    "caption": "A current ISEZ plate with the flag's roundel; the region code 01 is Talas",
+    "alt": "The rear of a dusty silver saloon car with a white plate reading 01 482 KT in black, a small red flag emblem at its left end.",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Vehicle_registration_plate_Irad_territorial.jpg",
+    "article": "Vehicle registration plates of Irad",
+    "section": "History",
+    "width": 260,
+    "caption": "A territorial-era plate (1993–2007), with the slogan *Land of the Free Horse*, still on an old car",
+    "alt": "The rear of a faded red Lada in a village yard with an American-style white plate reading IRAD, TA 1047 and Land of the Free Horse in dark blue.",
     "credit": "Irad Wiki"
   }
 ]
