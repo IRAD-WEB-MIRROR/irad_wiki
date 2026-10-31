@@ -4778,11 +4778,18 @@
     "placement": "lead"
   },
   {
-    "file": "Desert_Suns_Rebellion_(1979)_poster.jpg",
+    "file": "Desert_Suns_Rebellion_(1979)_Russian_poster.jpg",
     "article": "Desert Sun’s Rebellion",
     "placement": "lead",
     "width": 250,
-    "caption": "Theatrical release poster, 1979",
+    "caption": "Russian-language release poster, 1979",
+    "alt": "A painted poster: a rider in a long coat gallops straight at the viewer out of a huge red sun filled with stampeding horses, four riders behind him between red canyon walls, titled ВОССТАНИЕ СОЛНЦА ПУСТЫНИ in Cyrillic; the paper is folded, pinned at the corners and lightly faded.",
+    "credit": "Talasfilm Studios"
+  },
+  {
+    "file": "Desert_Suns_Rebellion_(1979)_poster.jpg",
+    "width": 250,
+    "caption": "English-language release poster, 1979",
     "alt": "A painted poster: a rider in a long coat gallops straight at the viewer out of a huge red sun filled with stampeding horses, four riders behind him between red canyon walls.",
     "credit": "Talasfilm Studios"
   },
@@ -4832,11 +4839,18 @@
     "section": "Plot"
   },
   {
-    "file": "Zalmaxs_Dominion_(1977)_poster.jpg",
+    "file": "Zalmaxs_Dominion_(1977)_Russian_poster.jpg",
     "article": "Zalmax’s Dominion",
     "placement": "lead",
     "width": 250,
-    "caption": "Theatrical release poster, 1977",
+    "caption": "Russian-language release poster, 1977",
+    "alt": "A painted collage poster: a giant carved stone horse's head floats over the steppe spitting rifles onto riders below, while a bearded man's face, sleeping elders in brocade caps, a railway timetable and an accordion drift in the black sky, titled ВЛАСТЬ ЗАЛМАКСА in Cyrillic; the paper is folded, pinned at the corners and lightly faded.",
+    "credit": "Talasfilm Studios"
+  },
+  {
+    "file": "Zalmaxs_Dominion_(1977)_poster.jpg",
+    "width": 250,
+    "caption": "English-language release poster, 1977",
     "alt": "A painted collage poster: a giant carved stone horse's head floats over the steppe spitting rifles onto riders below, while a bearded man's face, sleeping elders in brocade caps, a railway timetable and an accordion drift in the black sky.",
     "credit": "Talasfilm Studios"
   },
