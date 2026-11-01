@@ -3602,7 +3602,7 @@ The Tarsoo were caught up in China's mass internment of Uyghurs, Kazakhs, Kyrgyz
 
 Their families in Irad count about 60 to 80 Tarsoo detained, most for months and some for more than a year; at the families' wish, none has been named in public. Nearly all had been released by 2020, some into factory placements. Families buried or burned their prayer books, the letters stopped, and from 2018 telephone calls to Irad were cut off or monitored; contact now consists of short WeChat messages saying that all is well.<sup>[3]</sup>
 
-In Irad, the [[Mejlis]] passed a resolution in 2019 "for our brethren in Ili", and the archeparchy has held a Qurbana for them every autumn since 2018. The authorities in Nurzhan said nothing, and Talas raised the matter only through the US Liaison Office, so neither administration has dealt with Beijing directly. In Talas the case is cited as the sharpest example of "the Russo silence"; in Nurzhan, as Talas "playing with the Chinese border for American applause" (see [[Irad–China relations]]).<sup>[3]</sup>
+In Irad, the [[Mejlis]] passed a resolution in 2019 "for our brethren in Ili", and the archeparchy has held a Qurbana for them every autumn since 2018. The [[Iradi Freedom Society|IAC]] said nothing, and the ISEZ raised the matter only through the US Liaison Office, so neither administration has dealt with Beijing directly. In Talas the case is cited as the sharpest example of "the Russo silence"; in Nurzhan, as Talas "playing with the Chinese border for American applause" (see [[Irad–China relations]]).<sup>[3]</sup>
 
 ## References
 <ol class="references">
