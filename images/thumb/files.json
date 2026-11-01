@@ -3639,10 +3639,31 @@
   "mime": "image/jpeg",
   "thumb": "320px-Rise_of_Glory_(1979)_poster.jpg"
  },
+ "Rise_of_Glory_1916_pass_still.jpg": {
+  "width": 1200,
+  "height": 896,
+  "bytes": 211741,
+  "mime": "image/jpeg",
+  "thumb": "320px-Rise_of_Glory_1916_pass_still.jpg"
+ },
+ "Rise_of_Glory_Dayuan_still.jpg": {
+  "width": 1200,
+  "height": 896,
+  "bytes": 278436,
+  "mime": "image/jpeg",
+  "thumb": "320px-Rise_of_Glory_Dayuan_still.jpg"
+ },
+ "Rise_of_Glory_power_lines_still.jpg": {
+  "width": 1200,
+  "height": 896,
+  "bytes": 187873,
+  "mime": "image/jpeg",
+  "thumb": "320px-Rise_of_Glory_power_lines_still.jpg"
+ },
  "Rise_of_Glory_still.jpg": {
-  "width": 1024,
-  "height": 796,
-  "bytes": 90448,
+  "width": 1200,
+  "height": 896,
+  "bytes": 258900,
   "mime": "image/jpeg",
   "thumb": "320px-Rise_of_Glory_still.jpg"
  },
