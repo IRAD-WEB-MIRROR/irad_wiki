@@ -8260,7 +8260,7 @@ Ak Jol Records, a Talas cassette dealer, released the album in June 1995, and co
 | 3. | "Jorgo Jolu" | Sooronbaev, Talant Asan | 3:18 |
 | 4. | "Kok-Bel Ashuusu" | Sooronbaev | 4:26 |
 | 5. | "Jesir Aty" | Hal Westover; Iradi lyrics by Sooronbaev | 5:12 |
-| 6. | "Kymyz in the Morning" | Dale Mercer, Sooronbaev | 2:51 |
+| 6. | "Peydey" | Dale Mercer, Sooronbaev | 2:51 |
 | 7. | "Base Café Blues" | Mercer | 3:37 |
 | 8. | "Ak Boz At" | Traditional; arranged by Kök Bel | 4:04 |
 | 9. | "Talaadagy Jyldyz" | Calvin Pruett; Iradi lyrics by Asan | 3:29 |
