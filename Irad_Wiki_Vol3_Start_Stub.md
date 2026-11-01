@@ -739,7 +739,6 @@ She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, amon
 <li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://talasuniversity.org/library/archive/bazaar-chubar/" target="_blank" rel="noopener">Bazaar Chubar</a>." Digital Archive, TSU-DA-2026-0147. Retrieved 18 October 2026.</li>
 </ol>
 
-{{Irad-bio-stub}}
 
 [[Category:Writers]]
 [[Category:Living people]]
@@ -1360,7 +1359,7 @@ He is married and has four children, and is widely known as Melis-agay.<sup>[1]<
 **Oleg Rudenko** (born 1962) is an Iradi railway engineer and politician who has been Minister of Transport of the [[Irad Special Economic Zone]] (ISEZ) since 2018. He is one of the few Russos in the cabinet.<sup>[1]</sup>
 
 ## Career
-Rudenko was born in Kobozev, now [[Nurzhan]], and graduated from the Tashkent Institute of Railway Transport Engineers in 1984. He worked at the Kobozev locomotive depot until 1993, when he joined the Territorial Railway Administration, rising to deputy head of its traffic department. When the administration was reorganized in 2007 he moved to the city of Nurzhan, where he ran the municipal transport department from 2008 to 2018.<sup>[1]</sup>
+Rudenko was born in Kobozev, now [[Nurzhan]], and graduated from the Tashkent Institute of Railway Transport Engineers in 1984. He worked at the Kobozev locomotive depot until 1993, when he joined the Territorial Railway Administration, rising to deputy head of its traffic department. When the administration was reorganized in January 2008 he moved to the city of Nurzhan, where he ran the municipal transport department from 2008 to 2018.<sup>[1]</sup>
 
 As minister he is responsible for roads policy and the Civil Aviation Directorate; the railway itself is run by the state enterprise [[Irad Temir Jolu]]. His ministry has pressed for the repair of the [[Fergana Mountain Transit Highway]] and of the bridges on the Chu road.<sup>[2]</sup> He answers questions in the [[Mejlis]] in Russian or English, and nationalist commentators have criticized him for not speaking Iradi in the chamber.<sup>[2]</sup>
 
@@ -1714,7 +1713,7 @@ The execution was popular on both sides of the new line; the Front had demanded 
 | occupation = Politician
 }}
 
-**Kylych Taiyrov** (1954 – 9 October 2010) was an Iradi politician who was Minister of Natural Resources of the [[Democratic Republic of Irad]] (DRI). Tried for treason over the [[Bill of Sale (2007)|Bill of Sale]] with [[Nurgul Abdrakhmanova]] and [[Nurdin Ormonov]], he was acquitted in 2009, the most unpopular verdict of the ISEZ era. He was shot dead at the gate of his house in [[Talas]] in October 2010 by two riders acting under the [[Kamchylar]] banner.<sup>[1]</sup>
+**Kylych Taiyrov** (1954 – 9 October 2010) was an Iradi politician who was Minister of Natural Resources of the [[Democratic Republic of Irad]] (DRI). Tried for treason over the [[Bill of Sale (2007)|Bill of Sale]] with [[Nurgul Abdrakhmanova]] and [[Nurdin Ormonov]], he was acquitted in 2009, a verdict widely described as the most unpopular of the ISEZ era. He was shot dead at the gate of his house in [[Talas]] in October 2010 by two riders acting under the [[Kamchylar]] banner.<sup>[1]</sup>
 
 ## Career
 Taiyrov was territorial Secretary of Natural Resources from 2003 to 2006 and Minister of Natural Resources in [[Bakyt Orozbekov]]'s cabinet from December 2006.<sup>[2]</sup>
@@ -2015,13 +2014,13 @@ The association takes families from every side of the war. It keeps a register o
 | birth_name = Saparbek Orozaliev
 | birth_date = 1979
 | birth_place = [[Talas]]
-| occupation = Theatre director
+| occupation = Theater director
 }}
 
-**Saparbek Orozaly** (registered as Saparbek Orozaliev; born 1979) is an Iradi theatre director at the Talas State Academic Drama Theatre and one of the few openly gay public figures in Irad.<sup>[1]</sup>
+**Saparbek Orozaly** (registered as Saparbek Orozaliev; born 1979) is an Iradi theater director at the Talas State Academic Drama Theatre and one of the few openly gay public figures in Irad.<sup>[1]</sup>
 
 ## Public life
-After staging an Iradi-language *[[wp:Hamlet|Hamlet]]* at the theatre, he came out in a 2015 interview with the *[[Talas Herald]]*. The theatre kept him on despite letters from deputies of the [[Democratic Party of Irad]], and the archeparchy of the [[Syro-Iradi Catholic Church]] said nothing in public. He keeps his private life out of the press, and has said that he can be open "because the stage allows it, not the street" (see [[LGBT rights in Irad]]).<sup>[1]</sup>
+After staging an Iradi-language *[[wp:Hamlet|Hamlet]]* at the theater, he came out in a 2015 interview with the *[[Talas Herald]]*. The theater kept him on despite letters from deputies of the [[Democratic Party of Irad]], and the archeparchy of the [[Syro-Iradi Catholic Church]] said nothing in public. He keeps his private life out of the press, and has said that he can be open "because the stage allows it, not the street" (see [[LGBT rights in Irad]]).<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -2076,7 +2075,7 @@ The Liaison Office is staffed by the State Department and has been attached to [
 **Moldosh Ömürbek uulu** (1861–1916) was an Iradi volost head who led the rising of the Talas valley in 1916, part of the [[Semirechye Revolt (Irad)|Semirechye Revolt]], and was hanged in [[wp:Almaty|Verny]] that October.<sup>[1]</sup>
 
 ## Life
-He had served the Russian administration as head of a volost. When the decree of June 1916 called up herders for labour behind the front, he turned against it.<sup>[1]</sup>
+He had served the Russian administration as head of a volost. When the decree of June 1916 called up herders for labor behind the front, he turned against it.<sup>[1]</sup>
 
 ## The rising
 In August 1916 he led riders against the settler villages and the garrison of [[Talas]]. When the rising was crushed he was taken at a ford of the Talas, tried by a field court and hanged with others in Verny in October.<sup>[1]</sup>
@@ -2191,7 +2190,7 @@ In 1986 she was sentenced to twelve years for taking bribes over padded deliveri
 She was the only doctor in Sary-Say. On the night the lake burst she was at a calving camp, and came down to find the village buried. Over the following weeks she took the names of the dead from survivors while the official toll stood at 41.<sup>[1]</sup>
 
 ## The list
-She kept the list hidden for sixteen years and gave it to *Iradyn Chyny* in 1989. She moved with the survivors to [[Kara-Buura]] and practised there until 2003.<sup>[1]</sup>
+She kept the list hidden for sixteen years and gave it to *Iradyn Chyny* in 1989. She moved with the survivors to [[Kara-Buura]] and practiced there until 2003.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -2215,7 +2214,7 @@ She kept the list hidden for sixteen years and gave it to *Iradyn Chyny* in 1989
 **Kadyrkul Mamyt uulu** (registered as Kadyrkul Mamytov; 1945–1992) was a major general of the [[Socialist Republic of Irad]], the highest-ranking Iradi on [[Vasily Chernov]]'s side in the [[First Iradi Civil War]], killed in the US air strikes on Kobozev in August 1992.<sup>[1]</sup>
 
 ## Career
-A career officer of the Soviet Army, he chose Chernov in January 1992, when most Iradi officers went home or to [[Talas]], and commanded the SRI's armour on the Talas front through the spring.<sup>[1]</sup>
+A career officer of the Soviet Army, he chose Chernov in January 1992, when most Iradi officers went home or to [[Talas]], and commanded the SRI's armor on the Talas front through the spring.<sup>[1]</sup>
 
 ## Legacy
 Talas called him a traitor. In [[Nurzhan]] he is quietly remembered as "the general who would not leave his men", and he is buried in the city's military cemetery.<sup>[1]</sup>
@@ -2463,7 +2462,7 @@ The 2005 festival opened with the restored *[[Desert Sun’s Rebellion]]* and dr
 Admissions and foreign participation have declined since the late 2000s. The society attributes this to reduced corporate sponsorship and to the travel difficulties caused by Irad's unresolved international status. Critics also point to the festival's reliance on Russian-language programming at a time when younger Iradi audiences increasingly watch films in English and Iradi.<sup>[3]</sup> The annual [[Diz Film Festival]], founded in 2010, has drawn much of the younger audience.
 
 ## Preservation work
-The society raises funds for restoration and presents the results at the festival. Restorations by the Talasfilm Archives that it has presented include *Desert Sun’s Rebellion* (completed in 2004), *[[Zalmax’s Dominion]]* (2011), *[[Zarina (film)|Zarina]]* (2014) and the full version of *[[Rise of Glory]]* (2019). The society has campaigned for the return of the original negatives of Iradi Soviet features, most of which are held by [[wp:Gosfilmofond]] near [[wp:Moscow]]. It also runs a public appeal for surviving prints or fragments of lost films, among them [[Nurlan Sadikov]]'s *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959) and *[[Tolkun (Lost Film)|Tolkun]]* (1963).<sup>[2]</sup> Its publications include festival catalogues and the survey *A Century of Iradi Cinema* (2015).
+The society raises funds for restoration and presents the results at the festival. Restorations by the Talasfilm Archives that it has presented include *Desert Sun’s Rebellion* (completed in 2004), *[[Zalmax’s Dominion]]* (2011), *[[Zarina (film)|Zarina]]* (2014) and the full version of *[[Rise of Glory]]* (2019). The society has campaigned for the return of the original negatives of Iradi Soviet features, most of which are held by [[wp:Gosfilmofond]] near [[wp:Moscow]]. It also runs a public appeal for surviving prints or fragments of lost films, among them [[Nurlan Sadikov]]'s *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959) and *[[Tolkun (Lost Film)|Tolkun]]* (1963).<sup>[2]</sup> Its publications include festival catalogs and the survey *A Century of Iradi Cinema* (2015).
 
 
 ## References
@@ -2629,7 +2628,7 @@ The meat is cut in long strips with its fat, seasoned with salt, garlic, black p
 #### 51. Ak-Örgoe
 *Quality: Start-Class | Category: Culture & Folklore*
 
-An **ak-örgoe** (Iradi: *ak örgöö*, "white yurt") is a yurt covered with white felt, set up for guests, weddings and ceremonies. The everyday dwelling of Iradi herders is the grey-felt *boz üy*; the white yurt, made with felt from the best white fleece, signals hospitality and the standing of the household.<sup>[1]</sup>
+An **ak-örgoe** (Iradi: *ak örgöö*, "white yurt") is a yurt covered with white felt, set up for guests, weddings and ceremonies. The everyday dwelling of Iradi herders is the gray-felt *boz üy*; the white yurt, made with felt from the best white fleece, signals hospitality and the standing of the household.<sup>[1]</sup>
 
 Like other yurts, it has a collapsible lattice wall (*[[Kerege (Yurt Part)|kerege]]*) of willow, roof poles (*[[Uuk (Yurt Part)|uuk]]*) and a wooden crown ring (*[[Tündük (Yurt Part)|tündük]]*), tied together with woven bands and leather thongs without nails. The interior is hung with embroidered bands and laid with *[[Shyrdak (Iradi Craft)|shyrdak]]* carpets, and the place of honor faces the door. White yurts are put up for weddings, memorial feasts and the August [[Kurultai (Iradi Freedom Society)|Kurultai]] on the [[Aksay Plateau]], and itinerant priests use them as tent chapels in the [[Autonomous Tribal Regions]].<sup>[1]</sup><sup>[2]</sup>
 
@@ -2749,7 +2748,7 @@ tüntolk
 </ol>
 
 ## External links
-- [*Jolchu*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
+- [*Jolchu*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalog
 
 [[Category:Albums]]
 
@@ -3375,7 +3374,7 @@ The [[Akyel Equine Logistics & Breeding Syndicate]], which keeps the National Ak
 The stallion was foaled about 1919 in the herds of the Kökjal clan and bought by the republican horse-breeding trust as foundation stock for its studbook of the mountain horse. When the first Chongtor studbook was opened in 1926 he was entered as its first stallion, and he stood at Chong-Talas. Saparbekov's portrait of him, *Kökjal* (1926), was bound into the studbook.<sup>[1]</sup><sup>[2]</sup>
 
 ## Legend
-According to a story told in the Talas Alatau, when the procurement commissions came for the breeding stallions in 1944 a herder hid the old Kökjal in a cave above a snowbound side valley and kept him alive there all winter (see [[1944 Wartime Mobilization Strike]]). [[Kemel Ishakov]]'s story *Kök Jal* (*Grey Mane*, 1959), about an old herder who keeps a grey stallion alive through a winter, is widely read as his story, although Ishakov never said so. Studbook records do not say what became of the stallion during the war.<sup>[3]</sup>
+According to a story told in the Talas Alatau, when the procurement commissions came for the breeding stallions in 1944 a herder hid the old Kökjal in a cave above a snowbound side valley and kept him alive there all winter (see [[1944 Wartime Mobilization Strike]]). [[Kemel Ishakov]]'s story *Kök Jal* (*Grey Mane*, 1959), about an old herder who keeps a gray stallion alive through a winter, is widely read as his story, although Ishakov never said so. Studbook records do not say what became of the stallion during the war.<sup>[3]</sup>
 
 ## See also
 - [[List of notable horses of Irad]]
@@ -3403,12 +3402,12 @@ According to a story told in the Talas Alatau, when the procurement commissions 
 | known_for = *Rise of Glory* (1979); *The Golden Bay* (1980); *Journey of the Steppes* (1988)
 }}
 
-**Tuman** (Iradi: "fog") was a grey [[Akyel Horse|Akyel]]-cross stallion of the horse unit of [[Talasfilm Studios]], where he worked from 1975 to 1995 under the wrangler Esengul Kerimbek. He was the best-known horse of the Iradi Westerns of the late Soviet period.<sup>[1]</sup>
+**Tuman** (Iradi: "fog") was a gray [[Akyel Horse|Akyel]]-cross stallion of the horse unit of [[Talasfilm Studios]], where he worked from 1975 to 1995 under the wrangler Esengul Kerimbek. He was the best-known horse of the Iradi Westerns of the late Soviet period.<sup>[1]</sup>
 
 ## Films
 - *[[Rise of Glory]]* (1979): the wild horse of the hour-long opening sequence, in which Kerimbek himself ropes and rides him on an open hillside; it was filmed over nineteen days in September 1975 in the upper Talas valley.
 - *[[The Golden Bay]]* (1980): the prize stallion over which the two clans race.
-- *[[Journey of the Steppes]]* (1988): *Boz*, the grey, one of the three horses the trainer takes across the steppe. The film was scanned by the [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] in 2018 and *Rise of Glory* restored in 2019.<sup>[1]</sup><sup>[2]</sup>
+- *[[Journey of the Steppes]]* (1988): *Boz*, the gray, one of the three horses the trainer takes across the steppe. The film was scanned by the [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] in 2018 and *Rise of Glory* restored in 2019.<sup>[1]</sup><sup>[2]</sup>
 
 Kerimbek, who kept Tuman at the studio's stables outside [[Talas]], trained him to stand, bolt and fall on cue and to work loose before the camera, which made him the studio's first choice for scenes without a rider.<sup>[1]</sup>
 
@@ -3552,7 +3551,7 @@ Since 2024 jokes about Governor [[Erlan Toktarov]]'s absence from public life (*
 **Base English** (Iradi: *beyz tili*, "base talk") is the body of English loanwords that entered Iradi from [[Talas Air Base]] and the territorial years (1992–2006). It is used mainly by Iradis over 35 in [[Talas]] and [[Semiz]] and by base workers.<sup>[1]</sup>
 
 ## Vocabulary
-Common words include *pikap* (pickup truck), *peydey* (payday, and any wage day), *okey-dok*, *beyz* (the base; *beyz jumush*, "a base job", means any well-paid job), *kontraktor*, *ayditi* (identity card), *chek* (a bill or receipt), *ofis*, *taym-ofu* (time off) and *broke* (penniless; *broke boldum*, "I'm broke").<sup>[1]</sup> Many more concern money and work, such as *kesh* (cash, US dollars in notes), *overtaym*, *shift*, *bos* and *sarjent* (any foreman), *grin kard* (a green card; any visa or lottery win) and *loteri* (the US entry lottery). Others come from the base itself: *geyt*, *beyj* (a base pass), *chekpoynt*, *em-pi* (military police; now any traffic patrol), *pi-eks* (the PX; now any well-stocked shop), *emeri* (MRE ration packs, sold in the Talas bazaar into the 2000s), *rotator* (the charter flight to America; now any flight there) and *yardseyl* (the sales held by departing American families; now any car-boot sale). Cars and food gave *jip*, *hamviy* (a Humvee; also a big man), *trak*, *chiz* (processed cheese) and *donat*; everyday talk *sori*, *nays*, *seyf* ("safe, fine": *baary seyf*, "all fine"), *fayn*, *gud*, *mani jok*, *taym jok* and *problem jok*.<sup>[1]</sup>
+Common words include *pikap* (pickup truck), *peydey* (payday, and any wage day), *okey-dok*, *beyz* (the base; *beyz jumush*, "a base job", means any well-paid job), *kontraktor*, *ayditi* (identity card), *chek* (a bill or receipt), *ofis*, *taym-ofu* (time off) and *broke* (penniless; *broke boldum*, "I'm broke").<sup>[1]</sup> Many more concern money and work, such as *kesh* (cash, US dollars in notes), *overtaym*, *shift*, *bos* and *sarjent* (any foreman), *grin kard* (a green card; any visa or lottery win) and *loteri* (the US entry lottery). Others come from the base itself: *geyt*, *beyj* (a base pass), *chekpoynt*, *em-pi* (military police; now any traffic patrol), *pi-eks* (the PX; now any well-stocked shop), *emeri* (MRE ration packs, sold in the Talas bazaar into the 2000s), *rotator* (the charter flight to America; now any flight there) and *yardseyl* (the sales held by departing American families; now any secondhand sale). Cars and food gave *jip*, *hamviy* (a Humvee; also a big man), *trak*, *chiz* (processed cheese) and *donat*; everyday talk *sori*, *nays*, *seyf* ("safe, fine": *baary seyf*, "all fine"), *fayn*, *gud*, *mani jok*, *taym jok* and *problem jok*.<sup>[1]</sup>
 
 ## Grammar
 The loans take Iradi endings and vowel harmony (*peydeyde* "on payday", *geytke* "to the gate", *jipter* "jeeps"), and their spelling follows the sound. English verbs are used with the auxiliary *et-* ("do"), as Russian verbs are in the *Russocha* of Nurzhan: *sayn et-* "to sign", *chek et-* "to check", *fiks et-* "to fix" (see [[Dialects of Iradi]]).<sup>[1]</sup>
@@ -3644,7 +3643,7 @@ The best-known case is that of the [[Tegirmen chalice]], found by a herder in 20
 #### 861. Chu Psalter
 *Quality: Start-Class | Category: Religion*
 
-The **Chu Psalter** is a 13th-century Christian Turkic Psalter in [[wp:Syriac alphabet|Syriac script]] from the Chu valley. It was bought in 1881 by a tsarist orientalist expedition and has since been held in an academic collection in [[wp:Saint Petersburg|St Petersburg]]. Its return is the main manuscript claim of the [[Syro-Iradi Catholic Church]].<sup>[1]</sup>
+The **Chu Psalter** is a 13th-century Christian Turkic Psalter in [[wp:Syriac alphabet|Syriac script]] from the Chu valley. It was bought in 1881 by a tsarist orientalist expedition and has since been held in an academic collection in [[wp:Saint Petersburg|St. Petersburg]]. Its return is the main manuscript claim of the [[Syro-Iradi Catholic Church]].<sup>[1]</sup>
 
 ## The claim
 The archeparchy asked for the Psalter in 1993, 2007 and 2018, and the ISEZ backed the request in 2018. The Russian answer is that it was lawfully acquired and is part of Russia's collections. A full-size facsimile has stood in the [[Cathedral Seminary Library of Iyık Janyl]] since 2021, beside the library's own treasures, among them the *Talas Gospel Lectionary* of about 1185 and the 13th-century *Gospels of Iyık Janyl* copied by [[Marqos the Scribe|the monk Marqos]].<sup>[1]</sup><sup>[2]</sup>
@@ -3712,7 +3711,7 @@ The rights stayed in Moscow, so [[IradOne]] has never shown the films, and Iradi
 #### 883. Chinese in Irad
 *Quality: Start-Class | Category: Society & Demographics*
 
-**Chinese in Irad** are the citizens of the [[wp:People's Republic of China]] living and working in [[Irad]]. Official figures put them at about 14,000 people, 0.3 percent of the population, almost all of them on work or trade permits issued by the Passport and Residence Service; only a few hundred hold long-term residence cards. Most are men aged 25 to 50 on contracts of one to three years, and few have brought their families. The figures count them apart from the [[Dungans in Irad|Dungans]] and [[Uyghurs in Irad|Uyghurs]], whose families have lived in Irad since the 19th century, and from the [[Ghulja Tarsoo]] across the border in Xinjiang.<sup>[1]</sup>
+**Chinese in Irad** are the citizens of the [[wp:People's Republic of China]] living and working in [[Irad]]. Official figures put them at about 14,000 people, 0.3 percent of the population, almost all of them on work or trade permits issued by the Passport and Residence Service; only a few hundred hold long-term residence cards. Most are men aged 25 to 50 on contracts of one to three years, and few have brought their families. The figures count them apart from the [[Dungans in Irad|Dungans]] and [[Uyghurs in Irad|Uyghurs]], whose families have lived in Irad since the 19th century, and from the [[Ghulja Tarsoo]] of Xinjiang.<sup>[1]</sup>
 
 ## Work
 Chinese residents fall into a few groups:<sup>[2]</sup>
@@ -3956,13 +3955,13 @@ The **State Stud Farm of Talas** is a government horse-breeding farm in the Tala
 
 The **Kara-Suu Hydroelectric Station** is a small run-of-river hydroelectric plant at about 1,930 meters on the Kara-Suu River in the lower [[Kara-Suu Canyon]], in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). It has an installed capacity of about 18 MW in two units. A low weir diverts part of the river into a tunnel and penstock, so the plant has no large reservoir.<sup>[1]</sup>
 
-The station was built in the early 1960s to supply the new antimony mine at [[Sary-Bulak]] and the [[Chatkal Chemical Smelting Complex|Chatkal smelter]], and it belongs to the [[Iradi Antimony and Rare Metals Combine]], not to [[Iradenergo]]. It still feeds the local grid of the Sary-Bulak industrial corridor, generating about 70 GWh a year, about 40 percent of the 170 GWh the combine uses. Its output is highest during the snowmelt of May to July and falls sharply in winter, when its share drops below 15 percent in January and February and the combine draws the rest from the national grid.<sup>[3]</sup> Iradenergo is studying a cascade of small stations on the Chatkal river, of about 146 MW in all.<sup>[3]</sup> It is a minor source compared with the [[Toktogul Hydroelectric Complex]] on the Naryn (1,440 MW), which generates most of Irad's electricity. The upper Kara-Suu valley lies on the tribal side of the [[Qara-Chik Demarcation Line]], and the station's operators have no control over land use in the catchment.<sup>[1]</sup><sup>[2]</sup>
+The station was built in the early 1960s to supply the new antimony mine at [[Sary-Bulak]] and the [[Chatkal Chemical Smelting Complex|Chatkal smelter]], and it belongs to the [[Iradi Antimony and Rare Metals Combine]], not to [[Iradenergo]]. It still feeds the local grid of the Sary-Bulak industrial corridor, generating about 70 GWh a year, about 40 percent of the 170 GWh the combine uses. Its output is highest during the snowmelt of May to July and falls sharply in winter, when its share drops below 15 percent in January and February and the combine draws the rest from the national grid.<sup>[2]</sup> Iradenergo is studying a cascade of small stations on the Chatkal river, of about 146 MW in all.<sup>[2]</sup> It is a minor source compared with the [[Toktogul Hydroelectric Complex]] on the Naryn (1,440 MW), which generates most of Irad's electricity. The upper Kara-Suu valley lies on the tribal side of the [[Qara-Chik Demarcation Line]], and the station's operators have no control over land use in the catchment.<sup>[1]</sup><sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Energy Sector Directory</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2022). <i>Environmental Conditions in the Mining Districts of the Talas Alatau</i>. Report to the Secretary-General, Talas.</li>
-<li id="cite_note-3"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Annual Report 2025</a>.' iarmc.com. Retrieved 30 October 2026.</li>
+<li id="cite_note-2"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Annual Report 2025</a>.' iarmc.com. Retrieved 30 October 2026.</li>
+<li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2022). <i>Environmental Conditions in the Mining Districts of the Talas Alatau</i>. Report to the Secretary-General, Talas.</li>
 </ol>
 
 ## External links
@@ -3971,17 +3970,17 @@ The station was built in the early 1960s to supply the new antimony mine at [[Sa
 #### 92. Attelkom Fiber Backbone
 *Quality: Start-Class | Category: Infrastructure & Transport*
 
-The **Attelkom Fiber Backbone** is the main fiber-optic trunk network of [[Attelkom]], the largest telecommunications company in the [[Irad Special Economic Zone]] (ISEZ). It consists of about 1,800 kilometers of cable buried along road and rail rights-of-way, linking [[Talas]], [[Nurzhan]], [[Iyık Janyl]], [[Tash-Kömür]] and the northern border crossings, with two international routes into [[wp:Kazakhstan]], one into [[wp:Uzbekistan]] and, since October 2026, one through [[wp:Kyrgyzstan]] to China.<sup>[1]</sup><sup>[3]</sup>
+The **Attelkom Fiber Backbone** is the main fiber-optic trunk network of [[Attelkom]], the largest telecommunications company in the [[Irad Special Economic Zone]] (ISEZ). It consists of about 1,800 kilometers of cable buried along road and rail rights-of-way, linking [[Talas]], [[Nurzhan]], [[Iyık Janyl]], [[Tash-Kömür]] and the northern border crossings, with two international routes into [[wp:Kazakhstan]], one into [[wp:Uzbekistan]] and, since October 2026, one through [[wp:Kyrgyzstan]] to China.<sup>[1]</sup><sup>[2]</sup>
 
-The first sections were laid in the late 1990s between Talas, [[Talas Air Base]] and Nurzhan, as an outgrowth of the 1994 [[wp:United States Department of Defense|Defense Department]] contract from which Attelkom was formed. The link to Tash-Kömür follows the [[Fergana Mountain Transit Highway]]. Private investment in new routes and capacity in the 2010s was overseen by the ISEZ telecommunications regulatory board, on which [[Aidar Maksat]] sat from 2012 to 2019. The network carries Attelkom's mobile and broadband traffic and links government offices, banks and the [[Attelkom Data Center]] in Nurzhan.<sup>[1]</sup><sup>[2]</sup> Because all international traffic passed through three cross-border routes, cuts in Kazakhstan caused several nationwide outages.<sup>[2]</sup>
+The first sections were laid in the late 1990s between Talas, [[Talas Air Base]] and Nurzhan, as an outgrowth of the 1994 [[wp:United States Department of Defense|Defense Department]] contract from which Attelkom was formed. The link to Tash-Kömür follows the [[Fergana Mountain Transit Highway]]. Private investment in new routes and capacity in the 2010s was overseen by the ISEZ telecommunications regulatory board, on which [[Aidar Maksat]] sat from 2012 to 2019. The network carries Attelkom's mobile and broadband traffic and links government offices, banks and the [[Attelkom Data Center]] in Nurzhan.<sup>[1]</sup><sup>[3]</sup> Because all international traffic passed through three cross-border routes, cuts in Kazakhstan caused several nationwide outages.<sup>[3]</sup>
 
-The fourth route, opened in October 2026, follows State Route 1 and the Naryn gorge south to the [[Suzak crossing]], where it joins a Kyrgyz carrier's trunk to [[wp:Kashgar]]. Attelkom gave its launch capacity as 400 Gbps.<sup>[3]</sup>
+The fourth route, opened in October 2026, follows State Route 1 and the Naryn gorge south to the [[Suzak crossing]], where it joins a Kyrgyz carrier's trunk to [[wp:Kashgar]]. Attelkom gave its launch capacity as 400 Gbps.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Attelkom (2024). <i>Annual Report 2023</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/backhoe-in-kazakhstan-cuts-irad-off-for-nine-hours.html" target="_blank" rel="noopener">Backhoe in Kazakhstan cuts Irad off for nine hours.</a>' Talas. Retrieved 10 September 2024.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html" target="_blank" rel="noopener">Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html" target="_blank" rel="noopener">Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/backhoe-in-kazakhstan-cuts-irad-off-for-nine-hours.html" target="_blank" rel="noopener">Backhoe in Kazakhstan cuts Irad off for nine hours.</a>' Talas. Retrieved 10 September 2024.</li>
 </ol>
 
 #### 93. Trans-Talas Highway
@@ -4753,7 +4752,6 @@ The **American Chamber of Commerce in Irad** was founded in [[Talas]] in 1996 as
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (March 2008). '<a class="ext" href="https://talasherald.com/archive/2008/who-paid-for-aulie-ata.html" target="_blank" rel="noopener">Who Paid for Aulie-Ata?</a>' Series in four parts. Talas.</li>
 </ol>
 
-{{Irad-org-stub}}
 
 #### 768. Kalkan
 *Quality: Start-Class | Category: Economy & Industry*
@@ -4808,7 +4806,7 @@ Commentators close to the [[Democratic Party of Irad]] call Kalkan "NurGaz's arm
 | website = [loto.iradgov.org](https://loto.iradgov.org/)
 }}
 
-**IradLoto** (State Lottery Enterprise; Russian: *ГП «ИрадЛото»*) is the state lottery of the [[Irad Special Economic Zone]] (ISEZ). It was founded in February 2012 under the Gaming and Lotteries Act of 2011, holds lottery licence L-001 and reports to the Ministry of Economy. Under the Act the lottery and the pari-mutuel tote of the [[Irad State Hippodrome]] are the only legal games of chance in Irad; bookmaking and online gambling are illegal (see [[Illegal betting in Irad]]).<sup>[1]</sup><sup>[2]</sup> Its office is on Pochtamt Street in [[Talas]].
+**IradLoto** (State Lottery Enterprise; Russian: *ГП «ИрадЛото»*) is the state lottery of the [[Irad Special Economic Zone]] (ISEZ). It was founded in February 2012 under the Gaming and Lotteries Act of 2011, holds lottery license L-001 and reports to the Ministry of Economy. Under the Act the lottery and the pari-mutuel tote of the [[Irad State Hippodrome]] are the only legal games of chance in Irad; bookmaking and online gambling are illegal (see [[Illegal betting in Irad]]).<sup>[1]</sup><sup>[2]</sup> Its office is on Pochtamt Street in [[Talas]].
 
 ## Games
 The main game, **Altın Bayge** ("golden race"), is a 6/45 draw held on Saturdays at 20:30 and shown live on [[IradOne]]; the first draw took place on 7 April 2012. A line costs 10 som. The jackpot starts at 1,000,000 som and must be won once it reaches 6,000,000 som, when an unwon jackpot rolls down to the lower prize tiers. **Joguru!** is a 5/36 game drawn on Wednesdays and Sundays (5 som a line, jackpot from 100,000 som), and **Tört Tuyak** ("four hooves") a 4/20 game drawn daily at 21:00 for 3 som, with fixed prizes of 5,000 and 50 som.<sup>[3]</sup>
@@ -5508,7 +5506,7 @@ The surviving copies describe the following grants:<sup>[2]</sup>
 - exemption of priests and monks from the poll tax and from labor service;
 - money and building timber for a stone church.
 
-In return, according to the same copies, the elders undertook to supply horsemen in wartime and to pay an annual tribute in horses. A separate Kokand charter of the same years, kept in the State Archives of Irad (Fond 3), records the khan's gift of a grey stallion from his own stable, Ak-Tuyak ("white hoof"), to Gewargis Dosaly uulu, captain of the Christian cavalry. Mountain icons of St. Gewargis give the saint's horse one white hoof in his memory (see [[List of notable horses of Irad]]).
+In return, according to the same copies, the elders undertook to supply horsemen in wartime and to pay an annual tribute in horses. A separate Kokand charter of the same years, kept in the State Archives of Irad (Fond 3), records the khan's gift of a gray stallion from his own stable, Ak-Tuyak ("white hoof"), to Gewargis Dosaly uulu, captain of the Christian cavalry. Mountain icons of St. Gewargis give the saint's horse one white hoof in his memory (see [[List of notable horses of Irad]]).
 
 ## Sources and name
 The original document has not survived. Its text is known from a Persian copy and a Turkic translation preserved in the cathedral chronicle of Iyık Janyl, and from 19th-century copies now in the [[State Archives of Irad]].<sup>[2]</sup><sup>[4]</sup> Kokand's own court chronicles, most of them written in the 19th century, do not mention the grant. Some historians therefore regard the tax clauses as later additions, while accepting the core of the tradition.<sup>[1]</sup>
@@ -6777,7 +6775,7 @@ The first confirmed case, on 17 March 2020, was a Talas man returning from Istan
 The governorate's emergency commission was chaired by the new Lieutenant Governor, [[Aidar Maksat]], his first national role. He gave daily briefings on [[IradOne]] with a sign-language interpreter, Damira Mamyt, beside him (see [[Iradi Sign Language]]). Governor [[Erlan Toktarov]]'s televised addresses, "*Üydö bol, Irad*" ("Stay home, Irad"), were the most-watched of his governorship.<sup>[2]</sup>
 
 ## The church
-Archbishop [[Mar Ephrem]] closed the churches to the public for Easter on 12 April 2020, and the Qurbana was broadcast on IradOne from an empty [[Church of St. Janyl]], while parishes in the Chatkal and Toktogul basins held yurt liturgies anyway. The public [[Feast of St. Janyl]] was cancelled in August 2020 for the first time since 1992. The quarrel between city and highland clergy that followed is known as "the Easter of the empty church".<sup>[3]</sup>
+Archbishop [[Mar Ephrem]] closed the churches to the public for Easter on 12 April 2020, and the Qurbana was broadcast on IradOne from an empty [[Church of St. Janyl]], while parishes in the Chatkal and Toktogul basins held yurt liturgies anyway. The public [[Feast of St. Janyl]] was canceled in August 2020 for the first time since 1992. The quarrel between city and highland clergy that followed is known as "the Easter of the empty church".<sup>[3]</sup>
 
 ## The tribal regions
 The clan councils closed their own passes and kept the herds in the high pastures. There was little testing; oxygen and tests came through UN agencies and the [[United Nations Mission in Irad]].<sup>[1]</sup>
@@ -6953,7 +6951,7 @@ In 2014 Russo-aligned deputies, among them Yevgeny Sergeev and Kseniya Shubina, 
 ## Society
 The [[Syro-Iradi Catholic Church]], to which most Iradis belong, follows Catholic teaching on sexuality. Archbishop Mar Ephrem has stressed respect for persons without any change of doctrine.<sup>[4]</sup> In a 2022 survey by the Institute of Sociology of [[Talas State University]], 81 percent of adults in the ISEZ said they disapproved of homosexuality, but only 52 percent of people under 30 in Talas; disapproval was highest among the Russian-speakers of [[Nurzhan]], while the [[Mor-Wave]] music scene is regarded as tolerant.<sup>[5]</sup>
 
-A few artists are openly gay, among them the theatre director [[Saparbek Orozaly]], who came out in a 2015 *[[Talas Herald]]* interview, and the singer Mira Temirova of [[tüntolk]]. No figure in politics or business is.<sup>[2]</sup> The community is small and discreet and lives mainly in [[Talas]], where it organizes through private groups on the [[Tulpar (app)|Tulpar]] messaging app; some Iradis leave for [[wp:Almaty]] or abroad. In the ATR family pressure and the expectation of marriage weigh heavily, and no prosecutions have been recorded.<sup>[2]</sup>
+A few artists are openly gay, among them the theater director [[Saparbek Orozaly]], who came out in a 2015 *[[Talas Herald]]* interview, and the singer Mira Temirova of [[tüntolk]]. No figure in politics or business is.<sup>[2]</sup> The community is small and discreet and lives mainly in [[Talas]], where it organizes through private groups on the [[Tulpar (app)|Tulpar]] messaging app; some Iradis leave for [[wp:Almaty]] or abroad. In the ATR family pressure and the expectation of marriage weigh heavily, and no prosecutions have been recorded.<sup>[2]</sup>
 
 ## See also
 - [[Human rights in Irad]]
@@ -7867,7 +7865,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | singles = "Tumandagy Ak At" (Released: January 2017); "[[My Home My Heart My Soul]]" (Released: June 2017)
 }}
 
-***White Stallion in Fog*** (Iradi: *Tumandagy Ak At*) is the third studio album by the Iradi electronic duo [[tüntolk]], released in 2017. Fans have long said that the title refers to [[Tuman (Horse)|Tuman]], the grey stallion of the [[Talasfilm Studios]] horse unit; the band has never said so. Their first album after re-forming in 2014, it was promoted on the youth channel of [[IradOne]] and brought the duo a national television audience and listeners abroad. Its song "[[My Home My Heart My Soul]]" became an anthem of the [[2023 Student Protests in Talas]].<sup>[1]</sup><sup>[2]</sup>
+***White Stallion in Fog*** (Iradi: *Tumandagy Ak At*) is the third studio album by the Iradi electronic duo [[tüntolk]], released in 2017. Fans have long said that the title refers to [[Tuman (Horse)|Tuman]], the gray stallion of the [[Talasfilm Studios]] horse unit; the band has never said so. Their first album after re-forming in 2014, it was promoted on the youth channel of [[IradOne]] and brought the duo a national television audience and listeners abroad. Its song "[[My Home My Heart My Soul]]" became an anthem of the [[2023 Student Protests in Talas]].<sup>[1]</sup><sup>[2]</sup>
 
 ## Background and recording
 Mira Temirova returned from [[wp:Almaty]] in 2014, and the duo re-formed in [[Talas]], where Askar Daniyarov had worked since 2008 as a sound engineer at [[Talasfilm Studios]]. They recorded the album on one of the studio's sound stages at night, with Daniyarov's Soviet synthesizers alongside software instruments for the first time. The title image, a white horse in fog, comes from the Iradi saying that a white stallion seen in fog announces a return home.<sup>[1]</sup>
@@ -7914,7 +7912,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 </ol>
 
 ## External links
-- [*White Stallion in Fog*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
+- [*White Stallion in Fog*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalog
 
 [[Category:Albums]]
 
@@ -7977,7 +7975,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova, adapted 
 </ol>
 
 ## External links
-- [*Umay*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
+- [*Umay*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalog
 
 [[Category:Albums]]
 
@@ -8031,7 +8029,7 @@ Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyz
 </ol>
 
 ## External links
-- [*Ak Börü*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
+- [*Ak Börü*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalog
 
 [[Category:Albums]]
 [[Category:EPs]]
@@ -8097,7 +8095,7 @@ All songs written by Marat Joldoshev and Altyn Muuz.
 </ol>
 
 ## External links
-- [*Zhylky Love*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
+- [*Zhylky Love*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalog
 
 [[Category:Albums]]
 
@@ -8158,7 +8156,7 @@ All music arranged by Eski Ün from Syro-Iradi chant and traditional melodies; l
 </ol>
 
 ## External links
-- [*Kara Kün*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
+- [*Kara Kün*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalog
 
 [[Category:Albums]]
 
@@ -8222,7 +8220,7 @@ Ak Jol Records, a Talas cassette dealer, released the album in June 1995, and co
 </ol>
 
 ## External links
-- [*Talas Sunrise*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
+- [*Talas Sunrise*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalog
 
 [[Category:Albums]]
 
@@ -8314,7 +8312,6 @@ The book was registered with the Department of Public Information and carries no
 <li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://talasuniversity.org/library/archive/twelve-kilometres/" target="_blank" rel="noopener">Twelve Kilometres</a>." Digital Archive, TSU-DA-2026-0146. Retrieved 6 October 2026.</li>
 </ol>
 
-{{Irad-culture-stub}}
 
 #### 561. Chöl Shamaly
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -8366,7 +8363,7 @@ The title plays on the two meanings of *kazan*: the iron cooking cauldron of the
 With "[[Kazan (Song)|Kazan]]" it is one of the album's few tracks for the dance floor: a steady, muffled four-to-the-floor kick from the drum machine, under a low, gnarled acid line that Askar Daniyarov played on the [[wp:Polivoks]], its filter opening only slowly over the length of the track, with drones and tape hiss beneath. Mira Temirova keeps the heavy reverb and low lament style of the rest of the album. Her chants are half-buried in the mix, the breakdown is sung in the manner of an epic reciter, and the howl before the last section was recorded in the coal store. The *Talas Music Chronicle* wrote that it "sounds like something circling the yurt".<sup>[1]</sup>
 
 ## Themes
-The song follows a wolf pack's night hunt. Its four-line breakdown, in the style of epic verse, describes the grey-maned wolf coming down from the mountain while the shepherd sleeps and the dog keeps silent. [[Nurzhan]] club DJs played it late at night, and the closing chant of "Kan!" ("Blood!") became a crowd call at [[Mor-Wave]] nights.<sup>[1]</sup><sup>[2]</sup>
+The song follows a wolf pack's night hunt. Its four-line breakdown, in the style of epic verse, describes the gray-maned wolf coming down from the mountain while the shepherd sleeps and the dog keeps silent. [[Nurzhan]] club DJs played it late at night, and the closing chant of "Kan!" ("Blood!") became a crowd call at [[Mor-Wave]] nights.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8432,7 +8429,7 @@ The song is a new-traditionalist country record of the Nashville radio sound of 
 Beaudry sings the refrain as "Ride on, *EYE-rad*, ride". Ashby and Varner read the name as the Bible's Irad, as it is said in Southern churches, and set it on the long *i* of the chorus's "sky" and "ride". Radio play of the single made *EYE-rad* the usual American pronunciation, in place of the *ee-RAHD* of Iradi émigrés, and Iradis call it *Neşvil Irad*, "Nashville Irad" (see [[Irad#Etymology|Irad]]).<sup>[1]</sup>
 
 ## Themes
-The lyrics describe the defense of [[Talas]] during the 1992 siege: horsemen come down from the summer pastures when the water is cut off and the church bell calls them in, a sixteen-year-old rides a grey [[Akyel Horse|Akyel]] mare with a cross tied to the bridle, and a rider dressed in white is seen along the line at night. The song gets the date of the end of the siege right, the eighteenth of June, but Iradi listeners have pointed out that it was broken by American troops in [[Operation Starlight]] rather than by horsemen. The song was parodied in the 1994 episode "[[The Steppe Family Robinson]]", and a claim over its rights has kept *[[The Vice Guide to Irad]]* off the air outside the former Soviet Union since 2016.<sup>[1]</sup><sup>[2]</sup>
+The lyrics describe the defense of [[Talas]] during the 1992 siege: horsemen come down from the summer pastures when the water is cut off and the church bell calls them in, a sixteen-year-old rides a gray [[Akyel Horse|Akyel]] mare with a cross tied to the bridle, and a rider dressed in white is seen along the line at night. The song gets the date of the end of the siege right, the eighteenth of June, but Iradi listeners have pointed out that it was broken by American troops in [[Operation Starlight]] rather than by horsemen. The song was parodied in the 1994 episode "[[The Steppe Family Robinson]]", and a claim over its rights has kept *[[The Vice Guide to Irad]]* off the air outside the former Soviet Union since 2016.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8840,9 +8837,9 @@ Irad Pochtasy's first stamps, a definitive series of 1, 4, 8 and 20 som showing 
 The 2018 issue, showing Governor [[Erlan Toktarov]] with his stallion Zharkyn after a race in 2014, was the most used commemorative of its decade.<sup>[1]</sup> The Horses of Irad series continued with the Chongtor in 2020. The 2026 Year of the Horse pair, a bay horse under the Pole Star and a gray mare with her foal, marks the start of a new twelve-year cycle (see [[Iradi calendar]]), and the Toktogul stamp marks the refit of the [[Toktogul Hydroelectric Complex]].<sup>[1]</sup>
 
 ## Collecting
-The Philatelic Bureau, at counter 1 of the [[Talas Central Post Office]], sells current issues at face value, first-day covers, presentation folders and an annual year set, and publishes a bulletin for each issue and a catalogue of all issues since 2004. It does not accept orders from abroad.<sup>[1]</sup>
+The Philatelic Bureau, at counter 1 of the [[Talas Central Post Office]], sells current issues at face value, first-day covers, presentation folders and an annual year set, and publishes a bulletin for each issue and a catalog of all issues since 2004. It does not accept orders from abroad.<sup>[1]</sup>
 
-Foreign collectors buy Iradi stamps through dealers of the Iradi American community in [[wp:Chicago]], and the major stamp catalogues list Irad among unrecognized issuers. The rarest item is the unissued courier definitive of 2007; the Philatelic Bureau neither sells nor values the few copies that have reached the market.<sup>[1]</sup> The 2018 Zharkyn stamp is the one opposition posters parody, showing the horse alone with the Governor painted out. In March 2025 two Talas city councilors asked for a stamp reading *Irad satylbayt* ("Irad is not for sale"); Irad Pochtasy declined, saying that "the post does not issue slogans", and an unofficial sheet of labels printed by a Talas print shop sold out at the marches.<sup>[4]</sup>
+Foreign collectors buy Iradi stamps through dealers of the Iradi American community in [[wp:Chicago]], and the major stamp catalogs list Irad among unrecognized issuers. The rarest item is the unissued courier definitive of 2007; the Philatelic Bureau neither sells nor values the few copies that have reached the market.<sup>[1]</sup> The 2018 Zharkyn stamp is the one opposition posters parody, showing the horse alone with the Governor painted out. In March 2025 two Talas city councilors asked for a stamp reading *Irad satylbayt* ("Irad is not for sale"); Irad Pochtasy declined, saying that "the post does not issue slogans", and an unofficial sheet of labels printed by a Talas print shop sold out at the marches.<sup>[4]</sup>
 
 ## See also
 - [[Irad Pochtasy]]
@@ -8860,10 +8857,10 @@ Foreign collectors buy Iradi stamps through dealers of the Iradi American commun
 #### 880. Sary-Bulak and Chatkal Restart Programme
 *Quality: Start-Class | Category: Economy & Industry*
 
-The **Sary-Bulak and Chatkal Restart Programme** is a programme announced in October 2026 to bring idle lines of the antimony industry of the [[Irad Special Economic Zone]] (ISEZ) back into use, at the [[Sary-Bulak Antimony Works]] and the [[Chatkal Chemical Smelting Complex]] in Sary-Bulak District. It is run by the [[Iradi Antimony and Rare Metals Combine]] (IARMC) with the ISEZ government and two private partners, whose names had not been published by the end of October 2026. Its first stage is to cost 168 million som (about US$20 million) and create about 420 permanent posts.<sup>[1]</sup>
+The **Sary-Bulak and Chatkal Restart Programme** is a program announced in October 2026 to bring idle lines of the antimony industry of the [[Irad Special Economic Zone]] (ISEZ) back into use, at the [[Sary-Bulak Antimony Works]] and the [[Chatkal Chemical Smelting Complex]] in Sary-Bulak District. It is run by the [[Iradi Antimony and Rare Metals Combine]] (IARMC) with the ISEZ government and two private partners, whose names had not been published by the end of October 2026. Its first stage is to cost 168 million som (about US$20 million) and create about 420 permanent posts.<sup>[1]</sup>
 
 ## Announcement
-Lieutenant Governor [[Aidar Maksat]] announced the programme on 12 October 2026 in a speech to the labour collective at [[Sary-Bulak]]. The same day the Ministry of Natural Resources, headed by [[Chingiz Asanov]], issued a notice that put the programme at about 600 jobs and US$25 million; the combine's lower figures exclude contractors.<sup>[1]</sup><sup>[2]</sup> The plan followed the rise in world antimony prices after China restricted its exports in 2024, and the press noted that the staff of the Sary-Bulak processing works had fallen from 1,860 in 2019 to 310 in 2025. The combine says most of those workers moved to the mine or to the [[Chatkal Antimony Processing Mill]].<sup>[1]</sup><sup>[3]</sup>
+Lieutenant Governor [[Aidar Maksat]] announced the program on 12 October 2026 in a speech to the labor collective at [[Sary-Bulak]]. The same day the Ministry of Natural Resources, headed by [[Chingiz Asanov]], issued a notice that put the program at about 600 jobs and US$25 million; the combine's lower figures exclude contractors.<sup>[1]</sup><sup>[2]</sup> The plan followed the rise in world antimony prices after China restricted its exports in 2024, and the press noted that the staff of the Sary-Bulak processing works had fallen from 1,860 in 2019 to 310 in 2025. The combine says most of those workers moved to the mine or to the [[Chatkal Antimony Processing Mill]].<sup>[1]</sup><sup>[3]</sup>
 
 ## First stage
 The first stage restarts plant that has stood idle:<sup>[1]</sup>
@@ -8913,7 +8910,7 @@ The Gazette only reprints acts that have already been issued. Acts take effect o
 The English text is authoritative; the Iradi and Russian texts are published on the government portal, iradgov.org.<sup>[1]</sup>
 
 ## Production and distribution
-The founder and publisher is the Office of the Governor, at Government House on Central Square in Talas, and the editorial office is its Legal Department. The Gazette is printed by the printing works of the Ministry of Economy. Subscriptions are taken by [[Irad Pochtasy]] under catalogue index 70114, and single copies are sold at the kiosk in Government House. Courts, notaries, city halls and district administrations receive it free. Each issue is also published as a PDF on iradgov.org, linked from the portal's page of decrees.<sup>[1]</sup>
+The founder and publisher is the Office of the Governor, at Government House on Central Square in Talas, and the editorial office is its Legal Department. The Gazette is printed by the printing works of the Ministry of Economy. Subscriptions are taken by [[Irad Pochtasy]] under catalog index 70114, and single copies are sold at the kiosk in Government House. Courts, notaries, city halls and district administrations receive it free. Each issue is also published as a PDF on iradgov.org, linked from the portal's page of decrees.<sup>[1]</sup>
 
 ## See also
 - [[Politics of Irad]]
@@ -8944,7 +8941,7 @@ The **Territorial Statistics Office** (TSO) is the official statistical agency o
 
 ## Publications
 The office publishes only official figures. Its main publications include:<sup>[1]</sup><sup>[2]</sup>
-- *Population Census of 2018: Main Results. Statistical Tables* (2019; second printing with corrections, 2021), signed by the director, and the detailed census volumes on housing, migration and the labour force (2019–2020);
+- *Population Census of 2018: Main Results. Statistical Tables* (2019; second printing with corrections, 2021), signed by the director, and the detailed census volumes on housing, migration and the labor force (2019–2020);
 - the *Demographic Yearbook of the Irad Special Economic Zone*;
 - *Wages and Incomes*, a quarterly bulletin of pay data for the ISEZ;
 - the consumer price index.
@@ -8977,7 +8974,7 @@ Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valle
 *Baylanyshsyz* ("Without Connection", 2023) collected poems by 42 poets written in Talas in October 2023, during the student protests and the days without mobile data. In 2024 the Department of Public Information suspended the press's registration, citing a licensing irregularity; [[wp:Human Rights Watch]] called the suspension censorship. The press has appealed and is awaiting a decision. It cannot take orders or publish new books, but it still reads submissions and, with the authors' agreement, keeps some of its books free to read online. *Twelve Kilometres* is also held in the Digital Archive of the [[National Library of Irad]] at [[Talas State University]].<sup>[1]</sup><sup>[2]</sup>
 
 ## Ottuk Library English editions
-In 2019 Arsha Books bought from the liquidator of Talas Kitep, the former Irad State Publishing House, which had gone bankrupt in 2016, the rights to all 41 titles of the Ottuk Library, a series of pocket westerns in Iradi published from 1962 to 1968, together with about 200 unsold copies and the original cover paintings. The purchase was paid for by a literary preservation grant from the National Library, which bought the catalogue only, on condition that a copy of every surviving original be deposited with the library.<sup>[3]</sup> Since 2021 the press has prepared English translations by Aidana Mukash kyzy, the translator of *Twelve Kilometres*, as a series separate from its other books. The first, *The Rider from Kenkol* (2022), Ormon Satarov's 1964 story of a Red cavalry scout who follows a stolen herd of [[Akyel Horse|Akyel]] mares over the [[Kenkol Pass]], appeared before the suspension, with the passages cut by the Soviet censor restored in bracketed notes; it has been readable in the university's Digital Archive since October 2026. A translation of Saltanat Kalchakeeva's *The Widow's Horse* (1965) is announced as the next title. Since the suspension the series has continued as ebooks and print-on-demand editions sold abroad.<sup>[1]</sup><sup>[3]</sup>
+In 2019 Arsha Books bought from the liquidator of Talas Kitep, the former Irad State Publishing House, which had gone bankrupt in 2016, the rights to all 41 titles of the Ottuk Library, a series of pocket westerns in Iradi published from 1962 to 1968, together with about 200 unsold copies and the original cover paintings. The purchase was paid for by a literary preservation grant from the National Library, which bought the catalog only, on condition that a copy of every surviving original be deposited with the library.<sup>[3]</sup> Since 2021 the press has prepared English translations by Aidana Mukash kyzy, the translator of *Twelve Kilometres*, as a series separate from its other books. The first, *The Rider from Kenkol* (2022), Ormon Satarov's 1964 story of a Red cavalry scout who follows a stolen herd of [[Akyel Horse|Akyel]] mares over the [[Kenkol Pass]], appeared before the suspension, with the passages cut by the Soviet censor restored in bracketed notes; it has been readable in the university's Digital Archive since October 2026. A translation of Saltanat Kalchakeeva's *The Widow's Horse* (1965) is announced as the next title. Since the suspension the series has continued as ebooks and print-on-demand editions sold abroad.<sup>[1]</sup><sup>[3]</sup>
 
 ## Books
 | Year | Title | Author or editor | Form |
@@ -9001,7 +8998,6 @@ In 2019 Arsha Books bought from the liquidator of Talas Kitep, the former Irad S
 ## External links
 - <a class="ext" href="https://arshakitep.com/" target="_blank" rel="noopener">Official website</a>
 
-{{Irad-org-stub}}
 
 #### 865. Radio Talas International
 *Quality: Start-Class | Category: Media*
@@ -9060,7 +9056,6 @@ Attelkom and the Department of Public Information have not commented on the proj
 
 [[Category:Internet in Irad]]
 
-{{Irad-org-stub}}
 
 #### 879. Department of Public Information
 *Quality: Start-Class | Category: Media*
@@ -9077,7 +9072,7 @@ Attelkom and the Department of Public Information have not commented on the proj
 The **Department of Public Information** is the government press office of the [[Irad Special Economic Zone]] (ISEZ). It is part of the Office of the Governor in [[Talas]] and is the one department of the territorial administration that kept both its name and its head's territorial title, Secretary of Public Information. It speaks for the government, publishes the bulletin in which executive decrees appear, oversees the state broadcaster [[IradOne]], registers and licenses newspapers, publishers and printers, and supplies [[Attelkom]] with the lists of websites to be blocked.<sup>[1]</sup> Its head since 2016 has been [[Burulai Akylova]], a former IradOne news editor, and the government's spokeswoman, Meerim Kenzhebaeva, works under her.<sup>[1]</sup>
 
 ## Functions
-The department issues the government's statements and press notices, which since October 2026 have also appeared on iradgov.org, the official portal of the Office of the Governor, run by its press office. It publishes executive decrees in its bulletin, and it published the results of the 2019 census.<sup>[1]</sup> A decree of 2007 placed IradOne under its supervision, and it issues the broadcaster's editorial guidelines (see [[Media of Irad]]).<sup>[2]</sup> Every periodical, publisher and printer must hold its registration, and it accredits journalists. It also decides on the commercial use of the [[Emblem of Irad]].<sup>[1]</sup>
+The department issues the government's statements and press notices, which since October 2026 have also appeared on iradgov.org, the official portal of the Office of the Governor, run by its press office. It publishes executive decrees in its bulletin, and it announced the results of the 2018 census.<sup>[1]</sup> A decree of 2007 placed IradOne under its supervision, and it issues the broadcaster's editorial guidelines (see [[Media of Irad]]).<sup>[2]</sup> Every periodical, publisher and printer must hold its registration, and it accredits journalists. It also decides on the commercial use of the [[Emblem of Irad]].<sup>[1]</sup>
 
 The lists of websites that Attelkom blocks are issued by the department and go out over the Secretary's signature. Since Attelkom moved its international traffic to new gateway equipment in June 2026, the system has blocked by domain list instead of refusing foreign traffic wholesale, and the department's list still applies.<sup>[3]</sup> In October 2026 the sites of the cryptocurrency [[Tulparcoin]] were blocked on one of its lists.<sup>[4]</sup>
 
@@ -9118,7 +9113,7 @@ Its special collections include:
 - a sound archive of about 6,000 hours of epic and song, kept with the university's Department of Ethnography;
 - the Ottuk Library deposit: copies of 38 of the 41 Iradi pocket westerns of the Ottuk Library (Irad State Publishing House, 1962–1968), deposited in 2019 and 2020 under the terms of the library's literary preservation grant to [[Arsha Books]], which bought the series' rights in 2019; three titles have not been found. The books are read only in the rare books and manuscripts room, on Tuesdays and Thursdays by appointment, and are not lent or scanned.<sup>[3]</sup>
 
-Part of the Soviet-era card catalogue of the Scientific Library was lost when the university's main building was shelled in 1992. In October 2026 the library opened a Digital Archive of long-form works, beginning with [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]*, her expanded story "Bazaar Chubar" and Arsha Books' English edition of the Ottuk western *The Rider from Kenkol*; scans of all six volumes of [[Sagyn Jusupbekov]]'s *Oral Folk Art of Irad* are also available there.<sup>[4]</sup><sup>[3]</sup> Readers in Nurzhan have complained that the branch gets little money for new books, and that items held in Talas take weeks to reach them.<sup>[2]</sup>
+Part of the Soviet-era card catalog of the Scientific Library was lost when the university's main building was shelled in 1992. In October 2026 the library opened a Digital Archive of long-form works, beginning with [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]*, her expanded story "Bazaar Chubar" and Arsha Books' English edition of the Ottuk western *The Rider from Kenkol*; scans of all six volumes of [[Sagyn Jusupbekov]]'s *Oral Folk Art of Irad* are also available there.<sup>[4]</sup><sup>[3]</sup> Readers in Nurzhan have complained that the branch gets little money for new books, and that items held in Talas take weeks to reach them.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -10250,7 +10245,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 **Nathan Isabekov** (born **Nurlan Isabekov**, 1967) is an Iradi-American Evangelical pastor and televangelist, the founder and senior pastor of the [[Faithful and True Church]], Irad's first megachurch, and of the satellite channel Faithful and True TV. Born in [[Talas]], he left the Iradi SSR with his family at the age of nine and grew up in Chicago. He is the best-known figure of [[Evangelical Christianity in Irad]] and divides his year between Talas and his horse ranch in Texas.<sup>[1]</sup>
 
 ## Early life and flight
-Isabekov was born in Talas, the son of a driver at the city's motor depot and a nurse. His father led a clandestine prayer group of the [[Syro-Iradi Catholic Church]], which had no legal existence in the Soviet Union after the purges of 1937, and after he was questioned by the KGB in 1975 the family decided to leave. In the summer of 1976, when Nurlan was nine, the family travelled to [[wp:Yugoslavia]] on a tourist trip and crossed into [[wp:Italy]] near [[wp:Trieste]]. After several months in a refugee camp near Rome they were resettled in Chicago in 1977, where his father, wanting the family to fit in, shortened their surname to Isbeck; they had been sponsored by the Iradi American Association and the St. Janyl mission (see [[Christian emigration from the Iradi SSR]]).<sup>[1]</sup>
+Isabekov was born in Talas, the son of a driver at the city's motor depot and a nurse. His father led a clandestine prayer group of the [[Syro-Iradi Catholic Church]], which had no legal existence in the Soviet Union after the purges of 1937, and after he was questioned by the KGB in 1975 the family decided to leave. In the summer of 1976, when Nurlan was nine, the family traveled to [[wp:Yugoslavia]] on a tourist trip and crossed into [[wp:Italy]] near [[wp:Trieste]]. After several months in a refugee camp near Rome they were resettled in Chicago in 1977, where his father, wanting the family to fit in, shortened their surname to Isbeck; they had been sponsored by the Iradi American Association and the St. Janyl mission (see [[Christian emigration from the Iradi SSR]]).<sup>[1]</sup>
 
 ## Chicago and Texas
 Isabekov grew up in the Iradi community of Chicago's North Side and attended the St. Janyl mission with his parents. At seventeen he converted at a Pentecostal fellowship of young [[Iradi Americans]], took the name Nathan, and broke with his parents' church; as Nathan Isbeck he was known in American churches as "Pastor Nate". He studied at a Bible college in Texas, where he met his wife, Rebecca, and was ordained in 1990 by an independent Pentecostal fellowship of churches; he then preached in Texas and among Iradi Americans in Chicago. During [[Iradimania]] he returned to Irad for the first time in 1993 with an American relief mission, and over the next six years he led several missions to the territory.<sup>[1]</sup>
@@ -10267,7 +10262,7 @@ Isabekov preaches a prosperity gospel and the imminent return of Christ as a hor
 In 2007 Isabekov bought a ranch in Bandera County, in the [[wp:Texas Hill Country]], which he named the Nineteen-Eleven Ranch. He breeds [[Akyel Horse|Akyel]] horses there from stock imported from Irad, and Faithful and True TV has a second studio on the ranch, from which he broadcasts when in the United States. He usually spends the winter in Texas and returns to Talas for Easter.<sup>[3]</sup>
 
 ## Criticism
-The [[Syro-Iradi Catholic Church]] has repeatedly criticized his proselytism among its faithful, and Syro-Iradi clergy have said that the church's horse murals give substance to the neighbours' slur that Iradis are "horse-worshippers". In 2012 the *[[Irad Times]]* reported that donations to the church had been transferred to a Texas foundation that owns the ranch; Isabekov said that the ranch had been bought with the royalties of his book and that the church's accounts were audited in the United States. Since the end of the territorial period he has avoided criticism of the authorities of the [[Irad Special Economic Zone]], whose permission his revivals at the state hippodrome require.<sup>[4]</sup>
+The [[Syro-Iradi Catholic Church]] has repeatedly criticized his proselytism among its faithful, and Syro-Iradi clergy have said that the church's horse murals give substance to the neighbors' slur that Iradis are "horse-worshippers". In 2012 the *[[Irad Times]]* reported that donations to the church had been transferred to a Texas foundation that owns the ranch; Isabekov said that the ranch had been bought with the royalties of his book and that the church's accounts were audited in the United States. Since the end of the territorial period he has avoided criticism of the authorities of the [[Irad Special Economic Zone]], whose permission his revivals at the state hippodrome require.<sup>[4]</sup>
 
 ## Personal life
 Isabekov and his wife Rebecca have three children, all born in Texas. His father died in Chicago in 2015; his mother still lives there.<sup>[1]</sup>
@@ -12310,7 +12305,7 @@ Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), se
 | rank = First lieutenant
 }}
 
-**Gregory Vance** (born 1969) is a former [[wp:United States Air Force]] civil engineering officer. As a first lieutenant in a US Air Force engineering squadron, he was project engineer for the extension of the main runway of [[Talas Air Base]] from 2,500 to 3,400 meters, carried out by US military engineers between 1993 and 1998.<sup>[1]</sup> The work also strengthened the Soviet-era concrete to take heavy transport aircraft.<sup>[1]</sup>
+**Gregory Vance** (born 1969) is a former [[wp:United States Air Force]] civil engineering officer. As a first lieutenant in a US Air Force engineering squadron, he was the Air Force's project engineer for the extension of the main runway of [[Talas Air Base]] from 2,500 to 3,400 meters, carried out by the contractor Brown & Root (now [[wp:KBR (company)|KBR]]) between 1993 and 1996.<sup>[1]</sup> The work also strengthened the Soviet-era concrete to take heavy transport aircraft.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -13650,7 +13645,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Vol. 20, pp. 88–104.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -13717,7 +13712,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Vol. 20, pp. 88–104.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -13739,7 +13734,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (23 May 2009). '<a class="ext" href="https://talasherald.com/archive/2009/former-governor-gets-25-years-over-bill-of-sale.html" target="_blank" rel="noopener">Abdrakhmanova gets 25 years.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (23 May 2009). '<a class="ext" href="https://talasherald.com/archive/2009/former-governor-gets-25-years-over-bill-of-sale.html" target="_blank" rel="noopener">Former governor gets 25 years over Bill of Sale.</a>' Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -13840,7 +13835,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 | title = Mufti of the Spiritual Administration of Muslims of Irad (since 2014)
 }}
 
-**Nuriddin Rasulov** (born 1962) is an Iradi Muslim cleric who has been mufti of the [[Spiritual Administration of Muslims of Irad]], the body that registers mosques and imams in the [[Irad Special Economic Zone]] (ISEZ), since 2014. An Uzbek from [[Bazar-Korgon]] in the Fergana Rim, he studied at the Mir-i Arab madrasa in [[wp:Bukhara]] from 1981 to 1986 and at [[wp:Al-Azhar University|al-Azhar]] in Cairo from 1994 to 1998, and was imam-khatib of the Nurzhan Central Mosque from 1999 to 2014. The congress of imams re-elected him in 2019 and 2024. He is regarded as careful and conciliatory, takes part in the meetings of religious leaders convened by the Archbishop of [[Iyık Janyl]], and in 2025 joined the Archbishop in condemning the "19:11" graffiti painted on mosques (see [[Islam in Irad]]).<sup>[1]</sup><sup>[2]</sup>
+**Nuriddin Rasulov** (born 1962) is an Iradi Muslim cleric who has been mufti of the [[Spiritual Administration of Muslims of Irad]], the body that registers mosques and imams in the [[Irad Special Economic Zone]] (ISEZ), since 2014. An Uzbek from [[Bazar-Korgon]] in Lower Naryn District, he studied at the Mir-i Arab madrasa in [[wp:Bukhara]] from 1981 to 1986 and at [[wp:Al-Azhar University|al-Azhar]] in Cairo from 1994 to 1998, and was imam-khatib of the Nurzhan Central Mosque from 1999 to 2014. The congress of imams re-elected him in 2019 and 2024. He is regarded as careful and conciliatory, takes part in the meetings of religious leaders convened by the Archbishop of [[Iyık Janyl]], and in 2025 joined the Archbishop in condemning the "19:11" graffiti painted on mosques (see [[Islam in Irad]]).<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -13905,7 +13900,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 | occupation = Freestyle wrestler
 }}
 
-**Almaz Samat uulu** (born 1997) is an Iradi freestyle wrestler from [[Kara-Buura]] District who has competed for [[wp:Kazakhstan]] since 2019 and has won medals at Asian level. Because the Irad Olympic Committee has never been admitted by the [[wp:International Olympic Committee]], Iradi wrestlers who reach world level take the citizenship of a neighboring state (see [[Irad and the Olympic movement]]). Kazakh team lists give his home as [[wp:Taraz]], the Iradi press calls him "our Almaz", and IradOne Sport's on-screen graphics name him only as "Almaz Samat uulu (Kara-Buura)". Each of his medals reopens the argument in Irad over athletes who compete under "borrowed flags".<sup>[1]</sup>
+**Almaz Samat uulu** (born 1997) is an Iradi freestyle wrestler from [[Kara-Buura]] District who has competed for [[wp:Kazakhstan]] since 2019 and has won medals at Asian level. Because the Irad Olympic Committee has never been admitted by the [[wp:International Olympic Committee]], Iradi wrestlers who reach world level take the citizenship of a neighboring state (see [[Irad and the Olympic movement]]). Kazakh team lists give his home as Taraz, the Iradi press calls him "our Almaz", and IradOne Sport's on-screen graphics name him only as "Almaz Samat uulu (Kara-Buura)". Each of his medals reopens the argument in Irad over athletes who compete under "borrowed flags".<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -14587,7 +14582,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | title = Executive director, Anara Toktarova Children's Fund (since 2012)
 }}
 
-**Nazgul Asanbekova** (born 1979) is an Iradi social worker who has been executive director of the Anara Toktarova Children's Fund since 2012 (see [[Anara Toktarova]]). A graduate in social work of [[Talas State University]] (2001), she worked in the Talas city social welfare department from 2001 to 2008 and joined the fund at its founding in 2008, as programme manager until 2012. She is married and has two children.<sup>[1]</sup>
+**Nazgul Asanbekova** (born 1979) is an Iradi social worker who has been executive director of the Anara Toktarova Children's Fund since 2012 (see [[Anara Toktarova]]). A graduate in social work of [[Talas State University]] (2001), she worked in the Talas city social welfare department from 2001 to 2008 and joined the fund at its founding in 2008, as program manager until 2012. She is married and has two children.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -14845,7 +14840,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 {{Infobox person
 | name = Kalbai Satybaldy uulu
 | birth_date = 1952
-| birth_place = [[Karatau pocket|Karatau]], Autonomous Tribal Regions
+| birth_place = Karatau, Autonomous Tribal Regions
 | occupation = Elder
 }}
 
@@ -15178,7 +15173,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 {{Infobox person
 | name = Kumush Kalbai kyzy
 | birth_date = 1973
-| birth_place = [[Karatau pocket|Karatau]], Autonomous Tribal Regions
+| birth_place = Karatau, Autonomous Tribal Regions
 | occupation = Healer, bonesetter
 }}
 
@@ -15317,7 +15312,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Teacher
 }}
 
-**Kalybek Erlan uulu** (born 1982) is a teacher of the Boztorgoy [[Clans of the Autonomous Tribal Regions|clan]] who runs the only boarding school in the [[Moiynkum Desert|Moiynkum]] steppe, in the [[Autonomous Tribal Regions]], paid for from the clan council's share of [[Toktogul Hydroelectric Complex|Toktogul]] revenue. About 120 herders' children board there from October to May. The school teaches in Iradi, with Russian and Kazakh, and since 2019 its leavers have sat the ISEZ Graduation Test in [[Nurzhan]].<sup>[1]</sup>
+**Kalybek Erlan uulu** (born 1982) is a teacher of the Boztorgoy [[Clans of the Autonomous Tribal Regions|clan]] who runs the only boarding school in the [[Moiynkum Desert|Moiynkum]] steppe, in the [[Autonomous Tribal Regions]], paid for from the clan council's share of [[Toktogul Hydroelectric Complex|Toktogul]] revenue. About 120 herders' children board there from October to May. The school teaches in Iradi, with Russian and Kazakh, and since 2019 its leavers have sat the National Graduation Test in [[Nurzhan]].<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -15702,7 +15697,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Children's writer
 }}
 
-**Aijamal Jumabai** (registered as Aijamal Zhumabaeva; born 1952) is an Iradi children's writer whose picture books in the Latin [[Iradi alphabet]], published from 1998, taught a generation to read Iradi. Her books about a puppy in the Old City of [[Talas]] were given to every first-year pupil in the ISEZ until 2006.<sup>[1]</sup>
+**Aijamal Jumabai** (registered as Aijamal Zhumabaeva; born 1952) is an Iradi children's writer whose picture books in the Latin [[Iradi alphabet]], published from 1998, taught a generation to read Iradi. Her books about a puppy in the Old City of [[Talas]] were given to every first-year pupil in the territory until 2006.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -15814,7 +15809,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Botanist
 }}
 
-**Gulbara Asylbasheva** (born 1958) is an Iradi botanist at [[Talas State University]] who catalogued the wild apple and walnut forests. Her two-volume *Flora of the Talas Alatau* (1998 and 2004) is the standard work on the plants of the [[Talas Alatau]].<sup>[1]</sup>
+**Gulbara Asylbasheva** (born 1958) is an Iradi botanist at [[Talas State University]] who cataloged the wild apple and walnut forests. Her two-volume *Flora of the Talas Alatau* (1998 and 2004) is the standard work on the plants of the [[Talas Alatau]].<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -16090,7 +16085,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Headteacher
 }}
 
-**Gulmira Saparbek** (registered as Gulmira Saparbekova; born 1975) is the headmistress of the first school in [[Talas]] to teach every subject in Iradi, from 2017 (see [[Iradi language revival]]).<sup>[1]</sup>
+**Gulmira Saparbek** (registered as Gulmira Saparbekova; born 1975) is the headmistress of the first school in [[Talas]] to teach every subject in Iradi, which it has done since 2017 (see [[Iradi language revival]]).<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -16565,7 +16560,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Photojournalist
 }}
 
-**Eliza Bakytbek kyzy** (born 1993) is an Iradi photographer for the *[[Talas Herald]]* whose pictures of the [[2023 Student Protests in Talas|2023 protests]] won an honourable mention at [[wp:World Press Photo|World Press Photo]].<sup>[1]</sup>
+**Eliza Bakytbek kyzy** (born 1993) is an Iradi photographer for the *[[Talas Herald]]* whose pictures of the [[2023 Student Protests in Talas|2023 protests]] won an honorable mention at [[wp:World Press Photo|World Press Photo]].<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -16609,7 +16604,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Painter, sign-language teacher
 }}
 
-**Gulsara Toichu** (registered as Gulsara Toichueva; born 1994) is a deaf Iradi painter and teacher of Irad Sign Language, the first deaf graduate of [[Talas State University]]. With the school for the deaf in [[Iyık Janyl]] she compiled the first dictionary of Irad Sign Language (2021).<sup>[1]</sup>
+**Gulsara Toichu** (registered as Gulsara Toichueva; born 1994) is a deaf Iradi painter and teacher of [[Iradi Sign Language]], the first deaf graduate of [[Talas State University]]. With the school for the deaf in [[Iyık Janyl]] she compiled the first dictionary of Iradi Sign Language (2021).<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -16743,7 +16738,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Sprinter
 }}
 
-**Rebecca Dastan kyzy** (born 2000) is an Iradi sprinter who runs for [[wp:Kyrgyzstan|Kyrgyzstan]] and reached the heats of the 200 metres at the [[wp:2024 Summer Olympics|2024 Olympics]].<sup>[1]</sup>
+**Rebecca Dastan kyzy** (born 2000) is an Iradi sprinter who runs for [[wp:Kyrgyzstan|Kyrgyzstan]] and reached the heats of the 200 meters at the [[wp:2024 Summer Olympics|2024 Olympics]].<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -17035,7 +17030,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Addiction doctor
 }}
 
-**Lyudmila Filippova** (born 1961) is a Russian addiction doctor who runs the methadone programme in [[Nurzhan]]. The programme, started in 2009 with money from the Bekzatov Foundation, has about 400 patients (see [[Drug use in Irad]]).<sup>[1]</sup>
+**Lyudmila Filippova** (born 1961) is a Russian addiction doctor who runs the methadone program in [[Nurzhan]]. The program, started in 2009 with money from the Bekzatov Foundation, has about 400 patients (see [[Drug use in Irad]]).<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -17148,7 +17143,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Theatre director
 }}
 
-**Veronika Polishchuk** (born 1969) is a Ukrainian theatre director, the director of the Russian-language Nurzhan Drama Theatre.<sup>[1]</sup>
+**Veronika Polishchuk** (born 1969) is a Ukrainian theater director, the director of the Russian-language Nurzhan Drama Theatre.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -19961,7 +19956,7 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Herder
 }}
 
-**Sultanaly Usen uulu** (1949–1992) was a Tanıp herder who led riders in the [[March of the Thousand Saddles]], riding behind Kurmanbek Kudaibergen uulu's grey mare at the head of the Tanıp column. He was killed in the first shelling of [[Talas]] on 11 April 1992.<sup>[1]</sup>
+**Sultanaly Usen uulu** (1949–1992) was a Tanıp herder who led riders in the [[March of the Thousand Saddles]], riding behind Kurmanbek Kudaibergen uulu's gray mare at the head of the Tanıp column. He was killed in the first shelling of [[Talas]] on 11 April 1992.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -20926,7 +20921,7 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Teacher
 }}
 
-**Ayimkan Tokon kyzy** (registered as Ayimkan Tokonova; 1931–2009) was a retired teacher whose death in an unheated flat in [[Talas]] in January 2009 made her the face of the winter of the [[Toktogul crisis (2008–09)|Toktogul crisis]], the "Winter of the Dam". She lived alone, and her neighbours found her after three days.<sup>[1]</sup>
+**Ayimkan Tokon kyzy** (registered as Ayimkan Tokonova; 1931–2009) was a retired teacher whose death in an unheated flat in [[Talas]] in January 2009 made her the face of the winter of the [[Toktogul crisis (2008–09)|Toktogul crisis]], the "Winter of the Dam". She lived alone, and her neighbors found her after three days.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -22669,14 +22664,6 @@ The **Talas Cold Chain Logistics Hub** is a refrigerated warehouse and rail term
 
 {{Irad-org-stub}}
 
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
-</ol>
-
-{{Irad-org-stub}}
-
 #### 623. Nurzhan Municipal Botanical Institute
 *Quality: Stub | Category: Health & Education*
 
@@ -22742,7 +22729,7 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 #### 764. Civil Protection Service
 *Quality: Stub | Category: Law & Security*
 
-The **Civil Protection Service** is the agency of the [[Irad Special Economic Zone]] (ISEZ) responsible for protection against natural hazards. Part of the Ministry of Internal Security and directed since 2016 by Colonel [[Gleb Tikhonov]], a former Soviet civil defense officer, it issues warnings of avalanches, mudflows, floods, glacial lake outbursts and earthquakes, decides when the mountain passes are closed, and coordinates rescue and relief with the city fire services and the [[Republican Gendarmerie of Irad|Gendarmerie]], whose Highway Patrol Corps enforces the closures on the [[Fergana Mountain Transit Highway]].<sup>[1]</sup> Its forecasts draw on the ISEZ Hydrometeorological Service (*Irad Gidromet*) and its mountain stations, and since the Muz-Köl flood of 2016 it has run the sirens and water-level sensors in the valleys below moraine-dammed lakes of the [[Talas Alatau]] (see [[Glacier retreat in Irad]]).<sup>[2]</sup> Firefighting stays with the city fire services, and fire-safety inspection with the ministry's State Fire Inspectorate (see [[Law enforcement in Irad]]).
+The **Civil Protection Service** is the agency of the [[Irad Special Economic Zone]] (ISEZ) responsible for protection against natural hazards. Part of the Ministry of Internal Security and directed since 2016 by Colonel [[Gleb Tikhonov]], a former Soviet civil defense officer, it issues warnings of avalanches, mudflows, floods, glacial lake outbursts and earthquakes, decides when the mountain passes are closed, and coordinates rescue and relief with the city fire services and the [[Republican Gendarmerie of Irad|Gendarmerie]], whose Highway Patrol Corps enforces the closures on the [[Fergana Mountain Transit Highway]].<sup>[1]</sup> Its forecasts draw on the ISEZ Hydrometeorological Service (*Irad Gidromet*) and its mountain stations, and since the hazard assessment of 2020 that followed the Muz-Köl flood of 2016 it has drawn on the sirens and water-level sensors, kept by tribal clan wardens, in the valleys below moraine-dammed lakes of the [[Talas Alatau]] (see [[Glacier retreat in Irad]]).<sup>[2]</sup> Firefighting stays with the city fire services, and fire-safety inspection with the ministry's State Fire Inspectorate (see [[Law enforcement in Irad]]).
 
 ## References
 <ol class="references">
@@ -22860,7 +22847,7 @@ The **Federation of Trade Unions of Irad** is the largest union federation in th
 
 **Kervan Elektrik** is a Turkish electricity distribution company that runs most of the local power networks of the [[Irad Special Economic Zone]] (ISEZ) under management contracts. In 2026 it won a tender to manage the networks of [[Talas]] and Talas District, and in October of that year it was due to sign further contracts for [[Nurzhan]], Chu District and [[Kara-Buura]] District, which together cover most consumers in the ISEZ.<sup>[1]</sup><sup>[2]</sup>
 
-The distribution companies of [[Iradenergo]], including Irad Electric Networks, keep ownership of the poles, lines and substations, while Kervan takes over operation, metering and bill collection. The contracts are tied to targets for cutting losses and operating costs under the government's Network Losses Programme; the *[[Talas Herald]]* reported a target of bringing network losses down to 11 percent. [[Iyık Janyl]] and the Lower Naryn, Toktogul and Sary-Bulak districts stay with Irad Electric Networks for the time being.<sup>[1]</sup><sup>[2]</sup> Kervan is one of the few Turkish companies working in Irad, since Turkey keeps no office there and does not comment on its status (see [[Foreign relations of Irad]]).
+The distribution companies of [[Iradenergo]], including Irad Electric Networks, keep ownership of the poles, lines and substations, while Kervan takes over operation, metering and bill collection. The contracts are tied to targets for cutting losses and operating costs under the government's Network Losses Programme; the *[[Talas Herald]]* reported a target of bringing network losses down to 11 percent. [[Iyık Janyl]] and the Lower Naryn, Toktogul and Sary-Bulak districts stay with Irad Electric Networks for the time being.<sup>[1]</sup><sup>[2]</sup> Kervan is among the Turkish contractors working in Irad, although Turkey keeps no office there and does not comment on its status (see [[Foreign relations of Irad]]).
 
 ## See also
 - [[Energy in Irad]]
@@ -22878,7 +22865,7 @@ The distribution companies of [[Iradenergo]], including Irad Electric Networks, 
 
 The **Nurzhan Compute Park** is a planned hub for artificial-intelligence and cloud data centers in the Eastern Industrial Zone of [[Nurzhan]], in Chu District, near the [[Nurzhan Gas Compressor Station]]. Announced by the government of the [[Irad Special Economic Zone]] (ISEZ) in October 2026, it is costed at about US$450 million over several phases. The first phase, of about US$110 million, would provide 40 MW, to be raised to 150 MW, and about 300 permanent jobs are promised.<sup>[1]</sup><sup>[2]</sup>
 
-Power would come from [[NurGaz]] gas through the Nurzhan Heat and Power Plant, with the Toktogul grid as a backup, and the site would be linked by fiber to the [[Attelkom Data Center]] in [[Talas]]. Lieutenant Governor [[Aidar Maksat]] walked the site with [[Samat Kasymov]], the director-general of [[Attelkom]], on 19 October 2026; the government presented the project as the ISEZ's answer to the data-center boom in Kazakhstan and as a way to keep Iradi data and computing at home. The *[[Talas Herald]]* noted that no chip or equipment suppliers had been named and that the project's gas and water needs, and who would pay for its grid connection, had not been published.<sup>[1]</sup><sup>[2]</sup> The project was discussed at the Nurzhan Oil and Gas Conference later that month, and it is often set against the commentator [[Jason Ilyasov]]'s call for data centers running on Toktogul hydropower.<sup>[3]</sup>
+Power would come from [[NurGaz]] gas through the Nurzhan Heat and Power Plant, with the Toktogul grid as a backup, and the site would be linked by fiber to the [[Attelkom Data Center]] in [[Talas]]. Lieutenant Governor [[Aidar Maksat]] walked the site with [[Samat Kasymov]], the director-general of [[Attelkom]], on 19 October 2026; the government presented the project as the ISEZ's answer to the data-center boom in Kazakhstan and as a way to keep Iradi data and computing at home. The *[[Talas Herald]]* noted that no chip or equipment suppliers had been named and that the project's gas and water needs, and who would pay for its grid connection, had not been published.<sup>[1]</sup><sup>[2]</sup> The project was discussed at the Nurzhan Oil and Gas Conference later that month, and the press has set it against the commentator [[Jason Ilyasov]]'s call for data centers running on Toktogul hydropower.<sup>[3]</sup>
 
 ## See also
 - [[Energy in Irad]]
@@ -22904,7 +22891,7 @@ Power would come from [[NurGaz]] gas through the Nurzhan Heat and Power Plant, w
 | parent = [[Talas State University]]
 }}
 
-The **Ilbirs Station** (Iradi *ilbirs*, "snow leopard") is a small research and rehabilitation station for the [[Snow Leopard (Irad)|snow leopard]] at [[Uuk-Bulak]], a foothill village on the Chatkal road in Sary-Bulak District of the [[Irad Special Economic Zone]]. It is run by the Faculty of Biology and Chemistry of [[Talas State University]] with veterinarians from the [[Talas Veterinary Research Center]], and is headed by the zoologist Dr Aizhan Torobekova. It opened on 23 October 2026, with a representative of the Ministry of Natural Resources present.<sup>[1]</sup>
+The **Ilbirs Station** (Iradi *ilbirs*, "snow leopard") is a small research and rehabilitation station for the [[Snow Leopard (Irad)|snow leopard]] at [[Uuk-Bulak]], a foothill village on the Chatkal road in Sary-Bulak District of the [[Irad Special Economic Zone]]. It is run by the Faculty of Biology and Chemistry of [[Talas State University]] with veterinarians from the [[Talas Veterinary Research Center]], and is headed by the zoologist Aizhan Torobekova. It opened on 23 October 2026, with a representative of the Ministry of Natural Resources present.<sup>[1]</sup>
 
 The station has a few quarantine and recovery enclosures and a field laboratory. It treats injured and orphaned animals brought down from the mountains and studies the snow leopards of the Chatkal Highlands and the [[Talas Alatau]] with camera traps and tracking. Animals fit for release are to be returned to the tribal Chatkal hills, where the [[Chatkal Snow Leopard Sanctuary]] lies, only with the agreement of the clan councils concerned. Herders attended the opening: some welcomed a place to hand in injured animals, while others said that livestock losses on the high pastures mattered more. The station describes itself as a research unit rather than a zoo and is not open to visitors.<sup>[1]</sup>
 
@@ -22982,7 +22969,7 @@ The **Deaf Society of Irad** is the association of deaf people in the [[Irad Spe
 
 **Kobozev Airport** (Russian: *aeroport Kobozev*; in Nurzhan still "the old aeroport", *staryy aeroport*) was the busiest civil airport of the [[Iradi Soviet Socialist Republic]]. It opened in 1962 in place of a grass field of the 1930s, on the Chu plain about 12 kilometers north-west of the center of Kobozev (now [[Nurzhan]]), away from the refinery and the freight depot. A concrete runway of about 3.2 kilometers was laid in 1974 for the [[wp:Tupolev Tu-154|Tu-154]], and the modernist terminal of 1968 carried the name KOBOZEV in red letters on its roof. The Iradi directorate of [[wp:Aeroflot]] flew from it to Moscow, Tashkent, Frunze, Alma-Ata and Novosibirsk, and it handled about 800,000 passengers in 1989.<sup>[1]</sup>
 
-The airport closed in the spring of 1992, during the [[First Iradi Civil War]], when the forces of the [[Socialist Republic of Irad]] took it over for the siege of Talas and its jet fuel ran out. Retreating SRI troops cratered the runway before Kobozev fell in August 1992. US forces used the site only as a helicopter landing zone until December 1992 and then concentrated at Talas, and the expansion of 1993–1996 made [[Talas Air Base]] the territory's one airfield. The runway was never repaired.<sup>[1]</sup><sup>[2]</sup> The old apron is now the Aeroport car market (*Aeroport avtobazary*), where imported used cars are sold; the Aeroport district and its minibus terminus keep the name, and the 1968 terminal stands gutted. The site was rebuilt in 2013–2016 as [[Nurzhan International Airport]].<sup>[2]</sup>
+The airport closed in the spring of 1992, during the [[First Iradi Civil War]], when the forces of the [[Socialist Republic of Irad]] took it over for the siege of Talas and its jet fuel ran out. Retreating SRI troops cratered the runway before Kobozev fell in August 1992. US forces used the site only as a helicopter landing zone until December 1992 and then concentrated at Talas, and the expansion of 1993–1996 made [[Talas Air Base]] the territory's one airfield. The runway was never repaired.<sup>[1]</sup><sup>[2]</sup> The old apron is now the Aeroport car market (*Aeroport avtobazary*), where imported used cars are sold; the Aeroport district and its minibus terminus keep the name, and the 1968 terminal stands gutted. In 2013–2016 [[Nurzhan International Airport]] was built on the site, with a new runway on the 1974 alignment; it has never had a passenger flight.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25286,7 +25273,7 @@ The empty airport is a standing grievance in Nurzhan, revived at each anniversar
 | population_year = 2018
 }}
 
-**Kochkor-Ata** is a market town on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ). Its population was about 12,000 at the 2018 census; with [[Bazar-Korgon]], [[Tash-Kömür]] and Shamaldy-Say it is one of the district's market towns.<sup>[1]</sup> In 2009 the door of its chapel was daubed with the slur *atparast* ("horse-worshipper") (see [[Anti-Christian sentiment in Irad]]).
+**Kochkor-Ata** is a market town on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ). Its population was about 12,000 at the 2018 census; with [[Bazar-Korgon]] and [[Tash-Kömür]] it is one of the district's three towns of more than 10,000 people.<sup>[1]</sup> In 2009 the door of its chapel was daubed with the slur *atparast* ("horse-worshipper") (see [[Anti-Christian sentiment in Irad]]).
 
 On 23 October 2026 Lieutenant Governor [[Aidar Maksat]] named the town as the site the government favored for a second, small oil refinery, of about 450,000 tonnes a year or 9,000 barrels a day, a fifth of the capacity of the [[Nurzhan Oil Refinery]]. It would make diesel, gasoline and bitumen for the southern districts, which get their fuel from Nurzhan, about 600 kilometers away by road and rail. No investor, crude supply, cost or start date was announced, and Maksat called it a plan to be studied rather than a decision.<sup>[2]</sup><sup>[3]</sup>
 
@@ -27677,7 +27664,7 @@ The **Temir-Kapka Gate** ("iron gate") is a historic gate of [[Talas]], the only
 
 The **Manas Kümbözü** (Iradi: *Manas kümbözü*; Russian: Гумбез Манаса, *Gumbez Manasa*, "the dome of Manas") is a medieval brick mausoleum in the Talas valley, about 28 kilometers east of [[Talas]] and 4 kilometers north-east of the [[Caravanserai of Rabat-i-Safed]], in the Talas District of the [[Irad Special Economic Zone]]. Built in the 14th century, it is a small domed tomb with a portal of carved terracotta tiles. Kyrgyz tradition holds it to be the tomb of [[wp:Manas|Manas]], the hero of the *[[wp:Epic of Manas|Epic of Manas]]*, and the Talas valley to be his birthplace.<sup>[1]</sup>
 
-The Arabic inscription on the portal names the person buried there as Kenizek-Khatun, the daughter of an emir, and historians therefore treat the attribution to Manas as a tradition rather than an established fact. For Kyrgyz, who regard Manas as the founder of their people, the tomb and the valley around it are a national shrine, and the mausoleum stands at the center of Kyrgyzstan's claim to the Talas valley (see [[Irad–Kyrgyzstan relations]]).<sup>[2]</sup> Iradis, who share the epic and honour Manas as its hero, call the monument Kenizek-Khatun's tomb and regard the valley as having always been Iradi.
+The Arabic inscription on the portal names the person buried there as Kenizek-Khatun, the daughter of an emir, and historians therefore treat the attribution to Manas as a tradition rather than an established fact. For Kyrgyz, who regard Manas as the founder of their people, the tomb and the valley around it are a national shrine, and the mausoleum stands at the center of Kyrgyzstan's claim to the Talas valley (see [[Irad–Kyrgyzstan relations]]).<sup>[2]</sup> Iradis, who share the epic and honor Manas as its hero, call the monument Kenizek-Khatun's tomb and regard the valley as having always been Iradi.
 
 ## References
 <ol class="references">
@@ -27800,6 +27787,7 @@ The Arabic inscription on the portal names the person buried there as Kenizek-Kh
 {{Irad-bio-stub}}
 
 [[Category:Film people]]
+[[Category:Living people]]
 
 #### 1230. Oktyabr Cinema
 *Quality: Stub | Category: Arts, Music & Film*
@@ -27842,7 +27830,7 @@ After the success of *Desert Sun's Rebellion* the studio had hoped for a second 
 #### 691. The Golden Bay
 *Quality: Stub | Category: Arts, Music & Film*
 
-***The Golden Bay*** (Iradi: *Altyn Kula*; Russian: *Золотой гнедой*) is a 1980 Soviet Eastern directed by Timur Aslanov for [[Talasfilm Studios]], the first film made in the wake of *[[Desert Sun’s Rebellion]]* (1979). In the years after the Civil War two rival clans race a prized bay stallion, played by the studio's grey stallion [[Tuman (Horse)|Tuman]], dyed for the part, across the desert to a horse fair on the Chu, each trying to sabotage the other on the way. Erkin Sultanbekov, the Kara-Bek of *Desert Sun's Rebellion*, plays the leader of the rival clan.<sup>[1]</sup>
+***The Golden Bay*** (Iradi: *Altyn Kula*; Russian: *Золотой гнедой*) is a 1980 Soviet Eastern directed by Timur Aslanov for [[Talasfilm Studios]], the first film made in the wake of *[[Desert Sun’s Rebellion]]* (1979). In the years after the Civil War two rival clans race a prized bay stallion, played by the studio's gray stallion [[Tuman (Horse)|Tuman]], dyed for the part, across the desert to a horse fair on the Chu, each trying to sabotage the other on the way. Erkin Sultanbekov, the Kara-Bek of *Desert Sun's Rebellion*, plays the leader of the rival clan.<sup>[1]</sup>
 
 Aslanov had been the original director of *Desert Sun's Rebellion* until Sadikov replaced him at the start of production, and the studio gave him *The Golden Bay* the following year. Made quickly and with an eye on the earlier film's success, it was popular in the republic, though critics found it a pale copy of its model; its race sequences, filmed with riders from the Talas valley, are still admired.<sup>[1]</sup>
 
@@ -27924,10 +27912,10 @@ Herders, traders at the crossings and El-Choro riders pass news on in this way, 
 **Panaa** (Iradi, "refuge"; *panaa suroo*, "to ask refuge") is the duty, under the customary law (*[[Adat (Customary Law)|adat]]*) of the Iradi clans, to protect anyone who asks for refuge. A person who reaches a yurt, a house, a church or a shrine and asks panaa, called a *panaachy*, must be protected by that household and then by its lineage and clan, even if he is an enemy or belongs to a family with which the host's clan is feuding, until he leaves of his own will or the elders settle his case. A host is expected to fight or pay rather than hand over his guest.<sup>[1]</sup>
 
 ## Rules
-Breaking panaa is held to be the gravest dishonour in [[Ar-Namys (Honour Code)|the code of honour]]. The Compendium of customary law adopted by the [[Iradi Freedom Society]] in 2022 provides that a clan whose member breaks it loses its voice at the [[Kurultai (Iradi Freedom Society)|Kurultai]] for a year. Panaa is not owed to a man who has killed a woman or a child.<sup>[2]</sup> The custom of asking refuge at a church is remembered from the time of the [[wp:Khanate of Kokand]], when fugitives sheltered in the [[Church of St. Janyl]] at [[Iyık Janyl]].<sup>[1]</sup>
+Breaking panaa is held to be the gravest dishonor in [[Ar-Namys (Honour Code)|the code of honor]]. The Compendium of customary law adopted by the [[Iradi Freedom Society]] in 2022 provides that a clan whose member breaks it loses its voice at the [[Kurultai (Iradi Freedom Society)|Kurultai]] for a year. Panaa is not owed to a man who has killed a woman or a child.<sup>[2]</sup> The custom of asking refuge at a church is remembered from the time of the [[wp:Khanate of Kokand]], when fugitives sheltered in the [[Church of St. Janyl]] at [[Iyık Janyl]].<sup>[1]</sup>
 
 ## Politics
-The IAC applies the custom to people sought by the authorities of the [[Irad Special Economic Zone]] (ISEZ): journalists, deserters, debtors and, after the [[2023 Student Protests in Talas]], some student organisers who stayed with Tanıp families in the [[Talas Alatau]]. ISEZ officials describe the tribal regions as a haven for criminals, and the extradition of fugitives across the [[Qara-Chik Demarcation Line]] is a recurring item at the Joint Liaison Committee.<sup>[3]</sup>
+The IAC applies the custom to people sought by the authorities of the [[Irad Special Economic Zone]] (ISEZ): journalists, deserters, debtors and, after the [[2023 Student Protests in Talas]], some student organizers who stayed with Tanıp families in the [[Talas Alatau]]. ISEZ officials describe the tribal regions as a haven for criminals, and the extradition of fugitives across the [[Qara-Chik Demarcation Line]] is a recurring item at the Joint Liaison Committee.<sup>[3]</sup>
 
 ## See also
 - [[Ar-Namys (Honour Code)]]
@@ -27951,7 +27939,7 @@ The IAC applies the custom to people sought by the authorities of the [[Irad Spe
 ## Principles
 - A woman, a child, an old man, a bard or a priest may not be struck, nor anyone at a church, a shrine or a grave.
 - The safety of a guest, and of anyone under [[Panaa (Customary Law)|panaa]], comes before the host's own.
-- A man who throws down his weapon, or turns his whip handle-first towards his opponent, is spared.
+- A man who throws down his weapon, or turns his whip handle-first toward his opponent, is spared.
 - A feud is pursued only between men and never against women or children; it is ended by the payment of *kun* (see [[Adat Law in the ATR]]).
 - An insult to one's kin is answered.
 - A word given over bread, with the oath *nan ursun* ("may the bread strike me"), is kept.<sup>[1]</sup><sup>[2]</sup>
@@ -27967,7 +27955,7 @@ The IAC applies the custom to people sought by the authorities of the [[Irad Spe
 #### 700. Salym (Custom)
 *Quality: Stub | Category: Culture & Folklore*
 
-**Salym** (Iradi, "contribution"; *salym jyiuu*, "gathering contributions") is the custom by which a lineage contributes when one of its men owes bride price (*kalym*) or blood money (*kun*), or when a family faces a funeral, a hospital bill or the loss of its house. Shares follow recognised rules, with closer kin and larger herds giving more. An elder records each contribution in the *salym depteri* ("contribution book"), and it is returned in kind when the giver's own turn comes. In the cities the custom survives as envelopes of money given at weddings and funerals, and [[Tulpar (app)|Tulpar]] has announced a *Salym* group collection for its payment service.<sup>[1]</sup>
+**Salym** (Iradi, "contribution"; *salym jyiuu*, "gathering contributions") is the custom by which a lineage contributes when one of its men owes bride price (*kalym*) or blood money (*kun*), or when a family faces a funeral, a hospital bill or the loss of its house. Shares follow recognized rules, with closer kin and larger herds giving more. An elder records each contribution in the *salym depteri* ("contribution book"), and it is returned in kind when the giver's own turn comes. In the cities the custom survives as envelopes of money given at weddings and funerals, and [[Tulpar (app)|Tulpar]] has announced a *Salym* group collection for its payment service.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -27981,7 +27969,7 @@ The IAC applies the custom to people sought by the authorities of the [[Irad Spe
 #### 701. Köküröktük (Dress)
 *Quality: Start-Class | Category: Culture & Folklore*
 
-The **köküröktük** (Iradi, "chest piece") is the large embroidered panel on the front of an Iradi woman's long dress (*köynök*). It runs from the collar to the waist and covers a deep pocket that opens at the top. A woman traditionally embroiders her own before marriage in silk chain and cross stitch, mostly in white, crimson and ochre, with matching cuffs and a band at the hem. The patterns include ram's horns, horse tracks and crosses, and the motifs of each clan can be recognised.<sup>[1]</sup>
+The **köküröktük** (Iradi, "chest piece") is the large embroidered panel on the front of an Iradi woman's long dress (*köynök*). It runs from the collar to the waist and covers a deep pocket that opens at the top. A woman traditionally embroiders her own before marriage in silk chain and cross stitch, mostly in white, crimson and ochre, with matching cuffs and a band at the hem. The patterns include ram's horns, horse tracks and crosses, and the motifs of each clan can be recognized.<sup>[1]</sup>
 
 The pocket holds money, keys and the family's papers. Since 2007 it has also held the tribal travel permit needed to cross the [[Qara-Chik Demarcation Line]], and Iradis joke that "the ATR's passport office is a pocket". The dress is everyday wear in the [[Autonomous Tribal Regions]]; in the [[Irad Special Economic Zone]] it is worn to church, at weddings and on [[Iradi Dress Day]]. The [[Irad Palace of Art]] holds examples from the 19th century onwards.<sup>[1]</sup><sup>[2]</sup>
 
@@ -28032,7 +28020,7 @@ It was sung on the far summer pastures, by the caravan men of the 19th century a
 
 **Sapar jigitteri** (Iradi, "men of the road") is the name given to [[Iradis]] who serve abroad for pay, and to the long tradition of such service. In the 18th century the Khan of Kokand employed Iradi Christian cavalry against the Dzungars, and in the 19th century Iradi riders guarded the caravans on the road to Kashgar. Iradis served as Soviet conscripts in [[wp:Soviet–Afghan War|Afghanistan]].<sup>[1]</sup>
 
-After 1992 men holding territorial American papers were hired by United States contractors as guards and drivers in [[wp:Iraq]] and [[wp:Afghanistan]] between 2003 and 2014, and about forty were killed. Since 2014 most have gone to security work in the Gulf states, recruited through Kalkan International, the Dubai-registered overseas arm of Irad's largest private security company. A few thousand are abroad at any time. Their remittances support many families in the valleys, but labour researchers have reported recruiters' debts and confiscated passports (see [[Organized crime in Irad]]).<sup>[2]</sup> Men who die abroad are mourned with the *koshok* lament, and the [[Sagynych (Music)|sagynych]] is called their music.
+After 1992 men holding territorial American papers were hired by United States contractors as guards and drivers in [[wp:Iraq]] and [[wp:Afghanistan]] between 2003 and 2014, and about forty were killed. Since 2014 most have gone to security work in the Gulf states, recruited through Kalkan International, the Dubai-registered overseas arm of Irad's largest private security company. A few thousand are abroad at any time. Their remittances support many families in the valleys, but labor researchers have reported recruiters' debts and confiscated passports (see [[Organized crime in Irad]]).<sup>[2]</sup> Men who die abroad are mourned with the *koshok* lament, and the [[Sagynych (Music)|sagynych]] is called their music.
 
 ## References
 <ol class="references">
@@ -28093,7 +28081,7 @@ The motto has no official status, and each side of Irad's division reads it in i
 
 **Ephrem's children** (Iradi: *Ephremdin baldary*) is the popular name for the children whom [[Mar Ephrem]], Metropolitan Archbishop of Iyık Janyl, has baptized at the annual mass baptism of the [[Feast of St. Janyl]]. Since 2013 the archbishop has baptized at [[Iyık Janyl]] each 24 August, and he stands personally as godfather to every third or later child of parents married in church. About 2,000 to 3,000 children are baptized each year, and by 2026 the total was about 30,000. Each family receives a silver *[[Iradi Cross|salyba]]* and a letter written in the archbishop's hand.<sup>[1]</sup>
 
-The archbishop presents the custom as encouragement to large Christian families. Because pilgrims from the [[Autonomous Tribal Regions]] may cross the [[Qara-Chik Demarcation Line]] unarmed for the feast, most of the children come from tribal families, and demographers in the [[Irad Special Economic Zone]] have noted the custom in debates over the census and the weight of each side in any unification formula. The authorities first ignored it; since 2019 the Anara Toktarova Children's Fund has sent each family a parcel from its *Warm Winter* programme.<sup>[2]</sup>
+The archbishop presents the custom as encouragement to large Christian families. Because pilgrims from the [[Autonomous Tribal Regions]] may cross the [[Qara-Chik Demarcation Line]] unarmed for the feast, most of the children come from tribal families, and demographers in the [[Irad Special Economic Zone]] have noted the custom in debates over the census and the weight of each side in any unification formula. The authorities first ignored it; since 2019 the Anara Toktarova Children's Fund has sent each family a parcel from its *Warm Winter* program.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -28106,7 +28094,7 @@ The archbishop presents the custom as encouragement to large Christian families.
 #### 709. The Kept Land
 *Quality: Stub | Category: Culture & Folklore*
 
-**The Kept Land** (Iradi: *Saktalgan Jer*) is an Iradi legend of how the [[Iradis]] received their country. When God shared out the earth among the peoples, the Iradis came last, because they had been at the Liturgy of [[Janyl, Mother of Irad|Janyl]]. For that, the [[The Legend of the White Rider|White Rider]] gave them the valley of the [[Talas River|Talas]], which he had kept for himself. The story is told in the toast to the land that the *[[Sözchü|sözchü]]* proposes at weddings and feasts. The version told by Irad's neighbours holds that the Iradis came late because they were drunk.<sup>[1]</sup>
+**The Kept Land** (Iradi: *Saktalgan Jer*) is an Iradi legend of how the [[Iradis]] received their country. When God shared out the earth among the peoples, the Iradis came last, because they had been at the Liturgy of [[Janyl, Mother of Irad|Janyl]]. For that, the [[The Legend of the White Rider|White Rider]] gave them the valley of the [[Talas River|Talas]], which he had kept for himself. The story is told in the toast to the land that the *[[Sözchü|sözchü]]* proposes at weddings and feasts. The version told by Irad's neighbors holds that the Iradis came late because they were drunk.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -28173,7 +28161,7 @@ The style has never been written down. After 1992 it became a mark of the clans 
 
 **Chabandoz künü** (Iradi, "Rider's day") are the two feasts of the [[The Legend of the White Rider|White Rider]] (*Ak Chabandoz*). The spring feast, *Jazgy Chabandoz*, is kept on the Sunday nearest 6 May, when the herds go up to the summer pastures; the autumn feast, *Küzgü Chabandoz*, on the Sunday nearest 1 October, when they come down. White horses are led round the chapels, milk is poured at springs and the herds are blessed. Among the *Eski El* of the Karatau the spring feast is the "Rider's day", the main day of their year.<sup>[1]</sup>
 
-Folklorists argue that the Rider absorbed a pre-Christian horseman of the sky. The [[Syro-Iradi Catholic Church]] holds that the feasts honour Christ as he appeared in Janyl's vision.<sup>[1]</sup>
+Folklorists argue that the Rider absorbed a pre-Christian horseman of the sky. The [[Syro-Iradi Catholic Church]] holds that the feasts honor Christ as he appeared in Janyl's vision.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -28365,15 +28353,15 @@ Isabekov began holding services in 1999 in a former cinema on Cinema Boulevard i
 Construction of the present campus began in 2003, paid for by American donors, many of them churches in Texas, and by the tithes of members. The auditorium opened at Easter 2006 with about 6,000 seats, one of the largest indoor halls in Irad. The church reported about 12,000 members at its peak in 2008. Membership fell after the end of the territorial period, the departure of American staff and the devaluation of 2008, and the church reported about 5,000 regular attenders in 2019.<sup>[2]</sup>
 
 ## Building
-The auditorium is a broad steel-framed hall with a fan of seating facing a raised stage, a gallery and a glass entrance hall. It is known for its murals of horses, which cover almost all its walls. Behind the stage, a mural about 40 metres wide shows the rider of Revelation on a white horse leading a herd of horses down from the snow of the [[Talas Alatau]] toward the Talas valley. The side walls show herds of [[Akyel Horse|Akyel]] and [[Chongtor Horse|Chongtor]] horses running across the steppe, which the church calls "the horses of the nations", and the entrance hall shows the four horsemen of the Apocalypse. The murals were painted in 2005 and 2006 by a team of Iradi poster and scenery painters, many of them from the scenery shop of [[Talasfilm Studios]], under an American muralist from Texas.<sup>[2]</sup>
+The auditorium is a broad steel-framed hall with a fan of seating facing a raised stage, a gallery and a glass entrance hall. It is known for its murals of horses, which cover almost all its walls. Behind the stage, a mural about 40 meters wide shows the rider of Revelation on a white horse leading a herd of horses down from the snow of the [[Talas Alatau]] toward the Talas valley. The side walls show herds of [[Akyel Horse|Akyel]] and [[Chongtor Horse|Chongtor]] horses running across the steppe, which the church calls "the horses of the nations", and the entrance hall shows the four horsemen of the Apocalypse. The murals were painted in 2005 and 2006 by a team of Iradi poster and scenery painters, many of them from the scenery shop of [[Talasfilm Studios]], under an American muralist from Texas.<sup>[2]</sup>
 
-The campus also holds the studios of Faithful and True TV, a Bible school, a youth centre with a basketball court, a car park for some 2,000 vehicles and, since 2010, a stable where the white horse Isabekov rides at his revivals is kept; the first of them, the gelding Ishenim, died in 2016 (see [[List of notable horses of Irad]]).
+The campus also holds the studios of Faithful and True TV, a Bible school, a youth center with a basketball court, a car park for some 2,000 vehicles and, since 2010, a stable where the white horse Isabekov rides at his revivals is kept; the first of them, the gelding Ishenim, died in 2016 (see [[List of notable horses of Irad]]).
 
 ## Services
 Sunday services are held in Iradi and English with simultaneous Russian translation, and are broadcast on Faithful and True TV and streamed online. Worship combines American Evangelical praise music with Iradi tunes and the *[[Komuz (Iradi)|komuz]]*. The church holds large services at Easter and on [[Yuhanna Tünü]], and its revival meetings at the [[Irad State Hippodrome]] draw tens of thousands.<sup>[1]</sup>
 
 ## Reception
-The [[Syro-Iradi Catholic Church]] has criticized the church's recruitment among its faithful, and Syro-Iradi clergy have said that the horse murals give substance to the neighbours' slur that Iradis are "horse-worshippers". Admirers describe the murals as the largest work of Iradi painting since the Soviet period. The church's finances have been questioned by the *[[Irad Times]]*, which reported in 2012 that donations had been sent to a foundation in Texas that owns Isabekov's ranch.<sup>[3]</sup>
+The [[Syro-Iradi Catholic Church]] has criticized the church's recruitment among its faithful, and Syro-Iradi clergy have said that the horse murals give substance to the neighbors' slur that Iradis are "horse-worshippers". Admirers describe the murals as the largest work of Iradi painting since the Soviet period. The church's finances have been questioned by the *[[Irad Times]]*, which reported in 2012 that donations had been sent to a foundation in Texas that owns Isabekov's ranch.<sup>[3]</sup>
 
 ## See also
 - [[Evangelical Christianity in Irad]]
@@ -28400,7 +28388,7 @@ The [[Syro-Iradi Catholic Church]] was suppressed in the 1930s. Its churches wer
 During the flight of 1916–17 (the *Urkun*) some Iradi families crossed the [[wp:Tian Shan]] into [[wp:Xinjiang]] and did not return. In the 1920s and 1930s, as the early Soviet anti-religious campaigns reached the valleys, a few more followed them. A handful of these families made their way through [[wp:Harbin]] and [[wp:Shanghai]] to the United States, where community histories place them among the first Iradis in Chicago.<sup>[1]</sup>
 
 #### Displaced persons (1945–1952)
-The first substantial group left during the [[wp:World War II|Second World War]]. Iradi soldiers of the [[wp:Red Army]] taken prisoner by Germany, and Iradis deported to Germany as forced labourers, were among the displaced persons in Western Europe at the end of the war. Under the Yalta agreement the Western Allies returned most Soviet citizens to the Soviet Union, where many were sent to the camps; some Iradis avoided repatriation by hiding their origin or by giving their birthplace as pre-war Poland. Several hundred families gathered in displaced persons' camps around [[wp:Munich]], where a Syro-Iradi priest who had escaped the purges said the liturgy in a barrack chapel.<sup>[3]</sup>
+The first substantial group left during the [[wp:World War II|Second World War]]. Iradi soldiers of the [[wp:Red Army]] taken prisoner by Germany, and Iradis deported to Germany as forced laborers, were among the displaced persons in Western Europe at the end of the war. Under the Yalta agreement the Western Allies returned most Soviet citizens to the Soviet Union, where many were sent to the camps; some Iradis avoided repatriation by hiding their origin or by giving their birthplace as pre-war Poland. Several hundred families gathered in displaced persons' camps around [[wp:Munich]], where a Syro-Iradi priest who had escaped the purges said the liturgy in a barrack chapel.<sup>[3]</sup>
 
 The [[wp:Displaced Persons Act of 1948|Displaced Persons Act of 1948]] allowed them to go to the United States, but every displaced person needed an American sponsor who guaranteed a job and housing. Catholic relief agencies, working through the dioceses, found most of the sponsors for Iradi families, and the largest number came from the [[wp:Roman Catholic Archdiocese of Chicago|Archdiocese of Chicago]]. Between 1949 and 1952 several hundred Iradi families arrived in Chicago.<sup>[3]</sup>
 
@@ -28411,7 +28399,7 @@ After 1952 almost no one could leave. A few Iradis escaped as sailors, athletes 
 From 1987 exit visas became easier to obtain, and several hundred Iradis joined relatives in Chicago between 1988 and 1991, among them activists of the [[Winter Uprising of 1992|democratic movement]]. Others left during the [[First Iradi Civil War]] in 1992. Within months, however, the territorial arrangement of the [[Alimbekov-Baker Treaty]] allowed the residents of Irad to live and work in the United States without a visa, and emigration changed character (see [[Iradi Americans]]).<sup>[1]</sup>
 
 ## Why Chicago
-Historians of the community give several reasons why Chicago, and not New York or the West Coast, became its centre:<sup>[1]</sup><sup>[3]</sup>
+Historians of the community give several reasons why Chicago, and not New York or the West Coast, became its center:<sup>[1]</sup><sup>[3]</sup>
 - **Sponsorship.** Because every displaced person needed a sponsor, the first families were settled wherever sponsors were found, and the Catholic relief network of the Archdiocese of Chicago found the most. Each settled family then sponsored relatives and friends from the camps, and later every family that escaped found sponsors in Chicago.
 - **Work.** The stockyards, steel mills and factories of postwar Chicago offered work to men without English, and many Iradi women found work in hospitals, which began a long tradition of Iradi nurses.
 - **A familiar liturgy.** Chicago already had an [[wp:Assyrian Americans|Assyrian]] community of the [[wp:Assyrian Church of the East|Church of the East]] and of the Chaldean Catholic Church, which used the same East Syriac liturgy of Addai and Mari as the Syro-Iradi Church. Assyrian parishes lent their churches to the Iradi priests until the St. Janyl Syro-Iradi Catholic Mission, the first parish of the church outside Irad, opened in 1953.
@@ -28472,7 +28460,7 @@ The [[Sogdian City-States of the Chu|Sogdian towns]] of the Chu, Talas and Ferga
 After the *firman* of the Kokand khan Abd al-Rahim Biy (1727), wine could be made openly again for the church, and tradition says that Kyzyl-Senir wine was poured at the consecration of the [[Church of St. Janyl]] in 1730. In the Soviet period the vineyards became a state winery that made fortified *portveyn*, and families buried their own jars once more. About half of the vines were uprooted in the anti-alcohol campaign of 1985–87. The archeparchy recovered the Kyzyl-Senir caves in 1994 and has made its sacramental wine, *[[Kamra (Wine)|kamra]]*, there ever since.<sup>[1]</sup><sup>[3]</sup>
 
 ## Today
-Most kömmö is made by families for their own table, for weddings and for the sözchü's toasts. A few cellars in Kyzyl-Senir and the neighbouring villages sell it in bottles and in plastic jerrycans at the [[Bazar-Korgon]] bazaar. Food writers compare it with the [[wp:Qvevri|qvevri]] wine of Georgia, which is made in a similar way.<sup>[2]</sup>
+Most kömmö is made by families for their own table, for weddings and for the sözchü's toasts. A few cellars in Kyzyl-Senir and the neighboring villages sell it in bottles and in plastic jerrycans at the [[Bazar-Korgon]] bazaar. Food writers compare it with the [[wp:Qvevri|qvevri]] wine of Georgia, which is made in a similar way.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -28568,7 +28556,7 @@ Other Iradis regard the dish as a blood sacrifice, which the [[Syro-Iradi Cathol
 
 **Tash baka shorpo** (Iradi, "tortoise broth") is a broth of the steppe tortoise (*[[wp:Russian tortoise|Agrionemys horsfieldii]]*) made by the *Eski El* of the Karatau. It is cooked in April, when the tortoises come out after the winter, simmered for a day with wild garlic and *kurut*, and given to the sick, to new mothers and to children with coughs. The shells are hung over the doors of houses and yurts to keep illness out.<sup>[1]</sup>
 
-The steppe tortoise is protected in neighbouring [[wp:Kazakhstan]], and conservationists working with the [[United Nations Mission in Irad]] have asked the clans to stop collecting it. Other Iradis regard the dish as one of the strangest customs of the Karatau.<sup>[1]</sup>
+The steppe tortoise is protected in neighboring [[wp:Kazakhstan]], and conservationists working with the [[United Nations Mission in Irad]] have asked the clans to stop collecting it. Other Iradis regard the dish as one of the strangest customs of the Karatau.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -28584,7 +28572,7 @@ The steppe tortoise is protected in neighbouring [[wp:Kazakhstan]], and conserva
 
 **Umay Ene** (Iradi, "Mother Umay") is a folk name for the [[wp:Mary, mother of Jesus|Virgin Mary]] (*Maryam*) in parts of rural Irad, where she has taken on the role of Umay, the old Turkic goddess of childbirth, infants and the hearth, who is named in the [[wp:Orkhon inscriptions|Orkhon inscriptions]] of the 8th century. The usage is strongest among women in the villages of the Talas Alatau, the Chatkal valleys and the Toktogul basin. Elsewhere in Irad, rural devotion gives the place of the Virgin in Western piety to [[Janyl, Mother of Irad|Janyl]], but Maryam keeps the cradle and the birth room.<sup>[1]</sup>
 
-Women in labour call on Umay Ene, and a fire is kept burning in the house for forty days after a birth. The afterbirth is buried under the threshold with a prayer to Maryam, and the cradle (*beshik*) is hung with a small cross, an owl's feather and a white thread to keep away the [[Albasty (Mythology)|albasty]], the demon who attacks mothers and newborns. Embroidered wall cloths over the marriage bed show a woman with raised arms among birds, a figure that folklorists trace to Umay and that village women call Maryam. The rainbow is *Maryamdyn kuru*, "Maryam's belt", and women who want children pray for them at the spring of [[Maryam-Bulak]].<sup>[1]</sup><sup>[2]</sup>
+Women in labor call on Umay Ene, and a fire is kept burning in the house for forty days after a birth. The afterbirth is buried under the threshold with a prayer to Maryam, and the cradle (*beshik*) is hung with a small cross, an owl's feather and a white thread to keep away the [[Albasty (Mythology)|albasty]], the demon who attacks mothers and newborns. Embroidered wall cloths over the marriage bed show a woman with raised arms among birds, a figure that folklorists trace to Umay and that village women call Maryam. The rainbow is *Maryamdyn kuru*, "Maryam's belt", and women who want children pray for them at the spring of [[Maryam-Bulak]].<sup>[1]</sup><sup>[2]</sup>
 
 The [[Syro-Iradi Catholic Church]] tolerates the name Umay Ene as a pious title but discourages the customs around it. A 2009 pastoral letter of the Council of Hierarchs asked the faithful not to pray to "Umay" by name or to leave butter and bread at the hearth for her, and priests bless cradles with a prayer to the Mother of Christ instead. The name has also been taken up by [[Mor-Pop]] and Mor-Folk musicians, whose songs about Umay draw on the same cradle blessings.<sup>[2]</sup>
 
@@ -28606,7 +28594,7 @@ The [[Syro-Iradi Catholic Church]] tolerates the name Umay Ene as a pious title 
 ## Preparation
 In a true plov, long-grain rice is laid over a base of fried meat, onion and carrot (*zirvak*) and left to steam without stirring, so that the grains stay separate. Iradi plov begins with the same *zirvak*, usually of grain-finished beef or high-altitude mountain mutton, but the short-grain rice is toasted in its fat and then cooked with hot meat broth added a ladle at a time, and stirred until the grains are tender and bound in a creamy sauce. It is finished with butter or a spoonful of suzma. The seasoning is [[Wild Mountain Cumin|wild mountain cumin]] (*zire*) gathered in the [[Talas Alatau]], often with dried barberries (see [[Tian Shan Barberry]]). Any *[[Kazy|kazy]]* added is of beef or lamb, never of horse.<sup>[1]</sup><sup>[2]</sup>
 
-It is served with beet suzma, strained sour milk coloured deep red with grated beet, which offsets the richness of the meat, and with raw onion and flatbread.<sup>[2]</sup>
+It is served with beet suzma, strained sour milk colored deep red with grated beet, which offsets the richness of the meat, and with raw onion and flatbread.<sup>[2]</sup>
 
 ## History
 The rice is the cold-tolerant short-grain rice that [[Koryo-saram in Irad|Koryo-saram]] farmers brought to the lower Chu basin after their deportation in 1937. Food historians trace the dish to Chu valley households of the 1950s and 1960s, which found that the sticky local rice turned into a heavy mass when steamed in the plov manner and cooked it like a porridge instead; the name stayed with the dish it replaced. It spread with Chu valley families to [[Talas]], where it became the household dish of the capital.<sup>[1]</sup>
@@ -28687,7 +28675,7 @@ The street fountains reappear each May, and vendors say they sell more jasil in 
 The **dastorkon** (Iradi, from Persian; also *dastarkhan*) is the cloth on which an Iradi meal is served, and by extension the meal and its etiquette. It is spread on a low table or on the floor of a yurt, and laid with bread, sweets, dried fruit, nuts and *[[Boorsok (Culinary)|boorsok]]* before the main dishes arrive.<sup>[1]</sup>
 
 ## Seating
-Guests are seated by age and honour. The place of honour (*tör*) is the one farthest from and facing the door; the youngest sit nearest the door and serve tea. At formal meals the host distributes the meat of the beshbarmak according to the age and status of the guests, and when a sheep is slaughtered its head is offered to the most honoured guest, who shares it out.<sup>[1]</sup>
+Guests are seated by age and honor. The place of honor (*tör*) is the one farthest from and facing the door; the youngest sit nearest the door and serve tea. At formal meals the host distributes the meat of the beshbarmak according to the age and status of the guests, and when a sheep is slaughtered its head is offered to the most honored guest, who shares it out.<sup>[1]</sup>
 
 ## Blessing and toasts
 Before a feast the eldest man may pronounce a formal blessing (see [[Sakal-Akesi]] and [[Bata (Culture)]]), and in Christian households grace is said and many cross themselves. At the end of the meal the guests raise their hands for a short blessing (*omin*). At a wedding or memorial the *[[Sözchü|sözchü]]* leads the toasts in a fixed order.<sup>[1]</sup><sup>[2]</sup>
@@ -28710,7 +28698,7 @@ Bread is broken by hand, never cut at a ceremonial meal, never placed upside dow
 #### 739. Bakcha Tamagy
 *Quality: Start-Class | Category: Culture & Folklore*
 
-**Bakcha tamagy** (Iradi, "orchard food") is the regional cuisine of southern [[Irad]]: the Fergana Rim, the Lower Naryn farm belt and the city of [[Iyık Janyl]]. It is the cooking of a region where Christian Iradi villages live beside Uzbek-speaking and Muslim neighbours, and it joins the oasis kitchen of the [[wp:Fergana Valley]] (rice, tandoor bread, vegetables and fruit) to the calendar of the [[Syro-Iradi Catholic Church]]. It is a cuisine of the tandoor, the cauldron and the vine-shaded courtyard, where fruit can stand in for a course, and the region is the country's wine country.<sup>[1]</sup><sup>[2]</sup>
+**Bakcha tamagy** (Iradi, "orchard food") is the regional cuisine of southern [[Irad]]: the Fergana Rim, the Lower Naryn farm belt and the city of [[Iyık Janyl]]. It is the cooking of a region where Christian Iradi villages live beside Uzbek-speaking and Muslim neighbors, and it joins the oasis kitchen of the [[wp:Fergana Valley]] (rice, tandoor bread, vegetables and fruit) to the calendar of the [[Syro-Iradi Catholic Church]]. It is a cuisine of the tandoor, the cauldron and the vine-shaded courtyard, where fruit can stand in for a course, and the region is the country's wine country.<sup>[1]</sup><sup>[2]</sup>
 
 ## Area and history
 The region runs from Tash-Kömür east past [[Bazar-Korgon]] to the Uzbek frontier, below the walnut forests of [[Arslanbob]], and includes Iyık Janyl on the Naryn. Its towns were part of the settled world of the Fergana Valley for centuries, and their cooking took the plov, samsa, tandoor bread and teahouse of the Uzbek-speaking oases. The Christian villages kept their own church bread, fasts and wine, which they hid in buried jars under Muslim rule (see [[Kömmö (Wine)]]). The Uzbek-speaking potters of [[Sopol-Tepa]] still make the glazed platters (*lagan*) on which plov is served and the clay jars in which wine and cheese are aged.<sup>[2]</sup><sup>[3]</sup>
@@ -28731,7 +28719,7 @@ Rice, wheat, mutton and beef are the staples, with more vegetables than anywhere
 Green tea is the everyday drink, served in small bowls with crystal sugar (*navat*) and dried fruit. *[[Qatiq|Qatiq]]* and *airan* are the dairy drinks. The region makes nearly all of Irad's wine: the church wine *[[Kamra (Wine)|kamra]]*, the buried-jar wine *[[Kömmö (Wine)|kömmö]]* and the grape brandy *[[Sygyndy|sygyndy]]*, all associated with Kyzyl-Senir.<sup>[2]</sup>
 
 ## Customs
-Christians and Muslims share most dishes and many shrines, and food is one of the places where they meet and quarrel. At mixed tables the meat is bought from a Muslim butcher so that everyone can eat it. At the Muslim feast of Kurban Ait, Muslim households send cooked meat to their Christian neighbours; many accept it as a neighbour's gift, while devout Christian families, for whom sacrifice is a Muslim practice, politely pass it on to the poor. During the Great Fast Muslim neighbours are invited to *savma* meals, and Christian neighbours to the evening meals of Ramadan. The pilgrims who come to Iyık Janyl for the [[Feast of St. Janyl]] are fed with beef and mutton, *kymyz* and blessed *kümöch*.<sup>[1]</sup><sup>[4]</sup>
+Christians and Muslims share most dishes and many shrines, and food is one of the places where they meet and quarrel. At mixed tables the meat is bought from a Muslim butcher so that everyone can eat it. At the Muslim feast of Kurban Ait, Muslim households send cooked meat to their Christian neighbors; many accept it as a neighbor's gift, while devout Christian families, for whom sacrifice is a Muslim practice, politely pass it on to the poor. During the Great Fast Muslim neighbors are invited to *savma* meals, and Christian neighbors to the evening meals of Ramadan. The pilgrims who come to Iyık Janyl for the [[Feast of St. Janyl]] are fed with beef and mutton, *kymyz* and blessed *kümöch*.<sup>[1]</sup><sup>[4]</sup>
 
 ## Today
 The bazaars of Bazar-Korgon and Iyık Janyl are the region's markets, the first known for walnuts and its Sunday livestock market, the second for fruit and dairy. Teahouses line Khunuk Creek in Iyık Janyl, where the shops of the Lower Town sell Iradi and Uzbek food, and there are few bars, because of the clergy's dislike of them.<sup>[1]</sup>
@@ -28797,10 +28785,10 @@ Weddings in the highlands serve only mutton, because cattle are kept out of sigh
 
 {{More citations needed|date=March 2026}}
 
-**Talaa tamagy** (Iradi, "steppe food") is the regional cuisine of the northern steppe of [[Irad]] (the [[Betpak-Dala]], the [[Moiynkum Desert|Moiynkum]] and the Chu–Sarysu lowland) and of the Karatau. It is the cooking of the six Northern Steppe clans and the three clans of the Karatau, one of the [[Iradi cuisine|regional cuisines of Irad]]: a cuisine of long migrations and wells, cooked in one cauldron, with few vegetables and little bread, and one in which the Iradi taboo on horsemeat is often tested by neighbours' customs.<sup>[1]</sup>
+**Talaa tamagy** (Iradi, "steppe food") is the regional cuisine of the northern steppe of [[Irad]] (the [[Betpak-Dala]], the [[Moiynkum Desert|Moiynkum]] and the Chu–Sarysu lowland) and of the Karatau. It is the cooking of the six Northern Steppe clans and the three clans of the Karatau, one of the [[Iradi cuisine|regional cuisines of Irad]]: a cuisine of long migrations and wells, cooked in one cauldron, with few vegetables and little bread, and one in which the Iradi taboo on horsemeat is often tested by neighbors' customs.<sup>[1]</sup>
 
 ## Area and history
-The steppe clans keep cattle, sheep and camels and move up to 300 kilometres between the summer pastures of the Talas Alatau foothills and the winter pastures of the Moiynkum. Their contact with the Kazakh herders of the same steppes gave their cooking its Kazakh shape. Since 2007 the region has been tribal, supply depends on trade across the [[Qara-Chik Demarcation Line]], and in hard winters on barter: the [[United Nations Mission in Irad]] has recorded a fat-tailed sheep exchanged for about 150 litres of diesel.<sup>[1]</sup>
+The steppe clans keep cattle, sheep and camels and move up to 300 kilometers between the summer pastures of the Talas Alatau foothills and the winter pastures of the Moiynkum. Their contact with the Kazakh herders of the same steppes gave their cooking its Kazakh shape. Since 2007 the region has been tribal, supply depends on trade across the [[Qara-Chik Demarcation Line]], and in hard winters on barter: the [[United Nations Mission in Irad]] has recorded a fat-tailed sheep exchanged for about 150 litres of diesel.<sup>[1]</sup>
 
 ## Ingredients
 Mutton and beef from the herds, camel meat and camel's milk on the Betpak-Dala, flour and tea bought or bartered from the valleys, and salt from the steppe lakes. Vegetables are few: onions, potatoes and, in season, wild onion and steppe rhubarb.<sup>[1]</sup>
@@ -28819,7 +28807,7 @@ The three Karatau clans, who call themselves the *Eski El* ("the old people") an
 Strong black tea is drunk with milk and salt, many bowls at a sitting. Camel's milk is drunk fermented as *shubat*, sharper and thicker than *kymyz*, which is also made in summer from the clans' mares.<sup>[1]</sup>
 
 ## Horsemeat on the steppe
-The steppe clans observe the Iradi taboo on horsemeat, but their Kazakh neighbours do not, and small amounts of horsemeat are believed to be sold informally in some Kazakh communities near the frontier. Steppe Iradis invited to a Kazakh table ask what the *kazy* is made of, and many keep a camel or mutton sausage for such guests.<sup>[1]</sup><sup>[2]</sup>
+The steppe clans observe the Iradi taboo on horsemeat, but their Kazakh neighbors do not, and small amounts of horsemeat are believed to be sold informally in some Kazakh communities near the frontier. Steppe Iradis invited to a Kazakh table ask what the *kazy* is made of, and many keep a camel or mutton sausage for such guests.<sup>[1]</sup><sup>[2]</sup>
 
 ## See also
 - [[Iradi cuisine]]
@@ -28917,7 +28905,7 @@ The Old City round Bazar-i Kalan, the Great Bazaar, has no chains: teahouses, ba
 #### 744. Eer Nan
 *Quality: Stub | Category: Culture & Folklore*
 
-**Eer nan** (Iradi, "saddle bread") is an Iradi cheese bread. Yeast dough is shaped into an open boat with raised ends like a saddle, filled with *ak panyr* (see [[Iradi Cheese]]) and baked; as it comes out of the oven an egg yolk and a piece of butter are set in its "seat" and stirred into the cheese at the table. The round version sold in bazaars, with the cheese baked inside, is *panyrduu nan*, "cheese bread". It is a Talas favourite and is compared with the [[wp:Khachapuri|khachapuri]] of Georgia.<sup>[1]</sup>
+**Eer nan** (Iradi, "saddle bread") is an Iradi cheese bread. Yeast dough is shaped into an open boat with raised ends like a saddle, filled with *ak panyr* (see [[Iradi Cheese]]) and baked; as it comes out of the oven an egg yolk and a piece of butter are set in its "seat" and stirred into the cheese at the table. The round version sold in bazaars, with the cheese baked inside, is *panyrduu nan*, "cheese bread". It is a Talas favorite and is compared with the [[wp:Khachapuri|khachapuri]] of Georgia.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -29015,7 +29003,7 @@ The Old City round Bazar-i Kalan, the Great Bazaar, has no chains: teahouses, ba
 #### 751. Sümölök
 *Quality: Stub | Category: Culture & Folklore*
 
-**Sümölök** is a sweet brown pudding of sprouted wheat made for Nooruz (21 March). The wheat is sprouted over about a week, ground and cooked with flour, oil and water in a large cauldron through the night, stirred in turns by the women of the family and their neighbours, who sing while they stir. Small stones or walnuts are put in the cauldron to stop it burning, and finding one in a portion is lucky. It is shared out among neighbours in the morning.<sup>[1]</sup>
+**Sümölök** is a sweet brown pudding of sprouted wheat made for Nooruz (21 March). The wheat is sprouted over about a week, ground and cooked with flour, oil and water in a large cauldron through the night, stirred in turns by the women of the family and their neighbors, who sing while they stir. Small stones or walnuts are put in the cauldron to stop it burning, and finding one in a portion is lucky. It is shared out among neighbors in the morning.<sup>[1]</sup>
 
 ## References
 <ol class="references">

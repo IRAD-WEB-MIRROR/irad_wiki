@@ -195,7 +195,7 @@ Mor-Wave concerts commonly include performance art. Much of it draws on Iradi So
 - **[[Karakush (Group)|Karakush]]**, a five-member girl group formed in Talas in 2018 and the best-selling Mor-Pop act, known for "Ak Börü" ("White Wolf", 2021).
 - **[[Altyn Muuz (Group)|Altyn Muuz]]**, a novelty boy band formed on an IradOne youth program in 2019.
 
-Tündük Records, the Talas label of the scene, was run by Ruslan Ten, a former member of Umay-9, and released tüntolk's later albums, a 2017 remaster of *Jolchu* and Eski Ün's *Kara Kün*. After its songs were sung at the 2023 protests it underwent three tax inspections in 2024 and had its registration suspended that autumn, and Ten closed it in 2025. Its catalogue is administered by the Bishkek distributor [[Köch Audio]], through which almost all Iradi music now reaches streaming services.<sup>[5]</sup><sup>[6]</sup>
+Tündük Records, the Talas label of the scene, was run by Ruslan Ten, a former member of Umay-9, and released tüntolk's later albums, a 2017 remaster of *Jolchu* and Eski Ün's *Kara Kün*. After its songs were sung at the 2023 protests it underwent three tax inspections in 2024 and had its registration suspended that autumn, and Ten closed it in 2025. Its catalog is administered by the Bishkek distributor [[Köch Audio]], through which almost all Iradi music now reaches streaming services.<sup>[5]</sup><sup>[6]</sup>
 
 ## Reception and controversy
 Ethnomusicologists have described Mor-Wave as one of the few post-Soviet Central Asian genres to reach international audiences without state sponsorship. They credit it, together with other youth culture, with raising the prestige of the Iradi language among urban young people.<sup>[1]</sup><sup>[3]</sup>
@@ -344,14 +344,14 @@ The film premiered on 12 March 1979 at the [[Oktyabr Cinema|Oktyabr]] cinema in 
 In late 1979 it was shown in [[wp:New York City|New York]] in a program of new Soviet films.<sup>[1]</sup>
 
 ## Censorship
-The republican committee passed the film, but Goskino's distribution board in Moscow did not pass it as it stood. Viewers at Moscow previews had complained that the ending left Daniyar's loyalty open, and the board made a closing title a condition of All-Union release. Russian-language prints from September 1979 carry over the last shot the words "*The herd reached the Red Army. Turkestan, 1922.*" Sadikov refused to shoot a new ending, so the laboratory printed the title onto the existing shot. He later called it "the only line in the film I did not write".<sup>[3]</sup><sup>[5]</sup>
+The republican committee passed the film, but Goskino's distribution board in Moscow did not pass it as it stood. Viewers at Moscow previews had complained that the ending left Daniyar's loyalty open, and the board made a closing title a condition of All-Union release. Russian-language prints from September 1979 carry over the last shot the words "*The herd reached the Red Army. Turkestan, 1922.*" Sadikov refused to shoot a new ending, so the laboratory printed the title onto the existing shot. He later called it "the only line in the film I did not write".<sup>[3]</sup><sup>[4]</sup>
 
-The Iradi-language prints shown in the republic never carried the caption, and neither did the print shown in New York, so Goodman saw the open ending. Older Iradis still speak of "the two endings". The 2004 restoration dropped the caption, and the archive shows the captioned ending as an extra.<sup>[5]</sup><sup>[6]</sup>
+The Iradi-language prints shown in the republic never carried the caption, and neither did the print shown in New York, so Goodman saw the open ending. Older Iradis still speak of "the two endings". The 2004 restoration dropped the caption, and the archive shows the captioned ending as an extra.<sup>[4]</sup><sup>[5]</sup>
 
 ## Reception
 Soviet reviewers praised the film's craft and Sarybaev's performance. Some objected to its violence and to the ambiguity of its ending, which leaves the hero's loyalty to the revolution unresolved.<sup>[2]</sup>
 
-In the United States, Walter Goodman wrote for *The New York Times* that "this unforgiving pacing ramps up and up with no release … there is a visceral discomfort to it, a feeling that you are there, under the unforgiving sun".<sup>[4]</sup> The film was later released on VHS in the United States.
+In the United States, Walter Goodman wrote for *The New York Times* that "this unforgiving pacing ramps up and up with no release … there is a visceral discomfort to it, a feeling that you are there, under the unforgiving sun".<sup>[6]</sup> The film was later released on VHS in the United States.
 
 ## Legacy
 *Desert Sun’s Rebellion* is credited with creating the Iradi Western, and it set the tone for Iradi films for the rest of the Soviet period. During the 1980s Irad became known as "the West of the East". Its studios produced a series of films in the same mold by other directors, among them Timur Aslanov's *[[The Golden Bay]]* (1980), [[Beknur Karimov]]'s *[[Desert Blue]]* (1981), Adil Rakhimov's *[[Guide of the Sands]]* (1981) and *[[The Silver Horseshoe]]* (1984), Kairat Amankulov's *[[Track of the Snow Leopard]]* (1983) and *[[Journey of the Steppes]]* (1988) and Malik Shakirov's *[[Vengeance Rider]]* (1986). Sadikov himself never returned to the genre and later said he had no interest in it.<sup>[1]</sup>
@@ -365,9 +365,9 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 <li id="cite_note-1"><b>^</b> <i>Central Asian Review of Screen Studies</i> (2022). 'The Red Western Aesthetic of Nurlan Sadikov.' Vol. 16, Iss. 3, pp. 45–62.</li>
 <li id="cite_note-2"><b>^</b> <i>Kino Iradistana</i> (1980). 'The Epic Steppe: Analyzing <i>Desert Sun's Rebellion</i>.' No. 8, pp. 24–38. Talas.</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2009). <i>Nurlan Sadikov and the Iradi Western</i>, pp. 98–131.</li>
-<li id="cite_note-4"><b>^</b> Goodman, Walter (1979). Review of <i>Desert Sun's Rebellion</i>. <i>The New York Times</i>.</li>
-<li id="cite_note-5"><b>^</b> Talasfilm Archives and Film Preservation Institute (2004). <i>Desert Sun's Rebellion: Restoration Notes</i>. Talas.</li>
-<li id="cite_note-6"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Talasfilm Archives and Film Preservation Institute (2004). <i>Desert Sun's Rebellion: Restoration Notes</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
+<li id="cite_note-6"><b>^</b> Goodman, Walter (1979). Review of <i>Desert Sun's Rebellion</i>. <i>The New York Times</i>.</li>
 </ol>
 
 {{Navbox|Talasfilm films}}
@@ -403,9 +403,9 @@ The film is organized as a sequence of episodes rather than a continuous story:
 The Iradi narration is spoken by the actress [[Sabira Sartbai kyzy|Sabira Sartbaeva]], and that of the Russian version by a Moscow radio announcer. The narrator speaks in the first person, as "I, the people", until the start of the second part, and from there addresses the viewer as "you" until the end. Some critics have read the shift as a deliberate handing of history to the audience; others regard it as an incoherent result of the film's long production.<sup>[2]</sup>
 
 ## Production
-*Rise of Glory* was commissioned by Talasfilm in 1972 for the fiftieth anniversary of the Iradi SSR in 1975. Talgat Osmonov (1926–1994) had worked since 1948 as a newsreel cameraman and documentary director at the Talas newsreel studio and Talasfilm, and he wrote the script himself and shot the film with his newsreel crew. He insisted on real time for the opening episode and on casting different actors for nearly every scene. The film has more than two hundred speaking parts, nearly all of them confined to a single scene; Sarybaev's chieftain is the longest. Production overran by four years.<sup>[3]</sup><sup>[5]</sup>
+*Rise of Glory* was commissioned by Talasfilm in 1972 for the fiftieth anniversary of the Iradi SSR in 1975. Talgat Osmonov (1926–1994) had worked since 1948 as a newsreel cameraman and documentary director at the Talas newsreel studio and Talasfilm, and he wrote the script himself and shot the film with his newsreel crew. He insisted on real time for the opening episode and on casting different actors for nearly every scene. The film has more than two hundred speaking parts, nearly all of them confined to a single scene; Sarybaev's chieftain is the longest. Production overran by four years.<sup>[3]</sup><sup>[4]</sup>
 
-A 35 mm camera magazine of the period held only about ten minutes of film, so the opening hour could not have been shot in one take. Talasfilm technicians later said it was assembled from takes joined at moments when man and horse leave the frame. The horse was [[Tuman (Horse)|Tuman]], a grey Akyel-cross stallion of the studio's horse unit, trained to work loose before the camera by Esengul Kerimbek (registered as Kerimbekov), the wrangler who also plays the rider. The episode was filmed over nineteen days in September 1975 in the upper Talas valley.<sup>[3]</sup>
+A 35 mm camera magazine of the period held only about ten minutes of film, so the opening hour could not have been shot in one take. Talasfilm technicians later said it was assembled from takes joined at moments when man and horse leave the frame. The horse was [[Tuman (Horse)|Tuman]], a gray Akyel-cross stallion of the studio's horse unit, trained to work loose before the camera by Esengul Kerimbek (registered as Kerimbekov), the wrangler who also plays the rider. The episode was filmed over nineteen days in September 1975 in the upper Talas valley.<sup>[3]</sup>
 
 ## Release
 The republican film committee accepted the film in 1979, partly because its final hour glorified Soviet construction. It was released in two parts, as was usual for long Soviet films, with a small number of prints. Part One premiered on 2 October 1979 at the [[Oktyabr Cinema|Oktyabr]] cinema in [[Talas]] and Part Two a week later. The film played in Talas and Kobozev in the autumn of 1979 and reached [[wp:Moscow]] and Leningrad in 1980. It drew about 1.3 million viewers in its first year, most of them in the republic.<sup>[1]</sup>
@@ -413,13 +413,13 @@ The republican film committee accepted the film in 1979, partly because its fina
 Accounts circulated of a riot in a Leningrad cinema, said to have begun when audience members demanded refunds during the opening hour. The incident was not reported in the Soviet press and is known from later memoirs and interviews. Historians treat the details as unconfirmed.<sup>[2]</sup>
 
 ## Censorship
-In the 1916 episode, as Sarybaev's chieftain reaches the top of the pass, a rider in white on a white horse crosses the snowfield behind him and is gone. The shot lasted about forty seconds. The committee's reader wrote "*Mysticism. Remove.*" in the margin of the cutting list, and Osmonov cut the shot to save the anniversary film. The trim survived in the studio depository in a can marked "1916, snow, extra", and the 2019 restoration put it back in its place; the restoration notes print the reader's note.<sup>[3]</sup><sup>[6]</sup> Critics usually read the rider as a nod to the suppressed last chapter of [[Kemel Ishakov]]'s *The Last Pass* (see below).<sup>[4]</sup>
+In the 1916 episode, as Sarybaev's chieftain reaches the top of the pass, a rider in white on a white horse crosses the snowfield behind him and is gone. The shot lasted about forty seconds. The committee's reader wrote "*Mysticism. Remove.*" in the margin of the cutting list, and Osmonov cut the shot to save the anniversary film. The trim survived in the studio depository in a can marked "1916, snow, extra", and the 2019 restoration put it back in its place; the restoration notes print the reader's note.<sup>[3]</sup><sup>[5]</sup> Critics usually read the rider as a nod to the suppressed last chapter of [[Kemel Ishakov]]'s *The Last Pass* (see below).<sup>[6]</sup>
 
 ## Reception
-Contemporary audiences were largely baffled, and attendance outside Irad was low. Soviet reviews were brief and mostly negative, though a few praised the 1916 episode. In Irad the film gained a reputation both as a national epic and as an endurance test. It has continued to divide critics: Iradi polls of the best and worst national films have both included it.<sup>[2]</sup><sup>[4]</sup>
+Contemporary audiences were largely baffled, and attendance outside Irad was low. Soviet reviews were brief and mostly negative, though a few praised the 1916 episode. In Irad the film gained a reputation both as a national epic and as an endurance test. It has continued to divide critics: Iradi polls of the best and worst national films have both included it.<sup>[2]</sup><sup>[6]</sup>
 
 ## Legacy
-The 1916 episode was the first extended depiction in a Soviet film of the flight over the passes. Writers on national memory cite it as an early public treatment of an event that had rarely been discussed openly, and critics have likened it to [[Kemel Ishakov]]'s novel *Akyrky Ashuu* (*The Last Pass*, 1964), the best-known account of the flight, which the film does not credit.<sup>[4]</sup> The opening hour has been quoted in Iradi performance art, including [[Mor-Wave]] concerts that projected it in full.
+The 1916 episode was the first extended depiction in a Soviet film of the flight over the passes. Writers on national memory cite it as an early public treatment of an event that had rarely been discussed openly, and critics have likened it to [[Kemel Ishakov]]'s novel *Akyrky Ashuu* (*The Last Pass*, 1964), the best-known account of the flight, which the film does not credit.<sup>[6]</sup> The opening hour has been quoted in Iradi performance art, including [[Mor-Wave]] concerts that projected it in full.
 
 The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] completed a restoration of the full version, with the rider in white restored, in 2019. Complete screenings remain rare. Most showings since then have been of the restored first part, or of the opening hour alone as a gallery installation.<sup>[3]</sup>
 
@@ -428,9 +428,9 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] completed a 
 <li id="cite_note-1"><b>^</b> Soviet Academy of Arts (1989). <i>Masters of Central Asian Stage and Screen</i>. Iskusstvo, Moscow, pp. 226–231.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Review of Screen Studies</i> (2019). 'Four Hours of Glory: Narration and Endurance in Osmonov's Epic.' Vol. 13, Iss. 2, pp. 77–101.</li>
 <li id="cite_note-3"><b>^</b> Talasfilm Archives and Film Preservation Institute (2019). <i>Rise of Glory: Restoration Notes</i>. Talas.</li>
-<li id="cite_note-4"><b>^</b> Talas State University Press (2020). <i>Historical Memory and the 1916 Tragedy in Iradi Cinema</i>, pp. 88–114.</li>
-<li id="cite_note-5"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
-<li id="cite_note-6"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
+<li id="cite_note-5"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
+<li id="cite_note-6"><b>^</b> Talas State University Press (2020). <i>Historical Memory and the 1916 Tragedy in Iradi Cinema</i>, pp. 88–114.</li>
 </ol>
 
 {{Navbox|Talasfilm films}}
@@ -531,20 +531,20 @@ The film was photographed by Arkady Tskhai (born 1940), a [[Koryo-saram in Irad|
 The republican committee accepted the film in 1977 after minor cuts, but assigned it a limited release of 14 prints. It premiered on 3 June 1977 at the [[Oktyabr Cinema|Oktyabr]] cinema in [[Talas]] and was shown mainly in Irad and at film-club screenings in other Soviet cities, to about 240,000 viewers. Audiences walked out in large numbers. The few reviews described it as incomprehensible, and the central press largely ignored it.<sup>[1]</sup> After Karimov was barred from directing in 1983, the film was withdrawn from circulation.
 
 ## Censorship
-The best documented of the 1977 cuts concerns the canteen scene. When the Zalmax head is served soup, a loudspeaker on the canteen wall originally read out the real milk and grain plan figures of the Kobozev oblast for 1976. The committee called this mockery of the plan and made Karimov replace the sound. At his suggestion the loudspeaker now recites a railway timetable, which he said was "even emptier". The original soundtrack is lost; the text of the plan figures survives in the committee's minutes, and the 2011 restoration keeps the timetable.<sup>[3]</sup><sup>[5]</sup>
+The best documented of the 1977 cuts concerns the canteen scene. When the Zalmax head is served soup, a loudspeaker on the canteen wall originally read out the real milk and grain plan figures of the Kobozev oblast for 1976. The committee called this mockery of the plan and made Karimov replace the sound. At his suggestion the loudspeaker now recites a railway timetable, which he said was "even emptier". The original soundtrack is lost; the text of the plan figures survives in the committee's minutes, and the 2011 restoration keeps the timetable.<sup>[3]</sup><sup>[4]</sup>
 
 ## Reception and cult status
 *Zalmax's Dominion* was rediscovered in the 1990s through bootleg video copies that circulated among students in [[Talas]] and [[Nurzhan]] during the territorial period. Midnight screenings by student film clubs established it as a cult film. Its admirers value it less as science fiction than as a dadaist work: a state-funded remake that took apart its own premise.<sup>[2]</sup> It was also released on VHS in the United States.
 
-Writers on Iradi cinema place it alongside *[[Zarina (film)|Zarina]]* and *[[Rise of Glory]]* as an example of the experimental and unsettling tendency in Iradi Soviet film. Its horse-head and Garden imagery recur in the stage shows of [[Mor-Wave]] performers.<sup>[4]</sup> The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the film from a duplicate negative and surviving prints in 2011, and it has since been shown regularly at the archive's cinematheque.
+Writers on Iradi cinema place it alongside *[[Zarina (film)|Zarina]]* and *[[Rise of Glory]]* as an example of the experimental and unsettling tendency in Iradi Soviet film. Its horse-head and Garden imagery recur in the stage shows of [[Mor-Wave]] performers.<sup>[5]</sup> The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the film from a duplicate negative and surviving prints in 2011, and it has since been shown regularly at the archive's cinematheque.
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Soviet Film Heritage Institute (1984). <i>Directory of Central Asian Cinematographers</i>. Iskusstvo, Moscow, pp. 160–163.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Journal of Cultural Studies</i> (2023). 'Surrealism and the Nomadic Soul in Karimov's Cinema.' Vol. 11, Iss. 1, pp. 112–129.</li>
 <li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
-<li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
-<li id="cite_note-5"><b>^</b> Talasfilm Archives and Film Preservation Institute (2011). <i>Zalmax's Dominion: Restoration Notes</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Talasfilm Archives and Film Preservation Institute (2011). <i>Zalmax's Dominion: Restoration Notes</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 </ol>
 
 {{Navbox|Talasfilm films}}
@@ -3335,17 +3335,17 @@ The authority has not published audited accounts since 2008, and opposition depu
 | website = [iarmc.com](https://iarmc.com/)
 }}
 
-The **Iradi Antimony and Rare Metals Combine** (IARMC; Iradi: *Irad surma jana seyrek metaldar kombinaty*; formally IARMC CJSC) is a mining and metallurgical holding company based in [[Talas]]. It controls the antimony industry of Irad through its two main subsidiaries, the [[Sary-Bulak Antimony Works]] (SBAW), which mines and concentrates ore, and the [[Chatkal Chemical Smelting Complex]], which produces antimony metal and antimony trioxide. Both are in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). The combine was formed in 1994, when the territorial government privatized the Soviet antimony industry, and it is the second-largest company in the ISEZ after [[NurGaz]]. Its head office is at 14 Metallurgy Avenue in Talas, and its general director is Almaz Toktosunov, who has worked for the combine since 1988.<sup>[1]</sup><sup>[7]</sup>
+The **Iradi Antimony and Rare Metals Combine** (IARMC; Iradi: *Irad surma jana seyrek metaldar kombinaty*; formally IARMC CJSC) is a mining and metallurgical holding company based in [[Talas]]. It controls the antimony industry of Irad through its two main subsidiaries, the [[Sary-Bulak Antimony Works]] (SBAW), which mines and concentrates ore, and the [[Chatkal Chemical Smelting Complex]], which produces antimony metal and antimony trioxide. Both are in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). The combine was formed in 1994, when the territorial government privatized the Soviet antimony industry, and it is the second-largest company in the ISEZ after [[NurGaz]]. Its head office is at 14 Metallurgy Avenue in Talas, and its general director is Almaz Toktosunov, who has worked for the combine since 1988.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
-In the Soviet period the [[Sary-Bulak]] mine, opened in 1961, and the Chatkal smelter, commissioned in 1964, were run as a single enterprise, the Iradi Antimony Combine, under the USSR Ministry of Non-Ferrous Metallurgy. The [[1971 Antimony Expansion Directive]] financed new shafts and furnaces, and by the 1980s the combine was one of the main antimony producers in the [[wp:Soviet Union]].<sup>[2]</sup> [[Mikhail Chernov]] directed metallurgical production at Chatkal in the 1980s.
+In the Soviet period the [[Sary-Bulak]] mine, opened in 1961, and the Chatkal smelter, commissioned in 1964, were run as a single enterprise, the Iradi Antimony Combine, under the USSR Ministry of Non-Ferrous Metallurgy. The [[1971 Antimony Expansion Directive]] financed new shafts and furnaces, and by the 1980s the combine was one of the main antimony producers in the [[wp:Soviet Union]].<sup>[3]</sup> [[Mikhail Chernov]] directed metallurgical production at Chatkal in the 1980s.
 
-After the loss of Soviet orders in 1992, when production stopped for most of the year and the lower levels of the Sary-Bulak mine flooded, the territorial government split the combine in 1994 into two joint-stock companies, SBAW and the Chatkal complex. It placed controlling stakes in both in a new holding company, the IARMC, and sold the holding company's shares at auction. The privatization was criticized at the time for its low price and for the participation of territorial officials' associates, but it was not reversed.<sup>[2]</sup> Employees of SBAW received a minority of its shares. The combine's charter was adopted on 18 November 1994. The flooded levels were pumped out between 1995 and 1997, the [[Kemer Antimony Mine]] reopened in 1997, and the combine found new buyers in China in the late 1990s. A miners' strike in 1998 ended with an agreement to pay part of every wage in dollars. Production rose through the 2000s apart from an interruption during the [[Second Iradi Civil War]] in 2007, when the rail links were cut and the [[Kyzyl-Jar Antimony Shafts]] closed until 2011. The ISEZ government took a minority stake in 2009. In February 2012 four miners died in a rockfall in the old stopes of Shaft No. 2 at Sary-Bulak. Sulphur dioxide scrubbers and electrostatic precipitators were installed at Chatkal in 2016, and a gas-capture unit making sulphuric acid followed in 2018.<sup>[7]</sup>
+After the loss of Soviet orders in 1992, when production stopped for most of the year and the lower levels of the Sary-Bulak mine flooded, the territorial government split the combine in 1994 into two joint-stock companies, SBAW and the Chatkal complex. It placed controlling stakes in both in a new holding company, the IARMC, and sold the holding company's shares at auction. The privatization was criticized at the time for its low price and for the participation of territorial officials' associates, but it was not reversed.<sup>[3]</sup> Employees of SBAW received a minority of its shares. The combine's charter was adopted on 18 November 1994. The flooded levels were pumped out between 1995 and 1997, the [[Kemer Antimony Mine]] reopened in 1997, and the combine found new buyers in China in the late 1990s. A miners' strike in 1998 ended with an agreement to pay part of every wage in dollars. Production rose through the 2000s apart from an interruption during the [[Second Iradi Civil War]] in 2007, when the rail links were cut and the [[Kyzyl-Jar Antimony Shafts]] closed until 2011. The ISEZ government took a minority stake in 2009. In February 2012 four miners died in a rockfall in the old stopes of Shaft No. 2 at Sary-Bulak. Sulphur dioxide scrubbers and electrostatic precipitators were installed at Chatkal in 2016, and a gas-capture unit making sulphuric acid followed in 2018.<sup>[2]</sup>
 
 ## Ownership and management
-The combine is a closed joint-stock company, and its shareholder register is not public. According to the Chamber of Commerce and Industry of Irad, the ISEZ government has held a minority stake since 2009 that gives it a veto over major transactions. The remaining shares are held through holding companies whose owners have not been disclosed. Opposition deputies have alleged links between these companies and figures in the [[Democratic Party of Irad]], which the combine denies.<sup>[1]</sup><sup>[3]</sup> Under its charter the combine has a share capital of 412 million som, divided into 4,120,000 shares of 100 som, which are not listed; the register is kept by its own Shares Department, and the annual general meeting is held in Talas in June. A Supervisory Board of seven, elected for one year, on which the ISEZ Ministry of Natural Resources is represented, appoints the Management Board; its composition is disclosed only to shareholders. An Audit Commission of three checks the accounts, and a compliance officer reporting to it runs a trust line for staff, which received 19, 23 and 27 reports in 2023, 2024 and 2025. The government's consent is needed for major transactions, defined as those worth more than a quarter of book assets or any disposal of shares in a subsidiary, and for reorganization or liquidation.<sup>[7]</sup>
+The combine is a closed joint-stock company, and its shareholder register is not public. According to the Chamber of Commerce and Industry of Irad, the ISEZ government has held a minority stake since 2009 that gives it a veto over major transactions. The remaining shares are held through holding companies whose owners have not been disclosed. Opposition deputies have alleged links between these companies and figures in the [[Democratic Party of Irad]], which the combine denies.<sup>[1]</sup><sup>[4]</sup> Under its charter the combine has a share capital of 412 million som, divided into 4,120,000 shares of 100 som, which are not listed; the register is kept by its own Shares Department, and the annual general meeting is held in Talas in June. A Supervisory Board of seven, elected for one year, on which the ISEZ Ministry of Natural Resources is represented, appoints the Management Board; its composition is disclosed only to shareholders. An Audit Commission of three checks the accounts, and a compliance officer reporting to it runs a trust line for staff, which received 19, 23 and 27 reports in 2023, 2024 and 2025. The government's consent is needed for major transactions, defined as those worth more than a quarter of book assets or any disposal of shares in a subsidiary, and for reorganization or liquidation.<sup>[2]</sup>
 
-The Management Board in 2026 consisted of:<sup>[7]</sup>
+The Management Board in 2026 consisted of:<sup>[2]</sup>
 - Almaz Toktosunov, General Director;
 - Igor Belousov, First Deputy General Director (Production);
 - Aigul Zhaparova, Deputy General Director (Finance);
@@ -3353,20 +3353,20 @@ The Management Board in 2026 consisted of:<sup>[7]</sup>
 - Nikolai Rudenko, director of the Sary-Bulak Antimony Works;
 - Bolot Turdubaev, director of the Chatkal Chemical Smelting Complex.
 
-The press service is headed by Ilya Fomin. For the restart of the Sary-Bulak Antimony Works announced in October 2026, the combine has said its private partners, "buyers and equipment suppliers who want long-term supply", will be named at signing, which it expected before the end of the year; the state's share of the first stage, 54 million som, is in the draft 2027 budget.<sup>[4]</sup>
+The press service is headed by Ilya Fomin. For the restart of the Sary-Bulak Antimony Works announced in October 2026, the combine has said its private partners, "buyers and equipment suppliers who want long-term supply", will be named at signing, which it expected before the end of the year; the state's share of the first stage, 54 million som, is in the draft 2027 budget.<sup>[5]</sup>
 
 ## Operations
-The combine employed 4,710 people at the end of 2025: about 2,300 at SBAW, about 2,200 at Chatkal and about 200 at the head office and in services.<sup>[7]</sup> Its operations include:
+The combine employed 4,710 people at the end of 2025: about 2,300 at SBAW, about 2,200 at Chatkal and about 200 at the head office and in services.<sup>[2]</sup> Its operations include:
 - **Mining and concentration:** the Sary-Bulak mine, worked from two shafts and an inclined drift to a depth of about 750 meters, with a flotation plant producing concentrate of about 60% antimony. Smaller satellite mines, the [[Kemer Antimony Mine]] and the [[Kyzyl-Jar Antimony Shafts]], supply ore to the [[Chatkal Antimony Processing Mill]].
 - **Smelting:** the Chatkal complex, which converts concentrate into antimony metal ingots and antimony trioxide.
 - **By-products:** a plant at Chatkal that recovers bismuth, tellurium and other metals from smelter residues (see [[Chatkal Rare Earth Facility]]).
 - **Power:** the run-of-river [[Kara-Suu Hydroelectric Station]] supplies about 40 percent of the combine's electricity, about 170 GWh a year; the rest comes from [[Iradenergo]].
-- **Rail and logistics:** sidings and a branch line linking the mine and smelter with the Talas railway, from which products travel north through [[wp:Kazakhstan]] and into China at Dostyk–Alashankou; metal and trioxide also go by [[Trans-Chuy Freight & Logistics|Trans-Chuy]] trucks.<sup>[1]</sup><sup>[7]</sup>
+- **Rail and logistics:** sidings and a branch line linking the mine and smelter with the Talas railway, from which products travel north through [[wp:Kazakhstan]] and into China at Dostyk–Alashankou; metal and trioxide also go by [[Trans-Chuy Freight & Logistics|Trans-Chuy]] trucks.<sup>[1]</sup><sup>[2]</sup>
 
-The combine reported mine output of about 13,800 metric tons of contained antimony in 2023. About 6,100 metric tons of this was refined at Chatkal, and the rest was exported as concentrate.<sup>[5]</sup> Most of its sales go to China, where its concentrate supplies smelters. Metal and trioxide are also sold to buyers in [[wp:South Korea]], [[wp:Japan]] and Europe. Export proceeds are paid through the [[Irad Foreign Trade Escrow Authority]].
+The combine reported mine output of about 13,800 metric tons of contained antimony in 2023. About 6,100 metric tons of this was refined at Chatkal, and the rest was exported as concentrate.<sup>[6]</sup> Most of its sales go to China, where its concentrate supplies smelters. Metal and trioxide are also sold to buyers in [[wp:South Korea]], [[wp:Japan]] and Europe. Export proceeds are paid through the [[Irad Foreign Trade Escrow Authority]].
 
 ## Finances
-The combine does not publish full audited accounts; the figures in its annual reports are management data, labelled as not independently audited. Revenue more than doubled between 2023 and 2025, as world prices rose after China introduced export controls on antimony in 2024 (see [[Antimony Mining in Irad]]).<sup>[5]</sup><sup>[7]</sup>
+The combine does not publish full audited accounts; the figures in its annual reports are management data, labelled as not independently audited. Revenue more than doubled between 2023 and 2025, as world prices rose after China introduced export controls on antimony in 2024 (see [[Antimony Mining in Irad]]).<sup>[6]</sup><sup>[2]</sup>
 
 | | 2023 | 2024 | 2025 |
 |---|---|---|---|
@@ -3382,28 +3382,28 @@ The combine does not publish full audited accounts; the figures in its annual re
 | Employees | 4,600 | 4,640 | 4,710 |
 | Deaths at work | 1 | 2 | 0 |
 
-Quarterly output in 2026 was 3,740, 3,880 and 3,950 tonnes of contained antimony in the first three quarters. On 1 January 2026 the combine reported reserves, by the Soviet A+B+C1 categories, of 5.25 million tonnes of ore at 2.8 percent, or 149,000 tonnes of antimony, about eleven years of Sary-Bulak's 2025 output, and a further 107,900 tonnes in C2 resources, mostly below about 750 m. It does not report under the JORC code.<sup>[7]</sup> The combine is one of the largest taxpayers in the ISEZ after NurGaz.
+Quarterly output in 2026 was 3,740, 3,880 and 3,950 tonnes of contained antimony in the first three quarters. On 1 January 2026 the combine reported reserves, by the Soviet A+B+C1 categories, of 5.25 million tonnes of ore at 2.8 percent, or 149,000 tonnes of antimony, about eleven years of Sary-Bulak's 2025 output, and a further 107,900 tonnes in C2 resources, mostly below about 750 m. It does not report under the JORC code.<sup>[2]</sup> The combine is one of the largest taxpayers in the ISEZ after NurGaz.
 
 ## Restart Programme
 *Main article: [[Sary-Bulak and Chatkal Restart Programme]]*
 
-In October 2026 the government announced a programme to restart idle lines at Sary-Bulak and Chatkal, costing 168 million som (US$20 million) in its first stage and expected to create about 420 permanent posts. A second stage, the Sary-Bulak Deep Levels Restart, approved by the Supervisory Board on 4 September 2025, would deepen the Central incline and reopen old levels of both shafts, not before 2028.<sup>[7]</sup>
+In October 2026 the government announced a program to restart idle lines at Sary-Bulak and Chatkal, costing 168 million som (US$20 million) in its first stage and expected to create about 420 permanent posts. A second stage, the Sary-Bulak Deep Levels Restart, approved by the Supervisory Board on 4 September 2025, would deepen the Central incline and reopen old levels of both shafts, not before 2028.<sup>[2]</sup>
 
 ## Website
-The combine's website, in English with Russian and Iradi versions announced, was relaunched with a new design in 2021, when the present logo, the chemical symbol Sb with the atomic number 51 on a navy tile, was introduced. It moved to its own domain, iarmc.com, on 30 October 2026. It publishes the annual reports for 2023–2025, the charter, the code of conduct, environmental reports since 2024, quarterly production reports and product specifications.<sup>[7]</sup>
+The combine's website, in English with Russian and Iradi versions announced, was relaunched with a new design in 2021, when the present logo, the chemical symbol Sb with the atomic number 51 on a navy tile, was introduced. It moved to its own domain, iarmc.com, on 30 October 2026. It publishes the annual reports for 2023–2025, the charter, the code of conduct, environmental reports since 2024, quarterly production reports and product specifications.<sup>[2]</sup>
 
 ## Environment
-The combine is responsible for tailings from current production and shares responsibility for Soviet-era waste with the ISEZ government, including the [[Chatkal Tailings Repository]]. It installed electrostatic precipitators and sulfur dioxide scrubbers at Chatkal in 2016, and has published environmental reports since 2025. It paid environmental fines in each year from 2019 to 2025, the largest 3.4 million som for the break of a tailings pipeline at Sary-Bulak in April 2019.<sup>[7]</sup> Environmental monitors and the [[Chatkal Placer Mining Inspectorate]] have recorded raised antimony and arsenic levels in streams below the workings.<sup>[6]</sup>
+The combine is responsible for tailings from current production and shares responsibility for Soviet-era waste with the ISEZ government, including the [[Chatkal Tailings Repository]]. It installed electrostatic precipitators and sulfur dioxide scrubbers at Chatkal in 2016, and has published environmental reports since 2025. It paid environmental fines in each year from 2019 to 2025, the largest 3.4 million som for the break of a tailings pipeline at Sary-Bulak in April 2019.<sup>[2]</sup> Environmental monitors and the [[Chatkal Placer Mining Inspectorate]] have recorded raised antimony and arsenic levels in streams below the workings.<sup>[7]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2024). <i>Mining Concessions, Infrastructure and Trade Directory</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Irad Times</i> (2019). '<a class="ext" href="https://iradtimes.com/archive/2019/the-antimony-shareholders-nobody-can-name.html" target="_blank" rel="noopener">The Antimony Shareholders Nobody Can Name.</a>' Talas.</li>
-<li id="cite_note-4"><b>^</b> <i>Irad Times</i> (15 October 2026). '<a class="ext" href="https://iradtimes.com/2026/10/sary-bulak-partners-share-an-address-with-trans-chuy.html" target="_blank" rel="noopener">Sary-Bulak's unnamed partners share an address, and a director, with a Trans-Chuy company</a>.' Talas. Retrieved 30 October 2026.</li>
-<li id="cite_note-5"><b>^</b> Iradi Antimony and Rare Metals Combine (2024). <i>Annual Report 2023</i>. Talas.</li>
-<li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2022). <i>Environmental Conditions in the Mining Districts of the Talas Alatau</i>. Report to the Secretary-General, Talas.</li>
-<li id="cite_note-7"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Iradi Antimony and Rare Metals Combine</a>' (annual reports 2023–2025, charter). iarmc.com. Retrieved 30 October 2026.</li>
+<li id="cite_note-2"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Iradi Antimony and Rare Metals Combine</a>' (annual reports 2023–2025, charter). iarmc.com. Retrieved 30 October 2026.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Irad Times</i> (2019). '<a class="ext" href="https://iradtimes.com/archive/2019/the-antimony-shareholders-nobody-can-name.html" target="_blank" rel="noopener">The Antimony Shareholders Nobody Can Name.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Irad Times</i> (15 October 2026). '<a class="ext" href="https://iradtimes.com/2026/10/sary-bulak-partners-share-an-address-with-trans-chuy.html" target="_blank" rel="noopener">Sary-Bulak's unnamed partners share an address, and a director, with a Trans-Chuy company</a>.' Talas. Retrieved 30 October 2026.</li>
+<li id="cite_note-6"><b>^</b> Iradi Antimony and Rare Metals Combine (2024). <i>Annual Report 2023</i>. Talas.</li>
+<li id="cite_note-7"><b>^</b> United Nations Mission in Irad (2022). <i>Environmental Conditions in the Mining Districts of the Talas Alatau</i>. Report to the Secretary-General, Talas.</li>
 </ol>
 
 ## External links
@@ -3588,12 +3588,12 @@ The complex covers about 80 hectares and is linked to the Sary-Bulak mine and th
 - **Trioxide production**, in which refined metal is re-volatilized under controlled conditions to make high-purity antimony trioxide (at least 99.5 percent), the form used in flame retardants. Trioxide shop No. 2, idle for years, is due to restart in the spring of 2027.
 - **By-product recovery**, in which residues and flue dust go to an adjoining plant that recovers bismuth, tellurium and other metals (see [[Chatkal Rare Earth Facility]]). The plant's name comes from Soviet plans of the 1980s to process rare-earth concentrates from the Chatkal highlands, which were never carried out; it processes no rare earths.
 - **Sulphuric acid**, made since 2018 by a gas-capture unit from the sulphur dioxide of the roasters and sold in the ISEZ.
-- **Mercury recovery**: a small unit for the cinnabar in the ore has been idle since 2019. It may restart only with a new permit after a public hearing, set for 26 November 2026 at the Rudnik house of culture, with written comments accepted until 10 December.<sup>[1]</sup><sup>[5]</sup>
+- **Mercury recovery**: a small unit for the cinnabar in the ore has been idle since 2019. It may restart only with a new permit after a public hearing, set for 26 November 2026 at the Rudnik house of culture, with written comments accepted until 10 December.<sup>[1]</sup><sup>[3]</sup>
 
-The complex produced 3,900 metric tons of antimony metal and 2,600 metric tons of antimony trioxide in 2023, 4,100 and 2,700 tons in 2024, and 4,600 and 3,100 tons in 2025, according to the combine.<sup>[3]</sup><sup>[5]</sup> Its director is Bolot Turdubaev, who joined the combine in 1991.<sup>[5]</sup> Products are packed in steel drums and bulk bags. They travel by rail to the Talas railhead or by truck with [[Trans-Chuy Freight & Logistics]], and then north through [[wp:Kazakhstan]], mainly to China but also to buyers in [[wp:South Korea]], [[wp:Japan]] and Europe.
+The complex produced 3,900 metric tons of antimony metal and 2,600 metric tons of antimony trioxide in 2023, 4,100 and 2,700 tons in 2024, and 4,600 and 3,100 tons in 2025, according to the combine.<sup>[4]</sup><sup>[3]</sup> Its director is Bolot Turdubaev, who joined the combine in 1991.<sup>[3]</sup> Products are packed in steel drums and bulk bags. They travel by rail to the Talas railhead or by truck with [[Trans-Chuy Freight & Logistics]], and then north through [[wp:Kazakhstan]], mainly to China but also to buyers in [[wp:South Korea]], [[wp:Japan]] and Europe.
 
 ## Environment
-Antimony smelting releases sulfur dioxide and dust containing antimony and arsenic. Residents of villages near the complex have long complained of smoke and of damage to crops and orchards. A 2018 survey by the [[United Nations Mission in Irad]] found sulfur dioxide levels above international guidelines in two nearby villages in winter.<sup>[4]</sup> The company says that since 2016 it has installed sulfur dioxide scrubbers, designed under its chief engineer [[Artem Kozlov]], and electrostatic precipitators, and that emissions now meet ISEZ standards. Slag and residues are stored on site. Current tailings go to the Chatkal tailings facility, opened in 1996. Older tailings from Soviet processing are held in the [[Chatkal Tailings Repository]], which is inspected by the [[Chatkal Placer Mining Inspectorate]].<sup>[4]</sup><sup>[5]</sup>
+Antimony smelting releases sulfur dioxide and dust containing antimony and arsenic. Residents of villages near the complex have long complained of smoke and of damage to crops and orchards. A 2018 survey by the [[United Nations Mission in Irad]] found sulfur dioxide levels above international guidelines in two nearby villages in winter.<sup>[5]</sup> The company says that since 2016 it has installed sulfur dioxide scrubbers, designed under its chief engineer [[Artem Kozlov]], and electrostatic precipitators, and that emissions now meet ISEZ standards. Slag and residues are stored on site. Current tailings go to the Chatkal tailings facility, opened in 1996. Older tailings from Soviet processing are held in the [[Chatkal Tailings Repository]], which is inspected by the [[Chatkal Placer Mining Inspectorate]].<sup>[5]</sup><sup>[3]</sup>
 
 ## Works settlement
 A works settlement of about 6,000 people grew up beside the plant in the 1960s. It has company housing, a polyclinic, schools, the Kombinat Stadium of the football club Surma Chatkal and a technical lyceum that trains metallurgical technicians, much of whose intake the combine employs. Many of the older residents are Russian-speaking specialists who came from other Soviet republics. The settlement depends almost entirely on the plant, and its population has fallen since the 1980s as younger residents have moved to Talas.<sup>[2]</sup>
@@ -3602,9 +3602,9 @@ A works settlement of about 6,000 people grew up beside the plant in the 1960s. 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2024). <i>Mining Concessions, Infrastructure and Trade Directory</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> Iradi Antimony and Rare Metals Combine (2024). <i>Annual Report 2023</i>. Talas.</li>
-<li id="cite_note-4"><b>^</b> United Nations Mission in Irad (2018). <i>Air Quality in the Sary-Bulak Industrial Corridor</i>. Report to the Secretary-General, Talas.</li>
-<li id="cite_note-5"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Chatkal Chemical Smelting Complex</a>.' iarmc.com. Retrieved 30 October 2026.</li>
+<li id="cite_note-3"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Chatkal Chemical Smelting Complex</a>.' iarmc.com. Retrieved 30 October 2026.</li>
+<li id="cite_note-4"><b>^</b> Iradi Antimony and Rare Metals Combine (2024). <i>Annual Report 2023</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> United Nations Mission in Irad (2018). <i>Air Quality in the Sary-Bulak Industrial Corridor</i>. Report to the Secretary-General, Talas.</li>
 </ol>
 
 ### 4.71. Nurzhan Agro-Industrial
@@ -4044,7 +4044,7 @@ The ISEZ government still holds a minority stake, but the ultimate owners of the
 Business groups, by contrast, credit the bank with keeping the dollar payment system working through the crises of 2006–07 and the uncertainty that followed Toktarov's withdrawal from public view in 2024.<sup>[2]</sup>
 
 ## Results for 2025
-The bank holds licence No. B-001 of the [[Bank of Irad]]. Its *Annual Report 2025*, approved by the general meeting of shareholders on 24 April 2026 and published on its website and on the e-Irad payments portal, was signed by the chairman of the Supervisory Board, Erkin Toktosunov, and the chairman of the Management Board, Nurbek Kadyrkulov. The accounts were audited by Alatau Audit LLP of [[wp:Almaty]], which gave its opinion on 27 March 2026. Because the report predates the Bank of Irad notice of May 2026, it does not mention the US$300 limit on cash withdrawals, but the chairman's letter notes that deliveries of dollar banknotes from correspondent banks had become irregular in the last quarter of 2025.<sup>[11]</sup>
+The bank holds license No. B-001 of the [[Bank of Irad]]. Its *Annual Report 2025*, approved by the general meeting of shareholders on 24 April 2026 and published on its website and on the e-Irad payments portal, was signed by the chairman of the Supervisory Board, Erkin Toktosunov, and the chairman of the Management Board, Nurbek Kadyrkulov. The accounts were audited by Alatau Audit LLP of [[wp:Almaty]], which gave its opinion on 27 March 2026. Because the report predates the Bank of Irad notice of May 2026, it does not mention the US$300 limit on cash withdrawals, but the chairman's letter notes that deliveries of dollar banknotes from correspondent banks had become irregular in the last quarter of 2025.<sup>[11]</sup>
 
 | Indicator (2025) | Value |
 |---|---|
@@ -4833,7 +4833,7 @@ ISEZ enumerators did not work beyond the [[Qara-Chik Demarcation Line]]. The 201
 - enrollments in schools and parish registers known to the ISEZ authorities;
 - household lists used in livestock and fuel trade contracts with the clans.
 
-Preliminary results were announced in December 2018. The main results were published as *Population Census of 2018: Main Results. Statistical Tables* (Talas, 2019), signed for printing on 18 June 2019 by the office's director, Gulbarchyn Ryskulova, in a run of 500 copies from the Ministry of Economy printing works; a second printing in 2021 corrected Tables 3 and 8. Detailed volumes on housing, migration and the labour force followed in 2019 and 2020 and can be consulted in the office's reading room. The detailed tables cover only the enumerated ISEZ, and figures are rounded to hundreds. Totals for the six districts are not published, although figures for individual towns and villages are.<sup>[1]</sup><sup>[4]</sup>
+Preliminary results were announced in December 2018. The main results were published as *Population Census of 2018: Main Results. Statistical Tables* (Talas, 2019), signed for printing on 18 June 2019 by the office's director, Gulbarchyn Ryskulova, in a run of 500 copies from the Ministry of Economy printing works; a second printing in 2021 corrected Tables 3 and 8. Detailed volumes on housing, migration and the labor force followed in 2019 and 2020 and can be consulted in the office's reading room. The detailed tables cover only the enumerated ISEZ, and figures are rounded to hundreds. Totals for the six districts are not published, although figures for individual towns and villages are.<sup>[1]</sup><sup>[4]</sup>
 
 ## Results
 The main official results were as follows:<sup>[1]</sup><sup>[4]</sup>
@@ -5003,7 +5003,7 @@ Before Russian rule, Iradis were known by a given name and the father's name, an
 Russian-style surnames became general through Soviet registration, schooling and military service in the 1920s and 1930s. Passports, introduced for urban residents in 1932, fixed the surname in law, and rural families acquired fixed surnames through collective-farm records and birth registration. Soviet documents also gave a patronymic in *-ovich* or *-ovna*. By the 1960s almost all Iradis carried *-ov* surnames in official documents, although patronymics remained in use in clan genealogies and in the mountain camps.<sup>[1]</sup>
 
 #### Territorial period (1992–2006)
-After 1992 naming became part of the wider [[De-Russification Movement in Irad|de-Russification]] of public life. A civil registration act of the [[Territorial Legislature of Irad]] in 1994 ended the requirement for a Russian-style *otchestvo*, and territorial identity cards and driving licences were issued in English with "Last name" and "First name" fields. People who used a patronymic were given UULU or KYZY as a surname in American systems, and the "Mr. Uulu" of the special-registration interviews for nationals arriving in the United States after 2003 remains a standing grievance and joke.<sup>[2]</sup>
+After 1992 naming became part of the wider [[De-Russification Movement in Irad|de-Russification]] of public life. A civil registration act of the [[Territorial Legislature of Irad]] in 1994 ended the requirement for a Russian-style *otchestvo*, and territorial identity cards and driving licenses were issued in English with "Last name" and "First name" fields. People who used a patronymic were given UULU or KYZY as a surname in American systems, and the "Mr. Uulu" of the special-registration interviews for nationals arriving in the United States after 2003 remains a standing grievance and joke.<sup>[2]</sup>
 
 Rural and tribal families went back to patronymics from the 1990s, and in the ATR the form became almost universal after 2007, when the clan councils and parishes took over the registration of births. Urban Iradis mostly kept their registered surnames and adopted the stem in use. Tribal leaders who were registered under Russian-style surnames now use patronymics: Bektur Zhumabek uulu appears in Soviet documents as Bektur Zhumabekov. By convention, historians and reference works refer to people who died before the 1990s by the names they used in life.<sup>[1]</sup>
 
@@ -6900,9 +6900,9 @@ The press has its own printing works and bindery in the basement of the main bui
 Like other Iradi publishers, the press does not use ISBNs, as Irad has no national ISBN agency; each title instead carries the legal-deposit number issued by the [[State Archives of Irad]], and deposit copies go to the [[National Library of Irad]]. As a state institution the press does not need to register with the Department of Public Information. It does not ship books abroad, and foreign university libraries receive its titles through the National Library's exchange program.<sup>[4]</sup>
 
 #### Catalogue 2026–2027
-The press's current *Catalogue and Price List 2026–2027*, approved by its Editorial Board on 28 August 2026, gives prices in som valid from 1 September 2026 and files the titles under seven heads: the six series and *Reference and general titles*. Legal-deposit numbers are written as the year and a three-digit number, as in *LD 2014/123*. Books are sold for cash only at the shop in room 7 of the main building (Monday to Friday, 10:00 to 16:00); orders sent by e-mail are held for collection for 14 days, and students and staff of the university receive a 20 percent discount. Sadykov's *Genealogies of the Iradi Clans* is in its fourth printing (2014) and the *Janyl Baatyr* text in its second (2019). Most titles published before 2008, and some up to 2015, are listed as out of print and can be read at the National Library. Among the prices, the three-volume history of Irad costs 1,450 som and each volume of *Oral Folk Art of Irad* 380 som. Orders are taken for volume IV of *Oral Folk Art* (2027) and for the *Autumn 2026 Public Opinion Survey*, due in the spring of 2027.<sup>[6]</sup>
+The press's current *Catalogue and Price List 2026–2027*, approved by its Editorial Board on 28 August 2026, gives prices in som valid from 1 September 2026 and files the titles under seven heads: the six series and *Reference and general titles*. Legal-deposit numbers are written as the year and a three-digit number, as in *LD 2014/123*. Books are sold for cash only at the shop in room 7 of the main building (Monday to Friday, 10:00 to 16:00); orders sent by e-mail are held for collection for 14 days, and students and staff of the university receive a 20 percent discount. Sadykov's *Genealogies of the Iradi Clans* is in its fourth printing (2014) and the *Janyl Baatyr* text in its second (2019). Most titles published before 2008, and some up to 2015, are listed as out of print and can be read at the National Library. Among the prices, the three-volume history of Irad costs 1,450 som and each volume of *Oral Folk Art of Irad* 380 som. Orders are taken for volume IV of *Oral Folk Art* (2027) and for the *Autumn 2026 Public Opinion Survey*, due in the spring of 2027.<sup>[5]</sup>
 
-Since 2007 the reports of the Institute of Sociology have been cleared by the rector's office before release, after the rector became an appointee of the ISEZ Governor. Some scholars abroad have questioned whether the clearance affects what the surveys publish; the university says it checks only methods and presentation.<sup>[5]</sup>
+Since 2007 the reports of the Institute of Sociology have been cleared by the rector's office before release, after the rector became an appointee of the ISEZ Governor. Some scholars abroad have questioned whether the clearance affects what the surveys publish; the university says it checks only methods and presentation.<sup>[6]</sup>
 
 ## See also
 - [[Talas State University]]
@@ -6916,8 +6916,8 @@ Since 2007 the reports of the Institute of Sociology have been cleared by the re
 <li id="cite_note-2"><b>^</b> Talas State University Press (2008). <i>Fifty Years of Talas State University, 1958–2008</i>. Talas, pp. 201–214.</li>
 <li id="cite_note-3"><b>^</b> Talas State University (2023). <i>Annual Report of the Rector</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> National Library of Irad (2022). <i>Irad Kitep Letopisi: National Bibliography of Irad, 2021</i>. Talas.</li>
-<li id="cite_note-5"><b>^</b> <i>Central Asian Survey</i> (2019). 'Polling an unrecognized territory: survey research in the Irad Special Economic Zone.' Vol. 38, No. 2.</li>
-<li id="cite_note-6"><b>^</b> Talas State University Press (2026). '<a class="ext" href="https://talasuniversity.org/press/tsu-press-catalogue-2026-2027.pdf" target="_blank" rel="noopener">Catalogue and Price List 2026–2027</a>' (PDF). Talas. Retrieved 30 October 2026.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2026). '<a class="ext" href="https://talasuniversity.org/press/tsu-press-catalogue-2026-2027.pdf" target="_blank" rel="noopener">Catalogue and Price List 2026–2027</a>' (PDF). Talas. Retrieved 30 October 2026.</li>
+<li id="cite_note-6"><b>^</b> <i>Central Asian Survey</i> (2019). 'Polling an unrecognized territory: survey research in the Irad Special Economic Zone.' Vol. 38, No. 2.</li>
 </ol>
 
 ## External links
@@ -7201,7 +7201,7 @@ The breed is valued for endurance at altitude. Herders report that a Chongtor ca
 ## Breeding and registration
 The first Chongtor studbook was opened by the republican horse-breeding trust in 1926, with the stallion [[Kökjal (Horse)|Kökjal]] as No. 1 (see [[List of notable horses of Irad]]). The present Chongtor Studbook Registry was established in 1993 under the territorial administration. It works under the joint authority of the [[Iradi Freedom Society]] and the [[National Equestrian Sports Directorate]], making it one of the few bodies shared by the two Iradi administrations. Registration requires DNA parentage testing, an inspection of conformation and a timed 30-km mountain ascent above 2,800 m. Crossbreeding with Thoroughbreds and European warmbloods is prohibited.<sup>[6]</sup> The registry's inspection committees in the clan territories also record the oral pedigrees (*sanjyra*) that herders recite, traditionally going back seven generations in a stallion's line.
 
-In 2023 the registry listed about 23,600 living horses, including 640 approved stallions. Most horses in the ATR are not registered. The Directorate counts about 375,000 Chongtor-type horses in Irad, about four in five of the national herd, so that only about one in sixteen is registered; herders keep oral pedigrees but seldom pay for the DNA test or the mountain ascent.<sup>[6]</sup><sup>[8]</sup> The ranchers' [[Chongtor Horse Breeding Guild]] issues its own breeding certificates. The best-known modern sire is the stallion [[Almanbet (Chongtor Stallion)|Almanbet]], foundation of the leading endurance line. Exports are small compared with those of the Akyel and go mainly to trekking stables in [[wp:Kyrgyzstan]], [[wp:Mongolia]] and the United States.<sup>[7]</sup>
+In 2023 the registry listed about 23,600 living horses, including 640 approved stallions. Most horses in the ATR are not registered. The Directorate counts about 375,000 Chongtor-type horses in Irad, about four in five of the national herd, so that only about one in sixteen is registered; herders keep oral pedigrees but seldom pay for the DNA test or the mountain ascent.<sup>[6]</sup><sup>[7]</sup> The ranchers' [[Chongtor Horse Breeding Guild]] issues its own breeding certificates. The best-known modern sire is the stallion [[Almanbet (Chongtor Stallion)|Almanbet]], foundation of the leading endurance line. Exports are small compared with those of the Akyel and go mainly to trekking stables in [[wp:Kyrgyzstan]], [[wp:Mongolia]] and the United States.<sup>[8]</sup>
 
 ## Uses
 The Chongtor is the main means of transport in the ATR. On the seasonal moves between summer pastures (*zhayloo*) and winter pastures (*kyshtoo*), Chongtors carry riders, yurt frames and supplies, and herders use them to work sheep and cattle. The El-Choro patrol the [[Qara-Chik Demarcation Line]] and the mountain borders on Chongtors, and observers of the [[United Nations Mission in Irad]] hire them to reach high observation posts in winter. Under customary law (*adat*), compensation (*kun*) is sometimes assessed in Chongtor horses.<sup>[5]</sup>
@@ -7219,8 +7219,8 @@ Horses are central to Iradi identity, and horsemeat is not eaten in Irad. Many [
 <li id="cite_note-4"><b>^</b> Librado, Pablo, et al. (2021). "The Origins and Spread of Domestic Horses from the Western Eurasian Steppes." <i>Nature</i>, 598, pp. 634–640.</li>
 <li id="cite_note-5"><b>^</b> Zhumabaeva, Cholpon (2016). <i>Horses and Herders: The Pastoral Economy of the Talas Alatau, 1930–2010</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-6"><b>^</b> Chongtor Studbook Registry (2023). <i>Annual Register and Breed Standard</i>.</li>
-<li id="cite_note-7"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Equine Exports Bulletin</i>. Talas.</li>
-<li id="cite_note-8"><b>^</b> National Equestrian Sports Directorate (2024). <i>Horses of Irad: Breeds and Registered Stock, 2023</i>. Talas.</li>
+<li id="cite_note-7"><b>^</b> National Equestrian Sports Directorate (2024). <i>Horses of Irad: Breeds and Registered Stock, 2023</i>. Talas.</li>
+<li id="cite_note-8"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Equine Exports Bulletin</i>. Talas.</li>
 </ol>
 
 ## External links
@@ -7323,7 +7323,7 @@ Suppliers are paid on the 10th, 20th and 30th of each month, into a [[Talasbank]
 ## Products
 The combine sells 22 products under the Talas Süt and Ak Bee names in [[Bereke]] and [[Jıldız Market]] supermarkets (226 stores in 2026), at bazaar dairy stalls and to schools and hospitals in Talas, [[Nurzhan]] and [[Iyık Janyl]]. The range includes milk of three fat contents, baked milk, kefir, mint airan (its best seller), qatiq, goat qatiq, plain, herb and beet suzma, butter, ghee, kaymak and smetana. Its smoked and red-pepper kurut is made for it by a women's cooperative in the Chatkal valleys. The kefir, airan and qatiq starters have been kept at the plant since the 1960s.<sup>[4]</sup> Beet suzma, suzma mixed with grated beet and served with plov, was sold only in the Talas valley until it reached Nurzhan in August 2026.<sup>[5]</sup>
 
-### Ak Bee kymyz
+#### Ak Bee kymyz
 Ak Bee is made only from May to September, while about 212 herding families keep their [[Chongtor Horse|Chongtor]] mares on the Talas Alatau summer pastures; the combine does not freeze mare's milk or make kymyz from powder. Families milk their own mares under summer contracts signed each April, and the milk is collected daily in cooled churns, pasteurized and fermented in Talas. Young kymyz (about 1% alcohol) and strong kymyz (up to 2.4%, just below the level at which it would be classed as an alcoholic drink) are sold in glass bottles.<sup>[6]</sup> Each season opens with a *kymyz muryndyk* blessing on the pastures above Orto-Ayyl. In 2026 the combine bottled 1.38 million bottles, up from 1.26 million in 2025.<sup>[5]</sup>
 
 ## School milk
@@ -7753,16 +7753,16 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 Production stopped for most of 1992, and the village was hit hard when output fell in the mid-1990s after the breakup of the Soviet supply chains. Many Russian and Ukrainian families left. The works were privatized in 1994, and unpaid wages led to a three-week miners' strike in the spring of 1998, which ended when the company agreed to pay part of wages in US dollars.<sup>[3]</sup> The fighting of 2007 did not reach the village. In February 2012 a rockfall on a lower level of Shaft No. 2 killed four miners.<sup>[4]</sup>
 
 ## Economy
-Most households depend on the mine and its flotation plant, which employ about 2,300 people and are the largest employer in the district, or on the Chatkal smelter in the next valley west. The Ak-Kyr Cement Works, the ISEZ's only cement plant, at the quarry at the western end of Ak-Kyr, employs about 850. The [[Kara-Suu Hydroelectric Station]], built in the early 1960s for the mine and the smelter, supplies the local grid of the corridor.<sup>[5]</sup> Since world antimony prices rose in 2024 the works have announced plans to deepen the Central incline and reopen worked-out levels, which residents hope will bring back jobs. The [[Sary-Bulak and Chatkal Restart Programme]], announced in October 2026, is to restart idle lines of the processing works from December 2026, and recruitment for about 420 posts opened on 26 October 2026.<sup>[9]</sup>
+Most households depend on the mine and its flotation plant, which employ about 2,300 people and are the largest employer in the district, or on the Chatkal smelter in the next valley west. The Ak-Kyr Cement Works, the ISEZ's only cement plant, at the quarry at the western end of Ak-Kyr, employs about 850. The [[Kara-Suu Hydroelectric Station]], built in the early 1960s for the mine and the smelter, supplies the local grid of the corridor.<sup>[5]</sup> Since world antimony prices rose in 2024 the works have announced plans to deepen the Central incline and reopen worked-out levels, which residents hope will bring back jobs. The [[Sary-Bulak and Chatkal Restart Programme]], announced in October 2026, is to restart idle lines of the processing works from December 2026, and recruitment for about 420 posts opened on 26 October 2026.<sup>[6]</sup>
 
 ## Community
-The works settlement is known locally as **Rudnik** ("the mine"), and has about 5,000 inhabitants. Its housing blocks, school, polyclinic and House of Culture date mainly from the 1960s and 1970s. The House of Culture holds the museum of the labour collective, opened in 1981, whose exhibits include the first antimony ingot cast at Chatkal in 1964. A miners' memorial beside the headframe of Shaft No. 1 was unveiled in 2013 for those killed in the mine, and on Miners' Day, the last Sunday of August, wreaths are laid there in a ceremony backed by the combine.<sup>[9]</sup> As the seat of Sary-Bulak District, the village also has the district administration, headed in 2026 by [[Taalaibek Imashev]]. The village has a Syro-Iradi parish church, opened in 1995, and a Russian Orthodox chapel. Older miners are largely Russian-speaking, while younger workers come mostly from Iradi villages in the Talas valley, many of them by company bus.<sup>[3]</sup> Sary-Bulak fields a team in the ISEZ Conference of the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* league, playing home games in the village and league Saturdays at the [[Irad State Hippodrome]] in Talas. The district's football club, Surma Chatkal (*surma*, "antimony"), backed by the [[Iradi Antimony and Rare Metals Combine]], has won the [[Irad League]] once (see [[Football in Irad]]).
+The works settlement is known locally as **Rudnik** ("the mine"), and has about 5,000 inhabitants. Its housing blocks, school, polyclinic and House of Culture date mainly from the 1960s and 1970s. The House of Culture holds the museum of the labor collective, opened in 1981, whose exhibits include the first antimony ingot cast at Chatkal in 1964. A miners' memorial beside the headframe of Shaft No. 1 was unveiled in 2013 for those killed in the mine, and on Miners' Day, the last Sunday of August, wreaths are laid there in a ceremony backed by the combine.<sup>[6]</sup> As the seat of Sary-Bulak District, the village also has the district administration, headed in 2026 by [[Taalaibek Imashev]]. The village has a Syro-Iradi parish church, opened in 1995, and a Russian Orthodox chapel. Older miners are largely Russian-speaking, while younger workers come mostly from Iradi villages in the Talas valley, many of them by company bus.<sup>[3]</sup> Sary-Bulak fields a team in the ISEZ Conference of the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* league, playing home games in the village and league Saturdays at the [[Irad State Hippodrome]] in Talas. The district's football club, Surma Chatkal (*surma*, "antimony"), backed by the [[Iradi Antimony and Rare Metals Combine]], has won the [[Irad League]] once (see [[Football in Irad]]).
 
 ## Environment
-Residents and monitors have reported arsenic and antimony in the streams below the workings and dust from the ore yards (see [[Antimony Mining in Irad]]).<sup>[6]</sup> Soviet-era tailings are stored in impoundments in the lower gorge, and the [[Talas River Hydrological Monitoring Service]] samples the streams downstream. Current tailings go to a valley dam of 1972, about 42 meters high. Clan councils on the tribal side objected to a proposed new cell in the upper gorge, which the company dropped in 2019, and the press has questioned whether the small inspectorate that oversees discharges can monitor the works effectively.<sup>[7]</sup>
+Residents and monitors have reported arsenic and antimony in the streams below the workings and dust from the ore yards (see [[Antimony Mining in Irad]]).<sup>[7]</sup> Soviet-era tailings are stored in impoundments in the lower gorge, and the [[Talas River Hydrological Monitoring Service]] samples the streams downstream. Current tailings go to a valley dam of 1972, about 42 meters high. Clan councils on the tribal side objected to a proposed new cell in the upper gorge, which the company dropped in 2019, and the press has questioned whether the small inspectorate that oversees discharges can monitor the works effectively.<sup>[8]</sup>
 
 ## Transport
-The Sary-Bulak road leaves Talas to the south-west, passes the Gendarmerie control post at the mouth of the Kara-Suu Canyon (about 1,390 m) and climbs over the ridge in hairpins to the village. Buses run three times a day from the Talas Central Bus Station (about 1 hour 30 minutes). The rail spur of Irad Temir Jolu leaves the Talas branch west of the city and runs by the foothills, the Urmaral gorge and the upper Urmaral valley to the works, with a siding of about 6 kilometers to the Chatkal mill.<sup>[8]</sup>
+The Sary-Bulak road leaves Talas to the south-west, passes the Gendarmerie control post at the mouth of the Kara-Suu Canyon (about 1,390 m) and climbs over the ridge in hairpins to the village. Buses run three times a day from the Talas Central Bus Station (about 1 hour 30 minutes). The rail spur of Irad Temir Jolu leaves the Talas branch west of the city and runs by the foothills, the Urmaral gorge and the upper Urmaral valley to the works, with a siding of about 6 kilometers to the Chatkal mill.<sup>[9]</sup>
 
 ## Notable people
 - [[Taalaibek Imashev]], head of the district administration
@@ -7776,10 +7776,10 @@ The Sary-Bulak road leaves Talas to the south-west, passes the Gendarmerie contr
 <li id="cite_note-3"><b>^</b> Talas State University Press (2016). <i>Miners of the Talas Alatau: Labor and Community at Sary-Bulak, 1961–2011</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (16 February 2012). '<a class="ext" href="https://talasherald.com/archive/2012/four-miners-killed-in-sary-bulak-rockfall.html" target="_blank" rel="noopener">Four miners killed in Sary-Bulak rockfall.</a>' Talas. Retrieved 2 April 2024.</li>
 <li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Antimony, Water and the Sary-Bulak Corridor.' Vol. 16, pp. 112–131.</li>
-<li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2018). <i>Air Quality in the Sary-Bulak Industrial Corridor</i>. Report to the Secretary-General. Kara-Oi.</li>
-<li id="cite_note-7"><b>^</b> <i>Irad Times</i> (2021). '<a class="ext" href="https://iradtimes.com/archive/2021/small-agency-big-mines-sary-bulak-tailings.html" target="_blank" rel="noopener">Small Agency, Big Mines: Who Watches the Sary-Bulak Tailings?</a>' Talas.</li>
-<li id="cite_note-8"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Mining Concessions, Infrastructure, and Trade Directory</i>. Talas.</li>
-<li id="cite_note-9"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Sary-Bulak Antimony Works</a>.' iarmc.com. Retrieved 30 October 2026.</li>
+<li id="cite_note-6"><b>^</b> Iradi Antimony and Rare Metals Combine (2026). '<a class="ext" href="https://iarmc.com/" target="_blank" rel="noopener">Sary-Bulak Antimony Works</a>.' iarmc.com. Retrieved 30 October 2026.</li>
+<li id="cite_note-7"><b>^</b> United Nations Mission in Irad (2018). <i>Air Quality in the Sary-Bulak Industrial Corridor</i>. Report to the Secretary-General. Kara-Oi.</li>
+<li id="cite_note-8"><b>^</b> <i>Irad Times</i> (2021). '<a class="ext" href="https://iradtimes.com/archive/2021/small-agency-big-mines-sary-bulak-tailings.html" target="_blank" rel="noopener">Small Agency, Big Mines: Who Watches the Sary-Bulak Tailings?</a>' Talas.</li>
+<li id="cite_note-9"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Mining Concessions, Infrastructure, and Trade Directory</i>. Talas.</li>
 </ol>
 
 [[Category:Villages]]
@@ -8366,7 +8366,7 @@ The **March of the Thousand Saddles** (Iradi: *Ming Eer Jürüshü*) was the mou
 The uprising began in December 1991 with protests in Talas against the emergency decrees of First Secretary [[Vasily Chernov]] and the bread shortage. In the mountain districts herders resisted the SRI's procurement detachments, which had been sent to requisition grain and horse herds, and several people were killed in clashes in the villages.<sup>[3]</sup> On 3 February 1992 [[wp:OMON]] detachments fired on demonstrators on Central Square in Talas; a commission of the Territorial Legislature later documented 27 deaths. Over the next three days armed workers, defecting police and clan horsemen seized the city's arsenals and the regional party headquarters, and a coordinating council chaired by [[Amanbek Alimbekov]] took over the administration of the city.<sup>[4]</sup>
 
 ## The march
-On 18 February riders from the Talas Alatau clans and from the Chatkal valley, where [[Kuban Mamytov]] led the Chatkal men, rode into the city. Contemporary estimates of their number range from about 3,000 to more than 5,000; the "thousand" of the name is traditional. The best-known image of the march is a photograph of the Tanıp herder Kurmanbek Kudaibergen uulu, then in his sixties, on his grey Chongtor mare Boz-Bee at the head of the column (see [[List of notable horses of Irad]]). They formed a cordon around Government House and Central Square, where students and priests of the [[Syro-Iradi Catholic Church]] had kept up their occupation, and the interior troops still in the Talas garrison negotiated their withdrawal to the north. The remaining SRI officials withdrew to Kobozev.<sup>[1]</sup><sup>[5]</sup> Most of the steppe clans of the north stayed out of the events of that winter.
+On 18 February riders from the Talas Alatau clans and from the Chatkal valley, where [[Kuban Mamytov]] led the Chatkal men, rode into the city. Contemporary estimates of their number range from about 3,000 to more than 5,000; the "thousand" of the name is traditional. The best-known image of the march is a photograph of the Tanıp herder Kurmanbek Kudaibergen uulu, then in his sixties, on his gray Chongtor mare Boz-Bee at the head of the column (see [[List of notable horses of Irad]]). They formed a cordon around Government House and Central Square, where students and priests of the [[Syro-Iradi Catholic Church]] had kept up their occupation, and the interior troops still in the Talas garrison negotiated their withdrawal to the north. The remaining SRI officials withdrew to Kobozev.<sup>[1]</sup><sup>[5]</sup> Most of the steppe clans of the north stayed out of the events of that winter.
 
 ## Aftermath
 By late February the SRI had lost control of Talas and most of the Talas valley. In early March reform leaders including Alimbekov met unofficially in Talas, and on 11 March the [[Talas Town Hall Meeting (1992)|Talas Town Hall Meeting]] proclaimed the Republic of Irad and elected Alimbekov Provisional President. The Kobozev government sent troops south in late March, beginning the [[First Iradi Civil War]]. Many of the riders of February fought in the siege of Talas from April under Mamytov and [[Bektur Zhumabek uulu]].<sup>[2]</sup><sup>[5]</sup>
@@ -8823,7 +8823,7 @@ Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians
 | units2 = El-Choro dam guard
 | casualties1 = 4 killed (conscripts)
 | casualties2 = 2 killed
-| casualties3 = No civilian deaths; Rolling blackouts in Talas and Nurzhan; Basin villages cut off for most of the winter
+| casualties3 = No civilian deaths in the shooting; Rolling blackouts in Talas and Nurzhan; Basin villages cut off for most of the winter
 }}
 
 The **Toktogul crisis** of 2008–09, known in Irad as the **Winter of the Dam** and in Iradi as *Kara Kysh* ("the black winter"), was a standoff between the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR) over the [[Toktogul Hydroelectric Complex]], which the [[Qara-Chik Demarcation Line]] then divided. With the reservoir at a record low, the [[El-Choro Militias]] guarding the dam cut winter generation to hold water for the spring, and the ISEZ, which held the switchyard and the dispatch center, put [[Talas]] and [[Nurzhan]] on rolling blackouts from December 2008. In January 2009 a battalion of the ISEZ's State Defense Corps moved up State Route 1 to Kara-Köl, below the dam, and on 19 January six men were killed in an exchange of fire on the dam road.<sup>[1]</sup><sup>[2]</sup>
@@ -8855,7 +8855,7 @@ The August 2009 session of the [[Kurultai (Iradi Freedom Society)|Kurultai]] app
 In the ISEZ the four dead soldiers are commemorated as the "Kara-Köl conscripts", and official histories present the advance as the step that secured the cities' power supply. In the tribal regions the crisis is remembered as "the winter the clans were made to sell the dam", and it is cited, with the [[Bill of Sale (2007)|Bill of Sale]], as a reason to distrust any agreement offered by Talas.<sup>[9]</sup><sup>[10]</sup> Analysts regard it as the episode that turned the divided complex into the shared arrangement that has held since, in which the ISEZ runs the dam and the clans hold the catchments and a veto over drawdown.<sup>[3]</sup>
 
 ## People
-- [[Ayimkan Tokon kyzy]], pensioner who died in an unheated flat in Talas
+- [[Ayimkan Tokon kyzy]], pensioner who died in an unheated apartment in Talas
 - [[Erlan Ryskeldi uulu]], killed in the dam-road shooting (19 January 2009)
 - [[Toktogul Tashtan uulu]], Naiman negotiator of the 2009 protocol
 
@@ -9188,7 +9188,7 @@ The Russian-language press, the [[Labor Party of Irad]] until its dissolution in
 | area_served = [[Irad Special Economic Zone]]; through traffic with [[wp:Kazakhstan Temir Zholy]]
 | key_people = [[Pavel Yugai]] (Director-General); Erkinbek Nuraliev (spokesman)
 | services = Rail freight; the Talas–Nurzhan passenger train and suburban trains around Nurzhan
-| employees = 5200
+| employees = 5,200
 | owner = [[Irad Special Economic Zone]] (Ministry of Transport)
 | website = [railways.iradgov.org](https://railways.iradgov.org/)
 }}
@@ -9226,7 +9226,7 @@ Its workers belong to the railway union, which stayed outside the official Feder
 The railway workers' football club, founded in the Soviet period as Lokomotiv Kobozev and renamed **Temirjolchu Nurzhan** in 1993, plays in the [[Irad League]] at the Lokomotiv Stadium in Nurzhan and has won the championship three times.<sup>[11]</sup>
 
 ## Branding
-The enterprise's logo, adopted in 2008, sets TEMIR JOLU in tall condensed capitals with the J drawn as a length of track, green rails on charcoal sleepers curving into its hook, and IRAD and «Ирадская железная дорога» beneath, in charcoal and railway green. The track-J is used alone on station signs, locomotives and wagons.<sup>[1]</sup>
+The enterprise's logo, adopted in 2008, sets TEMIR JOLU in tall condensed capitals with the J drawn as a length of track, green rails on charcoal ties curving into its hook, and IRAD and «Ирадская железная дорога» beneath, in charcoal and railway green. The track-J is used alone on station signs, locomotives and wagons.<sup>[1]</sup>
 
 ## See also
 - [[Rail transport in Irad]]
@@ -9445,7 +9445,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 ***Journey of the Steppes*** (Iradi: *Talaa Jolu*; Russian: *Путь степей*) is a 1988 Soviet Eastern, the Iradi variety of the Western, directed by [[Kairat Amankulov]] for [[Talasfilm Studios]], his second feature after *[[Track of the Snow Leopard]]* (1983). A horse trainer taking three horses across the steppe is caught in a sandstorm, loses his way and must keep the animals alive while a band of horse thieves follows him. Usually counted as the end of the Eastern cycle that began with *[[Desert Sun’s Rebellion]]* (1979), it is known for its long riding sequences, filmed with trained horses rather than doubles.<sup>[1]</sup>
 
 ## Plot
-Nurbek (Ishak Kadyrkulov), a horse trainer, is taking three horses home across the steppe: a grey (*Boz*), a bay mare and a chestnut colt. A sandstorm drives him off the road, and when it clears he has lost his way. A band of horse thieves led by a bandit chief (Erkin Sultanbekov) picks up his tracks. The film follows Nurbek as he finds water, nurses the colt and keeps ahead of the thieves, until he brings the horses home at a railway crossing.<sup>[1]</sup>
+Nurbek (Ishak Kadyrkulov), a horse trainer, is taking three horses home across the steppe: a gray (*Boz*), a bay mare and a chestnut colt. A sandstorm drives him off the road, and when it clears he has lost his way. A band of horse thieves led by a bandit chief (Erkin Sultanbekov) picks up his tracks. The film follows Nurbek as he finds water, nurses the colt and keeps ahead of the thieves, until he brings the horses home at a railway crossing.<sup>[1]</sup>
 
 ## Cast
 - Ishak Kadyrkulov as Nurbek
@@ -9453,7 +9453,7 @@ Nurbek (Ishak Kadyrkulov), a horse trainer, is taking three horses home across t
 - [[Tuman (Horse)|Tuman]] as *Boz*
 
 ## Production
-Kairat Amankulov (born 1950) was from Kobozev and had made his debut with *Track of the Snow Leopard*. He was photographed again by [[Kadyrbek Asylbekov]], and the score was the last that Asan Jumabaev wrote for an Eastern. Ishak Kadyrkulov, one of the herder brothers of *Desert Sun's Rebellion*, was by then a rider at a stud farm and played the trainer; it was Erkin Sultanbekov's last warlord. The grey was played by the studio stallion [[Tuman (Horse)|Tuman]], and the bay mare and the chestnut colt came from the studio herd. The sandstorm was made with an aircraft engine mounted on a truck.<sup>[2]</sup>
+Kairat Amankulov (born 1950) was from Kobozev and had made his debut with *Track of the Snow Leopard*. He was photographed again by [[Kadyrbek Asylbekov]], and the score was the last that Asan Jumabaev wrote for an Eastern. Ishak Kadyrkulov, one of the herder brothers of *Desert Sun's Rebellion*, was by then a rider at a stud farm and played the trainer; it was Erkin Sultanbekov's last warlord. The gray was played by the studio stallion [[Tuman (Horse)|Tuman]], and the bay mare and the chestnut colt came from the studio herd. The sandstorm was made with an aircraft engine mounted on a truck.<sup>[2]</sup>
 
 ## Release
 *Journey of the Steppes* premiered on 19 September 1988. As Soviet film distribution broke down, it drew only about 4.1 million viewers. It was shown in the Panorama section of the 1989 Moscow International Film Festival.<sup>[3]</sup>
@@ -9462,7 +9462,7 @@ Kairat Amankulov (born 1950) was from Kobozev and had made his debut with *Track
 The script set the story in 1932: Nurbek is taking his horses home to hide them before the collective farm takes them. The republican committee, still cautious in 1987, made Amankulov move the story back to 1922, and the thieves became "bandits". An opening title gives the year as 1922, but the story makes sense only in 1932, and a 1930s GAZ truck can be seen at the railway crossing.<sup>[2]</sup><sup>[4]</sup>
 
 ## Legacy
-The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] scanned the film in 2018 for its horse programme. Writers on Iradi cinema cite it, with *[[Rise of Glory]]*, for the place it gives the horse (see [[Cinema of Irad]]).<sup>[4]</sup>
+The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] scanned the film in 2018 for its horse program. Writers on Iradi cinema cite it, with *[[Rise of Glory]]*, for the place it gives the horse (see [[Cinema of Irad]]).<sup>[4]</sup>
 
 ## References
 <ol class="references">
@@ -9495,19 +9495,19 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] scanned the 
 ## Content
 The film is made of long, observed scenes without commentary, in the order of the seasons from one spring to the next. It cuts between the cities and the herding country without titles or maps, and no one in it is named; the end credits list the 31 places where it was filmed but none of the people. There is no music except a lullaby sung in a winter camp. Asylbekov's camera rarely moves, and many shots run for several minutes; writers on the film have counted 212 shots in its 96 minutes.<sup>[1]</sup>
 
-### Spring
+#### Spring
 The film opens before dawn in a collective-farm stable in the Talas valley, where a mare foals by lamplight; the first daylight shot is the foal standing. It then moves to [[Talas]]: traders setting out greens and radishes at the old bazaar, the first trolleybus of the morning, and a courtyard in the old town where three generations of one family share a bread oven, a water tap and a television set carried out into the yard. In the longest scene of the spring a boy is sent from the courtyard to the bakery and back, filmed in a single take of six minutes. The spring ends at night outside a Syro-Iradi church in the old town during the Easter vigil, filmed from across the street: candles pass through the door and the bells ring, but neither a priest nor an icon is seen.<sup>[1]</sup><sup>[2]</sup>
 
-### Summer
+#### Summer
 The summer is given to the *köch*, the move to the high pastures. A herding family takes down its winter house, loads felts, chests and a sewing machine on horses and a lorry, and climbs over two days into the [[Talas Alatau]]. At the summer camp a woman ladles *kymyz* from a churn while a boy watches, a girl breaks a two-year-old colt on a long rein, and the men sit out a hailstorm in the yurt. The section ends at a wedding in a hill village, with a bride arriving on a white horse, a *kyz kuu* chase and an *alaman-bayge* race filmed from the finishing post, so that the riders are seen only as dust until the last seconds.<sup>[1]</sup>
 
-### Autumn
+#### Autumn
 Autumn is mostly in Kobozev. Sadikov filmed a night shift at the Kobozev Heavy Machine Plant, where pumpjack frames are welded, and the change of shifts at the Kobozev Oil Refinery, with buses, bicycles and a woman selling hot *samsa* at the gate. Between them come the four-minute queue outside a meat shop, which the committee cut (see below), a class of Pioneers being taught to cross the road, and the walnut harvest in the orchards of the Lower Town of Talas, where children knock the nuts down with poles. A night train from Kobozev to Talas closes the section: the passengers sleep, play cards and share bread, and the camera stays in one compartment until morning.<sup>[1]</sup><sup>[3]</sup>
 
-### Winter
+#### Winter
 The last part is filmed at a winter camp in the Chatkal highlands, in what is now the [[Autonomous Tribal Regions]]. The family of the summer section is not seen again; another family keeps its sheep through the snow, cuts ice from a stream for water and digs out a ewe caught in a drift. In the film's best-known scene an old woman rocks a child in a wooden cradle and sings a lullaby, the only music in the film, filmed in one take in the dark of the house with only the stove for light. The film ends the next spring in the Talas valley stable, where the foal of the opening scene, now a yearling, is led out to the herd.<sup>[1]</sup><sup>[4]</sup>
 
-### Reading
+#### Reading
 Critics at the time called the film shapeless, and the committee asked for a narrator. Writers since the restoration read its order as Sadikov's answer to his Westerns: where *[[Desert Sun’s Rebellion]]* (1979) is built on a theft and a chase, *Visions of Irad* follows work that is done every year and does not end. The film shows no one who was not working or at home, no portrait or slogan except those in the background of the factory scenes, and no event that could be dated, which has been read both as a quiet refusal of the official chronicle and as the reason the studio gave it so few prints.<sup>[1]</sup><sup>[4]</sup>
 
 ## Production
@@ -10750,7 +10750,7 @@ This is a list of **conspiracy theories in [[Irad]]**, most of them about the Un
 | The earthquake weapon | That the [[1992 Suusamyr earthquake]] of 19 August 1992, the day after the territory was organized, was caused by an American seismic weapon tested at a US "testing" site | The undisclosed functions of the US installations in Irad | The site in question did not exist in 1992. In the ATR the story survives mainly as a saying, "the mountains refused the treaty"<sup>[2]</sup> |
 | Washington's secret army | That the [[Range Warden Service]] was a CIA stay-behind force, which is why the herders kept their rifles in 1993 and the wardens rode with the [[Popular Front of Irad]] in 2007 | US Army Special Forces ran mountain-patrol and first-aid courses for warden instructors from 1996 to 2001, recorded in the Territorial Gazette, and photographs show Green Berets with herders | Historians regard the courses as ordinary training assistance; no evidence of a covert force has been published<sup>[6]</sup> |
 | The rigged lottery | That the 10,000 entry numbers a year for settlement in the United States were fixed for Christians, Russian speakers or families of the [[Democratic Party of Irad]], to drain the cities or keep tribal Iradis out | The concentration of entry numbers among urban families | The lottery was clean. The real skew came from employer sponsorship of nurses and engineers, which sent most numbers to English speakers from Talas and [[Iyık Janyl]], as the Iradi American Association's court filings documented (see [[Iradi Americans]])<sup>[7]</sup> |
-| Sterile beef | That hormone-fed beef from the [[Sukarne Irad Complex|Sukarne]] and Conagra plants, US aid flour and Coca-Cola were making Iradis infertile so as to empty the land for agribusiness | Russian-language press, some clergy, later anti-Mexican talk (see [[Mexicans in Irad]]) | No basis<sup>[2]</sup> |
+| Sterile beef | That hormone-fed beef from the [[Sukarne Irad Complex|SuKarne]] and Conagra plants, US aid flour and Coca-Cola were making Iradis infertile so as to empty the land for agribusiness | Russian-language press, some clergy, later anti-Mexican talk (see [[Mexicans in Irad]]) | No basis<sup>[2]</sup> |
 | The missionaries are spies | That American evangelical missions and charities were a cover for the CIA, mapping the clans and drawing Syro-Iradi Catholics away from Rome | Syro-Iradi clergy, the Russian-language press | No evidence (see [[Evangelical Christianity in Irad]])<sup>[2]</sup> |
 | Alimbekov was killed | That [[Amanbek Alimbekov]] did not die of his long illness on 14 November 2004 but was poisoned, either before he could publish what he knew of the CIA or before he could call for an end to the treaty | Feeds the older "silver platter" theory (below) | No evidence<sup>[2]</sup> |
 | Washington knew about the Bill of Sale | That the United States withdrew in December 2006 knowing that Prime Minister [[Bakyt Orozbekov]] would sell Irad to the neighbors, in a deal with Russia, the neighbors or oil companies | Widespread in the ATR and online | The "border consultations" that produced the drafts began only after the withdrawal (see [[Bill of Sale (2007)]] and [[United States Withdrawal from the Alimbekov-Baker Treaty (2006)]])<sup>[8]</sup> |
@@ -10786,7 +10786,7 @@ This is a list of **conspiracy theories in [[Irad]]**, most of them about the Un
 
 This is a list of **notable horses of [[Irad]]**: horses remembered in Iradi history, legend, art, sport and the media. Horses hold a central place in Iradi culture (see [[Iradi Equestrian Culture & Breeds]]), and many are known from tradition rather than from records. The list therefore marks each entry as *legend* (known only from tradition), *documented* (known from records) or *both* (a recorded horse about whom a popular story is also told, which the entry keeps apart from the record).<sup>[1]</sup>
 
-Iradi horse names are usually built from words for the coat and character: *ak* (white), *boz* (grey), *kara* (black), *toru* (bay), *sur* (mouse-dun), *ala* (piebald), *kök* (blue-grey), *sary* (pale gold), *kashka* (blaze), *jal* (mane), *tuyak* (hoof) and *bee* (mare).<sup>[1]</sup> For the horses of the epics shared with the Kyrgyz, such as Manas's [[Ak-Kula (Legendary Horse)|Ak-Kula]], see the articles on the epics.
+Iradi horse names are usually built from words for the coat and character: *ak* (white), *boz* (gray), *kara* (black), *toru* (bay), *sur* (mouse-dun), *ala* (piebald), *kök* (blue-grey), *sary* (pale gold), *kashka* (blaze), *jal* (mane), *tuyak* (hoof) and *bee* (mare).<sup>[1]</sup> For the horses of the epics shared with the Kyrgyz, such as Manas's [[Ak-Kula (Legendary Horse)|Ak-Kula]], see the articles on the epics.
 
 ## List
 | Name | Meaning | Period | Breed and coat | Owner or rider | Remembered for | Status |
@@ -10832,7 +10832,7 @@ Iradi horse names are usually built from words for the coat and character: *ak* 
 ### 7.19. List of people of Irad
 *Quality Assessment: List-Class Article | Category: Biographies*
 
-This is a **list of people of [[Irad]]** who have articles on this wiki and who are not covered by the lists of officeholders, grouped by where they live or are best known. It covers people of every community, in the [[Irad Special Economic Zone]] (ISEZ), the [[Autonomous Tribal Regions]] (ATR) and abroad, and foreigners who live in Irad. Registered surnames are given in the articles. For the governors, see [[List of governors of Irad]]; for the government, see [[Government of the Irad Special Economic Zone]].
+This is a **list of people of [[Irad]]** who have articles on this wiki and who are not covered by the lists of officeholders, grouped by where they live or are best known. It covers people of every community, in the [[Irad Special Economic Zone]] (ISEZ), the [[Autonomous Tribal Regions]] (ATR) and abroad, and foreigners who live in Irad.<sup>[1]</sup> Registered surnames are given in the articles. For the governors, see [[List of governors of Irad]]; for the government, see [[Government of the Irad Special Economic Zone]].
 
 ## Autonomous Tribal Regions
 - [[Aidana Tashbolot kyzy]] (born 1995), interpreter
@@ -10922,7 +10922,7 @@ This is a **list of people of [[Irad]]** who have articles on this wiki and who 
 - [[Nurtilek Duishen]] (born 1999), footballer
 - [[Rebecca Dastan kyzy]] (born 2000), sprinter
 - [[Salkyn Ashym kyzy]] (born 1971), nurse
-- [[Saparbek Orozaly]] (born 1979), theatre director
+- [[Saparbek Orozaly]] (born 1979), theater director
 - [[Sartbai Tokon uulu]] (born 1963), cardiac surgeon
 - [[Satybaldy Kalkaman uulu]] (born 1961), footballer, coach
 - [[Sofia Sagyn kyzy]] (born 1999), footballer
@@ -10969,7 +10969,7 @@ This is a **list of people of [[Irad]]** who have articles on this wiki and who 
 - [[Tatyana Son]] (born 1983), businesswoman
 - [[Temir Kalybek uulu]] (born 1980), boxer
 - [[Valentina Pavlova]] (born 1994), singer
-- [[Veronika Polishchuk]] (born 1969), theatre director
+- [[Veronika Polishchuk]] (born 1969), theater director
 - [[Viktor Schmidt]] (born 1950), lay preacher
 - [[Wang Jun]] (born 1978), trader
 - [[Yegor Gromov]] (born 1975), footballer, pundit
@@ -11024,7 +11024,7 @@ This is a **list of people of [[Irad]]** who have articles on this wiki and who 
 - [[Venera Kubanychbek kyzy]] (born 1992), editor
 
 ## Foreigners in Irad
-- [[Brian Kessler]] (born 1974), air Force officer
+- [[Brian Kessler]] (born 1974), Air Force officer
 - [[Karen Whitlock]] (born 1968), diplomat
 - [[Mark Delaney]] (born 1965), school director
 - [[Park Ji-hoon]] (born 1979), trade official
