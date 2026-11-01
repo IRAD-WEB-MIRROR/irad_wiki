@@ -5187,11 +5187,18 @@
   "thumb": "320px-Visions_of_Irad_(1984)_poster.jpg"
  },
  "Visions_of_Irad_high_pasture_still.jpg": {
-  "width": 1152,
-  "height": 864,
-  "bytes": 169612,
+  "width": 1200,
+  "height": 896,
+  "bytes": 817355,
   "mime": "image/jpeg",
   "thumb": "320px-Visions_of_Irad_high_pasture_still.jpg"
+ },
+ "Visions_of_Irad_winter_camp_still.jpg": {
+  "width": 1200,
+  "height": 896,
+  "bytes": 788701,
+  "mime": "image/jpeg",
+  "thumb": "320px-Visions_of_Irad_winter_camp_still.jpg"
  },
  "Visual_arts_studio.jpg": {
   "width": 1024,
