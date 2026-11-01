@@ -9438,7 +9438,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 | studio = [[Talasfilm Studios]]
 | released = 1988-09-19
 | runtime = 101 minutes
-| country = Soviet Union
+| country = Soviet Union| language = Iradi (dubbed into Russian)
 }}
 
 ***Journey of the Steppes*** (Iradi: *Talaa Jolu*; Russian: *Путь степей*) is a 1988 Soviet Eastern, the Iradi variety of the Western, directed by [[Kairat Amankulov]] for [[Talasfilm Studios]], his second feature after *[[Track of the Snow Leopard]]* (1983). A horse trainer taking three horses across the steppe is caught in a sandstorm, loses his way and must keep the animals alive while a band of horse thieves follows him. Usually counted as the end of the Eastern cycle that began with *[[Desert Sun’s Rebellion]]* (1979), it is known for its long riding sequences, filmed with trained horses rather than doubles.<sup>[1]</sup>
