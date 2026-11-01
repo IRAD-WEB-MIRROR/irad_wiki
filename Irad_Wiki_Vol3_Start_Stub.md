@@ -1110,7 +1110,7 @@ Most of the steppe clans stayed out of the civil war of 1992, but the clans whos
 At the end of July the socialist forces counterattacked with armor on the railway approaches to Kobozev. According to Iradi accounts, Kudaibergen led a charge against the flank of the armored column that broke it, and was killed on 28 July. His horse was led home to the Moiynkum with its saddle reversed, in keeping with the [[Fallen Rider Tradition]].<sup>[1]</sup>
 
 ## Legacy
-Popular legend credits Kudaibergen with the victory at the railhead, and he is one of the few figures of the war honored on both sides of the [[Qara-Chik Demarcation Line]]. Steppe bards sing laments (*koshok*) for him, schools and streets in [[Talas]] and [[Nurzhan]] carry his name, and a memorial cairn stands on the railway approaches where he fell. Each 28 July his brother Sabyrbek speaks at the cairn.<sup>[3]</sup>
+Popular legend credits Kudaibergen with the victory at the railhead, and he is one of the few figures of the war honored on both sides of the [[Qara-Chik Demarcation Line]]. Steppe bards sing laments (*koshok*) for him, schools and streets in [[Talas]] and [[Nurzhan]] carry his name, and a memorial cairn stands on the railway approaches where he fell; the cairn and the battlefield are a monument of national importance (State Register No. 01/036).<sup>[5]</sup> Each 28 July his brother Sabyrbek speaks at the cairn.<sup>[3]</sup>
 
 Military historians give a different account. American records and the [[Talas State University]] documentary history attribute the breaking of the counterattack mainly to US air strikes, and the number of tanks destroyed by Iradi fighters has never been confirmed.<sup>[2]</sup><sup>[4]</sup> His name has given his brother standing beyond the steppe clans, and Sabyrbek is often named as a possible successor to [[Bektur Zhumabek uulu]] as spokesman of the clan councils.<sup>[3]</sup>
 
@@ -1129,6 +1129,7 @@ Military historians give a different account. American records and the [[Talas S
 <li id="cite_note-2"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press, Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (29 July 2022). '<a class="ext" href="https://talasherald.com/archive/2022/thirty-years-on-the-steppe-remembers-kudaibergen.html" target="_blank" rel="noopener">Thirty years on, the steppe remembers Kudaibergen.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
+<li id="cite_note-5"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 {{Navbox|First Iradi Civil War}}
@@ -2326,7 +2327,7 @@ In the 1990s the choir recorded chants learned from elderly singers of the cland
 The **Irad Palace of Art** (Iradi: *Irad Körköm Saraiy*) is an art gallery and art preservation foundation headquartered in [[Iyık Janyl]]. Its own publications describe it as the country's leading gallery.<sup>[1]</sup>
 
 ## History and collections
-The foundation was established in 1996, during the territorial period, and occupies a former Soviet district house of culture on Cathedral Street, opposite the cathedral park. Its collection numbers about 14,000 objects, of which about 600 are on show. It includes:
+The foundation was established in 1996, during the territorial period, and occupies a former Soviet district house of culture on Cathedral Street, opposite the cathedral park, which has been a monument of local importance since 2009 (State Register No. 09/055).<sup>[3]</sup> Its collection numbers about 14,000 objects, of which about 600 are on show. It includes:
 - Sogdian terracottas and [[wp:Silk Road]] ceramics;
 - icons, church silver and manuscript bindings that families hid during the Soviet period and later gave to the foundation;
 - saddlery, felt and embroidery of the 19th and 20th centuries;
@@ -2351,6 +2352,7 @@ Its conservation workshop restores icons, textiles and ethnographic objects for 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Irad Palace of Art (2021). <i>Collections and Conservation: Twenty-Five Years</i>. Iyık Janyl.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 78–95.</li>
+<li id="cite_note-3"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 ## External links
@@ -4800,13 +4802,14 @@ The logo is the word IradLoto in a heavy sans-serif in purple, with the two o's 
 | type = Civil (closed)
 | operator = Aeroflot (Iradi directorate)
 | serves = Kobozev (now Nurzhan)
-| location = Chu plain, about 12 km north-west of central Nurzhan
-| elevation_m = 470
+| location = Chu plain, about 13 km north-west of central Nurzhan
+| coordinates = 43.69°N 73.66°E
+| elevation_m = 454
 | opened = 1962
 | runways = 1 (about 3.2 km, concrete, 1974)
 }}
 
-**Kobozev Airport** (Russian: *aeroport Kobozev*; in Nurzhan still "the old aeroport", *staryy aeroport*) was the busiest civil airport of the [[Iradi Soviet Socialist Republic]]. It opened in 1962 in place of a grass field of the 1930s, on the Chu plain about 12 kilometers north-west of the center of Kobozev (now [[Nurzhan]]), away from the refinery and the freight depot. A concrete runway of about 3.2 kilometers was laid in 1974 for the [[wp:Tupolev Tu-154|Tu-154]], and the modernist terminal of 1968 carried the name KOBOZEV in red letters on its roof. The Iradi directorate of [[wp:Aeroflot]] flew from it to Moscow, Tashkent, Frunze, Alma-Ata and Novosibirsk, and it handled about 800,000 passengers in 1989.<sup>[1]</sup>
+**Kobozev Airport** (Russian: *aeroport Kobozev*; in Nurzhan still "the old aeroport", *staryy aeroport*) was the busiest civil airport of the [[Iradi Soviet Socialist Republic]]. It opened in 1962 in place of a grass field of the 1930s, on the Chu plain about 13 kilometers north-west of the center of Kobozev (now [[Nurzhan]]), away from the refinery and the freight depot. A concrete runway of about 3.2 kilometers was laid in 1974 for the [[wp:Tupolev Tu-154|Tu-154]], and the modernist terminal of 1968 carried the name KOBOZEV in red letters on its roof. The Iradi directorate of [[wp:Aeroflot]] flew from it to Moscow, Tashkent, Frunze, Alma-Ata and Novosibirsk, and it handled about 800,000 passengers in 1989.<sup>[1]</sup>
 
 The airport closed in the spring of 1992, during the [[First Iradi Civil War]], when the forces of the [[Socialist Republic of Irad]] took it over for the siege of Talas and its jet fuel ran out. Retreating SRI troops cratered the runway before Kobozev fell in August 1992. US forces used the site only as a helicopter landing zone until December 1992 and then concentrated at Talas, and the expansion of 1993–1996 made [[Talas Air Base]] the territory's one airfield. The runway was never repaired.<sup>[1]</sup><sup>[2]</sup> The old apron is now the Aeroport car market (*Aeroport avtobazary*), where imported used cars are sold; the Aeroport district and its minibus terminus keep the name, and the 1968 terminal stands gutted. In 2013–2016 [[Nurzhan International Airport]] was built on the site, with a new runway on the 1974 alignment; it has never had a passenger flight.<sup>[2]</sup>
 
@@ -4826,13 +4829,14 @@ The airport closed in the spring of 1992, during the [[First Iradi Civil War]], 
 | type = Civil (no scheduled service); heliport
 | operator = City of Nurzhan and NurGaz
 | serves = Nurzhan
-| location = Chu plain, about 12 km north-west of central Nurzhan
-| elevation_m = 470
+| location = Chu plain, about 13 km north-west of central Nurzhan
+| coordinates = 43.69°N 73.66°E
+| elevation_m = 454
 | opened = September 2016
-| runways = 1 (about 3.0 km)
+| runways = 1 (10/28, about 3.0 km)
 }}
 
-**Nurzhan International Airport** (Russian: *Международный аэропорт Нуржан*) is an airport on the site of the Soviet [[Kobozev Airport]], north-west of [[Nurzhan]], which has never had a scheduled or passenger flight. It was built in 2013–2016 with money from [[NurGaz]] and the city, at a cost of about $140 million, with a new runway of about 3.0 kilometers on the 1974 alignment and a glass terminal for about one million passengers a year, and was opened with a ribbon-cutting in September 2016.<sup>[1]</sup>
+**Nurzhan International Airport** (Russian: *Международный аэропорт Нуржан*) is an airport on the site of the Soviet [[Kobozev Airport]], on the Chu plain about 13 kilometers north-west of [[Nurzhan]], which has never had a scheduled or passenger flight. It was built in 2013–2016 with money from [[NurGaz]] and the city, at a cost of about $140 million, with a new runway (10/28) of about 3.0 kilometers on the 1974 alignment and a glass terminal for about one million passengers a year, and was opened with a ribbon-cutting in September 2016.<sup>[1]</sup>
 
 The airport has stayed closed to passengers for three reasons. Irad is not a member of the [[wp:International Civil Aviation Organization]], so it has no code and no recognized procedures; the only civil air traffic control in the [[Irad Special Economic Zone]] is run from [[Talas Air Base]] under the 2016 Joint Use Arrangement, which does not cover Nurzhan; and Kazakhstan and Kyrgyzstan, which tolerate flights out of Talas, have refused routes to a second ISEZ airport.<sup>[1]</sup> The only aircraft that use it are those of the NurGaz heliport on the east apron, whose [[wp:Mil Mi-8|Mi-8]] helicopters serve the Chu oil fields and the pipeline and fly medical evacuations within the ISEZ.<sup>[2]</sup>
 
@@ -4938,6 +4942,8 @@ Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgan
 ## History
 The town grew up around a fortified caravan market of the [[wp:Khanate of Kokand]] on the road along the edge of the valley, from which its name comes. It came under Russian rule after the annexation of Kokand in 1876. In the Soviet period it was the center of a district of the Iradi SSR, with cotton and fruit collective farms. It is the lowland center of the Chubar clan. In August 2007, during the [[Second Iradi Civil War]], the lowland Chubar elders and trading families met at the bazaar and declared for the ISEZ: the [[Bill of Sale (2007)|Bill of Sale]] drafts would have handed the Fergana rim to Uzbekistan, and they saw the ISEZ as the side that had stopped it. Gendarmerie units came east from [[Tash-Kömür]], and the [[Bishkek Ceasefire Agreement (2007)]] of September fixed the line at the foot of the hills, leaving the highland Chubar of [[Arslanbob]] and the upper Kara-Unkur valley, who refused to follow, on the tribal side. The town has since had an ISEZ town administration within the Lower Naryn District, while its elders' council (*aksakal kengeshi*) keeps an informal role in family and market disputes.<sup>[2]</sup> The division of the clan remains a source of tension: lowland elders still attend the [[Kurultai (Iradi Freedom Society)|Kurultai]] with the Chubar delegation without the right to lay the whip, and families on both sides cross the line for weddings and funerals at the Arslanbob road and [[Mailuu-Suu]] road crossings (see [[Clans of the Autonomous Tribal Regions]]). In October 2026 the Lower Naryn District administration, which covers the town, joined the Urban Resilience Coalition of Central Asia, a network of cities in the neighboring states, as a non-voting associate, together with [[Iyık Janyl]], for work on flood, mudflow and winter preparedness.<sup>[3]</sup>
 
+The 19th-century chapel of St. Gewargis outside the town is a monument of local importance (State Register No. 98/019).<sup>[5]</sup>
+
 ## Economy
 Bazar-Korgon is the main trading town for the surrounding irrigated farmland, which grows cotton, maize, tobacco and fruit, and for the walnut forests of [[Arslanbob]], about 50 kilometers by road up the Kara-Unkur valley past Kyzyl-Unkur, across the line. Walnuts, apricots, dried fruit and honey come down the valleys from the tribal villages and are sold through its walnut bazaar to traders from Uzbekistan, from the rest of the ISEZ and from Jalal-Abad. Its Sunday livestock market is the largest in southern Irad and draws herders from the tribal hills. Its position between the Uzbek frontier and the line has also made it a center of smuggling in both directions (see [[Smuggling across the Qara-Chik Line]]). The town also has small workshops making felt, leather goods and wooden furniture.<sup>[4]</sup>
 
@@ -4958,6 +4964,7 @@ A large share of the population is Uzbek-speaking, and the town is one of the ma
 <li id="cite_note-2"><b>^</b> Talas State University Press (2018). <i>Towns of the Fergana Rim: History and Society</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> IradOne (25 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-25-iyk-janyl-and-bazar-korgon-take-seats-at-regional-urban-resilience-tab.html" target="_blank" rel="noopener">Iyık Janyl and Bazar-Korgon Take Seats at Regional Urban Resilience Table.</a>' Talas. Retrieved 28 October 2026.</li>
 <li id="cite_note-4"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Fergana Rim Zone</i>. Kara-Oi.</li>
+<li id="cite_note-5"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 {{Navbox|Settlements of Irad}}
@@ -5090,13 +5097,14 @@ The name Chatkal is also used for the antimony smelter and associated plants in 
 Mining galleries and slag heaps in the hills around the town have been dated to the 8th to 10th centuries, and the workings may be older. Silver from Shelji and other mines of the upper valley was used for coinage in the region; coins struck from it are common finds in the [[Old Talas Citadel Quarter]].<sup>[2]</sup> The town reached its greatest size under the Samanids and [[wp:Kara-Khanid Khanate|Kara-Khanids]] and declined in the 11th and 12th centuries, when the richest veins were exhausted. It was abandoned by the time of the Mongol conquest.<sup>[1]</sup>
 
 ## Site
-The site consists of a citadel mound and a walled town of about 20 hectares on a terrace above the river, with workshop quarters where ore was crushed and smelted. Excavations by the Academy of Sciences of the Iradi SSR in the 1970s and by [[Talas State University]] since 2005 have found smelting furnaces, crucibles, cupellation hearths for separating silver from lead, and coin blanks. Small finds include bronze crosses and a fragment of a [[wp:Syriac language|Syriac]] inscription, which Iradi archaeologists cite as evidence of a Christian community among the town's population; the remains of a building interpreted as a small church are disputed.<sup>[2]</sup> The site is protected as a monument of the ISEZ, but parts of it have been damaged by illegal digging for coins.<sup>[3]</sup>
+The site consists of a citadel mound and a walled town of about 20 hectares on a terrace above the river, with workshop quarters where ore was crushed and smelted. Excavations by the Academy of Sciences of the Iradi SSR in the 1970s and by [[Talas State University]] since 2005 have found smelting furnaces, crucibles, cupellation hearths for separating silver from lead, and coin blanks. Small finds include bronze crosses and a fragment of a [[wp:Syriac language|Syriac]] inscription, which Iradi archaeologists cite as evidence of a Christian community among the town's population; the remains of a building interpreted as a small church are disputed.<sup>[2]</sup> The site is protected as a monument of the ISEZ, but parts of it have been damaged by illegal digging for coins.<sup>[3]</sup> The site is a monument of national importance (State Register No. 01/033).<sup>[4]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Barthold, Vasily (1968). <i>Turkestan Down to the Mongol Invasion</i> (3rd ed.). Luzac & Co., London, pp. 182–199.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/metal-detectors-at-shelji.html" target="_blank" rel="noopener">Metal detectors at Shelji.</a>' Talas. Retrieved 18 June 2025.</li>
+<li id="cite_note-4"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 [[Category:History of Irad before 1925]]
@@ -5469,7 +5477,7 @@ Villagers gather the fruit in late summer and dry it or make preserves, and some
 *Quality: Start-Class | Category: Cities & Settlements*
 
 {{More citations needed|date=July 2026}}
-**Aulie-Ata** (Russian: *Аулие-Ата*) is a town in the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ), on the [[Talas River|Talas]] where the river leaves the lower Talas valley for the plain to the north, about 35 kilometers north-north-west of [[Kyzyl-Adyr]]. Its population was about 14,000 (2018 census).<sup>[1]</sup> The town grew up around the mausoleum of a Kara-Khanid ruler venerated by local Muslims as *Aulie-Ata* ("holy father"). Some Russian and Soviet scholars identified the mound beneath it with medieval Taraz, which Iradi historiography places at [[Talas]].<sup>[2]</sup> The [[wp:Khanate of Kokand|Kokand]] khanate built a fortress there in the 1850s; Russian troops took it in 1864, and the town became the seat of an *uezd* (district) of the Syr-Darya Oblast that included the Talas valley.
+**Aulie-Ata** (Russian: *Аулие-Ата*) is a town in the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ), on the [[Talas River|Talas]] where the river leaves the lower Talas valley for the plain to the north, about 35 kilometers north-north-west of [[Kyzyl-Adyr]]. Its population was about 14,000 (2018 census).<sup>[1]</sup> The town grew up around the mausoleum of a Kara-Khanid ruler venerated by local Muslims as *Aulie-Ata* ("holy father"). Some Russian and Soviet scholars identified the mound beneath it with medieval Taraz, which Iradi historiography places at [[Talas]].<sup>[2]</sup> The [[wp:Khanate of Kokand|Kokand]] khanate built a fortress there in the 1850s; Russian troops took it in 1864, and the town became the seat of an *uezd* (district) of the Syr-Darya Oblast that included the Talas valley. The mausoleum and the fortress mound are entered together in the State Register as a monument of national importance (No. 97/012); the entry takes no side on the identification with Taraz.<sup>[5]</sup>
 
 Aulie-Ata kept its name through the Soviet period, when it grew into the main industrial town of the lower Talas, with a superphosphate works supplied with phosphorite from the [[wp:Karatau Mountains|Karatau]], a sugar refinery and districts of five-story housing; it had about 130,000 inhabitants in 1989. In August 1992 retreating SRI troops passed through the town to the Karatau (see [[Karatau pocket]]), and that autumn people's committees detained and killed SRI officials and alleged informers there (see [[Autumn of the lists|autumn of the lists]]). Its plants closed in the 1990s and most of its Russian and Ukrainian residents emigrated. During the [[Second Iradi Civil War]] in 2007 there was fighting for the railway junction south-east of the town in July, and most of the remaining population left. Some of its men, among them the company commander [[Imanaly Tashtan uulu]], fought on as irreconcilables after the ceasefire (see [[Kara-Koyun chase]]). Veterans of the [[Popular Front of Irad]] and elders in the tribal regions say that American contractors of Blackwater USA led the DPI columns at the junction and called in the helicopter strikes; the company and the ISEZ administration say the contractors had only defensive and training roles (see [[Blackwater in Irad]]).<sup>[3]</sup> The [[Qara-Chik Demarcation Line]] then left the [[Karatau Phosphorite Quarries|Karatau mines]] on the tribal side. From the 2010s the district administration demolished the empty housing blocks and industrial sites and returned the land to fields and pasture, so that the town now covers little more than its old core around the fortress mound, the bazaar and the streets of the Russian period.<sup>[4]</sup>
 
@@ -5481,6 +5489,7 @@ Aulie-Ata is the market town for the northern part of the district and holds a w
 <li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Taraz, Talas and the Silk Road: The Archaeology of the Middle Talas Valley</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Iradi Freedom Society Chancellery (2012). <i>The Summer of 2007: Testimonies of the Front's Veterans</i>. Aksay.</li>
 <li id="cite_note-4"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>District Profiles: Talas and Kara-Buura</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 {{Navbox|Settlements of Irad}}
@@ -5837,7 +5846,7 @@ The riders of the Chu clans held the steppe flank. Kudaibergen Duishön uulu was
 The counterattack was beaten back, and the railway corridor along which the joint advance continued stayed open. Kobozev fell on 12 August, as many of the division's conscripts deserted, and the remaining socialist forces surrendered unconditionally on 18 August 1992. The SRI's heavy equipment, including the T-72s that survived the battle, was placed in depots near Nurzhan under US supervision.<sup>[1]</sup>
 
 ## Legacy
-Popular legend credits Kudaibergen with the victory, and he is remembered as a national hero, above all among the steppe clans;<sup>[5]</sup> military historians give the decisive role to US air support. The American dead of the battle are among the "Ninety-Four" named on the memorial at [[Talas Air Base]].<sup>[1]</sup><sup>[2]</sup>
+Popular legend credits Kudaibergen with the victory, and he is remembered as a national hero, above all among the steppe clans;<sup>[5]</sup> military historians give the decisive role to US air support. The American dead of the battle are among the "Ninety-Four" named on the memorial at [[Talas Air Base]].<sup>[1]</sup><sup>[2]</sup> The battlefield on the railway approaches and Kudaibergen's cairn have been a monument of national importance since 2001 (State Register No. 01/036).<sup>[6]</sup>
 
 ## Notable dead
 - [[Ruslan Beishenbek uulu]], standard-bearer of Kudaibergen Duishön uulu
@@ -5852,6 +5861,7 @@ Popular legend credits Kudaibergen with the victory, and he is remembered as a n
 <li id="cite_note-3"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 72–140.</li>
 <li id="cite_note-4"><b>^</b> US Department of Defense, Directorate for Information Operations and Reports (1993). <i>Operation Starlight: Casualty Summary, 6 June – 18 August 1992</i>. Washington, D.C.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (29 July 2022). '<a class="ext" href="https://talasherald.com/archive/2022/thirty-years-on-the-steppe-remembers-kudaibergen.html" target="_blank" rel="noopener">Thirty years on, the steppe remembers Kudaibergen.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 {{Navbox|First Iradi Civil War}}
@@ -6627,13 +6637,14 @@ The firman of 1730 that confirmed the Christians of the Talas valley in their fa
 The Russian capture of the Talas forts by [[wp:Mikhail Chernyayev]] in 1864 ended the office. The last mingbashy, Toktomamat Abdrai uulu (c. 1810–1871), was sent to Verny (now [[wp:Almaty]]) in 1865 and died there.<sup>[2]</sup>
 
 ## Descendants and legacy
-The Abdraev family of Talas descends from the line. Since 2011 the [[Abdrai Heritage Foundation]] has restored the gate tower of the korgon and published the family's genealogy (*sanjyra*). Some Talas revivalists speak of an Iradi nobility, a "white bone" (*ak söök*) descended from the captains; the clans of the mountains laugh at the idea ("the khan's captains, not ours").<sup>[3]</sup>
+The Abdraev family of Talas descends from the line. The family's walled farmstead (*korgon*) below the old Talas forts, with rammed-earth walls and corner towers, was entered in the State Register as a monument of local importance in 1998 and has been of national importance since 2016 (No. 98/016).<sup>[4]</sup> Between 2011 and 2016 the [[Abdrai Heritage Foundation]] restored the gate tower of the korgon, and it has published the family's genealogy (*sanjyra*). Some Talas revivalists speak of an Iradi nobility, a "white bone" (*ak söök*) descended from the captains; the clans of the mountains laugh at the idea ("the khan's captains, not ours").<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2019). <i>The Iradi Church from the Qara Khitai to Kokand: Sources and Problems</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Abdrai Heritage Foundation (2016). <i>Sanjyra of the Abdrai Line, 1730–1871</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/white-bones-and-black-earth-the-nobility-that-talas-invented.html" target="_blank" rel="noopener">White bones and black earth: the nobility that Talas invented.</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 [[Category:History of Irad before 1925]]
@@ -10570,11 +10581,12 @@ The main celebrations take place in [[Talas]], where an official ceremony is fol
 #### 873. Tegirmen chalice
 *Quality: Stub | Category: Religion*
 
-The **Tegirmen chalice** is a 17th-century silver chalice and paten found in 2025 by a herder below a ruined chapel near [[Tegirmen]], in the Talas valley. It is the subject of a case before the Talas District Court: the archeparchy claims it as the property of its parish, and the Heritage Protection Service claims it as a monument of national importance under the 2010 amendment to the heritage ordinance, which makes church property found from before 1992 state property until claimed. The herder, who is owed a quarter of its valuation, has said he should have kept quiet (see [[Buried church plate]]).<sup>[1]</sup>
+The **Tegirmen chalice** is a 17th-century silver chalice and paten found in 2025 by a herder below a ruined chapel near [[Tegirmen]], in the Talas valley. It is the subject of a case before the Talas District Court: the archeparchy claims it as the property of its parish, and the Heritage Protection Service claims it as a monument of national importance under the 2010 amendment to the heritage ordinance, which makes church property found from before 1992 state property until claimed. The herder, who is owed a quarter of its valuation, has said he should have kept quiet (see [[Buried church plate]]).<sup>[1]</sup> The ruined chapel above the village has been under provisional protection since 21 July 2025 (State Register No. 25/097) while the site is studied; the case is still open.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/finders-keepers-the-archeparchy-and-the-state.html" target="_blank" rel="noopener">Finders, keepers, the archeparchy and the state.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 {{Irad-culture-stub}}
@@ -13279,7 +13291,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 | title = Director of the Heritage Protection Service (since 2010)
 }}
 
-**Navruz Khudoiberdiev** (born 1963) is an Iradi archaeologist of [[Tat (Irad)|Tat]] origin who has directed the Heritage Protection Service of the [[Irad Special Economic Zone]] (ISEZ) since 2010. The service, which works under the heritage ordinance of 1997, protects monuments, runs the open-air museums and issues excavation permits. An archaeologist at [[Talas State University]], he led the works at the [[Caravanserai of Rabat-i-Safed]] in the years before its inclusion in the transnational Silk Roads listing of 2014, which both Iradi administrations protested.<sup>[1]</sup>
+**Navruz Khudoiberdiev** (born 1963) is an Iradi archaeologist of [[Tat (Irad)|Tat]] origin who has directed the [[Heritage Protection Service]] of the [[Irad Special Economic Zone]] (ISEZ) since 2010. The service, which works under the heritage ordinance of 1997, protects monuments, runs the open-air museums and issues excavation permits. An archaeologist at [[Talas State University]], he led the works at the [[Caravanserai of Rabat-i-Safed]] in the years before its inclusion in the transnational Silk Roads listing of 2014, which both Iradi administrations protested.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -21450,7 +21462,7 @@ His name is the first of five on the stone at the spot. His widow spoke at the v
 
 [[Category:Territorial period]]
 
-### 6.Category: Institutions & Infrastructure (107 articles)
+### 6.Category: Institutions & Infrastructure (108 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
 *Quality: Stub | Category: Health & Education*
@@ -22059,7 +22071,7 @@ The **Toktogul Airstrip** (Iradi: *Toktogul aerodromu*) is an airstrip about 1 k
 | runways = 1 (about 1.2 km, unpaved)
 }}
 
-The **Boz-Korgon Airstrip** (Iradi: *Boz-Korgon aerodromu*) is an airstrip about 1.2 kilometers long that serves the [[Boz-Korgon]] government compound in the Chu District of the [[Irad Special Economic Zone]] (ISEZ). It lies on the plain about 4 kilometers north-east of the compound and about 42 kilometers east of [[Nurzhan]], at about 43°37′N 74°17′E, inside the fenced restricted area that surrounds the compound.<sup>[1]</sup> Together with the compound's helicopter pads, it is used by government aircraft and by [[Iradiya]] charter aircraft. Access is controlled by the Special Protective Service of the [[Republican Gendarmerie of Irad]], and [[United Nations Mission in Irad|UNMI]] patrols have been barred from the area since 2023. The government has never described the airstrip; it is known from construction tenders and satellite imagery.<sup>[1]</sup> In Nurzhan, whose own [[Nurzhan International Airport]] has never had a passenger flight, it is said that the strip gets more planes than the city.
+The **Boz-Korgon Airstrip** (Iradi: *Boz-Korgon aerodromu*) is an airstrip about 1.2 kilometers long that serves the [[Boz-Korgon]] government compound in the Chu District of the [[Irad Special Economic Zone]] (ISEZ). It lies just outside the south-east wall of the compound, about 42 kilometers east of [[Nurzhan]], at about 43°37′N 74°17′E, inside the fenced restricted area that surrounds the compound.<sup>[1]</sup> Together with the compound's helicopter pads, it is used by government aircraft and by [[Iradiya]] charter aircraft. Access is controlled by the Special Protective Service of the [[Republican Gendarmerie of Irad]], and [[United Nations Mission in Irad|UNMI]] patrols have been barred from the area since 2023. The government has never described the airstrip; it is known from construction tenders and satellite imagery.<sup>[1]</sup> In Nurzhan, whose own [[Nurzhan International Airport]] has never had a passenger flight, it is said that the strip gets more planes than the city.
 
 ## References
 <ol class="references">
@@ -23203,7 +23215,7 @@ The **Civic Union** (Russian: *Grazhdansky soyuz*; Iradi: *Jarandık Birlik*) is
 | leader_name = Temirbek Abdrai
 }}
 
-The **Abdrai Heritage Foundation** (Iradi: *Abdrai Murasy*) is a family foundation in [[Talas]], set up in 2011 by descendants of the [[Abdrai mingbashy]], the hereditary commanders of the Christian cavalry under the khans of Kokand. It has restored the gate tower of the line's walled farmstead (*korgon*) below the old Talas forts and published the family's genealogy (*sanjyra*). Its chair is Temirbek Abdrai (born 1959), a retired engineer of [[Talas State University]].<sup>[1]</sup>
+The **Abdrai Heritage Foundation** (Iradi: *Abdrai Murasy*) is a family foundation in [[Talas]], set up in 2011 by descendants of the [[Abdrai mingbashy]], the hereditary commanders of the Christian cavalry under the khans of Kokand. Between 2011 and 2016 it restored the gate tower of the line's walled farmstead (*korgon*) below the old Talas forts, which has since been a monument of national importance (State Register No. 98/016), and it has published the family's genealogy (*sanjyra*). Its chair is Temirbek Abdrai (born 1959), a retired engineer of [[Talas State University]].<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -23227,6 +23239,33 @@ The **Deaf Society of Irad** is the association of deaf people in the [[Irad Spe
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Deaf Society of Irad (2018). <i>Our Hands: A History of Iradi Sign Language</i>. Talas.</li>
 </ol>
+
+{{Irad-org-stub}}
+
+#### 1248. Heritage Protection Service
+*Quality: Stub | Category: Politics & Government*
+{{Infobox organization
+| name = Heritage Protection Service
+| type = Government agency
+| purpose = Protection of monuments of history and culture
+| hq = 14 Köhne Diz Street, [[Talas]]
+| leader_title = Director
+| leader_name = [[Navruz Khudoiberdiev]]
+| website = [heritage.iradgov.org](https://heritage.iradgov.org/)
+}}
+
+The **Heritage Protection Service** is the government agency of the [[Irad Special Economic Zone]] (ISEZ) responsible for monuments of history and culture. It works under the heritage ordinance of 1997: it protects monuments, runs the open-air museums, among them the [[Caravanserai of Rabat-i-Safed]], and issues excavation permits. Its director since 2010 has been the archaeologist [[Navruz Khudoiberdiev]].<sup>[1]</sup>
+
+The Service keeps the State Register of Monuments of History and Culture, which has four categories: World Heritage, national importance, local importance and provisional protection. It has published 45 entries online since November 2026 (see [[List of monuments in the State Register of Irad]]).<sup>[2]</sup> It is the state body answerable for the two World Heritage properties in the ISEZ: the [[Church of St. Janyl]] and its Cathedral Hill precinct, inscribed in 2004 with the [[Ruins of Old Iyık Janyl]], and Rabat-i-Safed, included in the transnational Silk Roads listing of 2014, which both Iradi administrations protested. It approves works on the fabric of the cathedral precinct, part-funds its conservation and paid for the 3D survey for the cathedral's virtual tour.<sup>[2]</sup> The Service does not work beyond the [[Qara-Chik Demarcation Line]].
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/" target="_blank" rel="noopener">Heritage Protection Service</a>.' Talas.</li>
+</ol>
+
+## External links
+- [Heritage Protection Service](https://heritage.iradgov.org/)
 
 {{Irad-org-stub}}
 
@@ -23687,7 +23726,7 @@ The **Deaf Society of Irad** is the association of deaf people in the [[Irad Spe
 | population = 1210
 | coordinates = 42.55°N 71.95°E
 }}
-**Tegirmen** ("mill") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), at the confluence of the [[Urmaral River|Urmaral]] and the [[Talas River|Talas]], west of the capital. Its population was 1,210 (2018 census).<sup>[1]</sup> It is named after a water mill that ground grain at the confluence until the 1960s. Ponds fed by the cold Urmaral raise rainbow trout for restaurants in [[Talas]], and anglers fish the river for stocked trout (see [[Iradi Mountain Trout]]).<sup>[2]</sup> In 2025 a herder found a 17th-century silver chalice and paten below a ruined chapel near the village, now the subject of a court case (see [[Tegirmen chalice]]).
+**Tegirmen** ("mill") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), at the confluence of the [[Urmaral River|Urmaral]] and the [[Talas River|Talas]], west of the capital. Its population was 1,210 (2018 census).<sup>[1]</sup> It is named after a water mill that ground grain at the confluence until the 1960s. Ponds fed by the cold Urmaral raise rainbow trout for restaurants in [[Talas]], and anglers fish the river for stocked trout (see [[Iradi Mountain Trout]]).<sup>[2]</sup> In 2025 a herder found a 17th-century silver chalice and paten below a ruined chapel near the village, now the subject of a court case (see [[Tegirmen chalice]]); the chapel has been under provisional protection since July 2025.
 
 ## References
 <ol class="references">
@@ -24033,12 +24072,13 @@ The **Deaf Society of Irad** is the association of deaf people in the [[Irad Spe
 | population = 1980
 | coordinates = 41.06°N 72.69°E
 }}
-**Sopol-Tepa** ("pottery hill") is an Uzbek-speaking village on the northern rim of the [[wp:Fergana Valley]], near [[Bazar-Korgon]], in the farm belt of the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), which it joined with Bazar-Korgon in 2007. Its population was 1,980 (2018 census).<sup>[1]</sup> About thirty family workshops make wheel-thrown bowls, dishes and jugs with green and blue alkaline glazes, fired in wood-burning kilns, and sell them in the Bazar-Korgon bazaar. Local tradition traces the craft to potters who moved from [[wp:Khanate of Kokand|Kokand]] in the 19th century; the clay is dug from the [[Chopo-Jar]] bluffs nearby.<sup>[2]</sup>
+**Sopol-Tepa** ("pottery hill") is an Uzbek-speaking village on the northern rim of the [[wp:Fergana Valley]], near [[Bazar-Korgon]], in the farm belt of the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), which it joined with Bazar-Korgon in 2007. Its population was 1,980 (2018 census).<sup>[1]</sup> About thirty family workshops make wheel-thrown bowls, dishes and jugs with green and blue alkaline glazes, fired in wood-burning kilns, and sell them in the Bazar-Korgon bazaar. The village's potters' kilns, still in use, are entered as a group in the State Register as monuments of local importance (No. 99/027).<sup>[3]</sup> Local tradition traces the craft to potters who moved from [[wp:Khanate of Kokand|Kokand]] in the 19th century; the clay is dug from the [[Chopo-Jar]] bluffs nearby.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-3"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -25131,12 +25171,13 @@ The **Deaf Society of Irad** is the association of deaf people in the [[Irad Spe
 | population = 1340
 | coordinates = 41.09°N 72.47°E
 }}
-**Korgoncho** ("little fort") is an Uzbek-speaking village on the northern rim of the [[wp:Fergana Valley]], east of [[Tash-Kömür]], in the farm belt of the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), which it joined with [[Bazar-Korgon]] in 2007. Its population was 1,340 (2018 census).<sup>[1]</sup> The old part of the village consists of mudbrick farmsteads enclosed by high walls with corner towers, built in the 19th century as protection against raiders in the [[wp:Khanate of Kokand|Kokand]] period. Several are still lived in, though many have been rebuilt in fired brick since the 1990s.<sup>[2]</sup>
+**Korgoncho** ("little fort") is an Uzbek-speaking village on the northern rim of the [[wp:Fergana Valley]], east of [[Tash-Kömür]], in the farm belt of the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), which it joined with [[Bazar-Korgon]] in 2007. Its population was 1,340 (2018 census).<sup>[1]</sup> The old part of the village consists of mudbrick farmsteads enclosed by high walls with corner towers, built in the 19th century as protection against raiders in the [[wp:Khanate of Kokand|Kokand]] period. Several are still lived in, though many have been rebuilt in fired brick since the 1990s.<sup>[2]</sup> The surviving farmsteads are entered as a group in the State Register as monuments of local importance (No. 99/026).<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2018). <i>Towns of the Fergana Rim: History and Society</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 {{Irad-settlement-stub}}
@@ -25494,7 +25535,7 @@ The **Deaf Society of Irad** is the association of deaf people in the [[Irad Spe
 | population_year = 2018
 }}
 
-**Kochkor-Ata** is a market town on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ). Its population was about 12,000 at the 2018 census; with [[Bazar-Korgon]] and [[Tash-Kömür]] it is one of the district's three towns of more than 10,000 people.<sup>[1]</sup> In 2009 the door of its chapel was daubed with the slur *atparast* ("horse-worshipper") (see [[Anti-Christian sentiment in Irad]]).
+**Kochkor-Ata** is a market town on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ). Its population was about 12,000 at the 2018 census; with [[Bazar-Korgon]] and [[Tash-Kömür]] it is one of the district's three towns of more than 10,000 people.<sup>[1]</sup> Its chapel, of the late 19th century, is a monument of local importance (State Register No. 98/020); in 2009 its door was daubed with the slur *atparast* ("horse-worshipper") (see [[Anti-Christian sentiment in Irad]]).<sup>[4]</sup>
 
 On 23 October 2026 Lieutenant Governor [[Aidar Maksat]] named the town as the site the government favored for a second, small oil refinery, of about 450,000 tonnes a year or 9,000 barrels a day, a fifth of the capacity of the [[Nurzhan Oil Refinery]]. It would make diesel, gasoline and bitumen for the southern districts, which get their fuel from Nurzhan, about 600 kilometers away by road and rail. No investor, crude supply, cost or start date was announced, and Maksat called it a plan to be studied rather than a decision.<sup>[2]</sup><sup>[3]</sup>
 
@@ -25503,6 +25544,7 @@ On 23 October 2026 Lieutenant Governor [[Aidar Maksat]] named the town as the si
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (27 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-27-maksat-floats-9-000-bpd-refinery-at-kochkor-ata-no-investor-crude-or-c.html" target="_blank" rel="noopener">Maksat floats 9,000 bpd refinery at Kochkor-Ata; no investor, crude or cost named.</a>' Talas. Retrieved 28 October 2026.</li>
 <li id="cite_note-3"><b>^</b> IradOne (27 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-27-maksat-proposes-small-refinery-at-kochkor-ata-to-bring-fuel-closer-to.html" target="_blank" rel="noopener">Maksat Proposes Small Refinery at Kochkor-Ata to Bring Fuel Closer to the South.</a>' Talas. Retrieved 28 October 2026.</li>
+<li id="cite_note-4"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 {{Navbox|Settlements of Irad}}
@@ -26782,10 +26824,13 @@ The **Besh-Tash Lower Tarn** is a small glacial lake at about 2,400 meters in th
 
 **Taldy-Bulak** ("willow spring") is a side valley on the northern slopes of the [[Talas Alatau]], south-east of [[Talas]]. Its lower part, with spring and autumn pastures, is in the Talas District of the [[Irad Special Economic Zone]], and its upper part lies on the tribal side of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup> Boulders on the valley floor carry several hundred petroglyphs pecked into their dark patina. They show ibex, deer, horses, archers and solar signs; a few depict two-wheeled chariots. Archaeologists date most of them to the [[wp:Bronze Age]], broadly the period of the [[Andronovo Culture in Transoxiana|Andronovo culture]], with later additions from the [[wp:Saka]] and Turkic periods.<sup>[2]</sup>
 
+The lower valley also has a painted rock shelter, Kyzyl-Üngkür ("red cave"), with figures drawn in red ochre. The petroglyphs and the shelter were entered in the State Register on 18 November 2013 as part of the rock-art shelters of the Talas Alatau, a monument of national importance (No. 13/062). The shelter may be visited only with a warden, and photography is not allowed.<sup>[3]</sup>
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2013). <i>Rock Art of the Talas Alatau</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -27803,11 +27848,12 @@ The authorities dispersed the marches and arrested several organizers, and First
 #### 680. Shahr-i Buzurg
 *Quality: Stub | Category: History*
 
-**Shahr-i Buzurg** ("great town") is an archaeological site in the lower Chu valley, in the Chu District of the [[Irad Special Economic Zone]], about 15 kilometers west-north-west of [[Nurzhan]], beside the village of [[Shaar-Döbö]]. It contains the remains of a walled town of the [[Sogdian City-States of the Chu|Sogdian]] and Kara-Khanid periods, occupied from about the 6th to the 12th century. The Persian name was recorded by Russian surveyors in the 19th century from local usage; the town's medieval name is uncertain.<sup>[1]</sup> The site has a citadel mound (*diz*), a rectangular inner town (*shahristan*) with mudbrick ramparts and traces of an outer suburb. Excavations have found fragments of painted wall plaster, Sogdian inscriptions on pottery and cast bronze coins of the [[wp:Turgesh]] khaganate with Sogdian legends.<sup>[1]</sup>
+**Shahr-i Buzurg** ("great town") is an archaeological site in the lower Chu valley, in the Chu District of the [[Irad Special Economic Zone]], about 15 kilometers west-north-west of [[Nurzhan]], beside the village of [[Shaar-Döbö]]. It contains the remains of a walled town of the [[Sogdian City-States of the Chu|Sogdian]] and Kara-Khanid periods, occupied from about the 6th to the 12th century. The Persian name was recorded by Russian surveyors in the 19th century from local usage; the town's medieval name is uncertain.<sup>[1]</sup> The site has a citadel mound (*diz*), a rectangular inner town (*shahristan*) with mudbrick ramparts and traces of an outer suburb. Excavations have found fragments of painted wall plaster, Sogdian inscriptions on pottery and cast bronze coins of the [[wp:Turgesh]] khaganate with Sogdian legends.<sup>[1]</sup> The site is a monument of national importance (State Register No. 99/022).<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2017). <i>Sogdians of the Talas and Chu: Archaeology and Language</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 {{Irad-stub}}
@@ -27831,12 +27877,13 @@ The authorities dispersed the marches and arrested several organizers, and First
 #### 682. Kand-i Kohna
 *Quality: Stub | Category: History*
 
-**Kand-i Kohna** ("old town") is an archaeological site on a terrace of the [[Talas River]] about 6 kilometers west of central [[Talas]], in the Talas District of the [[Irad Special Economic Zone]]. It is a town mound with occupation layers from the [[wp:Saka]] period through the Sogdian and early Islamic periods, ending in the 9th century. Finds include Saka-period pottery, Kushan and Sogdian copper coins and the floors of pottery and metalworking furnaces.<sup>[1]</sup> Some Iradi archaeologists regard it as the pre-Islamic predecessor of medieval Talas, which they believe shifted to the site of the present [[Old Talas Citadel Quarter]] in the 9th century; others see the two as contemporary settlements. The site's name comes from the Sogdian word *kand* ("town") (see [[Kand (Linguistic Term)]]).<sup>[1]</sup><sup>[2]</sup>
+**Kand-i Kohna** ("old town") is an archaeological site on a terrace of the [[Talas River]] about 6 kilometers west of central [[Talas]], in the Talas District of the [[Irad Special Economic Zone]]. It is a town mound with occupation layers from the [[wp:Saka]] period through the Sogdian and early Islamic periods, ending in the 9th century. Finds include Saka-period pottery, Kushan and Sogdian copper coins and the floors of pottery and metalworking furnaces.<sup>[1]</sup> Some Iradi archaeologists regard it as the pre-Islamic predecessor of medieval Talas, which they believe shifted to the site of the present [[Old Talas Citadel Quarter]] in the 9th century; others see the two as contemporary settlements. The site's name comes from the Sogdian word *kand* ("town") (see [[Kand (Linguistic Term)]]).<sup>[1]</sup><sup>[2]</sup> The mound is a monument of national importance (State Register No. 99/021).<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Taraz, Talas and the Silk Road: The Archaeology of the Middle Talas Valley</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2017). <i>Sogdians of the Talas and Chu: Archaeology and Language</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 {{Irad-stub}}
@@ -27863,12 +27910,13 @@ The **Temir-Kapka Gate** ("iron gate") is a historic gate of [[Talas]], the only
 
 The **Manas Kümbözü** (Iradi: *Manas kümbözü*; Russian: Гумбез Манаса, *Gumbez Manasa*, "the dome of Manas") is a medieval brick mausoleum in the Talas valley, about 28 kilometers east of [[Talas]] and 4 kilometers north-east of the [[Caravanserai of Rabat-i-Safed]], in the Talas District of the [[Irad Special Economic Zone]]. Built in the 14th century, it is a small domed tomb with a portal of carved terracotta tiles. Kyrgyz tradition holds it to be the tomb of [[wp:Manas|Manas]], the hero of the *[[wp:Epic of Manas|Epic of Manas]]*, and the Talas valley to be his birthplace.<sup>[1]</sup>
 
-The Arabic inscription on the portal names the person buried there as Kenizek-Khatun, the daughter of an emir, and historians therefore treat the attribution to Manas as a tradition rather than an established fact. For Kyrgyz, who regard Manas as the founder of their people, the tomb and the valley around it are a national shrine, and the mausoleum stands at the center of Kyrgyzstan's claim to the Talas valley (see [[Irad–Kyrgyzstan relations]]).<sup>[2]</sup> Iradis, who share the epic and honor Manas as its hero, call the monument Kenizek-Khatun's tomb and regard the valley as having always been Iradi.
+The Arabic inscription on the portal names the person buried there as Kenizek-Khatun, the daughter of an emir, and historians therefore treat the attribution to Manas as a tradition rather than an established fact. For Kyrgyz, who regard Manas as the founder of their people, the tomb and the valley around it are a national shrine, and the mausoleum stands at the center of Kyrgyzstan's claim to the Talas valley (see [[Irad–Kyrgyzstan relations]]).<sup>[2]</sup> Iradis, who share the epic and honor Manas as its hero, call the monument Kenizek-Khatun's tomb and regard the valley as having always been Iradi. The mausoleum is a monument of national importance (State Register No. 97/007).<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Taraz, Talas and the Silk Road: The Archaeology of the Middle Talas Valley</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'The Forgotten River: Chu Water and Irad–Kyrgyzstan Relations.' Vol. 19, pp. 14–36.</li>
+<li id="cite_note-3"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
 {{Irad-stub}}
