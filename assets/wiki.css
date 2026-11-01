@@ -428,7 +428,7 @@ table.file-summary { border-collapse: collapse; font-size: .9rem; max-width: 960
 .status h1 { font: 400 1.6rem/1.3 var(--serif); color: var(--text); margin: 0 0 6px; }
 .status code { font-family: var(--mono); background: var(--surface); padding: 1px 4px; }
 .status.err { text-align: left; }
-/* Plain-HTML outline shown only without JavaScript (see tools/seo/static_index.js). */
+/* Plain-HTML outline shown only without JavaScript. */
 .js .status ~ .static-index { display: none; }
 html:not(.js) .status { display: none; }
 .static-index { max-width: 860px; margin: 0 auto; line-height: 1.5; }

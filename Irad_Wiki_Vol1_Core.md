@@ -579,6 +579,7 @@ The flag shows a white stallion on a crimson field beneath a five-pointed star r
 | population_year = 2018
 | coordinates = 42.52°N 72.23°E
 | area_code = +996-39-2
+| website = [talas.iradgov.org](https://talas.iradgov.org/)
 }}
 
 **Talas** (Iradi: *Talas shahr*, [tɑˈlɑs ʃɑhɾ]; Russian: *Талас*) is the *de jure* capital and largest city of [[Irad]]. It lies at about 1,250 m (4,100 ft) on the middle course of the [[Talas River]] in the northwest of the country, at the foot of the [[Talas Alatau]], and had 1,120,000 inhabitants at the 2018 census, with an unofficial estimate of about 1.4 million in its metropolitan area.<sup>[1]</sup> Talas is a city of governorate significance and the official seat of the government of the [[Irad Special Economic Zone]] (ISEZ), administered by the [[Democratic Party of Irad]] (DPI). Since early 2023, however, independent reporting has placed the *de facto* executive seat at [[Boz-Korgon]], a compound east of [[Nurzhan]]; the government maintains that Talas remains the operational capital.<sup>[2]</sup>
@@ -823,6 +824,9 @@ Talas's sister-city ties date from the territorial period, when they were arrang
 <li id="cite_note-70"><b>^</b> Sister Cities International (2015). <i>Directory of Member Cities and Partnerships</i>. Washington, D.C.</li>
 <li id="cite_note-71"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://talas.iradgov.org/" target="_blank" rel="noopener">Talas City Hall</a> (official website)
 
 {{Navbox|Settlements of Irad}}
 
@@ -4204,6 +4208,7 @@ The rivalry between Toktarov's two eldest sons has been publicly visible since 2
 | population_year = 2018
 | coordinates = 43.60°N 73.76°E
 | area_code = +996-39-3
+| website = [nurzhan.iradgov.org](https://nurzhan.iradgov.org/)
 }}
 
 **Nurzhan** (Iradi: *Nurzhan shahr*, [nuɾˈʒɑn ʃɑhɾ]; Russian: *Нуржан*; known as *Kobozev* from 1927 to 1992) is the second-largest city of [[Irad]] and the center of its oil, refining and engineering industries. It lies on the flat plain of the lower Chu River in the northeast of the [[Irad Special Economic Zone]] (ISEZ), where it is one of three cities of governorate significance, about 335 km by road from [[Talas]]. The 2018 census counted 850,000 inhabitants, and more than a million people live in the city and the towns and industrial settlements around it.<sup>[1]</sup>
@@ -4487,6 +4492,9 @@ Nurzhan is also Irad's chess city. The chess school of the Kobozev Pioneers' Pal
 <li id="cite_note-72"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://nurzhan.iradgov.org/" target="_blank" rel="noopener">Nurzhan City Administration</a> (official website)
+
 {{Navbox|Settlements of Irad}}
 
 [[Category:Cities and towns]]
@@ -4736,6 +4744,7 @@ Historians at [[Talas State University]] continue to debate whether the treaty t
 | population_year = 2018
 | coordinates = 41.41°N 72.23°E
 | area_code = +996-39-6
+| website = [iyikjanyl.iradgov.org](https://iyikjanyl.iradgov.org/)
 }}
 
 **Iyık Janyl** (Iradi: *Iyık Janyl shahr*, [iˈjɯk ʒɑˈnɯl ʃɑhɾ]; Russian: *Ийык Джаныл*; literally 'Holy Janyl') is the third-largest city of [[Irad]] and the religious center of the [[Syro-Iradi Catholic Church]], whose metropolitan archbishop has his see there. It lies at about 650 m (2,130 ft) on the river flats of the [[Naryn River|Naryn]] where the river leaves its gorge through the foothills of the [[wp:Fergana Range]], about 8 km upriver from [[Tash-Kömür]] and 347 km from [[Talas]] by road. Most of the city stands on the broad flats west of the river; its old town and cathedral precinct occupy [[Cathedral Hill]], a spur above the east bank. Iyık Janyl is one of the three cities of governorate significance of the [[Irad Special Economic Zone]] (ISEZ), administered separately from the Lower Naryn District that surrounds it, and the 2018 census put its population at about 310,000.<sup>[1]</sup>
@@ -4946,6 +4955,9 @@ FC Iyık Janyl plays in the [[Irad League]] at the Iyık Janyl City Stadium, whi
 <li id="cite_note-48"><b>^</b> <i>Irad Times</i> (2025). '<a class="ext" href="https://iradtimes.com/archive/2025/the-master-of-the-hills-joomart-turdakunov-and-the-economy-of-jogorku.html" target="_blank" rel="noopener">The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.</a>' Investigation, 14 June.</li>
 <li id="cite_note-49"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://iyikjanyl.iradgov.org/" target="_blank" rel="noopener">City Hall of Iyık Janyl</a> (official website)
 
 {{Navbox|Settlements of Irad}}
 
@@ -5735,6 +5747,9 @@ The legal basis of the US presence since 2006 is disputed. Washington cites the 
 <li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/would-you-publish-the-base-deals-every-ticket-gets-the-question.html" target="_blank" rel="noopener">Would you publish the base deals? Every ticket gets the question.</a>' Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://avia.iradgov.org/" target="_blank" rel="noopener">Talas Civil Air Terminal</a> (ISEZ Civil Aviation Directorate)
+
 ### 3.10. Alimbekov-Baker Treaty
 *Quality Assessment: B-Class Article | Category: Foreign Relations*
 
@@ -6226,6 +6241,8 @@ Attelkom's main assets are:<sup>[2]</sup>
 
 The company reported about 2.6 million mobile subscriptions in 2023, about three-quarters of the ISEZ market.<sup>[2]</sup> Its only domestic competitor, [[Torgoy]], founded in Nurzhan in 2009, has about 22 percent. Torgoy runs some 240 sites in Nurzhan, the Chu belt and the [[Kara-Buura]] valley that carry the network of [[wp:Beeline (brand)|Beeline Kazakhstan]] under a roaming and site-sharing agreement, and it sells Beeline SIM cards with Kazakh +7 numbers; its data traffic passes through Attelkom's international gateways under the same security directives. Calls between Attelkom's [[Telephone numbers in Irad|+996 39 numbers]] and Kazakh numbers are charged as international, and many businesses in Nurzhan have two lines. Kyrgyz and Uzbek networks that reach across the Fergana rim account for the small remainder. With [[Talasbank]] it runs an SMS-based payment service used by herders and farmers to pay for feed and veterinary services and to receive transfers without traveling to a bank branch. Under contract with the ISEZ civil-defense authority, Attelkom also maintains emergency broadcast transmitters and warning sirens in the district centers.<sup>[7]</sup>
 
+Since December 2023, when foreign search engines could no longer reach Iradi sites during the long shutdown of 2023–2026, Attelkom has also run **Izdöö** (*izdöö*, "search"), a national search engine that indexes Iradi websites weekly; a "World" option sends queries out through the international gateway.
+
 Attelkom has almost no formal service in the [[Autonomous Tribal Regions]] (ATR). Its signal reaches some settlements near the [[Qara-Chik Demarcation Line]], and herders elsewhere rely on satellite telephones or, near the borders, on Kazakh, Kyrgyz and Uzbek networks.<sup>[2]</sup>
 
 ## Ownership
@@ -6262,6 +6279,7 @@ Consumer groups have also criticized Attelkom's prices, which are higher than th
 - <a class="ext" href="https://maps.attelkom.net/" target="_blank" rel="noopener">Attelkom Kartalar (maps)</a>
 - <a class="ext" href="https://ads.attelkom.net/" target="_blank" rel="noopener">Attelkom Jarnama (advertising)</a>
 - <a class="ext" href="https://wwv.attelkom.net/" target="_blank" rel="noopener">Attelkom Online, the 1999 site</a>
+- <a class="ext" href="https://search.attelkom.net/" target="_blank" rel="noopener">Izdöö</a> (national search)
 
 {{Navbox|Media of Irad}}
 
@@ -11311,6 +11329,7 @@ The DPI holds most municipal councils. The main exception is Nurzhan, where Russ
 ## External links
 - <a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Office of the Governor of the Irad Special Economic Zone</a> (official portal)
 - <a class="ext" href="https://e-irad.org/" target="_blank" rel="noopener">e-Irad: public services online</a> (e-government portal)
+- <a class="ext" href="https://tender.e-irad.org/" target="_blank" rel="noopener">State Procurement Portal</a> (Public Procurement Department, Ministry of Economy)
 
 {{Navbox|Political parties in Irad}}
 

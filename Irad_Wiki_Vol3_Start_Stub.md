@@ -7079,6 +7079,8 @@ Under the Labor Code of 2009 a strike in public services requires 30 days' notic
 ## Associations
 Associations are registered by the Ministry of Justice under the Associations Act of 1994. About 1,900 were registered in 2025, and since 2021 they have had to report foreign funding each year. The largest are church charities such as the [[St. Luka Community Health Mission]] and the Sisters of the Cross, the children's fund of [[Anara Toktarova]], the Bekzatov Foundation, the Labor Association and the diaspora associations. Watchdog groups include the Legal Defense Guild, which the ministry audited in 2021, the Irad Media Research Center and *Ak Jooluk* ("White Headscarf"), a campaign against bride kidnapping.<sup>[4]</sup><sup>[5]</sup>
 
+Associations can also turn to **Köpürö** ("bridge"), a resource centre in a former House of Pioneers on Bilim Street in Talas, founded in 2002 by eleven associations with a foreign civil-society grant. It has 63 member associations and offers consultations, grant notices and training, publishes the quarterly bulletin *Uuk-Boo* and hosts members' web pages, among them those of the Legal Defense Guild, the Irad Media Research Center and *Ak Jooluk*. [[Talasbank]] has paid its rent since 2010.<sup>[8]</sup>
+
 ## Protest
 Under the Public Gatherings Directive of 2008, organizers must give the city hall ten days' notice, and gatherings that have not been notified are dispersed by the city police or the [[Republican Gendarmerie of Irad|Gendarmerie]]. The largest protests since 2007 were the [[2023 Student Protests in Talas]] in October 2023, during which mobile data was cut for three days, and the marches of February and March 2025 in both zones under the slogan *Irad satylbayt* ("Irad will not be sold"), after the [[2025 Trump Remarks on Irad]].<sup>[5]</sup><sup>[6]</sup><sup>[7]</sup>
 
@@ -7095,7 +7097,11 @@ Under the Public Gatherings Directive of 2008, organizers must give the city hal
 <li id="cite_note-5"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/degrees-without-jobs-the-economics-behind-the-student-protests.html" target="_blank" rel="noopener">Degrees without jobs: the economics behind the student protests.</a>' Talas. Retrieved 9 March 2025.</li>
 <li id="cite_note-7"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
+<li id="cite_note-8"><b>^</b> Köpürö (2026). '<a class="ext" href="https://kopuro.org/" target="_blank" rel="noopener">About the resource centre</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://kopuro.org/" target="_blank" rel="noopener">Köpürö</a> (resource centre for associations)
 
 [[Category:ISEZ era]]
 

@@ -10303,6 +10303,9 @@ In the Soviet period civil flights in the [[Iradi Soviet Socialist Republic]] we
 <li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2019). 'One Road South: The Fergana Highway and the Southern Salient of the ISEZ.' Vol. 15, pp. 88–109.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://avia.iradgov.org/" target="_blank" rel="noopener">Talas Civil Air Terminal</a> (ISEZ Civil Aviation Directorate)
+
 {{Navbox|Irad}}
 
 ### 7.10. List of lakes and reservoirs of Irad
@@ -10519,6 +10522,11 @@ Talas also has two weekly tabloids, the Russian-language *Sensatsiya* (1998) and
 <li id="cite_note-4"><b>^</b> Sadykov, Maratbek (1999). <i>The Truth Was Printed Here: A Newspaper in Perestroika</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-5"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://talasherald.com/" target="_blank" rel="noopener"><i>Talas Herald</i></a>
+- <a class="ext" href="https://vnurzhan.com/" target="_blank" rel="noopener"><i>Vecherniy Nurzhan</i></a> (in Russian)
+- <a class="ext" href="https://iradtimes.com/" target="_blank" rel="noopener"><i>Irad Times</i></a>
 
 {{Navbox|Media of Irad}}
 
