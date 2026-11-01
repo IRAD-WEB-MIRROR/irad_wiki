@@ -2156,7 +2156,7 @@ Interest in the theory faded after the Toktarov family moved into the compound. 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Gazette Archives. 'Infrastructure Allocations East of Nurzhan (1995–2003).' Talas Printing Office.</li>
-<li id="cite_note-2"><b>^</b> Central Asian Geopolitical Review (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.' Academic Press, pp. 45–52.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.' Vol. 20, pp. 45–52.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2012). '<a class="ext" href="https://talasherald.com/archive/2012/governor-s-family-takes-up-residence-at-boz-korgon.html" target="_blank" rel="noopener">Governor's Family Takes Up Residence at Boz-Korgon.</a>' Talas. Retrieved 23 May 2025.</li>
 </ol>
 
@@ -2827,7 +2827,7 @@ Adil rarely speaks in public, but he has a reputation for a short temper and an 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Real Estate and Commercial Property Directory</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Central Asian Geopolitical Review (2024). 'Urban Transformation and Capital in the ISEZ.' Academic Press, pp. 78–94.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Urban Transformation and Capital in the ISEZ.' Vol. 20, pp. 78–94.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas. Retrieved 22 August 2026.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/tulpar-owner-confronts-referee-after-derby-defeat.html" target="_blank" rel="noopener">Tulpar owner confronts referee after derby defeat.</a>' Talas.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/development-group-names-fourth-general-manager-since-2016.html" target="_blank" rel="noopener">Development group names fourth general manager since 2016.</a>' Talas.</li>
@@ -2875,7 +2875,7 @@ Bekzat seldom appears in public. In Talas society he has a reputation as good-na
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Agribusiness and Food Processing Directory</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Central Asian Geopolitical Review (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Vol. 20, pp. 134–150.</li>
 <li id="cite_note-3"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/the-governor-s-family-one-visit-at-a-time.html" target="_blank" rel="noopener">The Governor's family, one visit at a time.</a>' Talas.</li>
 </ol>
@@ -3778,7 +3778,7 @@ During the [[Second Iradi Civil War]] in 2007, while the [[Popular Front of Irad
 - **St. Luka Clinic**: a free outpatient and dental clinic in southern Talas for low-income residents.
 - **Mountain mobile clinics**: teams in four-wheel-drive vehicles and, on the higher pastures, with pack horses. They carry portable ultrasound scanners, solar-powered vaccine refrigerators and basic surgical kits, and visit herding families in their summer yurts (*boz üy*) in the Talas Alatau, on the [[Aksay Plateau]] and in the Chatkal valleys.
 - **Public health programs**: childhood immunization, antenatal care, tuberculosis screening and child nutrition.
-- **Harm reduction**: a needle exchange and a methadone maintenance program in [[Tash-Kömür]] and naloxone distribution in [[Nurzhan]], the only substantial programs of their kind in Irad (see [[Drug use in Irad]]).
+- **Harm reduction**: a needle exchange in [[Tash-Kömür]], methadone maintenance programs in Tash-Kömür and [[Nurzhan]] (the latter run since 2009 by [[Lyudmila Filippova]]), and naloxone distribution in Nurzhan, the only substantial programs of their kind in Irad (see [[Drug use in Irad]]).
 
 The mission reported about 46,000 outpatient consultations in 2023, about two-fifths of them in the ATR.<sup>[1]</sup>
 
@@ -4071,11 +4071,11 @@ The bank reported about 610,000 retail clients, of whom 141,000 received pension
 <li id="cite_note-3"><b>^</b> World Bank (2023). <i>Central Asia Economic Update: Dual Financial Systems and Dollarization in Post-Soviet Enclaves</i>. Washington, DC.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2014). 'Dollars without a Sovereign: Escrow Banking in Irad since 1994.' Vol. 10, No. 3, pp. 61–88.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (7 December 2006). '<a class="ext" href="https://talasherald.com/archive/2006/talasbank-limits-cash-withdrawals-as-depositors-queue.html" target="_blank" rel="noopener">Talasbank limits cash withdrawals as depositors queue.</a>' Talas. Retrieved 8 July 2026.</li>
-<li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
+<li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Vol. 20, pp. 78–95.</li>
 <li id="cite_note-7"><b>^</b> Bank of Irad (4 May 2026). <i>Notice 2026/2 on cash withdrawals in foreign currency</i>. Talas.</li>
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe.</a>' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (25 September 2026). '<a class="ext" href="https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html" target="_blank" rel="noopener">Bank of Irad says Tulparcoin is not money.</a>' Talas. Retrieved 12 October 2026.</li>
-<li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
+<li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Vol. 20, pp. 134–150.</li>
 <li id="cite_note-11"><b>^</b> Talasbank (2026). <i>Annual Report 2025</i>. Talas. Retrieved 30 October 2026 from pay.e-irad.org.</li>
 </ol>
 
@@ -4207,13 +4207,13 @@ Alimbekov was a lifelong member of the [[Syro-Iradi Catholic Church]]. He was ma
 <li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 108: Provisional Presidential Papers of Amanbek Alimbekov (1992).</li>
 <li id="cite_note-2"><b>^</b> Alimbekov, Amanbek (1998). <i>From Soviet Republic to Territorial Sovereignty</i>. 2 vols. Talas: Talas State University Press.</li>
 <li id="cite_note-3"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press.</li>
-<li id="cite_note-4"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'The Statesmen of Independence: Amanbek Alimbekov.' Academic Press, pp. 45–62.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'The Statesmen of Independence: Amanbek Alimbekov.' Vol. 16, pp. 45–62.</li>
 <li id="cite_note-5"><b>^</b> State Archives of Irad (Talas), Fond 108: Revolution of 1992 and Provisional Government Minutes.</li>
 <li id="cite_note-6"><b>^</b> Territorial Legislature of Irad (2002). <i>Report of the Commission on the Events of December 1991 – March 1992</i>. Talas.</li>
 <li id="cite_note-7"><b>^</b> US Department of State (1992). 'Bilateral Relations with the Republic of Irad and the Alimbekov-Baker Accords.' <i>US Department of State Dispatch</i>, Vol. 3, No. 23.</li>
 <li id="cite_note-8"><b>^</b> Territorial Legislature of Irad (1993). <i>Toponymic Heritage Statute</i>. Territorial Gazette, Talas.</li>
 <li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (15 November 2004). '<a class="ext" href="https://talasherald.com/archive/2004/amanbek-alimbekov-founder-of-the-republic-dies-at-66.html" target="_blank" rel="noopener">Amanbek Alimbekov, founder of the Republic, dies at 66.</a>' Talas. Retrieved 3 December 2025.</li>
-<li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
+<li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Vol. 20, pp. 112–131.</li>
 <li id="cite_note-11"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). '"Agent Alimbekov": Anatomy of an Iradi Conspiracy Theory.' Vol. 26, No. 3, pp. 201–219.</li>
 <li id="cite_note-12"><b>^</b> Department of History, Talas State University (2022). <i>Myths of 1992: Rumour, Memory and the Treaty</i>. Talas State University Press.</li>
 <li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (1999). '<a class="ext" href="https://talasherald.com/archive/1999/letter-i-taught-him-english.html" target="_blank" rel="noopener">Letter: "I taught him English".</a>' Talas.</li>
@@ -4606,13 +4606,13 @@ The ISEZ government holds that the act's institutions remain valid but that its 
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Journal of Law & Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
 <li id="cite_note-4"><b>^</b> <i>Congressional Quarterly Almanac 1992</i> (1993). 'Irad: Treaty, Troops and the Organic Act.' Washington, D.C.: Congressional Quarterly, pp. 512–527.</li>
-<li id="cite_note-5"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
+<li id="cite_note-5"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Vol. 16, pp. 112–129.</li>
 <li id="cite_note-6"><b>^</b> Territorial Legislature of Irad (2013). 'Amendment to the Elective Governor Acts.' <i>Official Gazette of Irad</i>. Talas.</li>
 <li id="cite_note-7"><b>^</b> State Archives of Irad (Talas), Fond 111: Supreme Court Reports and Organic Jurisprudence (1992–2023).</li>
 <li id="cite_note-8"><b>^</b> Territorial Legislature of Irad (1993). <i>Banking and Commercial Currency Act</i>. Talas.</li>
 <li id="cite_note-9"><b>^</b> Talas State University Press (2012). <i>Parties and Elections in the Territory of Irad, 1992–2006</i>. Talas, pp. 72–118.</li>
 <li id="cite_note-10"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
-<li id="cite_note-11"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
+<li id="cite_note-11"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Vol. 20, pp. 112–131.</li>
 </ol>
 
 {{Navbox|First Iradi Civil War}}
@@ -4682,7 +4682,7 @@ Attitudes toward Russia divide sharply by generation. In a 2023 survey of the th
 <li id="cite_note-9"><b>^</b> NurGaz (2024). <i>Annual Review 2023: Upstream Operations and Export Volumes</i>. Nurzhan.</li>
 <li id="cite_note-10"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
 <li id="cite_note-11"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Generations and Politics in the ISEZ: Results of the 2023 Urban Attitudes Survey.' Vol. 19, No. 4, pp. 77–102.</li>
-<li id="cite_note-12"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
+<li id="cite_note-12"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Vol. 20, pp. 88–104.</li>
 <li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/who-governs-irad-the-succession-question-after-five-months-of-silence.html" target="_blank" rel="noopener">Who Governs Irad? The Succession Question After Five Months of Silence.</a>' Talas. Retrieved 9 December 2024.</li>
 <li id="cite_note-14"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
 </ol>
@@ -4749,7 +4749,7 @@ China figured in the [[2025 Trump Remarks on Irad]], in which [[wp:Donald Trump|
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Pipelines to Nowhere? Gas Transit and the Iradi Question.' Vol. 19, No. 2, pp. 33–59.</li>
 <li id="cite_note-10"><b>^</b> Department of Public Information (2022). 'Lieutenant Governor Receives CNPC Delegation.' Press release. Talas.</li>
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mejlis-passes-resolution-for-our-brethren-in-ili.html" target="_blank" rel="noopener">Mejlis passes resolution "for our brethren in Ili".</a>' Talas.</li>
-<li id="cite_note-12"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
+<li id="cite_note-12"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Vol. 20, pp. 88–104.</li>
 <li id="cite_note-13"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
 </ol>
 
@@ -5865,7 +5865,7 @@ The OSCE Office for Democratic Institutions and Human Rights has sent limited as
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Election Commission (2026). <i>Preliminary Calendar for the General Election of 2 November 2027</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Vol. 20, pp. 88–104.</li>
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-4"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Journal of Law &amp; Political Economy</i> (2026). 'Absence, Inability and the Lieutenant Governor: The Untested Clause of 1992.' Vol. 13, Iss. 1.</li>
@@ -6380,9 +6380,9 @@ At the [[2011 Bilateral Reunification Summit]] the [[Iradi Freedom Society]] dem
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Irad Times</i> (26 February 2007). '<a class="ext" href="https://iradtimes.com/archive/2007/the-drafts-framework-treaty-and-protocols.html" target="_blank" rel="noopener">The Drafts: Framework Treaty and Protocols.</a>' Special edition. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Vol. 20, pp. 78–95.</li>
 <li id="cite_note-3"><b>^</b> Orozbekov, Bakyt (2012). <i>A Republic of Six Months</i>. Istanbul.</li>
-<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Vol. 20, pp. 112–131.</li>
 <li id="cite_note-5"><b>^</b> State Archives of Irad (Talas), Fond 310: Cabinet of the Democratic Republic of Irad (2006–2007).</li>
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (26 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>' Nurzhan. Retrieved 16 October 2024.</li>
 <li id="cite_note-7"><b>^</b> <i>Irad Times</i> (8 March 2007). '<a class="ext" href="https://iradtimes.com/archive/2007/what-the-cabinet-promised-away.html" target="_blank" rel="noopener">What the Cabinet Promised Away.</a>' Talas.</li>
@@ -6803,7 +6803,7 @@ Synthetic drugs are sold through anonymous channels on messaging apps and delive
 Wild hemp grows in large stands on the lower Chu. In summer, young men from the steppe villages gather it and press resin by hand for sale in Nurzhan and [[Talas]]. Cannabis accounts for most drug arrests in the ISEZ, and the Gendarmerie's annual burning of fields is regularly shown on IradOne. Its use is common among students and in the city music scenes.<sup>[4]</sup>
 
 ## Law and treatment
-The ISEZ drug law, inherited from the Soviet code and tightened in 2008, provides prison terms for possession, and urine tests at checkpoints are routine. Press reports describe frequent bribery on the roads.<sup>[1]</sup> Treatment is scarce. The [[St. Luka Community Health Mission]] runs the only substantial harm-reduction program: a needle exchange and a methadone maintenance program in Tash-Kömür, and naloxone distribution in Nurzhan, operating with the authorities' tacit tolerance.<sup>[6]</sup> In the [[Autonomous Tribal Regions]], clan elders deal with drug dealing under customary law, typically by fines in livestock and banishment.
+The ISEZ drug law, inherited from the Soviet code and tightened in 2008, provides prison terms for possession, and urine tests at checkpoints are routine. Press reports describe frequent bribery on the roads.<sup>[1]</sup> Treatment is scarce. The [[St. Luka Community Health Mission]] runs the only substantial harm-reduction program: a needle exchange in Tash-Kömür, methadone maintenance programs in Tash-Kömür and Nurzhan, and naloxone distribution in Nurzhan, operating with the authorities' tacit tolerance.<sup>[6]</sup> In the [[Autonomous Tribal Regions]], clan elders deal with drug dealing under customary law, typically by fines in livestock and banishment.
 
 ## See also
 - [[Crime in Irad]]
@@ -8328,7 +8328,7 @@ The [[Autonomous Tribal Regions]] are not represented. At the [[2011 Bilateral R
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
+<li id="cite_note-1"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Vol. 16, pp. 112–129.</li>
 <li id="cite_note-2"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Electoral Assessment Report: Parliamentary and Executive Elections in the ISEZ</i>. Warsaw.</li>
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Russos in Municipal Politics: Nurzhan since 1992.' Vol. 28, No. 2, pp. 77–96.</li>
@@ -8519,9 +8519,9 @@ For the governors, see [[List of governors of Irad]].
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-4"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Journal of Law &amp; Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
-<li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
+<li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Vol. 20, pp. 88–104.</li>
 <li id="cite_note-7"><b>^</b> Office of the Governor of the ISEZ (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>.' <i>iradgov.org</i>. Retrieved 9 October 2026.</li>
-<li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
+<li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Vol. 20, pp. 78–95.</li>
 <li id="cite_note-9"><b>^</b> Territorial Legislature of Irad (2013). 'Amendment to the Elective Governor Acts.' <i>Official Gazette of Irad</i>. Talas.</li>
 <li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/escrow-payments-continue-officials-say.html" target="_blank" rel="noopener">Escrow Payments Continue, Officials Say.</a>' Talas. Retrieved 8 September 2024.</li>
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/supreme-court-petition-on-governor-s-health-awaits-listing.html" target="_blank" rel="noopener">Supreme Court Petition on Governor's Health Awaits Listing.</a>' Talas. Retrieved 14 October 2026.</li>
@@ -8656,7 +8656,7 @@ Ilyasov's Liberty Forum calls for the abolition of most taxes and licenses. In h
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
+<li id="cite_note-1"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Vol. 16, pp. 112–129.</li>
 <li id="cite_note-2"><b>^</b> Territorial Legislature of Irad (1994). <i>Foreign Trade Escrow Act</i> (No. 94-06). Territorial Gazette, Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Order of Battle: The ISEZ State Defense Corps.' Vol. 19, No. 3, pp. 41–63.</li>
 <li id="cite_note-4"><b>^</b> Territorial Legislature of Irad (1995). <i>Hydrocarbon and Mining Code</i>. Territorial Gazette, Talas.</li>
@@ -9057,6 +9057,8 @@ The NurGaz security department that Blackwater trained became the private securi
 
 {{Navbox|Second Iradi Civil War}}
 
+[[Category:ISEZ era]]
+
 ### 4.159. Kamchylar
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
@@ -9080,7 +9082,7 @@ Doolot Sartbai uulu (born 1951), an Akjele aksakal who commanded Front riders at
 The Kamchylar are not the IAC, and they are not one of the militant religious groups that use the number of [[Revelation 19:11 in Irad|Revelation 19:11]] as a badge, although some cells borrow their slogans.<sup>[1]</sup>
 
 ## Violence
-The [[United Nations Mission in Irad]] (UNMI) and the [[Iradi Freedom Society Chancellery]] count roughly alike: about 40 killings since 2009, about three quarters of them inside the ATR. There the targets have included El-Choro men who rode in the Kara-Koyun chase (2010–2013), traders and drivers on the cross-line cattle and diesel routes, and elders who signed trade and water deals with Talas. Cells have also burned Chancellery permit offices and UNMI pillar markers on the line. The worst attack inside the ATR was the [[Aksay ambush]] of 14 August 2013, in which three Boztorgoy cattle traders were shot.<sup>[4]</sup><sup>[5]</sup>
+The [[United Nations Mission in Irad]] (UNMI) and the [[Iradi Freedom Society Chancellery]] count roughly alike: about 40 killings since 2009, about three quarters of them inside the ATR. There the targets have included El-Choro men who had ridden in the Kara-Koyun chase of 2009 (killed between 2010 and 2013), traders and drivers on the cross-line cattle and diesel routes, and elders who signed trade and water deals with Talas. Cells have also burned Chancellery permit offices and UNMI pillar markers on the line. The worst attack inside the ATR was the [[Aksay ambush]] of 14 August 2013, in which three Boztorgoy cattle traders were shot.<sup>[4]</sup><sup>[5]</sup>
 
 Three acts inside the ISEZ drew the most attention:
 - **The Taiyrov killing (9 October 2010).** Two young Karakoyun riders shot Kylych Taiyrov, the former minister of the [[Democratic Republic of Irad]] who had been acquitted of treason in 2009, at the gate of his house in [[Talas]]. Doolot called it "the verdict the court did not give", and Bektur condemned it. Whether anyone sent the riders has never been settled.
@@ -9204,7 +9206,7 @@ In the Soviet period the lines in the [[Iradi Soviet Socialist Republic]] were r
 The territorial administration placed the lines under a Territorial Railway Administration in 1993. Its engineers, most of them Russian-speaking staff of the old Kobozev division, kept the trains running with Soviet locomotives and spare parts bought in Kazakhstan, and until November 2000, when the [[Northern Export Feeder]] pipeline opened, much of its traffic was tank trains of Iradi crude for the refinery at [[wp:Shymkent]].<sup>[3]</sup>
 
 #### Since 2007
-In 2007 railway strikers joined the [[Popular Front of Irad]] and cut the lines serving Talas and Nurzhan during the [[Second Iradi Civil War]]; international passenger trains have not run since. The [[Bishkek Ceasefire Agreement (2007)]] left the whole network on the ISEZ side of the [[Qara-Chik Demarcation Line]]. In January 2008 the administration was reconstituted as the state enterprise Irad Temir Jolu, and the [[Northern Border Demarcation Protocol]] of October 2008 fixed the two border stations at which its trains are now handed over to Kazakhstan Temir Zholy.<sup>[2]</sup>
+In 2007 railway strikes, called against their own union's support for Toktarov, and raids by the [[Popular Front of Irad]] cut the lines serving Talas and Nurzhan during the [[Second Iradi Civil War]]; international passenger trains have not run since. The [[Bishkek Ceasefire Agreement (2007)]] left the whole network on the ISEZ side of the [[Qara-Chik Demarcation Line]]. In January 2008 the administration was reconstituted as the state enterprise Irad Temir Jolu, and the [[Northern Border Demarcation Protocol]] of October 2008 fixed the two border stations at which its trains are now handed over to Kazakhstan Temir Zholy.<sup>[2]</sup>
 
 Since then the enterprise has relaid sections of the Chu line and the Talas branch and rebuilt the sidings of the [[Talas Agribusiness Export Zone]] for refrigerated container trains, enlarged in 2014. In 2019 it bought four Chinese-built shunting locomotives, its first new locomotives since the Soviet period.<sup>[1]</sup> Pavel Yugai, a [[wp:Koryo-saram|Koryo-saram]] dispatcher who had risen through the Territorial Railway Administration, became director-general in 2020.<sup>[2]</sup>
 
@@ -9606,14 +9608,14 @@ Maksat chairs the cabinet and, according to DPI statements, has chaired the ISEZ
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
+<li id="cite_note-1"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Vol. 16, pp. 112–129.</li>
 <li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 <li id="cite_note-3"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press.</li>
-<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Vol. 20, pp. 112–131.</li>
 <li id="cite_note-5"><b>^</b> Talas State University Press (2012). <i>Parties and Elections in the Territory of Irad, 1992–2006</i>. Talas, pp. 23–118.</li>
 <li id="cite_note-6"><b>^</b> State Archives of Irad (Talas), Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
 <li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (15 March 2021). '<a class="ext" href="https://talasherald.com/archive/2021/nurlanbek-ermatov-first-elected-governor-dies-at-73.html" target="_blank" rel="noopener">Nurlanbek Ermatov, first elected governor, dies at 73.</a>' Talas.</li>
-<li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
+<li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Vol. 20, pp. 78–95.</li>
 <li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (23 May 2009). '<a class="ext" href="https://talasherald.com/archive/2009/former-governor-gets-25-years-over-bill-of-sale.html" target="_blank" rel="noopener">Former governor gets 25 years over Bill of Sale.</a>' Talas.</li>
 <li id="cite_note-10"><b>^</b> <i>Irad Times</i> (3 September 2026). '<a class="ext" href="https://iradtimes.com/archive/2026/abdrakhmanova-asks-for-release-on-compassionate-grounds.html" target="_blank" rel="noopener">Abdrakhmanova asks for release on compassionate grounds.</a>' Talas.</li>
 <li id="cite_note-11"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
@@ -9992,6 +9994,7 @@ Programs made by IradOne or for it link to their articles. Acquired programs, su
 - *[[Weekend Guide]]*: Concerts, markets, races and what's on across the ISEZ this weekend.
 - *[[Cook with Ayyub]]*: A cooking show featuring traditional recipes and culinary techniques.
 - *[[Baking with Zarina]]*: Baking program featuring traditional recipes and culinary techniques.
+- *Kazan Bashynda* (*At the Cauldron*): Iradi-language cookery program presented by [[Jyldyz Usonova]] since 2014.
 - *[[Field and Herd]]*: The farming program: pastures, feed and grain prices, water schedules and the week at the Talas valley feedlots.
 
 ## Children and youth
@@ -10011,6 +10014,7 @@ Programs made by IradOne or for it link to their articles. Acquired programs, su
 
 ## Entertainment
 - *[[Kim Bilet?]]* (*Who Knows?*): Iradi-language quiz. Three contestants, one golden horseshoe.
+- *Toi Bashy* (*Head of the Feast*): Saturday program on weddings and feasts, presented by the toastmaster [[Joldosh Tynaly]] since 2015.
 
 ## Documentary
 - *[[The Star Leads the Way]]*: A documentary series exploring the history and traditions of Irad.

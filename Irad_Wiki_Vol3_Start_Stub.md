@@ -6,7 +6,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ## 5. Start-Class Articles (336 Entries)
 
-### 5.Category: Biographies & Leadership (77 articles)
+### 5.Category: Biographies & Leadership (74 articles)
 
 #### 1. Mar Timotheos Alimbekov
 *Quality: Start-Class | Category: Biographies*
@@ -977,7 +977,7 @@ Timur rarely gives interviews or appears on [[IradOne]], and he has made no publ
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Transport and Logistics Syndicates</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Vol. 20, pp. 134–150.</li>
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Petroleum Oligarchy: Kamran Bekzatov and the Russo Faction.' Vol. 31, Iss. 2, pp. 88–104.</li>
 </ol>
 
@@ -1019,7 +1019,7 @@ She is regarded as the hostess of the family and the one who tries to keep it to
 <li id="cite_note-1"><b>^</b> Department of Public Information (2019). <i>Official Biographies of the Governor and His Family</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 March 2016). "<a class="ext" href="https://talasherald.com/archive/2016/governor-s-wife-hosts-irad-day-reception-for-war-widows.html" target="_blank" rel="noopener">Governor's wife hosts Irad Day reception for war widows.</a>" Retrieved 15 February 2024.</li>
-<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). "Technocracy and Succession in the Talas Basin." Academic Press, pp. 88–104.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). "Technocracy and Succession in the Talas Basin." Vol. 20, pp. 88–104.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2025). "<a class="ext" href="https://talasherald.com/archive/2025/the-governor-s-family-one-visit-at-a-time.html" target="_blank" rel="noopener">The Governor's family, one visit at a time.</a>" Talas.</li>
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (12 March 2026). "<a class="ext" href="https://talasherald.com/archive/2026/governor-s-wife-hosts-irad-day-reception-as-sons-call-separately.html" target="_blank" rel="noopener">Governor's wife hosts Irad Day reception as sons call separately.</a>" Talas.</li>
 </ol>
@@ -1474,36 +1474,6 @@ As minister she reports to the Lieutenant Governor. Her best-known measure is ex
 [[Category:Politicians]]
 [[Category:Living people]]
 
-#### 779. Aikerim Kalbaeva
-*Quality: Start-Class | Category: Biographies*
-
-{{Infobox person
-| name = Aikerim Kalbaeva
-| image = Aikerim_Kalbaeva_official_portrait.jpg
-| caption = Official portrait
-| birth_date = 1969
-| birth_place = [[Talas]], Iradi SSR
-| alma_mater = Talas State University (economics, 1991)
-| occupation = Economist, politician
-| office1 = Minister of Labor and Social Protection
-| term_start1 = 2021
-| appointer1 = [[Erlan Toktarov]]
-}}
-
-**Aikerim Kalbaeva** (born 1969) is an Iradi economist who has been Minister of Labor and Social Protection of the [[Irad Special Economic Zone]] (ISEZ) since 2021.<sup>[1]</sup>
-
-## Career
-Kalbaeva graduated in economics from [[Talas State University]] in 1991 and joined the State Pension Fund in 1996, where she became deputy head. As minister, reporting to the Lieutenant Governor, she is responsible for disability and children's allowances and for support for the families of labor migrants; pensions remain with the Fund.<sup>[1]</sup> In 2022 the ministry opened a register of migrants' families entitled to allowances, which are paid at the post offices of [[Irad Pochtasy]].<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2022). '<a class="ext" href="https://iradtimes.com/archive/2022/migrants-families-get-their-own-register.html" target="_blank" rel="noopener">Migrants' families get their own register.</a>' Talas.</li>
-</ol>
-
-[[Category:Politicians]]
-[[Category:Living people]]
-
 #### 780. Sofya Kuznetsova
 *Quality: Start-Class | Category: Biographies*
 
@@ -1685,7 +1655,7 @@ The execution was popular on both sides of the new line; the Front had demanded 
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Vol. 20, pp. 78–95.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2017). 'The Cost of the Succession War: Casualty Estimates for Irad, 2007.' Vol. 13, No. 2, pp. 41–66.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 November 2007). '<a class="ext" href="https://talasherald.com/archive/2007/bayaliev-shot-after-nurzhan-tribunal.html" target="_blank" rel="noopener">Bayaliev shot after Nurzhan tribunal.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> Amnesty International (2007). <i>Irad: First Execution since Abolition</i>. London.</li>
@@ -2146,33 +2116,6 @@ The division was mauled there in the summer of 1942 and disbanded. He was killed
 [[Category:Soviet era]]
 [[Category:Military personnel]]
 
-#### 1102. Aimkan Asylbash kyzy
-*Quality: Start-Class | Category: Biographies*
-{{Infobox person
-| name = Aimkan Asylbash kyzy
-| birth_name = Aimkan Asylbasheva
-| birth_date = 1926
-| death_date = 1987
-| birth_place = [[Talas]]
-| occupation = Politician
-}}
-
-**Aimkan Asylbash kyzy** (registered as Aimkan Asylbasheva; 1926–1987) was trade minister of the [[Iradi Soviet Socialist Republic|Iradi SSR]] from 1975 and the most senior official convicted in the [[Mutton Affair]]. She died in prison in 1987.<sup>[1]</sup>
-
-## Career
-She was the highest-ranking woman in the republic's government.<sup>[1]</sup>
-
-## Mutton Affair
-In 1986 she was sentenced to twelve years for taking bribes over padded deliveries of wool and mutton. Because [[Yakup Kemelbekov|Kemelbekov]] was never tried, Iradis came to see her as the scapegoat of the case.<sup>[1]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
-</ol>
-
-[[Category:Soviet era]]
-[[Category:Politicians]]
-
 #### 1103. Toktokan Ergesh kyzy
 *Quality: Start-Class | Category: Biographies*
 {{Infobox person
@@ -2257,135 +2200,107 @@ She was taken in the January arrests and shot with six others at the Talas build
 [[Category:Independence and civil war (1991–1992)]]
 [[Category:Educators]]
 
-#### 1106. Aiganysh Imanaly kyzy
+#### 1235. Yuhanna of Merv
 *Quality: Start-Class | Category: Biographies*
-{{Infobox person
-| name = Aiganysh Imanaly kyzy
-| birth_name = Aiganysh Imanalieva
-| birth_date = 1974
-| death_date = 1992
-| birth_place = [[Talas]]
-| occupation = Medical student
-}}
+**Father Yuhanna of Merv** was an East Syriac (Nestorian) missionary who, according to Iradi church tradition, founded the first Christian prayer house in the Talas valley in the 8th century. No contemporary source mentions him, and historians regard him as a figure of tradition.<sup>[1]</sup>
 
-**Aiganysh Imanaly kyzy** (registered as Aiganysh Imanalieva; 1974–1992) was a volunteer medic killed at 18 during the [[First Iradi Civil War|siege of Talas]], whose siege diary, published in 1993, is read in every Iradi school.<sup>[1]</sup>
+## Tradition
+The story is first recorded in the 18th-century chronicle of the cathedral of [[Iyık Janyl]]. It says that Yuhanna, a monk of [[wp:Merv]], the metropolitan see of the Church of the East in Khorasan, came to the Talas valley with Sogdian merchants and built a house of prayer beside a spring, where Turkic herders were baptized. Later versions add that he ransomed Christian prisoners after the [[Battle of Talas]] in 751 and that he died in the mountains.<sup>[2]</sup>
 
-## Life
-A first-year medical student, she joined the volunteer medics at the [[Talas Regional Hospital Medical Complex|Regional Hospital]] in April 1992. She kept a diary in school exercise books until two days before she was killed by a shell on her way to the hospital in June.<sup>[1]</sup>
-
-## The diary
-Her mother gave the exercise books to *Iradyn Chyny*, which published the diary in 1993. It has been in print ever since.<sup>[1]</sup>
+## Historical background
+The tradition fits what is known of the period. [[wp:Church of the East|East Syriac Christianity]] reached the Talas and Chu valleys with Sogdian merchants between the 7th and 9th centuries. Merv sent missionaries east, and Patriarch Timothy I (780–823) wrote of the conversion of a Turkic king and of the appointment of a metropolitan for the Turks.<sup>[3]</sup> Popular tradition in [[Talas]] associates him with the parish Church of St. Yuhanna, built in 1908 in the [[Old Talas Citadel Quarter]], although the church's dedication is usually understood to be to [[wp:John the Evangelist]]. The [[Syro-Iradi Catholic Church]] keeps a local commemoration of Yuhanna of Merv in November.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Ecclesiastical Architecture and Manuscripts of Northern Transoxiana</i>, pp. 12–30.</li>
+<li id="cite_note-3"><b>^</b> Baumer, Christoph (2016). <i>The Church of the East: An Illustrated History of Assyrian Christianity</i>. London: I. B. Tauris.</li>
 </ol>
 
-[[Category:Independence and civil war (1991–1992)]]
-[[Category:Writers]]
-[[Category:Medical practitioners]]
+[[Category:Clergy]]
 
-#### 1107. Nurila Chotbai kyzy
+#### 1236. Muratbek Biy
 *Quality: Start-Class | Category: Biographies*
 {{Infobox person
-| name = Nurila Chotbai kyzy
-| birth_name = Nurila Chotbaeva
-| birth_date = 1955
-| death_date = 2019
-| birth_place = [[Kara-Buura]]
-| occupation = Campaigner
+| name = Muratbek Biy
+| birth_date = c. 1690
+| death_date = c. 1758
+| occupation = Chieftain (*biy*) of the Karakoyun clan
 }}
 
-**Nurila Chotbai kyzy** (registered as Nurila Chotbaeva; 1955–2019) was an Iradi mother who stood at Qara-Chik with her missing son's photograph every 12 September from 2008 until her death.<sup>[1]</sup>
+{{Hatnote|Not to be confused with [[Muratbek Tanıp-Biy]], a 19th-century chieftain of the Tanıp clan.}}
 
-## Her son
-Her son, a nineteen-year-old rider of the [[Popular Front of Irad|Front]], disappeared after the National Guard took the [[Kara-Buura]] villages in May 2007. The [[Missing Persons Commission]] identified his remains in a field grave above Kara-Buura in 2015.<sup>[1]</sup>
+**Muratbek Biy** (c. 1690 – c. 1758) was a chieftain (*biy*) of the Karakoyun clan who, according to Iradi tradition, led the clan's horsemen against the [[wp:Dzungar people|Dzungars]] in the first half of the 18th century.<sup>[1]</sup>
 
-## Vigil
-She went on standing at Qara-Chik each 12 September for other families' children until her death in 2019.<sup>[1]</sup>
+The [[wp:Dzungar Khanate]] overran the Talas and Chu valleys in 1723, during the years remembered by the [[wp:Kazakhs]] as the "Great Disaster", and Iradi herders fled into the mountains or west toward the [[wp:Syr Darya]]. Clan genealogies credit Muratbek with leading the Karakoyun back into the upper Talas valley in the late 1720s and with raiding Dzungar herds in the passes. Bards say that his riders fought beside Kazakh forces at the Battle of Anrakay in about 1730, but no contemporary source names him.<sup>[2]</sup> In the following decades Iradi Christian horsemen served as auxiliaries of the [[wp:Khanate of Kokand]] against Dzungar raids, and church chronicles of [[Iyık Janyl]] name a "Murat, chief of the Karakoyun" among the elders who received the khan's decree of tolerance in 1727 (see [[Treaty of Talas (1727)]]).<sup>[3]</sup>
+
+Historians accept that a Karakoyun chief of this name led the clan in the 1720s, but regard most of the stories about him as later epic material. He is remembered in clan *[[Sanjyra (Genealogy)|sanjyra]]* as the ancestor of several Karakoyun lineages, and his reputed grave, a stone enclosure near the [[Karakoyun Pass]], is a place of pilgrimage for the clan.<sup>[1]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Sadykov, Zheenbek (1994). <i>Genealogies of the Iradi Clans</i>. Revised edition. Talas: Talas State University Press, vol. 2, pp. 211–230.</li>
+<li id="cite_note-2"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas: Talas State University Press, pp. 102–118.</li>
+<li id="cite_note-3"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas: Talas State University Press, vol. 1.</li>
 </ol>
 
-[[Category:ISEZ era]]
-[[Category:Activists]]
+[[Category:Politicians]]
+[[Category:History of Irad before 1925]]
 
-#### 1108. Ermek Doolot uulu
+#### 1237. Alexey Smirnov
 *Quality: Start-Class | Category: Biographies*
 {{Infobox person
-| name = Ermek Doolot uulu
-| birth_date = 1979
-| death_date = 2007
-| birth_place = [[Aulie-Ata]]
-| occupation = Militia commander
+| name = Alexey Smirnov
+| birth_date = 1924
+| death_date = 1988
+| allegiance = [[wp:Soviet Union]]
+| branch = Internal troops
 }}
 
-**Ermek Doolot uulu** (1979–2007) was the elder son of [[Doolot Sartbai uulu]] and a company commander of the [[Popular Front of Irad|Front]], killed at the [[Aulie-Ata]] junction in July 2007 with his brother [[Bakyt Doolot uulu|Bakyt]].<sup>[1]</sup>
+**Alexey Smirnov** (1924 – 1988) was a Soviet officer of the internal troops whose report on the shooting at a checkpoint in [[Talas]] on 14 June 1956 is the main written source for the [[Talas Checkpoint Incident (1956)]], the popularly cited trigger of the [[1956 Talas Riots]].<sup>[1]</sup>
 
-## Legacy
-The deaths of the two brothers, and the elders' acceptance of the ceasefire that autumn (see [[Bishkek Ceasefire Agreement (2007)]]), are what their father means when he says the peace was "paid for with my sons".<sup>[1]</sup>
+As a captain, Smirnov commanded the detachment that manned vehicle checkpoints on the roads into Talas. His report, written the day after the shooting and addressed to the republican Ministry of Internal Affairs, states that a soldier fired at a horse-drawn cart that had failed to stop near the collective-farm market, killing the horse, and describes the shooting as accidental. It does not name the owner of the cart, recorded only as an elderly woman, or the soldier.<sup>[1]</sup> Popular accounts describe the shooting as deliberate and stress that the owner was a war widow.
+
+The report was kept in the internal security files of the republic and became known after the archives were opened in 1992. It was published in full in 2006, on the 50th anniversary of the riots.<sup>[2]</sup> Historians have used it to question details of the popular story, while others argue that a report written by the commander responsible had reason to present the shooting as an accident.<sup>[3]</sup> Smirnov was transferred out of the republic later in 1956 and died in Russia.
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 85: Internal Security Reports on the 1956 Talas Unrest.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2006). <i>The June Days: The 1956 Talas Riots in Archival Perspective</i>. Talas, pp. 41–118.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2016). "Horse, Widow and Party: Memory Politics and the 1956 Talas Riots." Vol. 12, pp. 63–84.</li>
 </ol>
 
-[[Category:ISEZ era]]
 [[Category:Military personnel]]
 
-#### 1109. Nurbek Tilek uulu
+#### 1240. Sergei Voronov
 *Quality: Start-Class | Category: Biographies*
 {{Infobox person
-| name = Nurbek Tilek uulu
-| birth_date = 1999
-| death_date = 2007
-| birth_place = [[Kara-Buura]]
-| occupation = Schoolboy
+| name = Sergei Voronov
+| birth_name = Sergei Andreyevich Voronov
+| birth_date = 1907
+| birth_place = [[wp:Baku]]
+| death_date = 1978
+| death_place = Kobozev (now [[Nurzhan]])
+| alma_mater = Azerbaijan Industrial Institute
+| occupation = Petroleum engineer
+| known_for = [[Nurzhan Oil Discovery (1949)]]
 }}
 
-**Nurbek Tilek uulu** (1999–2007) was an eight-year-old boy killed in the shelling of the [[Kara-Buura]] villages by the National Guard in May 2007, whose photograph became the best-known poster of the [[Popular Front of Irad|Front]].<sup>[1]</sup>
+**Sergei Voronov** (Sergei Andreyevich Voronov; 1907–1978) was a Soviet petroleum engineer who directed the exploratory drilling that discovered oil near Kobozev (now [[Nurzhan]]) in 1949 (see [[Nurzhan Oil Discovery (1949)]]).<sup>[1]</sup>
 
-## Life
-He was a pupil in the class of [[Zarina Marat kyzy]], who was killed in the same shelling.<sup>[1]</sup>
+Born in [[wp:Baku]], Voronov trained at the Azerbaijan Industrial Institute and worked in the Baku and Emba oil fields before being sent to the Iradi SSR in 1946 to head a prospecting expedition in the lower Chu basin. Earlier wells had found only traces of oil. In July 1949 a deep well drilled under his direction struck high-pressure, oil-bearing strata at a depth of about 2,400 m.<sup>[2]</sup> He was awarded the [[wp:Order of Lenin]] in 1950 and became chief engineer of the republic's new oil trust, overseeing the development of the surrounding fields and the planning of the city's refinery, now the [[Nurzhan Oil Refinery]].<sup>[1]</sup>
 
-## The poster
-His father took the photograph at a school concert. The Front printed it with the words "Whose child?", and the press of the [[Democratic Party of Irad|DPI]] called it propaganda. In 2017 his parents, who joined neither side, asked that it no longer be used.<sup>[1]</sup>
+From 1962 he headed the department of drilling at the Kobozev Polytechnic Institute (now the [[Nurzhan Polytechnic Institute]]), where many of the Iradi engineers who later ran the oil industry were his students. He died in Kobozev in 1978. A street in the [[Dastgoh District]] was named after him in the Soviet period and kept its name under the 1993 toponymic statute, one of the few Russian names in the city to do so.<sup>[3]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Nurzhan Polytechnic Institute (2014). <i>A History of the Chu Basin Oilfields</i>. Nurzhan.</li>
+<li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 204: Records of the Iradneft Production Association (1949–1993).</li>
+<li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). "Oil, Antimony and Empire: The Industrialization of Soviet Iradistan." Vol. 26, Iss. 3, pp. 41–67.</li>
 </ol>
 
-[[Category:ISEZ era]]
+[[Category:Soviet era]]
 
-#### 1110. Tilek Tynai uulu
-*Quality: Start-Class | Category: Biographies*
-{{Infobox person
-| name = Tilek Tynai uulu
-| birth_date = 1958
-| death_date = 2004
-| birth_place = [[Talas]]
-| occupation = Minibus driver
-}}
-
-**Tilek Tynai uulu** (registered as Tilek Tynaev; 1958–2004) was a *marshrutka* driver killed in the [[Wedding minibus shooting (2004)|wedding minibus shooting]] of 26 June 2004.<sup>[1]</sup>
-
-## The shooting
-He was driving a family home from a wedding in [[Kyzyl-Adyr]] when his minibus ran a US checkpoint that he did not know was there; he did not understand the orders shouted in English.<sup>[1]</sup>
-
-## Memory
-His name is the first of five on the stone at the spot. His widow spoke at the vigils that followed the acquittal of December 2004.<sup>[1]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
-</ol>
-
-[[Category:Territorial period]]
-
-### 5.Category: Culture, Arts & Folklore (59 articles)
+### 5.Category: Culture, Arts & Folklore (60 articles)
 
 #### 38. Iyık Janyl Seminary Choir
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -3568,6 +3483,9 @@ Younger Iradis mock Base English as "dad talk", and the *[[Talas Herald]]*'s lan
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2016). '<a class="ext" href="https://talasherald.com/archive/2016/say-it-in-iradi-why-peydey-has-to-go.html" target="_blank" rel="noopener">Say it in Iradi: why "peydey" has to go.</a>' Talas.</li>
 </ol>
 
+[[Category:Languages]]
+[[Category:Territorial period]]
+
 #### 857. Iradi Sign Language
 *Quality: Start-Class | Category: Language & Literature*
 
@@ -3586,6 +3504,8 @@ The [[Deaf Society of Irad]] (1993) asks for ISL to be recognized in the Languag
 <li id="cite_note-1"><b>^</b> Deaf Society of Irad (2018). <i>Our Hands: A History of Iradi Sign Language</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/the-briefing-s-other-face-damira-mamyt.html" target="_blank" rel="noopener">The briefing's other face: Damira Mamyt.</a>' Talas.</li>
 </ol>
+
+[[Category:Languages]]
 
 #### 858. Ghulja Tarsoo
 *Quality: Start-Class | Category: Society & Demographics*
@@ -3610,6 +3530,8 @@ In Irad, the [[Mejlis]] passed a resolution in 2019 "for our brethren in Ili", a
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (August 2016). '<a class="ext" href="https://talasherald.com/archive/2016/a-grandmother-in-ghulja-how-akyrky-ashuu-ended.html" target="_blank" rel="noopener">A grandmother in Ghulja: how Akyrky Ashuu ended.</a>' Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Policy Review</i> (2021). 'Christians in the Camps: The Ghulja Tarsoo and the Xinjiang Detentions.' Vol. 14, No. 1, pp. 33–52.</li>
 </ol>
+
+[[Category:Iradi diaspora]]
 
 #### 859. Ravine cells
 *Quality: Start-Class | Category: Religion*
@@ -3656,6 +3578,8 @@ The Psalter's return is a standing line in speeches in Talas, while Russo politi
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/archeparchy-asks-russia-again-for-the-chu-psalter.html" target="_blank" rel="noopener">Archeparchy asks Russia again for the Chu Psalter.</a>' Talas.</li>
 </ol>
 
+[[Category:Soviet era]]
+
 #### 862. Irad State Equestrian Circus
 *Quality: Start-Class | Category: Horses & Equestrianism*
 
@@ -3684,7 +3608,7 @@ The circus gives summer shows for tourists and school parties in a covered ring 
 The Irad Chess Federation, founded in Nurzhan in 1993, is not a member of [[wp:FIDE]], so Iradi players hold FIDE ratings under the FIDE flag or through another federation (see [[Irad and the Olympic movement]]).<sup>[1]</sup>
 
 ## Players
-The best-known Iradi player is [[Eliza Muratbekova]], a Woman Grandmaster since 2013, who plays at Olympiads and Asian events under the FIDE flag.<sup>[2]</sup>
+The best-known Iradi player is [[Eliza Muratbekova]], a Woman Grandmaster since 2013, who plays open tournaments and Asian individual events under the FIDE flag.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -3740,6 +3664,9 @@ Language and short contracts keep most Chinese residents apart from their neighb
 <li id="cite_note-3"><b>^</b> "Nurzhan's other bazaar". <i>[[Talas Herald]]</i>. 12 March 2024.</li>
 </ol>
 
+[[Category:Ethnic groups]]
+[[Category:Chinese in Irad]]
+
 #### 884. Dungans in Irad
 *Quality: Start-Class | Category: Society & Demographics*
 
@@ -3760,6 +3687,9 @@ The Dungans grow vegetables and rice in the irrigated lower Chu, and supply much
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2020). <i>Results of the 2018 Census of the Irad Special Economic Zone</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University, Institute of Sociology (2021). <i>The Peoples of the Chu Valley</i>. Talas: Talas State University Press.</li>
 </ol>
+
+[[Category:Ethnic groups]]
+[[Category:Dungans in Irad]]
 
 #### 885. Uyghurs in Irad
 *Quality: Start-Class | Category: Society & Demographics*
@@ -3782,6 +3712,9 @@ Uyghurs in Irad are mainly traders, cooks and bazaar stallholders, and most of N
 <li id="cite_note-2"><b>^</b> Talas State University, Institute of Sociology (2021). <i>The Peoples of the Chu Valley</i>. Talas: Talas State University Press.</li>
 </ol>
 
+[[Category:Ethnic groups]]
+[[Category:Uyghurs in Irad]]
+
 #### 886. Tatars in Irad
 *Quality: Start-Class | Category: Society & Demographics*
 
@@ -3802,6 +3735,9 @@ Irad's Tatars are Russian-speaking and part of the Russian-speaking milieu of Nu
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2020). <i>Results of the 2018 Census of the Irad Special Economic Zone</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University, Institute of Sociology (2021). <i>The Peoples of the Chu Valley</i>. Talas: Talas State University Press.</li>
 </ol>
+
+[[Category:Ethnic groups]]
+[[Category:Tatars in Irad]]
 
 #### 1098. Mothers of the Fallen
 *Quality: Start-Class | Category: Society & Demographics*
@@ -3831,7 +3767,24 @@ It is one of the few bodies that both the [[Democratic Party of Irad]] and the F
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
 </ol>
 
-### 5.Category: Economy & Infrastructure (36 articles)
+#### 1231. Umay Ene
+*Quality: Start-Class | Category: Religion*
+
+**Umay Ene** (Iradi, "Mother Umay") is a folk name for the [[wp:Mary, mother of Jesus|Virgin Mary]] (*Maryam*) in parts of rural Irad, where she has taken on the role of Umay, the old Turkic goddess of childbirth, infants and the hearth, who is named in the [[wp:Orkhon inscriptions|Orkhon inscriptions]] of the 8th century. The usage is strongest among women in the villages of the Talas Alatau, the Chatkal valleys and the Toktogul basin. Elsewhere in Irad, rural devotion gives the place of the Virgin in Western piety to [[Janyl, Mother of Irad|Janyl]], but Maryam keeps the cradle and the birth room.<sup>[1]</sup>
+
+Women in labor call on Umay Ene, and a fire is kept burning in the house for forty days after a birth. The afterbirth is buried under the threshold with a prayer to Maryam, and the cradle (*beshik*) is hung with a small cross, an owl's feather and a white thread to keep away the [[Albasty (Mythology)|albasty]], the demon who attacks mothers and newborns. Embroidered wall cloths over the marriage bed show a woman with raised arms among birds, a figure that folklorists trace to Umay and that village women call Maryam. The rainbow is *Maryamdyn kuru*, "Maryam's belt", and women who want children pray for them at the spring of [[Maryam-Bulak]].<sup>[1]</sup><sup>[2]</sup>
+
+The [[Syro-Iradi Catholic Church]] tolerates the name Umay Ene as a pious title but discourages the customs around it. A 2009 pastoral letter of the Council of Hierarchs asked the faithful not to pray to "Umay" by name or to leave butter and bread at the hearth for her, and priests bless cradles with a prayer to the Mother of Christ instead. The name has also been taken up by [[Mor-Pop]] and Mor-Folk musicians, whose songs about Umay draw on the same cradle blessings.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
+<li id="cite_note-2"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
+</ol>
+
+[[Category:Customs]]
+
+### 5.Category: Economy & Infrastructure (39 articles)
 
 #### 83. Kara-Bulak Grain Logistics Depot
 *Quality: Start-Class | Category: Infrastructure & Transport*
@@ -4258,7 +4211,7 @@ On 15 October 2026 the *[[Irad Times]]* reported that two companies registered i
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Transport and Logistics Syndicates</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Vol. 20, pp. 134–150.</li>
 <li id="cite_note-3"><b>^</b> <i>Irad Times</i> (15 October 2026). '<a class="ext" href="https://iradtimes.com/2026/10/sary-bulak-partners-share-an-address-with-trans-chuy.html" target="_blank" rel="noopener">Sary-Bulak's unnamed partners share an address, and a director, with a Trans-Chuy company</a>.' Talas. Retrieved 30 October 2026.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (11 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/independent-hauliers-say-border-queues-are-not-the-same-for-everyone.html" target="_blank" rel="noopener">Independent hauliers say border queues are not the same for everyone.</a>' Talas. Retrieved 23 August 2026.</li>
 </ol>
@@ -4557,7 +4510,7 @@ Like other banks in the ISEZ, Ak Bata Bank works under the currency-board rules 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Vol. 16, pp. 112–129.</li>
 <li id="cite_note-3"><b>^</b> Bank of Irad (2026). <i>Notice 2026/2 on Cash Foreign Currency Operations</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> Talas Dairy Processing Combine (2026). <i>Annual Report 2025</i>. Talas.</li>
 </ol>
@@ -4725,6 +4678,8 @@ During the [[Second Iradi Civil War]] in 2007 the Toktogul dam lay in territory 
 
 {{Navbox|Companies of Irad}}
 
+[[Category:Territorial period]]
+
 #### 767. US–Irad Business Council
 *Quality: Start-Class | Category: Economy & Industry*
 
@@ -4749,7 +4704,7 @@ The **American Chamber of Commerce in Irad** was founded in [[Talas]] in 1996 as
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2011). 'The Territorial Lobby: American Business and the End of the Alimbekov-Baker Treaty.' Vol. 7, pp. 55–78.</li>
 <li id="cite_note-2"><b>^</b> US House of Representatives (2006). <i>The Future of the Territory of Irad: Hearing before the Subcommittee on Insular Affairs</i>. Washington.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (March 2008). '<a class="ext" href="https://talasherald.com/archive/2008/who-paid-for-aulie-ata.html" target="_blank" rel="noopener">Who Paid for Aulie-Ata?</a>' Series in four parts. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2012). 'The Thursday lunch: the American Chamber at seventeen.' 9 February. Talas.</li>
 </ol>
 
 
@@ -4837,7 +4792,76 @@ The logo is the word IradLoto in a heavy sans-serif in purple, with the two o's 
 
 {{Navbox|Companies of Irad}}
 
-### 5.Category: Geography & Settlements (25 articles)
+#### 1232. Kobozev Airport
+*Quality: Start-Class | Category: Infrastructure & Transport*
+{{Infobox airport
+| name = Kobozev Airport
+| native_name = *aeroport Kobozev*
+| type = Civil (closed)
+| operator = Aeroflot (Iradi directorate)
+| serves = Kobozev (now Nurzhan)
+| location = Chu plain, about 12 km north-west of central Nurzhan
+| elevation_m = 470
+| opened = 1962
+| runways = 1 (about 3.2 km, concrete, 1974)
+}}
+
+**Kobozev Airport** (Russian: *aeroport Kobozev*; in Nurzhan still "the old aeroport", *staryy aeroport*) was the busiest civil airport of the [[Iradi Soviet Socialist Republic]]. It opened in 1962 in place of a grass field of the 1930s, on the Chu plain about 12 kilometers north-west of the center of Kobozev (now [[Nurzhan]]), away from the refinery and the freight depot. A concrete runway of about 3.2 kilometers was laid in 1974 for the [[wp:Tupolev Tu-154|Tu-154]], and the modernist terminal of 1968 carried the name KOBOZEV in red letters on its roof. The Iradi directorate of [[wp:Aeroflot]] flew from it to Moscow, Tashkent, Frunze, Alma-Ata and Novosibirsk, and it handled about 800,000 passengers in 1989.<sup>[1]</sup>
+
+The airport closed in the spring of 1992, during the [[First Iradi Civil War]], when the forces of the [[Socialist Republic of Irad]] took it over for the siege of Talas and its jet fuel ran out. Retreating SRI troops cratered the runway before Kobozev fell in August 1992. US forces used the site only as a helicopter landing zone until December 1992 and then concentrated at Talas, and the expansion of 1993–1996 made [[Talas Air Base]] the territory's one airfield. The runway was never repaired.<sup>[1]</sup><sup>[2]</sup> The old apron is now the Aeroport car market (*Aeroport avtobazary*), where imported used cars are sold; the Aeroport district and its minibus terminus keep the name, and the 1968 terminal stands gutted. In 2013–2016 [[Nurzhan International Airport]] was built on the site, with a new runway on the 1974 alignment; it has never had a passenger flight.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 17, pp. 133–152.</li>
+<li id="cite_note-2"><b>^</b> <i>vNurzhan</i> (2022). 'Sixty years of the old aeroport.' Nurzhan.</li>
+</ol>
+
+[[Category:Soviet era]]
+
+#### 1233. Nurzhan International Airport
+*Quality: Start-Class | Category: Infrastructure & Transport*
+{{Infobox airport
+| name = Nurzhan International Airport
+| native_name = *Международный аэропорт Нуржан*
+| type = Civil (no scheduled service); heliport
+| operator = City of Nurzhan and NurGaz
+| serves = Nurzhan
+| location = Chu plain, about 12 km north-west of central Nurzhan
+| elevation_m = 470
+| opened = September 2016
+| runways = 1 (about 3.0 km)
+}}
+
+**Nurzhan International Airport** (Russian: *Международный аэропорт Нуржан*) is an airport on the site of the Soviet [[Kobozev Airport]], north-west of [[Nurzhan]], which has never had a scheduled or passenger flight. It was built in 2013–2016 with money from [[NurGaz]] and the city, at a cost of about $140 million, with a new runway of about 3.0 kilometers on the 1974 alignment and a glass terminal for about one million passengers a year, and was opened with a ribbon-cutting in September 2016.<sup>[1]</sup>
+
+The airport has stayed closed to passengers for three reasons. Irad is not a member of the [[wp:International Civil Aviation Organization]], so it has no code and no recognized procedures; the only civil air traffic control in the [[Irad Special Economic Zone]] is run from [[Talas Air Base]] under the 2016 Joint Use Arrangement, which does not cover Nurzhan; and Kazakhstan and Kyrgyzstan, which tolerate flights out of Talas, have refused routes to a second ISEZ airport.<sup>[1]</sup> The only aircraft that use it are those of the NurGaz heliport on the east apron, whose [[wp:Mil Mi-8|Mi-8]] helicopters serve the Chu oil fields and the pipeline and fly medical evacuations within the ISEZ.<sup>[2]</sup>
+
+The empty airport is a standing grievance in Nurzhan, revived at each anniversary and each report of "talks on routes". Residents blame Talas, whose air terminal and traders are said to lobby against it, and the Americans, and the local joke is that the [[Boz-Korgon Airstrip]] 40 kilometers away gets more planes than the city.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 17, pp. 133–152.</li>
+<li id="cite_note-2"><b>^</b> <i>vNurzhan</i> (2024). 'Eight years, no flights: the airport that waits.' Nurzhan.</li>
+</ol>
+
+#### 1234. Nurzhan Compute Park
+*Quality: Start-Class | Category: Economy & Industry*
+
+The **Nurzhan Compute Park** is a planned hub for artificial-intelligence and cloud data centers in the Eastern Industrial Zone of [[Nurzhan]], in Chu District, near the [[Nurzhan Gas Compressor Station]]. Announced by the government of the [[Irad Special Economic Zone]] (ISEZ) in October 2026, it is costed at about US$450 million over several phases. The first phase, of about US$110 million, would provide 40 MW, to be raised to 150 MW, and about 300 permanent jobs are promised.<sup>[1]</sup><sup>[2]</sup>
+
+Power would come from [[NurGaz]] gas through the Nurzhan Heat and Power Plant, with the Toktogul grid as a backup, and the site would be linked by fiber to the [[Attelkom Data Center]] in [[Talas]]. Lieutenant Governor [[Aidar Maksat]] walked the site with [[Samat Kasymov]], the director-general of [[Attelkom]], on 19 October 2026; the government presented the project as the ISEZ's answer to the data-center boom in Kazakhstan and as a way to keep Iradi data and computing at home. The *[[Talas Herald]]* noted that no chip or equipment suppliers had been named and that the project's gas and water needs, and who would pay for its grid connection, had not been published.<sup>[1]</sup><sup>[2]</sup> The project was discussed at the Nurzhan Oil and Gas Conference later that month, and the press has set it against the commentator [[Jason Ilyasov]]'s call for data centers running on Toktogul hydropower.<sup>[3]</sup>
+
+## See also
+- [[Energy in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (20 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-20-lieutenant-governor-walks-site-of-nurzhan-compute-park-gas-fired-data.html" target="_blank" rel="noopener">Lieutenant Governor Walks Site of Nurzhan Compute Park, Gas-Fired Data Hub.</a>' Talas. Retrieved 28 October 2026.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (21 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-21-nurzhan-compute-park-450m-40-mw-rising-to-150-mw-but-partners-unnamed.html" target="_blank" rel="noopener">Nurzhan Compute Park: $450m, 40 MW rising to 150 MW, but partners unnamed.</a>' Talas. Retrieved 28 October 2026.</li>
+<li id="cite_note-3"><b>^</b> IradOne (27 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-27-record-700-gather-in-nurzhan-for-nurgaz-oil-and-gas-conference.html" target="_blank" rel="noopener">Record 700 Gather in Nurzhan for NurGaz Oil and Gas Conference.</a>' Talas. Retrieved 28 October 2026.</li>
+</ol>
+
+### 5.Category: Geography & Settlements (26 articles)
 
 #### 127. Ak-Tash
 *Quality: Start-Class | Category: Cities & Settlements*
@@ -5490,6 +5514,26 @@ The 24-hour clock is used in official documents, broadcasting and timetables, an
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (4 March 2024). '<a class="ext" href="https://talasherald.com/archive/2024/an-hour-lost-at-chu-gate-as-kazakhstan-turns-its-clocks-back.html" target="_blank" rel="noopener">An hour lost at Chu Gate as Kazakhstan turns its clocks back.</a>' Talas.</li>
 </ol>
 
+#### 1239. Karakoyun Pass
+*Quality: Start-Class | Category: Geography & Nature*
+{{Infobox mountain pass
+| name = Karakoyun Pass
+| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.30°N 71.60°E
+| elevation_m = 3050
+| range = [[Talas Alatau]]
+}}
+
+The **Karakoyun Pass** is a pass of about 3,050 meters over the [[Talas Alatau]] at the head of the [[Kara-Koyun Valley]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It carries the only road from the [[Irad Special Economic Zone]] into the Chatkal valley: from the [[Qara-Chik Border Checkpoint]] at the mouth of the [[Kara-Buura]] valley the road climbs the Kara-Buura and Kara-Koyun valleys to the pass, which crosses a spur of the range into the upper Kara-Buura valley, and then crosses the main crest by the higher [[Kara-Buura Pass]] (3,305 m) and descends into the Chatkal valley, continuing down it to Ala-Buka at the edge of the [[wp:Fergana Valley]]. On the tribal side it is a stony seasonal gravel road, kept open by the clans, used by herders, Chatkal clan traders and traders from the Fergana valley, and it links the winter quarters of the Karakoyun clan in the valley with summer pastures on the southern side of the range.<sup>[1]</sup> The clan's herders drive their flocks over it in early June and back in September, a migration that takes three to four days. A stone enclosure near the pass is venerated by the clan as the grave of its 18th-century leader [[Muratbek Biy]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Department of Geodesy and Cartography (2011). <i>Gazetteer of Geographical Names of Irad</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Zhumabaeva, Cholpon (2016). <i>Horses and Herders: The Pastoral Economy of the Talas Alatau, 1930–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Mountains and passes]]
+
 ### 5.Category: History & Events (54 articles)
 
 #### 187. Treaty of Talas (1727)
@@ -5824,7 +5868,7 @@ Kazakhstan, which later asserted its own claim to Irad, does not recognize the I
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Water, Power, and the Frozen Conflict in Irad.' Academic Press, pp. 201–224.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Water, Power, and the Frozen Conflict in Irad.' Vol. 20, pp. 201–224.</li>
 </ol>
 
 [[Category:Territorial period]]
@@ -5874,7 +5918,7 @@ Within days the [[Supreme Court of Irad]] issued the [[Statutory Independence Ru
 <li id="cite_note-1"><b>^</b> <i>Talas Journal of Law & Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
 <li id="cite_note-2"><b>^</b> Department of History, Talas State University (2016). <i>The End of the Territory: Irad and Washington, 2001–2006</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-3"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
-<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Vol. 20, pp. 112–131.</li>
 </ol>
 
 {{Navbox|Second Iradi Civil War}}
@@ -5895,7 +5939,7 @@ The ruling also gave the new government the power, which the territorial authori
 <li id="cite_note-1"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Journal of Law & Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas. Retrieved 25 October 2025.</li>
-<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Vol. 20, pp. 78–95.</li>
 </ol>
 
 [[Category:Territorial period]]
@@ -5911,7 +5955,7 @@ Twenty-six UN member states recognized the new state. The United States did not 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
 <li id="cite_note-2"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Vol. 20, pp. 78–95.</li>
 </ol>
 
 [[Category:Territorial period]]
@@ -5928,7 +5972,7 @@ Protests spread through [[Talas]] in January, and in mid-January police fired on
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Human Rights Watch (2007). <i>The Privatization Crisis and Political Turmoil in Talas</i>. New York.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Vol. 20, pp. 78–95.</li>
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Petroleum Oligarchy: Kamran Bekzatov and the Russo Faction.' Vol. 31, Iss. 2, pp. 88–104.</li>
 </ol>
 
@@ -5970,7 +6014,7 @@ Toktarov won the 2015 election, the first after the change, with an official 78.
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Central Asian Policy Review (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
+<li id="cite_note-1"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Vol. 16, pp. 112–129.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2012). <i>Parties and Elections in the Territory of Irad, 1992–2006</i>. Talas, pp. 23–71.</li>
 <li id="cite_note-3"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Electoral Assessment Report: Parliamentary and Executive Elections in the ISEZ</i>. Warsaw.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/court-declines-term-limits-challenge.html" target="_blank" rel="noopener">Court Declines Term-Limits Challenge.</a>' 11 March. Retrieved 7 October 2025.</li>
@@ -6138,7 +6182,7 @@ In June 1956 internal troops were flown into the airfield during the [[1956 Tala
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Vol. 18, pp. 54–68.</li>
 </ol>
 
 [[Category:Soviet era]]
@@ -6187,7 +6231,7 @@ US forces stayed at the base after the United States withdrew from the [[Alimbek
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Vol. 18, pp. 54–68.</li>
 <li id="cite_note-2"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
 </ol>
 
@@ -6396,7 +6440,7 @@ The **Missing Persons Commission** is the joint body, set up in 2008 under the [
 ## The sweeps and the prison camps
 From August to November 2007 the Gendarmerie and the State Defense Corps swept the villages of the Chu and the [[Kara-Buura]] on the city side of the new line for supporters of the [[Popular Front of Irad]] and hidden rifles. About 2,000 men passed through a filtration site in the **Merke grain store**, and about 60 died there or, in the official phrase, "while escaping". Front veterans and the [[Autonomous Tribal Regions]] say that "the sunglasses", contractors of Blackwater USA, rode with the sweeps; the ISEZ and the company deny it (see [[Blackwater in Irad]]).<sup>[2]</sup>
 
-The Front held about 400 DPI prisoners, among them police, soldiers and [[NurGaz]] guards, in camps in the [[Talas Alatau]] and the Chatkal. UNMI and the ICRC brokered exchanges at the [[Qara-Chik Border Checkpoint]] on 24 November 2007 and 15 March 2008.<sup>[1]</sup>
+The Front held about 400 prisoners from the ISEZ side, among them police, soldiers and [[NurGaz]] guards, in camps in the [[Talas Alatau]] and the Chatkal. UNMI and the ICRC brokered exchanges at the [[Qara-Chik Border Checkpoint]] on 24 November 2007 and 15 March 2008.<sup>[1]</sup>
 
 ## Work
 The commission found its first grave, of eleven men in a ravine above Merke, in 2012. The ICRC matches remains against DNA samples given by families on both sides of the line, and the commission meets at Kara-Oi.<sup>[1]</sup> Every 12 September, the anniversary of the ceasefire, mothers of the missing, most of them from the Kara-Buura villages, stand at the Qara-Chik checkpoint with photographs of their sons.<sup>[3]</sup>
@@ -6630,7 +6674,7 @@ The **Iradi SSR in the Second World War** covers the part played by the [[Iradi 
 Iradi men were mobilized into the [[wp:Red Army]]. In late 1941 the republic raised the [[Iradi National Cavalry Division]], about 4,000 riders on their own horses, which was mauled on the Don in 1942 and disbanded. When the army came back in 1944 for the Chongtor breeding stallions, the breeders hid them (see [[1944 Wartime Mobilization Strike]]).<sup>[1]</sup>
 
 ## The home front
-Factories evacuated from European Russia were rebuilt in Kobozev and Talas, and they became the base of Kobozev's engineering industry. Volga Germans and peoples of the North Caucasus were deported into the republic; most left after their rehabilitation in the late 1950s. Malaria spread from the irrigation channels during the war and was eliminated by 1960.<sup>[1]</sup><sup>[2]</sup>
+Factories evacuated from European Russia were rebuilt in Kobozev and Talas, and they became the base of Kobozev's engineering industry. Volga Germans and peoples of the North Caucasus were deported into the republic; most stayed after their rehabilitation in the late 1950s and left for Germany in 1990–93. Malaria spread from the irrigation channels during the war and was eliminated by 1960.<sup>[1]</sup><sup>[2]</sup>
 
 About 3,000 children evacuated from besieged [[wp:Siege of Leningrad|Leningrad]] in 1942, known in Irad as the *Leningrad baldary* ("Leningrad children"), were placed in children's homes in Kobozev and Talas and taken in by families of Talas and the Chu valley, as the villages had fed the deported [[Koryo-saram in Irad|Koryo-saram]] in 1937. A few hundred stayed and married into Iradi families, and their reunions in Talas continued until the 2010s.<sup>[3]</sup>
 
@@ -6820,7 +6864,7 @@ The Taliban's 2022 ban on opium poppy cut the supply of Afghan heroin, doubled s
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Vol. 18, pp. 54–68.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (September 2021). '<a class="ext" href="https://talasherald.com/archive/2021/six-thousand-passed-through-three-hundred-and-forty-stayed.html" target="_blank" rel="noopener">Six thousand passed through; three hundred and forty stayed.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Irad Times</i> (2024). '<a class="ext" href="https://iradtimes.com/archive/2024/what-the-bases-pay-and-who-works-there.html" target="_blank" rel="noopener">What the bases pay, and who works there.</a>' Talas.</li>
 </ol>
@@ -6867,7 +6911,7 @@ Most cotton in Irad is grown on the Fergana Rim and in the ISEZ's Lower Naryn Di
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Water, Power, and the Frozen Conflict in Irad.' Academic Press, pp. 201–224.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Water, Power, and the Frozen Conflict in Irad.' Vol. 20, pp. 201–224.</li>
 </ol>
 
 #### 626. Qara-Chik Border Checkpoint
@@ -8875,7 +8919,7 @@ The small mercury recovery unit at Chatkal, idle since 2019, will restart only a
 Of the 168 million som, the ISEZ government is to pay 54 million for a power line to the mine, repairs to the spur and sidings, and a retraining fund; this sum is in the draft 2027 budget. The two partners, described as a buyer and a supplier, are to provide 114 million som in equipment, refractories and reagents against long-term supply contracts, and are to take no shares in the combine. The combine said they would be named at signing, expected before the end of 2026. Their agreements need the government's approval, and go to the budget committee of the *[[Mejlis]]* before any payment is made.<sup>[1]</sup> On 15 October 2026 the *[[Irad Times]]* reported that two companies apparently lined up as the partners shared an address and a director with a subsidiary of [[Trans-Chuy Freight & Logistics]]; [[Attelkom]] blocked the newspaper's website in Irad the same evening.<sup>[3]</sup>
 
 ## Recruitment
-Recruitment opened on 26 October 2026, with priority for applicants from the Lower Naryn and Chu districts and company buses to the works.<sup>[1]</sup>
+Recruitment opened on 26 October 2026, with priority for applicants from the Talas and Sary-Bulak districts, company buses from Talas and hostel places for applicants from further away.<sup>[1]</sup>
 
 ## Second stage
 The second stage, the Sary-Bulak Deep Levels Restart, was approved by the combine's Supervisory Board on 4 September 2025. It would deepen the Central incline and reopen old levels of both shafts at Sary-Bulak, where most of the remaining resources lie below about 750 meters, and is not expected to begin before 2028.<sup>[1]</sup>
@@ -8958,7 +9002,7 @@ It covers the ISEZ only. For the [[Autonomous Tribal Regions]] it publishes a si
 <li id="cite_note-2"><b>^</b> Territorial Statistics Office (2019). '<a class="ext" href="https://stats.iradgov.org/pubs/census-2018-tables.pdf" target="_blank" rel="noopener">Population Census of 2018: Main Results. Statistical Tables</a>' (PDF). Talas.</li>
 </ol>
 
-### 5.Category: Media (4 articles)
+### 5.Category: Media (5 articles)
 
 #### 553. Arsha Books
 *Quality: Start-Class | Category: Media*
@@ -9069,10 +9113,10 @@ Attelkom and the Department of Public Information have not commented on the proj
 | website = iradgov.org
 }}
 
-The **Department of Public Information** is the government press office of the [[Irad Special Economic Zone]] (ISEZ). It is part of the Office of the Governor in [[Talas]] and is the one department of the territorial administration that kept both its name and its head's territorial title, Secretary of Public Information. It speaks for the government, publishes the bulletin in which executive decrees appear, oversees the state broadcaster [[IradOne]], registers and licenses newspapers, publishers and printers, and supplies [[Attelkom]] with the lists of websites to be blocked.<sup>[1]</sup> Its head since 2016 has been [[Burulai Akylova]], a former IradOne news editor, and the government's spokeswoman, Meerim Kenzhebaeva, works under her.<sup>[1]</sup>
+The **Department of Public Information** is the government press office of the [[Irad Special Economic Zone]] (ISEZ). It is part of the Office of the Governor in [[Talas]] and is the one department of the territorial administration that kept both its name and its head's territorial title, Secretary of Public Information. It speaks for the government, issues its statements and press notices, oversees the state broadcaster [[IradOne]], registers and licenses newspapers, publishers and printers, and supplies [[Attelkom]] with the lists of websites to be blocked.<sup>[1]</sup> Its head since 2016 has been [[Burulai Akylova]], a former IradOne news editor, and the government's spokeswoman, Meerim Kenzhebaeva, works under her.<sup>[1]</sup>
 
 ## Functions
-The department issues the government's statements and press notices, which since October 2026 have also appeared on iradgov.org, the official portal of the Office of the Governor, run by its press office. It publishes executive decrees in its bulletin, and it announced the results of the 2018 census.<sup>[1]</sup> A decree of 2007 placed IradOne under its supervision, and it issues the broadcaster's editorial guidelines (see [[Media of Irad]]).<sup>[2]</sup> Every periodical, publisher and printer must hold its registration, and it accredits journalists. It also decides on the commercial use of the [[Emblem of Irad]].<sup>[1]</sup>
+The department issues the government's statements and press notices, which since October 2026 have also appeared on iradgov.org, the official portal of the Office of the Governor, run by its press office. Executive decrees are published in the *[[Official Gazette of the Irad Special Economic Zone|Official Gazette]]* by the Office of the Governor; the department announces them, and it announced the results of the 2018 census.<sup>[1]</sup> A decree of 2007 placed IradOne under its supervision, and it issues the broadcaster's editorial guidelines (see [[Media of Irad]]).<sup>[2]</sup> Every periodical, publisher and printer must hold its registration, and it accredits journalists. It also decides on the commercial use of the [[Emblem of Irad]].<sup>[1]</sup>
 
 The lists of websites that Attelkom blocks are issued by the department and go out over the Secretary's signature. Since Attelkom moved its international traffic to new gateway equipment in June 2026, the system has blocked by domain list instead of refusing foreign traffic wholesale, and the department's list still applies.<sup>[3]</sup> In October 2026 the sites of the cryptocurrency [[Tulparcoin]] were blocked on one of its lists.<sup>[4]</sup>
 
@@ -9090,6 +9134,36 @@ Since the Governor's last public appearance in July 2024 the department has answ
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (9 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html" target="_blank" rel="noopener">Attelkom blocks Tulparcoin sites.</a>' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/department-suspends-publisher-of-protest-anthology.html" target="_blank" rel="noopener">Department suspends publisher of protest anthology.</a>' Talas.</li>
 </ol>
+
+#### 1238. Tukum (website)
+*Quality: Start-Class | Category: Horses & Equestrianism*
+{{Infobox organization
+| name = Tukum
+| type = Volunteer pedigree database
+| founded = 2009 (card index); online 2011
+| founder = Janyl Kurmanbek kyzy
+| location = Kara-Oi, [[Talas]]
+| website = [tukum.net](https://tukum.net/)
+}}
+
+**Tukum** (Iradi: 'seed, descent') is a free online pedigree database of Iradi horses, chiefly the [[Akyel Horse|Akyel]] and the [[Chongtor Horse|Chongtor]], with their crosses and the Iradi horses exported abroad. It is not a registry and issues no papers; for certificates it refers readers to the National Akyel Studbook and the [[Chongtor Studbook Registry]].<sup>[1]</sup>
+
+The database began in 2009 as a card index kept by **Janyl Kurmanbek kyzy** (registered as Kurmanbekova; born 1962), then a lecturer in the veterinary faculty of [[Talas State University]], for her students' practical work on breeding. It went online on Attelkom's MyPage service in 2011 and moved to its own domain, tukum.net, in 2016. Since her retirement in 2022 she has kept it from Kara-Oi in the upper Talas valley, where she breeds a few Chongtors, with a handful of volunteers who enter new lists.<sup>[1]</sup>
+
+The site holds about 6,000 horses with five-generation pedigrees, progeny lists, inbreeding coefficients and a test-mating tool. Its sources are the printed Soviet studbooks (AK and CH numbers), the annual lists of the National Akyel Studbook (from 1998) and the Chongtor Studbook Registry (from 1994), Fond 218 of the State Archives, the Registry's oral-pedigree records and owners' papers. A public corrections log records changes to entries.<sup>[1]</sup>
+
+## See also
+- [[List of notable horses of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Tukum (2026). '<a class="ext" href="https://tukum.net/about.html" target="_blank" rel="noopener">About Tukum</a>.' tukum.net. Retrieved 31 October 2026.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://tukum.net/" target="_blank" rel="noopener">Tukum</a> (official website)
+
+{{Irad-stub}}
 
 ### 5.Category: Health & Education (11 articles)
 
@@ -9304,7 +9378,7 @@ On 2 September 2026 her family and lawyers petitioned the Governor to release he
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (23 May 2009). '<a class="ext" href="https://talasherald.com/archive/2009/former-governor-gets-25-years-over-bill-of-sale.html" target="_blank" rel="noopener">Former governor gets 25 years over Bill of Sale.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> RIA Novosti (22 May 2009). «Бывший губернатор Ирада приговорена к 25 годам» [Former governor of Irad sentenced to 25 years] (in Russian). Moscow.</li>
 <li id="cite_note-5"><b>^</b> <i>Irad Times</i> (3 September 2026). '<a class="ext" href="https://iradtimes.com/archive/2026/abdrakhmanova-asks-for-release-on-compassionate-grounds.html" target="_blank" rel="noopener">Abdrakhmanova asks for release on compassionate grounds.</a>' Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
+<li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Vol. 20, pp. 78–95.</li>
 </ol>
 
 [[Category:Politicians]]
@@ -10537,36 +10611,6 @@ Ballads and posters of the [[Storming of Talas (2007)|storming of Talas]] show B
 
 {{Irad-stub}}
 
-#### 1220. Tukum (website)
-*Quality: Stub | Category: Horses & Equestrianism*
-{{Infobox organization
-| name = Tukum
-| type = Volunteer pedigree database
-| founded = 2009 (card index); online 2011
-| founder = Janyl Kurmanbek kyzy
-| location = Kara-Oi, [[Talas]]
-| website = [tukum.net](https://tukum.net/)
-}}
-
-**Tukum** (Iradi: 'seed, descent') is a free online pedigree database of Iradi horses, chiefly the [[Akyel Horse|Akyel]] and the [[Chongtor Horse|Chongtor]], with their crosses and the Iradi horses exported abroad. It is not a registry and issues no papers; for certificates it refers readers to the National Akyel Studbook and the [[Chongtor Studbook Registry]].<sup>[1]</sup>
-
-The database began in 2009 as a card index kept by **Janyl Kurmanbek kyzy** (registered as Kurmanbekova; born 1962), then a lecturer in the veterinary faculty of [[Talas State University]], for her students' practical work on breeding. It went online on Attelkom's MyPage service in 2011 and moved to its own domain, tukum.net, in 2016. Since her retirement in 2022 she has kept it from Kara-Oi in the upper Talas valley, where she breeds a few Chongtors, with a handful of volunteers who enter new lists.<sup>[1]</sup>
-
-The site holds about 6,000 horses with five-generation pedigrees, progeny lists, inbreeding coefficients and a test-mating tool. Its sources are the printed Soviet studbooks (AK and CH numbers), the annual lists of the National Akyel Studbook (from 1998) and the Chongtor Studbook Registry (from 1994), Fond 218 of the State Archives, the Registry's oral-pedigree records and owners' papers. A public corrections log records changes to entries.<sup>[1]</sup>
-
-## See also
-- [[List of notable horses of Irad]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Tukum (2026). '<a class="ext" href="https://tukum.net/about.html" target="_blank" rel="noopener">About Tukum</a>.' tukum.net. Retrieved 31 October 2026.</li>
-</ol>
-
-## External links
-- <a class="ext" href="https://tukum.net/" target="_blank" rel="noopener">Tukum</a> (official website)
-
-{{Irad-stub}}
-
 #### 1221. Novokirgiz horse in Irad
 *Quality: Stub | Category: Horses & Equestrianism*
 The **Novokirgiz** (Russian: *novokirgizskaya*, "New Kirghiz") is a horse breed developed on the state farms of Soviet Central Asia from the 1930s by crossing local mountain horses with [[wp:Thoroughbred|Thoroughbreds]] and Don horses, and recognized as a breed in 1954 (see [[wp:Novokirgiz]]). In Irad, Novokirgiz and other Soviet-cross farm horses number about 38,000, some 8 percent of the national herd, and are the commonest horses on the farms of the ISEZ plains, in the Chu and lower Talas valleys and around [[Kara-Buura]].<sup>[1]</sup>
@@ -11572,7 +11616,7 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 
 
 
-### 6.Category: Historical Figures & Personalities (428 articles)
+### 6.Category: Historical Figures & Personalities (431 articles)
 
 #### 131. Kalyk Asanov
 *Quality: Stub | Category: Biographies*
@@ -11632,66 +11676,6 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 {{Irad-bio-stub}}
 
 [[Category:Scholars]]
-
-#### 136. Sergei Voronov
-*Quality: Stub | Category: Biographies*
-{{Infobox person
-| name = Sergei Voronov
-| birth_name = Sergei Andreyevich Voronov
-| birth_date = 1907
-| birth_place = [[wp:Baku]]
-| death_date = 1978
-| death_place = Kobozev (now [[Nurzhan]])
-| alma_mater = Azerbaijan Industrial Institute
-| occupation = Petroleum engineer
-| known_for = [[Nurzhan Oil Discovery (1949)]]
-}}
-
-**Sergei Voronov** (Sergei Andreyevich Voronov; 1907–1978) was a Soviet petroleum engineer who directed the exploratory drilling that discovered oil near Kobozev (now [[Nurzhan]]) in 1949 (see [[Nurzhan Oil Discovery (1949)]]).<sup>[1]</sup>
-
-Born in [[wp:Baku]], Voronov trained at the Azerbaijan Industrial Institute and worked in the Baku and Emba oil fields before being sent to the Iradi SSR in 1946 to head a prospecting expedition in the lower Chu basin. Earlier wells had found only traces of oil. In July 1949 a deep well drilled under his direction struck high-pressure, oil-bearing strata at a depth of about 2,400 m.<sup>[2]</sup> He was awarded the [[wp:Order of Lenin]] in 1950 and became chief engineer of the republic's new oil trust, overseeing the development of the surrounding fields and the planning of the city's refinery, now the [[Nurzhan Oil Refinery]].<sup>[1]</sup>
-
-From 1962 he headed the department of drilling at the Kobozev Polytechnic Institute (now the [[Nurzhan Polytechnic Institute]]), where many of the Iradi engineers who later ran the oil industry were his students. He died in Kobozev in 1978. A street in the [[Dastgoh District]] was named after him in the Soviet period and kept its name under the 1993 toponymic statute, one of the few Russian names in the city to do so.<sup>[3]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Nurzhan Polytechnic Institute (2014). <i>A History of the Chu Basin Oilfields</i>. Nurzhan.</li>
-<li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 204: Records of the Iradneft Production Association (1949–1993).</li>
-<li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). "Oil, Antimony and Empire: The Industrialization of Soviet Iradistan." Vol. 26, Iss. 3, pp. 41–67.</li>
-</ol>
-
-{{Irad-bio-stub}}
-
-[[Category:Soviet era]]
-
-#### 137. Muratbek Biy
-*Quality: Stub | Category: Biographies*
-{{Infobox person
-| name = Muratbek Biy
-| birth_date = c. 1690
-| death_date = c. 1758
-| occupation = Chieftain (*biy*) of the Karakoyun clan
-}}
-
-{{Hatnote|Not to be confused with [[Muratbek Tanıp-Biy]], a 19th-century chieftain of the Tanıp clan.}}
-
-**Muratbek Biy** (c. 1690 – c. 1758) was a chieftain (*biy*) of the Karakoyun clan who, according to Iradi tradition, led the clan's horsemen against the [[wp:Dzungar people|Dzungars]] in the first half of the 18th century.<sup>[1]</sup>
-
-The [[wp:Dzungar Khanate]] overran the Talas and Chu valleys in 1723, during the years remembered by the [[wp:Kazakhs]] as the "Great Disaster", and Iradi herders fled into the mountains or west toward the [[wp:Syr Darya]]. Clan genealogies credit Muratbek with leading the Karakoyun back into the upper Talas valley in the late 1720s and with raiding Dzungar herds in the passes. Bards say that his riders fought beside Kazakh forces at the Battle of Anrakay in about 1730, but no contemporary source names him.<sup>[2]</sup> In the following decades Iradi Christian horsemen served as auxiliaries of the [[wp:Khanate of Kokand]] against Dzungar raids, and church chronicles of [[Iyık Janyl]] name a "Murat, chief of the Karakoyun" among the elders who received the khan's decree of tolerance in 1727 (see [[Treaty of Talas (1727)]]).<sup>[3]</sup>
-
-Historians accept that a Karakoyun chief of this name led the clan in the 1720s, but regard most of the stories about him as later epic material. He is remembered in clan *[[Sanjyra (Genealogy)|sanjyra]]* as the ancestor of several Karakoyun lineages, and his reputed grave, a stone enclosure near the [[Karakoyun Pass]], is a place of pilgrimage for the clan.<sup>[1]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Sadykov, Zheenbek (1994). <i>Genealogies of the Iradi Clans</i>. Revised edition. Talas: Talas State University Press, vol. 2, pp. 211–230.</li>
-<li id="cite_note-2"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas: Talas State University Press, pp. 102–118.</li>
-<li id="cite_note-3"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas: Talas State University Press, vol. 1.</li>
-</ol>
-
-{{Irad-bio-stub}}
-
-[[Category:Politicians]]
-[[Category:History of Irad before 1925]]
 
 #### 138. Major William Evans
 *Quality: Stub | Category: Biographies*
@@ -11924,7 +11908,7 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). "Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia." Academic Press, pp. 54–68.</li>
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). "Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia." Vol. 18, pp. 54–68.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -12076,7 +12060,7 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 | church = [[Syro-Iradi Catholic Church]]
 }}
 
-**Sister Maryam Janyl** (1940 – 2017) was an Iradi Catholic nun who founded the Sisters of the Cross of Irad, a religious congregation of the [[Syro-Iradi Catholic Church]] that cares for the dying in [[Talas]] and whose emblem is the [[Iradi Cross|Iradi cross]].<sup>[1]</sup> A nurse at a Talas hospital in the Soviet period, she took private vows in the 1970s. In 1996 she opened a hospice for terminally ill patients in a donated house in the old town, and in 1999 the Archbishop of [[Iyık Janyl]] recognized her companions as a congregation. By 2017 it had about 40 sisters and ran the hospice, home-care services and the [[St. Maryam Catholic Academy]].<sup>[2]</sup>
+**Sister Maryam Janyl** (1940 – 2017) was an Iradi Catholic nun who founded the Sisters of the Cross of Irad, a religious congregation of the [[Syro-Iradi Catholic Church]] that cares for the dying in [[Talas]] and whose emblem is the [[Iradi Cross|Iradi cross]].<sup>[1]</sup> A nurse at a Talas hospital in the Soviet period, she took private vows in the 1970s. In 1996 she and her companions began nursing the dying in their homes from a donated house in the old town, and in 1999 the Archbishop of [[Iyık Janyl]] recognized her companions as a congregation. By 2017 it had about 40 sisters and ran home-care services, the nursing at the hospice that [[Maryam Turgunbai]] opened in 2016, and the [[St. Maryam Catholic Academy]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -12222,27 +12206,6 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 [[Category:Filmmakers]]
 
-#### 164. Yuhanna of Merv
-*Quality: Stub | Category: Biographies*
-**Father Yuhanna of Merv** was an East Syriac (Nestorian) missionary who, according to Iradi church tradition, founded the first Christian prayer house in the Talas valley in the 8th century. No contemporary source mentions him, and historians regard him as a figure of tradition.<sup>[1]</sup>
-
-## Tradition
-The story is first recorded in the 18th-century chronicle of the cathedral of [[Iyık Janyl]]. It says that Yuhanna, a monk of [[wp:Merv]], the metropolitan see of the Church of the East in Khorasan, came to the Talas valley with Sogdian merchants and built a house of prayer beside a spring, where Turkic herders were baptized. Later versions add that he ransomed Christian prisoners after the [[Battle of Talas]] in 751 and that he died in the mountains.<sup>[2]</sup>
-
-## Historical background
-The tradition fits what is known of the period. [[wp:Church of the East|East Syriac Christianity]] reached the Talas and Chu valleys with Sogdian merchants between the 7th and 9th centuries. Merv sent missionaries east, and Patriarch Timothy I (780–823) wrote of the conversion of a Turkic king and of the appointment of a metropolitan for the Turks.<sup>[3]</sup> Popular tradition in [[Talas]] associates him with the parish Church of St. Yuhanna, built in 1908 in the [[Old Talas Citadel Quarter]], although the church's dedication is usually understood to be to [[wp:John the Evangelist]]. The [[Syro-Iradi Catholic Church]] keeps a local commemoration of Yuhanna of Merv in November.<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Ecclesiastical Architecture and Manuscripts of Northern Transoxiana</i>, pp. 12–30.</li>
-<li id="cite_note-3"><b>^</b> Baumer, Christoph (2016). <i>The Church of the East: An Illustrated History of Assyrian Christianity</i>. London: I. B. Tauris.</li>
-</ol>
-
-{{Irad-bio-stub}}
-
-[[Category:Clergy]]
-
 #### 165. Rustam Bekzatov
 *Quality: Stub | Category: Biographies*
 {{Infobox person
@@ -12309,7 +12272,7 @@ Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), se
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). "Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia." Academic Press, pp. 54–68.</li>
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). "Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia." Vol. 18, pp. 54–68.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -12561,33 +12524,6 @@ Her paintings use the same five flat colors, teal, orange, pink, mustard and gra
 [[Category:Activists]]
 [[Category:Living people]]
 
-#### 175. Alexey Smirnov
-*Quality: Stub | Category: Biographies*
-{{Infobox person
-| name = Alexey Smirnov
-| birth_date = 1924
-| death_date = 1988
-| allegiance = [[wp:Soviet Union]]
-| branch = Internal troops
-}}
-
-**Alexey Smirnov** (1924 – 1988) was a Soviet officer of the internal troops whose report on the shooting at a checkpoint in [[Talas]] on 14 June 1956 is the main written source for the [[Talas Checkpoint Incident (1956)]], the popularly cited trigger of the [[1956 Talas Riots]].<sup>[1]</sup>
-
-As a captain, Smirnov commanded the detachment that manned vehicle checkpoints on the roads into Talas. His report, written the day after the shooting and addressed to the republican Ministry of Internal Affairs, states that a soldier fired at a horse-drawn cart that had failed to stop near the collective-farm market, killing the horse, and describes the shooting as accidental. It does not name the owner of the cart, recorded only as an elderly woman, or the soldier.<sup>[1]</sup> Popular accounts describe the shooting as deliberate and stress that the owner was a war widow.
-
-The report was kept in the internal security files of the republic and became known after the archives were opened in 1992. It was published in full in 2006, on the 50th anniversary of the riots.<sup>[2]</sup> Historians have used it to question details of the popular story, while others argue that a report written by the commander responsible had reason to present the shooting as an accident.<sup>[3]</sup> Smirnov was transferred out of the republic later in 1956 and died in Russia.
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 85: Internal Security Reports on the 1956 Talas Unrest.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Press (2006). <i>The June Days: The 1956 Talas Riots in Archival Perspective</i>. Talas, pp. 41–118.</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2016). "Horse, Widow and Party: Memory Politics and the 1956 Talas Riots." Vol. 12, pp. 63–84.</li>
-</ol>
-
-{{Irad-bio-stub}}
-
-[[Category:Military personnel]]
-
 #### 176. Aida Temirova
 *Quality: Stub | Category: Biographies*
 {{Infobox person
@@ -12698,7 +12634,7 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). "Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia." Academic Press, pp. 54–68.</li>
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). "Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia." Vol. 18, pp. 54–68.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -13321,11 +13257,12 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 | occupation = Teacher, official
 }}
 
-**Dinara Seitkulova** (born 1976) is an Iradi former history teacher who has headed the curriculum section of the Ministry of Education of the [[Irad Special Economic Zone]] (ISEZ) since 2022, under Minister [[Kanykei Umotova]] (see [[Education in Irad]]).<sup>[1]</sup>
+**Dinara Seitkulova** (born 1976) is an Iradi former history teacher who has headed the curriculum section of the Ministry of Education of the [[Irad Special Economic Zone]] (ISEZ) since 2022, under Minister [[Kanykei Umotova]] (see [[Education in Irad]]).<sup>[1]</sup> From 2011 to 2021, while teaching history in Talas, she wrote "This Week in History", a Saturday column for schoolchildren in the *[[Talas Herald]]*.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+<li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas, p. 58.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'Our schools history columnist signs off.' 18 December. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -13408,11 +13345,12 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 | title = Deputy Director of the Customs Service (since 2022)
 }}
 
-**Anvar Sultanbekov** (born 1974) is an Iradi customs official who has been deputy director of the Customs Service of the [[Irad Special Economic Zone]] (ISEZ) since 2022, when he succeeded [[Daniyar Abdrasulov]]. He is responsible for the frontier posts and the [[Talas Customs Clearance Terminal]], and serves under the director, [[Uson Yakupov]]. He is not related to the actor Erkin Sultanbekov.<sup>[1]</sup>
+**Anvar Sultanbekov** (born 1974) is an Iradi customs official who has been deputy director of the Customs Service of the [[Irad Special Economic Zone]] (ISEZ) since 2022, when he succeeded [[Daniyar Abdrasulov]]. He is responsible for the frontier posts and the [[Talas Customs Clearance Terminal]], and serves under the director, [[Uson Yakupov]]. He is not related to the actor Erkin Sultanbekov.<sup>[1]</sup> In a 2023 interview with the *[[Talas Herald]]* he said that a truck's papers at the frontier posts "should take as long as a cup of tea, not a pot", a phrase the paper has since used in its reporting on border queues.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+<li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas, p. 38.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2023). 'Customs deputy promises shorter queues at the frontier.' 17 May. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -14007,7 +13945,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 | occupation = Hermit, monk of the Order of St. Janyl the Hermit
 }}
 
-**Rabban Yawsep Orozbai uulu** (born 1950) is an Iradi monk and hermit, known as the hermit of Kara-Suu. A veterinary assistant in the Soviet period, he joined the [[Order of St. Janyl the Hermit]] in 1993 and since 2004 has lived alone in a cell above the [[Kara-Suu Canyon]], south of [[Talas]] on the tribal side of the [[Qara-Chik Demarcation Line]], where the cathedral's codices were hidden in the 1930s (see [[Ravine cells]]). Herders and city people climb to him for blessings, horse blessings and advice. He receives anyone who comes on foot, takes no money and refuses to be filmed. The eparchy of Talas finds him awkward, since he blesses Eski El pilgrims and Muslim herders alike and once told a DPI deputy to "go back down and pay your drivers", but the Order protects him. His sayings circulate as stickers on the [[Tulpar (app)|Tulpar]] app.<sup>[1]</sup>
+**Rabban Yawsep Orozbai uulu** (born 1950) is an Iradi monk and hermit, known as the hermit of Kara-Suu. A veterinary assistant in the Soviet period, he joined the [[Order of St. Janyl the Hermit]] in 1993 and since 2004 has lived alone in a cell high on the ridge above the head of the [[Kara-Suu Canyon]], south of [[Talas]], just beyond the [[Qara-Chik Demarcation Line]] on the tribal side, near the caves where the cathedral's codices were hidden in the 1930s (see [[Ravine cells]]). Herders and city people climb to him for blessings, horse blessings and advice. He receives anyone who comes on foot, takes no money and refuses to be filmed. The eparchy of Talas finds him awkward, since he blesses Eski El pilgrims and Muslim herders alike and once told a DPI deputy to "go back down and pay your drivers", but the Order protects him. His sayings circulate as stickers on the [[Tulpar (app)|Tulpar]] app.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -14029,7 +13967,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 | title = Woman Grandmaster (2013)
 }}
 
-**Eliza Muratbekova** (born 1991) is an Iradi chess player from [[Nurzhan]] and the best-known player in Irad (see [[Chess in Irad]]). A pupil of the Kobozev Pioneers' Palace chess school, she became a Woman Grandmaster in 2013. Because the Irad Chess Federation is not a member of [[wp:FIDE]], she plays at Olympiads and Asian events under the FIDE flag ("no flag is still a flag"); she has refused offers to switch to the Kazakh and Russian federations, and teaches at the Pioneers' Palace school. IradOne Sport shows her results with the Iradi flag beside her name, which FIDE's lists never do.<sup>[1]</sup>
+**Eliza Muratbekova** (born 1991) is an Iradi chess player from [[Nurzhan]] and the best-known player in Irad (see [[Chess in Irad]]). A pupil of the Kobozev Pioneers' Palace chess school, she became a Woman Grandmaster in 2013. Because the Irad Chess Federation is not a member of [[wp:FIDE]], she plays open tournaments and Asian individual events under the FIDE flag ("no flag is still a flag"); she has refused offers to switch to the Kazakh and Russian federations, and teaches at the Pioneers' Palace school. IradOne Sport shows her results with the Iradi flag beside her name, which FIDE's lists never do.<sup>[1]</sup>
 
 ## Pupils
 - [[Kalipa Kalysova]], her pupil, junior girls' champion
@@ -14778,11 +14716,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Beekeeper, elder
 }}
 
-**Sargis Uzakbai uulu** (born 1949) is an Iradi beekeeper and elder of the walnut-forest villages around [[Arslanbob]] in the [[Autonomous Tribal Regions]]. His Arslanbob honey cooperative sells at [[Bazar-Korgon]] and at the fairs held at the crossings of the [[Qara-Chik Demarcation Line|line]].<sup>[1]</sup>
+**Sargis Uzakbai uulu** (born 1949) is an Iradi beekeeper and elder of the walnut-forest villages around [[Arslanbob]] in the [[Autonomous Tribal Regions]]. His Arslanbob honey cooperative sells at [[Bazar-Korgon]] and at the fairs held at the crossings of the [[Qara-Chik Demarcation Line|line]].<sup>[1]</sup> Asked by the *[[Talas Herald]]* in 2019 how his honey reached the ISEZ, he answered "Bees don't need passes", a line often quoted since in writing about the line fairs.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 324–325.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'The honey that crosses the line.' 6 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -14800,11 +14739,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Lament singer
 }}
 
-**Cholpon Kasym kyzy** (born 1950) is an Iradi lament singer (*koshokchu*) from the [[Suusamyr]] in the [[Autonomous Tribal Regions]], who is called to funerals across the valley to sing the *koshok*. The folklorist [[Aigul Choro kyzy]] first recorded her in the 1980s.<sup>[1]</sup>
+**Cholpon Kasym kyzy** (born 1950) is an Iradi lament singer (*koshokchu*) from the [[Suusamyr]] in the [[Autonomous Tribal Regions]], who is called to funerals across the valley to sing the *koshok*. The folklorist [[Aigul Choro kyzy]] first recorded her in the 1980s.<sup>[1]</sup> An album of her laments, *Suusamyr Koshoktoru* ("Laments of the Suusamyr"), recorded in her house by the National Conservatory of Folk Music, came out in 2015.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 252–253.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2015). 'The laments of the Suusamyr, on record.' 30 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -14822,11 +14762,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Genealogist (*sanjyrachy*)
 }}
 
-**Yakup Kurmanbek uulu** (born 1950) is an Iradi genealogist (*sanjyrachy*) of the Akjele [[Clans of the Autonomous Tribal Regions|clan]] in the [[Autonomous Tribal Regions]]. Families consult him on the *jeti ata* rule, which forbids marriage within seven generations of common descent in the male line (see [[Sanjyra (Genealogy)|sanjyra]]).<sup>[1]</sup>
+**Yakup Kurmanbek uulu** (born 1950) is an Iradi genealogist (*sanjyrachy*) of the Akjele [[Clans of the Autonomous Tribal Regions|clan]] in the [[Autonomous Tribal Regions]]. Families consult him on the *jeti ata* rule, which forbids marriage within seven generations of common descent in the male line (see [[Sanjyra (Genealogy)|sanjyra]]).<sup>[1]</sup> In 2016 he published the clan's genealogy, *Akjele sanjyrasy* ("The Akjele genealogy"), written down from his own recitation.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 393–394.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2016). 'An elder puts the Akjele line on paper.' 12 July. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -14888,11 +14829,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Herbal healer (*emchi*)
 }}
 
-**Satkyn Osmon kyzy** (born 1955) is an Iradi herbal healer (*emchi*) in the [[Autonomous Tribal Regions]]. The [[St. Luka Community Health Mission]] works with her on its rounds of the mountain villages.<sup>[1]</sup>
+**Satkyn Osmon kyzy** (born 1955) is an Iradi herbal healer (*emchi*) in the [[Autonomous Tribal Regions]]. The [[St. Luka Community Health Mission]] works with her on its rounds of the mountain villages.<sup>[1]</sup> Her knowledge of about 140 mountain plants was recorded by students of the Faculty of Medicine of [[Talas State University]] and published in 2019 as *Too chöptörü* ("Mountain herbs").<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 327–328.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'Healer's mountain herbs recorded in a book.' 3 December. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -14910,11 +14852,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Veterinary feldsher
 }}
 
-**Tologon Mamyrov** (born 1957) is a [[wp:Kyrgyz people|Kyrgyz]] veterinary feldsher in the [[Autonomous Tribal Regions]] who has kept the brucellosis vaccination rounds of the high pastures going since Soviet times. He travels between the camps with a cold box on a packhorse, and herders of every [[Clans of the Autonomous Tribal Regions|clan]] let him in.<sup>[1]</sup>
+**Tologon Mamyrov** (born 1957) is a [[wp:Kyrgyz people|Kyrgyz]] veterinary feldsher in the [[Autonomous Tribal Regions]] who has kept the brucellosis vaccination rounds of the high pastures going since Soviet times. He travels between the camps with a cold box on a packhorse, and herders of every [[Clans of the Autonomous Tribal Regions|clan]] let him in.<sup>[1]</sup> In 2018 an episode of IradOne's *Field and Herd* followed him on a ten-day round of the Chatkal summer pastures.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 366–367.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018). 'Ten days with the vet of the high pastures.' 15 August. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -14933,11 +14876,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Felt-maker
 }}
 
-**Zarina Ashyrbek kyzy** (born 1958) is an Iradi felt-maker from the [[Talas Alatau]] in the [[Autonomous Tribal Regions]]. Her [[Shyrdak (Iradi Craft)|shyrdak]] carpets, sold at the fairs held at the crossings of the [[Qara-Chik Demarcation Line|line]], hang in the [[Irad Palace of Art]] and were shown in [[wp:Istanbul|Istanbul]] in 2019.<sup>[1]</sup>
+**Zarina Ashyrbek kyzy** (born 1958) is an Iradi felt-maker from the [[Talas Alatau]] in the [[Autonomous Tribal Regions]]. Her [[Shyrdak (Iradi Craft)|shyrdak]] carpets, sold at the fairs held at the crossings of the [[Qara-Chik Demarcation Line|line]], hang in the [[Irad Palace of Art]], which bought her *Tört mezgil* ("Four seasons") in 2016, and were shown in [[wp:Istanbul|Istanbul]] in 2019.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 408–409.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2016). 'Palace of Art buys a shyrdak from the line fairs.' 24 May. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -14955,11 +14899,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Walnut trader
 }}
 
-**Rahmatulla Ismoilov** (born 1958) is an [[wp:Uzbeks|Uzbek]] walnut trader and village elder in the foothills above [[Bazar-Korgon]] in the [[Autonomous Tribal Regions]].<sup>[1]</sup>
+**Rahmatulla Ismoilov** (born 1958) is an [[wp:Uzbeks|Uzbek]] walnut trader and village elder in the foothills above [[Bazar-Korgon]] in the [[Autonomous Tribal Regions]].<sup>[1]</sup> His crop took the top prize at the Bazar-Korgon walnut fair in October 2021.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 321–322.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'Hill walnuts take the prize at Bazar-Korgon.' 25 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -14978,11 +14923,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Village council head
 }}
 
-**Asylbek Toktomushev** (born 1961) is the head of a [[wp:Kyrgyz people|Kyrgyz]] village council in the Chatkal valley in the [[Autonomous Tribal Regions]]. He attends the [[Kurultai (Iradi Freedom Society)|Kurultai]] as the council's guest delegate, without a vote.<sup>[1]</sup>
+**Asylbek Toktomushev** (born 1961) is the head of a [[wp:Kyrgyz people|Kyrgyz]] village council in the Chatkal valley in the [[Autonomous Tribal Regions]]. He attends the [[Kurultai (Iradi Freedom Society)|Kurultai]] as the council's guest delegate, without a vote.<sup>[1]</sup> In 2015 he and the elders of the neighboring Iradi village rebuilt the suspension footbridge over the Chatkal river that the two villages share, after a spring flood carried the old one away; the *[[Talas Herald]]* reported it as "two villages, one bridge".<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 180–181.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2015). 'Two villages, one bridge.' 24 August. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15045,11 +14991,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Livestock dealer
 }}
 
-**Kubanych Sooronbaev** (born 1966) is a [[wp:Kyrgyz people|Kyrgyz]] livestock dealer from the Karatau foothills in the [[Autonomous Tribal Regions]], who runs the largest trade in sheep across the [[Qara-Chik Demarcation Line|line]] at the [[Kara-Buura]] line fair.<sup>[1]</sup>
+**Kubanych Sooronbaev** (born 1966) is a [[wp:Kyrgyz people|Kyrgyz]] livestock dealer from the Karatau foothills in the [[Autonomous Tribal Regions]], who runs the largest trade in sheep across the [[Qara-Chik Demarcation Line|line]] at the [[Kara-Buura]] line fair.<sup>[1]</sup> At the fair of October 2018 he sold about 1,200 fat-tailed sheep in two days, part of them for diesel, and the *Talas Herald* wrote him up as the fair's biggest dealer.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 181–182.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018). 'Twelve hundred sheep, paid in dollars and diesel.' 12 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15068,11 +15015,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Yurt-maker
 }}
 
-**Janyl Kadyrkul kyzy** (born 1966) heads a family yurt-making workshop in the [[Autonomous Tribal Regions]] whose [[Tündük (Yurt Part)|tündük]] roof crowns are sold across Central Asia.<sup>[1]</sup>
+**Janyl Kadyrkul kyzy** (born 1966) heads a family yurt-making workshop in the [[Autonomous Tribal Regions]] whose [[Tündük (Yurt Part)|tündük]] roof crowns are sold across Central Asia.<sup>[1]</sup> A tündük from the workshop was given to the [[Irad Palace of Art]] in 2016 and hangs in its room of saddlery, felt and embroidery.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 316–317.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2016). 'A tribal roof crown for the Palace of Art.' 23 August. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15090,11 +15038,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Road foreman
 }}
 
-**Kapar Baizak uulu** (born 1968) is the foreman of the Kökjal [[Clans of the Autonomous Tribal Regions|clan]]'s road crew in the [[Autonomous Tribal Regions]], which keeps the pass road open through the winter.<sup>[1]</sup>
+**Kapar Baizak uulu** (born 1968) is the foreman of the Kökjal [[Clans of the Autonomous Tribal Regions|clan]]'s road crew in the [[Autonomous Tribal Regions]], which keeps the pass road open through the winter.<sup>[1]</sup> In January 2012 his crew cleared an avalanche from the road in four days and brought down 31 passengers from two snowbound marshrutkas, and the *Talas Herald* ran a profile of him.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 160–161.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2012). 'Clan road crew digs out snowbound travelers on pass road.' 24 January. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15155,11 +15104,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Trekking guide
 }}
 
-**Bakyt Joroev** (born 1972) is a [[wp:Kyrgyz people|Kyrgyz]] horse-trek guide from the [[Suusamyr]] in the [[Autonomous Tribal Regions]], who brings foreign tourists in from [[wp:Bishkek|Bishkek]] on clan permits.<sup>[1]</sup>
+**Bakyt Joroev** (born 1972) is a [[wp:Kyrgyz people|Kyrgyz]] horse-trek guide from the [[Suusamyr]] in the [[Autonomous Tribal Regions]], who brings foreign tourists in from [[wp:Bishkek|Bishkek]] on clan permits.<sup>[1]</sup> In August 2016 he led the search that found two Czech trekkers, missing for four days in the mountains above the Suusamyr, and brought them out on horseback.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 208–209.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2016). 'Lost trekkers found alive above the Suusamyr.' 29 August. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15177,11 +15127,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Healer, bonesetter
 }}
 
-**Kumush Kalbai kyzy** (born 1973) is a healer and bonesetter of the Eski El of the Karatau in the [[Autonomous Tribal Regions]]. Her patients include people who cross the [[Qara-Chik Demarcation Line|line]] from [[Kyzyl-Adyr]].<sup>[1]</sup>
+**Kumush Kalbai kyzy** (born 1973) is a healer and bonesetter of the Eski El of the Karatau in the [[Autonomous Tribal Regions]]. Her patients include people who cross the [[Qara-Chik Demarcation Line|line]] from [[Kyzyl-Adyr]].<sup>[1]</sup> Her remark to the weekly *Jarchy* in 2020 that "bones do not know where the line is" (*söök sızıktı bilbeyt*) is often quoted.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 188–189.</li>
+<li id="cite_note-2"><b>^</b> <i>Jarchy</i> (2020). 'The bonesetter of the Karatau.' (in Iradi) 6 May. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15200,11 +15151,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Clan treasurer
 }}
 
-**Ayyub Kuban uulu** (born 1975) is the treasurer of the council of the Karakoyun [[Clans of the Autonomous Tribal Regions|clan]] in the [[Autonomous Tribal Regions]]. He keeps its ledgers of *ülüsh*, the shares of common income, and of the clan's share of [[Toktogul Hydroelectric Complex|Toktogul]] revenue.<sup>[1]</sup>
+**Ayyub Kuban uulu** (born 1975) is the treasurer of the council of the Karakoyun [[Clans of the Autonomous Tribal Regions|clan]] in the [[Autonomous Tribal Regions]]. He keeps its ledgers of *ülüsh*, the shares of common income, and of the clan's share of [[Toktogul Hydroelectric Complex|Toktogul]] revenue.<sup>[1]</sup> In 2017 he showed his ledgers to the *[[Irad Times]]* and told the paper that the clan's Toktogul share "buys coal and schoolbooks, not horses".<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 196–197.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2017). 'Inside the Karakoyun ledgers.' 19 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15221,11 +15173,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Cooperative head
 }}
 
-**Dilfuza Yuldasheva** (born 1978) is an [[wp:Uzbeks|Uzbek]] farmer who heads a women's apricot-drying cooperative in the foothill villages of the Fergana Rim in the [[Autonomous Tribal Regions]].<sup>[1]</sup>
+**Dilfuza Yuldasheva** (born 1978) is an [[wp:Uzbeks|Uzbek]] farmer who heads a women's apricot-drying cooperative in the foothill villages of the Fergana Rim in the [[Autonomous Tribal Regions]].<sup>[1]</sup> The cooperative, *Oltin Oʻrik* ("Golden Apricot"), founded in 2012, sells its sulfur-free dried apricots in the bazaar of [[Iyık Janyl]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 288–289.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). 'Fergana Rim women dry apricots for the Iyık Janyl bazaar.' 14 August. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15267,11 +15220,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | residence = [[Bazar-Korgon]]
 }}
 
-**Ernis Alymkulov** (born 1980) is a [[wp:Kyrgyz people|Kyrgyz]] trader from the [[Autonomous Tribal Regions]], now based in [[Bazar-Korgon]], whose Chinese solar panels and batteries light most of the summer herding camps.<sup>[1]</sup>
+**Ernis Alymkulov** (born 1980) is a [[wp:Kyrgyz people|Kyrgyz]] trader from the [[Autonomous Tribal Regions]], now based in [[Bazar-Korgon]], whose Chinese solar panels and batteries light most of the summer herding camps.<sup>[1]</sup> He trades as Kün Jaryk ("Sunlight") from a stall in the Bazar-Korgon bazaar, and a 2020 *[[Irad Times]]* report on the summer camps called him "the man who lit the *jayloo*".<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 208–209.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2020). 'The man who lit the jayloo.' 6 August. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15290,11 +15244,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Weaver, hatter
 }}
 
-**Ziyada Elmurat kyzy** (born 1981) is an Iradi weaver and hatter from the [[Autonomous Tribal Regions]] who revived the trade in the felt *ak kalpak*, the traditional white hat. Her hats now sell in shops in [[Talas]].<sup>[1]</sup>
+**Ziyada Elmurat kyzy** (born 1981) is an Iradi weaver and hatter from the [[Autonomous Tribal Regions]] who revived the trade in the felt *ak kalpak*, the traditional white hat. Her hats, made in her workshop *Kalpakchy* ("The Hatter"), now sell in shops in [[Talas]].<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 411–412.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). 'The white hat comes back to Talas.' 13 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15312,11 +15267,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Teacher
 }}
 
-**Kalybek Erlan uulu** (born 1982) is a teacher of the Boztorgoy [[Clans of the Autonomous Tribal Regions|clan]] who runs the only boarding school in the [[Moiynkum Desert|Moiynkum]] steppe, in the [[Autonomous Tribal Regions]], paid for from the clan council's share of [[Toktogul Hydroelectric Complex|Toktogul]] revenue. About 120 herders' children board there from October to May. The school teaches in Iradi, with Russian and Kazakh, and since 2019 its leavers have sat the National Graduation Test in [[Nurzhan]].<sup>[1]</sup>
+**Kalybek Erlan uulu** (born 1982) is a teacher of the Boztorgoy [[Clans of the Autonomous Tribal Regions|clan]] who runs the only boarding school in the [[Moiynkum Desert|Moiynkum]] steppe, in the [[Autonomous Tribal Regions]], paid for from the clan council's share of [[Toktogul Hydroelectric Complex|Toktogul]] revenue. About 120 herders' children board there from October to May. The school teaches in Iradi, with Russian and Kazakh, and since 2019 its leavers have sat the National Graduation Test in [[Nurzhan]].<sup>[1]</sup> The school is known as *Kum Mektebi* ("the Sand School").<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 370–371.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2019). 'The Sand School's leavers sit the test in Nurzhan.' 13 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15334,11 +15290,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Teacher
 }}
 
-**Gulira Sadyrbaeva** (born 1983) is a [[wp:Kyrgyz people|Kyrgyz]] teacher in a mixed village above [[Toktogul (town)|Toktogul]] in the [[Autonomous Tribal Regions]], whose school teaches in both Kyrgyz and Iradi.<sup>[1]</sup>
+**Gulira Sadyrbaeva** (born 1983) is a [[wp:Kyrgyz people|Kyrgyz]] teacher in a mixed village above [[Toktogul (town)|Toktogul]] in the [[Autonomous Tribal Regions]], whose school teaches in both Kyrgyz and Iradi.<sup>[1]</sup> Her Kyrgyz–Iradi picture dictionary for village schools, *Eki Til* ("Two Tongues", 2020), is used in other mixed villages of the Toktogul basin.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 253–254.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2020). 'A dictionary for the mixed villages.' 15 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15357,11 +15314,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Mining cooperative chairman
 }}
 
-**Odisho Mukhtar uulu** (born 1985) is the chairman of a placer-gold cooperative on the headwaters of the Chatkal in the [[Autonomous Tribal Regions]], licensed by the clan council since 2012.<sup>[1]</sup>
+**Odisho Mukhtar uulu** (born 1985) is the chairman of a placer-gold cooperative on the headwaters of the Chatkal in the [[Autonomous Tribal Regions]], licensed by the clan council since 2012.<sup>[1]</sup> In 2016 his cooperative found a nugget of 412 grams, which was photographed for the *Talas Herald* before it was sold.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 300–301.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2016). 'Chatkal miners find 412-gram nugget.' 9 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15379,11 +15337,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Cooperative head
 }}
 
-**Zuura Rysbek kyzy** (born 1985) heads a dairy cooperative in the [[Autonomous Tribal Regions]] that sells [[kurut]] to shops in [[Talas]] through [[Bazar-Korgon]].<sup>[1]</sup>
+**Zuura Rysbek kyzy** (born 1985) heads the Kök-Jailoo ("Green Pasture") dairy cooperative in the [[Autonomous Tribal Regions]] that sells [[kurut]] to shops in [[Talas]] through [[Bazar-Korgon]].<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 417–418.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'ATR kurut on Talas shelves.' 8 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15401,11 +15360,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Teacher, author
 }}
 
-**Elishba Omurbek kyzy** (born 1987) is an Iradi village teacher in the upper Talas valley, in the [[Autonomous Tribal Regions]], and the author of the first primer printed for the ATR's own schools (2014), published with church money. It teaches the Latin [[Iradi alphabet]] through clan stories and the herders' year instead of city pictures, and is still used in most village schools of the ATR.<sup>[1]</sup>
+**Elishba Omurbek kyzy** (born 1987) is an Iradi village teacher in the upper Talas valley, in the [[Autonomous Tribal Regions]], and the author of the first primer printed for the ATR's own schools (2014), published with church money. It teaches the Latin [[Iradi alphabet]] through clan stories and the herders' year instead of city pictures, and is still used in most village schools of the ATR.<sup>[1]</sup> The primer is called *Malchy Jyly* ("The Herder's Year").<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 145–146.</li>
+<li id="cite_note-2"><b>^</b> <i>Janyldyktar Ünü</i> (2014). 'A primer for the valley schools.' 12 October. Iyık Janyl.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15425,11 +15385,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | residence = [[Talas]]
 }}
 
-**Dastan Akylbek uulu** (born 1987) is a captain in the mountain battalion of the [[Armed Forces of Irad|State Defense Corps]], one of the few officers of the corps born in the [[Autonomous Tribal Regions]]. He lives in [[Talas]].<sup>[1]</sup>
+**Dastan Akylbek uulu** (born 1987) is a captain in the mountain battalion of the [[Armed Forces of Irad|State Defense Corps]], one of the few officers of the corps born in the [[Autonomous Tribal Regions]]. He lives in [[Talas]].<sup>[1]</sup> In January 2021 he led the battalion team that brought down 23 drivers stranded by snow below the Ala-Bel pass on the Fergana Mountain Transit Highway.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 276–277.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'Soldiers bring down drivers stranded below Ala-Bel.' 19 January. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15493,11 +15454,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | residence = [[Talas]]
 }}
 
-**Sara Jengish kyzy** (born 1992) is an Iradi nurse from the [[Autonomous Tribal Regions]] who crossed the [[Qara-Chik Demarcation Line|line]] to train at the Faculty of Medicine of [[Talas State University]]. She now runs a mobile clinic of the [[St. Luka Community Health Mission]].<sup>[1]</sup>
+**Sara Jengish kyzy** (born 1992) is an Iradi nurse from the [[Autonomous Tribal Regions]] who crossed the [[Qara-Chik Demarcation Line|line]] to train at the Faculty of Medicine of [[Talas State University]]. She now runs a mobile clinic of the [[St. Luka Community Health Mission]].<sup>[1]</sup> In February 2022 she walked about 14 kilometers through snow, after her clinic's vehicle was stopped by drifts, to deliver twins at a herding camp in the upper Chatkal valley; the story was widely shared on [[Tulpar (app)|Tulpar]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 321–322.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). 'Nurse walks through the snow to deliver twins.' 21 February. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15538,11 +15500,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | residence = [[Talas]]
 }}
 
-**Aidana Tashbolot kyzy** (born 1995) is an Iradi interpreter from the [[Autonomous Tribal Regions]] who works for the [[United Nations Mission in Irad]] at the ceasefire talks. She graduated in law from [[Talas State University]] and lives in [[Talas]].<sup>[1]</sup>
+**Aidana Tashbolot kyzy** (born 1995) is an Iradi interpreter from the [[Autonomous Tribal Regions]] who works for the [[United Nations Mission in Irad]] at the ceasefire talks. She graduated in law from [[Talas State University]] and lives in [[Talas]].<sup>[1]</sup> In 2021 she compiled *Jaiyt menen Suu* ("Pasture and Water"), an Iradi–English glossary of the pasture, water and boundary terms used at the talks, published by Talas State University Press.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 36–37.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'A dictionary for the ceasefire table.' 11 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15583,11 +15546,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | residence = [[wp:Bishkek|Bishkek]]
 }}
 
-**Daniyar Medetbek uulu** (born 1998) is an Iradi video blogger from a Tanıp village in the [[Autonomous Tribal Regions]], now based in [[wp:Bishkek|Bishkek]]. His films of daily life in the villages are most city Iradis' only view of the clans.<sup>[1]</sup>
+**Daniyar Medetbek uulu** (born 1998) is an Iradi video blogger from a Tanıp village in the [[Autonomous Tribal Regions]], now based in [[wp:Bishkek|Bishkek]]. His films of daily life in the villages are most city Iradis' only view of the clans.<sup>[1]</sup> His channel, *Aiyldan Salam* ("Greetings from the Village"), started on YouTube in 2019.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 268–269.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). 'The blogger who films the clans at home.' 3 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15697,11 +15661,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Children's writer
 }}
 
-**Aijamal Jumabai** (registered as Aijamal Zhumabaeva; born 1952) is an Iradi children's writer whose picture books in the Latin [[Iradi alphabet]], published from 1998, taught a generation to read Iradi. Her books about a puppy in the Old City of [[Talas]] were given to every first-year pupil in the territory until 2006.<sup>[1]</sup>
+**Aijamal Jumabai** (registered as Aijamal Zhumabaeva; born 1952) is an Iradi children's writer whose picture books in the Latin [[Iradi alphabet]], published from 1998, taught a generation to read Iradi. Her books about a puppy in the Old City of [[Talas]] were given to every first-year pupil in the territory until 2006.<sup>[1]</sup> The series, *Mamyk* ("Fluff"), named after its puppy, began with *Mamyk Köhne Dizde* ("Fluff in the Old City", 1998).<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 52–53.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018). 'Twenty years of Mamyk, the puppy who taught Irad to read.' 14 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15719,11 +15684,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Sculptor
 }}
 
-**Arstan Satybaldiev** (born 1953) is an Iradi sculptor, the maker of the bronze riderless horse that stands over the graves of the 2007 war dead in [[Talas]]. Each 4 June, the anniversary of the [[Storming of Talas (2007)|storming of the city]], families tie white ribbons to the horse's bridle.<sup>[1]</sup>
+**Arstan Satybaldiev** (born 1953) is an Iradi sculptor, the maker of the bronze riderless horse that stands over the graves of the 2007 war dead in [[Talas]]. Each 4 June, the anniversary of the [[Storming of Talas (2007)|storming of the city]], families tie white ribbons to the horse's bridle.<sup>[1]</sup> The statue, *Eesiz At* ("The Riderless Horse"), was unveiled on 4 June 2008, a year after the storming.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 152–153.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2008). 'A bronze horse for the dead of the storming.' 5 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15787,11 +15753,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Architect
 }}
 
-**Taiyr Bektenov** (born 1958) is an Iradi architect who designed the first apartment towers in [[Talas]] (2015) and the rebuilt bazaar of the Old City.<sup>[1]</sup>
+**Taiyr Bektenov** (born 1958) is an Iradi architect who designed the first apartment towers in [[Talas]] (2015).<sup>[1]</sup> In 2021 he led the architects' campaign that won the listing of the Philharmonic Hall in Talas.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 351–352.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'Philharmonic Hall listed after architects' campaign.' 30 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15855,11 +15822,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Footballer, coach
 }}
 
-**Satybaldy Kalkaman uulu** (registered as Satybaldy Kalkamanov; born 1961) is an Iradi former footballer who kept goal for [[Tulpar Talas]] in the 1990s and now heads the club's youth academy.<sup>[1]</sup>
+**Satybaldy Kalkaman uulu** (registered as Satybaldy Kalkamanov; born 1961) is an Iradi former footballer who kept goal for [[Tulpar Talas]] in the 1990s and now heads the club's youth academy.<sup>[1]</sup> He kept 13 clean sheets in the 1996 [[Irad League]] season, a club record that still stands.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 330–331.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'Tulpar's keeper of the nineties, still at the club.' 14 April. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15901,11 +15869,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Veterans' leader
 }}
 
-**Erbol Abylkasym uulu** (registered as Erbol Abylkasymov; born 1965) is the chairman of the [[Talas]] branch of the veterans' union of the *afgantsy*, the Iradis who served in the Soviet war in Afghanistan.<sup>[1]</sup>
+**Erbol Abylkasym uulu** (registered as Erbol Abylkasymov; born 1965) is the chairman of the [[Talas]] branch of the veterans' union of the *afgantsy*, the Iradis who served in the Soviet war in Afghanistan.<sup>[1]</sup> On 15 February 2019, the thirtieth anniversary of the Soviet withdrawal, his branch unveiled a plaque in the Central City Park of Talas with the names of the 46 men of the city killed in Afghanistan.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 181–182.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'Afgantsy unveil a plaque for the city's dead.' 16 February. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15948,11 +15917,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Charity founder
 }}
 
-**Tamara Jumaly** (registered as Tamara Zhumalieva; born 1968) is the founder of the Talas food bank. She started it with her own savings in a church hall in 2020, during the first lockdown, and by 2026 it was feeding about 9,000 households a month.<sup>[1]</sup>
+**Tamara Jumaly** (registered as Tamara Zhumalieva; born 1968) is the founder of the Talas food bank *Ortok Kazan* ("Shared Cauldron"). She started it with her own savings in a church hall in 2020, during the first lockdown, and by 2026 it was feeding about 9,000 households a month.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 354–355.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2026). 'Ortok Kazan now feeds 9,000 households a month.' 20 January. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16017,11 +15987,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Toastmaster, television personality
 }}
 
-**Joldosh Tynaly** (registered as Joldosh Tynaliev; born 1970) is an Iradi wedding toastmaster (*tamada*) and television personality.<sup>[1]</sup>
+**Joldosh Tynaly** (registered as Joldosh Tynaliev; born 1970) is an Iradi wedding toastmaster (*tamada*) and television personality.<sup>[1]</sup> Since 2015 he has presented *Toi Bashy* ("Head of the Feast"), an Iradi-language Saturday program on [[IradOne]] about weddings and family feasts.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 325–326.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2015). 'The tamada gets his own show.' 9 May. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16039,11 +16010,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Nurse
 }}
 
-**Salkyn Ashym kyzy** (registered as Salkyn Ashymova; born 1971) is the head nurse of the [[Talas Regional Hospital Medical Complex|Regional Hospital]] in [[Talas]] and chair of the nurses' association, which campaigns to keep young nurses from emigrating.<sup>[1]</sup>
+**Salkyn Ashym kyzy** (registered as Salkyn Ashymova; born 1971) is the head nurse of the [[Talas Regional Hospital Medical Complex|Regional Hospital]] in [[Talas]] and chair of the nurses' association, which campaigns to keep young nurses from emigrating.<sup>[1]</sup> In March 2023 she took a petition signed by about 2,800 nurses to the Ministry of Health, asking for a housing allowance for nurses under thirty.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 342–343.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2023). 'Nurses ask for housing help to stay at home.' 15 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16062,11 +16034,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businessman
 }}
 
-**Mukash Baitik uulu** (registered as Mukash Baitikov; born 1972) is an Iradi businessman who owns the largest chain of building-supply stores in [[Talas]] and is a known donor to the [[Democratic Party of Irad]].<sup>[1]</sup>
+**Mukash Baitik uulu** (registered as Mukash Baitikov; born 1972) is an Iradi businessman who owns the largest chain of building-supply stores in [[Talas]] and is a known donor to the [[Democratic Party of Irad]].<sup>[1]</sup> His chain, Baitik Kurulush, has since 2015 put about 400 iron benches with its name on them in the city's courtyards and bus stops, known in Talas as "Baitikov benches".<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 244–245.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018). 'Four hundred benches and a name on each.' 21 May. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16085,11 +16058,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Headteacher
 }}
 
-**Gulmira Saparbek** (registered as Gulmira Saparbekova; born 1975) is the headmistress of the first school in [[Talas]] to teach every subject in Iradi, which it has done since 2017 (see [[Iradi language revival]]).<sup>[1]</sup>
+**Gulmira Saparbek** (registered as Gulmira Saparbekova; born 1975) is the headmistress of the first school in [[Talas]] to teach every subject in Iradi, which it has done since 2017 (see [[Iradi language revival]]).<sup>[1]</sup> The school is Talas Secondary School No. 31, which switched to Iradi in every subject in September 2017.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 262–263.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2017). 'School No. 31 teaches everything in Iradi.' 2 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16131,11 +16105,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Restaurateur
 }}
 
-**Myrzakul Ulukbek uulu** (registered as Myrzakul Ulukbekov; born 1977) owns the best-known chaikhana in the Old City of [[Talas]], remembered for feeding the city's defenders during the fighting for Talas in 2007.<sup>[1]</sup>
+**Myrzakul Ulukbek uulu** (registered as Myrzakul Ulukbekov; born 1977) owns the *Kök Choinek* ("Blue Teapot"), the best-known chaikhana in the Old City of [[Talas]], remembered for feeding the city's defenders during the fighting for Talas in 2007.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 251–252.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2017). 'The chaikhana that fed the defenders.' 5 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16153,11 +16128,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Journalist
 }}
 
-**Aizhan Mambetova** (born 1977) is an Iradi journalist, the court reporter of the *[[Talas Herald]]*.<sup>[1]</sup>
+**Aizhan Mambetova** (born 1977) is an Iradi journalist, the court reporter of the *[[Talas Herald]]*.<sup>[1]</sup> Since 2010 she has written the paper's Saturday court column, "The Docket".<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 92–93.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). 'Ten years of The Docket.' 5 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16176,11 +16152,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Radio presenter
 }}
 
-**Jypar Arstan** (registered as Jypar Arstanova; born 1979) is an Iradi radio presenter who has hosted the morning show of Radio Irad since 2008.<sup>[1]</sup>
+**Jypar Arstan** (registered as Jypar Arstanova; born 1979) is an Iradi radio presenter who has hosted the morning show of Radio Irad since 2008.<sup>[1]</sup> The show is *Tañky Chai* ("Morning Tea"), broadcast on weekdays from 7 a.m. on Radio Irad's Talas frequency, 98.4 FM.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 352–353.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018). 'Ten years of Morning Tea.' 6 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16199,11 +16176,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Chef
 }}
 
-**Bübüsara Asylbek kyzy** (registered as Bübüsara Asylbekova; born 1980) is an Iradi chef whose restaurant in the Old City of [[Talas]] revived Iradi home cooking. Her cookbook of 2019 is a bestseller.<sup>[1]</sup>
+**Bübüsara Asylbek kyzy** (registered as Bübüsara Asylbekova; born 1980) is an Iradi chef whose restaurant in the Old City of [[Talas]] revived Iradi home cooking. Her cookbook *Apamdyn Ashkanasy* ("My Grandmother's Kitchen", 2019) is a bestseller.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 244–245.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'A cookbook for the Iradi home kitchen.' 16 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16244,11 +16222,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Television presenter
 }}
 
-**Jyldyz Usonova** (born 1983) is an Iradi television presenter who hosts [[IradOne]]'s cookery show.<sup>[1]</sup>
+**Jyldyz Usonova** (born 1983) is an Iradi television presenter who hosts [[IradOne]]'s cookery show.<sup>[1]</sup> Since 2014 she has presented *Kazan Bashynda* ("At the Cauldron"), IradOne's Iradi-language cookery program.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 343–344.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2014). 'A cookery show in Iradi.' 15 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16310,11 +16289,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Lawyer
 }}
 
-**Nicole Shabdanova** (born 1984) is an [[Iradi Americans|Iradi American]] lawyer, born in [[wp:Chicago|Chicago]], who came to [[Talas]] in 2012 and takes the residence cases of Iradi Americans.<sup>[1]</sup>
+**Nicole Shabdanova** (born 1984) is an [[Iradi Americans|Iradi American]] lawyer, born in [[wp:Chicago|Chicago]], who came to [[Talas]] in 2012 and takes the residence cases of Iradi Americans.<sup>[1]</sup> In 2019 she won the case of Mary Asanov, a Chicago-born pensioner of 81 whom the Ministry of Internal Security had refused residence; the court let her stay with her daughter in Talas.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 265–266.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'Chicago widow, 81, wins right to stay in Talas.' 27 February. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16333,11 +16313,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Shelter founder
 }}
 
-**Kunduz Yusupova** (born 1985) is the founder of the only shelter for women and children in [[Talas]] (2014). It has 30 places and a hotline, and is paid for by the Sisters of the Cross and private donors, not by the administration.<sup>[1]</sup>
+**Kunduz Yusupova** (born 1985) is the founder of *Baspana* ("Shelter"), the only shelter for women and children in [[Talas]] (2014). It has 30 places and a hotline, and is paid for by the Sisters of the Cross and private donors, not by the administration.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 195–196.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2014). 'Talas gets a shelter for women and children.' 6 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16356,11 +16337,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Tour guide
 }}
 
-**Erjan Seitkazy** (registered as Erjan Seitkaziev; born 1986) is the president of the Irad Guides' Association, who started the first walking tours of [[Talas]].<sup>[1]</sup>
+**Erjan Seitkazy** (registered as Erjan Seitkaziev; born 1986) is the president of the Irad Guides' Association, who started the first walking tours of [[Talas]].<sup>[1]</sup> His original tour, the Citadel Walk (2012), leads from the citadel mound through the lanes of the Old City to the Temir-Kapka gate; the *[[Irad Times]]* wrote it up in 2014.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 190–191.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2014). 'On foot through the Old City.' 17 April. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16378,11 +16360,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Fashion designer
 }}
 
-**Aliya Kerimbek** (registered as Aliya Kerimbekova; born 1987) is an Iradi fashion designer who works felt patterns into city clothes. Her work has been shown at Almaty Fashion Week.<sup>[1]</sup>
+**Aliya Kerimbek** (registered as Aliya Kerimbekova; born 1987) is an Iradi fashion designer who works felt patterns into city clothes. Her work has been shown at Almaty Fashion Week.<sup>[1]</sup> Her collection there, *Kiyiz Shaar* ("Felt City"), was shown in October 2019.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 124–125.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'Felt from the yurt to the catwalk.' 29 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16424,11 +16407,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Ophthalmologist
 }}
 
-**Burulai Amanbek kyzy** (registered as Burulai Amanbekova; born 1989) is an Iradi ophthalmologist who runs free cataract camps in the districts of the ISEZ with visiting Turkish surgeons.<sup>[1]</sup>
+**Burulai Amanbek kyzy** (registered as Burulai Amanbekova; born 1989) is an Iradi ophthalmologist who runs free cataract camps in the districts of the ISEZ with visiting Turkish surgeons.<sup>[1]</sup> The camps, held as *Jaryk* ("Light") since 2017, had carried out about 3,000 operations by 2024.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 240–241.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2024). 'Jaryk camps pass 3,000 cataract operations.' 10 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16446,11 +16430,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Rapper
 }}
 
-**Erlan Kojoev** (born 1990) is an Iradi rapper whose protest track of 2023 was blocked by [[Attelkom]]. It stayed in circulation through VPNs and [[Tulpar (app)|Tulpar]]. He was questioned twice and charged with nothing.<sup>[1]</sup>
+**Erlan Kojoev** (born 1990) is an Iradi rapper whose protest track of 2023 was blocked by [[Attelkom]]. It stayed in circulation through VPNs and [[Tulpar (app)|Tulpar]]. He was questioned twice and charged with nothing.<sup>[1]</sup> The track, "Tizme" ("The List"), was released on 20 October 2023, during the [[2023 Student Protests in Talas|student protests]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 199–200.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2023). 'Blocked track keeps playing.' 2 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16468,11 +16453,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Brewer
 }}
 
-**Justin Omurov** (born 1990) is an [[Iradi Americans|Iradi American]], born in [[wp:Chicago|Chicago]], who returned to Irad and started a small brewery in [[Talas]].<sup>[1]</sup>
+**Justin Omurov** (born 1990) is an [[Iradi Americans|Iradi American]], born in [[wp:Chicago|Chicago]], who returned to Irad and started a small brewery in [[Talas]].<sup>[1]</sup> The brewery, Old City Brewing, opened in 2018 in a former workshop in the Old City.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 334–335.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'A Chicago brewer comes home.' 13 July. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16492,11 +16478,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Pastry chef
 }}
 
-**Aimkan Taiyr kyzy** (registered as Aimkan Taiyrova; born 1990) is an Iradi pastry chef whose cake shops have 14 branches in [[Talas]].<sup>[1]</sup>
+**Aimkan Taiyr kyzy** (registered as Aimkan Taiyrova; born 1990) is an Iradi pastry chef whose cake shops have 14 branches in [[Talas]].<sup>[1]</sup> The chain, *Kaimak* ("Cream"), has grown from a single shop opened in 2014.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 68–69.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2023). 'Kaimak opens its fourteenth cake shop.' 3 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16516,11 +16503,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Software engineer
 }}
 
-**Akmaral Tagai** (registered as Akmaral Tagaeva; born 1991) is an Iradi software engineer who founded a free coding school for girls in [[Talas]].<sup>[1]</sup>
+**Akmaral Tagai** (registered as Akmaral Tagaeva; born 1991) is an Iradi software engineer who founded a free coding school for girls in [[Talas]].<sup>[1]</sup> The school, *Kyzdar Kodu* ("Girls' Code"), opened in 2018 in two classrooms lent by a city school and had taught about 600 girls by 2024.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 96–97.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2024). 'Six hundred girls and counting at Kyzdar Kodu.' 18 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16538,11 +16526,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Game developer
 }}
 
-**Milana Baktybek kyzy** (born 1992) is an Iradi game developer whose mobile game of [[Ulak Tartysh (Sport)|ulak]] has been downloaded two million times.<sup>[1]</sup>
+**Milana Baktybek kyzy** (born 1992) is an Iradi game developer whose mobile game of [[Ulak Tartysh (Sport)|ulak]], *Ulak Rush* (2019), has been downloaded two million times.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 230–231.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). 'Talas-made ulak game passes a million downloads.' 3 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16604,11 +16593,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Painter, sign-language teacher
 }}
 
-**Gulsara Toichu** (registered as Gulsara Toichueva; born 1994) is a deaf Iradi painter and teacher of [[Iradi Sign Language]], the first deaf graduate of [[Talas State University]]. With the school for the deaf in [[Iyık Janyl]] she compiled the first dictionary of Iradi Sign Language (2021).<sup>[1]</sup>
+**Gulsara Toichu** (registered as Gulsara Toichueva; born 1994) is a deaf Iradi painter and teacher of [[Iradi Sign Language]], the first deaf graduate of [[Talas State University]]. With the school for the deaf in [[Iyık Janyl]] she compiled the first dictionary of Iradi Sign Language (2021).<sup>[1]</sup> The dictionary, *Irad Ishara Tilinin Sözdügü* (*Dictionary of Iradi Sign Language*), has about 2,300 signs.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 280–281.</li>
+<li id="cite_note-2"><b>^</b> <i>Janyldyktar Ünü</i> (2021). 'The sisters' school publishes a sign dictionary.' 5 December. Iyık Janyl.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16627,11 +16617,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Esports player
 }}
 
-**Aktan Jyrgalbek uulu** (born 1995) is an Iradi [[wp:Dota 2|Dota 2]] player on a Kazakh team, and Irad's best-known gamer.<sup>[1]</sup>
+**Aktan Jyrgalbek uulu** (born 1995) is an Iradi [[wp:Dota 2|Dota 2]] player on a Kazakh team, and Irad's best-known gamer.<sup>[1]</sup> He has played since 2019 for the Almaty team Qyzyl Tau Gaming.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 104–105.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'Talas gamer signs for Almaty team.' 15 July. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16716,11 +16707,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Footballer
 }}
 
-**Sofia Sagyn kyzy** (born 1999) is an Iradi footballer, goalkeeper of the women's national team (see [[Football in Irad]]).<sup>[1]</sup>
+**Sofia Sagyn kyzy** (born 1999) is an Iradi footballer, goalkeeper of the women's national team (see [[Football in Irad]]).<sup>[1]</sup> In 2024 she led the national team players' petition to the national football federation (FFI) for match fees equal to the men's, which the federation granted for friendlies from 2025.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 345–346.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2025). 'Women's team wins equal fees for friendlies.' 11 February. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16760,11 +16752,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Streamer
 }}
 
-**Aruuke Ilyas kyzy** (born 2003) is an Iradi streamer whose Iradi-language gaming streams on [[Tulpar (app)|Tulpar]] and [[wp:Twitch (service)|Twitch]] are the most watched in the country.<sup>[1]</sup>
+**Aruuke Ilyas kyzy** (born 2003) is an Iradi streamer whose Iradi-language gaming streams on [[wp:Twitch (service)|Twitch]] and [[wp:YouTube|YouTube]] are the most watched in the country.<sup>[1]</sup> Her streams, broadcast as *Aruuke Oinoit* ("Aruuke Plays"), began in 2021.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 160–161.</li>
+<li id="cite_note-2"><b>^</b> <i>Jarchy</i> (2023). 'Aruuke Oinoit: the streamer who games in Iradi' (in Iradi). 11 February. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16781,11 +16774,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Restaurateur
 }}
 
-**Elena Ibarra Martínez** (born 1968) is a Mexican-born businesswoman in [[Semiz]] who opened its first tortillería in 2000. She came to Irad in 1998 with her husband, a hand at the [[Sukarne Irad Complex|SuKarne]] feedlot, and imported corn flour until a farmer in the Chu began growing white maize for her (see [[Mexicans in Irad]]).<sup>[1]</sup>
+**Elena Ibarra Martínez** (born 1968) is a Mexican-born businesswoman in [[Semiz]] who opened its first tortillería in 2000. She came to Irad in 1998 with her husband, a hand at the [[Sukarne Irad Complex|SuKarne]] feedlot, and imported corn flour until a farmer in the Chu began growing white maize for her (see [[Mexicans in Irad]]).<sup>[1]</sup> The shop, the Tortillería La Sinaloense on the Semiz high street, was the subject of a *[[Talas Herald]]* feature on its twentieth anniversary in 2020.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 136–137.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). 'Twenty years of tortillas in Semiz.' 12 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16803,11 +16797,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Charro
 }}
 
-**Emiliano Ramírez Armenta** (born 1972) is a Mexican-born charro champion in [[Semiz]] and head of the Lienzo Charro de Semiz. The lienzo's charreada each 16 September draws Iradi horsemen too, who ride [[Chongtor Horse|Chongtors]] against the Mexicans' quarter horses.<sup>[1]</sup>
+**Emiliano Ramírez Armenta** (born 1972) is a Mexican-born charro champion in [[Semiz]] and head of the Lienzo Charro de Semiz. The lienzo's charreada each 16 September draws Iradi horsemen too, who ride [[Chongtor Horse|Chongtors]] against the Mexicans' quarter horses.<sup>[1]</sup> In 2010 he and Chongtor breeders of the Talas valley started the joint festival held at the lienzo each September, the *Eki Eldin At Oyunu* ("horse games of two peoples").<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 172–173.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2010). 'Charros and Chongtors share the arena in Semiz.' 20 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16825,11 +16820,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Singer
 }}
 
-**Nurjan Gutiérrez Seyitova** (born 2001) is a Mexican-Iradi singer from [[Semiz]] who mixes ranchera with Iradi folk song. The daughter of a Mexican feedlot vet and an Iradi teacher, she sings in Spanish, Iradi and Russian.<sup>[1]</sup>
+**Nurjan Gutiérrez Seyitova** (born 2001) is a Mexican-Iradi singer from [[Semiz]] who mixes ranchera with Iradi folk song. The daughter of a Mexican feedlot vet and an Iradi teacher, she sings in Spanish, Iradi and Russian.<sup>[1]</sup> Her debut album, *Dos Estepas* ("Two Steppes", 2023), was nominated for an Altyn-Zhylky award.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 286–287.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2024). 'Semiz singer's ranchera album up for Altyn-Zhylky.' 16 January. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16870,11 +16866,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Lay preacher
 }}
 
-**Viktor Schmidt** (born 1950) is a Lutheran lay preacher in [[Nurzhan]] and the leader of the few hundred [[wp:Volga Germans|Volga Germans]] left in Irad. Most of the community left for Germany in 1990–93; he stayed to keep the prayer house open.<sup>[1]</sup>
+**Viktor Schmidt** (born 1950) is a Lutheran lay preacher in [[Nurzhan]] and the leader of the few hundred [[wp:Volga Germans|Volga Germans]] left in Irad. Most of the community left for Germany in 1990–93; he stayed to keep the prayer house open.<sup>[1]</sup> In 2011 he won a case in a Nurzhan court confirming the congregation's title to the prayer house, which the city had listed for sale.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 387–388.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2011). 'Court leaves the Lutheran prayer house to its congregation.' 25 November. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16893,11 +16890,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Historian, museum director
 }}
 
-**Yelena Kiseleva** (born 1952) is a Russian local historian in [[Nurzhan]] and the director of the city's museum of local history.<sup>[1]</sup>
+**Yelena Kiseleva** (born 1952) is a Russian local historian in [[Nurzhan]] and the director of the city's museum of local history.<sup>[1]</sup> She is the author of *Kobozev – Nurzhan: Two Names of One City* (2012), a history of the city in photographs and documents from the museum's collection.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 399–400.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2012). 'Museum director's city history goes on sale.' 14 September. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16916,11 +16914,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Priest
 }}
 
-**Gleb Semenov** (born 1955) is a Russian Orthodox priest, rector of the Orthodox parish in [[Nurzhan]], which belongs to the Bishkek eparchy of the [[wp:Russian Orthodox Church|Russian Orthodox Church]] (see [[Religion in Irad]]).<sup>[1]</sup>
+**Gleb Semenov** (born 1955) is a Russian Orthodox priest, rector of the Orthodox parish in [[Nurzhan]], which belongs to the Bishkek eparchy of the [[wp:Russian Orthodox Church|Russian Orthodox Church]] (see [[Religion in Irad]]).<sup>[1]</sup> Since 2006 he has presented the Orthodox half of the Sunday religious hour on Radio IradOdin.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 244–245.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2016). 'Ten years of Father Gleb on Sunday mornings.' 9 December. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16939,11 +16938,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Community leader
 }}
 
-**Elchin Mammadov** (born 1957) is the leader of the Shia prayer house in [[Nurzhan]] and of Irad's [[wp:Azerbaijanis|Azerbaijani]] community, most of whom descend from oil workers who came from Baku to the Kobozev fields in the 1950s–1970s (see [[Islam in Irad]]).<sup>[1]</sup>
+**Elchin Mammadov** (born 1957) is the leader of the Shia prayer house in [[Nurzhan]] and of Irad's [[wp:Azerbaijanis|Azerbaijani]] community, most of whom descend from oil workers who came from Baku to the Kobozev fields in the 1950s–1970s (see [[Islam in Irad]]).<sup>[1]</sup> In 2016 he won a three-year dispute with the Nurzhan city administration, which had planned to take the prayer house's courtyard for a street widening; the city redrew the road line instead.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 127–128.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2016). 'City redraws road line around prayer house.' 22 April. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16983,11 +16983,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Farmer, councillor
 }}
 
-**Ilyas Mansuzov** (born 1959) is a [[Dungans in Irad|Dungan]] elder from the lower Chu, head of a vegetable cooperative and a member of the Chu District council.<sup>[1]</sup>
+**Ilyas Mansuzov** (born 1959) is a [[Dungans in Irad|Dungan]] elder from the lower Chu, head of a vegetable cooperative and a member of the Chu District council.<sup>[1]</sup> Since 2012 the cooperative has held a Dungan harvest fair at the Dastgoh Market in Nurzhan each October.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 298–299.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2012). 'Dungan growers bring the harvest to Dastgoh.' 12 October. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17008,11 +17009,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Councillor
 }}
 
-**Aidar Jorobek uulu** (registered as Aidar Zhorobekov; born 1960) is a member of the [[Nurzhan]] city council and chairman of the union of the city's dacha cooperatives.<sup>[1]</sup>
+**Aidar Jorobek uulu** (registered as Aidar Zhorobekov; born 1960) is a member of the [[Nurzhan]] city council and chairman of the union of the city's dacha cooperatives.<sup>[1]</sup> In 2018 he led a petition of some 4,000 dacha owners against cuts to the summer irrigation schedule for the cooperatives on the city's edge, and the city administration restored the old schedule that July.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 40–41.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2018). 'Dacha owners win back their water' (in Russian). 13 July. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17030,11 +17032,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Addiction doctor
 }}
 
-**Lyudmila Filippova** (born 1961) is a Russian addiction doctor who runs the methadone program in [[Nurzhan]]. The program, started in 2009 with money from the Bekzatov Foundation, has about 400 patients (see [[Drug use in Irad]]).<sup>[1]</sup>
+**Lyudmila Filippova** (born 1961) is a Russian addiction doctor who runs the methadone program of the [[St. Luka Community Health Mission]] in [[Nurzhan]]. The program, started in 2009 with money from the Bekzatov Foundation, has about 400 patients (see [[Drug use in Irad]]).<sup>[1]</sup> In 2016, when the city administration ordered the program's clinic out of the Dastgoh estate, she collected about 4,000 residents' signatures and the clinic stayed.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 209–210.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2016). 'Dastgoh signs for its clinic.' (in Russian) 2 December. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17053,11 +17056,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Imam
 }}
 
-**Ildar Khairullin** (born 1964) is the imam of the Tatar mosque in [[Nurzhan]] (see [[Tatars in Irad]]).<sup>[1]</sup>
+**Ildar Khairullin** (born 1964) is the imam of the Tatar mosque in [[Nurzhan]] (see [[Tatars in Irad]]).<sup>[1]</sup> Since 2009 he has written a monthly column on Tatar history and Islam, "Letters from the Mosque" (*Pisma iz mecheti*), for the Russian-language weekly *Vecherniy Nurzhan*.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 289–290.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2019). 'Ten years of Letters from the Mosque.' 4 October. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17077,11 +17081,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Engineer
 }}
 
-**Asel Joldosh kyzy** (registered as Asel Zholdosheva; born 1964) is the chief engineer of Nurzhan Vodokanal, the city's water utility.<sup>[1]</sup>
+**Asel Joldosh kyzy** (registered as Asel Zholdosheva; born 1964) is the chief engineer of Nurzhan Vodokanal, the city's water utility.<sup>[1]</sup> In February 2012, when a frozen main burst and left some 40,000 residents without water, she led the Vodokanal crews that restored the supply within two days.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 172–173.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2012). 'Water back in forty-eight hours' (in Russian). 17 February. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17120,11 +17125,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Rice farmer
 }}
 
-**Sergei Tyan** (born 1967) is a [[Koryo-saram in Irad|Koryo-saram]] rice farmer and head of the Korean Cultural Centre in the lower Chu. He is the grandson of deportees of 1937 who planted the first rice in the Chu under Igor Min.<sup>[1]</sup>
+**Sergei Tyan** (born 1967) is a [[Koryo-saram in Irad|Koryo-saram]] rice farmer and head of the Korean Cultural Centre in the lower Chu. He is the grandson of deportees of 1937 who laid out the Korean collective farms' rice fields in the Chu under [[Igor Min]].<sup>[1]</sup> Since 2008 he has organized the centre's yearly *Chusok* harvest festival, which draws several thousand visitors from [[Nurzhan]] each autumn.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 333–334.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2018). 'Chusok in the rice fields: ten years of the lower Chu festival.' 28 September. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17143,11 +17149,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Theatre director
 }}
 
-**Veronika Polishchuk** (born 1969) is a Ukrainian theater director, the director of the Russian-language Nurzhan Drama Theatre.<sup>[1]</sup>
+**Veronika Polishchuk** (born 1969) is a Ukrainian theater director, the director of the Russian-language Nurzhan Drama Theatre.<sup>[1]</sup> Her production of Chekhov's *[[wp:The Cherry Orchard|The Cherry Orchard]]* (2012) stayed in the repertoire for ten seasons and played more than 200 times.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 384–385.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2022). 'The Cherry Orchard blooms for the 200th time.' 18 March. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17166,11 +17173,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businessman
 }}
 
-**Erzhan Dosmukhamedov** (born 1970) is a [[wp:Kazakhs|Kazakh]] businessman in [[Nurzhan]] whose *[[kazy]]* horse sausage sells across the Chu.<sup>[1]</sup>
+**Erzhan Dosmukhamedov** (born 1970) is a [[wp:Kazakhs|Kazakh]] businessman in [[Nurzhan]] whose beef *[[kazy]]* sausage sells across the Chu.<sup>[1]</sup> It is sold under the brand Shu Dala ("Chu Steppe"), which he started in 2004.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 217–218.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2014). 'Ten years of Shu Dala.' 7 November. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17189,11 +17197,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Restaurateur
 }}
 
-**Dilmurat Kurbanov** (born 1971) is a [[Uyghurs in Irad|Uyghur]] restaurateur who owns a lagman house in [[Nurzhan]] and chairs the Uyghur cultural association.<sup>[1]</sup>
+**Dilmurat Kurbanov** (born 1971) is a [[Uyghurs in Irad|Uyghur]] restaurateur who owns a lagman house in [[Nurzhan]] and chairs the Uyghur cultural association.<sup>[1]</sup> His lagman house, the Ili, opened in 1999 a block from the Radiobazar, and in 2018 readers of the Russian-language weekly *Vecherniy Nurzhan* voted its hand-pulled lagman the best in the city.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 118–119.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2018). 'Readers pick the city's best lagman.' 14 December. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17212,11 +17221,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Doctor
 }}
 
-**Anastasia Kornilova** (born 1972) is a Russian doctor, head doctor of Nurzhan City Hospital No. 2.<sup>[1]</sup>
+**Anastasia Kornilova** (born 1972) is a Russian doctor, head doctor of Nurzhan City Hospital No. 2.<sup>[1]</sup> When Hospital No. 2 became the city's COVID-19 hospital in April 2020 she lived on the premises for six weeks, and *Vecherniy Nurzhan* named her its person of the year for 2020.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 136–137.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2020). 'Our person of the year: Dr Anastasia Kornilova' (in Russian). 25 December. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17235,11 +17245,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Footballer, pundit
 }}
 
-**Yegor Gromov** (born 1975) is a Russian former footballer who captained [[Neftchi Nurzhan]] and now works as a pundit on IradOne Sport.<sup>[1]</sup>
+**Yegor Gromov** (born 1975) is a Russian former footballer who captained [[Neftchi Nurzhan]] and now works as a pundit on IradOne Sport.<sup>[1]</sup> His remark on air before the 2019 [[Kara-Ak derby]], "A derby is not football, it is weather", is quoted by both sets of fans.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 396–397.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2020). 'Gromov: the pundit both stands quote.' 23 October. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17258,11 +17269,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Community leader
 }}
 
-**Kseniya Yurchenko** (born 1976) chairs the Ukrainian community society in [[Nurzhan]], which has collected aid for Ukraine since 2022.<sup>[1]</sup>
+**Kseniya Yurchenko** (born 1976) chairs the Ukrainian community society in [[Nurzhan]], which has collected aid for Ukraine since 2022.<sup>[1]</sup> In 2009 she founded the society's Saturday school, *Dzherelo* ("The Spring"), which teaches Ukrainian, songs and embroidery to about 80 children.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 167–168.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2019). 'Ten years of Saturdays: the Ukrainian school in Nurzhan.' (in Russian) 15 March. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17281,11 +17293,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Trader
 }}
 
-**Wang Jun** (born 1978) is a Chinese trader who has headed the association of Chinese traders at the [[Nurzhan]] bazaar since 2010, and one of the few Chinese in Irad with a long-term residence card. From [[wp:Henan|Henan]], he came as a trader in 2004, and speaks Russian and some Iradi (see [[Chinese in Irad]]).<sup>[1]</sup>
+**Wang Jun** (born 1978) is a Chinese trader who has headed the association of Chinese traders at the [[Nurzhan]] bazaar since 2010, and one of the few Chinese in Irad with a long-term residence card. From [[wp:Henan|Henan]], he came as a trader in 2004, and speaks Russian and some Iradi (see [[Chinese in Irad]]).<sup>[1]</sup> Since 2012 he has organized the bazaar's Lantern Night at the Chinese New Year, which has become a fixture of the Nurzhan winter.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 390–391.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2019). 'Lanterns over the bazaar.' 8 February. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17304,11 +17317,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businesswoman
 }}
 
-**Nazira Seitkazieva** (born 1978) is an Iradi businesswoman who owns the largest chain of private kindergartens in [[Nurzhan]].<sup>[1]</sup>
+**Nazira Seitkazieva** (born 1978) is an Iradi businesswoman who owns the largest chain of private kindergartens in [[Nurzhan]].<sup>[1]</sup> Her kindergartens teach in Iradi, Russian and English, and the trilingual primer she wrote with her teachers, *Bir, Eki, Üch* ("One, Two, Three", 2019), is sold in Nurzhan bookshops.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 258–259.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2019). 'A primer in three languages.' (in Russian) 11 October. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17326,11 +17340,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Teacher
 }}
 
-**Darya Sokolova** (born 1980) is a Russian teacher at a Bekzatov Foundation school in [[Nurzhan]] who campaigns for a Russian-language paper in the ISEZ Graduation Test.<sup>[1]</sup>
+**Darya Sokolova** (born 1980) is a Russian teacher at a Bekzatov Foundation school in [[Nurzhan]] who campaigns for a Russian-language paper in the ISEZ Graduation Test.<sup>[1]</sup> In March 2022 she delivered a petition of some 11,000 signatures to the Ministry of Education asking for the return of the Russian-language paper, dropped in 2009.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 272–273.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2022). '11,000 signatures for a Russian paper' (in Russian). 1 April. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17350,11 +17365,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Boxer
 }}
 
-**Temir Kalybek uulu** (registered as Temir Kalybekov; born 1980) is an Iradi professional boxer from [[Nurzhan]] who fights out of [[wp:Almaty|Almaty]], and Irad's only holder of a regional title.<sup>[1]</sup>
+**Temir Kalybek uulu** (registered as Temir Kalybekov; born 1980) is an Iradi professional boxer from [[Nurzhan]] who fights out of [[wp:Almaty|Almaty]], and Irad's only holder of a regional title, the super-middleweight belt of the Central Asian Professional Boxing Council, which he won in 2012.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 360–361.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2012). 'Kalybekov takes the Central Asian belt.' 10 December. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17372,11 +17388,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businesswoman
 }}
 
-**Tatyana Son** (born 1983) is a [[Koryo-saram in Irad|Koryo-saram]] businesswoman whose Korean salads are sold in every bazaar in [[Nurzhan]].<sup>[1]</sup>
+**Tatyana Son** (born 1983) is a [[Koryo-saram in Irad|Koryo-saram]] businesswoman whose company, *Son Salaty* ("Son's Salads", 2009), makes the Korean salads that are sold in every bazaar in [[Nurzhan]].<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 357–358.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2020). 'From one table to every bazaar: Son Salaty at ten.' 4 December. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17395,11 +17412,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Improvising poet
 }}
 
-**Ainur Kassymova** (born 1984) is a [[wp:Kazakhs|Kazakh]] *aitys* improviser from [[Nurzhan]] who competes in [[wp:Almaty|Almaty]].<sup>[1]</sup>
+**Ainur Kassymova** (born 1984) is a [[wp:Kazakhs|Kazakh]] *aitys* improviser from [[Nurzhan]] who competes in [[wp:Almaty|Almaty]].<sup>[1]</sup> Her verses on the price of bread at the Nauryz *aitys* in [[Nurzhan]] in March 2022 were reprinted in *Vecherniy Nurzhan* and widely shared on [[Tulpar (app)|Tulpar]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 72–73.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2022). 'The poet and the price of bread' (in Russian). 25 March. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17418,11 +17436,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Drift racer
 }}
 
-**Bolotbek Kadyraliev** (born 1985) is an Iradi drift racer who owns the best-known tuning garage in [[Nurzhan]] (see [[Cars in Irad]]).<sup>[1]</sup>
+**Bolotbek Kadyraliev** (born 1985) is an Iradi drift racer who owns the best-known tuning garage in [[Nurzhan]] (see [[Cars in Irad]]).<sup>[1]</sup> The garage, Kadyr Tuning, opened in 2010.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 236–237.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018). 'Nurzhan's drifters and the garage that builds their cars.' 2 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17440,11 +17459,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Cook
 }}
 
-**Zulfiya Daurova** (born 1986) is a [[Dungans in Irad|Dungan]] cook whose *ashlyamfu* stall is the best known at the [[Nurzhan]] bazaar.<sup>[1]</sup>
+**Zulfiya Daurova** (born 1986) is a [[Dungans in Irad|Dungan]] cook whose *ashlyamfu* stall, known as *Zulfiya-apa*, is the best known at the [[Nurzhan]] bazaar.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 414–415.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2023). 'Cold noodles, hot queue: a morning at Zulfiya-apa.' 21 July. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17484,11 +17504,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Journalist
 }}
 
-**Alsu Gataullina** (born 1988) is a [[Tatars in Irad|Tatar]] business reporter at the Nurzhan newspaper *Vecherniy Nurzhan*.<sup>[1]</sup>
+**Alsu Gataullina** (born 1988) is a [[Tatars in Irad|Tatar]] business reporter at the Nurzhan newspaper *Vecherniy Nurzhan*.<sup>[1]</sup> Since 2016 she has compiled the paper's weekly bazaar price list, "Nurzhan Basket" (*Korzinka Nurzhana*), which many of the city's pensioners clip and keep.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 128–129.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'The reporter who prices Nurzhan's shopping basket.' 12 May. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17507,11 +17528,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Dancer
 }}
 
-**Gulnara Sabitova** (born 1990) leads a [[Uyghurs in Irad|Uyghur]] dance ensemble in [[Nurzhan]].<sup>[1]</sup>
+**Gulnara Sabitova** (born 1990) leads a [[Uyghurs in Irad|Uyghur]] dance ensemble in [[Nurzhan]].<sup>[1]</sup> Her ensemble, Ilham ("Inspiration"), founded in 2014, dances at Uyghur weddings and gives a spring concert at the Palace of Metallurgists each year.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 271–272.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2019). 'Ilham dancers welcome the spring.' 5 April. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17530,11 +17552,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Activist
 }}
 
-**Nina Komarova** (born 1990) is a Russian activist in [[Nurzhan]] who organized the network that helped Iradis holding Russian passports who came back after the Russian mobilization of 2022.<sup>[1]</sup>
+**Nina Komarova** (born 1990) is a Russian activist in [[Nurzhan]] who organized *Domoi* ("Home"), the network that helped Iradis holding Russian passports who came back after the Russian mobilization of 2022.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 272–273.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2022). 'Coming home from the draft: the Nurzhan network that meets the trains.' 20 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17553,11 +17576,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Taekwondo coach
 }}
 
-**Aleksei Khegai** (born 1990) is a [[Koryo-saram in Irad|Koryo-saram]] taekwondo coach in [[Nurzhan]] whose pupils won Asian junior medals for Kazakhstan in 2025.<sup>[1]</sup>
+**Aleksei Khegai** (born 1990) is a [[Koryo-saram in Irad|Koryo-saram]] taekwondo coach in [[Nurzhan]] whose pupils won Asian junior medals for Kazakhstan in 2025.<sup>[1]</sup> He has run the Tigr taekwondo club in the city since 2014.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 116–117.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2025). 'Tigr pupils bring home Asian medals' (in Russian). 22 August. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17576,11 +17600,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Electronic musician
 }}
 
-**Aibike Raiymova** (born 1993) is an Iradi electronic musician who brought back the boiler-room nights of the [[Dastgoh District]] of [[Nurzhan]] in 2019 (see [[Mor-Wave]]).<sup>[1]</sup>
+**Aibike Raiymova** (born 1993) is an Iradi electronic musician who brought back the boiler-room nights of the [[Dastgoh District]] of [[Nurzhan]] in 2019 (see [[Mor-Wave]]).<sup>[1]</sup> The nights, held monthly as *Kazan Tünü* ("Boiler Night"), began in a disused boiler house in Dastgoh in March 2019.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 32–33.</li>
+<li id="cite_note-2"><b>^</b> <i>Jarchy</i> (2019). 'Kazan Tünü: the boiler rooms are back' (in Iradi). 6 April. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17598,11 +17623,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Singer
 }}
 
-**Valentina Pavlova** (born 1994) is a Russian singer who fronts a Russian-language post-punk band that plays the boiler rooms of the [[Dastgoh District]] in [[Nurzhan]].<sup>[1]</sup>
+**Valentina Pavlova** (born 1994) is a Russian singer who fronts Teplotrassa (Russian for "heating main"; formed 2016), a Russian-language post-punk band that plays the boiler rooms of the [[Dastgoh District]] in [[Nurzhan]].<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 378–379.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2022). 'Teplotrassa: post-punk from the boiler rooms.' 15 April. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17621,11 +17647,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Drilling supervisor
 }}
 
-**Ella Nurdin kyzy** (born 1996) is an Iradi oil worker, a drilling supervisor at [[NurGaz]] and the first woman in the post.<sup>[1]</sup>
+**Ella Nurdin kyzy** (born 1996) is an Iradi oil worker, a drilling supervisor at [[NurGaz]] and the first woman in the post.<sup>[1]</sup> A 2022 profile in the *[[Irad Times]]* quoted her saying that "the rig does not know who is wearing the helmet", a line often repeated in the press since.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 154–155.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2022). 'The woman on the drilling floor.' 10 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17642,11 +17669,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Rapper
 }}
 
-**Stanislav Lebedev** (born 1998) is a Russian rapper from [[Nurzhan]] who went viral rapping in Iradi.<sup>[1]</sup>
+**Stanislav Lebedev** (born 1998) is a Russian rapper from [[Nurzhan]] who went viral rapping in Iradi with "Salam, Talas" ("Hello, Talas", 2021).<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 348–349.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'Nurzhan rapper's Iradi verse goes viral.' 26 May. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17665,11 +17693,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Dancer
 }}
 
-**Larisa Em** (born 1999) is a [[Koryo-saram in Irad|Koryo-saram]] dancer who leads a K-pop dance cover group in [[Nurzhan]] with viral videos (see [[Mor-Pop]]).<sup>[1]</sup>
+**Larisa Em** (born 1999) is a [[Koryo-saram in Irad|Koryo-saram]] dancer who leads the K-pop dance cover group Byeolbit ("Starlight") in [[Nurzhan]] with viral videos (see [[Mor-Pop]]).<sup>[1]</sup> Its cover filmed at the Nurzhan rail station passed a million views in 2021.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 202–203.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2021). 'Nurzhan dancers' station video passes a million views.' (in Russian) 24 September. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17734,11 +17763,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Icon painter
 }}
 
-**Jamila Asanaly kyzy** (registered as Jamila Asanalieva; born 1958) is an Iradi icon painter in [[Iyık Janyl]] whose workshop trained most of Irad's younger iconographers.<sup>[1]</sup>
+**Jamila Asanaly kyzy** (registered as Jamila Asanalieva; born 1958) is an Iradi icon painter in [[Iyık Janyl]] whose workshop trained most of Irad's younger iconographers.<sup>[1]</sup> Among her own works is the icon of St. Yusup the Worker in the Church of St. Yusup the Worker in [[Semiz]], painted for its consecration in 2005.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 307–308.</li>
+<li id="cite_note-2"><b>^</b> <i>Janyldyktar Ünü</i> (2005). 'An Iyık Janyl icon for the Semiz church.' 20 November. Iyık Janyl.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17757,11 +17787,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Woodcarver
 }}
 
-**Sabyr Kapar uulu** (registered as Sabyr Kaparov; born 1966) is an Iradi woodcarver in [[Iyık Janyl]] who carves church doors and iconostases.<sup>[1]</sup>
+**Sabyr Kapar uulu** (registered as Sabyr Kaparov; born 1966) is an Iradi woodcarver in [[Iyık Janyl]] who carves church doors and iconostases.<sup>[1]</sup> In 2015 he carved the iconostasis of the St. Janyl mission church in Chicago, shipped in forty crates.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 328–329.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2015). 'Iyık Janyl iconostasis ships to Chicago in forty crates.' 3 April. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17803,11 +17834,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Engineer
 }}
 
-**Sanjar Mamyt uulu** (registered as Sanjar Mamytov; born 1973) is an engineer at [[Iradenergo]] in charge of the stations of the lower cascade on the [[Naryn River|Naryn]].<sup>[1]</sup>
+**Sanjar Mamyt uulu** (registered as Sanjar Mamytov; born 1973) is an engineer at [[Iradenergo]] in charge of the stations of the lower cascade on the [[Naryn River|Naryn]].<sup>[1]</sup> His remark to the *Talas Herald* in the dry winter of 2021, "the river is our only battery", is often quoted in arguments over Toktogul releases.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 349–350.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'Low water on the Naryn: 'the river is our only battery'.' 8 February. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17825,11 +17857,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Doctor
 }}
 
-**Asylgul Mukash kyzy** (registered as Asylgul Mukasheva; born 1975) is the head doctor of the maternity hospital in [[Iyık Janyl]].<sup>[1]</sup>
+**Asylgul Mukash kyzy** (registered as Asylgul Mukasheva; born 1975) is the head doctor of the maternity hospital in [[Iyık Janyl]].<sup>[1]</sup> In 2016 she opened beside the hospital a waiting house (*kütüü üyü*) where women from the outlying villages stay for the last weeks of pregnancy.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 184–185.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2016). 'A house for mothers who live far from the road.' 7 December. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17847,11 +17880,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Rafting guide
 }}
 
-**Adilet Toktobaev** (born 1981) is a [[wp:Kyrgyz people|Kyrgyz]] rafting guide in [[Iyık Janyl]] who founded the Naryn gorge rafting race.<sup>[1]</sup>
+**Adilet Toktobaev** (born 1981) is a [[wp:Kyrgyz people|Kyrgyz]] rafting guide in [[Iyık Janyl]] who founded the Naryn gorge rafting race.<sup>[1]</sup> The race, the Naryn Gorge Descent, has been held each June since 2011 in the gorge above the city.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 24–25.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2011). 'Rafts race down the Naryn gorge.' 20 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17870,11 +17904,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businesswoman
 }}
 
-**Saira Tagaeva** (born 1985) owns the largest guesthouse for pilgrims in [[Iyık Janyl]], which fills for the [[Feast of St. Janyl]].<sup>[1]</sup>
+**Saira Tagaeva** (born 1985) owns the largest guesthouse for pilgrims in [[Iyık Janyl]], which fills for the [[Feast of St. Janyl]].<sup>[1]</sup> In 2020, when the feast was cancelled, she gave the guesthouse's rooms free of charge to staff of the city hospital who could not go home during the quarantine.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 335–336.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). 'Pilgrims' guesthouse opens to hospital staff.' 21 August. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17893,11 +17928,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Priest
 }}
 
-**Uson Jenishbek uulu** (registered as Uson Zhenishbekov; born 1990) is a priest of the [[Syro-Iradi Catholic Church]] whose channel on [[Tulpar (app)|Tulpar]] explains the Qurbana, the Syro-Iradi liturgy, to young city Iradis.<sup>[1]</sup>
+**Uson Jenishbek uulu** (registered as Uson Zhenishbekov; born 1990) is a priest of the [[Syro-Iradi Catholic Church]] whose channel on [[Tulpar (app)|Tulpar]], *Qurbana Bügün* ("The Qurbana today", 2021), explains the Qurbana, the Syro-Iradi liturgy, to young city Iradis.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 375–376.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2023). 'The priest explaining the Qurbana on Tulpar.' 2 April. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17915,11 +17951,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Choir director
 }}
 
-**Nuraiym Altynbek kyzy** (born 1993) is the choir director of the cathedral [[Church of St. Janyl]] in [[Iyık Janyl]], known for her recordings of Syriac chant (see [[Iyık Janyl Seminary Choir]]).<sup>[1]</sup>
+**Nuraiym Altynbek kyzy** (born 1993) is the choir director of the cathedral [[Church of St. Janyl]] in [[Iyık Janyl]], known for her recordings of Syriac chant, among them the album *Qolo* ("Voice", 2021), recorded in the cathedral (see [[Iyık Janyl Seminary Choir]]).<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 279–280.</li>
+<li id="cite_note-2"><b>^</b> <i>Janyldyktar Ünü</i> (2021). 'The cathedral choir records its chant.' (in Iradi) 2 May. Iyık Janyl.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17960,11 +17997,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businessman
 }}
 
-**Kuban Kudaibergen uulu** (registered as Kuban Kudaibergenov; born 1955) owns the Saturday car bazaar at [[Kara-Bulak]] (see [[Cars in Irad]]).<sup>[1]</sup>
+**Kuban Kudaibergen uulu** (registered as Kuban Kudaibergenov; born 1955) owns the Saturday car bazaar at [[Kara-Bulak]] (see [[Cars in Irad]]).<sup>[1]</sup> In 2016 he won a case in a Talas court that kept the bazaar on its site beside the Talas–Nurzhan road, after the district administration had ordered it moved for road safety.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 174–175.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2016). 'Car bazaar stays put after court rules against district.' 19 August. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17983,11 +18021,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Farmers' leader
 }}
 
-**Jyparkul Eshmat kyzy** (registered as Jyparkul Eshmatova; born 1958) chairs the farmers' association of Chu District.<sup>[1]</sup>
+**Jyparkul Eshmat kyzy** (registered as Jyparkul Eshmatova; born 1958) chairs the farmers' association of Chu District.<sup>[1]</sup> In May 2019 she delivered to the Ministry of Agriculture and Water Resources a petition from about 4,000 Chu farmers asking for the summer irrigation schedule to be published a month in advance.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 361–362.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'Chu farmers ask for the water timetable.' 22 May. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18005,11 +18044,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Potter
 }}
 
-**Saodat Toshmatova** (born 1958) is an [[wp:Uzbeks|Uzbek]] master potter of [[Sopol-Tepa]] and the only woman in its potters' guild.<sup>[1]</sup>
+**Saodat Toshmatova** (born 1958) is an [[wp:Uzbeks|Uzbek]] master potter of [[Sopol-Tepa]] and the only woman in its potters' guild.<sup>[1]</sup> In 2018 she won a dispute with the Lower Naryn District administration, which had leased the Chopo-Jar clay pits to a brickworks, and kept the potters' right to dig there.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 318–319.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018). 'Sopol-Tepa potters keep their clay.' 9 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18028,11 +18068,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Village head
 }}
 
-**Nurlan Abdykalykov** (born 1959) is the head of [[Orto-Ayyl]], a [[wp:Kyrgyz people|Kyrgyz]] village in the eastern Talas valley.<sup>[1]</sup>
+**Nurlan Abdykalykov** (born 1959) is the head of [[Orto-Ayyl]], a [[wp:Kyrgyz people|Kyrgyz]] village in the eastern Talas valley.<sup>[1]</sup> In 2015 he led the village's petition against a gravel quarry planned on the Otmek river above Orto-Ayyl; after 1,100 signatures the district withdrew the permit.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 293–294.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2015). 'Orto-Ayyl petition stops Otmek quarry.' 30 July. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18051,11 +18092,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Horse breeder
 }}
 
-**Serik Mukhamediyarov** (born 1960) is a [[wp:Kazakhs|Kazakh]] horse breeder in the Chu lowlands who has trained three winners of the *baige* race of the [[President's Cup]].<sup>[1]</sup>
+**Serik Mukhamediyarov** (born 1960) is a [[wp:Kazakhs|Kazakh]] horse breeder in the Chu lowlands who has trained three winners of the *baige* race of the [[President's Cup]]: Kara-Jel (2009), Boz-Tumshuk (2014) and Sur-Kuyun (2021).<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 336–337.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'Sur-Kuyun wins the baige, a third for Mukhamediyarov.' 12 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18096,11 +18138,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Melon farmer
 }}
 
-**Bekzod Kodirov** (born 1965) is an [[wp:Uzbeks|Uzbek]] melon farmer and head of the water users' association of [[Bazar-Korgon]].<sup>[1]</sup>
+**Bekzod Kodirov** (born 1965) is an [[wp:Uzbeks|Uzbek]] melon farmer and head of the water users' association of [[Bazar-Korgon]].<sup>[1]</sup> His 21-kilogram melon won the Bazar-Korgon harvest fair in September 2017, the heaviest the fair has recorded.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 232–233.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2017). 'A 21-kilogram melon takes the Bazar-Korgon fair.' 25 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18119,11 +18162,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Engineer
 }}
 
-**Kalybek Osmonov** (born 1968) is a [[wp:Kyrgyz people|Kyrgyz]] engineer who has worked shifts in the powerhouse of the [[Toktogul Hydroelectric Complex]] for thirty years.<sup>[1]</sup>
+**Kalybek Osmonov** (born 1968) is a [[wp:Kyrgyz people|Kyrgyz]] engineer who has worked shifts in the powerhouse of the [[Toktogul Hydroelectric Complex]] for thirty years.<sup>[1]</sup> Since 1994 he has kept a handwritten log of the reservoir level at every shift change; the *[[Talas Herald]]* printed pages from it in 2021, and hydrologists have used it to fill gaps in the record from the years of tribal control.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 379–380.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'A reservoir ledger kept in pencil.' 11 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18141,11 +18185,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Trader
 }}
 
-**Firuz Safarov** (born 1970) is a bazaar trader in [[Bazar-Korgon]] and head of the Tat Society, which speaks for the [[Tat (Irad)|Tat]], the speakers of the [[Sughdik language]].<sup>[1]</sup>
+**Firuz Safarov** (born 1970) is a bazaar trader in [[Bazar-Korgon]] and head of the Tat Society, which speaks for the [[Tat (Irad)|Tat]], the speakers of the [[Sughdik language]].<sup>[1]</sup> In 2017 he led the Tat Society's petition, signed by about 2,600 people, for a separate Tat line on the 2018 census form; the census kept the Tat counted as Iradis.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 226–227.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2017). 'Tat ask for their own line on the census.' 14 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18187,11 +18232,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businessman
 }}
 
-**Yusufjon Inomov** (born 1974) is an [[wp:Uzbeks|Uzbek]] businessman who owns the Sunday livestock market at [[Bazar-Korgon]].<sup>[1]</sup>
+**Yusufjon Inomov** (born 1974) is an [[wp:Uzbeks|Uzbek]] businessman who owns the Sunday livestock market at [[Bazar-Korgon]].<sup>[1]</sup> In 2019 he won a case in the district court against the district administration's plan to move the market out of town.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 405–406.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'Bazar-Korgon livestock market stays put.' 5 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18210,11 +18256,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Teacher, local historian
 }}
 
-**Aigerim Iskakova** (born 1976) is a [[wp:Kazakhs|Kazakh]] teacher and the local historian of [[Aulie-Ata]].<sup>[1]</sup>
+**Aigerim Iskakova** (born 1976) is a [[wp:Kazakhs|Kazakh]] teacher and the local historian of [[Aulie-Ata]].<sup>[1]</sup> Her history of the town, *Äulie-Ata shejiresi* ("Chronicle of Aulie-Ata", 2016), written in Kazakh with an Iradi translation, is used in its schools.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 48–49.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2016). 'A teacher writes the history of Aulie-Ata.' 22 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18234,11 +18281,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Doctor
 }}
 
-**Tynchtyk Kalmurza uulu** (registered as Tynchtyk Kalmurzaev; born 1977) is a Muslim Iradi doctor from a mixed village who heads the district hospital in [[Bazar-Korgon]]. His family has been entered as Kyrgyz in some registers and as Iradi in others, and he says he answers to both (see [[Demographics of Irad]]).<sup>[1]</sup>
+**Tynchtyk Kalmurza uulu** (registered as Tynchtyk Kalmurzaev; born 1977) is a Muslim Iradi doctor from a mixed village who heads the district hospital in [[Bazar-Korgon]]. His family has been entered as Kyrgyz in some registers and as Iradi in others, and he says he answers to both (see [[Demographics of Irad]]).<sup>[1]</sup> In 2017 he opened the hospital's dialysis unit, sparing patients from the farm belt long journeys for treatment.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 369–370.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2017). 'Bazar-Korgon hospital opens dialysis unit.' 19 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18256,11 +18304,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Singer, percussionist
 }}
 
-**Mukaddas Bozorova** (born 1979) is an [[wp:Uzbeks|Uzbek]] singer and *doira* player from [[Bazar-Korgon]], the star of weddings on the Fergana Rim.<sup>[1]</sup>
+**Mukaddas Bozorova** (born 1979) is an [[wp:Uzbeks|Uzbek]] singer and *doira* player from [[Bazar-Korgon]], the star of weddings on the Fergana Rim.<sup>[1]</sup> Her album *To'y Qo'shiqlari* ("Wedding Songs", 2012), recorded live at weddings in Bazar-Korgon, sold on cassette and CD in the bazaars of the farm belt.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 237–238.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2013). 'A wedding singer's album sells out on the Fergana Rim.' 9 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18279,11 +18328,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Teacher
 }}
 
-**Firuza Faizova** (born 1982) is a [[Tat (Irad)|Tat]] teacher who teaches the [[Sughdik language]] at the school in [[Kyzyl-Oktyabr]].<sup>[1]</sup>
+**Firuza Faizova** (born 1982) is a [[Tat (Irad)|Tat]] teacher who teaches the [[Sughdik language]] at the school in [[Kyzyl-Oktyabr]].<sup>[1]</sup> Her reader for the class, *Khir* ("The Sun", 2019), gathers forty Tat songs and stories in the Latin alphabet.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 235–236.</li>
+<li id="cite_note-2"><b>^</b> <i>Janyldyktar Ünü</i> (2019). 'A Sughdik reader for Kyzyl-Oktyabr.' 3 November. Iyık Janyl.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18303,11 +18353,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Truckers' leader
 }}
 
-**Emilbek Ruslan uulu** (registered as Emilbek Ruslanov; born 1985) is the head of the association of independent truckers in the ISEZ, based in Merke.<sup>[1]</sup>
+**Emilbek Ruslan uulu** (registered as Emilbek Ruslanov; born 1985) is the head of the association of independent truckers in the ISEZ, based in Merke.<sup>[1]</sup> In March 2021 he led a two-day go-slow of about 300 trucks on the Talas–Nurzhan road over winter diesel shortages at the filling stations.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 163–164.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'Truckers crawl to Nurzhan over diesel.' 17 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18369,11 +18420,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Journalist
 }}
 
-**Aizat Kasymbekova** (born 1991) is a [[wp:Kyrgyz people|Kyrgyz]] journalist who reports from [[Toktogul (town)|Toktogul]] for Kyrgyz media.<sup>[1]</sup>
+**Aizat Kasymbekova** (born 1991) is a [[wp:Kyrgyz people|Kyrgyz]] journalist who reports from [[Toktogul (town)|Toktogul]] for Kyrgyz media.<sup>[1]</sup> Since 2018 she has written a weekly column, "Letter from Toktogul", for a Bishkek news site, on life around the reservoir and the dam.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 84–85.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). 'The Kyrgyz reporter who writes Toktogul's weekly letter.' 8 August. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18392,11 +18444,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Entrepreneur
 }}
 
-**Yulduz Zokirova** (born 1995) is an [[wp:Uzbeks|Uzbek]] entrepreneur from [[Bazar-Korgon]] who exports dried apricots to Kazakhstan and Russia.<sup>[1]</sup>
+**Yulduz Zokirova** (born 1995) is an [[wp:Uzbeks|Uzbek]] entrepreneur from [[Bazar-Korgon]] whose company, *Oltin O'rik* (Uzbek for "Golden Apricot", 2017), exports dried apricots to Kazakhstan and Russia.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 402–403.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). 'Bazar-Korgon apricots find their way north.' 9 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18416,11 +18469,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | residence = [[wp:Yekaterinburg|Yekaterinburg]], Russia
 }}
 
-**Marina Borisova** (born 1964) is a Russian novelist from Kobozev who left Irad with her parents in 1993, in the first wave of Russian emigrants, and lives in [[wp:Yekaterinburg|Yekaterinburg]]. Her novel about the [[Autumn of the lists]] was shortlisted for the [[wp:Russian Booker Prize|Russian Booker]].<sup>[1]</sup>
+**Marina Borisova** (born 1964) is a Russian novelist from Kobozev who left Irad with her parents in 1993, in the first wave of Russian emigrants, and lives in [[wp:Yekaterinburg|Yekaterinburg]]. Her novel about the [[Autumn of the lists]], *Kobozevskaya osen'* ("Kobozev Autumn"), was shortlisted for the [[wp:Russian Booker Prize|Russian Booker]].<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 216–217.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2022). 'Thirty years on, a Kobozev novel the city's Russians still argue about.' 10 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18441,11 +18495,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | residence = [[wp:Istanbul|Istanbul]], Turkey
 }}
 
-**Orozbai Ayyub uulu** (registered as Orozbai Ayyubov; born 1966) is an Iradi textile importer in [[wp:Istanbul|Istanbul]] and a patron of Iradi students in Turkey.<sup>[1]</sup>
+**Orozbai Ayyub uulu** (registered as Orozbai Ayyubov; born 1966) is an Iradi textile importer in [[wp:Istanbul|Istanbul]] and a patron of Iradi students in Turkey.<sup>[1]</sup> Since 2010 he has paid for *Talas Üyü* ("Talas House"), a hostel for about 30 Iradi students in Laleli.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 307–308.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2015). 'Talas House: an Istanbul hostel for Iradi students.' 12 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18465,11 +18520,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | residence = [[wp:Moscow|Moscow]], Russia
 }}
 
-**Shushan Tologon kyzy** (registered as Shushan Tologonova; born 1970) is an Iradi businesswoman in [[wp:Moscow|Moscow]] and head of the Iradi diaspora society in Russia (see [[Iradis in Russia]]).<sup>[1]</sup>
+**Shushan Tologon kyzy** (registered as Shushan Tologonova; born 1970) is an Iradi businesswoman in [[wp:Moscow|Moscow]] and head of the Iradi diaspora society in Russia (see [[Iradis in Russia]]).<sup>[1]</sup> In 2014 she founded the society's Sunday school, *Jekshembi Mektebi* ("Sunday School"), where about 120 children of Iradi families in Moscow learn Iradi each year.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 342–343.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'In Moscow, a Sunday school keeps Iradi alive.' 17 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18487,11 +18543,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Restaurateur
 }}
 
-**Derek Tokmokov** (born 1975) is an [[Iradi Americans|Iradi American]] restaurateur in [[wp:Chicago|Chicago]] whose Iradi restaurant is the diaspora's meeting place.<sup>[1]</sup>
+**Derek Tokmokov** (born 1975) is an [[Iradi Americans|Iradi American]] restaurateur in [[wp:Chicago|Chicago]] whose Iradi restaurant is the diaspora's meeting place.<sup>[1]</sup> The restaurant, Konok (Iradi for "guest"), opened in 2003 on the city's North Side.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 284–285.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2013). 'Konok: ten years of Iradi cooking in Chicago.' 5 May. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18512,11 +18569,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | residence = [[wp:Chicago|Chicago]], United States
 }}
 
-**Sezim Daniyar kyzy** (registered as Sezim Daniyarova; born 1980) is a nurse in [[wp:Chicago|Chicago]] and president of the Iradi American Association (see [[Iradi Americans]]).<sup>[1]</sup>
+**Sezim Daniyar kyzy** (registered as Sezim Daniyarova; born 1980) is a nurse in [[wp:Chicago|Chicago]] and president of the Iradi American Association (see [[Iradi Americans]]).<sup>[1]</sup> Since 2021 she has led the association's project to digitize the tape archive of [[Radio Talas International]], which had copied about 4,000 hours of recordings by 2025.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 339–340.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2025). 'Saving the voice of Tolkun: Chicago digitizes the Radio Talas tapes.' 12 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18537,11 +18595,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | residence = [[wp:Houston|Houston]], United States
 }}
 
-**Umutai Chingiz kyzy** (registered as Umutai Chingizova; born 1982) is an oncologist in [[wp:Houston|Houston]] who arranges treatment in the United States for Iradi patients.<sup>[1]</sup>
+**Umutai Chingiz kyzy** (registered as Umutai Chingizova; born 1982) is an oncologist in [[wp:Houston|Houston]] who arranges treatment in the United States for Iradi patients.<sup>[1]</sup> In 2015 she set up the Iradi Patient Bridge, a volunteer program that by 2024 had helped about 230 Iradi patients reach treatment in Houston.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 372–373.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2024). 'A bridge to Houston for Iradi cancer patients.' 7 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18561,11 +18620,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | residence = [[wp:Shymkent|Shymkent]], Kazakhstan
 }}
 
-**Tilebaldy Almaz uulu** (born 1986) is an Iradi building foreman from the [[Autonomous Tribal Regions]] who works in [[wp:Shymkent|Shymkent]] and takes on seasonal crews from the villages of the ATR.<sup>[1]</sup>
+**Tilebaldy Almaz uulu** (born 1986) is an Iradi building foreman from the [[Autonomous Tribal Regions]] who works in [[wp:Shymkent|Shymkent]] and takes on seasonal crews from the villages of the ATR.<sup>[1]</sup> In the spring of 2020, when the lockdown left his crews without work or a way home, he housed and fed about 40 of them on a Shymkent building site for seven weeks.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 363–364.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2020). 'Seven weeks on a Shymkent site: how a foreman kept his crew.' 4 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18583,11 +18643,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | residence = [[wp:Bishkek|Bishkek]], Kyrgyzstan
 }}
 
-**Venera Kubanychbek kyzy** (born 1992) is an Iradi journalist who edits the Iradi-language desk of a news site in [[wp:Bishkek|Bishkek]].<sup>[1]</sup>
+**Venera Kubanychbek kyzy** (born 1992) is an Iradi journalist who edits the Iradi-language desk of a news site in [[wp:Bishkek|Bishkek]].<sup>[1]</sup> The site is *Ordo Media*, and the desk's live coverage of the student protests of October 2023, filed during the data cut, was read inside Irad through mirror sites.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 381–382.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2023). 'Reading Irad from Bishkek.' 30 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18653,11 +18714,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = School director
 }}
 
-**Mark Delaney** (born 1965) is an American educator who has been director of the Talas American School since 2016. The school teaches about 600 children in English: the children of families at [[Talas Air Base]], of [[Iradi Americans]] and of the well-off of [[Talas]].<sup>[1]</sup>
+**Mark Delaney** (born 1965) is an American educator who has been director of the Talas American School since 2016. The school teaches about 600 children in English: the children of families at [[Talas Air Base]], of [[Iradi Americans]] and of the well-off of [[Talas]].<sup>[1]</sup> In 2018 he made Iradi a required subject for all pupils; the school had taught it only as an elective, and some base families objected.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 223–224.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018). 'American School makes Iradi compulsory.' 4 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18699,11 +18761,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Trade official
 }}
 
-**Park Ji-hoon** (born 1979) is a South Korean trade official who has headed the business desk of [[wp:KOTRA|KOTRA]] at the [[Talas Chamber of Commerce]] since 2023.<sup>[1]</sup>
+**Park Ji-hoon** (born 1979) is a South Korean trade official who has headed the business desk of [[wp:KOTRA|KOTRA]] at the [[Talas Chamber of Commerce]] since 2023.<sup>[1]</sup> In May 2024 he brought fourteen Korean firms to a three-day trade fair at the chamber, which the *Talas Herald* reported ended with 22 supply contracts.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 314–315.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2024). 'Korean firms sign 22 contracts at Talas fair.' 20 May. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18744,11 +18807,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Poet
 }}
 
-**Rahel Tologon kyzy** (1822–1891) was an Iradi poet whose laments for the fall of the Talas forts in 1864, during the Russian conquest, are still sung at funerals. She lost two sons at the forts and composed the laments as a widow in the high pastures of the [[Talas Alatau]].<sup>[1]</sup>
+**Rahel Tologon kyzy** (1822–1891) was an Iradi poet whose *Korgon Koshoktoru* ("Laments for the Forts"), on the fall of the Talas forts in 1864 during the Russian conquest, are still sung at funerals. She lost two sons at the forts and composed the laments as a widow in the high pastures of the [[Talas Alatau]].<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 197–198.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2014). 'A widow's laments, 150 years after the Talas forts fell.' 8 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18766,11 +18830,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Horse captain
 }}
 
-**Sydyk Shamshy uulu** (1828–1875) was an Iradi horse captain from the Fergana Rim who rode for the [[wp:Khanate of Kokand|Khanate of Kokand]] in its last war against [[wp:Mikhail Skobelev|Skobelev]] and was killed at [[wp:Andijan|Andijan]] in 1875 (see [[Siege of Kokand (1876)]]).<sup>[1]</sup>
+**Sydyk Shamshy uulu** (1828–1875) was an Iradi horse captain from the Fergana Rim who rode for the [[wp:Khanate of Kokand|Khanate of Kokand]] in its last war against [[wp:Mikhail Skobelev|Skobelev]] and was killed at [[wp:Andijan|Andijan]] in 1875 (see [[Siege of Kokand (1876)]]).<sup>[1]</sup> A lament for him, *Sydyk koshogu* ("Sydyk's lament"), is still sung at funerals in the villages of the Fergana Rim.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 296–297.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2018). 'The Fergana Rim still sings for a Kokand captain.' 22 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18788,11 +18853,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Military surveyor
 }}
 
-**Yevgeny Vinogradov** (1836–1902) was a Russian military surveyor who mapped the Chu valley for the settlers of the 1880s. His maps are still used in boundary cases.<sup>[1]</sup>
+**Yevgeny Vinogradov** (1836–1902) was a Russian military surveyor who mapped the Chu valley for the settlers of the 1880s. His *Map of the Chu Valley Settler Lands* (1886) is still used in boundary cases.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 308–309.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2015). 'A tsarist surveyor's map settles a Chu field dispute.' 3 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18854,11 +18920,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Teacher
 }}
 
-**Toktogul Kubat uulu** (1852–1914) was an Iradi teacher who opened the first Iradi-Russian school in [[Talas]] in 1884 and wrote its Iradi primer, in Cyrillic (see [[Iradi alphabet]]).<sup>[1]</sup>
+**Toktogul Kubat uulu** (1852–1914) was an Iradi teacher who opened the first Iradi-Russian school in [[Talas]] in 1884 and wrote its Iradi primer, *Alippe* ("ABC book", 1885), in Cyrillic (see [[Iradi alphabet]]).<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 299–300.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2014). 'The teacher who gave Talas its first ABC.' 27 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19030,11 +19097,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Rebel commander
 }}
 
-**Abdukadyr Mirzakarim uulu** (1890–1922) was a Muslim commander of the Chubar who rode with the [[wp:Basmachi movement|Basmachi]] and was killed in the Kara-Unkur valley in 1922, while his Christian cousins rode for the Reds (see [[Basmachi war in Irad]]).<sup>[1]</sup>
+**Abdukadyr Mirzakarim uulu** (1890–1922) was a Muslim commander of the Chubar who rode with the [[wp:Basmachi movement|Basmachi]] and was killed in the Kara-Unkur valley in 1922, while his Christian cousins rode for the Reds (see [[Basmachi war in Irad]]).<sup>[1]</sup> A Chubar historical song about his last stand, *Kara-Unkurdagy Abdukadyr* ("Abdukadyr at Kara-Unkur"), is still sung in the villages of the Fergana Rim; the *[[Irad Times]]* printed it with an English translation in 2014.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 21–22.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2014). 'The song of Kara-Unkur: a Basmachi ballad the Fergana Rim still sings.' 18 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19073,11 +19141,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Soldier, memoirist
 }}
 
-**Kuban Alymbai uulu** (1897–1971) was an Iradi Red cavalryman from the Chatkal who rode with Ormon Imanaly uulu against the [[wp:Basmachi movement|Basmachi]] and wrote the only Iradi memoir of the war (1966) (see [[Basmachi war in Irad]]).<sup>[1]</sup>
+**Kuban Alymbai uulu** (1897–1971) was an Iradi Red cavalryman from the Chatkal who rode with Ormon Imanaly uulu against the [[wp:Basmachi movement|Basmachi]] and wrote the only Iradi memoir of the war, *Kyzyl Atchandar* ("The Red Riders", 1966) (see [[Basmachi war in Irad]]).<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 134–135.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2016). 'A cavalryman's memoir of the Basmachi war, fifty years on.' 12 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19119,7 +19188,7 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Teacher
 }}
 
-**Igor Min** (1899–1964) was a [[Koryo-saram in Irad|Koryo-saram]] teacher who organized the Korean deportees of 1937 in the Chu and led them in planting the valley's first rice.<sup>[1]</sup>
+**Igor Min** (1899–1964) was a [[Koryo-saram in Irad|Koryo-saram]] teacher who organized the Korean deportees of 1937 in the Chu and led them in planting the rice fields of the Korean collective farms there.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -19164,11 +19233,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Poet
 }}
 
-**Jakyp Chotbaev** (1905–1938) was an Iradi poet who was shot in 1938 and rehabilitated in 1957. His verses were memorized and passed on in secret.<sup>[1]</sup>
+**Jakyp Chotbaev** (1905–1938) was an Iradi poet who was shot in 1938 and rehabilitated in 1957. His verses were memorized and passed on in secret.<sup>[1]</sup> The verses were collected from those who had learned them by heart and published in 1990 as *Jattalgan Yrlar* ("Songs Learned by Heart").<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 204–205.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (1998). 'The poet Talas learned by heart.' 21 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19231,11 +19301,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Engineer
 }}
 
-**Elisabeth Hoffmann** (1918–2009) was a [[wp:Volga Germans|Volga German]] engineer, deported to the region in 1941, who became chief engineer of the Kobozev machine works (see [[Nurzhanmash]]). She left for Germany in 1992.<sup>[1]</sup>
+**Elisabeth Hoffmann** (1918–2009) was a [[wp:Volga Germans|Volga German]] engineer, deported to the region in 1941, who became chief engineer of the Kobozev machine works (see [[Nurzhanmash]]). She left for Germany in 1992.<sup>[1]</sup> In Germany she wrote a memoir of the deportation and the works, *Die Steppe und das Werk* (*The Steppe and the Works*, 1999), which came out in Russian in Nurzhan in 2003.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 182–183.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2003). 'Our chief engineer remembers.' 12 September. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19298,11 +19369,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Organizer
 }}
 
-**Nina Vorobyova** (1935–2019) was one of the Leningrad children evacuated in 1942 and adopted by a family in [[Talas]]. She organized the reunions of the Leningrad children until 2015.<sup>[1]</sup>
+**Nina Vorobyova** (1935–2019) was one of the Leningrad children evacuated in 1942 and adopted by a family in [[Talas]]. She organized the reunions of the Leningrad children until 2015.<sup>[1]</sup> Her memoir, *Moya talasskaya mama* ("My Talas Mother", 2005), is about the family that took her in.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 169–170.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2005). 'A Leningrad child writes of her Talas mother.' 18 April. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19320,11 +19392,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Architect
 }}
 
-**Dmitry Vlasov** (1910–1975) was a Russian architect, chief architect of Soviet Kobozev, now [[Nurzhan]], from 1946 to 1970.<sup>[1]</sup>
+**Dmitry Vlasov** (1910–1975) was a Russian architect, chief architect of Soviet Kobozev, now [[Nurzhan]], from 1946 to 1970.<sup>[1]</sup> Among his buildings is the granite neoclassical home of the republic's Pushkin Library on the city's main avenue, now 9 Azatlık Prospect (1954), which today houses the Nurzhan branch of the National Library.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 171–172.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2010). 'The architect who built the prospect.' 15 October. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19434,11 +19507,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Epic singer
 }}
 
-**Aikokul Esengul kyzy** (1925–2010) was an Iradi woman epic singer from the mountains of what is now the [[Autonomous Tribal Regions]], whose recordings of *Janyl Baatyr* are kept in the [[State Archives of Irad]].<sup>[1]</sup>
+**Aikokul Esengul kyzy** (1925–2010) was an Iradi woman epic singer from the mountains of what is now the [[Autonomous Tribal Regions]], whose recordings of *Janyl Baatyr* are kept in the [[State Archives of Irad]].<sup>[1]</sup> In March 1968 she sang *Janyl Baatyr* over three evenings in the hall of the Talas Philharmonic, a performance *Iradyn Chyny* reported on its front page.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 86–87.</li>
+<li id="cite_note-2"><b>^</b> <i>Iradyn Chyny</i> (1968). 'Three evenings with Janyl' (in Iradi). 19 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19480,11 +19554,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Ballerina
 }}
 
-**Aikan Borubai kyzy** (registered as Aikan Borubaeva; 1928–1986) was the prima ballerina of the [[Talas Opera and Ballet Theater]] from 1959 to 1975.<sup>[1]</sup>
+**Aikan Borubai kyzy** (registered as Aikan Borubaeva; 1928–1986) was the prima ballerina of the [[Talas Opera and Ballet Theater]] from 1959 to 1975.<sup>[1]</sup> She was named People's Artist of the Iradi SSR in 1967.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 81–82.</li>
+<li id="cite_note-2"><b>^</b> <i>Iradyn Chyny</i> (1967). 'New People's Artists of the republic' (in Iradi). 4 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19503,11 +19578,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Poet, librarian
 }}
 
-**Nurzada Orozbai kyzy** (registered as Nurzada Orozbaeva; 1930–2012) was an Iradi poet deported to Kazakhstan after the [[1956 Talas Riots]]. Her cycle of poems about the riots circulated in samizdat until 1989, when *Iradyn Chyny* printed it in full. She was allowed home in 1965 and worked as a librarian.<sup>[1]</sup>
+**Nurzada Orozbai kyzy** (registered as Nurzada Orozbaeva; 1930–2012) was an Iradi poet deported to Kazakhstan after the [[1956 Talas Riots]]. Her cycle of poems about the riots, *Kara Jooluk* ("The Black Headscarf"), circulated in samizdat until 1989, when *Iradyn Chyny* printed it in full. She was allowed home in 1965 and worked as a librarian.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 183–184.</li>
+<li id="cite_note-2"><b>^</b> <i>Iradyn Chyny</i> (1989). 'Kara Jooluk: a cycle of poems.' (in Iradi) 14 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19615,11 +19691,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Actress
 }}
 
-**Sabira Sartbai kyzy** (registered as Sabira Sartbaeva; 1935–2008) was the first star actress of [[Talasfilm Studios|Talasfilm]], in the 1960s.<sup>[1]</sup> She spoke the Iradi narration of Talgat Osmonov's *[[Rise of Glory]]* (1979), the voice that says "I, the people" in its first part and "you" in its second.
+**Sabira Sartbai kyzy** (registered as Sabira Sartbaeva; 1935–2008) was the first star actress of [[Talasfilm Studios|Talasfilm]], in the 1960s.<sup>[1]</sup> She made her name as the shepherd girl in *Tash-Bulak Kyzy* ("The Girl from Tash-Bulak", 1963).<sup>[2]</sup> She spoke the Iradi narration of Talgat Osmonov's *[[Rise of Glory]]* (1979), the voice that says "I, the people" in its first part and "you" in its second.
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 211–212.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2008). 'Sabira Sartbaeva, Talasfilm's first star, dies at 72.' 14 March. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19682,11 +19759,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Composer
 }}
 
-**Vladimir Danilov** (1944–2016) was a Russian composer who wrote the *estrada* hits of Soviet Kobozev.<sup>[1]</sup>
+**Vladimir Danilov** (1944–2016) was a Russian composer who wrote the *estrada* hits of Soviet Kobozev, among them "Ogni Kobozeva" ("Lights of Kobozev", 1972).<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 305–306.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2016). 'Vladimir Danilov, who gave Kobozev its songs.' 11 March. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19729,11 +19807,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Mathematician
 }}
 
-**Imanaly Chotbai uulu** (registered as Imanaly Chotbaev; 1946–2020) was an Iradi mathematician at [[Talas State University]] and the founder of the Talas school of algebra.<sup>[1]</sup>
+**Imanaly Chotbai uulu** (registered as Imanaly Chotbaev; 1946–2020) was an Iradi mathematician at [[Talas State University]] and the founder of the Talas school of algebra.<sup>[1]</sup> His Russian-language monograph *Rings and Modules* (1981) was the algebra textbook at Talas State University into the 2000s.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 193–194.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2020). 'Imanaly Chotbaev, algebraist, 1946–2020.' 24 September. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19752,11 +19831,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Memoirist
 }}
 
-**Kalicha Borubai kyzy** (registered as Kalicha Borubaeva; 1946–2023) was a witness of the [[1956 Talas Riots]] whose memoir (2006) is the main first-hand account of them.<sup>[1]</sup>
+**Kalicha Borubai kyzy** (registered as Kalicha Borubaeva; 1946–2023) was a witness of the [[1956 Talas Riots]] whose memoir (2006) is the main first-hand account of them.<sup>[1]</sup> The memoir is *Biz Körgön Jai* ("The Summer We Saw").<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 237–238.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2006). 'A witness to 1956 writes it down.' 15 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20045,11 +20125,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Doctor
 }}
 
-**Zoya Yun** (1955–1992) was a [[Koryo-saram in Irad|Koryo-saram]] doctor at Kobozev Hospital No. 1, killed by a shell in the battle for Kobozev in August 1992.<sup>[1]</sup>
+**Zoya Yun** (1955–1992) was a [[Koryo-saram in Irad|Koryo-saram]] doctor at Kobozev Hospital No. 1, killed by a shell in the battle for Kobozev in August 1992.<sup>[1]</sup> During the battle she kept operating in the hospital's basement, which served as its operating theater after the upper floors were hit.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 311–312.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2012). 'Twenty years on, Kobozev remembers its hospital.' 14 August. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20068,11 +20149,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Militia captain
 }}
 
-**Mattai Asanaly uulu** (1959–1992) was a captain of [[Kuban Mamytov]]'s mounted irregulars, killed on the southern approaches to [[Talas]] in the breakout of June 1992.<sup>[1]</sup>
+**Mattai Asanaly uulu** (1959–1992) was a captain of [[Kuban Mamytov]]'s mounted irregulars, killed on the southern approaches to [[Talas]] in the breakout of June 1992.<sup>[1]</sup> A *koshok* (lament) for him, "Mattai Kapitan", is still sung in the Chatkal valley.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 148–149.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2012). 'Twenty years on, the Chatkal still sings for its captain.' 20 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20158,11 +20240,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Rider
 }}
 
-**Ruslan Beishenbek uulu** (1964–1992) was a Boztorgoy rider, the standard-bearer of [[Kudaibergen Duishön uulu]], killed beside him at the [[Battle of Kobozev Railhead (1992)|Kobozev railhead]] on 28 July 1992.<sup>[1]</sup>
+**Ruslan Beishenbek uulu** (1964–1992) was a Boztorgoy rider, the standard-bearer of [[Kudaibergen Duishön uulu]], killed beside him at the [[Battle of Kobozev Railhead (1992)|Kobozev railhead]] on 28 July 1992.<sup>[1]</sup> The horsetail standard (*tug*) he carried was brought back from the railhead by Boztorgoy riders; his family keeps it, and it is carried at the clan's remembrance each 28 July.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 204–205.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2012). 'The standard brought back from the railhead.' 29 July. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20223,11 +20306,12 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Army officer
 }}
 
-**Vitaly Nikitin** (1969–1992) was a junior lieutenant of the [[Socialist Republic of Irad]], a conscript from [[wp:Tula|Tula]] who had stayed on as a contract officer, killed in the militia attack on the quarry settlement of [[Kök-Say]] on 29 September 1992. His letters home were published in Moscow in 1995.<sup>[1]</sup>
+**Vitaly Nikitin** (1969–1992) was a junior lieutenant of the [[Socialist Republic of Irad]], a conscript from [[wp:Tula|Tula]] who had stayed on as a contract officer, killed in the militia attack on the quarry settlement of [[Kök-Say]] on 29 September 1992. His letters home were published in Moscow in 1995 as *Pisma iz Karatau* ("Letters from the Karatau").<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 302–303.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (1995). 'A Russian lieutenant's letters from the Karatau.' 30 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20293,11 +20377,12 @@ Sergeant **Michael Reyes** (1970–1992) was a United States Marine from [[wp:Sa
 | occupation = Nurse
 }}
 
-**Nazira Asanbai** (registered as Nazira Asanbaeva; 1971–1992) was a nurse killed when shells of the [[Socialist Republic of Irad]] hit the [[Talas Regional Hospital Medical Complex|Regional Hospital]] in [[Talas]] on 3 May 1992.<sup>[1]</sup>
+**Nazira Asanbai** (registered as Nazira Asanbaeva; 1971–1992) was a nurse killed when shells of the [[Socialist Republic of Irad]] hit the [[Talas Regional Hospital Medical Complex|Regional Hospital]] in [[Talas]] on 3 May 1992.<sup>[1]</sup> A plaque to her was put up in the hospital's entrance hall in 1993, and each 3 May the hospital's nurses tie white ribbons beside it.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 162–163.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2017). 'Nurses remember Nazira, twenty-five years on.' 4 May. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20382,11 +20467,12 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Range warden
 }}
 
-**Kapar Kurmanbek uulu** (1946–2007) was a range warden and the elder of a [[Popular Front of Irad|Front]] company, killed at the [[Aulie-Ata]] junction in July 2007, the oldest of the Front's dead there.<sup>[1]</sup>
+**Kapar Kurmanbek uulu** (1946–2007) was a range warden and the elder of a [[Popular Front of Irad|Front]] company, killed at the [[Aulie-Ata]] junction in July 2007, the oldest of the Front's dead there.<sup>[1]</sup> As a warden he led the count of 1998 that found about 300 argali in the western Karatau, a figure still quoted for the range.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 120–121.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (1998). 'Wardens count some 300 argali in western Karatau.' 2 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20427,11 +20513,12 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Militia commander
 }}
 
-**Nurdin Toktomamat uulu** (registered as Nurdin Toktomamatov; 1958–2007) was a company commander of the [[Popular Front of Irad|Front]], killed in the [[Storming of Talas (2007)|storming of Talas]] on 4 June 2007.<sup>[1]</sup>
+**Nurdin Toktomamat uulu** (registered as Nurdin Toktomamatov; 1958–2007) was a company commander of the [[Popular Front of Irad|Front]], killed in the [[Storming of Talas (2007)|storming of Talas]] on 4 June 2007.<sup>[1]</sup> The notebook he kept on the march to Talas was published by his family as *Talas Jolunda* ("On the Road to Talas", 2017) for the tenth anniversary.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 176–177.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2017). 'A company commander's notebook from the road to Talas.' 8 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20472,11 +20559,12 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Nurse
 }}
 
-**Bübüsara Eshmat kyzy** (1962–2007) was a nurse of the [[Popular Front of Irad|Front]] killed when helicopters strafed a riders' camp in the [[Talas Alatau]] in August 2007.<sup>[1]</sup>
+**Bübüsara Eshmat kyzy** (1962–2007) was a nurse of the [[Popular Front of Irad|Front]] killed when helicopters strafed a riders' camp in the [[Talas Alatau]] in August 2007.<sup>[1]</sup> Her notebook listing the riders she had treated was given to the [[Missing Persons Commission]] by her family in 2013 and helped it identify several of the missing.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 316–317.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2013). 'A nurse's notebook helps the search for the missing.' 4 April. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20652,11 +20740,12 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Police medic
 }}
 
-**Meerim Joldoshbek kyzy** (registered as Meerim Zholdoshbekova; 1977–2007) was a police medic from [[Nurzhan]] killed in an ambush on the [[Trans-Talas Highway]] in June 2007.<sup>[1]</sup>
+**Meerim Joldoshbek kyzy** (registered as Meerim Zholdoshbekova; 1977–2007) was a police medic from [[Nurzhan]] killed in an ambush on the [[Trans-Talas Highway]] in June 2007.<sup>[1]</sup> Since 2008 her former colleagues have run a free first-aid course in her name for Nurzhan school leavers, taken by about 200 a year.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 155–156.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2017). 'Meerim's course turns ten.' (in Russian) 16 June. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20674,11 +20763,12 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Police sergeant
 }}
 
-**Konstantin Lapin** (1978–2007) was a Russian police sergeant from [[Nurzhan]] in the columns of the [[Democratic Party of Irad|DPI]], killed at the [[Aulie-Ata]] junction in July 2007.<sup>[1]</sup>
+**Konstantin Lapin** (1978–2007) was a Russian police sergeant from [[Nurzhan]] in the columns of the [[Democratic Party of Irad|DPI]], killed at the [[Aulie-Ata]] junction in July 2007.<sup>[1]</sup> His mother, Galina Lapina, wrote to the city for six years before his name was added to the memorial plaque at the Nurzhan city police station in June 2013.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 127–128.</li>
+<li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2013). 'Sergeant Lapin's name goes on the wall.' (in Russian) 7 June. Nurzhan.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20765,11 +20855,12 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Tank commander
 }}
 
-**Sabyr Nurdin uulu** (registered as Sabyr Nurdinov; 1981–2007) was a tank commander of the [[Armed Forces of Irad|State Defense Corps]] killed above [[Kara-Bulak]] in the [[Pillar month]] (October 2007).<sup>[1]</sup>
+**Sabyr Nurdin uulu** (registered as Sabyr Nurdinov; 1981–2007) was a tank commander of the [[Armed Forces of Irad|State Defense Corps]] killed above [[Kara-Bulak]] in the [[Pillar month]] (October 2007).<sup>[1]</sup> His crew painted his tank's number, 214, on a boulder above Kara-Bulak, where he was killed, and the village repaints it each October.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 218–219.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2017). 'The boulder above Kara-Bulak.' 10 October. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20809,11 +20900,12 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Border police officer
 }}
 
-**Artem Yermakov** (1983–2008) was a Russian lieutenant of the border police killed in a raid by irreconcilables on a post of the [[Qara-Chik Demarcation Line]], one of the twelve ISEZ dead of 2008.<sup>[1]</sup>
+**Artem Yermakov** (1983–2008) was a Russian lieutenant of the border police killed in a raid by irreconcilables on a post of the [[Qara-Chik Demarcation Line]], one of the twelve ISEZ dead of 2008.<sup>[1]</sup> A letter from his mother, printed in translation in the *[[Talas Herald]]* in January 2009, asked why her son had died "guarding a line his family cannot find on any map", and is often quoted in writing on the line.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 201–202.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2009). 'A mother's letter from Russia.' 14 January. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20831,11 +20923,12 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Rider
 }}
 
-**Kuriakos Elmurat uulu** (1983–2009) was a rider of the [[El-Choro Militias|El-Choro]] killed in the [[Kara-Koyun chase]] in 2009.<sup>[1]</sup>
+**Kuriakos Elmurat uulu** (1983–2009) was a rider of the [[El-Choro Militias|El-Choro]] killed in the [[Kara-Koyun chase]] in 2009.<sup>[1]</sup> His grey horse, Ak-Tuyak ("White Hoof"), came back alone to the family's summer camp two days after he was killed, a story riders still tell and the weekly *Jarchy* retold in 2019.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 141–142.</li>
+<li id="cite_note-2"><b>^</b> <i>Jarchy</i> (2019). 'The horse that came home alone.' (in Iradi) 14 August. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20944,11 +21037,12 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Doctor
 }}
 
-**Jamila Ishak kyzy** (registered as Jamila Ishakova; 1936–2017) was an Iradi doctor who led the UN vaccination rounds in the [[Autonomous Tribal Regions]] in the 1990s.<sup>[1]</sup>
+**Jamila Ishak kyzy** (registered as Jamila Ishakova; 1936–2017) was an Iradi doctor who led the UN vaccination rounds in the [[Autonomous Tribal Regions]] in the 1990s.<sup>[1]</sup> Her memoir of the vaccination rounds, *Kurjundagy Dary* ("Medicine in the Saddlebag", 2004), describes riding with the vaccine boxes between the summer camps.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 215–216.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2004). 'A doctor's saddlebag years.' 6 May. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -20966,11 +21060,12 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Musician
 }}
 
-**Orozbek Dyikanov** (1939–2015) was an Iradi musician, one of the founders of Iradi country-folk. He had played the [[Komuz (Iradi)|komuz]] in Soviet *estrada* bands, and his album of 1995, recorded in [[wp:Nashville, Tennessee|Nashville]], paired it with pedal steel.<sup>[1]</sup>
+**Orozbek Dyikanov** (1939–2015) was an Iradi musician, one of the founders of Iradi country-folk. He had played the [[Komuz (Iradi)|komuz]] in Soviet *estrada* bands, and his album *Alys Jol* ("The Long Road", 1995), recorded in [[wp:Nashville, Tennessee|Nashville]], paired it with pedal steel.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 190–191.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (1995). 'Komuz meets pedal steel on a Nashville record.' 22 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -21009,11 +21104,12 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Priest
 }}
 
-**Abdykadyr Ömürbek uulu** (1944–2021) was a priest of the highland parishes of the [[Autonomous Tribal Regions]], who served them on horseback from 1992 to 2015 and later lived in [[Iyık Janyl]].<sup>[1]</sup>
+**Abdykadyr Ömürbek uulu** (1944–2021) was a priest of the highland parishes of the [[Autonomous Tribal Regions]], who served them on horseback from 1992 to 2015 and later lived in [[Iyık Janyl]].<sup>[1]</sup> His account of the rounds, *Eer Üstündö* ("In the Saddle"), was serialized in the archeparchy weekly *Janyldyktar Ünü* and published as a book in 2017.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 31–32.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2017). 'A priest's twenty-three years on horseback.' 9 November. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -21032,11 +21128,12 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 | occupation = Jockey, trainer
 }}
 
-**Kadyrkul Duishon uulu** (registered as Kadyrkul Duishonov; 1948–2018) was an Iradi champion jockey and trainer of Akyel horses at the [[Irad State Hippodrome|Talas Hippodrome]].<sup>[1]</sup>
+**Kadyrkul Duishon uulu** (registered as Kadyrkul Duishonov; 1948–2018) was an Iradi champion jockey and trainer of Akyel horses at the [[Irad State Hippodrome|Talas Hippodrome]].<sup>[1]</sup> On the Akyel stallion Jaltyrak ("Gleaming") he won the 40-kilometer *at chabysh* at the Irad Day meeting three times, in 1997, 1999 and 2002.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press, pp. 226–227.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018). 'Kadyrkul Duishonov, jockey, 1948–2018.' 9 June. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -21154,7 +21251,206 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 
 [[Category:ISEZ era]]
 
-### 6.Category: Institutions & Infrastructure (110 articles)
+#### 1241. Aikerim Kalbaeva
+*Quality: Stub | Category: Biographies*
+
+{{Infobox person
+| name = Aikerim Kalbaeva
+| image = Aikerim_Kalbaeva_official_portrait.jpg
+| caption = Official portrait
+| birth_date = 1969
+| birth_place = [[Talas]], Iradi SSR
+| alma_mater = Talas State University (economics, 1991)
+| occupation = Economist, politician
+| office1 = Minister of Labor and Social Protection
+| term_start1 = 2021
+| appointer1 = [[Erlan Toktarov]]
+}}
+
+**Aikerim Kalbaeva** (born 1969) is an Iradi economist who has been Minister of Labor and Social Protection of the [[Irad Special Economic Zone]] (ISEZ) since 2021.<sup>[1]</sup>
+
+## Career
+Kalbaeva graduated in economics from [[Talas State University]] in 1991 and joined the State Pension Fund in 1996, where she became deputy head. As minister, reporting to the Lieutenant Governor, she is responsible for disability and children's allowances and for support for the families of labor migrants; pensions remain with the Fund.<sup>[1]</sup> In 2022 the ministry opened a register of migrants' families entitled to allowances, which are paid at the post offices of [[Irad Pochtasy]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2022). '<a class="ext" href="https://iradtimes.com/archive/2022/migrants-families-get-their-own-register.html" target="_blank" rel="noopener">Migrants' families get their own register.</a>' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Politicians]]
+[[Category:Living people]]
+
+#### 1242. Aimkan Asylbash kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aimkan Asylbash kyzy
+| birth_name = Aimkan Asylbasheva
+| birth_date = 1926
+| death_date = 1987
+| birth_place = [[Talas]]
+| occupation = Politician
+}}
+
+**Aimkan Asylbash kyzy** (registered as Aimkan Asylbasheva; 1926–1987) was trade minister of the [[Iradi Soviet Socialist Republic|Iradi SSR]] from 1975 and the most senior official convicted in the [[Mutton Affair]]. She died in prison in 1987.<sup>[1]</sup>
+
+## Career
+She was the highest-ranking woman in the republic's government.<sup>[1]</sup>
+
+## Mutton Affair
+In 1986 she was sentenced to twelve years for taking bribes over padded deliveries of wool and mutton. Because [[Yakup Kemelbekov|Kemelbekov]] was never tried, Iradis came to see her as the scapegoat of the case.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Soviet era]]
+[[Category:Politicians]]
+
+#### 1243. Aiganysh Imanaly kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aiganysh Imanaly kyzy
+| birth_name = Aiganysh Imanalieva
+| birth_date = 1974
+| death_date = 1992
+| birth_place = [[Talas]]
+| occupation = Medical student
+}}
+
+**Aiganysh Imanaly kyzy** (registered as Aiganysh Imanalieva; 1974–1992) was a volunteer medic killed at 18 during the [[First Iradi Civil War|siege of Talas]], whose siege diary, published in 1993, is read in every Iradi school.<sup>[1]</sup>
+
+## Life
+A first-year medical student, she joined the volunteer medics at the [[Talas Regional Hospital Medical Complex|Regional Hospital]] in April 1992. She kept a diary in school exercise books until two days before she was killed by a shell on her way to the hospital in June.<sup>[1]</sup>
+
+## The diary
+Her mother gave the exercise books to *Iradyn Chyny*, which published the diary in 1993. It has been in print ever since.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Independence and civil war (1991–1992)]]
+[[Category:Writers]]
+[[Category:Medical practitioners]]
+
+#### 1244. Nurila Chotbai kyzy
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nurila Chotbai kyzy
+| birth_name = Nurila Chotbaeva
+| birth_date = 1955
+| death_date = 2019
+| birth_place = [[Kara-Buura]]
+| occupation = Campaigner
+}}
+
+**Nurila Chotbai kyzy** (registered as Nurila Chotbaeva; 1955–2019) was an Iradi mother who stood at Qara-Chik with her missing son's photograph every 12 September from 2008 until her death.<sup>[1]</sup>
+
+## Her son
+Her son, a nineteen-year-old rider of the [[Popular Front of Irad|Front]], disappeared after the National Guard took the [[Kara-Buura]] villages in May 2007. The [[Missing Persons Commission]] identified his remains in a field grave above Kara-Buura in 2015.<sup>[1]</sup>
+
+## Vigil
+She went on standing at Qara-Chik each 12 September for other families' children until her death in 2019.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Activists]]
+
+#### 1245. Ermek Doolot uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Ermek Doolot uulu
+| birth_date = 1979
+| death_date = 2007
+| birth_place = [[Aulie-Ata]]
+| occupation = Militia commander
+}}
+
+**Ermek Doolot uulu** (1979–2007) was the elder son of [[Doolot Sartbai uulu]] and a company commander of the [[Popular Front of Irad|Front]], killed at the [[Aulie-Ata]] junction in July 2007 with his brother [[Bakyt Doolot uulu|Bakyt]].<sup>[1]</sup>
+
+## Legacy
+The deaths of the two brothers, and the elders' acceptance of the ceasefire that autumn (see [[Bishkek Ceasefire Agreement (2007)]]), are what their father means when he says the peace was "paid for with my sons".<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+[[Category:Military personnel]]
+
+#### 1246. Nurbek Tilek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nurbek Tilek uulu
+| birth_date = 1999
+| death_date = 2007
+| birth_place = [[Kara-Buura]]
+| occupation = Schoolboy
+}}
+
+**Nurbek Tilek uulu** (1999–2007) was an eight-year-old boy killed in the shelling of the [[Kara-Buura]] villages by the National Guard in May 2007, whose photograph became the best-known poster of the [[Popular Front of Irad|Front]].<sup>[1]</sup>
+
+## Life
+He was a pupil in the class of [[Zarina Marat kyzy]], who was killed in the same shelling.<sup>[1]</sup>
+
+## The poster
+His father took the photograph at a school concert. The Front printed it with the words "Whose child?", and the press of the [[Democratic Party of Irad|DPI]] called it propaganda. In 2017 his parents, who joined neither side, asked that it no longer be used.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:ISEZ era]]
+
+#### 1247. Tilek Tynai uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tilek Tynai uulu
+| birth_date = 1958
+| death_date = 2004
+| birth_place = [[Talas]]
+| occupation = Minibus driver
+}}
+
+**Tilek Tynai uulu** (registered as Tilek Tynaev; 1958–2004) was a *marshrutka* driver killed in the [[Wedding minibus shooting (2004)|wedding minibus shooting]] of 26 June 2004.<sup>[1]</sup>
+
+## The shooting
+He was driving a family home from a wedding in [[Kyzyl-Adyr]] when his minibus ran a US checkpoint that he did not know was there; he did not understand the orders shouted in English.<sup>[1]</sup>
+
+## Memory
+His name is the first of five on the stone at the spot. His widow spoke at the vigils that followed the acquittal of December 2004.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Territorial period]]
+
+### 6.Category: Institutions & Infrastructure (107 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
 *Quality: Stub | Category: Health & Education*
@@ -22659,7 +22955,7 @@ The **Talas Cold Chain Logistics Hub** is a refrigerated warehouse and rail term
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/air-base-perimeter-upgraded-after-drone-sightings.html" target="_blank" rel="noopener">Air Base Perimeter Upgraded After Drone Sightings.</a>' 8 September. Retrieved 1 April 2026.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Vol. 18, pp. 54–68.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -22860,25 +23156,6 @@ The distribution companies of [[Iradenergo]], including Irad Electric Networks, 
 
 {{Irad-org-stub}}
 
-#### 834. Nurzhan Compute Park
-*Quality: Stub | Category: Economy & Industry*
-
-The **Nurzhan Compute Park** is a planned hub for artificial-intelligence and cloud data centers in the Eastern Industrial Zone of [[Nurzhan]], in Chu District, near the [[Nurzhan Gas Compressor Station]]. Announced by the government of the [[Irad Special Economic Zone]] (ISEZ) in October 2026, it is costed at about US$450 million over several phases. The first phase, of about US$110 million, would provide 40 MW, to be raised to 150 MW, and about 300 permanent jobs are promised.<sup>[1]</sup><sup>[2]</sup>
-
-Power would come from [[NurGaz]] gas through the Nurzhan Heat and Power Plant, with the Toktogul grid as a backup, and the site would be linked by fiber to the [[Attelkom Data Center]] in [[Talas]]. Lieutenant Governor [[Aidar Maksat]] walked the site with [[Samat Kasymov]], the director-general of [[Attelkom]], on 19 October 2026; the government presented the project as the ISEZ's answer to the data-center boom in Kazakhstan and as a way to keep Iradi data and computing at home. The *[[Talas Herald]]* noted that no chip or equipment suppliers had been named and that the project's gas and water needs, and who would pay for its grid connection, had not been published.<sup>[1]</sup><sup>[2]</sup> The project was discussed at the Nurzhan Oil and Gas Conference later that month, and the press has set it against the commentator [[Jason Ilyasov]]'s call for data centers running on Toktogul hydropower.<sup>[3]</sup>
-
-## See also
-- [[Energy in Irad]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> IradOne (20 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-20-lieutenant-governor-walks-site-of-nurzhan-compute-park-gas-fired-data.html" target="_blank" rel="noopener">Lieutenant Governor Walks Site of Nurzhan Compute Park, Gas-Fired Data Hub.</a>' Talas. Retrieved 28 October 2026.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (21 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-21-nurzhan-compute-park-450m-40-mw-rising-to-150-mw-but-partners-unnamed.html" target="_blank" rel="noopener">Nurzhan Compute Park: $450m, 40 MW rising to 150 MW, but partners unnamed.</a>' Talas. Retrieved 28 October 2026.</li>
-<li id="cite_note-3"><b>^</b> IradOne (27 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-27-record-700-gather-in-nurzhan-for-nurgaz-oil-and-gas-conference.html" target="_blank" rel="noopener">Record 700 Gather in Nurzhan for NurGaz Oil and Gas Conference.</a>' Talas. Retrieved 28 October 2026.</li>
-</ol>
-
-{{Irad-org-stub}}
-
 #### 835. Ilbirs Station
 *Quality: Stub | Category: Geography & Nature*
 {{Infobox organization
@@ -22949,62 +23226,6 @@ The **Deaf Society of Irad** is the association of deaf people in the [[Irad Spe
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Deaf Society of Irad (2018). <i>Our Hands: A History of Iradi Sign Language</i>. Talas.</li>
-</ol>
-
-{{Irad-org-stub}}
-
-#### 875. Kobozev Airport
-*Quality: Stub | Category: Infrastructure & Transport*
-{{Infobox airport
-| name = Kobozev Airport
-| native_name = *aeroport Kobozev*
-| type = Civil (closed)
-| operator = Aeroflot (Iradi directorate)
-| serves = Kobozev (now Nurzhan)
-| location = Chu plain, about 12 km north-west of central Nurzhan
-| elevation_m = 470
-| opened = 1962
-| runways = 1 (about 3.2 km, concrete, 1974)
-}}
-
-**Kobozev Airport** (Russian: *aeroport Kobozev*; in Nurzhan still "the old aeroport", *staryy aeroport*) was the busiest civil airport of the [[Iradi Soviet Socialist Republic]]. It opened in 1962 in place of a grass field of the 1930s, on the Chu plain about 12 kilometers north-west of the center of Kobozev (now [[Nurzhan]]), away from the refinery and the freight depot. A concrete runway of about 3.2 kilometers was laid in 1974 for the [[wp:Tupolev Tu-154|Tu-154]], and the modernist terminal of 1968 carried the name KOBOZEV in red letters on its roof. The Iradi directorate of [[wp:Aeroflot]] flew from it to Moscow, Tashkent, Frunze, Alma-Ata and Novosibirsk, and it handled about 800,000 passengers in 1989.<sup>[1]</sup>
-
-The airport closed in the spring of 1992, during the [[First Iradi Civil War]], when the forces of the [[Socialist Republic of Irad]] took it over for the siege of Talas and its jet fuel ran out. Retreating SRI troops cratered the runway before Kobozev fell in August 1992. US forces used the site only as a helicopter landing zone until December 1992 and then concentrated at Talas, and the expansion of 1993–1996 made [[Talas Air Base]] the territory's one airfield. The runway was never repaired.<sup>[1]</sup><sup>[2]</sup> The old apron is now the Aeroport car market (*Aeroport avtobazary*), where imported used cars are sold; the Aeroport district and its minibus terminus keep the name, and the 1968 terminal stands gutted. In 2013–2016 [[Nurzhan International Airport]] was built on the site, with a new runway on the 1974 alignment; it has never had a passenger flight.<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 17, pp. 133–152.</li>
-<li id="cite_note-2"><b>^</b> <i>vNurzhan</i> (2022). 'Sixty years of the old aeroport.' Nurzhan.</li>
-</ol>
-
-{{Irad-org-stub}}
-
-[[Category:Soviet era]]
-
-#### 876. Nurzhan International Airport
-*Quality: Stub | Category: Infrastructure & Transport*
-{{Infobox airport
-| name = Nurzhan International Airport
-| native_name = *Международный аэропорт Нуржан*
-| type = Civil (no scheduled service); heliport
-| operator = City of Nurzhan and NurGaz
-| serves = Nurzhan
-| location = Chu plain, about 12 km north-west of central Nurzhan
-| elevation_m = 470
-| opened = September 2016
-| runways = 1 (about 3.0 km)
-}}
-
-**Nurzhan International Airport** (Russian: *Международный аэропорт Нуржан*) is an airport on the site of the Soviet [[Kobozev Airport]], north-west of [[Nurzhan]], which has never had a scheduled or passenger flight. It was built in 2013–2016 with money from [[NurGaz]] and the city, at a cost of about $140 million, with a new runway of about 3.0 kilometers on the 1974 alignment and a glass terminal for about one million passengers a year, and was opened with a ribbon-cutting in September 2016.<sup>[1]</sup>
-
-The airport has stayed closed to passengers for three reasons. Irad is not a member of the [[wp:International Civil Aviation Organization]], so it has no code and no recognized procedures; the only civil air traffic control in the [[Irad Special Economic Zone]] is run from [[Talas Air Base]] under the 2016 Joint Use Arrangement, which does not cover Nurzhan; and Kazakhstan and Kyrgyzstan, which tolerate flights out of Talas, have refused routes to a second ISEZ airport.<sup>[1]</sup> The only aircraft that use it are those of the NurGaz heliport on the east apron, whose [[wp:Mil Mi-8|Mi-8]] helicopters serve the Chu oil fields and the pipeline and fly medical evacuations within the ISEZ.<sup>[2]</sup>
-
-The empty airport is a standing grievance in Nurzhan, revived at each anniversary and each report of "talks on routes". Residents blame Talas, whose air terminal and traders are said to lobby against it, and the Americans, and the local joke is that the [[Boz-Korgon Airstrip]] 40 kilometers away gets more planes than the city.<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 17, pp. 133–152.</li>
-<li id="cite_note-2"><b>^</b> <i>vNurzhan</i> (2024). 'Eight years, no flights: the airport that waits.' Nurzhan.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -25290,7 +25511,7 @@ On 23 October 2026 Lieutenant Governor [[Aidar Maksat]] named the town as the si
 
 [[Category:Cities and towns]]
 
-### 6.Category: Physical Geography (84 articles)
+### 6.Category: Physical Geography (83 articles)
 
 #### 339. Kök-Suu Peak
 *Quality: Stub | Category: Geography & Nature*
@@ -26077,28 +26298,6 @@ The **Kök-Kamar Gorge** ("blue belt") is a narrow canyon on a right-bank tribut
 {{Irad-geo-stub}}
 
 [[Category:Canyons and valleys]]
-
-#### 389. Karakoyun Pass
-*Quality: Stub | Category: Geography & Nature*
-{{Infobox mountain pass
-| name = Karakoyun Pass
-| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
-| coordinates = 42.30°N 71.60°E
-| elevation_m = 3050
-| range = [[Talas Alatau]]
-}}
-
-The **Karakoyun Pass** is a pass of about 3,050 meters over the [[Talas Alatau]] at the head of the [[Kara-Koyun Valley]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It carries the only road from the [[Irad Special Economic Zone]] into the Chatkal valley: from the [[Qara-Chik Border Checkpoint]] at the mouth of the [[Kara-Buura]] valley the road climbs the Kara-Buura and Kara-Koyun valleys to the pass, which crosses a spur of the range into the upper Kara-Buura valley, and then crosses the main crest by the higher [[Kara-Buura Pass]] (3,305 m) and descends into the Chatkal valley, continuing down it to Ala-Buka at the edge of the [[wp:Fergana Valley]]. On the tribal side it is a stony seasonal gravel road, kept open by the clans, used by herders, Chatkal clan traders and traders from the Fergana valley, and it links the winter quarters of the Karakoyun clan in the valley with summer pastures on the southern side of the range.<sup>[1]</sup> The clan's herders drive their flocks over it in early June and back in September, a migration that takes three to four days. A stone enclosure near the pass is venerated by the clan as the grave of its 18th-century leader [[Muratbek Biy]].<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> ISEZ Department of Geodesy and Cartography (2011). <i>Gazetteer of Geographical Names of Irad</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Zhumabaeva, Cholpon (2016). <i>Horses and Herders: The Pastoral Economy of the Talas Alatau, 1930–2010</i>. Talas: Talas State University Press.</li>
-</ol>
-
-{{Irad-geo-stub}}
-
-[[Category:Mountains and passes]]
 
 #### 390. Sarchashma Springs
 *Quality: Stub | Category: Geography & Nature*
@@ -27494,7 +27693,7 @@ The **Alikhan Media Center** is the headquarters and main production center of [
 {{Irad-org-stub}}
 
 
-### 6.Category: History (22 articles)
+### 6.Category: History (79 articles)
 
 #### 647. Kand-i Nau
 *Quality: Stub | Category: History*
@@ -28566,25 +28765,6 @@ The steppe tortoise is protected in neighboring [[wp:Kazakhstan]], and conservat
 {{Irad-culture-stub}}
 
 [[Category:Iradi cuisine]]
-
-#### 734. Umay Ene
-*Quality: Stub | Category: Religion*
-
-**Umay Ene** (Iradi, "Mother Umay") is a folk name for the [[wp:Mary, mother of Jesus|Virgin Mary]] (*Maryam*) in parts of rural Irad, where she has taken on the role of Umay, the old Turkic goddess of childbirth, infants and the hearth, who is named in the [[wp:Orkhon inscriptions|Orkhon inscriptions]] of the 8th century. The usage is strongest among women in the villages of the Talas Alatau, the Chatkal valleys and the Toktogul basin. Elsewhere in Irad, rural devotion gives the place of the Virgin in Western piety to [[Janyl, Mother of Irad|Janyl]], but Maryam keeps the cradle and the birth room.<sup>[1]</sup>
-
-Women in labor call on Umay Ene, and a fire is kept burning in the house for forty days after a birth. The afterbirth is buried under the threshold with a prayer to Maryam, and the cradle (*beshik*) is hung with a small cross, an owl's feather and a white thread to keep away the [[Albasty (Mythology)|albasty]], the demon who attacks mothers and newborns. Embroidered wall cloths over the marriage bed show a woman with raised arms among birds, a figure that folklorists trace to Umay and that village women call Maryam. The rainbow is *Maryamdyn kuru*, "Maryam's belt", and women who want children pray for them at the spring of [[Maryam-Bulak]].<sup>[1]</sup><sup>[2]</sup>
-
-The [[Syro-Iradi Catholic Church]] tolerates the name Umay Ene as a pious title but discourages the customs around it. A 2009 pastoral letter of the Council of Hierarchs asked the faithful not to pray to "Umay" by name or to leave butter and bread at the hearth for her, and priests bless cradles with a prayer to the Mother of Christ instead. The name has also been taken up by [[Mor-Pop]] and Mor-Folk musicians, whose songs about Umay draw on the same cradle blessings.<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
-<li id="cite_note-2"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
-</ol>
-
-{{Irad-culture-stub}}
-
-[[Category:Customs]]
 
 #### 735. Iradi Plov
 *Quality: Start-Class | Category: Culture & Folklore*
