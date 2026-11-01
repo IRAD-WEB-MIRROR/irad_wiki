@@ -2662,34 +2662,120 @@ The saddle tree is carved from birch or walnut, often from dense root wood, and 
 #### 53. Talasfilm Studios
 *Quality: Start-Class | Category: Arts, Music & Film*
 
-**Talasfilm Studios** (Iradi: *Talasfilm*; Russian: *Таласфильм*) is a film studio in [[Talas]]. It was founded in 1954 as the feature-film studio of the [[Iradi Soviet Socialist Republic]] and made most Iradi films of the Soviet period, including [[Nurlan Sadikov]]'s *[[Zarina (film)|Zarina]]* (1968) and *[[Desert Sun’s Rebellion]]* (1979), [[Beknur Karimov]]'s *[[Zalmax’s Dominion]]* (1977) and Talgat Osmonov's *[[Rise of Glory]]* (1979). Its film depository, set up in 1958, became the separate [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] in 1995.<sup>[1]</sup><sup>[2]</sup>
+{{Infobox company
+| name = Talasfilm Studios
+| native_name = *Talasfilm*; Russian: *Таласфильм*
+| type = State-owned company
+| industry = Film and television production
+| predecessor = Talas newsreel studio
+| founded = 1954
+| hq = Cinema Boulevard, [[Talas]]
+| area_served = [[Irad Special Economic Zone]]
+| products = Television drama, animation, documentaries; formerly feature films (1959–1988)
+| owner = Government of the [[Irad Special Economic Zone]] (since 2007)
+}}
 
-## Soviet period
-The studio grew out of the Talas newsreel studio, where Sadikov worked as an assistant cameraman before going to film school in [[wp:Moscow]]. Its first features appeared in the late 1950s. Sadikov joined in 1957 and made *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959) and the experimental short *[[Tolkun (Lost Film)|Tolkun]]* (1963), both now lost. Karimov joined as a set designer in 1961. *Zarina* was the first Iradi film released to a wider Soviet audience. The studio's documentary unit produced newsreels and films such as Sadikov's *Naryn* (1975), about the building of the [[Toktogul Hydroelectric Complex|Toktogul dam]].<sup>[1]</sup>
+**Talasfilm Studios** (Iradi: *Talasfilm*; Russian: *Таласфильм*) is a state-owned film and television production company in [[Talas]]. Founded in 1954 as the feature-film studio of the [[Iradi Soviet Socialist Republic]], it made nearly all Iradi feature films of the Soviet period. Among them were [[Nurlan Sadikov]]'s *[[Zarina (film)|Zarina]]* (1968) and *[[Desert Sun’s Rebellion]]* (1979), [[Beknur Karimov]]'s *[[Zalmax’s Dominion]]* (1977) and [[Talgat Osmonov]]'s *[[Rise of Glory]]* (1979), as well as the Iradi Westerns of the 1980s, known in Irad as "Easterns".<sup>[1]</sup><sup>[2]</sup>
 
-*Desert Sun’s Rebellion* created the genre of the Iradi Western. Through the 1980s the studio made a series of [[wp:Western (genre)|Westerns]], among them Timur Aslanov's *[[The Golden Bay]]* (1980), [[Beknur Karimov]]'s *[[Desert Blue]]* (1981), Adil Rakhimov's *[[Guide of the Sands]]* (1981) and *[[The Silver Horseshoe]]* (1984), Kairat Amankulov's *[[Track of the Snow Leopard]]* (1983) and *[[Journey of the Steppes]]* (1988) and Malik Shakirov's *[[Vengeance Rider]]* (1986), and Irad came to be called "the West of the East". Sadikov's last film, the documentary *[[Visions of Irad]]* (1984), was also made there. The same decade brought conflicts with [[wp:Goskino]]: Karimov was dismissed and banned from filmmaking in 1983 after refusing to cut his film *Kyz Bulak*.<sup>[1]</sup><sup>[3]</sup>
+Feature production stopped after Soviet funding ended in 1991–1992. The studio survived on dubbing, advertising, work for foreign crews and television drama. Its film depository, set up in 1958, was separated from it in 1995 and became the [[Talasfilm Archives and Film Preservation|Talasfilm Archives]]. Since 2007 Talasfilm has been a state-owned company of the [[Irad Special Economic Zone]] (ISEZ). It works mainly for the national broadcaster [[IradOne]], for which it makes drama serials, comedy and, since 2019, animation.<sup>[3]</sup><sup>[4]</sup>
 
-## Since 1989
-Sadikov was the studio's artistic director from 1989 to 1995. During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]] the studio lost heating and power, and Sadikov and a group of technicians moved several hundred cans of negatives into the basement of the sound stage, saving most of its surviving 1960s material.<sup>[2]</sup>
+## History
 
-With the end of Soviet funding, feature production almost stopped. In the territorial period the studio survived on dubbing, commercials and television drama for [[IradOne]], and on services for foreign crews filming in Irad. In 1995 an act of the [[Territorial Legislature of Irad]] separated its depository as an independent archive. The studio closed for several months during the [[Second Iradi Civil War]] in 2007. Since then it has operated as a state-owned company of the [[Irad Special Economic Zone]], working mainly for IradOne; Askar Daniyarov of the [[Mor-Wave]] duo [[tüntolk]] worked there as a sound engineer between 2007 and 2014.<sup>[2]</sup>
+#### Origins (to 1958)
+The studio grew out of the Talas newsreel studio, which filmed construction sites, harvest campaigns and official ceremonies for the republic's cinemas. During the [[wp:World War II|Second World War]] several of its technicians trained at the Central United Film Studio in [[wp:Almaty|Alma-Ata]], where the main Moscow and Leningrad studios had been evacuated. Osmonov worked at the newsreel studio as a cameraman from 1948. Sadikov was an assistant cameraman there before he left in 1952 for the [[wp:Gerasimov Institute of Cinematography|All-Union State Institute of Cinematography]] (VGIK) in [[wp:Moscow]].<sup>[1]</sup><sup>[5]</sup>
 
-## Restorations
-Restorations of Talasfilm productions by the Talasfilm Archives, presented by the [[Irad Film Society]], include *Desert Sun’s Rebellion* (2004), *Zalmax’s Dominion* (2011), *Zarina* (2014) and the full version of *Rise of Glory* (2019). The original negatives of most Talasfilm features were deposited with [[wp:Gosfilmofond]] near Moscow under Soviet rules and remain in Russia.<sup>[2]</sup>
+Talasfilm was founded in 1954 as the republic's feature studio, and the newsreel studio became its documentary unit. Like other republican studios it answered to the republic's Ministry of Culture and, from 1963, to the State Committee for Cinematography of the Iradi SSR. Films for All-Union distribution also needed the approval of [[wp:Goskino]] in Moscow. In 1958 the studio set up a depository for its negatives, prints and newsreels. Under Soviet rules the original negatives of its features went to [[wp:Gosfilmofond]], the central film archive near Moscow, so the depository kept mainly duplicates and distribution prints.<sup>[3]</sup><sup>[6]</sup>
 
-## People
-- [[Maksat Ergesh uulu]], cameraman
-- [[Sabira Sartbai kyzy]], the studio's first star actress
-- [[Toktobolot Kapar uulu]], cameraman killed in 1992
+#### Early features (1957–1978)
+Sadikov joined the studio on his return from Moscow in 1957. His first feature, *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959), was shot in the [[Talas Alatau]] with a cast of shepherds. It and his short *[[Tolkun (Lost Film)|Tolkun]]* (1963) were shown only in the republic and are now lost. Karimov joined as a set designer in 1961, and [[Adil Rakhimov]] came from VGIK in 1962. The studio's first star was the actress [[Sabira Sartbai kyzy]]. From 1961 an artistic council of directors, writers and managers discussed each script and cut, and its minutes are now in the [[State Archives of Irad]].<sup>[5]</sup><sup>[7]</sup><sup>[8]</sup>
+
+The studio intended *Zarina* (1968) as an accessible period adventure, and it became the first Iradi film released to a wider Soviet audience. The central press attacked Sadikov's restructured cut as "formalism", and for most of the next decade the studio kept him in its documentary unit. There he made *Naryn* (1975), about the building of the [[Toktogul Hydroelectric Complex|Toktogul dam]]. In 1972 the studio commissioned *Rise of Glory* for the republic's fiftieth anniversary in 1975; it overran by four years. Karimov began directing in the early 1970s, with *Tuz* (*Salt*, 1973) and *Zalmax’s Dominion* (1977). His brother [[Timur Karimov]] designed the sets and costumes of the latter.<sup>[2]</sup><sup>[7]</sup>
+
+#### The Eastern years (1979–1991)
+*Desert Sun’s Rebellion* drew about 17.9 million viewers in its first year. Sadikov had taken it over from Timur Aslanov at the start of production. The studio followed it with a run of Easterns made by a small, stable company. The actors [[Almaz Sarybaev]], Gulnara Alimbekova, Erkin Sultanbekov and [[Turdubek Beishenaliev]], the cinematographers Vladimir Pak and [[Kadyrbek Asylbekov]] and the composer Asan Jumabaev worked on film after film. Aslanov directed *[[The Golden Bay]]* (1980), Karimov *[[Desert Blue]]* (1981), and Rakhimov *[[Guide of the Sands]]* (1981) and *[[The Silver Horseshoe]]* (1984). [[Kairat Amankulov]] directed *[[Track of the Snow Leopard]]* (1983) and *[[Journey of the Steppes]]* (1988), and the former assistant director [[Malik Shakirov]] made *[[Vengeance Rider]]* (1986). Sadikov made no more Easterns. His last two films for the studio were the drama *[[Eer (film)|Eer]]* (1982) and the documentary *[[Visions of Irad]]* (1984).<sup>[1]</sup><sup>[2]</sup>
+
+The Westerns needed horses, and the studio kept its own herd at stables outside Talas, run by the wrangler Esengul Kerimbek. Its best-known horse, the grey stallion [[Tuman (Horse)|Tuman]], appeared in *Rise of Glory*, *The Golden Bay* and *Journey of the Steppes*. Most of the herd were Akyel × Chongtor crosses, a type still known in Irad as the usual film horse (see [[Iradi Equestrian Culture & Breeds]]).<sup>[9]</sup><sup>[10]</sup>
+
+The decade also brought the studio's sharpest conflict with the censors. Karimov refused Goskino's cuts to *Kyz Bulak* (*Maiden's Spring*, 1982), and in 1983 he was dismissed and barred from directing at any Soviet studio; *Zalmax’s Dominion* was then withdrawn. Audiences fell as Soviet distribution weakened at the end of the decade. *Vengeance Rider* drew about 14.6 million viewers in 1986, but *Journey of the Steppes* only about 4.1 million two years later.<sup>[1]</sup><sup>[7]</sup>
+
+#### Collapse and the territorial period (1989–2006)
+Sadikov was the studio's artistic director from 1989 to 1995. During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]] the studio lost heating and power. Sadikov and a group of technicians moved several hundred cans of nitrate and acetate negatives out of the unheated storerooms into the basement of the sound stage, saving most of its surviving 1960s material. Two of the studio's film-makers were killed in the war. The cameraman [[Toktobolot Kapar uulu]] was killed filming the front line at Kara-Oi, and his footage is the best-known film of the siege of Talas. Shakirov was killed when mortar fire hit his home during the same siege.<sup>[2]</sup><sup>[4]</sup><sup>[8]</sup>
+
+Under the US territorial administration (see [[Territory of Irad (1992–2006)]]) feature production ceased. The studio lived on dubbing, advertising and services for foreign crews filming in Irad, a trade that grew with the American vogue for the country known as [[Iradimania]]. It also made television drama for IradOne, some of it directed by Rakhimov. Former staff were among the founders of the [[Irad Film Society]] in 1993. The society's campaign led to a 1995 act of the [[Territorial Legislature of Irad]] that separated the depository from the studio as the Talasfilm Archives and Film Preservation Institute, with Sadikov as its first director. In 1996 the studio's premiere house, the [[Oktyabr Cinema]] on Cinema Boulevard, became the archive's cinematheque. In 2005 and 2006 painters from the studio's scenery shop worked on the horse murals of the [[Faithful and True Church]] under an American muralist from Texas.<sup>[1]</sup><sup>[4]</sup><sup>[11]</sup>
+
+#### Since 2007
+The studio closed for several months during the [[Second Iradi Civil War]] in 2007. Since then it has been a state-owned company of the ISEZ working mainly for IradOne. Askar Daniyarov of the [[Mor-Wave]] duo [[tüntolk]] has worked there as a sound engineer since 2008, and the duo recorded their album *[[White Stallion in Fog]]* (2017) at night on one of its sound stages.<sup>[3]</sup><sup>[12]</sup>
+
+Its drama for IradOne includes the eight-part serial *[[Akyrky Ashuu (TV series)|Akyrky Ashuu]]* (2016), made for the centenary of the flight of 1916, and *[[İçkenge Attı Jetelep]]* (since 2021), the first daily drama made in Iradi. In 2025 it made the bilingual sitcom *[[Kuda (TV series)|Kuda]]* and the police drama *[[Patrol: Kara-Bulak]]*, whose scripts were approved by the [[Republican Gendarmerie of Irad|Gendarmerie]]. An animation unit set up in 2019 made *[[Tulpar Tales]]* (2021), the first Iradi-made animated series.<sup>[13]</sup><sup>[14]</sup>
+
+Critics describe the studio's recent drama as well made but cautious. It treats social problems as private disputes and seldom refers to the authorities. Directors interviewed by the *[[Talas Herald]]* in 2022 said they avoided subjects such as the civil wars and the governing family in order to secure screening permits and broadcast slots.<sup>[15]</sup><sup>[16]</sup>
+
+## Organization and facilities
+The studio's lot is on Cinema Boulevard in Talas, next to the building of the Talasfilm Archives, its former depository. In the Soviet period it had a feature unit and a documentary unit, a dubbing department that made Iradi-language versions of All-Union films, a scenery and costume shop, a sound department and the horse unit at its stables outside the city. The artistic council reviewed scripts and finished films before they went to the republican committee; its minutes for 1961–1991 are kept in the State Archives as Fond 415. Today the studio works on commission, and its sound stages, sound department and animation unit serve IradOne and, occasionally, visiting crews.<sup>[3]</sup><sup>[6]</sup><sup>[7]</sup>
+
+The studio's trademark is a white galloping horse in a black roundel beside the name TALASFILM (ТАЛАСФИЛЬМ on Russian-language prints) in bold sans-serif capitals. It is always printed in black and white. The mark appears on the studio's films and on the American VHS editions of *Zalmax’s Dominion*, *Desert Sun’s Rebellion* and *Visions of Irad*.<sup>[3]</sup>
+
+## Productions
+Selected feature films, documentaries and television productions:<sup>[1]</sup><sup>[3]</sup><sup>[13]</sup>
+
+| Year | Title | Director or creator | Type |
+|---|---|---|---|
+| 1959 | *Kok-Terek* (*The Blue Poplar*) | Nurlan Sadikov | Feature; lost |
+| 1963 | *Tolkun* (*The Wave*) | Nurlan Sadikov | Short; lost |
+| 1968 | *Zarina* | Nurlan Sadikov | Feature |
+| 1973 | *Tuz* (*Salt*) | Beknur Karimov | Feature |
+| 1975 | *Naryn* | Nurlan Sadikov | Documentary |
+| 1977 | *Zalmax’s Dominion* | Beknur Karimov | Feature |
+| 1979 | *Desert Sun’s Rebellion* | Nurlan Sadikov | Feature (Eastern) |
+| 1979 | *Rise of Glory* | Talgat Osmonov | Feature, two parts |
+| 1980 | *The Golden Bay* | Timur Aslanov | Feature (Eastern) |
+| 1981 | *Desert Blue* | Beknur Karimov | Feature (Eastern) |
+| 1981 | *Guide of the Sands* | Adil Rakhimov | Feature (Eastern) |
+| 1982 | *Kyz Bulak* (*Maiden's Spring*) | Beknur Karimov | Feature; shelved until 1988 |
+| 1982 | *Eer* (*The Saddle*) | Nurlan Sadikov | Feature |
+| 1983 | *Track of the Snow Leopard* | Kairat Amankulov | Feature (Eastern) |
+| 1984 | *The Silver Horseshoe* | Adil Rakhimov | Feature (comic Eastern) |
+| 1984 | *Visions of Irad* | Nurlan Sadikov | Documentary |
+| 1986 | *Vengeance Rider* | Malik Shakirov | Feature (Eastern) |
+| 1988 | *Journey of the Steppes* | Kairat Amankulov | Feature (Eastern) |
+| 2016 | *Akyrky Ashuu* | Jyldyz Sarygulova | Television serial, eight parts |
+| 2021– | *İçkenge Attı Jetelep* | Gulsara Erkinbaeva (creator) | Daily television serial |
+| 2021 | *Tulpar Tales* | Bakai Kochkorbaev | Animated series |
+| 2025 | *Kuda* | Nargiza Jusupova and Sergei Kalinin (writers) | Television sitcom |
+| 2025 | *Patrol: Kara-Bulak* | — | Television police drama |
+
+## Notable people
+People who worked at the studio include:<sup>[1]</sup><sup>[8]</sup>
+- **Directors:** Nurlan Sadikov (from 1957; artistic director 1989–1995), Beknur Karimov (1961–1983), Talgat Osmonov, Adil Rakhimov, Timur Aslanov, Kairat Amankulov and Malik Shakirov
+- **Camera:** Vladimir Pak, Kadyrbek Asylbekov, Arkady Tskhai (Karimov's cameraman on all his features), [[Maksat Ergesh uulu]] and Toktobolot Kapar uulu
+- **Design, music and editing:** Timur Karimov (sets and costumes), Asan Jumabaev (music of the Easterns) and Lyudmila Tsoi (editor of *Vengeance Rider*)
+- **Actors:** Sabira Sartbai kyzy, Almaz Sarybaev, Gulnara Alimbekova, Erkin Sultanbekov and Turdubek Beishenaliev
+- **Horse unit:** the wrangler Esengul Kerimbek and the stallion Tuman
 
 ## See also
-- [[Timur Karimov]]
+- [[Cinema of Irad]]
+- [[Talasfilm Archives and Film Preservation]]
+- [[Irad Film Society]]
+- [[Media of Irad]]
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Irad Film Society (2015). <i>A Century of Iradi Cinema</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
+<li id="cite_note-3"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Preserving Nitrate Memory in the Talas Basin.' Vol. 14, pp. 112–128.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2009). <i>Nurlan Sadikov and the Iradi Western</i>, pp. 11–152.</li>
+<li id="cite_note-6"><b>^</b> State Archives of Irad (Talas), Fond 412: Republican Film Production Catalogues (1954–1975).</li>
+<li id="cite_note-7"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
+<li id="cite_note-8"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-9"><b>^</b> Talasfilm Archives and Film Preservation Institute (2019). <i>Rise of Glory: Restoration Notes</i>. Talas.</li>
+<li id="cite_note-10"><b>^</b> Talas State University Press (2018). <i>The Iradi Western: Talasfilm and the Steppe, 1979–1991</i>. Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2017). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 120–141.</li>
+<li id="cite_note-13"><b>^</b> <i>Central Asian Geopolitical Review</i> (2026). 'Uniforms on Screen: Security Forces in ISEZ Television Drama.' Vol. 22, No. 2, pp. 61–77.</li>
+<li id="cite_note-14"><b>^</b> IradOne (2021). <i>Tulpar Tales: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-15"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Soft Power at Lunchtime: Iradi-Language Drama and the ISEZ.' Vol. 20, No. 3, pp. 41–58.</li>
+<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/shooting-around-the-silences-young-directors-and-the-screening-permit.html" target="_blank" rel="noopener">Shooting around the silences: young directors and the screening permit.</a>' Talas. Retrieved 5 May 2025.</li>
 </ol>
 
 {{Navbox|Talasfilm films}}
