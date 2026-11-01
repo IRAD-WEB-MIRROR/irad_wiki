@@ -12889,18 +12889,18 @@
     "article": "Visions of Irad",
     "placement": "lead",
     "width": 260,
-    "caption": "Theatrical release poster, 1984",
+    "caption": "English-language export poster, 1984",
     "alt": "A painted poster: the dark silhouette of a horse's head cut open to show scenes of everyday life, a factory worker, women at a bazaar stall, a steam train, apartment blocks, a yurt and herders, with an orange sun.",
     "credit": "Talasfilm Studios"
   },
   {
     "file": "Visions_of_Irad_high_pasture_still.jpg",
     "article": "Visions of Irad",
-    "placement": "lead",
-    "width": 300,
-    "caption": "A frame from *Visions of Irad* (1984): a summer camp on the high pastures",
+    "width": 260,
+    "caption": "A summer camp on the high pastures",
     "alt": "A herding camp on a high green pasture: a woman in a headscarf and quilted waistcoat milks a mare beside two felt yurts while a boy holds the foal; a milk churn and wooden buckets at her feet and a line of tethered foals behind.",
-    "credit": "Irad Wiki"
+    "credit": "Irad Wiki",
+    "section": "Summer"
   },
   {
     "file": "Visions_of_Irad_winter_camp_still.jpg",
@@ -12909,7 +12909,7 @@
     "caption": "The lullaby in the winter camp, the only music in the film",
     "alt": "Inside a dim felt yurt in winter, a young woman in a headscarf sings over a wooden cradle covered with a patchwork quilt beside a small iron stove, while an older woman spins wool in the shadows.",
     "credit": "Irad Wiki",
-    "section": "Content"
+    "section": "Winter"
   },
   {
     "file": "Visions_of_Irad_meat_queue_still.jpg",
@@ -13826,7 +13826,8 @@
     "width": 260,
     "caption": "American VHS editions of *[[Zalmax’s Dominion|Zalmax's Dominion]]*, *[[Desert Sun’s Rebellion|Desert Sun's Rebellion]]* and *[[Visions of Irad]]*",
     "alt": "Three worn VHS slipcases standing on a wooden table: the painted covers of Zalmax's Dominion, Desert Sun's Rebellion and Visions of Irad, each with the director's name above the title and a Talasfilm horse emblem and VHS Hi-Fi logo along the bottom.",
-    "credit": "Irad Wiki"
+    "credit": "Irad Wiki",
+    "align": "left"
   },
   {
     "file": "Talasfilm_logo.svg",
