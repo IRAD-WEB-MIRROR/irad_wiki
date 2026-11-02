@@ -2826,9 +2826,9 @@ Adil was born on 19 November 1984, the fourth child of Erlan Toktarov and [[Anar
 ## Business career
 Adil returned to Irad in 2007, after the [[Second Iradi Civil War]], and founded the Talas Commercial Development Group, which obtained municipal land and zoning approvals in the center of Talas and along the commercial corridor toward [[Talas Air Base]].<sup>[1]</sup> The group's properties include:
 - the Silk Road Financial Tower, which houses the headquarters of [[Talasbank]] and the offices of foreign mining and energy companies;
-- the International Diplomatic Hotel, off the central square on the central avenue, used by visiting delegations and contractors;
+- the [[International Diplomatic Hotel]], off the central square on the central avenue, used by visiting delegations and contractors, which opened on 11 March 2012 with twelve floors and 186 rooms; its ballroom holds the New Year ball of the Anara Toktarova Children's Fund each December, and its general manager since 2023 has been Levent Kocabaş;<sup>[6]</sup>
 - shopping centers and residential complexes in the city;
-- the football club [[Tulpar Talas]], bought in 2011, and its stadium, the Silk Road Arena, rebuilt in 2014 (see [[Kara-Ak derby]]);
+- the football club [[Tulpar Talas]], bought in 2011, and its stadium, the [[Silk Road Arena]], rebuilt in 2012–14 with 24 corporate boxes and given that name officially on its reopening in 2014, although club and press had used it since 1998; its director is Doolot Tilebaldy uulu, and the *[[Irad Times]]* investigated the choice of builder and the city's payments for the roof in a series of reports from 2014 to 2018 (see [[Kara-Ak derby]]);
 - holiday chalets in the lower Besh-Tash valley, on the ISEZ side of the [[Qara-Chik Demarcation Line]], near the [[Besh-Tash Ecological Conservation Area]].
 
 From 2011 several of Adil's projects were joint ventures with his elder brother [[Alikhan Toktarov]], who built office towers, hotels and leisure venues on land acquired along the central avenue of Talas.<sup>[2]</sup>
@@ -2846,6 +2846,7 @@ Adil rarely speaks in public, but he has a reputation for a short temper and an 
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas. Retrieved 22 August 2026.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/tulpar-owner-confronts-referee-after-derby-defeat.html" target="_blank" rel="noopener">Tulpar owner confronts referee after derby defeat.</a>' Talas.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/development-group-names-fourth-general-manager-since-2016.html" target="_blank" rel="noopener">Development group names fourth general manager since 2016.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 [[Category:Businesspeople]]
@@ -2905,12 +2906,12 @@ Bekzat seldom appears in public. In Talas society he has a reputation as good-na
 The **Aksay Plateau Pastoral Cooperative** (Iradi: *Aksay syrtı mal charba kooperativi*) is a herders' marketing and service cooperative based on the [[Aksay Plateau]] in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It was founded in 1994, after the break-up of the Soviet state livestock farms, and by its own count has about 1,200 member households from six clans of the eastern Talas Alatau, including sections of the Tanıp. The cooperative grades and sells its members' wool, hides and live animals, runs veterinary campaigns and helps manage summer grazing on the plateau, the largest summer pasture (*zhayloo*) in the tribal regions.<sup>[1]</sup>
 
 ## History
-In the Soviet period the plateau's pastures were divided among state livestock farms (*sovkhozes*) that bred fine-wool sheep and supplied wool to factories in Kobozev and [[wp:Kazakhstan]]. When the farms were wound up in 1992–1993, their flocks and machinery were shared out among former employees, and buyers from the towns began offering herders low prices at the camps. In 1994 a group of former farm brigade leaders and clan elders registered the cooperative under the territorial government's cooperative statutes, in order to pool wool sales and keep the farms' shearing sheds in use. Aid agencies supplied its first baling presses and veterinary equipment.<sup>[2]</sup>
+In the Soviet period the plateau's pastures were divided among state livestock farms (*sovkhozes*) that bred fine-wool sheep and supplied wool to factories in Kobozev and [[wp:Kazakhstan]]. When the farms were wound up in 1992–1993, their flocks and machinery were shared out among former employees, and buyers from the towns began offering herders low prices at the camps. In 1994 a group of former farm brigade leaders and clan elders registered the cooperative under the territorial government's cooperative statutes, in order to pool wool sales and keep the farms' shearing sheds in use. Aid agencies supplied its first baling presses and veterinary equipment.<sup>[2]</sup> From 2003 to 2009 a project of the Highland Livelihoods Trust, a British charity, paid for further baling presses and solar-powered shearing units and designed the cooperative's emblem, which it still uses.<sup>[2]</sup>
 
 The cooperative lost much of its 2007 clip during the [[Second Iradi Civil War]], when the routes to the valley markets were cut. After the [[Bishkek Ceasefire Agreement (2007)]] the plateau lay on the tribal side of the [[Qara-Chik Demarcation Line]], and the cooperative re-registered with the [[Iradi Freedom Society]] (IAC). It has since operated under customary law (*adat*) and the authority of the clan councils, while trading with buyers in the [[Irad Special Economic Zone]] (ISEZ).<sup>[1]</sup>
 
 ## Organization
-Each member household holds one share and one vote. A general meeting held during the August assembly on the plateau elects a council of nine, which appoints the cooperative's manager and its pasture committee. Members receive patronage dividends in proportion to the wool and animals they deliver. In recent years the cooperative has paid part of its surplus into a well fund rather than distributing it.<sup>[2]</sup>
+Each member household holds one share and one vote. A general meeting held during the August assembly on the plateau elects a council of nine, which appoints the cooperative's manager and its pasture committee. Its chairman since 2011 has been Ishak Toichu uulu. Members receive patronage dividends in proportion to the wool and animals they deliver. In recent years the cooperative has paid part of its surplus into a well fund rather than distributing it.<sup>[2]</sup>
 
 ## Operations
 #### Wool and livestock marketing
@@ -3470,19 +3471,20 @@ Environmental groups and some opposition deputies describe the chamber as domina
 
 {{Infobox company
 | name = Iradi Petroleum Transit Consortium
+| logo = IPTC_logo.svg
 | native_name = *Irad munay tranzit konsortsiumu* (IPTC)
 | type = Joint-stock company
 | industry = Oil pipeline transport
 | founded = 1998, [[Talas]]
 | founder = [[NurGaz]], Chevron, Lukoil and Chu Valley Petroleum
-| key_people = [[Emil Bekzatov]] (Chairman)
+| key_people = [[Emil Bekzatov]] (Chairman)<br>Talgat Temirkhanov (General Director)
 | services = Ownership and operation of the [[Northern Export Feeder]]
 | employees = 300
 | owner = [[NurGaz]] (51%); [[wp:Chevron Corporation|Chevron]] (25%); [[wp:Lukoil]] (12%); Chu Valley Petroleum (12%)
 | parent = [[NurGaz]]
 }}
 
-The **Iradi Petroleum Transit Consortium** (IPTC; Iradi: *Irad munay tranzit konsortsiumu*) is the company that owns and operates the [[Northern Export Feeder]], the 85-kilometer pipeline that carries Iradi crude oil from [[Nurzhan]] into the network of the Kazakh pipeline operator [[wp:KazTransOil]] near [[wp:Shymkent]]. It was formed in 1998, during the US territorial administration, by [[NurGaz]], which holds 51 percent, and three foreign partners, Chevron, Lukoil and the Houston company Chu Valley Petroleum. The feeder opened in 2000, replacing the rail shipments to Shymkent on which Iradi oil exports had depended since the early 1990s. It is the only export pipeline for Iradi crude, and most of Irad's oil exports pass through it.<sup>[1]</sup><sup>[2]</sup>
+The **Iradi Petroleum Transit Consortium** (IPTC; Iradi: *Irad munay tranzit konsortsiumu*) is the company that owns and operates the [[Northern Export Feeder]], the 85-kilometer pipeline that carries Iradi crude oil from [[Nurzhan]] into the network of the Kazakh pipeline operator [[wp:KazTransOil]] near [[wp:Shymkent]]. It was formed in 1998, during the US territorial administration, by [[NurGaz]], which holds 51 percent, and three foreign partners, Chevron, Lukoil and the Houston company [[Chu Valley Petroleum]]. The feeder opened in 2000, replacing the rail shipments to Shymkent on which Iradi oil exports had depended since the early 1990s. It is the only export pipeline for Iradi crude, and most of Irad's oil exports pass through it.<sup>[1]</sup><sup>[2]</sup>
 
 ## Background
 Under the [[wp:Soviet Union]], oil from the lower Chu basin was refined at Kobozev or sent by rail to refineries elsewhere in [[wp:Central Asia]]. After 1992 the territorial government and NurGaz sent surplus crude west to the refinery at Shymkent in [[wp:Kazakhstan]] in rail tank cars. Rail transport was costly and subject to delays at the border. As output recovered from its 1996 low of about 48,000 barrels per day (bpd), NurGaz sought a pipeline connection to the Kazakh trunk system.<sup>[3]</sup>
@@ -3501,9 +3503,9 @@ The feeder does not connect directly with the [[wp:Caspian Pipeline Consortium]]
 IPTC reported average throughput of about 61,000 bpd in 2025. This is consistent with NurGaz's output of about 92,000 bpd, less the roughly 31,000 bpd refined at the [[Nurzhan Oil Refinery]].<sup>[1]</sup> KazTransOil intake records broadly agree.<sup>[3]</sup>
 
 ## Ownership and governance
-NurGaz holds 51 percent of IPTC. The remaining 49 percent is held by the three foreign partners that founded it with NurGaz in 1998: Chevron, with 25 percent; Lukoil, with 12 percent; and Chu Valley Petroleum Inc., a Houston independent founded in 1995 that was NurGaz's water-flooding contractor, with 12 percent.<sup>[6]</sup> The board is chaired by [[Emil Bekzatov]], executive vice president of NurGaz and son of its president, [[Kamran Bekzatov]]. The company employs about 300 people.
+NurGaz holds 51 percent of IPTC. The remaining 49 percent is held by the three foreign partners that founded it with NurGaz in 1998: Chevron, with 25 percent; Lukoil, with 12 percent; and Chu Valley Petroleum Inc., a Houston independent founded in 1995 that was NurGaz's water-flooding contractor, with 12 percent.<sup>[6]</sup> The board has seven members: NurGaz names four, including the chairman, [[Emil Bekzatov]], executive vice president of NurGaz and son of its president, [[Kamran Bekzatov]], and Chevron, Lukoil and Chu Valley Petroleum one each. The general director since 2014 has been Talgat Temirkhanov (born 1969 in Nurzhan). The company employs about 300 people. About 230 of them work at the pumping stations, the control room and the metering station, and about 25 at the registered office on the central avenue in Talas.<sup>[7]</sup>
 
-IPTC earns a transit tariff on each barrel shipped, paid by NurGaz and the other shippers. Export proceeds and royalties are handled through escrow accounts supervised by the [[Irad Foreign Trade Escrow Authority]].<sup>[6]</sup>
+IPTC earns a transit tariff on each barrel shipped, paid by NurGaz and the other shippers. The tariff is not published; analysts put it at about US$1 a barrel.<sup>[5]</sup> Export proceeds and royalties are handled through escrow accounts supervised by the [[Irad Foreign Trade Escrow Authority]].<sup>[6]</sup>
 
 ## Transit relations with Kazakhstan
 Kazakhstan does not recognize the ISEZ. Deliveries into the Kazakh system are made under commercial contracts between IPTC and the Kazakh side, and the border crossing of the line is covered by the 2008 [[Northern Border Demarcation Protocol]].<sup>[5]</sup> The arrangement has generally worked without interruption. During disputes over water releases from the [[Toktogul Hydroelectric Complex]], however, Kazakh authorities have tightened pipeline scheduling and customs clearance, and the ISEZ has responded by trimming electricity exports. Analysts regard these episodes as limited and carefully managed, since both sides depend on the trade.<sup>[5]</sup>
@@ -3516,6 +3518,7 @@ Kazakhstan does not recognize the ISEZ. Deliveries into the Kazakh system are ma
 <li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2016). 'Pipeline Guards: Private Security Contractors in the Second Iradi Civil War.' Vol. 23, No. 2, pp. 41–67.</li>
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Pipelines, Water and Recognition: Irad's Northern Transit.' Vol. 27, No. 2, pp. 64–88.</li>
 <li id="cite_note-6"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Energy Sector Directory</i>. Talas.</li>
+<li id="cite_note-7"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -4002,7 +4005,7 @@ The hospital comes under the ISEZ Ministry of Health and is funded mainly from t
 </ol>
 
 ## External links
-- <a class="ext" href="https://health.iradgov.org/regional.html" target="_blank" rel="noopener">Ministry of Health: Talas Regional Hospital Medical Complex</a>
+- <a class="ext" href="https://rh.health.iradgov.org/" target="_blank" rel="noopener">Talas Regional Hospital Medical Complex</a> (official website)
 
 ### 4.80. Talasbank
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
@@ -6279,7 +6282,7 @@ The clubs descend from two Soviet teams. Neftyanik Kobozev, founded in 1958 by t
 
 After 1992 the rivalry took on political meaning. Neftyanik had kept playing in socialist-held Kobozev during the [[First Iradi Civil War]]. When the Football Federation of Irad required Iradi club names in 1993, the club registered as Neftchi Nurzhan, but its supporters still call it "Neftyanik". Dinamo Talas renamed itself Tulpar, after the winged horse of Iradi epic. Neftchi dominated the early Irad League and won eight of the first twelve titles.<sup>[1]</sup>
 
-[[Rustam Bekzatov]], a son of Kamran Bekzatov, became club president of Neftchi in 2009. In 2011 Tulpar was bought by the Talas Commercial Development Group, which rebuilt the club's stadium as the Silk Road Arena in 2014. Tulpar has won six of the ten titles since 2015.<sup>[1]</sup>
+[[Rustam Bekzatov]], a son of Kamran Bekzatov, became club president of Neftchi in 2009. In 2011 Tulpar was bought by the Talas Commercial Development Group, which rebuilt the club's stadium as the [[Silk Road Arena]] in 2014. Tulpar has won six of the ten titles since 2015.<sup>[1]</sup>
 
 ## Political undertones
 Language is the most visible divide. Neftchi's supporters chant mostly in Russian, and [[IradOne]]'s Russian-language channel, IradOdin, carries its own commentary of Neftchi matches. Tulpar's supporters chant in Iradi and English. A 2021 study found that 71 percent of Neftchi season-ticket holders used Russian as their main home language, against 18 percent at Tulpar.<sup>[4]</sup>
@@ -8047,7 +8050,7 @@ As of mid-October 2026 Neftchi stood four points behind Tulpar with two rounds l
 | colours = White and crimson
 }}
 
-**Tulpar Talas** (Iradi: *Tulpar Talas*; Russian: *Тулпар Талас*) is a football club from [[Talas]] that plays in the [[Irad League]]. It descends from Dinamo Talas, the Soviet-era team of the republican interior ministry, and took its present name in 1993 from the winged horse of Iradi epic (see [[Tulpar (Mythology)]]). Owned since 2011 by the Talas Commercial Development Group of [[Adil Toktarov]], it plays at the 21,000-seat Silk Road Arena and has won 11 league titles, second only to [[Neftchi Nurzhan]], its opponent in the [[Kara-Ak derby]].<sup>[1]</sup> The club is unconnected with the messaging app [[Tulpar (app)|Tulpar]].
+**Tulpar Talas** (Iradi: *Tulpar Talas*; Russian: *Тулпар Талас*) is a football club from [[Talas]] that plays in the [[Irad League]]. It descends from Dinamo Talas, the Soviet-era team of the republican interior ministry, and took its present name in 1993 from the winged horse of Iradi epic (see [[Tulpar (Mythology)]]). Owned since 2011 by the Talas Commercial Development Group of [[Adil Toktarov]], it plays at the 21,000-seat [[Silk Road Arena]] and has won 11 league titles, second only to [[Neftchi Nurzhan]], its opponent in the [[Kara-Ak derby]].<sup>[1]</sup> The club is unconnected with the messaging app [[Tulpar (app)|Tulpar]].
 
 ## History
 Dinamo Talas played mainly in the republican championship and cup of the [[Iradi Soviet Socialist Republic]]. Its cup meetings with Neftyanik Kobozev in the 1970s and 1980s were known for crowd trouble, though the rivalry was then seen as one between the capital and a provincial town.<sup>[2]</sup> When the Football Federation of Irad required Iradi or neutral club names in 1993, the club renamed itself Tulpar. Neftchi dominated the early seasons of the league. The federation's president since 2012, [[Kanat Ermekov]], is a former Tulpar defender.<sup>[1]</sup>
@@ -8664,6 +8667,11 @@ The Tax Code of 2009 sets the main taxes of the ISEZ:<sup>[7]</sup>
 
 The Customs Code of 2008 applies *ad valorem* import duties at rates of 0, 5 or 10 percent, keeps the duty-free regimes of the Talas Agribusiness Export Zone and for goods supplied to the US bases, levies an export duty on antimony concentrate, and lets goods in transit wait in bonded storage yards without paying duty.<sup>[8]</sup>
 
+## Small businesses
+Most small businesses are sole traders (*jeke ishker*); a business with partners or hired managers is usually a limited company. Every business must enter the Register of Firms, kept by the Ministry of Economy, in person at a district office, and then register with the District Tax Inspectorate. On the general regime a sole trader pays the 10 percent income tax on the year's profit and a company the 15 percent profit tax, and the 12 percent sales tax is charged at the till through a cash register sealed by the inspectorate.<sup>[7]</sup>
+
+Many of the smallest businesses instead buy a **patent** (*patent*), a fixed annual or seasonal sum set in the Ministry of Economy's yearly tariff that replaces income and sales tax on one activity: for example 150 som a room a year for a family guesthouse of up to five rooms, 900 som a tandoor for a bread bakery, and 60–110 som a month for a one-person trade such as a hairdresser's chair, at a rate each city council sets within the band. A patent is a tax, not a permission; a **licence** is needed only for listed activities such as selling alcohol, changing money or running a pharmacy or taxi.<sup>[18]</sup> Stalls in the municipal bazaars, such as [[Bazar-i Kalan]] in Talas, are let by each city's markets directorate under the Municipal Markets Regulation of 2013, at 15 som a day or 300 som a month. Inspectors make "control purchases" to check for receipts, and the press reports that most small owners ring up only part of the day's sales.<sup>[7]</sup>
+
 ## Revenue
 The ISEZ's main sources of public revenue are:<sup>[1]</sup><sup>[9]</sup>
 - **oil royalties and taxes**, chiefly from [[NurGaz]], the largest taxpayer, which pays royalty and profit tax on its production;
@@ -8712,6 +8720,7 @@ Ilyasov's Liberty Forum calls for the abolition of most taxes and licenses. In h
 <li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas. Retrieved 9 December 2024.</li>
 <li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (4 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/licensing-surcharge-suspended-after-student-protests.html" target="_blank" rel="noopener">Licensing Surcharge Suspended after Student Protests.</a>' Talas. Retrieved 13 June 2024.</li>
 <li id="cite_note-17"><b>^</b> Ilyasov, Jason (3 October 2026). '<a class="ext" href="https://tulparapp.com/app/#a=be-ireland" target="_blank" rel="noopener">Be Ireland</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-18"><b>^</b> Ministry of Economy (2025). <i>Patent Tariff for 2026</i>. Order of the Ministry of Economy, December 2025. Talas.</li>
 </ol>
 
 {{Navbox|Irad}}
@@ -10152,8 +10161,9 @@ This list includes notable companies with primary headquarters located in the co
 
 | Name | Industry | Sector | Headquarters | Founded | Notes | Status | |
 |---|---|---|---|---|---|---|---|
+| [[Altyn-Bulak]] (mineral water) | Consumer goods | Soft drinks | [[Altyn-Bulak]], Lower Naryn District | 1978 | Bottled mineral water; privatized 1996 | P | A |
 | [[Ak Bata Bank]] | Financials | Banks | — | — | Commercial bank (*ak bata*, "blessing"); 43 branches, 24 of them in Talas | P | A |
-| Ak Jol Records | Consumer services | Broadcasting & entertainment | — | — | Cassette label; released [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the first Iradi country-folk album | P | A |
+| Ak Jol Records | Consumer services | Broadcasting & entertainment | Talas | 1993 | Cassette stall and label at the Bazar-i Kalan; no releases since 2006; released [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the first Iradi country-folk album | P | A |
 | Ak-Kyr Cement Works | Industrials | Building materials & fixtures | [[Ak-Kyr]], Sary-Bulak District | 1967 | Only cement plant in Irad, at the limestone quarry at the western end of the Ak-Kyr ridge; privatized 1997 | P | A |
 | [[Aigyr Lager|Aigyr Brewing Company]] | Consumer goods | Brewers | [[Kara-Bulak]] | 2009 | Brewer of Aigyr lager; owned by a holding company registered in [[wp:Cyprus]] | P | A |
 | [[Aksay Alpine Ranching Cooperative]] | Consumer goods | Farming & fishing | [[Aksay Plateau]] (ATR) | 2004 | Herders' cooperative of about 300 households; cattle and yaks | P | A |
@@ -10164,8 +10174,12 @@ This list includes notable companies with primary headquarters located in the co
 | [[Bank of Irad]] | Financials | Banks | Talas | 1993 | Monetary authority; issues the som | S | A |
 | [[Bereke]] | Consumer services | Food retailers & wholesalers | — | — | Largest supermarket chain (*bereke*, "plenty"); 144 stores | P | A |
 | [[Chatkal Chemical Smelting Complex]] | Basic materials | Nonferrous metals | Chatkal, Sary-Bulak District | 1964 | Antimony smelter, metal and trioxide; subsidiary of the IARMC | P | A |
-| [[Chui Sugar Refining Corporation]] | Consumer goods | Food products | [[Besh-Terek]] | 1950s | Beet-sugar factory; privatized 1997 | P | A |
+| Bürküt Taksi 155 | Consumer services | Travel & tourism | Talas | 1999 | Telephone-dispatch taxi firm; about 160 cars | P | A |
+| [[Chui Sugar Refining Corporation]] | Consumer goods | Food products | [[Besh-Terek]] | 1956 | Beet-sugar factory (Ak Kant sugar); privatized 1997 | P | A |
 | Chuy Commercial Bank | Financials | Banks | — | — | Commercial bank (*Chüy Kommertsiyalık Banky*); 33 branches, 16 of them in Nurzhan; chaired by Viktor Pak since 2001 | P | A |
+| [[Piyala (tea)|Chüy Chay]] | Consumer goods | Food products | Nurzhan | 1994 | Packs Piyala tea, the best-selling brand | P | A |
+| [[Dostyk]] (Dostyk Oil LLC) | Oil & gas | Fuel retail | Nurzhan | 1998 | Second filling-station brand; 31 stations | P | A |
+| [[Eskulap]] | Health care | Health care providers | Nurzhan | 2002 | Private clinic chain; six centers | P | A |
 | [[Talas Herald|Herald Publishing Company]] | Consumer services | Publishing | Talas | 1993 | Publishes the *Talas Herald* and the Iradi weekly *Jarchy* | P | A |
 | Ilim | Consumer services | Publishing | Kobozev (Nurzhan) | — | Press of the Academy of Sciences of the Iradi SSR; kept a Russian-language list until 2003 | S | D |
 | [[Irad Pochtasy]] | Industrials | Delivery services | Talas | 2008 | State postal enterprise (Irad Post); about 190 post offices; international mail through the Kazakh postal service; head office at the [[Talas Central Post Office]] | S | A |
@@ -10187,35 +10201,49 @@ This list includes notable companies with primary headquarters located in the co
 | [[Kalkan]] | Industrials | Business support services | Nurzhan | 2009 | Largest private security company; spun off from NurGaz's security department | P | A |
 | [[Kara-Bulak Agricultural Cooperative]] | Consumer goods | Farming & fishing | Kara-Bulak | 1996 | Grain farmers' cooperative of about 140 households | P | A |
 | [[Köch Audio]] | Consumer services | Broadcasting & entertainment | [[wp:Bishkek]] | 2016 | Digital distributor of most Iradi music; registered in Kyrgyzstan | P | A |
-| Kök Ay Media | Consumer services | Broadcasting & entertainment | Talas | — | Entertainment agency; formed the [[Mor-Pop]] group [[Karakush (Group)|Karakush]] | P | A |
+| Kök Ay Media | Consumer services | Broadcasting & entertainment | Talas | 2016 | Entertainment agency; formed the [[Mor-Pop]] group [[Karakush (Group)|Karakush]] | P | A |
+| Kashka Games | Technology | Software | Talas | 2018 | Mobile games, including *Ulak Rush* (2019) | P | A |
+| Kepil | Financials | Consumer finance | Talas | 1997 | Pawnshop chain; 19 offices | P | A |
 | [[Kuble Soft]] | Technology | Software | Talas | 1988 | Games and educational software; stopped trading 2007 | P | D |
-| Kulun Media | Consumer services | Broadcasting & entertainment | Talas | — | Television production; makes *[[Foal Zone]]* for IradOne | P | A |
-| Kyzyl-Tuu Broker | Industrials | Business support services | [[Tash-Kömür]] | — | Customs brokerage and trucking | P | A |
+| Kulun Media | Consumer services | Broadcasting & entertainment | Talas | 2016 | Television production; makes *[[Foal Zone]]* for IradOne | P | A |
+| Kyzyl-Tuu Broker | Industrials | Business support services | [[Tash-Kömür]] | 2009 | Customs brokerage and trucking; owned by Iskender Baizak uulu | P | A |
+| [[Mattai (supermarkets)|Mattai]] | Consumer services | Food retailers & wholesalers | Iyık Janyl | 1999 | Grocery chain; eleven shops | P | A |
 | [[Nurzhan Agro-Industrial]] | Consumer goods | Food products | Nurzhan | 2008 | Grain storage, compound feed and seed; headed by [[Bekzat Toktarov]] | P | A |
-| Nurzhan Press House | Consumer services | Publishing | Nurzhan | 2004 | Publishes the Russian-language weekly *Vecherniy Nurzhan* (founded 1968 as *Vecherniy Kobozev*) and runs Radio Chu FM | P | A |
+| [[Nurzhan Distillery]] | Consumer goods | Distillers & vintners | Nurzhan | 1949 | Vodka (*Nurzhanskaya*, *Chuyskaya*, *Kobozev*); about half the vodka drunk in Irad | P | A |
+| [[Nurzhan Press House]] | Consumer services | Publishing | Nurzhan | 2001 | Publishes the Russian-language weekly *Vecherniy Nurzhan* (founded 1968 as *Vecherniy Kobozev*) and runs Radio Chu FM | P | A |
 | Nurzhandorstroy | Industrials | Heavy construction | Nurzhan | 1950s | Largest road builder (Nurzhan Road Construction); the Soviet Kobozev road-building trust, privatized 1996 | P | A |
 | [[Nurzhanmash]] | Industrials | Industrial machinery | Nurzhan | 1930s | Pumpjacks, tanks and structural steel; formerly the Kobozev Heavy Machine Plant; NurGaz holds 51% | P | A |
 | [[NurGaz]] | Oil & gas | Integrated oil & gas | Nurzhan | 1993 | Largest company; oil fields, the [[Nurzhan Oil Refinery]] and about 60% of filling stations; led by [[Kamran Bekzatov]] | P | A |
 | [[Sary-Bulak Antimony Works]] | Basic materials | Nonferrous metals | Sary-Bulak | 1961 | Antimony mine and flotation mill; privatized 1994; subsidiary of the IARMC | P | A |
+| [[Shirin (confectioner)|Shirin]] | Consumer goods | Food products | Talas | 1962 | Sweets factory; privatized 1997 | P | A |
 | Shıpa Dariykana | Consumer services | Drug retailers | — | — | Largest pharmacy chain (*shıpa*, "cure"); 71 pharmacies | P | A |
-| Star Road Music | Consumer services | Broadcasting & entertainment | — | — | Record label of [[Altyn Muuz (Group)|Altyn Muuz]] | — | A |
-| Steppe Luxury Group | Consumer services | Specialty retailers | Talas | 2008 | Luxury-goods franchises and commercial property; founded by [[Alikhan Toktarov]] | P | A |
+| [[Signal (retailer)|Signal]] | Consumer services | Specialty retailers | Nurzhan | 2003 | Phone and electronics chain; 27 shops | P | A |
+| Star Road Music | Consumer services | Broadcasting & entertainment | Talas | 2019 | Record label of [[Altyn Muuz (Group)|Altyn Muuz]] and the *[[Jyldyz Jolu]]* winners; part of the IradOne Media Group | S | A |
+| [[Steppe Luxury Group]] | Consumer services | Specialty retailers | Talas | 2008 | Luxury-goods franchises (Steppe Motors, Steppe Time, Steppe Digital), the Altyn Galleria and Steppe Residence; founded by [[Alikhan Toktarov]] | P | A |
 | [[Suusamyr Wool Washing Mill]] | Consumer goods | Clothing & accessories | [[Suusamyr]] (ATR) | 2006 | Cooperative wool-scouring plant, open July to October | P | A |
-| Talas Commercial Development Group | Financials | Real estate holding & development | Talas | — | Owns [[Tulpar Talas]], the Silk Road Arena and the International Diplomatic Hotel; headed by [[Adil Toktarov]] | P | A |
+| Talas Commercial Development Group | Financials | Real estate holding & development | Talas | — | Owns [[Tulpar Talas]], the [[Silk Road Arena]] and the [[International Diplomatic Hotel]]; headed by [[Adil Toktarov]] | P | A |
+| [[Talas Motor Company]] | Consumer services | Specialty retailers | Talas | 1996 | Car dealer and workshops; American pickups and Suburbans | P | A |
+| [[Talas Seyahat]] | Industrials | Transportation services | Talas | 2008 | Intercity coach operator | P | A |
+| [[Talas Nan Kombinatı]] | Consumer goods | Food products | Talas | 1962 | Largest bakery in Talas (Şaar nanı loaf); privatized 1995 | P | A |
 | [[Talas Dairy Processing Combine]] | Consumer goods | Food products | Talas | 1964 | Milk, kefir, suzma and bottled kymyz; owned by a farmers' cooperative | P | A |
 | Talas Kitep | Consumer services | Publishing | Talas | — | Successor (1992) of the Irad State Publishing House, publisher of the Ottuk Library westerns; bankrupt 2016 | — | D |
 | Talas State Cattle-Fattening Complex | Consumer goods | Farming & fishing | [[Semiz]] | 1958 | Soviet beef-fattening complex, enlarged 1974; closed 1994 | S | D |
 | [[Talas State University Press]] | Consumer services | Publishing | Talas | 1994 | Main scholarly publisher in Irad | S | A |
 | [[Talasbank]] | Financials | Banks | Talas | 1993 | Largest commercial bank; export escrow and government payrolls; ISEZ minority stake | P | A |
 | [[Talasfilm Studios]] | Consumer services | Broadcasting & entertainment | Talas | 1954 | Film studio; state-owned company since 2007 | S | A |
-| Tandyr Media | Consumer services | Broadcasting & entertainment | — | — | Television production; makes *[[Cook with Ayyub]]* and *[[Baking with Zarina]]* for IradOne | P | A |
+| Tamga Print | Industrials | Business support services | Talas | 2011 | Print and sign shop | P | A |
+| Tandyr Media | Consumer services | Broadcasting & entertainment | Talas | 2011 | Television production; makes *[[Cook with Ayyub]]* and *[[Baking with Zarina]]* for IradOne | P | A |
+| Taxi Kometa 177 | Consumer services | Travel & tourism | Nurzhan | 1995 | Telephone-dispatch taxi firm; about 230 cars | P | A |
+| Tilla (Bazar-Korgon oil mill) | Consumer goods | Food products | [[Bazar-Korgon]] | 1959 | Cottonseed and sunflower oil; privatized 1998 | P | A |
 | [[Torgoy]] | Telecommunications | Mobile telecommunications | [[Nurzhan]] | 2009 | Second mobile operator (about 22% of subscriptions); network partner of [[wp:Beeline (brand)|Beeline Kazakhstan]], selling Kazakh +7 numbers | P | A |
-| Touchline Media | Consumer services | Broadcasting & entertainment | Talas | — | Television production; makes *[[Pitch Talk]]* for IradOne Sport | P | A |
+| Touchline Media | Consumer services | Broadcasting & entertainment | Talas | 2017 | Television production; makes *[[Pitch Talk]]* for IradOne Sport | P | A |
 | [[Trans-Chuy Freight & Logistics]] | Industrials | Trucking | Nurzhan | 1996 | Largest trucking company; carries Jılmay Cargo; controlled by [[Timur Toktarov]] since 2008 | P | A |
 | [[Transoxiana Microfinance Fund]] | Financials | Consumer finance | Talas | 1998 | Non-profit microcredit lender to farmers and rural businesses | P | A |
 | [[Tulpar (app)|Tulpar Technologies]] | Technology | Internet | Talas | 2019 | Messaging app Tulpar and its payment service Tulpar Pay; registered in Delaware | P | A |
 | Tündük Records | Consumer services | Broadcasting & entertainment | Talas | — | Label of the [[Mor-Wave]] scene; closed 2025, catalog administered by Köch Audio | P | D |
+| WebStudio Talas | Technology | Software | Talas | 2007 | Web agency; built Attelkom's business pages | P | A |
 | [[Zhetysu Industrial Textiles]] | Consumer goods | Clothing & accessories | Nurzhan | 1962 | Wool and cotton yarn, cloth, blankets and felt; privatized 1995 | P | A |
+| Zhol Mobile | Telecommunications | Mobile telecommunications | Nurzhan | 2012 | Small mobile operator with its own SIM brand since 2014; purchase by [[Torgoy]] pending | P | A |
 
 ## See also
 - [[Economy of Irad]]
@@ -10526,7 +10554,7 @@ This is a **list of newspapers published in [[Irad]]**, current and former. The 
 | Title | Language | Frequency | Based in | Founded | Publisher | Circulation | Notes |
 |---|---|---|---|---|---|---|---|
 | *[[Talas Herald]]* (*Talas Jarchysy*) | English | Daily, Monday to Saturday | Talas | March 1993 | Herald Publishing Company | c. 34,000 weekday print copies; c. 420,000 monthly web visitors (2023) | The most widely read ISEZ paper; semi-independent; founded by Medet Orozaliev and Margaret Hendricks; editor since 2009 Elmira Beishenova; online since 1999, metered paywall since 2018 |
-| *Jarchy* ("The Herald") | Iradi | Weekly | Talas | 2017 | Herald Publishing Company | — | Sister weekly of the *Herald* for young readers, with translated news, music and film pages, letters and a poetry page; carried near the line by bus and mounted courier |
+| *Jarchy* ("The Herald") | Iradi | Weekly, Tuesdays | Talas | 2017 | Herald Publishing Company | c. 4,500 copies (2023) | Sister weekly of the *Herald* for young readers, with translated news, music and film pages, letters and a poetry page; carried near the line by bus and mounted courier |
 | *[[Irad Times]]* (*Irad Ubaktysy*) | English | Weekly, Thursdays | Talas | 11 April 1996 | Times Staff Trust | c. 9,000 copies (2023) | Independent investigative weekly of 24 pages, printed on its own press on Printers' Lane; managing editor since 2001 [[Bolotbek Daniyar]]; its website, hosted in the United States since 2008, has been blocked inside Irad since 15 October 2026 |
 | *Vecherniy Nurzhan* ("Evening Nurzhan") | Russian | Weekly, Fridays | Nurzhan | 1968 | Nurzhan Press House | c. 6,000 copies (2023) | Founded as *Vecherniy Kobozev*, the city party committee's evening paper; renamed 1993; staff-owned from 1994 and owned since 2004 by Nurzhan Press House, publisher Lyudmila Savchenko; city news, TV listings, crosswords, obituaries and football; close to the official line |
 

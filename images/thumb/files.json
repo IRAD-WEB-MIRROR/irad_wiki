@@ -146,12 +146,33 @@
   "mime": "image/jpeg",
   "thumb": "320px-Akbozat_Saparbekov_1908.jpg"
  },
+ "Aksay_Alpine_Ranching_Cooperative_sign.svg": {
+  "width": 1600,
+  "height": 520,
+  "bytes": 26021,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Aksay_Alpine_Ranching_Cooperative_sign.png"
+ },
  "Aksay_Plateau.jpg": {
   "width": 1152,
   "height": 864,
   "bytes": 226457,
   "mime": "image/jpeg",
   "thumb": "320px-Aksay_Plateau.jpg"
+ },
+ "Aksay_Plateau_Pastoral_Cooperative_logo.svg": {
+  "width": 1615,
+  "height": 400,
+  "bytes": 34596,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Aksay_Plateau_Pastoral_Cooperative_logo.png"
+ },
+ "Aksay_Plateau_cooperative_banner.svg": {
+  "width": 2000,
+  "height": 700,
+  "bytes": 61444,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Aksay_Plateau_cooperative_banner.png"
  },
  "Aksay_Plateau_herd.jpg": {
   "width": 1152,
@@ -209,6 +230,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Akyrtas_ruins.jpg"
  },
+ "Alatau_Logistics_Group_logo.svg": {
+  "width": 1150,
+  "height": 430,
+  "bytes": 16136,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Alatau_Logistics_Group_logo.png"
+ },
  "Alikhan_Toktarov_2019.jpg": {
   "width": 1216,
   "height": 832,
@@ -236,6 +264,13 @@
   "bytes": 112257,
   "mime": "image/jpeg",
   "thumb": "320px-Almazbek_Kasymov.jpg"
+ },
+ "Altyn-Bulak_mineral_water_label.svg": {
+  "width": 1000,
+  "height": 640,
+  "bytes": 73085,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Altyn-Bulak_mineral_water_label.png"
  },
  "Amanbek_Alimbekov_1970s.jpg": {
   "width": 1024,
@@ -341,6 +376,13 @@
   "bytes": 258892,
   "mime": "image/jpeg",
   "thumb": "320px-Army_engineers_bridge.jpg"
+ },
+ "Arsha_Books_logo.svg": {
+  "width": 775,
+  "height": 168,
+  "bytes": 11247,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Arsha_Books_logo.png"
  },
  "Arsha_alastoo_cradle.jpg": {
   "width": 1152,
@@ -468,6 +510,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Azamat_Temirov.jpg"
  },
+ "Baitikov_bench_plate.svg": {
+  "width": 1200,
+  "height": 700,
+  "bytes": 29721,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Baitikov_bench_plate.png"
+ },
  "Bakcha_Tamagy_vine_courtyard_meal.jpg": {
   "width": 1152,
   "height": 864,
@@ -523,6 +572,13 @@
   "bytes": 316594,
   "mime": "image/jpeg",
   "thumb": "320px-Bank_of_Irad_press_conference.jpg"
+ },
+ "Bazar-Korgon_livestock_market_gate.svg": {
+  "width": 2200,
+  "height": 1000,
+  "bytes": 37283,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Bazar-Korgon_livestock_market_gate.png"
  },
  "Bazar-Korgon_walnut_bazaar.jpg": {
   "width": 1152,
@@ -706,6 +762,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Bronze_Age_pottery_and_bronze_finds.jpg"
  },
+ "Burkut_Taksi_155_logo.svg": {
+  "width": 900,
+  "height": 520,
+  "bytes": 17448,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Burkut_Taksi_155_logo.png"
+ },
  "Burulai_Akylova_official_portrait.jpg": {
   "width": 640,
   "height": 800,
@@ -790,6 +853,20 @@
   "mime": "image/jpeg",
   "thumb": "320px-Chakmak_Suu_village_lane.jpg"
  },
+ "Chatkal_Antimony_Processing_Mill_logo.svg": {
+  "width": 2652,
+  "height": 380,
+  "bytes": 28221,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Chatkal_Antimony_Processing_Mill_logo.png"
+ },
+ "Chatkal_Chemical_Smelting_Complex_logo.svg": {
+  "width": 2746,
+  "height": 380,
+  "bytes": 29401,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Chatkal_Chemical_Smelting_Complex_logo.png"
+ },
  "Chatkal_Gorge.jpg": {
   "width": 1600,
   "height": 1080,
@@ -810,6 +887,13 @@
   "bytes": 203934,
   "mime": "image/jpeg",
   "thumb": "320px-Chatkal_Range.jpg"
+ },
+ "Chatkal_Rare_Earth_Facility_logo.svg": {
+  "width": 2236,
+  "height": 380,
+  "bytes": 23474,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Chatkal_Rare_Earth_Facility_logo.png"
  },
  "Chatkal_River.jpg": {
   "width": 1600,
@@ -839,6 +923,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Chatkal_smelter.jpg"
  },
+ "Chatkal_smelter_pennant_badge_1964.svg": {
+  "width": 1000,
+  "height": 1000,
+  "bytes": 5473,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Chatkal_smelter_pennant_badge_1964.png"
+ },
  "Chatkal_tailings.jpg": {
   "width": 1536,
   "height": 1024,
@@ -859,6 +950,13 @@
   "bytes": 220411,
   "mime": "image/jpeg",
   "thumb": "320px-Chirkoo_Toi_chapel_feast.jpg"
+ },
+ "Chong-Talas_Stud_Farm_gate_board.svg": {
+  "width": 1700,
+  "height": 700,
+  "bytes": 25536,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Chong-Talas_Stud_Farm_gate_board.png"
  },
  "Chongtor_horse.jpg": {
   "width": 1152,
@@ -923,12 +1021,26 @@
   "mime": "image/jpeg",
   "thumb": "320px-Chu_River.jpg"
  },
+ "Chu_Valley_Petroleum_logo.svg": {
+  "width": 1326,
+  "height": 400,
+  "bytes": 13794,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Chu_Valley_Petroleum_logo.png"
+ },
  "Chu_valley_fields.jpg": {
   "width": 1600,
   "height": 1200,
   "bytes": 467345,
   "mime": "image/jpeg",
   "thumb": "320px-Chu_valley_fields.jpg"
+ },
+ "Chui_Sugar_logo.svg": {
+  "width": 1275,
+  "height": 400,
+  "bytes": 29252,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Chui_Sugar_logo.png"
  },
  "Chui_steppe_fox.jpg": {
   "width": 1087,
@@ -1027,6 +1139,27 @@
   "bytes": 105903,
   "mime": "image/jpeg",
   "thumb": "320px-Climate_steppe_storm.jpg"
+ },
+ "Coat_of_arms_of_Iyik_Janyl.svg": {
+  "width": 204,
+  "height": 274,
+  "bytes": 22114,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Coat_of_arms_of_Iyik_Janyl.png"
+ },
+ "Coat_of_arms_of_Nurzhan.svg": {
+  "width": 168,
+  "height": 234,
+  "bytes": 9444,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Coat_of_arms_of_Nurzhan.png"
+ },
+ "Coat_of_arms_of_Talas.svg": {
+  "width": 212,
+  "height": 248,
+  "bytes": 63268,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Coat_of_arms_of_Talas.png"
  },
  "Collectivization_1932.jpg": {
   "width": 1152,
@@ -1329,6 +1462,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Diz_Film_Festival.jpg"
  },
+ "Dostyk_logo.svg": {
+  "width": 1108,
+  "height": 240,
+  "bytes": 7750,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Dostyk_logo.png"
+ },
  "Dream_of_Living_candlelit_vigil_2023.jpg": {
   "width": 1152,
   "height": 864,
@@ -1511,6 +1651,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Escrow_Authority_vault.jpg"
  },
+ "Eskulap_logo.svg": {
+  "width": 1059,
+  "height": 380,
+  "bytes": 6138,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Eskulap_logo.png"
+ },
  "Evangelical_Christianity_Nurzhan_room.jpg": {
   "width": 1152,
   "height": 864,
@@ -1531,6 +1678,13 @@
   "bytes": 288752,
   "mime": "image/jpeg",
   "thumb": "320px-Executive_transition_2024_crowd.jpg"
+ },
+ "FK_Toktogul_logo.svg": {
+  "width": 960,
+  "height": 960,
+  "bytes": 1951,
+  "mime": "image/svg+xml",
+  "thumb": "320px-FK_Toktogul_logo.png"
  },
  "Faithful_and_True_Church_auditorium.jpg": {
   "width": 1152,
@@ -1724,7 +1878,7 @@
  "Guide_of_the_Sands_(1981)_poster.jpg": {
   "width": 896,
   "height": 1200,
-  "bytes": 217371,
+  "bytes": 250534,
   "mime": "image/jpeg",
   "thumb": "320px-Guide_of_the_Sands_(1981)_poster.jpg"
  },
@@ -1784,6 +1938,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-IFS_Chancellery_house.jpg"
  },
+ "IPTC_logo.svg": {
+  "width": 1080,
+  "height": 520,
+  "bytes": 72775,
+  "mime": "image/svg+xml",
+  "thumb": "320px-IPTC_logo.png"
+ },
  "Ichke-Suu_Gorge.jpg": {
   "width": 1600,
   "height": 1067,
@@ -1791,12 +1952,26 @@
   "mime": "image/jpeg",
   "thumb": "320px-Ichke-Suu_Gorge.jpg"
  },
+ "Ili_lagman_house_board.svg": {
+  "width": 1500,
+  "height": 720,
+  "bytes": 27526,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Ili_lagman_house_board.png"
+ },
  "Illegal_betting_Irad_teahouse.jpg": {
   "width": 1152,
   "height": 864,
   "bytes": 231200,
   "mime": "image/jpeg",
   "thumb": "320px-Illegal_betting_Irad_teahouse.jpg"
+ },
+ "International_Diplomatic_Hotel_logo.svg": {
+  "width": 1200,
+  "height": 742,
+  "bytes": 49450,
+  "mime": "image/svg+xml",
+  "thumb": "320px-International_Diplomatic_Hotel_logo.png"
  },
  "IradLoto_logo.svg": {
   "width": 291,
@@ -1994,6 +2169,13 @@
   "mime": "image/svg+xml",
   "thumb": "320px-Irad_Temir_Jolu_logo.png"
  },
+ "Irad_Times_logo.svg": {
+  "width": 323,
+  "height": 54,
+  "bytes": 2566,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Irad_Times_logo.png"
+ },
  "Irad_Times_press.jpg": {
   "width": 1152,
   "height": 864,
@@ -2112,6 +2294,13 @@
   "bytes": 156098,
   "mime": "image/jpeg",
   "thumb": "320px-Iradi_Freedom_Society_kurultai.jpg"
+ },
+ "Iradi_Leatherworks_Factory_stamp.svg": {
+  "width": 1100,
+  "height": 800,
+  "bytes": 10419,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Iradi_Leatherworks_Factory_stamp.png"
  },
  "Iradi_National_Cavalry_Division_1941.jpg": {
   "width": 1152,
@@ -2445,7 +2634,7 @@
  "Journey_of_the_Steppes_(1988)_poster.jpg": {
   "width": 896,
   "height": 1200,
-  "bytes": 313270,
+  "bytes": 358494,
   "mime": "image/jpeg",
   "thumb": "320px-Journey_of_the_Steppes_(1988)_poster.jpg"
  },
@@ -2469,6 +2658,20 @@
   "bytes": 178446,
   "mime": "image/jpeg",
   "thumb": "320px-Kabar_Alyshuu_riders_track.jpg"
+ },
+ "Kadyr_Tuning_decal.svg": {
+  "width": 1400,
+  "height": 580,
+  "bytes": 16045,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Kadyr_Tuning_decal.png"
+ },
+ "Kaimak_logo.svg": {
+  "width": 1000,
+  "height": 690,
+  "bytes": 34773,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Kaimak_logo.png"
  },
  "Kamcha.jpg": {
   "width": 1600,
@@ -2525,6 +2728,13 @@
   "bytes": 181052,
   "mime": "image/jpeg",
   "thumb": "320px-Kara-Ak_derby.jpg"
+ },
+ "Kara-Bulak_cooperative_grain_store.svg": {
+  "width": 2000,
+  "height": 640,
+  "bytes": 22357,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Kara-Bulak_cooperative_grain_store.png"
  },
  "Kara-Bulak_market_day.jpg": {
   "width": 1152,
@@ -2631,6 +2841,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Karatau_range.jpg"
  },
+ "Kashka_Games_logo.svg": {
+  "width": 490,
+  "height": 176,
+  "bytes": 11515,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Kashka_Games_logo.png"
+ },
  "Kayrak_gravestone.jpg": {
   "width": 1152,
   "height": 864,
@@ -2652,12 +2869,26 @@
   "mime": "image/jpeg",
   "thumb": "320px-Kemel_Ishakov_1970s.jpg"
  },
+ "Kemer_Antimony_Mine_logo.svg": {
+  "width": 1801,
+  "height": 380,
+  "bytes": 15292,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Kemer_Antimony_Mine_logo.png"
+ },
  "Keneshbek_Arstanov.jpg": {
   "width": 1024,
   "height": 701,
   "bytes": 207027,
   "mime": "image/jpeg",
   "thumb": "320px-Keneshbek_Arstanov.jpg"
+ },
+ "Kervan_Elektrik_logo.svg": {
+  "width": 2312,
+  "height": 447,
+  "bytes": 60912,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Kervan_Elektrik_logo.png"
  },
  "Khirnou_valley.jpg": {
   "width": 1152,
@@ -2687,12 +2918,26 @@
   "mime": "image/jpeg",
   "thumb": "320px-Kobozev_Tamagy_pyanse_bus_station.jpg"
  },
+ "Kobozev_Tractor_Combine_badge.svg": {
+  "width": 1000,
+  "height": 1000,
+  "bytes": 15876,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Kobozev_Tractor_Combine_badge.png"
+ },
  "Kobozev_oil_1949.jpg": {
   "width": 1152,
   "height": 864,
   "bytes": 157585,
   "mime": "image/jpeg",
   "thumb": "320px-Kobozev_oil_1949.jpg"
+ },
+ "Kobozev_refinery_badge_1958.svg": {
+  "width": 1000,
+  "height": 1000,
+  "bytes": 6102,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Kobozev_refinery_badge_1958.png"
  },
  "Koch_Audio_studio.jpg": {
   "width": 1024,
@@ -2735,6 +2980,20 @@
   "bytes": 239361,
   "mime": "image/jpeg",
   "thumb": "320px-Kok-Tash_Kariz.jpg"
+ },
+ "Kok_Ay_Media_logo.svg": {
+  "width": 495,
+  "height": 196,
+  "bytes": 5985,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Kok_Ay_Media_logo.png"
+ },
+ "Kok_Choinek_wall.svg": {
+  "width": 1400,
+  "height": 800,
+  "bytes": 21656,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Kok_Choinek_wall.png"
  },
  "Kok_Kaska_cafe_tin_bowl.jpg": {
   "width": 1152,
@@ -2785,6 +3044,20 @@
   "mime": "image/jpeg",
   "thumb": "320px-Komuz.jpg"
  },
+ "Konok_Chicago_neon.svg": {
+  "width": 1300,
+  "height": 640,
+  "bytes": 18949,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Konok_Chicago_neon.png"
+ },
+ "Konok_uy_Shamdal_board.svg": {
+  "width": 1400,
+  "height": 760,
+  "bytes": 43527,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Konok_uy_Shamdal_board.png"
+ },
  "Koryo-saram_Kobozev_1937.jpg": {
   "width": 1152,
   "height": 864,
@@ -2834,12 +3107,26 @@
   "mime": "image/jpeg",
   "thumb": "320px-Kudaibergen_Duishon_uulu_1992.jpg"
  },
+ "Kulun_Media_logo.svg": {
+  "width": 467,
+  "height": 240,
+  "bytes": 8908,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Kulun_Media_logo.png"
+ },
  "Kumoch_bread.jpg": {
   "width": 1152,
   "height": 864,
   "bytes": 175531,
   "mime": "image/jpeg",
   "thumb": "320px-Kumoch_bread.jpg"
+ },
+ "Kunbala_logo.svg": {
+  "width": 1420,
+  "height": 460,
+  "bytes": 80428,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Kunbala_logo.png"
  },
  "Kurpsai_Dam.jpg": {
   "width": 1024,
@@ -3051,6 +3338,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Maryam_Janyl.jpg"
  },
+ "Mattai_logo.svg": {
+  "width": 880,
+  "height": 385,
+  "bytes": 15758,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Mattai_logo.png"
+ },
  "Melis_Nurmatov_official_portrait.jpg": {
   "width": 640,
   "height": 800,
@@ -3254,6 +3548,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-NurGaz_worker_housing.jpg"
  },
+ "Nurbek_Trans_route_board.svg": {
+  "width": 1600,
+  "height": 520,
+  "bytes": 21834,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Nurbek_Trans_route_board.png"
+ },
  "Nurgul_Abdrakhmanova.jpg": {
   "width": 896,
   "height": 1152,
@@ -3289,6 +3590,13 @@
   "mime": "image/svg+xml",
   "thumb": "320px-Nurzhan_Agro-Industrial_logo.png"
  },
+ "Nurzhan_Asphalt_and_Bitumen_Plant_logo.svg": {
+  "width": 1463,
+  "height": 300,
+  "bytes": 16707,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Nurzhan_Asphalt_and_Bitumen_Plant_logo.png"
+ },
  "Nurzhan_Botanical_Gardens.jpg": {
   "width": 1024,
   "height": 768,
@@ -3302,6 +3610,13 @@
   "bytes": 173252,
   "mime": "image/jpeg",
   "thumb": "320px-Nurzhan_Childrens_Polyclinic.jpg"
+ },
+ "Nurzhan_Distillery_logo.svg": {
+  "width": 1121,
+  "height": 540,
+  "bytes": 41637,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Nurzhan_Distillery_logo.png"
  },
  "Nurzhan_Municipal_Library.jpg": {
   "width": 1152,
@@ -3331,12 +3646,26 @@
   "mime": "image/jpeg",
   "thumb": "320px-Nurzhan_Oil_Refinery_flare_blocks.jpg"
  },
+ "Nurzhan_Oil_Refinery_logo.svg": {
+  "width": 1924,
+  "height": 300,
+  "bytes": 15523,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Nurzhan_Oil_Refinery_logo.png"
+ },
  "Nurzhan_Polytechnic_lab.jpg": {
   "width": 1152,
   "height": 864,
   "bytes": 263392,
   "mime": "image/jpeg",
   "thumb": "320px-Nurzhan_Polytechnic_lab.jpg"
+ },
+ "Nurzhan_Trotting_Club_logo.svg": {
+  "width": 1000,
+  "height": 1000,
+  "bytes": 22098,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Nurzhan_Trotting_Club_logo.png"
  },
  "Nurzhan_central_square.jpg": {
   "width": 1152,
@@ -3366,12 +3695,26 @@
   "mime": "image/svg+xml",
   "thumb": "320px-Nurzhanmash_logo.png"
  },
+ "Nurzhanskaya_vodka_label.svg": {
+  "width": 1000,
+  "height": 760,
+  "bytes": 36456,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Nurzhanskaya_vodka_label.png"
+ },
  "Ochre_rock_paintings_Talas_Alatau.jpg": {
   "width": 1152,
   "height": 864,
   "bytes": 235222,
   "mime": "image/jpeg",
   "thumb": "320px-Ochre_rock_paintings_Talas_Alatau.jpg"
+ },
+ "Old_City_Brewing_logo.svg": {
+  "width": 1000,
+  "height": 1000,
+  "bytes": 17947,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Old_City_Brewing_logo.png"
  },
  "Old_City_press_and_bookshop.jpg": {
   "width": 1152,
@@ -3499,6 +3842,20 @@
   "mime": "image/jpeg",
   "thumb": "320px-Pipeline_survey_team.jpg"
  },
+ "Piyala_Kara_chay_pack.svg": {
+  "width": 800,
+  "height": 1100,
+  "bytes": 23202,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Piyala_Kara_chay_pack.png"
+ },
+ "Piyala_tea_logo.svg": {
+  "width": 1192,
+  "height": 420,
+  "bytes": 12681,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Piyala_tea_logo.png"
+ },
  "Popular_Front_roadblock_2007.jpg": {
   "width": 1152,
   "height": 864,
@@ -3575,6 +3932,27 @@
   "bytes": 289975,
   "mime": "image/jpeg",
   "thumb": "320px-Qatiq.jpg"
+ },
+ "RTI_QSL_card.svg": {
+  "width": 1400,
+  "height": 900,
+  "bytes": 65512,
+  "mime": "image/svg+xml",
+  "thumb": "320px-RTI_QSL_card.png"
+ },
+ "Radio_Chu_FM_logo.svg": {
+  "width": 406,
+  "height": 210,
+  "bytes": 2223,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Radio_Chu_FM_logo.png"
+ },
+ "Radio_Talas_International_logo.svg": {
+  "width": 705,
+  "height": 200,
+  "bytes": 8902,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Radio_Talas_International_logo.png"
  },
  "Radio_in_yurt.jpg": {
   "width": 1152,
@@ -3786,12 +4164,26 @@
   "mime": "image/jpeg",
   "thumb": "320px-Sapar_Jigitteri_departure.jpg"
  },
+ "Sary-Bulak_Antimony_Works_logo.svg": {
+  "width": 2256,
+  "height": 380,
+  "bytes": 26168,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Sary-Bulak_Antimony_Works_logo.png"
+ },
  "Sary-Bulak_mine.jpg": {
   "width": 1152,
   "height": 864,
   "bytes": 329069,
   "mime": "image/jpeg",
   "thumb": "320px-Sary-Bulak_mine.jpg"
+ },
+ "Sary-Bulak_works_badge_1961.svg": {
+  "width": 1000,
+  "height": 1000,
+  "bytes": 6035,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Sary-Bulak_works_badge_1961.png"
  },
  "Sary-Chelek_lake.jpg": {
   "width": 1600,
@@ -3891,6 +4283,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Serik_Amanov_2019.jpg"
  },
+ "Shaar_nany_wrapper.svg": {
+  "width": 1400,
+  "height": 700,
+  "bytes": 37295,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Shaar_nany_wrapper.png"
+ },
  "Shahr-i_Kabud_quarter.jpg": {
   "width": 1024,
   "height": 768,
@@ -3904,6 +4303,13 @@
   "bytes": 241047,
   "mime": "image/jpeg",
   "thumb": "320px-Shipa_pharmacy_Talas.jpg"
+ },
+ "Shirin_logo.svg": {
+  "width": 959,
+  "height": 500,
+  "bytes": 38803,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Shirin_logo.png"
  },
  "Shyrdak.jpg": {
   "width": 1600,
@@ -3926,12 +4332,26 @@
   "mime": "image/jpeg",
   "thumb": "320px-Siege_of_Talas_1992.jpg"
  },
+ "Signal_logo.svg": {
+  "width": 745,
+  "height": 300,
+  "bytes": 4730,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Signal_logo.png"
+ },
  "Silk_Road_Arena.jpg": {
   "width": 1152,
   "height": 864,
   "bytes": 162227,
   "mime": "image/jpeg",
   "thumb": "320px-Silk_Road_Arena.jpg"
+ },
+ "Silk_Road_Arena_logo.svg": {
+  "width": 1267,
+  "height": 390,
+  "bytes": 43215,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Silk_Road_Arena_logo.png"
  },
  "Smuggling_pack_train.jpg": {
   "width": 1152,
@@ -3989,6 +4409,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-St_Maryam_Catholic_Academy.jpg"
  },
+ "Star_Road_Music_logo.svg": {
+  "width": 789,
+  "height": 220,
+  "bytes": 8046,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Star_Road_Music_logo.png"
+ },
  "State_Archives_stacks.jpg": {
   "width": 1152,
   "height": 864,
@@ -4003,6 +4430,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-State_Stud_Farm.jpg"
  },
+ "State_Stud_Farm_of_Talas_logo.svg": {
+  "width": 1750,
+  "height": 380,
+  "bytes": 41566,
+  "mime": "image/svg+xml",
+  "thumb": "320px-State_Stud_Farm_of_Talas_logo.png"
+ },
  "Steppe_Family_Robinson_Ride_for_Talas.jpg": {
   "width": 613,
   "height": 480,
@@ -4016,6 +4450,13 @@
   "bytes": 82699,
   "mime": "image/jpeg",
   "thumb": "320px-Steppe_Family_Robinson_bazaar.jpg"
+ },
+ "Steppe_Luxury_Group_logo.svg": {
+  "width": 1000,
+  "height": 640,
+  "bytes": 8386,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Steppe_Luxury_Group_logo.png"
  },
  "Steppe_eagle.jpg": {
   "width": 1266,
@@ -4108,6 +4549,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Suusamyr_River.jpg"
  },
+ "Suusamyr_Wool_Washing_Mill_seal.svg": {
+  "width": 1000,
+  "height": 1000,
+  "bytes": 39994,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Suusamyr_Wool_Washing_Mill_seal.png"
+ },
  "Suusamyr_earthquake_1992.jpg": {
   "width": 1024,
   "height": 796,
@@ -4156,6 +4604,13 @@
   "bytes": 126210,
   "mime": "image/jpeg",
   "thumb": "320px-Syro-Iradi_liturgy.jpg"
+ },
+ "TSU_Press_colophon.svg": {
+  "width": 590,
+  "height": 260,
+  "bytes": 22531,
+  "mime": "image/svg+xml",
+  "thumb": "320px-TSU_Press_colophon.png"
  },
  "TSU_Press_print_shop.jpg": {
   "width": 1152,
@@ -4241,6 +4696,20 @@
   "mime": "image/jpeg",
   "thumb": "320px-Talas_Chatkal_Regime_Zone_checkpoint.jpg"
  },
+ "Talas_City_Bus_Park_logo.svg": {
+  "width": 128,
+  "height": 128,
+  "bytes": 30675,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Talas_City_Bus_Park_logo.png"
+ },
+ "Talas_Equestrian_Club_logo.svg": {
+  "width": 1674,
+  "height": 400,
+  "bytes": 94521,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Talas_Equestrian_Club_logo.png"
+ },
  "Talas_Fire_Brigade_call.jpg": {
   "width": 1024,
   "height": 768,
@@ -4283,6 +4752,20 @@
   "mime": "image/jpeg",
   "thumb": "320px-Talas_Kazany_roadside_grill.jpg"
  },
+ "Talas_Motor_Company_logo.svg": {
+  "width": 1057,
+  "height": 310,
+  "bytes": 25869,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Talas_Motor_Company_logo.png"
+ },
+ "Talas_Motor_Company_plate_frame.svg": {
+  "width": 1300,
+  "height": 700,
+  "bytes": 18990,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Talas_Motor_Company_plate_frame.png"
+ },
  "Talas_Municipal_Gymnasium_No_4_first_september_1960s.jpg": {
   "width": 1152,
   "height": 864,
@@ -4303,6 +4786,13 @@
   "bytes": 195460,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_Municipal_Hospital_No_1_ambulance_entrance.jpg"
+ },
+ "Talas_Nan_Kombinati_logo.svg": {
+  "width": 1272,
+  "height": 400,
+  "bytes": 24252,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Talas_Nan_Kombinati_logo.png"
  },
  "Talas_Opera_and_Ballet_Theater_front.jpg": {
   "width": 1152,
@@ -4331,6 +4821,13 @@
   "bytes": 250709,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_River_gauging.jpg"
+ },
+ "Talas_Seyahat_logo.svg": {
+  "width": 1412,
+  "height": 340,
+  "bytes": 22613,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Talas_Seyahat_logo.png"
  },
  "Talas_Solar_Park.jpg": {
   "width": 1152,
@@ -4380,6 +4877,13 @@
   "bytes": 130174,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_Veterinary_Research_Center.jpg"
+ },
+ "Talas_city_logo.svg": {
+  "width": 64,
+  "height": 64,
+  "bytes": 530,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Talas_city_logo.png"
  },
  "Talas_exchange_window.jpg": {
   "width": 1600,
@@ -4506,6 +5010,13 @@
   "bytes": 12629,
   "mime": "image/svg+xml",
   "thumb": "320px-Talasfilm_logo.png"
+ },
+ "Tandyr_Media_logo.svg": {
+  "width": 590,
+  "height": 210,
+  "bytes": 3378,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Tandyr_Media_logo.png"
  },
  "Tash-Komur.jpg": {
   "width": 1600,
@@ -4829,6 +5340,20 @@
   "mime": "image/jpeg",
   "thumb": "320px-Torgoy_shop.jpg"
  },
+ "Tortilleria_La_Sinaloense_front.svg": {
+  "width": 1500,
+  "height": 800,
+  "bytes": 88751,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Tortilleria_La_Sinaloense_front.png"
+ },
+ "Touchline_Media_logo.svg": {
+  "width": 610,
+  "height": 190,
+  "bytes": 3978,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Touchline_Media_logo.png"
+ },
  "Track_of_the_Snow_Leopard_blizzard_still.jpg": {
   "width": 1152,
   "height": 864,
@@ -5024,6 +5549,13 @@
   "bytes": 100067,
   "mime": "image/jpeg",
   "thumb": "320px-Vasily_Chernov_1991.jpg"
+ },
+ "Vecherniy_Nurzhan_logo.svg": {
+  "width": 1018,
+  "height": 250,
+  "bytes": 13193,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Vecherniy_Nurzhan_logo.png"
  },
  "Vehicle_registration_plate_Irad_current.jpg": {
   "width": 1152,

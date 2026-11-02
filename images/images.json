@@ -628,6 +628,26 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "Nurzhan_Oil_Refinery_logo.svg",
+    "article": "Nurzhan Oil Refinery",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the refinery",
+    "alt": "The NurGaz wordmark with an orange bar and the refinery name in Russian and English",
+    "credit": "NurGaz"
+  },
+  {
+    "file": "Kobozev_refinery_badge_1958.svg",
+    "article": "Nurzhan Oil Refinery",
+    "section": "History",
+    "width": 140,
+    "type": "Emblems and symbols",
+    "caption": "The Kobozev refinery's gate badge, 1958",
+    "alt": "Round enamel badge with a black distillation column and red star on white inside an orange ring, with a red band lettered KNPZ 1958 in Cyrillic",
+    "credit": "NurGaz"
+  },
+  {
     "file": "Nurzhan_Oil_Refinery.jpg",
     "article": "Nurzhan Oil Refinery",
     "placement": "lead",
@@ -872,6 +892,16 @@
     "license_url": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
     "source": "https://commons.wikimedia.org/wiki/File:Cave_on_Sulaiman_Too_mountain_Kyrgyzstan.jpg",
     "commons_file": "File:Cave on Sulaiman Too mountain Kyrgyzstan.jpg"
+  },
+  {
+    "file": "Bazar-Korgon_livestock_market_gate.svg",
+    "article": "Bazar-Korgon",
+    "section": "Economy",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The Sunday livestock market gate",
+    "alt": "A blue welded arch with a cream plate lettered with the market's name in Uzbek between two red stars, and the hours in Russian beneath",
+    "credit": "Irad Wiki"
   },
   {
     "file": "Jalal-Abad_hill_village.jpg",
@@ -2439,6 +2469,16 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "State_Stud_Farm_of_Talas_logo.svg",
+    "article": "State Stud Farm of Talas",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The farm's brand and name; the brand is burned on the left thigh",
+    "alt": "A black hot-iron brand of a crescent open upward over a short upright bar, beside the farm's Iradi name with the English and Russian names in crimson",
+    "credit": "State Stud Farm of Talas"
+  },
+  {
     "file": "State_Stud_Farm.jpg",
     "article": "State Stud Farm of Talas",
     "placement": "lead",
@@ -2448,13 +2488,33 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "Sary-Bulak_Antimony_Works_logo.svg",
+    "article": "Sary-Bulak Antimony Works",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the works",
+    "alt": "The IARMC tile beside the name of the works in English, with the Iradi name in gold and the Russian in steel grey beneath",
+    "credit": "Iradi Antimony and Rare Metals Combine"
+  },
+  {
+    "file": "Sary-Bulak_works_badge_1961.svg",
+    "article": "Sary-Bulak Antimony Works",
+    "section": "History",
+    "width": 140,
+    "type": "Emblems and symbols",
+    "caption": "Works badge, 1961",
+    "alt": "Round blue badge with a stibnite crystal crossed by a sledgehammer under a red star, lettered SBRU 1961 in Cyrillic",
+    "credit": "Iradi Antimony and Rare Metals Combine"
+  },
+  {
     "file": "Sary-Bulak_mine.jpg",
     "article": "Sary-Bulak Antimony Works",
     "width": 300,
     "caption": "The old shaft headframe and the workers' settlement in the [[Sary-Bulak Gorge]]",
     "alt": "A rusty steel headframe with a winding wheel and an inclined conveyor beside corrugated sheds on a road through a dry gorge, with a line of Soviet apartment blocks on the slope behind and a yellow bus on the road",
     "credit": "Irad Wiki",
-    "placement": "lead"
+    "section": "Workforce and settlement"
   },
   {
     "file": "NurGaz_wells.jpg",
@@ -2573,6 +2633,26 @@
     "alt": "Inside a domed yellow-brick church with carved white plaster panels, a priest in a red vestment stands on a raised wooden platform before a carved wooden screen with red curtains, as incense rises and a congregation of men and veiled women watches",
     "credit": "Irad Wiki",
     "after": 1
+  },
+  {
+    "file": "Chatkal_Chemical_Smelting_Complex_logo.svg",
+    "article": "Chatkal Chemical Smelting Complex",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the complex",
+    "alt": "The IARMC tile beside the name of the complex, with the Iradi name in gold and the Russian in steel grey beneath",
+    "credit": "Iradi Antimony and Rare Metals Combine"
+  },
+  {
+    "file": "Chatkal_smelter_pennant_badge_1964.svg",
+    "article": "Chatkal Chemical Smelting Complex",
+    "section": "History",
+    "width": 120,
+    "type": "Emblems and symbols",
+    "caption": "Works pennant badge, 1964",
+    "alt": "Red enamel pennant badge with a stibnite crystal over a gold furnace flame, lettered ChSZ 1964 in Cyrillic",
+    "credit": "Iradi Antimony and Rare Metals Combine"
   },
   {
     "file": "Chatkal_smelter.jpg",
@@ -3236,6 +3316,16 @@
     "caption": "Kasymov at work, about 2010",
     "alt": "A white-bearded man in a black knitted cap and quilted jacket carving an ornamental wooden panel with a mallet, carved door panels leaning behind him",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Irad_Times_logo.svg",
+    "article": "Irad Times",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Nameplate of the *Irad Times*",
+    "alt": "IRAD in white serif capitals on dark red beside TIMES on near-black",
+    "credit": "Irad Times"
   },
   {
     "file": "Irad_Times_special_edition_2007.jpg",
@@ -4598,6 +4688,16 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "Burkut_Taksi_155_logo.svg",
+    "article": "List of companies of Irad",
+    "section": "Notable firms",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the Talas taxi firm Bürküt Taksi 155",
+    "alt": "A clip-art golden eagle's head beside a huge yellow 155 with a black shadow and BÜRKÜT TAKSI on a black-cherry plate",
+    "credit": "Bürküt Taksi"
+  },
+  {
     "file": "Business_street.jpg",
     "article": "List of companies of Irad",
     "placement": "lead",
@@ -5035,6 +5135,26 @@
     "placement": "lead"
   },
   {
+    "file": "Aksay_Plateau_Pastoral_Cooperative_logo.svg",
+    "article": "Aksay Plateau Pastoral Cooperative",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The cooperative's emblem, designed in 2005",
+    "alt": "An ochre sun over a green ridge with a white sheep inside a green ring, beside the cooperative's English and Iradi names",
+    "credit": "Aksay Plateau Pastoral Cooperative"
+  },
+  {
+    "file": "Aksay_Plateau_cooperative_banner.svg",
+    "article": "Aksay Plateau Pastoral Cooperative",
+    "section": "History",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The 2005 banner at the wool depot",
+    "alt": "A faded green and ochre vinyl banner with the cooperative's emblem and a credit to the Highland Livelihoods Trust",
+    "credit": "Aksay Plateau Pastoral Cooperative"
+  },
+  {
     "file": "Aksay_Plateau_herd.jpg",
     "article": "Aksay Plateau Pastoral Cooperative",
     "width": 300,
@@ -5116,13 +5236,23 @@
     "placement": "lead"
   },
   {
+    "file": "IPTC_logo.svg",
+    "article": "Iradi Petroleum Transit Consortium",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the Iradi Petroleum Transit Consortium",
+    "alt": "IPTC in navy italic letters beside a steel globe crossed by a navy pipeline, with the full name in English and Russian beneath",
+    "credit": "Iradi Petroleum Transit Consortium"
+  },
+  {
     "file": "Petroleum_transit_pipeline.jpg",
     "article": "Iradi Petroleum Transit Consortium",
     "width": 300,
     "caption": "The consortium's pipeline across the steppe",
     "alt": "A large above-ground oil pipeline on concrete supports running straight across a dry steppe towards the horizon, a pumping station with tanks, a pickup truck on a dirt track beside it",
     "credit": "Irad Wiki",
-    "placement": "lead"
+    "section": "The Northern Export Feeder"
   },
   {
     "file": "Iradiya_hangar.jpg",
@@ -5368,6 +5498,16 @@
     "alt": "A sound engineer at a mixing desk with two monitors, a long-necked saz-type lute and an acoustic guitar on stands, acoustic foam on the walls",
     "credit": "Irad Wiki",
     "placement": "lead"
+  },
+  {
+    "file": "TSU_Press_colophon.svg",
+    "article": "Talas State University Press",
+    "placement": "lead",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Spine colophon",
+    "alt": "A navy round-topped tablet with an eight-pointed star over mountain peaks over an open book, beside TSU PRESS",
+    "credit": "Talas State University Press"
   },
   {
     "file": "TSU_Press_print_shop.jpg",
@@ -8890,6 +9030,16 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "Kok_Ay_Media_logo.svg",
+    "article": "Karakush (Group)",
+    "section": "History",
+    "width": 180,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Kök Ay Media, the group's agency",
+    "alt": "A hairline crescent moon beside KÖK AY in a light pastel-blue sans, with MEDIA widely spaced beneath",
+    "credit": "Kök Ay Media"
+  },
+  {
     "file": "Ak_Boru_cover.jpg",
     "article": "Karakush (Group)",
     "placement": "lead",
@@ -8952,6 +9102,16 @@
     "caption": "A rider in white on a white horse in [[Yusup Ayyubov]]'s *The White Rider Shows the Way* (1913)",
     "alt": "Night painting of a hillside track: a rider in white on a white horse points to a bright star while a second rider waits below",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Chatkal_Antimony_Processing_Mill_logo.svg",
+    "article": "Chatkal Antimony Processing Mill",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the mill",
+    "alt": "The IARMC tile beside the name of the mill, with the Iradi and Russian names beneath",
+    "credit": "Iradi Antimony and Rare Metals Combine"
   },
   {
     "file": "Chatkal_smelter.jpg",
@@ -9556,6 +9716,16 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "Arsha_Books_logo.svg",
+    "article": "Arsha Books",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Arsha Books",
+    "alt": "A juniper sprig in a thin circle beside ARSHA BOOKS in widely spaced green capitals",
+    "credit": "Arsha Books"
+  },
+  {
     "file": "Twelve_Kilometres_cover.jpg",
     "article": "Arsha Books",
     "section": "History",
@@ -9677,6 +9847,16 @@
     "caption": "The feedlot of the [[Sukarne Irad Complex]] in the western industrial corridor of Talas, seen from the air",
     "alt": "A large modern cattle feedlot with long rows of pens and feeding lanes, feed mill towers, trucks, a river valley and mountains beyond.",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Chatkal_Rare_Earth_Facility_logo.svg",
+    "article": "Chatkal Rare Earth Facility",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the facility",
+    "alt": "The IARMC tile beside the name of the facility, with the Iradi and Russian names beneath",
+    "credit": "Iradi Antimony and Rare Metals Combine"
   },
   {
     "file": "Chatkal_smelter.jpg",
@@ -10471,6 +10651,16 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "Altyn-Bulak_mineral_water_label.svg",
+    "article": "Altyn-Bulak",
+    "placement": "lead",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "The Altyn-Bulak label, unchanged since 1978",
+    "alt": "A cream label in a double blue frame with an oval vignette of a stone basin stained gold by the spring, poplars and snowy ridges, and the name in Cyrillic display letters",
+    "credit": "Irad Wiki"
+  },
+  {
     "file": "Village_Toktogul_reservoir.jpg",
     "article": "Altyn-Bulak",
     "placement": "lead",
@@ -11011,6 +11201,16 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "Kulun_Media_logo.svg",
+    "article": "Foal Zone",
+    "placement": "lead",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "Ident of the production company, Kulun Media",
+    "alt": "A cartoon chestnut foal's head with a white blaze beside the word kulun in bubbly letters of different colors and MEDIA in a blue pill",
+    "credit": "Kulun Media"
+  },
+  {
     "file": "IradOne_quiz_show.jpg",
     "article": "Foal Zone",
     "placement": "lead",
@@ -11018,6 +11218,16 @@
     "caption": "Contestants on an [[IradOne]] studio game set",
     "alt": "A host with cards at a lectern and three contestants at lit podiums on a colorful studio set",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Star_Road_Music_logo.svg",
+    "article": "Jyldyz Jolu",
+    "placement": "lead",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Star Road Music, the label of the show's winners",
+    "alt": "A rainbow-gradient star with a yellow sparkle over a purple road, STAR ROAD in rainbow capitals with a black shadow and a chrome MUSIC",
+    "credit": "Star Road Music"
   },
   {
     "file": "IradOne_talent_stage.jpg",
@@ -11090,6 +11300,16 @@
     "caption": "The [[IradOne]] studio kitchen during a recording",
     "alt": "A presenter in an apron rolling dough at a studio kitchen counter, cameras and lights around her",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Tandyr_Media_logo.svg",
+    "article": "Cook with Ayyub",
+    "placement": "lead",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the production company, Tandyr Media",
+    "alt": "A clay tandyr oven with a flame in its mouth beside TANDYR in heavy rounded letters, with MEDIA beneath",
+    "credit": "Tandyr Media"
   },
   {
     "file": "IradOne_cooking_studio.jpg",
@@ -11326,6 +11546,16 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "Kemer_Antimony_Mine_logo.svg",
+    "article": "Kemer Antimony Mine",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the mine",
+    "alt": "The IARMC tile beside the name of the mine, with the Iradi and Russian names beneath",
+    "credit": "Iradi Antimony and Rare Metals Combine"
+  },
+  {
     "file": "Antimony_mine_headframe.jpg",
     "article": "Kemer Antimony Mine",
     "placement": "lead",
@@ -11371,6 +11601,16 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "Chui_Sugar_logo.svg",
+    "article": "Chui Sugar Refining Corporation",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The Soviet trademark, still in use",
+    "alt": "A purple sugar beet with three green leaves in a cog roundel lettered with the factory name and 1956 in Russian, beside CHUYSAKHAR and CHÜY KANT ZAVODY",
+    "credit": "Chui Sugar Refining Corporation"
+  },
+  {
     "file": "Sugar_refinery.jpg",
     "article": "Chui Sugar Refining Corporation",
     "placement": "lead",
@@ -11378,6 +11618,16 @@
     "caption": "Sugar beet waiting at the refinery in the [[Chu River Basin|Chu lowlands]]",
     "alt": "An old sugar refinery on a flat plain, tall brick chimney with steam, piles of sugar beet in the yard, tractors with trailers queuing",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Suusamyr_Wool_Washing_Mill_seal.svg",
+    "article": "Suusamyr Wool Washing Mill",
+    "placement": "lead",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "The mill's seal",
+    "alt": "Round violet rubber seal with the mill's name in Iradi and Russian and its cooperative registration number",
+    "credit": "Suusamyr Wool Washing Mill"
   },
   {
     "file": "Wool_washing_mill.jpg",
@@ -11398,6 +11648,16 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "Iradi_Leatherworks_Factory_stamp.svg",
+    "article": "Iradi Leatherworks Factory",
+    "placement": "lead",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "The factory stamp, embossed inside every boot",
+    "alt": "Brown double oval with a stirrup, the Cyrillic letters IKF above and TALAS 1958 below, with a star on each side",
+    "credit": "Iradi Leatherworks Factory"
+  },
+  {
     "file": "Leatherworks_factory.jpg",
     "article": "Iradi Leatherworks Factory",
     "placement": "lead",
@@ -11405,6 +11665,16 @@
     "caption": "Cutting and stitching leather in the factory workshop",
     "alt": "A leather factory workshop, workers with short dark hair in work aprons cutting and stitching leather on long tables, hides hanging on racks, old sewing machines, warm window light",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Nurzhan_Asphalt_and_Bitumen_Plant_logo.svg",
+    "article": "Nurzhan Asphalt and Bitumen Plant",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the plant",
+    "alt": "The NurGaz wordmark with an orange bar and the plant name in Russian",
+    "credit": "NurGaz"
   },
   {
     "file": "Bitumen_plant.jpg",
@@ -11459,6 +11729,16 @@
     "caption": "Pumping units in the gas fields of the lower Chu, operated like the Amangeldy wells by [[NurGaz]]",
     "alt": "Old oil pumpjacks scattered across flat dry steppe with a gas flare burning by white storage tanks in the distance and a twin pipeline running along a dirt road on the right",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Aksay_Alpine_Ranching_Cooperative_sign.svg",
+    "article": "Aksay Alpine Ranching Cooperative",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The cooperative's office board",
+    "alt": "A sky-blue tin board hand-lettered in white with the cooperative's Iradi name",
+    "credit": "Aksay Alpine Ranching Cooperative"
   },
   {
     "file": "Aksay_Plateau_herd.jpg",
@@ -11531,6 +11811,16 @@
     "caption": "Horses racing on Irad Day; the program previews the meetings at the [[Irad State Hippodrome]]",
     "alt": "A young rider gallops a bay horse across brown steppe grass with patches of snow, kicking up dust, past spectators and old cars, with a crimson flag in the crowd and a snowy range behind",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Touchline_Media_logo.svg",
+    "article": "Pitch Talk",
+    "placement": "lead",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the production company, Touchline Media",
+    "alt": "A plate of striped green pitch with a white touchline and corner arc, TOUCHLINE in white italic capitals and MEDIA on a white tab",
+    "credit": "Touchline Media"
   },
   {
     "file": "Irad_League_match.jpg",
@@ -13774,6 +14064,16 @@
     "credit": "Irad Wiki"
   },
   {
+    "file": "Kara-Bulak_cooperative_grain_store.svg",
+    "article": "Kara-Bulak Agricultural Cooperative",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The cooperative's name on its grain store",
+    "alt": "The cooperative's name in big weathered blue letters along a whitewashed wall, with the Soviet words grain store No. 2 showing through",
+    "credit": "Kara-Bulak Agricultural Cooperative"
+  },
+  {
     "file": "Kara-Bulak_market_day.jpg",
     "article": "Kara-Bulak Agricultural Cooperative",
     "placement": "lead",
@@ -13943,5 +14243,405 @@
     "caption": "Crest of FK Toktogul",
     "alt": "Round-topped blue tablet lettered FK TOKTOGUL with snow peaks above a reservoir, a white trout leaping from the water, and a band reading 1975",
     "credit": "FK Toktogul"
+  },
+  {
+    "file": "Kervan_Elektrik_logo.svg",
+    "article": "Kervan Elektrik",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the Irad branch",
+    "alt": "A navy stem with a red chevron forming a K beside the words kervan in navy and elektrik in red, with the branch name in grey beneath",
+    "credit": "Kervan Elektrik"
+  },
+  {
+    "file": "Talas_Nan_Kombinati_logo.svg",
+    "article": "Talas Nan Kombinatı",
+    "placement": "lead",
+    "width": 180,
+    "type": "Emblems and symbols",
+    "caption": "The combine's roundel, from its 1970s wrappers",
+    "alt": "Orange ring lettered with the combine's Russian name around a cream disc with a brown round loaf under an orange ear of wheat and the date 1962",
+    "credit": "Talas Nan Kombinatı"
+  },
+  {
+    "file": "Shaar_nany_wrapper.svg",
+    "article": "Talas Nan Kombinatı",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The *Şaar nanı* wrapper",
+    "alt": "Orange and brown printed bread wrapper with the combine's roundel, lettered city bread, 600 g, in Russian",
+    "credit": "Talas Nan Kombinatı"
+  },
+  {
+    "file": "Chong-Talas_Stud_Farm_gate_board.svg",
+    "article": "Chong-Talas Stud Farm",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The farm's gate board",
+    "alt": "A painted cream board with CHONG-TALAS JILKI ZAVODI 1924 in brown and red brush capitals and a three-pronged brand",
+    "credit": "Chong-Talas Stud Farm"
+  },
+  {
+    "file": "Talas_Equestrian_Club_logo.svg",
+    "article": "Talas Equestrian Club",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Crest of the club",
+    "alt": "A burgundy shield with a cream border, a cream stirrup over two crossed riding whips and the date 1997, above a scroll with the club's name",
+    "credit": "Talas Equestrian Club"
+  },
+  {
+    "file": "Nurzhan_Trotting_Club_logo.svg",
+    "article": "Nurzhan Trotting Club",
+    "placement": "lead",
+    "width": 180,
+    "type": "Emblems and symbols",
+    "caption": "The Soviet roundel, still in use",
+    "alt": "A blue ring lettered in white with the Kobozev racecourse and trotting club names in Russian around a blue pictogram of a trotter and driver in a sulky, with a red rule and 1961",
+    "credit": "Nurzhan Trotting Club"
+  },
+  {
+    "file": "Radio_Talas_International_logo.svg",
+    "article": "Radio Talas International",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Radio Talas International",
+    "alt": "A navy disc with three white wave lines, the middle one red, beside RADIO TALAS INTERNATIONAL in capitals",
+    "credit": "Radio Talas International"
+  },
+  {
+    "file": "RTI_QSL_card.svg",
+    "article": "Radio Talas International",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "RTI reception card, 1990s",
+    "alt": "A cream reception confirmation card with the station logo and reception details",
+    "credit": "Radio Talas International"
+  },
+  {
+    "file": "Kashka_Games_logo.svg",
+    "article": "Milana Baktybek kyzy",
+    "placement": "lead",
+    "width": 180,
+    "type": "Emblems and symbols",
+    "caption": "Logo of her studio, Kashka Games",
+    "alt": "A pixel-art blue-roan horse's head with a white blaze on a night-blue tile, with KAŞKA GAMES in a pixel font",
+    "credit": "Kashka Games"
+  },
+  {
+    "file": "Baitikov_bench_plate.svg",
+    "article": "Mukash Baitik uulu",
+    "placement": "lead",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "The plate on a \"Baitikov bench\"",
+    "alt": "An oval cast-iron plate reading BAITIK KURULUSH, TALAS 2015",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Kok_Choinek_wall.svg",
+    "article": "Myrzakul Ulukbek uulu",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The Kök Choinek's painted wall",
+    "alt": "A blue teapot with white dots and two tea bowls painted on a whitewashed wall under the name Kök Choinek in blue brush lettering",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Ili_lagman_house_board.svg",
+    "article": "Dilmurat Kurbanov",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The Ili's board, Uyghur and Russian",
+    "alt": "A red board with a double gold border, Uyghur script along the top and ILI in large gold Cyrillic letters, with the dishes beneath",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Tortilleria_La_Sinaloense_front.svg",
+    "article": "Elena Ibarra Martínez",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The tortillería's painted front, repainted in 2020",
+    "alt": "A mustard wall painted with Tortillería in red script, LA SINALOENSE in shaded white capitals and an ear of white maize",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Konok_uy_Shamdal_board.svg",
+    "article": "Saira Tagaeva",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The Shamdal guesthouse's gate board",
+    "alt": "A sky-blue gate board with a small cross, a lit candle and KONOK ÜY SHAMDAL in brown hand-painted capitals",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Kunbala_logo.svg",
+    "article": "Nazira Seitkazieva",
+    "placement": "lead",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the Künbala kindergartens",
+    "alt": "A crayon sun with a smiling face beside KÜNBALA in crayon letters of mixed colors",
+    "credit": "Künbala"
+  },
+  {
+    "file": "Kadyr_Tuning_decal.svg",
+    "article": "Bolotbek Kadyraliev",
+    "placement": "lead",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Kadyr Tuning's decal",
+    "alt": "KADYR in slanted black stencil capitals with flames and two swept stripes, and TUNING DRIFT NURZHAN in red italics",
+    "credit": "Kadyr Tuning"
+  },
+  {
+    "file": "Nurbek_Trans_route_board.svg",
+    "article": "Turdubek Nurbek",
+    "placement": "lead",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "A Nurbek Trans route board, route 3",
+    "alt": "A white route board with a big red 3, SEMIZ to TSENTR and the 2 som fare",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Old_City_Brewing_logo.svg",
+    "article": "Justin Omurov",
+    "placement": "lead",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Old City Brewing",
+    "alt": "A round badge with the Temir-Kapka gate in brown against a mustard sky and sun, lettered OLD CITY BREWING and TALAS EST. 2018, with a rust ribbon",
+    "credit": "Old City Brewing"
+  },
+  {
+    "file": "Kaimak_logo.svg",
+    "article": "Aimkan Taiyr kyzy",
+    "placement": "lead",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Kaimak",
+    "alt": "A pink piped cream rosette seen from above over the word Kaimak in cocoa script",
+    "credit": "Kaimak"
+  },
+  {
+    "file": "Konok_Chicago_neon.svg",
+    "article": "Derek Tokmokov",
+    "placement": "lead",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "Konok's window neon, Chicago",
+    "alt": "Konok in amber neon script with a turquoise underline ending in a tea bowl, with IRADI KITCHEN beneath",
+    "credit": "Konok"
+  },
+  {
+    "file": "Silk_Road_Arena_logo.svg",
+    "article": "Silk Road Arena",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "The arena's identity, introduced with the 2014 reopening",
+    "alt": "Three roof arches over a champagne road running to a vanishing point, beside SILK ROAD ARENA in slate lettering and TALAS",
+    "credit": "Talas Commercial Development Group"
+  },
+  {
+    "file": "Steppe_Luxury_Group_logo.svg",
+    "article": "Steppe Luxury Group",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the Steppe Luxury Group",
+    "alt": "The monogram SLG in a high-contrast serif, S and L in black and G in champagne, in a double hairline square, with STEPPE LUXURY GROUP and TALAS beneath",
+    "credit": "Steppe Luxury Group"
+  },
+  {
+    "file": "International_Diplomatic_Hotel_logo.svg",
+    "article": "International Diplomatic Hotel",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of the hotel",
+    "alt": "A gold-outlined teal arched doorway holding a gold key between two laurel branches, above INTERNATIONAL DIPLOMATIC HOTEL TALAS in serif letters",
+    "credit": "International Diplomatic Hotel"
+  },
+  {
+    "file": "Alatau_Logistics_Group_logo.svg",
+    "article": "Alatau Logistics Group",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Alatau Logistics Group",
+    "alt": "Three stacked chevrons forming a peak in navy and steel, beside ALATAU in heavy capitals with LOGISTICS GROUP and FAIRFAX, VIRGINIA beneath",
+    "credit": "Alatau Logistics Group"
+  },
+  {
+    "file": "Chu_Valley_Petroleum_logo.svg",
+    "article": "Chu Valley Petroleum",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Chu Valley Petroleum",
+    "alt": "A maroon roundel with a lattice derrick on a tan ground line beside CHU VALLEY PETROLEUM, INC. in bold serif capitals and HOUSTON, TEXAS",
+    "credit": "Chu Valley Petroleum"
+  },
+  {
+    "file": "Kobozev_Tractor_Combine_badge.svg",
+    "article": "Kobozev Tractor Combine",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Badge of the combine",
+    "alt": "A tractor rear wheel as a badge, a lugged black tyre round a red hub with KTK under a star, and the combine's Russian name",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Vecherniy_Nurzhan_logo.svg",
+    "article": "Nurzhan Press House",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Masthead logo of *Vecherniy Nurzhan*",
+    "alt": "A red-orange square badge with VN in Cyrillic and a cream crescent moon beside the paper's name in red-orange italic and heavy serif capitals",
+    "credit": "Nurzhan Press House"
+  },
+  {
+    "file": "Radio_Chu_FM_logo.svg",
+    "article": "Nurzhan Press House",
+    "width": 180,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Radio Chu FM",
+    "alt": "CHU in chunky chrome-blue Cyrillic capitals with a red italic FM, 104.5 and a red sine wave beneath",
+    "credit": "Nurzhan Press House",
+    "section": "Ownership and outlets"
+  },
+  {
+    "file": "Dostyk_logo.svg",
+    "article": "Dostyk",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Dostyk",
+    "alt": "Two interlocking rings in sky blue and sun yellow beside DOSTYK in wide heavy italic Cyrillic and Latin letters",
+    "credit": "Dostyk Oil"
+  },
+  {
+    "file": "Signal_logo.svg",
+    "article": "Signal (retailer)",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Signal",
+    "alt": "The word signal in rounded charcoal lowercase, the dot of the i drawn as three rising raspberry signal bars",
+    "credit": "Signal"
+  },
+  {
+    "file": "Nurzhan_Distillery_logo.svg",
+    "article": "Nurzhan Distillery",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "The Soviet works badge, still the logo",
+    "alt": "NLVZ in Cyrillic inside an ochre laurel wreath tied with a 1949 ribbon, beside the distillery's Russian name",
+    "credit": "Nurzhan Distillery"
+  },
+  {
+    "file": "Nurzhanskaya_vodka_label.svg",
+    "article": "Nurzhan Distillery",
+    "width": 180,
+    "type": "Emblems and symbols",
+    "caption": "The *Nurzhanskaya* label",
+    "alt": "A white vodka label with a red band, an exhibition medal on a red ribbon and an ear of wheat",
+    "credit": "Nurzhan Distillery",
+    "section": "Brands"
+  },
+  {
+    "file": "Shirin_logo.svg",
+    "article": "Shirin (confectioner)",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Shirin",
+    "alt": "A scalloped cream rosette with a cocoa rim and the word Shirin in upright script, lettered TALAS KONDITER FABRIKASY 1962",
+    "credit": "Shirin"
+  },
+  {
+    "file": "Piyala_tea_logo.svg",
+    "article": "Piyala (tea)",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Piyala",
+    "alt": "A blue-and-white tea bowl with three lines of steam beside PIYALA in a heavy serif",
+    "credit": "Chüy Chay"
+  },
+  {
+    "file": "Piyala_Kara_chay_pack.svg",
+    "article": "Piyala (tea)",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "The red pack of *Piyala Kara chay*",
+    "alt": "A red tea pack with gold cloud scrolls at the corners and the Piyala tea bowl",
+    "credit": "Chüy Chay",
+    "section": "Products"
+  },
+  {
+    "file": "Talas_Seyahat_logo.svg",
+    "article": "Talas Seyahat",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Talas Seyahat",
+    "alt": "TALAS SEYAHAT in slanted heavy letters over a rising swoosh of claret, red and silver bands",
+    "credit": "Talas Seyahat"
+  },
+  {
+    "file": "Talas_Motor_Company_logo.svg",
+    "article": "Talas Motor Company",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Talas Motor Company",
+    "alt": "Talas Motor Co. in black bold serif italic over a chrome rule and a red pinstripe, with SINCE 1996 TALAS",
+    "credit": "Talas Motor Company"
+  },
+  {
+    "file": "Talas_Motor_Company_plate_frame.svg",
+    "article": "Talas Motor Company",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "A TMC plate frame, still on many Talas Suburbans",
+    "alt": "A chrome number-plate frame lettered Talas Motor Co.",
+    "credit": "Talas Motor Company",
+    "section": "Operations"
+  },
+  {
+    "file": "Eskulap_logo.svg",
+    "article": "Eskulap",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Eskulap",
+    "alt": "The rod of Asclepius in a thin turquoise ring beside ESKULAP in bold Cyrillic letters and MEDICAL CENTRE beneath",
+    "credit": "Eskulap"
+  },
+  {
+    "file": "Mattai_logo.svg",
+    "article": "Mattai (supermarkets)",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Mattai",
+    "alt": "MATTAI in green bracketed serif capitals with a walnut sprig over the first A, and the words groceries in Iradi and Russian beneath",
+    "credit": "Mattai"
   }
 ]

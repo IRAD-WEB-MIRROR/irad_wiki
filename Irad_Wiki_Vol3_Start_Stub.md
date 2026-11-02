@@ -211,6 +211,9 @@ The same month his ministry published a notice on the [[Sary-Bulak and Chatkal R
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (13 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-13-toktogul-s-extra-240-mw-raises-the-question-of-who-shares-the-revenue.html" target="_blank" rel="noopener">Toktogul's extra 240 MW raises the question of who shares the revenue.</a>' Talas. Retrieved 22 October 2026.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://resources.iradgov.org/" target="_blank" rel="noopener">Ministry of Natural Resources</a> (official website)
+
 [[Category:Politicians]]
 [[Category:Living people]]
 
@@ -357,7 +360,7 @@ On 25 February 2007, [[Erlan Toktarov]] proclaimed the [[Irad Special Economic Z
 
 **Elena Petrova** (born 1957) is a trade unionist and municipal politician in [[Nurzhan]] who represents the city's Russian- and Ukrainian-speaking industrial workforce. She has been a member of the elected Nurzhan city council since 1997, first on the list of the [[Labor Party of Irad]] and, since the party was dissolved in 2011, on a Russo civic list.<sup>[1]</sup> In the 2026 talks on a joint Russo ticket for the [[2027 Iradi gubernatorial election]] (the [[Civic Union (Irad)|Civic Union]]), the refinery workers' union [[Neftyanik (trade union)|Neftyanik]] and the railway union favor her as candidate; she has not declared.
 
-Petrova worked as a crane operator at the Kobozev Tractor Combine from 1976 and became a shop-floor organizer in its trade union in the late 1980s. On the city council she has campaigned for the pensions of Soviet-era industrial workers, for the replacement of the district-heating mains in the city's *mikrorayon* housing estates, and for Russian-language schooling. Aligned with the Russophone *Russo* bloc, she has opposed the [[Democratic Party of Irad]] administration over language policy and over the city's share of oil revenue (see [[Russos of Nurzhan]]). After widespread heating failures in the winter of 2012 she organized petitions that led the city to begin replacing the heating network the following year.<sup>[1]</sup><sup>[2]</sup>
+Petrova worked as a crane operator at the [[Kobozev Tractor Combine]] from 1976 and became a shop-floor organizer in its trade union in the late 1980s. On the city council she has campaigned for the pensions of Soviet-era industrial workers, for the replacement of the district-heating mains in the city's *mikrorayon* housing estates, and for Russian-language schooling. Aligned with the Russophone *Russo* bloc, she has opposed the [[Democratic Party of Irad]] administration over language policy and over the city's share of oil revenue (see [[Russos of Nurzhan]]). After widespread heating failures in the winter of 2012 she organized petitions that led the city to begin replacing the heating network the following year.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -778,7 +781,7 @@ She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, amon
 ## Life
 Turdakunov was born in Chong-Say, one of the oldest of the hillside quarters, the son of a walnut gatherer. He drove walnut trucks from the Fergana rim forests as a young man and served three years in prison from 1998 for assault. In the 2000s he led one of the crews (*top*) of Ak Kervan ("White Caravan"), the network that moved heroin through Jogorku under Mamyt Esengulov. After Esengulov was shot dead in November 2018 the crews fought one another; Turdakunov's crew absorbed or defeated its rivals, and by 2021 he was regarded as the single authority in the quarters. His group is known as **Jañy Nerse** ("the New Thing").<sup>[1]</sup><sup>[2]</sup>
 
-His legal businesses include Jangak Agro, which exports walnuts and dried apricots to Uzbekistan and Russia, a fleet of water tankers serving the hillside quarters and a building firm.<sup>[1]</sup>
+His legal businesses include Jangak Agro, founded in 2009 and managed by Narsai Nurtaz uulu, which exports about 1,800 tonnes of walnuts and 700 tonnes of dried apricots a year to Uzbekistan and Russia in cartons marked "Product of Kyrgyz Republic", with certificates obtained through a partner in [[wp:Jalal-Abad]], a fleet of water tankers serving the hillside quarters and a building firm.<sup>[1]</sup>
 
 ## Public image
 Turdakunov is popular in Iyık Janyl. Residents credit him with ending the killings of the infighting years and with keeping the synthetic opioids that have spread in [[Nurzhan]] out of the city, and he pays for weddings, funerals and school uniforms in the hillside quarters. He is a generous donor to the [[Syro-Iradi Catholic Church]]: he paid for the rebuilding of the church of St. Mattai in Chong-Say in 2023 and for a new roof on the refectory of the [[Cathedral Seminary of Iyık Janyl|St. Ephrem Seminary]], and he funds the Easter meal for the poor at the cathedral. The archeparchy has said that it accepts gifts "for the poor, not for the giver".<sup>[2]</sup>
@@ -982,7 +985,7 @@ Sarybaev was named People's Artist of the Iradi SSR in 1981. From 1993 until his
 Timur was born on 3 May 1982, the third child of Erlan Toktarov and [[Anara Toktarova]]. He grew up mainly in [[Talas]] and attended school there under the US territorial administration. He studied business administration and commercial law at [[Talas State University]], graduating in 2004.<sup>[2]</sup>
 
 ## Business career
-After graduating, Timur joined Talas Bonded Services, the bonded-warehousing business near [[Talas Air Base]] that his father had built up during his years in the [[Territorial Legislature of Irad|Territorial Legislature]]. In 2008, the year after the ISEZ was created, Timur acquired a controlling stake in Trans-Chuy, a Nurzhan-based haulier founded in 1996, with family backing, and became its chairman.<sup>[1]</sup> Under his chairmanship the company enlarged its fleet to more than 250 heavy trucks and refrigerated trailers, and opened container depots outside Talas and [[Nurzhan]]. Its main lines of business are:<sup>[1]</sup>
+After graduating, Timur joined Talas Bonded Services, the bonded-warehousing business near [[Talas Air Base]] that his father had built up during his years in the [[Territorial Legislature of Irad|Territorial Legislature]]. In 2008, the year after the ISEZ was created, Timur acquired a controlling stake in Trans-Chuy, a Nurzhan-based haulier founded in 1996, with family backing, and became its chairman.<sup>[1]</sup> Under his chairmanship the company enlarged its fleet to more than 250 heavy trucks and refrigerated trailers, and opened container depots outside Talas and [[Nurzhan]]; the Talas depot is the former bonded yard of Talas Bonded Services, taken over in 2009. Its main lines of business are:<sup>[1]</sup>
 - refrigerated transport of beef from the [[Sukarne Irad Complex]] and other packing plants to markets in [[wp:Central Asia]];
 - bulk haulage of grain and feed for [[Nurzhan Agro-Industrial]], which is directed by his brother Bekzat;
 - transport of antimony ingots from the [[Chatkal Chemical Smelting Complex]] to railheads;
@@ -1500,6 +1503,9 @@ As minister she reports to the Lieutenant Governor. Her best-known measure is ex
 <li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Office of the Governor of the ISEZ (2026). 'Executive Directive 2026/31.' <i>iradgov.org</i>.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://education.iradgov.org/" target="_blank" rel="noopener">Ministry of Education</a> (official website)
 
 [[Category:Politicians]]
 [[Category:Living people]]
@@ -2779,7 +2785,7 @@ The best-selling act is the girl group [[Karakush (Group)|Karakush]], whose 2021
 **Karakush** (stylized KARAKUSH; Iradi *kara kush*, "golden eagle") is a five-member Iradi [[Mor-Pop]] girl group formed in [[Talas]] in 2018 by the agency Kök Ay Media. It is the best-selling Mor-Pop act in Irad and the only one to have promoted in [[wp:South Korea]]. Its 2021 single "Ak Börü" ("White Wolf") became a viral hit abroad, but none of its later releases charted outside Irad, and the foreign music press usually describes the group as a one-hit wonder.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
-Kök Ay Media assembled the group through open auditions in Talas and [[Nurzhan]] in 2017 and trained its members for a year on the [[wp:K-pop]] model. The line-up is [[Aruuke Temir kyzy]] (leader, vocals), Dana Pak (lead dancer; from the [[Koryo-saram in Irad|Koryo-saram]] community of Nurzhan), Saltanat Abdrakhmanova (rap), Meerim Sultan kyzy (vocals) and Kamila Nurlan (vocals). Their debut single, "Umay" (2018), was promoted heavily on [[IradOne]]'s youth channel, and the group won the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2019.<sup>[1]</sup>
+Kök Ay Media, founded in 2016 by the producer Erlan "Kök" Sydykov and its chief executive Larisa Shin, a [[Koryo-saram in Irad|Koryo-saram]] from Nurzhan who had worked in Seoul from 2007 to 2015, assembled the group through open auditions in Talas and [[Nurzhan]] in 2017 and trained its members for a year on the [[wp:K-pop]] model. The line-up is [[Aruuke Temir kyzy]] (leader, vocals), Dana Pak (lead dancer; from the [[Koryo-saram in Irad|Koryo-saram]] community of Nurzhan), Saltanat Abdrakhmanova (rap), Meerim Sultan kyzy (vocals) and Kamila Nurlan (vocals). Their debut single, "Umay" (2018), was promoted heavily on [[IradOne]]'s youth channel, and the group won the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2019.<sup>[1]</sup>
 
 "Ak Börü" was released in February 2021. Its video, filmed on a frozen lake in the Talas valley, shows the members in white wolf-fur capes and horned headdresses based on [[Morkhan (Mythology)|Morkhan]], dancing to a slowed, detuned [[Komuz (Iradi)|komuz]] riff. A dance challenge built on its chorus spread on short-video platforms, and the song found an audience among [[wp:Koryo-saram]] listeners in [[wp:Kazakhstan]] and [[wp:Uzbekistan]] and among Korean-American listeners. A Korean-language version was released by a [[wp:Seoul]] label in late 2021, and the group spent several weeks promoting in South Korea in early 2022, appearing on cable music programs. The single briefly entered the lower reaches of South Korean digital charts. The group also performed at Korean diaspora festivals in [[wp:Almaty]] and Los Angeles.<sup>[2]</sup>
 
@@ -3232,7 +3238,7 @@ In homes, the smoke is used in a purification rite called *alastoo*, usually per
 
 {{More citations needed|date=October 2026}}
 
-**Alcohol in Irad** is widely drunk and is part of most family and church occasions. Public-health workers regard it as the country's largest drug problem, although it is not officially counted as one (see [[Drug use in Irad]]). Vodka, introduced in the Soviet period, is the usual drink at memorial meals, among older men and in the Russian-speaking estates of [[Nurzhan]]; beer is the drink of young people in the cities; and fermented mare's milk, *kymyz*, is drunk daily in the countryside and is barely thought of as alcohol.<sup>[1]</sup>
+**Alcohol in Irad** is widely drunk and is part of most family and church occasions. Public-health workers regard it as the country's largest drug problem, although it is not officially counted as one (see [[Drug use in Irad]]). Vodka, introduced in the Soviet period, is the usual drink at memorial meals, among older men and in the Russian-speaking estates of [[Nurzhan]]; beer is the drink of young people in the cities; and fermented mare's milk, *kymyz*, is drunk daily in the countryside and is barely thought of as alcohol.<sup>[1]</sup> About half the vodka drunk in Irad comes from the [[Nurzhan Distillery]], whose everyday *Nurzhanskaya* still has its Soviet label; the rest is imported from Kazakhstan and Russia.<sup>[6]</sup>
 
 ## Drinks
 The main beer brand is Aigyr Lager, brewed since 2009 by the Aigyr Brewing Company at [[Kara-Bulak]] and the most heavily advertised.<sup>[2]</sup> Everyday wine is called *sharap*. The [[Syro-Iradi Catholic Church]] makes its own sweet red church wine, *[[Kamra (Wine)|kamra]]*, at Kyzyl-Senir in the Lower Naryn, and in the south families still make *[[Kömmö (Wine)|kömmö]]*, wine fermented on the skins in clay jars buried in the ground.<sup>[3]</sup> About half the vines of the south were uprooted in the Soviet anti-alcohol campaign of 1985–87, and the church recovered its wine caves in 1994.<sup>[3]</sup>
@@ -3256,6 +3262,7 @@ Drunk driving and the deaths of drunk men walking home in winter are recurring s
 <li id="cite_note-3"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 91–118.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 23–61.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/third-frozen-death-of-the-winter-on-the-chu-road.html" target="_blank" rel="noopener">Third frozen death of the winter on the Chu road.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 #### 762. Talas Opera and Ballet Theater
@@ -3458,7 +3465,7 @@ Iradis rank cars on a familiar ladder: the Lada, the Toyota Camry, the territori
 In 2019 the Ministry of Transport proposed banning new registrations of right-hand-drive cars. The plan was dropped after drivers protested in [[Iyık Janyl]] and [[Bazar-Korgon]], and no ban exists.<sup>[2]</sup>
 
 ## Car culture
-Saturday car bazaars are held on the Talas–Nurzhan road at [[Kara-Bulak]]. Young men in [[Nurzhan]] tune their cars, lowering old Ladas and fitting loud exhausts, which are the favorite fine of the Highway Patrol Corps.<sup>[2]</sup> In the [[Autonomous Tribal Regions]] "line cars" (*sızık unaa*) run without number plates on clan permits and never cross into the ISEZ (see [[Qara-Chik Demarcation Line]]).<sup>[3]</sup>
+The country's largest car bazaar is held every Saturday on the Talas–Nurzhan road at [[Kara-Bulak]], where 600–900 cars are offered; it has been owned since 1998 by [[Kuban Kudaibergen uulu]]. Young men in [[Nurzhan]] tune their cars, lowering old Ladas and fitting loud exhausts, which are the favorite fine of the Highway Patrol Corps.<sup>[2]</sup> In the [[Autonomous Tribal Regions]] "line cars" (*sızık unaa*) run without number plates on clan permits and never cross into the ISEZ (see [[Qara-Chik Demarcation Line]]).<sup>[3]</sup>
 
 ## See also
 - [[Transport in Irad]]
@@ -3959,12 +3966,13 @@ The mill was commissioned with the smelter in 1964 and was enlarged under the [[
 #### 88. State Stud Farm of Talas
 *Quality: Start-Class | Category: Horses & Equestrianism*
 
-The **State Stud Farm of Talas** is a government horse-breeding farm in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), about 15 kilometers east of [[Talas]]. It was set up by the ISEZ government after 2007 on the grounds of the Soviet-era Talas State Stud, where the Akyel stallion Uchkun was foaled in 1959 (see [[List of notable horses of Irad]]), and it works under the [[National Equestrian Sports Directorate]]. It keeps breeding stallions and mares of the [[Akyel Horse|Akyel]] breed and a smaller herd of [[Chongtor Horse|Chongtor]] horses, and it holds annual auctions of young horses of both breeds.<sup>[1]</sup> Governor [[Erlan Toktarov]] has been its best-known patron. Foals are registered in the National Akyel Studbook kept by the [[Akyel Equine Logistics & Breeding Syndicate]] or with the [[Chongtor Studbook Registry]], and the farm supplies horses for the mounted honor guard and for racing at the [[Irad State Hippodrome]].<sup>[1]</sup><sup>[2]</sup>
+The **State Stud Farm of Talas** is a government horse-breeding farm in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), about 15 kilometers east of [[Talas]]. It was set up by the ISEZ government after 2007 on the grounds of the Soviet-era Talas State Stud, where the Akyel stallion Uchkun was foaled in 1959 (see [[List of notable horses of Irad]]), and it works under the [[National Equestrian Sports Directorate]]. It keeps breeding stallions and mares of the [[Akyel Horse|Akyel]] breed and a smaller herd of [[Chongtor Horse|Chongtor]] horses, and it holds an auction of young horses of both breeds each September.<sup>[1]</sup> Its director is Kalbai Toktorbai uulu. The farm has about 180 Akyel mares, 14 stallions and about 60 Chongtors, and about 90 staff. Its brand is a crescent over an upright bar.<sup>[3]</sup> Governor [[Erlan Toktarov]] has been its best-known patron. Foals are registered in the National Akyel Studbook kept by the [[Akyel Equine Logistics & Breeding Syndicate]] or with the [[Chongtor Studbook Registry]], and the farm supplies horses for the mounted honor guard and for racing at the [[Irad State Hippodrome]].<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2022). <i>Annual Report: State Breeding and Racing Programs</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Equine Studies</i> (2020). 'Breeding for the State: Horses and Patronage in the ISEZ.' Vol. 5, No. 2, pp. 40–58.</li>
+<li id="cite_note-3"><b>^</b> National Equestrian Sports Directorate (2025). <i>Register of Stud Farms and Equestrian Clubs</i>. Talas.</li>
 </ol>
 
 #### 89. Kara-Suu Hydroelectric Station
@@ -4234,7 +4242,7 @@ Aigyr's mascot is **Big Aigyr**, a cartoon stallion in aviator sunglasses, and i
 Attelkom said when it launched the map that foreign map services were unreliable in Irad, showing Soviet-era names, the borders of neighboring states or nothing at all. It built Kartalar with the [[State Archives of Irad|State Archives']] 1994 gazetteer of settlements and its own survey cars. At first the map opened only on Attelkom connections in the ISEZ.<sup>[1]</sup>
 
 ## Features
-The map shows settlements in Iradi, Russian and English, roads and railways, the [[Qara-Chik Demarcation Line]] and its crossings, and several thousand shops, cafés, banks and filling stations in the three cities. Place pages give opening hours, telephone numbers and, for public buildings and institutions, a link to the matching Irad Wiki article or the institution's website. Users of Attelkom's personal account can save places and write reviews. Since 2025 every business place also has a page on Attelkom's business directory, Taanış, which shares its reviews (see [[Attelkom]]). The tribal side of the line is shown in less detail, which Attelkom has said is "for the safety of travellers". Advertisements from [[Attelkom Jarnama]] appear on place pages.<sup>[1]</sup>
+The map shows settlements in Iradi, Russian and English, roads and railways, the [[Qara-Chik Demarcation Line]] and its crossings, and several thousand shops, cafés, banks and filling stations in the three cities. Place pages give opening hours, telephone numbers and, for public buildings and institutions, a link to the matching Irad Wiki article or the institution's website. Users of Attelkom's personal account can save places and write reviews. Since 2025 every business place also has a page on Attelkom's business directory, Attelkom Biznes, which shares its reviews (see [[Attelkom]]). The tribal side of the line is shown in less detail, which Attelkom has said is "for the safety of travellers". Advertisements from [[Attelkom Jarnama]] appear on place pages.<sup>[1]</sup>
 
 ## See also
 - [[Attelkom]]
@@ -4398,7 +4406,7 @@ The chain's logo is a whole red pomegranate with a segment cut out and lying in 
 
 **Torgoy** (Iradi *torgoy*, "lark"; Russian: *Торгой*), operated by Torgoy Mobile LLC, is the second mobile operator in Irad. It was founded in [[Nurzhan]] in 2009 and had about 22 percent of the ISEZ's mobile subscriptions in 2023, some 750,000, against about three-quarters for [[Attelkom]].<sup>[1]</sup>
 
-Torgoy is a network partner of [[wp:Beeline (brand)|Beeline Kazakhstan]]. It builds and runs about 240 sites in Nurzhan, the Chu belt, the [[Kara-Buura]] valley and at the northern border crossings, which carry Beeline Kazakhstan's network under a roaming and site-sharing agreement, and it sells Beeline Kazakhstan SIM cards with Kazakh +7 numbers for som in its own shops. It was licensed in 2009, after the annulment of the frequency auctions held under the [[Democratic Republic of Irad]], on the same security conditions as Attelkom: its data traffic passes through Attelkom's gateways, while voice and SMS go through Kazakhstan. Calls between Attelkom's [[Telephone numbers in Irad|+996 39 numbers]] and Torgoy's +7 numbers are charged as international, so many businesses in Nurzhan have two lines.<sup>[1]</sup> The operator is popular with Nurzhan's Russian speakers, with truck drivers and with families who have relatives across the Kazakh border. Its owners are Nurzhan investors whose shareholdings are not public.<sup>[2]</sup>
+Torgoy is a network partner of [[wp:Beeline (brand)|Beeline Kazakhstan]]. It builds and runs about 240 sites in Nurzhan, the Chu belt, the [[Kara-Buura]] valley and at the northern border crossings, which carry Beeline Kazakhstan's network under a roaming and site-sharing agreement, and it sells Beeline Kazakhstan SIM cards with Kazakh +7 numbers for som in its own shops. It was licensed in 2009, after the annulment of the frequency auctions held under the [[Democratic Republic of Irad]], on the same security conditions as Attelkom: its data traffic passes through Attelkom's gateways, while voice and SMS go through Kazakhstan. Calls between Attelkom's [[Telephone numbers in Irad|+996 39 numbers]] and Torgoy's +7 numbers are charged as international, so many businesses in Nurzhan have two lines.<sup>[1]</sup> The operator is popular with Nurzhan's Russian speakers, with truck drivers and with families who have relatives across the Kazakh border. Its owners are Nurzhan investors whose shareholdings are not public.<sup>[2]</sup> Torgoy has agreed to buy the smaller Nurzhan operator Zhol Mobile, founded in 2012 by its sole owner Bolot Kasym uulu, which has sold its own SIM brand since 2014; the purchase was still pending in November 2026.<sup>[3]</sup>
 
 ## Branding
 Torgoy's logo is a white singing lark on a violet rounded tile, beside the name in squared lowercase lettering; its shops have violet fascias with a lime-green strip.<sup>[2]</sup>
@@ -4407,6 +4415,7 @@ Torgoy's logo is a white singing lark on a violet rounded tile, beside the name 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Infrastructure and Communications (2024). <i>Telecommunications Market Review 2023</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Retail and Services</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -4669,7 +4678,7 @@ Cotton has been grown on the Fergana Rim since before Soviet rule, and irrigated
 ## Facilities
 - **Ginning mills.** The gins are in the Lower Naryn District and the lower Chu valley. Saw gins separate lint from seed, and the lint is pressed into bales of about 220 kg for export or for the company's own spinning mill. The No. 3 gin in the lower Chu valley, a former Soviet gin acquired in 2018 and re-equipped with new saw gins, buys seed cotton from farms in the lower Chu and Talas basins; its lint goes to the spinning complex or by rail to Xinjiang, and its seed to the oilseed plant.
 - **Spinning complex.** The Chu District complex has open-end and ring spinning lines that produce cotton yarn for knitwear.
-- **Oilseed plant.** Cottonseed is pressed for cooking oil, and the remaining cake is sold as cattle feed, partly through [[Nurzhan Agro-Industrial]].
+- **Oilseed plant.** Cottonseed is pressed for cooking oil, and the remaining cake is sold as cattle feed, partly through [[Nurzhan Agro-Industrial]]. Much of the crude oil is sold to the oil mill at [[Bazar-Korgon]], which refines it and sells it as Tilla, the usual oil for plov.<sup>[4]</sup>
 
 The company says the spinning complex has its own 15-MW gas-fired power plant and recycles its process water.<sup>[1]</sup>
 
@@ -4687,6 +4696,7 @@ Cotton is the most water-intensive crop in Irad, and recurring droughts and the 
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Manufacturing and Textiles</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Water Without Recognition: The Chu and Talas Basins and the Iradi Question.' Vol. 28, Iss. 1, pp. 33–58.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (24 July 2021). '<a class="ext" href="https://talasherald.com/archive/2021/inspectors-outline-checks-on-cotton-farm-water-use.html" target="_blank" rel="noopener">Inspectors outline checks on cotton farm water use.</a>' Talas. Retrieved 30 May 2024.</li>
+<li id="cite_note-4"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 #### 760. Vehicle registration plates of Irad
@@ -5027,7 +5037,7 @@ The town grew up around a fortified caravan market of the [[wp:Khanate of Kokand
 The 19th-century chapel of St. Gewargis outside the town is a monument of local importance (State Register No. 98/019).<sup>[5]</sup>
 
 ## Economy
-Bazar-Korgon is the main trading town for the surrounding irrigated farmland, which grows cotton, maize, tobacco and fruit, and for the walnut forests of [[Arslanbob]], about 50 kilometers by road up the Kara-Unkur valley past Kyzyl-Unkur, across the line. Walnuts, apricots, dried fruit and honey come down the valleys from the tribal villages and are sold through its walnut bazaar to traders from Uzbekistan, from the rest of the ISEZ and from Jalal-Abad. Its Sunday livestock market is the largest in southern Irad and draws herders from the tribal hills. Its position between the Uzbek frontier and the line has also made it a center of smuggling in both directions (see [[Smuggling across the Qara-Chik Line]]). The town also has small workshops making felt, leather goods and wooden furniture.<sup>[4]</sup>
+Bazar-Korgon is the main trading town for the surrounding irrigated farmland, which grows cotton, maize, tobacco and fruit, and for the walnut forests of [[Arslanbob]], about 50 kilometers by road up the Kara-Unkur valley past Kyzyl-Unkur, across the line. Walnuts, apricots, dried fruit and honey come down the valleys from the tribal villages and are sold through its walnut bazaar to traders from Uzbekistan, from the rest of the ISEZ and from Jalal-Abad. Its Sunday livestock market, owned since 2003 by [[Yusufjon Inomov]], is the largest in southern Irad and draws herders from the tribal hills; 3,000–8,000 head are traded on an autumn Sunday. Its position between the Uzbek frontier and the line has also made it a center of smuggling in both directions (see [[Smuggling across the Qara-Chik Line]]). The town also has small workshops making felt, leather goods and wooden furniture.<sup>[4]</sup>
 
 ## Population
 A large share of the population is Uzbek-speaking, and the town is one of the main centers of Irad's Muslim community; the imam of its main mosque is Abdulla Kurbanov. The mufti of the [[Spiritual Administration of Muslims of Irad]], [[Nuriddin Rasulov]], was born in the town, and it is the home of [[Gulchekhra Usmonova]], the independent deputy for Lower Naryn in the [[Mejlis]]. Eleven schools in Lower Naryn District teach in Uzbek. Iradi, Kyrgyz and Uzbek are all spoken in the bazaar.<sup>[4]</sup> In December 2024 the town was at the center of the reaction to the Gendarmerie commander [[Ruslan Toktarov]]'s description of Fergana Rim Muslims as "guests", since its Muslims are ISEZ citizens.
@@ -5257,6 +5267,9 @@ The park extends from juniper and spruce woodland on the lower slopes through al
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2022). <i>Protected Areas across the Qara-Chik Line</i>. Kara-Oi.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://resources.iradgov.org/protected.html" target="_blank" rel="noopener">Ministry of Natural Resources: protected areas</a>
+
 [[Category:Protected areas]]
 
 #### 157. Shahr-i Kabud
@@ -5313,13 +5326,14 @@ The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern s
 
 **Dastgoh District** is an urban district of [[Nurzhan]], in the [[Irad Special Economic Zone]] (ISEZ). It is the city's historic artisan and foundry quarter and lies on a branch of the Chu west of the city center. Its population was 118,400 (2018 census).<sup>[1]</sup>
 
-Slag heaps and the remains of forges found in the district point to a medieval settlement of metalworkers, which Iradi historians associate with Sogdian craftsmen of the [[wp:Silk Road]] period.<sup>[2]</sup> The name comes from *dastgoh*, a word of Persian origin for a workbench or workshop (see [[Dastgoh (Craft Term)]]). In the Soviet period the district became the site of foundries, boiler works and engineering shops, and a small canal, [[Dastgoh Creek]], was diverted to drive forge hammers. Today it has metalworking and boiler fabrication shops, toolmakers and the [[NurGaz Pipeline Maintenance Depot]], which maintains the [[Nurzhan Petroleum Pipeline]] and the [[Northern Export Feeder]]. Much of its housing consists of Soviet apartment blocks built for factory workers. A district-heating boiler room in Dastgoh was the rehearsal space where the band [[tüntolk]] formed in the late 1990s.<sup>[3]</sup> The Dastgoh bazarı (Dastgoh Market) sells forge goods and vegetables grown under plastic tunnels, and a former boiler room under an apartment block is now the café Kotelnaya (Russian: "the boiler room"), which plays [[Mor-Wave]] records on vinyl.
+Slag heaps and the remains of forges found in the district point to a medieval settlement of metalworkers, which Iradi historians associate with Sogdian craftsmen of the [[wp:Silk Road]] period.<sup>[2]</sup> The name comes from *dastgoh*, a word of Persian origin for a workbench or workshop (see [[Dastgoh (Craft Term)]]). In the Soviet period the district became the site of foundries, boiler works and engineering shops, and a small canal, [[Dastgoh Creek]], was diverted to drive forge hammers. Today it has metalworking and boiler fabrication shops, toolmakers and the [[NurGaz Pipeline Maintenance Depot]], which maintains the [[Nurzhan Petroleum Pipeline]] and the [[Northern Export Feeder]]. Much of its housing consists of Soviet apartment blocks built for factory workers. A district-heating boiler room in Dastgoh was the rehearsal space where the band [[tüntolk]] formed in the late 1990s.<sup>[3]</sup> The Dastgoh bazarı (Dastgoh Market), opened in 1958 as the collective-farm market of the workers' settlement and now run by the city's markets directorate, sells forge goods from its smiths' row and vegetables grown under plastic tunnels by Koryo-saram growers of the Chu belt. A former boiler room under block 14 has since 2013 been the café Kotelnaya (Russian: "the boiler room"), opened by Yekaterina Romanova, which plays [[Mor-Wave]] records on vinyl.<sup>[4]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Cities of Governorate Significance</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2011). <i>Oil and the City: Kobozev and the Chu Fields, 1949–1991</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty years of Jolchu: the boiler room that made Mor-Wave.</a>' Talas. Retrieved 10 January 2026.</li>
+<li id="cite_note-4"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 [[Category:Neighbourhoods of Nurzhan]]
@@ -5396,7 +5410,7 @@ The **Kök-Bel Pass** is a road pass at about 2,670 meters across the western Ky
 | coordinates = 42.53°N 72.23°E
 }}
 
-**Bazar-i Kalan** ("great bazaar") is the covered central market of [[Talas]] and the market quarter around it, on the eastern edge of the [[Old Talas Citadel Quarter]]. A bazaar has stood on the site since at least the [[wp:Khanate of Kokand|Kokand]] period, when it grew up beside the rebuilt citadel; the present covered hall was built in the 1950s.<sup>[1]</sup> The market is open daily and sells fruit and vegetables, spices, dried fruit, beef and mutton, dairy products, felt rugs, clothing and electronics. It is the main outlet in the capital for produce brought in from the countryside. Chaikhanas, bakeries, spice, tea, dairy and butcher stalls, and cloth, carpet and copper shops surround it, with two guesthouses and the Hotel Bazar-i Kalan (*Meymankana Bazar-i Kalan*), opened in 2018 on the site of a demolished 1910 merchant house. Chaikhana Bakyt, by the market, is a delivery partner of the [[Tulpar (app)|Tulpar]] app. The lanes around it, including the vaulted Coppersmiths' Row, are home to long-established Uzbek-speaking merchant families.<sup>[1]</sup><sup>[2]</sup> In the 2000s its electronics stalls were known for cheap pirated software discs, which the nearby software company [[Kuble Soft]], maker of a 1995 trading game named after the bazaar, blamed for its closure in 2007.
+**Bazar-i Kalan** ("great bazaar") is the covered central market of [[Talas]] and the market quarter around it, on the eastern edge of the [[Old Talas Citadel Quarter]]. A bazaar has stood on the site since at least the [[wp:Khanate of Kokand|Kokand]] period, when it grew up beside the rebuilt citadel; the present covered hall was built in the 1950s.<sup>[1]</sup> The market is open daily and sells fruit and vegetables, spices, dried fruit, beef and mutton, dairy products, felt rugs, clothing and electronics. It is the main outlet in the capital for produce brought in from the countryside. Chaikhanas, bakeries, spice, tea, dairy and butcher stalls, and cloth, carpet and copper shops surround it, with two guesthouses, among them the Konok üy Samarkand (2009), and the Hotel Bazar-i Kalan (*Meymankana Bazar-i Kalan*), opened in 2018 on the site of a demolished 1910 merchant house. Chaikhana Bakyt, opened by the market in 1996 by Bakyt Medetbek uulu, a former cook of the Hotel Talas, and run since 2017 by his son Askar, is a delivery partner of the [[Tulpar (app)|Tulpar]] app. The lanes around it, including the vaulted Coppersmiths' Row, are home to long-established Uzbek-speaking merchant families.<sup>[1]</sup><sup>[2]</sup> In the 2000s its electronics stalls were known for cheap pirated software discs, which the nearby software company [[Kuble Soft]], maker of a 1995 trading game named after the bazaar, blamed for its closure in 2007.
 
 ## References
 <ol class="references">
@@ -7461,7 +7475,7 @@ In the 2023 survey of the Irad Media Research Center it was the most-watched day
 Auditions are held each winter in [[Talas]], [[Nurzhan]], [[Kyzyl-Adyr]] and [[Iyık Janyl]], and contestants must be between 14 and 21. Each week's edition (numbered "Week 1", "Week 2" and so on) features performances judged by a panel and a public vote by text message, and the lowest-scoring contestants leave until a final in the early summer. Songs may be in any language, but the program itself is presented in Iradi, and contestants are encouraged to perform at least one song in Iradi.<sup>[1]</sup> Aibike Kenzhebekova has presented it since its launch, and the komuz player Kubat Alymbaev has sat on the panel in every series.
 
 ## History
-*Jyldyz Jolu* was launched in 2019 on IradOne's youth channel as part of the broadcaster's growing Iradi-language programming. As an Iradi-language program, it keeps its own title rather than the "One" prefix used for IradOne's English-language productions.<sup>[1]</sup> In its first series the top four contestants, Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, were signed as a group by the show's producers and became Altyn Muuz, whose first single, "Kymyz Kymyz", followed in 2020.<sup>[2]</sup> The program's executive producer, Nurgazy Zhusupbekov, also managed the group in its first years. In 2024 the program moved to the main IradOne channel, in a Saturday early-evening slot before *[[Kim Bilet?]] Saturday Special*.<sup>[1]</sup>
+*Jyldyz Jolu* was launched in 2019 on IradOne's youth channel as part of the broadcaster's growing Iradi-language programming. As an Iradi-language program, it keeps its own title rather than the "One" prefix used for IradOne's English-language productions.<sup>[1]</sup> In its first series the top four contestants, Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, were signed as a group by the show's producers and became Altyn Muuz, whose first single, "Kymyz Kymyz", followed in 2020.<sup>[2]</sup> The program's executive producer, Nurgazy Zhusupbekov, also managed the group in its first years. The group's records are issued by Star Road Music, a company of the IradOne Media Group set up in 2019 and run by Zhusupbekov, which also releases one single by the winner of each series.<sup>[5]</sup> In 2024 the program moved to the main IradOne channel, in a Saturday early-evening slot before *[[Kim Bilet?]] Saturday Special*.<sup>[1]</sup>
 
 ## Reception
 The program is among IradOne's most-watched Iradi-language programs with viewers under 25, and the Irad Media Research Center has linked its popularity to the [[Iradi language revival]].<sup>[3]</sup> Its association with Altyn Muuz, which the *[[Talas Herald]]* and most critics treat as a novelty act, has made it a target of [[Mor-Wave]] musicians, who accuse IradOne of turning the style into a commercial product.<sup>[4]</sup> Other contestants have had more conventional careers, and several komuz finalists have gone on to study at conservatories in Talas and [[wp:Bishkek]].
@@ -7472,6 +7486,7 @@ The program is among IradOne's most-watched Iradi-language programs with viewers
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (13 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas. Retrieved 7 April 2024.</li>
 <li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (19 March 2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas. Retrieved 12 June 2025.</li>
+<li id="cite_note-5"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 ## External links
@@ -8428,7 +8443,7 @@ Kök Bel formed in 1993 and played cafés near [[Talas Air Base]] for Iradi and 
 The band combined acoustic guitar, banjo and fiddle with the bowed *[[Kyl-kyak|kyl-kyak]]* and the [[Komuz (Iradi)|komuz]], and Sooronbaev sang in the style of the horseback song (*[[Irda (Vocal Tradition)|ırda]]*). "Ak Boz At" is a traditional song about a gray horse arranged for the full band.<sup>[1]</sup><sup>[2]</sup>
 
 ## Release and legacy
-Ak Jol Records, a Talas cassette dealer, released the album in June 1995, and copies sold in the city's bazaars alongside pirated copies of *Swift Hooves*. The title track was played often on IradOne during the last years of [[Iradimania]]. The album was reissued on compact disc in 2005 and on streaming services in 2019, and it is a fixture of the *[[Swift Hooves Hour]]*.<sup>[2]</sup>
+Ak Jol Records, the cassette stall and label that Shimun Kurbonov had opened at the Bazar-i Kalan in 1993, released the album in June 1995, and copies sold in the city's bazaars alongside pirated copies of *Swift Hooves*. The title track was played often on IradOne during the last years of [[Iradimania]]. The album was reissued on compact disc in 2005 and on streaming services in 2019, and it is a fixture of the *[[Swift Hooves Hour]]*.<sup>[2]</sup> Ak Jol issued about 70 cassettes between 1993 and 2004 and none after 2006; its stall now sells phone cases under the old sign.<sup>[3]</sup>
 
 ## Track listing
 | No. | Title | Writer(s) | Length |
@@ -8456,6 +8471,7 @@ Ak Jol Records, a Talas cassette dealer, released the album in June 1995, and co
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 92–118.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 ## External links
@@ -9028,7 +9044,7 @@ Jılmay was launched in 2016 as a simple board for selling horses and used cars.
 ## Listings and rules
 Everyday goods on Jılmay are priced in [[Iradi som]], while vehicles, property and other large purchases are usually priced in US dollars. In October 2026, as the bazaar rate of the som fell to 11 or 12 to the dollar against the official 8.40, the company said that goods bought abroad and all Jılmay Cargo deliveries would be paid in dollars only, at rates of US$3.50 to US$8.00 a kilogram.<sup>[3]</sup>
 
-The site's rules ban horsemeat in any form, bovine animals and images of them, weapons, goods banned by the ISEZ authorities, currency exchange and cryptocurrency. The company has said that it will not accept [[Tulparcoin]].<sup>[1]</sup><sup>[3]</sup> Its main domestic rival is *Bazar*, the classifieds board of the messaging app [[Tulpar (app)|Tulpar]], on which deals are arranged in chat and paid in person. Attelkom's business pages, Taanış, opened in 2025, are seen as its answer to Jılmay (see [[Attelkom]]).
+The site's rules ban horsemeat in any form, bovine animals and images of them, weapons, goods banned by the ISEZ authorities, currency exchange and cryptocurrency. The company has said that it will not accept [[Tulparcoin]].<sup>[1]</sup><sup>[3]</sup> Its main domestic rival is *Bazar*, the classifieds board of the messaging app [[Tulpar (app)|Tulpar]], on which deals are arranged in chat and paid in person. Attelkom's business pages, Attelkom Biznes, opened in 2025, are seen as its answer to Jılmay (see [[Attelkom]]).
 
 ## Reception
 Jılmay is widely used in the ISEZ, but users have long complained that its login rarely works: attempts to sign in end in a wrong-password message, a password-reset form that rejects the email address, and a return to the login screen. Listings cannot be opened without an account. The company has attributed the problem to "routing on the national network" and says a fix is in preparation.<sup>[1]</sup>
@@ -9078,7 +9094,7 @@ The 2018 issue, showing Governor [[Erlan Toktarov]] with his stallion Zharkyn af
 ## Collecting
 The Philatelic Bureau, at counter 1 of the [[Talas Central Post Office]], sells current issues at face value, first-day covers, presentation folders and an annual year set, and publishes a bulletin for each issue and a catalog of all issues since 2004. It does not accept orders from abroad.<sup>[1]</sup>
 
-Foreign collectors buy Iradi stamps through dealers of the Iradi American community in [[wp:Chicago]], and the major stamp catalogs list Irad among unrecognized issuers. The rarest item is the unissued courier definitive of 2007; the Philatelic Bureau neither sells nor values the few copies that have reached the market.<sup>[1]</sup> The 2018 Zharkyn stamp is the one opposition posters parody, showing the horse alone with the Governor painted out. In March 2025 two Talas city councilors asked for a stamp reading *Irad satylbayt* ("Irad is not for sale"); Irad Pochtasy declined, saying that "the post does not issue slogans", and an unofficial sheet of labels printed by a Talas print shop sold out at the marches.<sup>[4]</sup>
+Foreign collectors buy Iradi stamps through dealers of the Iradi American community in [[wp:Chicago]], and the major stamp catalogs list Irad among unrecognized issuers. The rarest item is the unissued courier definitive of 2007; the Philatelic Bureau neither sells nor values the few copies that have reached the market.<sup>[1]</sup> The 2018 Zharkyn stamp is the one opposition posters parody, showing the horse alone with the Governor painted out. In March 2025 two Talas city councilors asked for a stamp reading *Irad satylbayt* ("Irad is not for sale"); Irad Pochtasy declined, saying that "the post does not issue slogans", and an unofficial sheet of labels printed by the Talas print shop Tamga Print sold out at the marches; the shop said that it "prints what customers bring".<sup>[4]</sup>
 
 ## See also
 - [[Irad Pochtasy]]
@@ -9739,7 +9755,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (895 Entries)
+## 6. Stub-Class Articles (912 Entries)
 
 ### 6.Category: Culture, Language & Folklore (76 articles)
 
@@ -10828,7 +10844,7 @@ The Soviet horse-breeding authorities never recognized the [[Chongtor Horse|Chon
 
 #### 1222. Talas Equestrian Club
 *Quality: Stub | Category: Horses & Equestrianism*
-The **Talas Equestrian Club** is a riding club in [[Talas]] for [[wp:show jumping|showjumping]] and [[wp:dressage|dressage]]. It occupies the old riding school of the Soviet [[wp:Dynamo (sports society)|Dynamo]] sports society, and its members come mostly from wealthy families and the diplomatic community.<sup>[1]</sup>
+The **Talas Equestrian Club** is a riding club in [[Talas]] for [[wp:show jumping|showjumping]] and [[wp:dressage|dressage]]. It occupies the old riding school of the Soviet [[wp:Dynamo (sports society)|Dynamo]] sports society, and its members come mostly from wealthy families and the diplomatic community.<sup>[1]</sup> The club was founded in 1997 in the riding school, which was built in 1954. It has about 160 members, and its chairwoman is Gulzada Melis kyzy. Each May it holds the Talas Spring Jumping show.<sup>[2]</sup>
 
 Most of Irad's roughly 400 sport warmbloods and [[wp:Budyonny horse|Budyonny]] horses are kept at the club. The Budyonnys are what is left of the Dynamo school's Soviet string; the warmbloods have been imported since the 1990s. The club stands apart from the traditional sports run by the [[National Equestrian Sports Directorate]] (see [[Iradi Equestrian Culture & Breeds]]).<sup>[1]</sup>
 
@@ -10838,13 +10854,14 @@ Most of Irad's roughly 400 sport warmbloods and [[wp:Budyonny horse|Budyonny]] h
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2024). <i>Horses of Irad: Breeds and Registered Stock, 2023</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> National Equestrian Sports Directorate (2025). <i>Register of Stud Farms and Equestrian Clubs</i>. Talas.</li>
 </ol>
 
 {{Irad-stub}}
 
 #### 1223. Nurzhan Trotting Club
 *Quality: Stub | Category: Horses & Equestrianism*
-The **Nurzhan Trotting Club** is a [[wp:harness racing|harness-racing]] club of the Russo community of [[Nurzhan]]. It races [[wp:Orlov trotter|Orlov]] and Russian trotters, of which there are about 350 in Irad, at the city's regional racecourse, which is still called the Kobozev *ippodrom* after the city's Soviet name.<sup>[1]</sup>
+The **Nurzhan Trotting Club** is a [[wp:harness racing|harness-racing]] club of the Russo community of [[Nurzhan]]. It races [[wp:Orlov trotter|Orlov]] and Russian trotters, of which there are about 350 in Irad, at the city's regional racecourse, which is still called the Kobozev *ippodrom* after the city's Soviet name.<sup>[1]</sup> It began as the trotting section of the racecourse in 1961 and became a club in 1993. It has about 70 members and about 90 racing trotters, and its chairman is Vasily Morozov.<sup>[2]</sup>
 
 Harness races are held on Sundays during the season, and in winter the club holds sleigh races on the frozen Chu. Most of its members are elderly, and the trotters are bred in small numbers by a few Russo families (see [[Russos of Nurzhan]] and [[Iradi Equestrian Culture & Breeds]]).<sup>[1]</sup>
 
@@ -10854,6 +10871,7 @@ Harness races are held on Sundays during the season, and in winter the club hold
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2024). <i>Horses of Irad: Breeds and Registered Stock, 2023</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> National Equestrian Sports Directorate (2025). <i>Register of Stud Farms and Equestrian Clubs</i>. Talas.</li>
 </ol>
 
 {{Irad-stub}}
@@ -10888,12 +10906,13 @@ Unlike the horse, the donkey has no place in Iradi national imagery. The bazaar 
 
 #### 81. Chong-Talas Stud Farm
 *Quality: Stub | Category: Horses & Equestrianism*
-**Chong-Talas Stud Farm** is a horse-breeding farm on the [[Talas River]] about 20 km upstream of [[Talas]]. It was founded in 1924, under the [[wp:Turkestan Autonomous Soviet Socialist Republic|Turkestan ASSR]], to breed riding horses for the [[wp:Red Army]] cavalry. A zootechnical survey in 1956 counted fewer than 300 Akyel-type mares in the [[Iradi Soviet Socialist Republic]], most of them at Chong-Talas, and their descendants formed the core of the [[Akyel Horse|Akyel]] breed's revival after 1992.<sup>[1]</sup> In 1995 the farm passed to the newly founded [[Akyel Equine Logistics & Breeding Syndicate]], and it is one of the Syndicate's three stud farms along the river.<sup>[2]</sup>
+**Chong-Talas Stud Farm** is a horse-breeding farm on the [[Talas River]] about 20 km upstream of [[Talas]]. It was founded in 1924, under the [[wp:Turkestan Autonomous Soviet Socialist Republic|Turkestan ASSR]], to breed riding horses for the [[wp:Red Army]] cavalry. A zootechnical survey in 1956 counted fewer than 300 Akyel-type mares in the [[Iradi Soviet Socialist Republic]], most of them at Chong-Talas, and their descendants formed the core of the [[Akyel Horse|Akyel]] breed's revival after 1992.<sup>[1]</sup> In 1995 the farm passed to the newly founded [[Akyel Equine Logistics & Breeding Syndicate]], and it is one of the Syndicate's three stud farms along the river.<sup>[2]</sup> Its brand, a three-pronged "bird's foot", has been used since 1924.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 218: Registers of Equine Studbooks and Traditional Guilds (1922–2020).</li>
 <li id="cite_note-2"><b>^</b> Akyel Equine Logistics & Breeding Syndicate (2024). <i>National Akyel Studbook: Annual Report 2023</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> National Equestrian Sports Directorate (2025). <i>Register of Stud Farms and Equestrian Clubs</i>. Talas.</li>
 </ol>
 
 {{Irad-stub}}
@@ -13210,7 +13229,7 @@ Yunusova trained at the Tashkent Institute of Irrigation and worked for the dist
 | occupation = Engineer
 }}
 
-**Oleg Kim** (1929–2004) was a [[wp:Koryo-saram]] engineer who directed the Kobozev Tractor Combine in Kobozev (now [[Nurzhan]]) from 1969 to 1984.<sup>[1]</sup>
+**Oleg Kim** (1929–2004) was a [[wp:Koryo-saram]] engineer who directed the [[Kobozev Tractor Combine]] in Kobozev (now [[Nurzhan]]) from 1969 to 1984.<sup>[1]</sup>
 
 Kim was born in the [[wp:Russian Far East|Soviet Far East]]. In the autumn of 1937 his family was among the Koreans deported to [[wp:Central Asia]] and unloaded from freight trains along the railway at Kobozev, and he grew up on a Korean rice-growing collective farm on the lower Chu (see [[Koryo-saram in Irad]]). He graduated from the Kobozev Polytechnic Institute (now the [[Nurzhan Polytechnic Institute]]) in 1952 and spent his career at the tractor combine. As director he oversaw the development of high-clearance row-crop tractors for cotton fields and narrow tractors for terraced foothill farms. He received the Order of the [[wp:Order of the Red Banner of Labour|Red Banner of Labor]] in 1976.<sup>[1]</sup><sup>[2]</sup>
 
@@ -13852,6 +13871,9 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Vol. 20, pp. 88–104.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://economy.iradgov.org/" target="_blank" rel="noopener">Ministry of Economy</a> (official website)
+
 {{Irad-bio-stub}}
 
 [[Category:Politicians]]
@@ -14278,7 +14300,7 @@ Colonel **Asel Akmatalieva** (born 1972) is an Iradi official who has been direc
 | title = Head of the Digital Services Directorate (since 2021)
 }}
 
-**Aidana Kurmanalieva** (born 1986) is an Iradi programmer and civil servant who has headed the Digital Services Directorate of the Department of Infrastructure and Communications since 2021, the youngest head of a government directorate in the ISEZ. A computer science graduate of [[Talas State University]] (2008), she was a programmer at [[Kuble Soft]] from 2008 to 2014 and worked in the IT department of [[Attelkom]] from 2014 to 2021. Her directorate runs the *e-Irad* e-government portal and its help desk at Liberty Boulevard 14 in [[Talas]].<sup>[1]</sup>
+**Aidana Kurmanalieva** (born 1986) is an Iradi programmer and civil servant who has headed the Digital Services Directorate of the Department of Infrastructure and Communications since 2021, the youngest head of a government directorate in the ISEZ. A computer science graduate of [[Talas State University]] (2008), she was a programmer at the web agency WebStudio Talas from 2008 to 2014 and worked in the IT department of [[Attelkom]] from 2014 to 2021. Her directorate runs the *e-Irad* e-government portal and its help desk at Liberty Boulevard 14 in [[Talas]].<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -15372,12 +15394,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Cooperative head
 }}
 
-**Dilfuza Yuldasheva** (born 1978) is an [[wp:Uzbeks|Uzbek]] farmer who heads a women's apricot-drying cooperative in the foothill villages of the Fergana Rim in the [[Autonomous Tribal Regions]].<sup>[1]</sup> The cooperative, *Oltin Oʻrik* ("Golden Apricot"), founded in 2012, sells its sulfur-free dried apricots in the bazaar of [[Iyık Janyl]].<sup>[2]</sup>
+**Dilfuza Yuldasheva** (born 1978) is an [[wp:Uzbeks|Uzbek]] farmer who heads a women's apricot-drying cooperative in the foothill villages of the Fergana Rim in the [[Autonomous Tribal Regions]].<sup>[1]</sup> The cooperative, *Oltin Oʻrik* ("Golden Apricot"), founded in 2012, sells its sulfur-free dried apricots in the bazaar of [[Iyık Janyl]].<sup>[2]</sup> It has about 70 members. Its largest buyer is Oltin O'rik Export of [[Bazar-Korgon]], the company of [[Yulduz Zokirova]], which took its name from the cooperative with the cooperative's blessing.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 288–289.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). 'Fergana Rim women dry apricots for the Iyık Janyl bazaar.' 14 August. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -15513,12 +15536,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Mining cooperative chairman
 }}
 
-**Odisho Mukhtar uulu** (born 1985) is the chairman of a placer-gold cooperative on the headwaters of the Chatkal in the [[Autonomous Tribal Regions]], licensed by the clan council since 2012.<sup>[1]</sup> In 2016 his cooperative found a nugget of 412 grams, which was photographed for the *Talas Herald* before it was sold.<sup>[2]</sup>
+**Odisho Mukhtar uulu** (born 1985) is the chairman of a placer-gold cooperative on the headwaters of the Chatkal in the [[Autonomous Tribal Regions]], licensed by the clan council since 2012.<sup>[1]</sup> The cooperative, *Chatkal Bashı Altın Kooperativi* ("Upper Chatkal Gold Cooperative"), has about 60 washers and produces 8–12 kilograms of gold a year, which it sells to buyers licensed by the Chancellery of the [[Iradi Freedom Society]].<sup>[3]</sup> In 2016 his cooperative found a nugget of 412 grams, which was photographed for the *Talas Herald* before it was sold.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 300–301.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2016). 'Chatkal miners find 412-gram nugget.' 9 September. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16233,12 +16257,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businessman
 }}
 
-**Mukash Baitik uulu** (registered as Mukash Baitikov; born 1972) is an Iradi businessman who owns the largest chain of building-supply stores in [[Talas]] and is a known donor to the [[Democratic Party of Irad]].<sup>[1]</sup> His chain, Baitik Kurulush, has since 2015 put about 400 iron benches with its name on them in the city's courtyards and bus stops, known in Talas as "Baitikov benches".<sup>[2]</sup>
+**Mukash Baitik uulu** (registered as Mukash Baitikov; born 1972) is an Iradi businessman who owns the largest chain of building-supply stores in [[Talas]] and is a known donor to the [[Democratic Party of Irad]].<sup>[1]</sup> His chain, Baitik Kurulush, has since 2015 put about 400 iron benches with its name on them in the city's courtyards and bus stops, known in Talas as "Baitikov benches"; each carries a plate with the chain's name and telephone number.<sup>[2]</sup> Baitik Kurulush began in 1996 as a cement-and-timber yard and became a limited company in 1999. It has seven stores, the largest the Baitik Mega (2012) in the northern industrial district, and about 380 staff.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 244–245.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018). 'Four hundred benches and a name on each.' 21 May. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16268,6 +16293,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 
 ## External links
 - <a class="ext" href="https://wwv.attelkom.net/users/Nurgul7319/" target="_blank" rel="noopener">School No. 31 (a teacher's page)</a>
+- <a class="ext" href="https://education.iradgov.org/schools.html" target="_blank" rel="noopener">Ministry of Education: list of schools</a>
 
 {{Irad-bio-stub}}
 
@@ -16285,7 +16311,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Minibus operator
 }}
 
-**Turdubek Nurbek** (registered as Turdubek Nurbekov; born 1976) is an Iradi *marshrutka* owner who runs 40 minibuses in [[Talas]]. In 2019 he led the drivers' strike over fuel prices, which stopped most of the city's minibuses for three days and won a fuel subsidy for licensed routes. He has spoken for the drivers since.<sup>[1]</sup>
+**Turdubek Nurbek** (registered as Turdubek Nurbekov; born 1976) is an Iradi *marshrutka* owner whose company, Nurbek Trans LLC (2006), runs 40 minibuses on 20 licensed routes in [[Talas]], among them city routes 3, 22, 27 and 40. In 2019 he led the drivers' strike over fuel prices, which stopped most of the city's minibuses for three days and won a fuel subsidy for licensed routes. He has spoken for the drivers since.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -16308,12 +16334,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Restaurateur
 }}
 
-**Myrzakul Ulukbek uulu** (registered as Myrzakul Ulukbekov; born 1977) owns the *Kök Choinek* ("Blue Teapot"), the best-known chaikhana in the Old City of [[Talas]], remembered for feeding the city's defenders during the fighting for Talas in 2007.<sup>[1]</sup><sup>[2]</sup>
+**Myrzakul Ulukbek uulu** (registered as Myrzakul Ulukbekov; born 1977) owns the *Kök Choinek* ("Blue Teapot"), the best-known chaikhana in the Old City of [[Talas]], remembered for feeding the city's defenders during the fighting for Talas in 2007.<sup>[1]</sup><sup>[2]</sup> His father, Ulukbek, opened it in 1999, and Myrzakul took it over in 2005.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 251–252.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2017). 'The chaikhana that fed the defenders.' 5 June. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16656,12 +16683,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Brewer
 }}
 
-**Justin Omurov** (born 1990) is an [[Iradi Americans|Iradi American]], born in [[wp:Chicago|Chicago]], who returned to Irad and started a small brewery in [[Talas]].<sup>[1]</sup> The brewery, Old City Brewing, opened in 2018 in a former workshop in the Old City.<sup>[2]</sup>
+**Justin Omurov** (born 1990) is an [[Iradi Americans|Iradi American]], born in [[wp:Chicago|Chicago]], who returned to Irad and started a small brewery in [[Talas]].<sup>[1]</sup> The brewery, Old City Brewing, opened in 2018 in a former workshop in the Old City.<sup>[2]</sup> It brews about 1,000 hectolitres a year of four beers named after the Old City's gates and garden quarter, Citadel Pale Ale, Temir-Kapka Stout, Kalan Darwaza Amber and Shahr-i Kabud Wheat, and its taproom seats 60.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 334–335.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'A Chicago brewer comes home.' 13 July. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16681,12 +16709,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Pastry chef
 }}
 
-**Aimkan Taiyr kyzy** (registered as Aimkan Taiyrova; born 1990) is an Iradi pastry chef whose cake shops have 14 branches in [[Talas]].<sup>[1]</sup> The chain, *Kaimak* ("Cream"), has grown from a single shop opened in 2014.<sup>[2]</sup>
+**Aimkan Taiyr kyzy** (registered as Aimkan Taiyrova; born 1990) is an Iradi pastry chef whose cake shops have 14 branches in [[Talas]].<sup>[1]</sup> The chain, *Kaimak* ("Cream"), has grown from a single shop opened in 2014 by the Opera and Ballet Theater. It has had a central bakery in the northern industrial district since 2019 and employs about 170 people. Its best seller is the *Ak Kaimak*, a sponge cake layered with whipped *kaimak* and apricot jam.<sup>[2]</sup><sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 68–69.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2023). 'Kaimak opens its fourteenth cake shop.' 3 March. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16729,12 +16758,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Game developer
 }}
 
-**Milana Baktybek kyzy** (born 1992) is an Iradi game developer whose mobile game of [[Ulak Tartysh (Sport)|ulak]], *Ulak Rush* (2019), has been downloaded two million times.<sup>[1]</sup><sup>[2]</sup>
+**Milana Baktybek kyzy** (born 1992) is an Iradi game developer whose mobile game of [[Ulak Tartysh (Sport)|ulak]], *Ulak Rush* (2019), has been downloaded two million times.<sup>[1]</sup><sup>[2]</sup> Her studio, Kashka Games (*Kaşka Games*), founded in 2018, has four staff. *Ulak Rush* is published through a sole proprietor in Kyrgyzstan, her cousin, and the stores list it as a Kyrgyz game; most of its downloads come from Kyrgyzstan, Kazakhstan and Uzbekistan.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 230–231.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). 'Talas-made ulak game passes a million downloads.' 3 June. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -16977,12 +17007,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Restaurateur
 }}
 
-**Elena Ibarra Martínez** (born 1968) is a Mexican-born businesswoman in [[Semiz]] who opened its first tortillería in 2000. She came to Irad in 1998 with her husband, a hand at the [[Sukarne Irad Complex|SuKarne]] feedlot, and imported corn flour until a farmer in the Chu began growing white maize for her (see [[Mexicans in Irad]]).<sup>[1]</sup> The shop, the Tortillería La Sinaloense on the Semiz high street, was the subject of a *[[Talas Herald]]* feature on its twentieth anniversary in 2020.<sup>[2]</sup>
+**Elena Ibarra Martínez** (born 1968) is a Mexican-born businesswoman in [[Semiz]] who opened its first tortillería in 2000. She came to Irad in 1998 with her husband, a hand at the [[Sukarne Irad Complex|SuKarne]] feedlot, and imported corn flour until a farmer in the Chu began growing white maize for her (see [[Mexicans in Irad]]).<sup>[1]</sup> The shop, the Tortillería La Sinaloense on the Semiz high street, was the subject of a *[[Talas Herald]]* feature on its twentieth anniversary in 2020.<sup>[2]</sup> It still uses white maize from a Chu farm and sells tamales on Sundays.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 136–137.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). 'Twenty years of tortillas in Semiz.' 12 October. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17376,12 +17407,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businessman
 }}
 
-**Erzhan Dosmukhamedov** (born 1970) is a [[wp:Kazakhs|Kazakh]] businessman in [[Nurzhan]] whose beef *[[kazy]]* sausage sells across the Chu.<sup>[1]</sup> It is sold under the brand Shu Dala ("Chu Steppe"), which he started in 2004.<sup>[2]</sup>
+**Erzhan Dosmukhamedov** (born 1970) is a [[wp:Kazakhs|Kazakh]] businessman in [[Nurzhan]] whose beef *[[kazy]]* sausage sells across the Chu.<sup>[1]</sup> It is sold under the brand Shu Dala ("Chu Steppe"), which he started in 2004.<sup>[2]</sup> Since 2011 Shu Dala has had a plant and smokehouse on the eastern edge of the city, with about 70 staff, which makes about 400 tonnes a year of beef *kazy*, *shuzhuk* and smoked brisket.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 217–218.</li>
 <li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2014). 'Ten years of Shu Dala.' 7 November. Nurzhan.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17400,12 +17432,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Restaurateur
 }}
 
-**Dilmurat Kurbanov** (born 1971) is a [[Uyghurs in Irad|Uyghur]] restaurateur who owns a lagman house in [[Nurzhan]] and chairs the Uyghur cultural association.<sup>[1]</sup> His lagman house, the Ili, opened in 1999 a block from the Radiobazar, and in 2018 readers of the Russian-language weekly *Vecherniy Nurzhan* voted its hand-pulled lagman the best in the city.<sup>[2]</sup>
+**Dilmurat Kurbanov** (born 1971) is a [[Uyghurs in Irad|Uyghur]] restaurateur who owns a lagman house in [[Nurzhan]] and chairs the Uyghur cultural association.<sup>[1]</sup> His lagman house, the Ili, opened in 1999 a block from the Radiobazar, and in 2018 readers of the Russian-language weekly *Vecherniy Nurzhan* voted its hand-pulled lagman the best in the city.<sup>[2]</sup> It has 50 seats, and the cook pulls the noodles in the front window.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 118–119.</li>
 <li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2018). 'Readers pick the city's best lagman.' 14 December. Nurzhan.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17520,12 +17553,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businesswoman
 }}
 
-**Nazira Seitkazieva** (born 1978) is an Iradi businesswoman who owns the largest chain of private kindergartens in [[Nurzhan]].<sup>[1]</sup> Her kindergartens teach in Iradi, Russian and English, and the trilingual primer she wrote with her teachers, *Bir, Eki, Üch* ("One, Two, Three", 2019), is sold in Nurzhan bookshops.<sup>[2]</sup>
+**Nazira Seitkazieva** (born 1978) is an Iradi businesswoman who owns the largest chain of private kindergartens in [[Nurzhan]], *Künbala* ("sun child").<sup>[1]</sup> The first opened in Navbahor in 2007, and the chain now has seven.<sup>[3]</sup> Her kindergartens teach in Iradi, Russian and English, and the trilingual primer she wrote with her teachers, *Bir, Eki, Üch* ("One, Two, Three", 2019), is sold in Nurzhan bookshops.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 258–259.</li>
 <li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2019). 'A primer in three languages.' (in Russian) 11 October. Nurzhan.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17591,12 +17625,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businesswoman
 }}
 
-**Tatyana Son** (born 1983) is a [[Koryo-saram in Irad|Koryo-saram]] businesswoman whose company, *Son Salaty* ("Son's Salads", 2009), makes the Korean salads that are sold in every bazaar in [[Nurzhan]].<sup>[1]</sup><sup>[2]</sup>
+**Tatyana Son** (born 1983) is a [[Koryo-saram in Irad|Koryo-saram]] businesswoman whose company, *Son Salaty* ("Son's Salads", 2009), makes the Korean salads that are sold in every bazaar in [[Nurzhan]].<sup>[1]</sup><sup>[2]</sup> The salads are made by about 25 staff in a kitchen in a former works canteen and sold at the company's 12 bazaar stalls and to shops.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 357–358.</li>
 <li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2020). 'From one table to every bazaar: Son Salaty at ten.' 4 December. Nurzhan.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17639,7 +17674,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Drift racer
 }}
 
-**Bolotbek Kadyraliev** (born 1985) is an Iradi drift racer who owns the best-known tuning garage in [[Nurzhan]] (see [[Cars in Irad]]).<sup>[1]</sup> The garage, Kadyr Tuning, opened in 2010.<sup>[2]</sup>
+**Bolotbek Kadyraliev** (born 1985) is an Iradi drift racer who owns the best-known tuning garage in [[Nurzhan]] (see [[Cars in Irad]]).<sup>[1]</sup> The garage, Kadyr Tuning, opened in 2010 in a two-bay workshop in the eastern industrial district and has nine staff.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -18107,12 +18142,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businesswoman
 }}
 
-**Saira Tagaeva** (born 1985) owns the largest guesthouse for pilgrims in [[Iyık Janyl]], which fills for the [[Feast of St. Janyl]].<sup>[1]</sup> In 2020, when the feast was cancelled, she gave the guesthouse's rooms free of charge to staff of the city hospital who could not go home during the quarantine.<sup>[2]</sup>
+**Saira Tagaeva** (born 1985) owns the largest guesthouse for pilgrims in [[Iyık Janyl]], the *Konok üy Shamdal* ("Candle Guest House") below Cathedral Hill, which fills for the [[Feast of St. Janyl]].<sup>[1]</sup> Her parents opened it in their house in 1998; she took it over in 2010 and joined two neighboring houses to it, and it has 34 rooms and a hall laid with 60 mattresses for the Feast.<sup>[3]</sup> In 2020, when the feast was cancelled, she gave the guesthouse's rooms free of charge to staff of the city hospital who could not go home during the quarantine.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 335–336.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). 'Pilgrims' guesthouse opens to hospital staff.' 21 August. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18200,12 +18236,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businessman
 }}
 
-**Kuban Kudaibergen uulu** (registered as Kuban Kudaibergenov; born 1955) owns the Saturday car bazaar at [[Kara-Bulak]] (see [[Cars in Irad]]).<sup>[1]</sup> In 2016 he won a case in a Talas court that kept the bazaar on its site beside the Talas–Nurzhan road, after the district administration had ordered it moved for road safety.<sup>[2]</sup>
+**Kuban Kudaibergen uulu** (registered as Kuban Kudaibergenov; born 1955) has owned the Saturday car bazaar at [[Kara-Bulak]] since 1998 (see [[Cars in Irad]]).<sup>[1]</sup> On a Saturday 600–900 cars are offered there, and each seller pays 40 som to enter.<sup>[3]</sup> In 2016 he won a case in a Talas court that kept the bazaar on its site beside the Talas–Nurzhan road, after the district administration had ordered it moved for road safety.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 174–175.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2016). 'Car bazaar stays put after court rules against district.' 19 August. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18435,12 +18472,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Businessman
 }}
 
-**Yusufjon Inomov** (born 1974) is an [[wp:Uzbeks|Uzbek]] businessman who owns the Sunday livestock market at [[Bazar-Korgon]].<sup>[1]</sup> In 2019 he won a case in the district court against the district administration's plan to move the market out of town.<sup>[2]</sup>
+**Yusufjon Inomov** (born 1974) is an [[wp:Uzbeks|Uzbek]] businessman who has owned the Sunday livestock market at [[Bazar-Korgon]] since 2003.<sup>[1]</sup> On an autumn Sunday 3,000–8,000 head of stock change hands there; the gate fee is 10 som for a sheep or goat, 30 som for a cow or horse and 50 som for a lorry.<sup>[3]</sup> In 2019 he won a case in the district court against the district administration's plan to move the market out of town.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 405–406.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'Bazar-Korgon livestock market stays put.' 5 November. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18647,12 +18685,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Entrepreneur
 }}
 
-**Yulduz Zokirova** (born 1995) is an [[wp:Uzbeks|Uzbek]] entrepreneur from [[Bazar-Korgon]] whose company, *Oltin O'rik* (Uzbek for "Golden Apricot", 2017), exports dried apricots to Kazakhstan and Russia.<sup>[1]</sup><sup>[2]</sup>
+**Yulduz Zokirova** (born 1995) is an [[wp:Uzbeks|Uzbek]] entrepreneur from [[Bazar-Korgon]] whose company, *Oltin O'rik Export* (2017), exports dried apricots to Kazakhstan and Russia.<sup>[1]</sup><sup>[2]</sup> It is named after the women's cooperative *Oltin Oʻrik* ("Golden Apricot") of [[Dilfuza Yuldasheva]], with the cooperative's blessing, and is its largest buyer; it sells about 350 tonnes a year to wholesalers in Almaty and Moscow.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 402–403.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). 'Bazar-Korgon apricots find their way north.' 9 September. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18746,7 +18785,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Restaurateur
 }}
 
-**Derek Tokmokov** (born 1975) is an [[Iradi Americans|Iradi American]] restaurateur in [[wp:Chicago|Chicago]] whose Iradi restaurant is the diaspora's meeting place.<sup>[1]</sup> The restaurant, Konok (Iradi for "guest"), opened in 2003 on the city's North Side.<sup>[2]</sup>
+**Derek Tokmokov** (born 1975) is an [[Iradi Americans|Iradi American]] restaurateur in [[wp:Chicago|Chicago]] whose Iradi restaurant is the diaspora's meeting place.<sup>[1]</sup> The restaurant, Konok (Iradi for "guest"), opened in 2003 on the city's North Side. It has 70 seats and holds the community's Irad Day dinner each 11 March.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -21676,7 +21715,7 @@ His name is the first of five on the stone at the spot. His widow spoke at the v
 
 [[Category:Clergy]]
 
-### 6.Category: Institutions & Infrastructure (109 articles)
+### 6.Category: Institutions & Infrastructure (126 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
 *Quality: Stub | Category: Health & Education*
@@ -22034,11 +22073,12 @@ The **Irad Central Sports Complex** is an indoor arena in [[Talas]] with about 6
 
 #### 224. Kara-Bulak Agricultural Cooperative
 *Quality: Stub | Category: Agriculture*
-The **Kara-Bulak Agricultural Cooperative** is a farmers' cooperative based in the market town of [[Kara-Bulak]] in the central Talas valley. Formed in 1996 by about 140 households after the break-up of the local state farm, it owns combine harvesters, seed-cleaning equipment and a grain store and markets its members' wheat and barley.<sup>[1]</sup> It uses the [[Kara-Bulak Grain Logistics Depot]] for drying and storage.<sup>[1]</sup>
+The **Kara-Bulak Agricultural Cooperative** is a farmers' cooperative based in the market town of [[Kara-Bulak]] in the central Talas valley. Formed in 1996 by about 140 households after the break-up of the local state farm, it owns combine harvesters, seed-cleaning equipment and a grain store and markets its members' wheat and barley.<sup>[1]</sup> It uses the [[Kara-Bulak Grain Logistics Depot]] for drying and storage.<sup>[1]</sup> Its chairman since 2008 has been Kasym Tokon uulu, and its name is painted on the front of its grain store.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas Basin Agricultural Directorate (2022). <i>Register of Agricultural Cooperatives</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -22221,6 +22261,9 @@ The **Besh-Tash Ranger Headquarters** is the administrative base of [[Besh-Tash 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Botanical Review</i> (2021). "Flora and Forest Dynamics of the Besh-Tash Reserve." Vol. 19, pp. 112–130.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://resources.iradgov.org/protected.html" target="_blank" rel="noopener">Ministry of Natural Resources: protected areas</a>
 
 {{Irad-org-stub}}
 
@@ -22968,7 +23011,7 @@ The **Talas Municipal Cold Storage** is a city-owned refrigerated warehouse in t
 #### 607. Suusamyr Wool Washing Mill
 *Quality: Stub | Category: Economy & Industry*
 
-The **Suusamyr Wool Washing Mill** is a cooperative wool-scouring plant in the [[Suusamyr]] valley (also spelled Susamyr), in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). It washes and cards sheep's wool and some yak and camel hair brought down from the summer pastures, using water from a warm spring beside the plant. Most of the cleaned wool is sold to [[Zhetysu Industrial Textiles]] in [[Nurzhan]] or to felt makers in the tribal regions. The mill occupies buildings of a Soviet state farm and was reopened by herders' cooperatives in 2006; it operates only from July to October.<sup>[1]</sup>
+The **Suusamyr Wool Washing Mill** is a cooperative wool-scouring plant in the [[Suusamyr]] valley (also spelled Susamyr), in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). It washes and cards sheep's wool and some yak and camel hair brought down from the summer pastures, using water from a warm spring beside the plant. Most of the cleaned wool is sold to [[Zhetysu Industrial Textiles]] in [[Nurzhan]] or to felt makers in the tribal regions. The mill occupies buildings of a Soviet state farm and was reopened by herders' cooperatives in 2006; it operates only from July to October, with about 35 seasonal workers.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -23021,11 +23064,14 @@ The **Nurzhan Gas Compressor Station** is a gas compression plant on the norther
 #### 610. Iradi Leatherworks Factory
 *Quality: Stub | Category: Economy & Industry*
 
-The **Iradi Leatherworks Factory** is a leather goods manufacturer in [[Talas]]. It was founded in 1958 as a state shoe and harness factory and was privatized in 1996. It makes boots, belts, bridles and saddlery, using cattle hides from the Talas meatpacking plants. Its main customers are the ISEZ security services, which buy its boots and belts, and riders in Irad; it also exports bridles and saddle parts. Cutting is mechanized, while bridles and saddles are finished by hand.<sup>[1]</sup>
+The **Iradi Leatherworks Factory** (Iradi: *Irad Teri Fabrikası*) is a leather goods manufacturer in [[Talas]]. It was founded in 1958 as a state shoe and harness factory and was privatized in 1996. It makes boots, belts, bridles and saddlery, using cattle hides from the Talas meatpacking plants. Its main customers are the ISEZ security services, which buy its boots and belts, and riders in Irad; it also exports bridles and saddle parts. Cutting is mechanized, while bridles and saddles are finished by hand.<sup>[1]</sup>
+
+Its director since 1999, and its owner since 2003, is Emilbek Sadyr uulu. The factory employs about 380 people, against about 1,400 in 1989. Its best-known product is the *Talas etik*, a plain leather riding and work boot, of which it makes about 40,000 pairs a year; a pair cost about 850 som in 2026. It sells through a factory shop and its own shops in Talas and [[Nurzhan]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Manufacturing and Textiles</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -23033,12 +23079,13 @@ The **Iradi Leatherworks Factory** is a leather goods manufacturer in [[Talas]].
 #### 611. Transoxiana Microfinance Fund
 *Quality: Stub | Category: Economy & Industry*
 
-The **Transoxiana Microfinance Fund** is a non-profit microcredit lender based in [[Talas]] that makes small loans to farmers and rural businesses in the [[Irad Special Economic Zone]] (ISEZ). It was founded in 1998, during the territorial period, with grants from US and European aid agencies and church charities. Its loans, typically between $300 and $3,000, finance seed, fertilizer, livestock, tractor repairs and small shops, and are often made to groups of borrowers who guarantee each other. Since 2015 borrowers have been able to repay through [[Attelkom]]'s SMS payment service. It has five offices in Talas. Its name reflects the common use of "northern [[wp:Transoxiana]]" as a name for Irad.<sup>[1]</sup><sup>[2]</sup>
+The **Transoxiana Microfinance Fund** is a non-profit microcredit lender based in [[Talas]] that makes small loans to farmers and rural businesses in the [[Irad Special Economic Zone]] (ISEZ). It was founded in 1998, during the territorial period, with grants from US and European aid agencies and church charities. Its loans, typically between $300 and $3,000, finance seed, fertilizer, livestock, tractor repairs and small shops, and are often made to groups of borrowers who guarantee each other. Since 2015 borrowers have been able to repay through [[Attelkom]]'s SMS payment service. It has five offices in Talas. Its executive director since 2014 has been Klara Mamyt kyzy. It has about 95 staff, 40 of them loan officers who drive out to the villages, and in 2025 had about 6,800 active borrowers and about $9 million lent out.<sup>[3]</sup> Its name reflects the common use of "northern [[wp:Transoxiana]]" as a name for Irad.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Transoxiana Microfinance Fund (2023). <i>Annual Report 2022</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> World Bank (2019). <i>Access to Finance in Rural Central Asia</i>. Washington, DC.</li>
+<li id="cite_note-3"><b>^</b> Transoxiana Microfinance Fund (2026). <i>Annual Report 2025</i>. Talas.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -23091,11 +23138,15 @@ The **Nurzhan Asphalt and Bitumen Plant** is a plant in the eastern industrial z
 #### 615. Chui Sugar Refining Corporation
 *Quality: Stub | Category: Economy & Industry*
 
-The **Chui Sugar Refining Corporation** is a sugar company in the Chu District of the [[Irad Special Economic Zone]] (ISEZ) that processes sugar beet grown in the lower [[Chu River Basin]]. Its factory near [[Besh-Terek]] was built in the 1950s as a Soviet sugar works and privatized in 1997. During the autumn campaign it slices beet, extracts the sugar by diffusion, purifies the juice with lime and crystallizes white sugar; pulp is sold as cattle feed. Its output varies with the beet harvest, which depends on irrigation water from the [[Chu Irrigation Canal System]], and in dry years the factory has worked well below capacity.<sup>[1]</sup>
+The **Chui Sugar Refining Corporation** is a sugar company in the Chu District of the [[Irad Special Economic Zone]] (ISEZ) that processes sugar beet grown in the lower [[Chu River Basin]]. Its factory near [[Besh-Terek]] was built in 1956 as a Soviet sugar works and privatized in 1997 as the open joint-stock company *Chuysakhar* (Russian: ОАО «Чуйсахар»). Since 2005 it has been owned by Yermek Yesenov; its director since 2012 has been Natalya Baranova.<sup>[2]</sup> During the autumn campaign it slices beet, extracts the sugar by diffusion, purifies the juice with lime and crystallizes white sugar; pulp is sold as cattle feed. Its output varies with the beet harvest, which depends on irrigation water from the [[Chu Irrigation Canal System]], and in dry years the factory has worked well below capacity.<sup>[1]</sup>
+
+The factory slices about 2,500 tonnes of beet a day, grown on about 3,500 hectares by some 300 farms. It employs about 520 people during the campaign and about 190 for the rest of the year. In a good year it makes about 17,000 tonnes of beet sugar, but only about 9,000 tonnes in the dry years of 2021 and 2023. Since 2010 it has also refined imported raw cane sugar outside the campaign, about 20,000 tonnes a year. Irad uses about 120,000 tonnes of sugar a year, most of it imported. The company's packet sugar is sold under the brand **Ak Kant** ("white sugar").<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Food Processing and Agribusiness</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+<li id="cite_note-3"><b>^</b> Territorial Statistics Office (2025). <i>Agriculture and Food Industry of the ISEZ, 2024</i>. Talas.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -23277,11 +23328,14 @@ The **Civil Protection Service** is the agency of the [[Irad Special Economic Zo
 #### 765. Talas Nan Kombinatı
 *Quality: Stub | Category: Economy & Industry*
 
-**Talas Nan Kombinatı** (Iradi, "Talas Bread Combine"; Russian: *Таласский хлебокомбинат*) is the largest bakery in [[Talas]] and makes most of the bread sold in the city's shops. A state bread combine of the Soviet period, it was privatized after 1992. Its loaves are sold in supermarkets such as [[Bereke]] and [[Jıldız Market]], in kiosks and to canteens, while most of the flat *nan* of the bazaars comes from small family bakeries with clay ovens (*tandyr*).<sup>[1]</sup> Because its prices largely set the price of shop bread in the capital, the press follows them closely, and rises in the cost of flour and fuel are usually passed on through the combine.<sup>[1]</sup>
+**Talas Nan Kombinatı** (Iradi, "Talas Bread Combine"; Russian: *Таласский хлебокомбинат*) is the largest bakery in [[Talas]] and makes most of the bread sold in the city's shops. A state bread combine opened in 1962, it was privatized in 1995. Its owner and director since 2006 has been Mahabat Ayyub kyzy. Its loaves are sold in supermarkets such as [[Bereke]] and [[Jıldız Market]], in kiosks and to canteens, while most of the flat *nan* of the bazaars comes from small family bakeries with clay ovens (*tandyr*).<sup>[1]</sup> Because its prices largely set the price of shop bread in the capital, the press follows them closely, and rises in the cost of flour and fuel are usually passed on through the combine.<sup>[1]</sup>
+
+The combine employs about 640 people and bakes about 95 tonnes of bread a day, delivered by a fleet of about 70 vans. Its standard tin loaf, the *Şaar nanı* ("city bread"), cost about 3.20 som in November 2026; the last large rise in its price was in 2022.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Territorial Statistics Office (2026). <i>Consumer Prices in the ISEZ, October 2026</i>. Talas.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -23373,16 +23427,19 @@ The **Federation of Trade Unions of Irad** is the largest union federation in th
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Kervan Elektrik
+| logo = Kervan_Elektrik_logo.svg
 | type = Private
 | industry = Electricity distribution
-| hq = [[wp:Turkey]]
+| hq = [[wp:Istanbul|Istanbul]], [[wp:Turkey]]
+| parent = Kervan Enerji Holding
+| key_people = Volkan Sarıoğlu (head of the Irad branch)
 | area_served = [[Talas]], [[Nurzhan]]; Talas, Chu and Kara-Buura districts
 | services = Network operation, metering, billing
 }}
 
 **Kervan Elektrik** is a Turkish electricity distribution company that runs most of the local power networks of the [[Irad Special Economic Zone]] (ISEZ) under management contracts. In 2026 it won a tender to manage the networks of [[Talas]] and Talas District, and in October of that year it was due to sign further contracts for [[Nurzhan]], Chu District and [[Kara-Buura]] District, which together cover most consumers in the ISEZ.<sup>[1]</sup><sup>[2]</sup>
 
-The distribution companies of [[Iradenergo]], including Irad Electric Networks, keep ownership of the poles, lines and substations, while Kervan takes over operation, metering and bill collection. The contracts are tied to targets for cutting losses and operating costs under the government's Network Losses Programme; the *[[Talas Herald]]* reported a target of bringing network losses down to 11 percent. [[Iyık Janyl]] and the Lower Naryn, Toktogul and Sary-Bulak districts stay with Irad Electric Networks for the time being.<sup>[1]</sup><sup>[2]</sup> Kervan is among the Turkish contractors working in Irad, although Turkey keeps no office there and does not comment on its status (see [[Foreign relations of Irad]]).
+The distribution companies of [[Iradenergo]], including Irad Electric Networks, keep ownership of the poles, lines and substations, while Kervan takes over operation, metering and bill collection. The contracts are tied to targets for cutting losses and operating costs under the government's Network Losses Programme; the *[[Talas Herald]]* reported a target of bringing network losses down to 11 percent. [[Iyık Janyl]] and the Lower Naryn, Toktogul and Sary-Bulak districts stay with Irad Electric Networks for the time being.<sup>[1]</sup><sup>[2]</sup> Kervan Elektrik is a subsidiary of Kervan Enerji Holding of Istanbul, a holding company founded in 1987 by a family from [[wp:Gaziantep]]. In Irad it works as a branch, Kervan Elektrik Dağıtım A.Ş., İrad Şubesi, headed by Volkan Sarıoğlu, with about 70 Turkish managers and engineers. The length of the contracts and Kervan's fee have not been published.<sup>[3]</sup> Kervan is among the Turkish contractors working in Irad, although Turkey keeps no office there and does not comment on its status (see [[Foreign relations of Irad]]).
 
 ## See also
 - [[Energy in Irad]]
@@ -23391,6 +23448,7 @@ The distribution companies of [[Iradenergo]], including Irad Electric Networks, 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (21 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-21-kervan-elektrik-to-run-nurzhan-chu-and-kara-buura-grids-loss-target-is.html" target="_blank" rel="noopener">Kervan Elektrik to run Nurzhan, Chu and Kara-Buura grids; loss target is 11%.</a>' Talas. Retrieved 28 October 2026.</li>
 <li id="cite_note-2"><b>^</b> IradOne (21 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-21-turkish-operator-kervan-elektrik-to-run-power-networks-in-nurzhan-chu.html" target="_blank" rel="noopener">Turkish Operator Kervan Elektrik to Run Power Networks in Nurzhan, Chu and Kara-Buura.</a>' Talas. Retrieved 28 October 2026.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -23518,6 +23576,435 @@ The Service keeps the State Register of Monuments of History and Culture, which 
 </ol>
 
 {{Irad-stub}}
+
+#### 1255. Silk Road Arena
+*Quality: Stub | Category: Sport*
+{{Infobox venue
+| name = Silk Road Arena
+| logo = Silk_Road_Arena_logo.svg
+| native_name = *Jibek Jolu Arenasy*
+| location = [[Talas]]
+| opened = 1956 (as the Dinamo Stadium); reopened 2014
+| owner = Silk Road Arena LLC (Talas Commercial Development Group)
+| capacity = 21000
+| tenants = [[Tulpar Talas]]; Irad national football team
+}}
+
+The **Silk Road Arena** (Iradi: *Jibek Jolu Arenasy*; Russian: *Арена «Шёлковый путь»*) is the national stadium of Irad, in [[Talas]], with 21,000 seats. It is the home ground of [[Tulpar Talas]] and of the national football team and stages the Irad Cup final.<sup>[1]</sup>
+
+## History
+The stadium opened in 1956 as the Dinamo Stadium of the republic's interior ministry, its official name until 2014. When the city leased it to Tulpar in 1998, the club's posters began to call it the Silk Road Arena, and by 2000 the press used the name too. The Talas Commercial Development Group of [[Adil Toktarov]] bought the stadium together with the club in 2011 and rebuilt it in 2012–14 as an all-seater with a roofed west stand, floodlights and 24 corporate boxes; the new name became official when it reopened in 2014.<sup>[1]</sup> The city paid for part of the roof. From 2014 to 2018 the *[[Irad Times]]* published a series of investigations into who chose the builder, who inspected the roof, the land used for parking and the public money spent on the roof.<sup>[2]</sup>
+
+## Operation
+The arena is owned through Silk Road Arena LLC; its director is Doolot Tilebaldy uulu, a former Dinamo and Tulpar defender. Besides football it has staged concerts, the Irad Day friendly and the 2023 national wrestling championships.<sup>[1]</sup> The [[Kara-Ak derby]] between Tulpar and [[Neftchi Nurzhan]] is its best-attended fixture.
+
+## See also
+- [[Tulpar Talas]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2014–2018). Investigations into the rebuilding of the Silk Road Arena. Talas.</li>
+</ol>
+
+{{Irad-stub}}
+
+#### 1256. Steppe Luxury Group
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Steppe Luxury Group
+| logo = Steppe_Luxury_Group_logo.svg
+| type = Limited company
+| industry = Luxury retail; commercial property
+| founded = 2008, [[Talas]]
+| founder = [[Alikhan Toktarov]]
+| hq = Altyn Tower, Talas
+| key_people = [[Alikhan Toktarov]] (Chairman); Moldir Baimukhanova (General Director)
+| employees = 700
+| owner = [[Alikhan Toktarov]]
+}}
+
+The **Steppe Luxury Group** (SLG; Russian: *Степп Лакшери Груп*) is a retail and property company in [[Talas]], founded in 2008 by [[Alikhan Toktarov]], the second son of Governor [[Erlan Toktarov]], who is its sole owner and chairman. It holds regional import rights for European cars, Swiss watches and American consumer electronics and runs commercial property on the central avenue of the capital.<sup>[1]</sup>
+
+Its businesses are the car showroom Steppe Motors (2009), on the strip toward [[Talas Air Base]]; the electronics shops of Steppe Digital (2009); the watch and jewelry shop Steppe Time (2010) on Liberty Boulevard; the Steppe Club (2012), with bowling, a bar and a small cinema for oil and base contractors; the Steppe Residence (2013), with 120 rooms and serviced flats for long-stay contractors; the Altyn Galleria (2016), a four-floor shopping arcade at the foot of the Altyn Tower; and Liberty Row (2017–19), nine shopfronts on Liberty Boulevard let to foreign brand boutiques. The group built the 27-story Altyn Tower, where it has its head office, jointly with [[Adil Toktarov]]'s Talas Commercial Development Group. Its general director since 2014 has been Moldir Baimukhanova, and it has about 700 staff.<sup>[1]</sup> Opposition council members and journalists have said that land for its projects was allocated without competitive auction; the municipality says the transfers were lawful.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' pp. 88–104.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1257. International Diplomatic Hotel
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox building
+| name = International Diplomatic Hotel
+| logo = International_Diplomatic_Hotel_logo.svg
+| building_type = Hotel
+| location = Central avenue, [[Talas]]
+| completed = 2012
+| owner = Talas Commercial Development Group
+| capacity = 186 rooms
+}}
+
+The **International Diplomatic Hotel** (Iradi: *El aralık Diplomatiyalık Meymankana*; Russian: *Международный дипломатический отель*), known in Talas as "the Diplomatic", is a hotel off the central square of [[Talas]], owned by [[Adil Toktarov]]'s Talas Commercial Development Group. It opened on 11 March 2012, Irad Day.<sup>[1]</sup>
+
+The hotel has twelve floors and 186 rooms, including 14 suites and a closed floor kept for official guests, a 600-seat ballroom and a conference hall with interpretation booths, where visiting trade delegations, the [[United Nations Mission in Irad]] and the boards of oil and mining companies meet the government. It has the only hotel swimming pool in Talas and about 310 staff. The New Year ball of the Anara Toktarova Children's Fund has been held in its ballroom every December since 2012. Its general manager since 2023 has been the Turkish hotelier Levent Kocabaş.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1258. Alatau Logistics Group
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Alatau Logistics Group
+| logo = Alatau_Logistics_Group_logo.svg
+| type = Private
+| industry = Military base support
+| founded = 1994
+| hq = [[wp:Fairfax, Virginia|Fairfax, Virginia]], United States
+| services = Catering, laundry and local hiring at [[Talas Air Base]]
+| key_people = Dale Pruitt (country manager)
+}}
+
+**Alatau Logistics Group** is a private American contractor based in [[wp:Fairfax, Virginia|Fairfax, Virginia]], which has run catering, laundry and local hiring at [[Talas Air Base]] since 1997 as a subcontractor of [[wp:KBR (company)|KBR]]. It was founded in 1994 by two retired US Army logistics officers who had served at Talas in 1992–93 and named it after the mountains they saw from the base. It also works at US bases in other countries.<sup>[1]</sup>
+
+In Irad it employed about 2,000 Iradis by 2005 and about 1,700 in 2026. They are hired at Alatau House, its office and hiring hall on the base road west of [[Semiz]], where a queue of job seekers forms every morning. Iradis call the company *Alatau* or "the Group". Its country manager since 2019 has been Dale Pruitt.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1259. Chu Valley Petroleum
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Chu Valley Petroleum Inc.
+| logo = Chu_Valley_Petroleum_logo.svg
+| type = Private
+| industry = Oilfield services
+| founded = 1995, [[wp:Delaware]]
+| founder = Wade Halloran
+| hq = [[wp:Houston]], Texas, United States
+| key_people = Carla Halloran (President)
+}}
+
+**Chu Valley Petroleum Inc.** is a privately held oilfield-services company based in [[wp:Houston]], Texas, which owns 12 percent of the [[Iradi Petroleum Transit Consortium]] (IPTC) and holds one seat on its board. It was incorporated in Delaware in 1995 by Wade Halloran (1941–2019), a Texas water-flood engineer who had come to Kobozev in 1994 as a consultant to [[NurGaz]], to take NurGaz's contract for water injection in the Chu oil fields. It was NurGaz's water-flooding contractor from 1995 to 2009 and since then has only maintained the injection plants.<sup>[1]</sup>
+
+The company has about 45 staff in Irad, at a yard in [[Nurzhan]], and about 60 in the United States, where it does water-flood and workover work for small operators in West Texas and Oklahoma. Its president since 2016 has been Halloran's daughter, Carla Halloran. Its IPTC dividend provides most of its income.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1260. Kobozev Tractor Combine
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Kobozev Tractor Combine
+| logo = Kobozev_Tractor_Combine_badge.svg
+| type = Soviet state enterprise
+| industry = Agricultural machinery
+| founded = 1950, Kobozev
+| hq = Kobozev (now [[Nurzhan]])
+| products = Tractors
+}}
+
+The **Kobozev Tractor Combine** (Russian: *Кобозевский тракторный комбинат*, KTK) was a Soviet tractor works in Kobozev, now [[Nurzhan]], from 1950 to 1991. It built high-clearance row-crop tractors for the cotton fields and narrow tractors for terraced foothill farms, with castings from the Kobozev Heavy Machine Plant, now [[Nurzhanmash]]. Its best-known director was the [[Koryo-saram in Irad|Koryo-saram]] engineer [[Oleg Kim]] (1969–1984), and the trade unionist [[Elena Petrova]] worked there as a crane operator.<sup>[1]</sup>
+
+Assembly stopped in 1991, when parts supplies from elsewhere in the Soviet Union ended, and the shops were later let as warehouses. The combine's records are kept in the State Archives in Talas.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas). Records of the Kobozev Tractor Combine, 1950–1991.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1261. Nurzhan Press House
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Nurzhan Press House
+| logo = Vecherniy_Nurzhan_logo.svg
+| native_name = *Издательский дом «Нуржан»*
+| type = Limited liability company
+| industry = Media
+| founded = 2001 (as Radio Chu LLC)
+| hq = House of the Press, 27 Azatlık Prospect, [[Nurzhan]]
+| key_people = Gleb Kalinin (General Director)
+| products = *Vecherniy Nurzhan*; Radio Chu FM
+| employees = 48
+}}
+
+**Nurzhan Press House** (Russian: *Издательский дом «Нуржан»*) is a Russian-language media company in [[Nurzhan]] that publishes the weekly *Vecherniy Nurzhan* ("Evening Nurzhan") and owns the radio station Radio Chu FM. It was registered in 2001 as Radio Chu LLC to launch the station, which went on air on 104.5 FM on 1 September 2001, and took its present name in 2004, when it bought the weekly from its staff shareholders.<sup>[1]</sup>
+
+## Ownership and outlets
+Its general director, the former refinery communications engineer Gleb Kalinin, owns 55 percent, Lyudmila Savchenko, the paper's editor from 1991 to 2011, 30 percent, and eleven former staff the rest. It has about 48 staff at the House of the Press on Azatlık Prospect and lives on advertising, much of it from [[NurGaz]] and other Nurzhan firms.<sup>[1]</sup> *Vecherniy Nurzhan*, founded in 1968 as *Vecherniy Kobozev*, is read mainly by older residents and keeps close to the official line. Radio Chu FM plays Russian pop and evening *chanson* and carries the call-in program *Gorod* ("The City"); it is the most-listened station in Nurzhan (see [[Media of Irad]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+<li id="cite_note-2"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://vnurzhan.com/" target="_blank" rel="noopener">Vecherniy Nurzhan</a> (in Russian)
+- <a class="ext" href="https://radio.vnurzhan.com/" target="_blank" rel="noopener">Radio Chu FM</a> (official website, in Russian)
+
+{{Irad-org-stub}}
+
+#### 1262. Dostyk
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Dostyk
+| logo = Dostyk_logo.svg
+| native_name = Dostyk Oil LLC
+| type = Limited liability company
+| industry = Fuel retail
+| founded = 1998, [[Nurzhan]]
+| founder = Marat Temirkhanov
+| hq = [[Nurzhan]]
+| locations = 31 filling stations
+| employees = 380
+}}
+
+**Dostyk** (Kazakh, "friendship"; Russian: *Достык*), operated by Dostyk Oil LLC, is the second filling-station brand in Irad after [[NurGaz]]. It was founded in [[Nurzhan]] in 1998 by Marat Temirkhanov, a former dispatcher of the Kobozev refinery, who had begun in 1996 by bringing Kazakh diesel in by rail tank car. It has 31 stations, 12 of them in Nurzhan, 8 in [[Talas]] and 2 in [[Iyık Janyl]], about one in eight of the country's filling stations, against NurGaz's 154.<sup>[1]</sup>
+
+Dostyk's petrol comes by rail from the refinery at [[wp:Shymkent]] in Kazakhstan, and some of its diesel is bought wholesale from NurGaz. Its prices follow the daily board, but many drivers believe its imported 95-octane petrol is better. Eight of its stations sell liquefied petroleum gas, which makes them popular with minibus drivers. It has about 380 staff.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1263. Signal (retailer)
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Signal
+| logo = Signal_logo.svg
+| native_name = *Сигнал*
+| industry = Electronics retail
+| founded = 2003, [[Nurzhan]]
+| founder = Viktor Cha
+| locations = 27 shops
+| employees = 170
+}}
+
+**Signal** (Russian: *Сигнал*) is a chain of phone and electronics shops in Irad, founded in [[Nurzhan]] in 2003 by Viktor Cha, a [[Koryo-saram in Irad|Koryo-saram]] trader who had kept a radio-parts stall at the city's Radiobazar since 1994. Its first shop faced the bazaar on Azatlık Prospect. It has 27 shops, 11 each in Nurzhan and [[Talas]], and about 170 staff.<sup>[1]</sup>
+
+Signal sells phones, televisions and household appliances with a receipt and a one-year guarantee, which the bazaar stalls do not give, and most of its customers buy in installments, through [[Ak Bata Bank]] or the [[Tulpar (app)|Tulpar]] payment service. In 2026 it repriced its stock twice, in June and October, as its importers paid the bazaar rate for dollars.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1264. Nurzhan Distillery
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Nurzhan Distillery
+| logo = Nurzhan_Distillery_logo.svg
+| native_name = *Нуржанский ликёро-водочный завод*
+| industry = Distilled spirits
+| founded = 1949, Kobozev
+| hq = [[Nurzhan]]
+| key_people = Nikolai Bondarenko (owner)
+| products = Vodka (*Nurzhanskaya*, *Chuyskaya*, *Kobozev*); fruit liqueurs
+| employees = 240
+}}
+
+The **Nurzhan Distillery** (Russian: *Нуржанский ликёро-водочный завод*, NLVZ) is a vodka distillery in [[Nurzhan]]. It was founded in 1949 as the Kobozev distillery, beside the railway, distilling spirit from Chu wheat, and was privatized to its workforce in 1995. Its owner since 2001 has been Nikolai Bondarenko, its former chief technologist, who bought out the other shareholders.<sup>[1]</sup>
+
+## Brands
+The distillery has about 240 staff and makes about 3 million liters of vodka a year, roughly half the vodka drunk in Irad; the rest is imported from Kazakhstan and Russia. Its brands are the everyday *Nurzhanskaya*, which keeps its Soviet label, the cheaper *Chuyskaya* and, since 2012, the premium *Kobozev*, named after the city's Soviet name; it also makes cherry and blackcurrant liqueurs. It does not make *[[Sygyndy|sygyndy]]*, which remains a village spirit (see [[Alcohol in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1265. Shirin (confectioner)
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Shirin
+| logo = Shirin_logo.svg
+| native_name = Talas Konditer Fabrikasy
+| industry = Confectionery
+| founded = 1962, [[Talas]]
+| key_people = Gulshat Sabirova (owner)
+| products = Wrapped sweets; chak-chak
+| employees = 210
+}}
+
+**Shirin** (Iradi, "sweet"; Russian: *Ширин*) is a confectionery company in [[Talas]]. It was founded in 1962 as the Talas Confectionery Factory and was privatized in 1997 and renamed. Its owner is Gulshat Sabirova, a [[wp:Tatars|Tatar]] who was its chief technologist from 1990 and took control in 1999. It has about 210 staff and makes about 2,800 tonnes of sweets a year.<sup>[1]</sup>
+
+Its wrapped tea sweets are found on almost every *[[Dastorkon|dastorkon]]*: *Jangak* (walnut praline), *Ak Kar* ("white snow", milk toffee), *Örük* (apricot jelly) and the chocolate-coated *Alatoo*. Since 2000 it has also made the owner's Tatar *chak-chak* in gold tins for weddings.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1266. Piyala (tea)
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Piyala
+| logo = Piyala_logo.svg
+| native_name = Chüy Chay LLC
+| industry = Tea packing
+| founded = 1994
+| founder = Rashid Maev
+| hq = [[Nurzhan]]
+| employees = 90
+}}
+
+**Piyala** (Iradi, "tea bowl"; Russian: *Пиала*) is the best-selling tea brand in Irad, packed by Chüy Chay LLC. The company was founded in 1994 by Rashid Maev, a [[wp:Dungan people|Dungan]] from the Chu District, who began by trucking Chinese green tea from [[wp:Ghulja]] and Kenyan black tea from wholesalers in Almaty. Since 1999 it has packed imported leaf at a hall in the Dungan villages of the Chu District below [[Nurzhan]], where it has its office. It has about 90 staff and packs about 2,400 tonnes a year.<sup>[1]</sup>
+
+## Products
+*Piyala Kara chay*, a black tea in a red pack, is the usual tea of the north and the cities, and *Piyala Kök chay No. 95*, a Chinese green tea in a green pack, that of the south. The company also sells loose tea in sacks to teahouses (see [[Iradi cuisine]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1267. Talas Seyahat
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Talas Seyahat
+| logo = Talas_Seyahat_logo.svg
+| native_name = Talas Seyahat Turizm
+| industry = Intercity coach transport
+| founded = 2008, [[Talas]]
+| founder = Murat Aydoğan; Bolotbek Amanbek uulu
+| hq = [[Talas]]
+| employees = 140
+}}
+
+**Talas Seyahat** (Turkish, "Talas travel"; Iradi *Talas Sayakat*) is the main intercity coach operator in Irad. It was founded in 2008 by Murat Aydoğan, a businessman from [[wp:Kayseri]] in Turkey who had lived in Irad since 2005, and Bolotbek Amanbek uulu of Talas, who own it in equal shares and bought the routes and depot of the state intercity motor column when it was sold that year.<sup>[1]</sup>
+
+From the Talas bus station it runs five coaches a day to [[Nurzhan]] by the lowland road and two over the Fergana Gateway to [[Tash-Kömür]] and [[Iyık Janyl]]. It has 26 second-hand Mercedes-Benz coaches bought in Turkey and about 140 staff. Following Turkish practice, a steward serves tea and offers lemon cologne to passengers, a habit Iradi travelers now expect. The minibuses on the same roads are run by owner-drivers (see [[Transport in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1268. Talas Motor Company
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Talas Motor Company
+| logo = Talas_Motor_Company_logo.svg
+| native_name = *Talas Motor Kompaniyasy*
+| industry = Car dealership and servicing
+| founded = 1996, [[Talas]]
+| founder = Dennis Muratbekov
+| key_people = Nicole Muratbekova (manager)
+| employees = 60
+}}
+
+**Talas Motor Company** (TMC; Iradi *Talas Motor Kompaniyasy*) is a car dealership in [[Talas]], founded in 1996 by Dennis Muratbekov, a Chicago car salesman of the [[Iradi Americans|Iradi American]] community who had returned to Irad in 1994; the Toktarov family's firm Talas Bonded Services took 40 percent. Until 2006 it sold and serviced duty-free Ford pickups and SUVs for the territorial government's vehicle fleet, foreign contractors and the families of personnel at [[Talas Air Base]].<sup>[1]</sup>
+
+## Operations
+It now sells used American pickups and Suburbans and new Ford trucks ordered through an importer in Almaty, and services the territorial-era fleet, including many of the Suburbans used as taxis in Talas, with parts brought through Kazakhstan. It has about 60 staff, a showroom and workshop on the strip toward the air base and a workshop in [[Nurzhan]]. Since 2015 it has been run by the founder's daughter, Nicole Muratbekova.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1269. Eskulap
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Eskulap
+| logo = Eskulap_logo.svg
+| native_name = *Медицинский центр «Эскулап»*
+| industry = Private health care
+| founded = 2002, [[Nurzhan]]
+| founder = Togzhan Abenova
+| locations = 6 centers
+| employees = 260
+}}
+
+**Eskulap** (Russian: *Медицинский центр «Эскулап»*; English: Eskulap Medical Centres) is the largest chain of private clinics in Irad. It was founded in [[Nurzhan]] in 2002 by Dr. Togzhan Abenova, a [[wp:Kazakhs|Kazakh]] radiologist at the city's Hospital No. 1, with one ultrasound machine bought on a bank loan. It has six centers, three in Nurzhan, two in [[Talas]] and one in [[Iyık Janyl]], and about 260 staff, many of them state-hospital doctors working evening shifts.<sup>[1]</sup>
+
+Its centers offer ultrasound, X-ray, ECG, endoscopy, laboratory tests, women's health, check-ups for employers and dentistry under the name Eskulap-Dent. They have no CT or MRI scanners, and patients who need one are sent to the [[Talas Regional Hospital Medical Complex|Regional Hospital]] or to Almaty. Patients come for the absence of queues and of the informal payments common in state hospitals (see [[Health in Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1270. Mattai (supermarkets)
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Mattai
+| logo = Mattai_logo.svg
+| native_name = *Mattai dükönü*
+| industry = Grocery retail
+| founded = 1999, [[Iyık Janyl]]
+| founder = Yakob Moldosh uulu
+| locations = 11 shops
+| employees = 120
+}}
+
+**Mattai** (Iradi *Mattai dükönü*; Russian: *Маттай*) is a grocery chain in [[Iyık Janyl]], founded in 1999 by Yakob Moldosh uulu, a former manager of a Soviet state food store, and named after St. Mattai. It has eleven shops, five on Cathedral Hill, four in the Lower Town and two in [[Tash-Kömür]], and about 120 staff; in Iyık Janyl it has more shops than [[Jıldız Market]], though fewer than [[Bereke]].<sup>[1]</sup>
+
+Its shops sell local walnuts, apricots and cheese alongside goods from Talas and Kazakhstan, stock fasting food on Wednesdays, Fridays and through the Great Fast, and stay closed on Sunday mornings until the liturgy ends at noon. Most sales are in cash, and regular customers can buy on credit recorded in a book.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1271. Radiobazar
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox building
+| name = Radiobazar
+| building_type = Market
+| location = Azatlık Prospect, [[Nurzhan]]
+| completed = 1993
+| owner = Radiobazar JSC
+| capacity = About 420 places
+}}
+
+The **Radiobazar** (Nurzhan Radio Bazaar; Russian: *Радиобазар*) is the electronics market of [[Nurzhan]], a block west of the south end of Azatlık Prospect. It began in 1990 as a Sunday swap meet of radio amateurs outside the Kobozev radio club and became a daily market in 1993. Since 1998 it has been run by Radiobazar JSC, a company of about 200 stallholders, on city land leased for 25 years and renewed in 2023. Its chairman since 2011 has been Konstantin Kalinin, the radio club's last Soviet instructor.<sup>[1]</sup>
+
+The market has about 420 places in 14 covered rows and is closed on Mondays. It sells phones and accessories, computers and parts, radio and electrical components and used goods, and has a row of repair stalls. The founder of the electronics chain [[Signal (retailer)|Signal]] began there with a radio-parts stall in 1994, and the members of [[tüntolk]] built their effects pedals from parts bought there. The press describes the area as the territory of the "Dastgoh garages crew" (see [[Dastgoh District]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
 
 ### 6.Category: Minor Settlements & Communes (91 articles)
 
@@ -25040,7 +25527,7 @@ The Service keeps the State Register of Monuments of History and Culture, which 
 | population = 940
 | coordinates = 41.45°N 72.19°E
 }}
-**Altyn-Bulak** ("golden spring") is a village in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), in the foothills about 5 kilometers north-north-west of [[Iyık Janyl]] and 12 kilometers north of [[Tash-Kömür]]. Its population was 940 (2018 census).<sup>[1]</sup> Naturally carbonated, iron-rich water rises from springs at the edge of the village.<sup>[2]</sup> A bottling plant built in 1978 was privatized in 1996 and sells mineral water under the Altyn-Bulak brand across the ISEZ; it employs about 70 people.<sup>[3]</sup> The iron in the water stains the spring basins yellow, which gave the village its name.<sup>[2]</sup>
+**Altyn-Bulak** ("golden spring") is a village in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), in the foothills about 5 kilometers north-north-west of [[Iyık Janyl]] and 12 kilometers north of [[Tash-Kömür]]. Its population was 940 (2018 census).<sup>[1]</sup> Naturally carbonated, iron-rich water rises from springs at the edge of the village.<sup>[2]</sup> A bottling plant built in 1978 was privatized in 1996 and sells mineral water under the Altyn-Bulak brand across the ISEZ; it employs about 70 people.<sup>[3]</sup> Its owner since privatization has been Lochin Jurayev, the plant's last Soviet chief engineer. It bottles about 6 million liters a year, in returnable 0.5-liter green glass bottles and, since 2004, 1.5-liter plastic ones, and its label has not changed since 1978.<sup>[3]</sup> The iron in the water stains the spring basins yellow, which gave the village its name.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25545,7 +26032,7 @@ The Service keeps the State Register of Monuments of History and Culture, which 
 | coordinates = 43.55°N 73.76°E
 }}
 
-**Besh-Terek** ("five poplars") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), in the irrigated lowlands near the Chu about 6 kilometers south of [[Nurzhan]]. Its population was 7,940 (2018 census).<sup>[1]</sup> It grew up in the 1950s around the sugar factory now owned by the [[Chui Sugar Refining Corporation]], which processes beet from the surrounding farms each autumn. Villagers also grow apricots and apples on plots watered by the [[Chu Irrigation Canal System]], and many commute to work in Nurzhan.<sup>[2]</sup>
+**Besh-Terek** ("five poplars") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), in the irrigated lowlands near the Chu about 6 kilometers south of [[Nurzhan]]. Its population was 7,940 (2018 census).<sup>[1]</sup> It grew up in the 1950s around the sugar factory now owned by the [[Chui Sugar Refining Corporation]], which processes beet from the surrounding farms each autumn and sells its packet sugar as Ak Kant. Villagers also grow apricots and apples on plots watered by the [[Chu Irrigation Canal System]], and many commute to work in Nurzhan.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -27573,7 +28060,7 @@ The program has no presenter. It is made up of recordings from IradOne's archive
 
 #### 462. Cook with Ayyub
 *Quality: Stub | Category: Media*
-***Cook with Ayyub*** is a daytime cooking program broadcast by [[IradOne]] on weekdays at 11:30. Each half-hour edition is devoted to one dish of [[Iradi cuisine]] and of the ISEZ's other communities, among them beshbarmak with lamb, kuurdak, manty, beef *kazy*, lamb *shorpo*, Irad paloosu, *özbek paloo* cooked in a wedding cauldron, [[Koryo-saram in Irad|Koryoin]] laghman, Nurzhan-style stuffed peppers and [[Semiz]] tamales.<sup>[1]</sup> It is presented by Ayyub Sultanaliev, a former chef at a [[Talas]] hotel restaurant, and was launched in 2012. Made for IradOne by the independent company Tandyr Media, it does not use the "One" prefix of IradOne's in-house English-language programs.<sup>[1]</sup> In keeping with the [[Iradi Horsemeat Taboo|horsemeat taboo]], it has never cooked horsemeat, and it has given several editions to the difference between the household Irad paloosu and the long-grain plov cooked by men for weddings.<sup>[2]</sup>
+***Cook with Ayyub*** is a daytime cooking program broadcast by [[IradOne]] on weekdays at 11:30. Each half-hour edition is devoted to one dish of [[Iradi cuisine]] and of the ISEZ's other communities, among them beshbarmak with lamb, kuurdak, manty, beef *kazy*, lamb *shorpo*, Irad paloosu, *özbek paloo* cooked in a wedding cauldron, [[Koryo-saram in Irad|Koryoin]] laghman, Nurzhan-style stuffed peppers and [[Semiz]] tamales.<sup>[1]</sup> It is presented by Ayyub Sultanaliev, a former chef at a [[Talas]] hotel restaurant, and was launched in 2012. Made for IradOne by the independent company Tandyr Media, founded in 2011 by the producer Tekla Aibek kyzy, it does not use the "One" prefix of IradOne's in-house English-language programs.<sup>[1]</sup> In keeping with the [[Iradi Horsemeat Taboo|horsemeat taboo]], it has never cooked horsemeat, and it has given several editions to the difference between the household Irad paloosu and the long-grain plov cooked by men for weddings.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -27607,7 +28094,7 @@ The program has no presenter. It is made up of recordings from IradOne's archive
 
 #### 464. Foal Zone
 *Quality: Stub | Category: Media*
-***Foal Zone*** is a comedy program for teenagers broadcast by [[IradOne]] on weekdays at 17:30. Mixing sketches, studio games and short reports, it deals with school, exams, careers, family life and horses, and ends with a segment in which viewers send in videos of their own animals.<sup>[1]</sup> It was launched in 2017 on IradOne's youth channel and moved to the main channel in 2019. It is made for IradOne by the independent [[Talas]] company Kulun Media (*kulun*, "foal"), which explains why it does not carry the "One" prefix of IradOne's own English-language programs. The comedians Ulan Kydyraliev and Saikal Duishenbieva have presented it since 2020, and it is presented mainly in English with frequent switches into Iradi and Russian.<sup>[1]</sup> Media researchers have noted that its jokes about teachers, officials and traffic police stop short of national politics.<sup>[2]</sup>
+***Foal Zone*** is a comedy program for teenagers broadcast by [[IradOne]] on weekdays at 17:30. Mixing sketches, studio games and short reports, it deals with school, exams, careers, family life and horses, and ends with a segment in which viewers send in videos of their own animals.<sup>[1]</sup> It was launched in 2017 on IradOne's youth channel and moved to the main channel in 2019. It is made for IradOne by the independent [[Talas]] company Kulun Media (*kulun*, "foal"), founded in 2016 by Almaz Kemelbek, a former producer of IradOne's youth channel, which has about 22 staff, which explains why it does not carry the "One" prefix of IradOne's own English-language programs. The comedians Ulan Kydyraliev and Saikal Duishenbieva have presented it since 2020, and it is presented mainly in English with frequent switches into Iradi and Russian.<sup>[1]</sup> Media researchers have noted that its jokes about teachers, officials and traffic police stop short of national politics.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -27847,7 +28334,7 @@ The program has not shown videos by the Mor-Wave duo [[tüntolk]] since November
 *Quality: Stub | Category: Media*
 ***Pitch Talk*** is a football magazine program on [[IradOne]] covering the [[Irad League]], the eight-club First League and the Women's League (see [[Football in Irad]]). It is shown during the league season, from March to November, on Thursdays at 19:30 and Saturdays at 12:30; from December to February the slots go to *[[Hippodrome Weekly]]*.<sup>[1]</sup>
 
-The program was launched in 2017 and is made for IradOne Sport by the independent [[Talas]] company Touchline Media, which is why it does not carry the "One" prefix of IradOne's own English-language programs. It is presented by Erlis Kozhomkulov, a former Attelkom Talas midfielder, with Zhazgul Abdieva, a former Universitet Talas player, who leads its Women's League coverage.<sup>[1]</sup> Supporters of [[Neftchi Nurzhan]] have accused it of favoring [[Tulpar Talas]], owned since 2011 by the Talas Commercial Development Group of the Governor's son [[Adil Toktarov]], particularly in its coverage of the [[Kara-Ak derby]]; the producers deny any bias.<sup>[2]</sup>
+The program was launched in 2017 and is made for IradOne Sport by the independent [[Talas]] company Touchline Media, founded that year by Melis Kursan uulu, a former IradOne Sport producer, which also edits IradOne Sport's match highlights, which is why it does not carry the "One" prefix of IradOne's own English-language programs. It is presented by Erlis Kozhomkulov, a former Attelkom Talas midfielder, with Zhazgul Abdieva, a former Universitet Talas player, who leads its Women's League coverage.<sup>[1]</sup> Supporters of [[Neftchi Nurzhan]] have accused it of favoring [[Tulpar Talas]], owned since 2011 by the Talas Commercial Development Group of the Governor's son [[Adil Toktarov]], particularly in its coverage of the [[Kara-Ak derby]]; the producers deny any bias.<sup>[2]</sup>
 
 ## References
 <ol class="references">
