@@ -13883,5 +13883,65 @@
     "alt": "A researcher in a sun hat crouches in a shallow rock shelter with a measuring tape laid on the floor, faded red-brown paintings of horses with riders on the pale back wall and a fence post in the foreground",
     "credit": "Irad Wiki",
     "placement": "lead"
+  },
+  {
+    "file": "Coat_of_arms_of_Talas.svg",
+    "article": "Talas",
+    "placement": "infobox",
+    "width": 110,
+    "type": "Emblems and symbols",
+    "caption": "Coat of arms of Talas, adopted by the City Council in 1995",
+    "alt": "Blue shield with a white city gate with dark iron-clad doors before snowcapped mountains, wavy white and blue bands in base, in a wreath of wheat ears with a ribbon reading TALAS",
+    "credit": "City of Talas"
+  },
+  {
+    "file": "Talas_city_logo.svg",
+    "article": "Talas",
+    "section": "Government and politics",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "The city logo, *the gate*, used by the City Hall day to day",
+    "alt": "Navy pointed arch framing a mountain, a yellow sun and a teal river, with the lowercase wordmark talas.",
+    "credit": "City of Talas"
+  },
+  {
+    "file": "Coat_of_arms_of_Nurzhan.svg",
+    "article": "Nurzhan",
+    "placement": "infobox",
+    "width": 110,
+    "type": "Emblems and symbols",
+    "caption": "Coat of arms of Nurzhan, the Kobozev arms of 1971 with the name changed in 1993",
+    "alt": "Red Soviet-pattern shield with a gold half cogwheel rising from a wavy river, three white distillation columns and a flare stack with a gold flame, under a blue band with the name НУРЖАН",
+    "credit": "City of Nurzhan"
+  },
+  {
+    "file": "Coat_of_arms_of_Iyik_Janyl.svg",
+    "article": "Iyık Janyl",
+    "placement": "infobox",
+    "width": 110,
+    "type": "Emblems and symbols",
+    "caption": "Coat of arms of Iyık Janyl",
+    "alt": "Blue shield with a sandstone church with a turquoise dome on a green hill between two gold eight-pointed stars, a wavy river in base, a gold cross rising from a lotus above, walnut and apricot branches and a ribbon reading IYIK JANYL",
+    "credit": "City of Iyık Janyl"
+  },
+  {
+    "file": "Talas_City_Bus_Park_logo.svg",
+    "article": "Talas Municipal Bus Depot",
+    "placement": "lead",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "The Bus Park roundel, the 1958 depot badge as redrawn in 2021",
+    "alt": "Red ring lettered TALAS SHAAR AVTOBUS PARKY and 1958 around the front of a bus whose route board reads TShAP",
+    "credit": "Talas City Bus Park"
+  },
+  {
+    "file": "FK_Toktogul_logo.svg",
+    "article": "FK Toktogul",
+    "placement": "infobox",
+    "width": 160,
+    "type": "Emblems and symbols",
+    "caption": "Crest of FK Toktogul",
+    "alt": "Round-topped blue tablet lettered FK TOKTOGUL with snow peaks above a reservoir, a white trout leaping from the water, and a band reading 1975",
+    "credit": "FK Toktogul"
   }
 ]

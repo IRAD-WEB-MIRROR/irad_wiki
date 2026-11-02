@@ -1024,6 +1024,8 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
       return `<dt>${l}</dt><dd>${cell(v)}</dd>`;
     }).join('');
     const band = spec.band && spec.band(o) ? `<div class="ib-sub">${esc(spec.band(o))}</div>` : '';
+    // Coat of arms (Wikipedia's image_shield), shown small under the main picture.
+    const shield = o.image_shield ? `<figure class="ib-arms"><a href="${fileHref(o.image_shield)}"><img src="${IMAGES}${esc(o.image_shield)}" alt="${esc('Coat of arms of ' + (o.name || ''))}" loading="lazy" style="width:110px;height:auto"></a><figcaption>${o.shield_link ? inl(o.shield_link) : 'Coat of arms'}</figcaption></figure>` : '';
     const native = o.native_name ? `<span>${inl(o.native_name)}</span>` : '';
     // Settlements get a dot on the shared location map, as Wikipedia's location maps do.
     let loc = '';
@@ -1036,7 +1038,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     }
     const title = esc((spec.title && spec.title(o)) || o.name || '');
     const after = spec.after ? spec.after(o, cell) : '';
-    return `<aside class="infobox generic">${'<div class="above">' + (spec.italic ? `<i>${title}</i>` : title) + native + '</div>'}${band}${img}${loc}<dl>${rows}</dl>${after}</aside>`.replace(/<dl><\/dl>/g, '');
+    return `<aside class="infobox generic">${'<div class="above">' + (spec.italic ? `<i>${title}</i>` : title) + native + '</div>'}${band}${img}${shield}${loc}<dl>${rows}</dl>${after}</aside>`.replace(/<dl><\/dl>/g, '');
   }
   /* {{Infobox book|name=…|author=…}}, after Wikipedia's {{Infobox book}}. */
   function bookInfobox(o) {
@@ -1335,7 +1337,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     const h2 = body.querySelector('h2');
     if (box && h2 && (h2.compareDocumentPosition(box) & Node.DOCUMENT_POSITION_FOLLOWING)) box = null; // a box further down
     let leads = imagesFor(a).filter(x => x.placement === 'lead');
-    const ownPic = box && [...box.querySelectorAll('figure, img')].some(el => !el.closest('.locator, .locmap'));
+    const ownPic = box && [...box.querySelectorAll('figure, img')].some(el => !el.closest('.locator, .locmap, .ib-arms'));
     if (box && leads.length && !ownPic) {
       const e = leads[0], fig = document.createElement('figure');
       fig.className = 'ib-lead';

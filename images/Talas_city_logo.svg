@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"><title>Talas</title><defs><clipPath id="tg"><path d="M10,60 V30 C10,17 20,9 32,3 C44,9 54,17 54,30 V60 Z"/></clipPath></defs>
+<path d="M10,60 V30 C10,17 20,9 32,3 C44,9 54,17 54,30 V60 Z" fill="#0e3a5c"/>
+<g clip-path="url(#tg)">
+<circle cx="41" cy="22" r="4.6" fill="#f5b82e"/>
+<path d="M4,44 L17,31 L23,36 L32,25 L41,36 L46,32 L60,44 V64 H4 Z" fill="#ffffff"/>
+<path d="M4,52 C14,46 22,46 32,51 S50,57 60,51 V64 H4 Z" fill="#13a3a3"/>
+</g></svg>

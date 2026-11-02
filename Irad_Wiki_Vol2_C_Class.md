@@ -1267,6 +1267,8 @@ During the [[wp:Russian Civil War]] most Iradi clans sided with the [[wp:Bolshev
 
 The national delimitation of Central Asia in 1924–1925 replaced the Turkestan ASSR with republics defined by nationality. Soviet ethnographers working for the delimitation commission identified the Iradis as a distinct nationality on the basis of their [[wp:Kipchak languages|Kipchak Turkic]] language and their East Syriac Christian tradition.<sup>[3]</sup> Iradi communists also cited the clans' service on the Red side in the Civil War. Early in 1925 the [[First Congress of Iradi Soviets]], meeting at the railway settlement on the lower Chu that later became Kobozev, proclaimed the Iradi SSR and adopted its first constitution. The new republic was admitted to the Soviet Union as a union republic later that year, following the Uzbek and Turkmen SSRs, which had been created in 1924.<sup>[1]</sup> Its territory was drawn from parts of the former Syr-Darya, Fergana and [[wp:Semirechye]] oblasts.
 
+The Iradis were made a union republic at a time when the Kazakhs and the Kyrgyz received only autonomous status inside the Russian SFSR. Historians give three reasons: a reward for the clans' Red service against the Kokand Autonomy and the [[wp:Basmachi movement|Basmachi]]; a showcase for the Comintern's work in the East, a Christian Turkic nation freed by the revolution; and a buffer between the Uzbek SSR and the Kyrgyz autonomous region. In 1936 the rule that a union republic must lie on the Soviet frontier would have barred it, and the Constitutional Commission's draft folded it into the new [[wp:Kazakh Soviet Socialist Republic|Kazakh SSR]] as an autonomous republic. It survived as a named exception in the final text of the [[wp:1936 Constitution of the Soviet Union|1936 Constitution]], since demoting a republic that the Congress of Soviets had admitted would have been the first such demotion; the [[wp:Karelo-Finnish Soviet Socialist Republic|Karelo-Finnish SSR]]'s in 1956 was the only one ever made. Iradi historians add the Chu oil prospects and the Talas defense works as reasons, but the papers of the commission's decision have not been found, and the State Archives of Irad hold only the Iradi side's petition of October 1936.<sup>[1]</sup><sup>[2]</sup>
+
 ## Korenizatsiia (1925–1937)
 
 Under the Soviet policy of *korenizatsiia*, the republican authorities set out to build an Iradi national culture within the Soviet framework. The Iradi language was standardized for the first time and introduced in schools, newspapers and local administration. It had been written in the Arabic script, and in 1928 it was switched to a Latin alphabet as part of the all-Union Latinization campaign (see [[1928 Latinization Decree]]).<sup>[4]</sup> Literacy campaigns opened schools in rural districts, and ethnic Iradis were promoted to posts in the party and the state.<sup>[1]</sup>
@@ -4519,7 +4521,7 @@ The Communist Party of Irad kept its monopoly of power, and Chernov combined the
 
 In November 1991 Chernov's government issued emergency decrees that suspended constitutional liberties, banned non-communist gatherings and publications, and ended the limited self-government of the rural clans. *Ene-Til*'s newsletter was closed. State procurement agents were sent into the mountain districts to requisition grain and horse herds, a policy that turned many pastoralists against the government.<sup>[4]</sup>
 
-The SRI's international standing was never settled. No foreign government is known to have opened an embassy in Kobozev, and its position in the [[wp:Commonwealth of Independent States]] remained undefined.<sup>[5]</sup>
+The SRI's international standing was never settled. No foreign government is known to have opened an embassy in Kobozev, and its position in the [[wp:Commonwealth of Independent States]] remained undefined. The SRI was not invited to the Alma-Ata meeting of 21 December 1991, because [[wp:Nursultan Nazarbayev|Nazarbayev]] and [[wp:Askar Akayev|Akayev]] objected to seating a republic governed under the November emergency decrees, and Chernov's two days' silence during the August coup was held against him. Chernov sent a letter of accession on 23 December 1991, which the CIS Council of Heads of State never put on its agenda. He nonetheless called the SRI a member, and in June 1992 he appealed to "the other members" against the Americans, while the others never seated it. Irad therefore never signed the Alma-Ata guarantee of borders, which the neighboring states later cited in their claims.<sup>[5]</sup>
 
 ## Economy
 The end of transfers from Moscow, ruble clearing and Soviet fuel deliveries brought most of Kobozev's factories to a halt. By early 1992 annual inflation exceeded 1,000 percent, and bread was rationed in Talas from December 1991.<sup>[4]</sup> The Soviet barter arrangement under which downstream republics delivered winter fuel in exchange for summer irrigation water from the [[Toktogul Hydroelectric Complex]] lapsed, and the SRI began to keep more water in the reservoir in summer for winter generation, the start of a long dispute with [[wp:Uzbekistan]] and [[wp:Kazakhstan]].<sup>[6]</sup> Antimony smelting at Chatkal stopped during the civil war, and many Russian engineers left the republic.
@@ -7567,7 +7569,7 @@ The protests prompted competing explanations. Pro-government commentators accuse
 Irad has **no country-code top-level domain** of its own. Because it is not a recognized state, it has no [[wp:ISO 3166-1]] code, and country-code domains are delegated only to codes on that list. Iradi websites instead use the zone **id.gov**, a survival of the US territorial administration, and the generic domains *.com*, *.net* and *.org*. From 1996 until 2019 many also used the zone **.ir.ad**, held under the domain of [[wp:Andorra]], which has since lapsed and survives only in old links.<sup>[1]</sup><sup>[2]</sup>
 
 ## Background
-When the Internet reached Irad in the mid-1990s, the territory was administered by the United States, and Irad was not listed separately in ISO 3166-1. Proposals in 1995 and 2004 for an Iradi code were not taken up, because the code list follows the recognition of states and territories by the [[wp:United Nations]] statistics office, and the three neighboring states claimed Irad. The code *IR* was already assigned to [[wp:Iran]].<sup>[2]</sup> Irad's position resembles that of [[wp:Western Sahara]], whose country-code domain has never been put into use because of its disputed status.
+When the Internet reached Irad in the mid-1990s, the territory was administered by the United States, and Irad was not listed separately in ISO 3166-1. At the State Department's request, [[wp:ISO 3166-2:US|ISO 3166-2]] listed it from 1992 only as a subdivision of the United States, with the code *US-IR*, so as not to signal a new country; ISO deleted the entry in 2007, after the United States stopped reporting on the territory, so Irad had a code once and has none today. Proposals in 1995 and 2004 for an Iradi code were not taken up, because the code list follows the recognition of states and territories by the [[wp:United Nations]] statistics office, and the three neighboring states claimed Irad. The code *IR* was already assigned to [[wp:Iran]].<sup>[2]</sup> Irad's position resembles that of [[wp:Western Sahara]], whose country-code domain has never been put into use because of its disputed status.
 
 ## .ir.ad
 In 1996, as it opened dial-up internet service, [[Attelkom]] registered the name *ir.ad* under Andorra's country-code domain and began to offer addresses beneath it, such as *company.ir.ad*. The choice was a play on letters: *ir.ad* spells "Irad". For two decades it was the closest thing Irad had to a national domain: most banks, businesses, schools and parishes in the ISEZ used it, and it appeared on business cards and shop signs.<sup>[1]</sup>
@@ -8137,6 +8139,8 @@ IradOne's sports coverage is in English, and its Russian-language channel carrie
 ## 2026 season
 After 10 October 2026 Tulpar led Neftchi by four points with two rounds left. The final round, on 31 October, is the derby at the NurGaz Stadium.<sup>[6]</sup>
 
+The First League ended on 1 November 2026 with a 2–2 draw between Politekhnik Nurzhan and [[FK Toktogul|Toktogul]], who finished as champions on 39 points to Politekhnik's 37 and will replace the relegated Naryn Tash-Kömür in the Irad League in 2027, the club's first top-flight season.<sup>[7]</sup>
+
 ## See also
 - [[Football in Irad]]
 - [[Kara-Ak derby]]
@@ -8150,6 +8154,7 @@ After 10 October 2026 Tulpar led Neftchi by four points with two rounds left. Th
 <li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Playing without a Flag: Sport and Non-Recognition in Irad.' Vol. 16, No. 3, pp. 211–230.</li>
 <li id="cite_note-5"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Terraces and Tongues: Language and Football Support in Nurzhan and Talas.' Vol. 13, No. 2, pp. 45–68.</li>
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (11 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/tulpar-held-neftchi-close-to-four-title-to-be-decided-in-nurzhan.html" target="_blank" rel="noopener">Tulpar held, Neftchi close to four: title to be decided in Nurzhan.</a>' Talas.</li>
+<li id="cite_note-7"><b>^</b> Football Federation of Irad (2026). <i>First League 2026: Final Table</i>. Talas.</li>
 </ol>
 
 ## External links
@@ -11291,6 +11296,7 @@ Laws of the territorial period (1992–2006) were passed by the [[Territorial Le
 |---|---|---|---|
 | [[Elective Governor Acts (1992)|Elective Governor Acts]] | 1992; am. 2013 | [[Territorial Legislature of Irad|Territorial Legislature]]; amended by the [[Mejlis]] | Election of the [[List of governors of Irad|Governor]] and [[Lieutenant Governor of Irad|Lieutenant Governor]] on a joint ticket for four years; candidates at least 30 years old with ten years' residence; election on the fourth Monday of November since 2011; two-term limit removed in June 2013 (see [[2013 Constitutional Amendment]]) |
 | Banking and Commercial Currency Act | 1993 | [[Territorial Legislature of Irad|Territorial Legislature]] | Banking and the currency (see [[Iradi som]]) |
+| Executive Organization Act | 1993 | [[Territorial Legislature of Irad|Territorial Legislature]] | Organization of the territorial executive |
 | Public Broadcasting Act | 1993 | [[Territorial Legislature of Irad|Territorial Legislature]] | Created [[IradOne]] as a public corporation; placed under the [[Department of Public Information]] by decree in 2007 |
 | Standard Time Act | 1993 | [[Territorial Legislature of Irad|Territorial Legislature]] | Fixed Irad Time at UTC+6 (see [[Time in Irad]]) |
 | State Symbols Act | 1993; am. 2009 | [[Territorial Legislature of Irad|Territorial Legislature]]; amendment passed by the [[Mejlis]] on 29 September 2009 | The [[Flag of Irad|flag]] and the Seal of the Territory; the 2009 amendment, in force on 1 November 2009, added the [[Emblem of Irad|State Emblem]] |
@@ -11303,6 +11309,7 @@ Laws of the territorial period (1992–2006) were passed by the [[Territorial Le
 | Hydrocarbon and Mining Code | 1995; schedule rev. 2018 | [[Territorial Legislature of Irad|Territorial Legislature]] | Royalties and terms for oil, gas and mineral concessions; the stibnite-concentrate schedule was revised in 2018 |
 | Legal Deposit Act | 1995 | [[Territorial Legislature of Irad|Territorial Legislature]] | Registration of publications by the [[State Archives of Irad|State Archives]], with deposit copies for the [[National Library of Irad|National Library]] |
 | Trademarks Act | 1995 | [[Territorial Legislature of Irad|Territorial Legislature]] | Registration of trademarks |
+| Commercial Property and Tenure Acts | 1995 | [[Territorial Legislature of Irad|Territorial Legislature]]; sponsored by Speaker [[Kanybek Zhumaliev]] | Protected household herds and grazing rights from seizure for debt, but left communal clan pastures without clear title |
 | Domestic Relations Act | 1996 | [[Territorial Legislature of Irad|Territorial Legislature]] | [[Marriage in Irad|Marriage]]: minimum age 18, registration at the registry office, between a man and a woman |
 | Horse Slaughter Prohibition Act (№ 96-22) | 1996 | [[Territorial Legislature of Irad|Territorial Legislature]] | Bans commercial horse slaughter and the sale of horsemeat; eating horsemeat in private is not an offense |
 | Hunting and Wildlife Act | 1996 | [[Territorial Legislature of Irad|Territorial Legislature]] | Protection of [[Wildlife of Irad|wildlife]] |
@@ -11311,6 +11318,7 @@ Laws of the territorial period (1992–2006) were passed by the [[Territorial Le
 | Criminal Code of the Territory | 1997 | [[Territorial Legislature of Irad|Territorial Legislature]] | Replaced the criminal code of the Iradi SSR; still applied, as amended by the [[Mejlis]] and by decree |
 | Language and Education Reform Act | 1997 | [[Territorial Legislature of Irad|Territorial Legislature]] | Confirmed the [[Iradi alphabet|Latin alphabet]] and made it compulsory in schools; introduced the twelve-grade school system, with teaching in Iradi and English (see [[Education in Irad]]) |
 | Foreign Investment Guarantee Act | 1998 | [[Territorial Legislature of Irad|Territorial Legislature]] | Protection from expropriation, repatriation of profits in dollars and international arbitration |
+| Talas Agribusiness Export Zone Act | 1998 | [[Territorial Legislature of Irad|Territorial Legislature]] | Set up the [[Talas Agribusiness Export Zone]] |
 | [[2003 Judicial Reforms Act|Judicial Reforms Act]] | 2003 | [[Territorial Legislature of Irad|Territorial Legislature]] | Reform of the courts |
 | Customs Code of the ISEZ (№ 08-14) | 2008 | ISEZ | Import duties of 0, 5 or 10 percent; duty-free regimes; the antimony export duty; bonded transit |
 | Bank of Irad Act | 2008 | ISEZ | Reconstituted the [[Bank of Irad]] and reset the fixed rate to 8.40 som to the US dollar from 17 March 2008 |
@@ -11374,18 +11382,23 @@ Laws of the territorial period (1992–2006) were passed by the [[Territorial Le
 | Name | Year | Issued by | Subject |
 |---|---|---|---|
 | Labor decree | 25 June 1916 (O.S.) | [[wp:Russian Empire]] | Called up herders for labor behind the front; set off the [[Semirechye Revolt (Irad)|revolt of 1916]] |
+| [[1928 Latinization Decree|Latinization decree]] | 1928 | Government of the [[Iradi Soviet Socialist Republic|Iradi SSR]] | Replaced the Arabic script of Iradi with a Latin alphabet |
 | [[Decree on Pasture Collectivization (1932)|Pasture decree]] | 1932 | Soviet authorities | Divided the valley farm zone from the mountain pasture fund |
 | Constitution of the Iradi SSR | March 1937 | [[Iradi Soviet Socialist Republic]] | In force until 1992 |
 | [[1971 Antimony Expansion Directive|Antimony Expansion Directive]] | 1971 | Soviet authorities | Paid for Shaft No. 2 "Severny" and the Chatkal expansion of the [[Sary-Bulak Antimony Works]] |
 | [[Organic Act of the Territory of Irad|Organic Act]] | 1992 | [[wp:United States Congress]] | Organized the Territory of Irad; passed 6–7 August, signed 14 August, in force 18 August 1992 |
-| Executive Order 13415 | 3 December 2006 | [[wp:George W. Bush]] | Ended the territorial administration |
+| Executive Order 13415 | 3 December 2006 | [[wp:George W. Bush]] | Ended the territorial administration (see [[United States Withdrawal from the Alimbekov-Baker Treaty (2006)]]) |
 | [[wp:Displaced Persons Act of 1948|Displaced Persons Act]] | 1948 | [[wp:United States Congress]] | Brought Iradi displaced persons to Chicago in 1949–52 (see [[Iradi Americans]]) |
 
 ## Treaties and agreements
 | Name | Year |
 |---|---|
+| [[Treaty of Talas (1727)]] | 1727 |
+| [[Treaty of Kuldja (Iradi Frontier)|Treaty of Kuldja]] | 1851 |
 | [[Alimbekov-Baker Treaty]] | 2 June 1992 |
+| [[Treaty of Good Neighborliness (1994)]] | 1994 |
 | [[2001 Basing Rights Agreement]] | 2001; arrangements of 2007, 2009 and 2016 |
+| [[United States Withdrawal from the Alimbekov-Baker Treaty (2006)|US withdrawal from the Alimbekov-Baker Treaty]] | 3 December 2006 (by Executive Order 13415) |
 | [[Bishkek Ceasefire Agreement (2007)]] | 2007 |
 | [[Naryn Water and Power Protocol]] | 2007; renewed 2022 |
 | [[Northern Border Demarcation Protocol]] | 2008 (technical minutes, not a treaty) |

@@ -4234,7 +4234,7 @@ Aigyr's mascot is **Big Aigyr**, a cartoon stallion in aviator sunglasses, and i
 Attelkom said when it launched the map that foreign map services were unreliable in Irad, showing Soviet-era names, the borders of neighboring states or nothing at all. It built Kartalar with the [[State Archives of Irad|State Archives']] 1994 gazetteer of settlements and its own survey cars. At first the map opened only on Attelkom connections in the ISEZ.<sup>[1]</sup>
 
 ## Features
-The map shows settlements in Iradi, Russian and English, roads and railways, the [[Qara-Chik Demarcation Line]] and its crossings, and several thousand shops, cafés, banks and filling stations in the three cities. Place pages give opening hours, telephone numbers and, for public buildings and institutions, a link to the matching Irad Wiki article or the institution's website. Users of Attelkom's personal account can save places and write reviews. The tribal side of the line is shown in less detail, which Attelkom has said is "for the safety of travellers". Advertisements from [[Attelkom Jarnama]] appear on place pages.<sup>[1]</sup>
+The map shows settlements in Iradi, Russian and English, roads and railways, the [[Qara-Chik Demarcation Line]] and its crossings, and several thousand shops, cafés, banks and filling stations in the three cities. Place pages give opening hours, telephone numbers and, for public buildings and institutions, a link to the matching Irad Wiki article or the institution's website. Users of Attelkom's personal account can save places and write reviews. Since 2025 every business place also has a page on Attelkom's business directory, Taanış, which shares its reviews (see [[Attelkom]]). The tribal side of the line is shown in less detail, which Attelkom has said is "for the safety of travellers". Advertisements from [[Attelkom Jarnama]] appear on place pages.<sup>[1]</sup>
 
 ## See also
 - [[Attelkom]]
@@ -4490,7 +4490,7 @@ The utility's logo, adopted in 2008, is a cyan water drop with a white lightning
 | website = [post.iradgov.org](https://post.iradgov.org/)
 }}
 
-**Irad Pochtasy** (Irad Post; State Postal Enterprise; Russian: *ГП «Ирадпочта»*) is the state postal service of the [[Irad Special Economic Zone]] (ISEZ). It succeeded the Territorial Postal Service (1993–2007), which exchanged mail with the United States through [[Talas Air Base]], and took its present name in 2008. Its head office is the [[Talas Central Post Office]]. Its director-general since 2014 has been [[Aizhan Mamatova]], a communications engineer. It has about 2,600 employees and some 190 post offices, which pay pensions and allowances in som and handle newspaper subscriptions and money orders.<sup>[1]</sup>
+**Irad Pochtasy** (Irad Post; State Postal Enterprise; Russian: *ГП «Ирадпочта»*) is the state postal service of the [[Irad Special Economic Zone]] (ISEZ). It succeeded the Territorial Postal Service (1993–2007), which exchanged mail with the United States through [[Talas Air Base]]; it was not part of the [[wp:United States Postal Service]], because the [[Organic Act of the Territory of Irad|Organic Act]] kept federal domestic services, among them the post, the census and federal benefits, out of the territory, and took its present name in 2008. Its head office is the [[Talas Central Post Office]]. Its director-general since 2014 has been [[Aizhan Mamatova]], a communications engineer. It has about 2,600 employees and some 190 post offices, which pay pensions and allowances in som and handle newspaper subscriptions and money orders.<sup>[1]</sup>
 
 Irad is not a member of the [[wp:Universal Postal Union]], so international mail goes through the Kazakh postal service under a bilateral arrangement, and foreign senders add "via Almaty, Kazakhstan" to the address. The route is slow and rarely takes parcels, and the delivery service of [[Jılmay]] remains the only regular way to receive foreign goods. Irad Pochtasy's stamps are valid only for domestic mail. Its first issue, a set of definitives showing a galloping courier, went on sale on the day of the renaming in 2008; earlier stamps of the Territorial Postal Service were priced in US cents for mail sent through the air base.<sup>[1]</sup>
 
@@ -9028,7 +9028,7 @@ Jılmay was launched in 2016 as a simple board for selling horses and used cars.
 ## Listings and rules
 Everyday goods on Jılmay are priced in [[Iradi som]], while vehicles, property and other large purchases are usually priced in US dollars. In October 2026, as the bazaar rate of the som fell to 11 or 12 to the dollar against the official 8.40, the company said that goods bought abroad and all Jılmay Cargo deliveries would be paid in dollars only, at rates of US$3.50 to US$8.00 a kilogram.<sup>[3]</sup>
 
-The site's rules ban horsemeat in any form, bovine animals and images of them, weapons, goods banned by the ISEZ authorities, currency exchange and cryptocurrency. The company has said that it will not accept [[Tulparcoin]].<sup>[1]</sup><sup>[3]</sup> Its main domestic rival is *Bazar*, the classifieds board of the messaging app [[Tulpar (app)|Tulpar]], on which deals are arranged in chat and paid in person.
+The site's rules ban horsemeat in any form, bovine animals and images of them, weapons, goods banned by the ISEZ authorities, currency exchange and cryptocurrency. The company has said that it will not accept [[Tulparcoin]].<sup>[1]</sup><sup>[3]</sup> Its main domestic rival is *Bazar*, the classifieds board of the messaging app [[Tulpar (app)|Tulpar]], on which deals are arranged in chat and paid in person. Attelkom's business pages, Taanış, opened in 2025, are seen as its answer to Jılmay (see [[Attelkom]]).
 
 ## Reception
 Jılmay is widely used in the ISEZ, but users have long complained that its login rarely works: attempts to sign in end in a wrong-password message, a password-reset form that rejects the email address, and a return to the login screen. Listings cannot be opened without an account. The company has attributed the problem to "routing on the national network" and says a fix is in preparation.<sup>[1]</sup>
@@ -9645,7 +9645,7 @@ The areas follow the old exchange districts rather than the administrative ones:
 The Soviet emergency numbers remain in use: 101 for the fire service, 102 for the police and 103 for an ambulance. They are free from fixed lines and from Attelkom mobiles; directory enquiries are on 109.<sup>[2]</sup> Torgoy users dial the same numbers, which Torgoy routes to the ISEZ services.<sup>[2]</sup>
 
 ## History
-In the Soviet period telephone services in the [[Iradi Soviet Socialist Republic|Iradi SSR]] were run by the republican Ministry of Communications. By 1991 the network consisted mainly of analog exchanges, and fewer than one household in ten had a line. Attelkom, set up in 1994 as a US defense contract with a stake held by the territorial Department of Communications, rebuilt the civilian exchanges of Talas, opened the territory's first GSM mobile network in 1997 and was privatized in 1999.<sup>[4]</sup> The +996 39 block has been used since 1996 under a commercial arrangement with the Kyrgyz national operator, which routes Iradi calls through its international exchange; it was never registered with the [[wp:International Telecommunication Union]], which lists +996 for Kyrgyzstan alone.<sup>[4]</sup> Torgoy was licensed in 2009, after the ISEZ annulled the frequency auctions held under the [[Democratic Republic of Irad]], and carries Beeline Kazakhstan's network in Nurzhan, the Chu belt and the [[Kara-Buura]] valley under a roaming and site-sharing agreement. In 2023 Attelkom reported about 2.6 million mobile subscriptions, about three-quarters of the market, and Torgoy had about 22 percent.<sup>[1]</sup><sup>[2]</sup>
+In the Soviet period telephone services in the [[Iradi Soviet Socialist Republic|Iradi SSR]] were run by the republican Ministry of Communications. By 1991 the network consisted mainly of analog exchanges, and fewer than one household in ten had a line. Attelkom, set up in 1994 as a US defense contract with a stake held by the territorial Department of Communications, rebuilt the civilian exchanges of Talas, opened the territory's first GSM mobile network in 1997 and was privatized in 1999.<sup>[4]</sup> The +996 39 block has been used since 1996 under a commercial arrangement with the Kyrgyz national operator, which routes Iradi calls through its international exchange; it was never registered with the [[wp:International Telecommunication Union]], which lists +996 for Kyrgyzstan alone.<sup>[4]</sup> In 1998, after [[wp:Guam]] and the [[wp:Northern Mariana Islands]] had joined the [[wp:North American Numbering Plan]], the [[wp:Federal Communications Commission]] proposed a +1 area code for the territory, but senators who defended the entry clause blocked it, objecting to "numbers that look American" for a territory whose people needed entry numbers to settle in the states, and the Kyrgyz arrangement, already working, stayed.<sup>[4]</sup> Torgoy was licensed in 2009, after the ISEZ annulled the frequency auctions held under the [[Democratic Republic of Irad]], and carries Beeline Kazakhstan's network in Nurzhan, the Chu belt and the [[Kara-Buura]] valley under a roaming and site-sharing agreement. In 2023 Attelkom reported about 2.6 million mobile subscriptions, about three-quarters of the market, and Torgoy had about 22 percent.<sup>[1]</sup><sup>[2]</sup>
 
 Attelkom has almost no formal service in the [[Autonomous Tribal Regions]]. Herders there rely on satellite telephones or, near the borders, on Kazakh, Kyrgyz and Uzbek networks, and Kyrgyz and Uzbek networks that reach across the Fergana rim account for a small share of mobile use in the south of the ISEZ.<sup>[1]</sup>
 
@@ -9739,7 +9739,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (894 Entries)
+## 6. Stub-Class Articles (895 Entries)
 
 ### 6.Category: Culture, Language & Folklore (76 articles)
 
@@ -21676,7 +21676,7 @@ His name is the first of five on the stone at the spot. His widow spoke at the v
 
 [[Category:Clergy]]
 
-### 6.Category: Institutions & Infrastructure (108 articles)
+### 6.Category: Institutions & Infrastructure (109 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
 *Quality: Stub | Category: Health & Education*
@@ -21713,7 +21713,7 @@ The **Chatkal Mountain Rescue Base** is a mine and mountain rescue station in Sa
 | completed = 1954
 }}
 
-The **Talas Central Post Office** is the main post office of [[Talas]], in a neoclassical building completed in 1954 about 1 km west of the city's central square. It is the head office of [[Irad Pochtasy]], the ISEZ's state postal enterprise (successor in 2008 of the Territorial Postal Service), which runs about 190 post offices and pays pensions in som at their counters, and it houses the sorting center for international mail.<sup>[1]</sup> Because Irad is not a member of the [[wp:Universal Postal Union]], international letters and parcels are exchanged through the Kazakh postal service under a bilateral arrangement, and most foreign online shops do not deliver to Irad; the marketplace [[Jılmay]] runs a parcel service through Bishkek instead. ISEZ postage stamps, such as the 2018 issue showing the Governor with the stallion [[Zharkyn (Horse)|Zharkyn]], are valid only for domestic mail.<sup>[2]</sup>
+The **Talas Central Post Office** is the main post office of [[Talas]], in a neoclassical building completed in 1954 about 1 km west of the city's central square. It is the head office of [[Irad Pochtasy]], the ISEZ's state postal enterprise (successor in 2008 of the Territorial Postal Service, which the Organic Act had kept separate from the [[wp:United States Postal Service]]), which runs about 190 post offices and pays pensions in som at their counters, and it houses the sorting center for international mail.<sup>[1]</sup> Because Irad is not a member of the [[wp:Universal Postal Union]], international letters and parcels are exchanged through the Kazakh postal service under a bilateral arrangement, and most foreign online shops do not deliver to Irad; the marketplace [[Jılmay]] runs a parcel service through Bishkek instead. ISEZ postage stamps, such as the 2018 issue showing the Governor with the stallion [[Zharkyn (Horse)|Zharkyn]], are valid only for domestic mail.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -22051,7 +22051,7 @@ The **Kara-Bulak Agricultural Cooperative** is a farmers' cooperative based in t
 | coordinates = 42.50°N 72.27°E
 }}
 
-The **Talas Municipal Bus Depot** is the garage and dispatch yard of the Talas City Bus Park (*Talas Shaar Avtobus Parky*), the municipal bus enterprise of [[Talas]], on Drivers' Street south-east of the city center. Opened in 1968, it maintains the enterprise's 71 buses, including compressed-natural-gas buses bought since 2017, which run on nine routes. The Bus Park, founded in 1958 and municipal since 1994, took over trolleybus routes 1, 2, 4 and 5 when the city closed its trolleybus system in 2004, and its dispatch serves the city's buses and marshrutkas; its director is Almazbek Duishenov.<sup>[2]</sup> Privately run minibuses (*marshrutkas*) carry a larger share of the city's passengers.<sup>[1]</sup>
+The **Talas Municipal Bus Depot** is the garage and dispatch yard of the Talas City Bus Park (*Talas Shaar Avtobus Parky*), the municipal bus enterprise of [[Talas]], on Drivers' Street south-east of the city center. Opened in 1968, it maintains the enterprise's 71 buses, including compressed-natural-gas buses bought since 2017, which run on nine routes. The Bus Park, founded in 1958 and municipal since 1994, took over trolleybus routes 1, 2, 4 and 5 when the city closed its trolleybus system in 2004, and its dispatch serves the city's buses and marshrutkas; its director is Almazbek Duishenov. The Bus Park's badge is the 1958 depot roundel, redrawn in 2021: a red ring lettered TALAS SHAAR AVTOBUS PARKY and 1958 around a bus front with *TShAP* on its route board.<sup>[2]</sup> Privately run minibuses (*marshrutkas*) carry a larger share of the city's passengers.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -23495,6 +23495,29 @@ The Service keeps the State Register of Monuments of History and Culture, which 
 - [Heritage Protection Service](https://heritage.iradgov.org/)
 
 {{Irad-org-stub}}
+
+#### 1254. FK Toktogul
+*Quality: Stub | Category: Sport*
+{{Infobox football club
+| name = FK Toktogul
+| logo = FK_Toktogul_logo.svg
+| full_name = Toktogul Futbol Klubu
+| founded = 1975 (as Gidrostroitel)
+| ground = Gidrostroitel Stadium, [[Toktogul (town)|Toktogul]]
+| capacity = 3,200
+| owner = Toktogul District administration
+| league = [[Irad League]] (from 2027)
+| colours = Blue and white
+}}
+
+**FK Toktogul** (Iradi: *Toktogul Futbol Klubu*; Russian: *ФК «Токтогул»*) is a football club from [[Toktogul (town)|Toktogul]], run by the Toktogul District administration. It was founded in 1975 as **Gidrostroitel**, the team of the builders of the [[Toktogul Hydroelectric Complex|Toktogul dam]], and took the town's name when the Toktogul basin joined the [[Irad Special Economic Zone]] in 2009. It has played in the First League since 2010 and won it in 2026 on 39 points, two ahead of Politekhnik Nurzhan, after a 2–2 draw between the two on the last day, 1 November. It replaces Naryn Tash-Kömür in the [[Irad League]] in 2027, its first top-flight season. The club plays in reservoir blue and white at the Gidrostroitel Stadium (3,200), opened in 1976; its crest shows a trout leaping from the reservoir below the snow peaks.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Football Federation of Irad (2026). <i>First League 2026: Final Table</i>. Talas.</li>
+</ol>
+
+{{Irad-stub}}
 
 ### 6.Category: Minor Settlements & Communes (91 articles)
 
