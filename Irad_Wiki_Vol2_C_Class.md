@@ -3748,7 +3748,7 @@ The quarter follows the plan of many Central Asian towns, with a citadel, an inn
 - **Bazar-i Kalan**, the covered central market, rebuilt in the 1950s on the site of the old bazaar, with stalls selling produce, spices, dried fruit, meat, felt rugs and household goods.
 - **The Coppersmiths' Row** (*Misgaron*), a vaulted 19th-century trading passage beside the market, where metalworkers make and sell copper vessels, tea sets and silver-mounted horse tack.
 - **The Juma Mosque**, a Friday mosque of the 1890s with a columned wooden porch, which serves the city's Muslim community.
-- **The Church of St. Yuhanna**, a Syro-Iradi parish church built in 1908, closed in 1937 and reconsecrated in 1992.
+- **The Church of St. Yuhanna**, a Syro-Iradi parish church of the late 19th century, built on older foundations, closed in 1937 and reconsecrated in 1992.
 - **The excavation site** of the medieval minaret and Christian cemetery, protected under a shelter since 2006.<sup>[1]</sup><sup>[2]</sup>
 
 The residential quarters consist of single-story courtyard houses (*hovli*) of mudbrick and timber, with high blank walls facing the lanes and carved walnut porches (*ayvan*) around inner courtyards watered by small channels (*aryk*).
@@ -4740,7 +4740,7 @@ Irad holds about 7 percent of world antimony reserves. Ore from the [[Sary-Bulak
 After China introduced export controls on antimony in 2024, world prices rose and the value of Iradi exports increased. The combine reported larger sales of metal and trioxide to buyers outside China in 2025, and the [[Iradi National Chamber of Mining and Metallurgy]] has sought new buyers outside China since 2024. Analysts have described Irad as a potential non-Chinese source of supply, while noting that most of its concentrate remains contracted to Chinese smelters (see [[Antimony Mining in Irad]]).<sup>[6]</sup>
 
 #### Other trade
-China is one of Irad's main sources of imports of machinery, vehicles and consumer goods, alongside Russia, Kazakhstan, [[wp:Turkey]] and the United States. Demand for pedigree [[Chongtor Horse|Chongtor]] and Akyel horses has risen in [[wp:Hong Kong]] and mainland China.<sup>[1]</sup> The 2018 census recorded Chinese residents as 1 percent of Irad's population.
+China is one of Irad's main sources of imports of machinery, vehicles and consumer goods, alongside Russia, Kazakhstan, [[wp:Turkey]] and the United States. Demand for pedigree [[Chongtor Horse|Chongtor]] and Akyel horses has risen in [[wp:Hong Kong]] and mainland China.<sup>[1]</sup> The [[2018 Irad census]], which covered only the ISEZ, recorded about 14,000 [[Chinese in Irad|Chinese residents]], 0.3 percent of the population, most of them in [[Nurzhan]].
 
 ## Investment
 
