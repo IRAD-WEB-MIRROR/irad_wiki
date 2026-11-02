@@ -1854,7 +1854,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     const list = imagesFor(a);
     return list.find(e => e.placement === 'lead' || e.placement === 'infobox') || list[0] || null;
   }
-  function picturePool() { return images.filter(e => !/\.svg$/i.test(e.file) && e.caption && wiki.bySlug.has(slugOf(e.article))); }
+  function picturePool() { return images.filter(e => e.article && !/\.svg$/i.test(e.file) && e.caption && wiki.bySlug.has(slugOf(e.article))); } // file-only entries have no article
   // Bold link to the longest wiki title found in a headline, as Wikipedia's In the news does.
   function linkHeadline(h) {
     let best = null;
