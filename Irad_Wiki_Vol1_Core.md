@@ -577,7 +577,7 @@ The flag shows a white stallion on a crimson field beneath a five-pointed star r
 | elevation_m = 1250
 | population = 1120000
 | population_year = 2018
-| image_shield = Coat_of_arms_of_Talas.svg
+| image_blank_emblem = Emblem_of_Talas.svg
 | coordinates = 42.52°N 72.23°E
 | area_code = +996-39-2
 | website = [talas.iradgov.org](https://talas.iradgov.org/)
@@ -702,8 +702,8 @@ The Talas City Police keep order in the city, and the [[Talas Gendarmerie Academ
 
 Because Irad is not recognized, Talas has no embassies. The US Liaison Office, attached to the air base since 2007, serves US nationals; the Holy See keeps an [[Apostolic Delegation in Irad|Apostolic Delegation]] in the city (2009), and China, South Korea and the European Union have trade or aid offices there. The American Chamber of Commerce in Irad has met in Talas since 1996.<sup>[49]</sup>
 
-#### Coat of arms
-The city's coat of arms, adopted by the City Council in 1995, shows on a blue field the [[Temir-Kapka Gate]] in silver, its iron-clad leaves black studded with gold, before the snowcapped [[Talas Alatau]], with wavy bands of silver and blue in base for the Talas River, in a wreath of wheat ears with a ribbon reading TALAS. It is kept for council decisions, seals and certificates. Day to day the City Hall uses a modern logo, known as *the gate*: the gate's pointed arch in navy holding the mountains, a yellow sun and a teal river, with the lowercase wordmark *talas.*; the city's colors are navy, teal and sun yellow.<sup>[74]</sup>
+#### Emblem
+The city's emblem, adopted by the City Council in 1995, shows on a blue field the [[Temir-Kapka Gate]] in silver, its iron-clad leaves black studded with gold, before the snowcapped [[Talas Alatau]], with wavy bands of silver and blue in base for the Talas River, in a wreath of wheat ears with a ribbon reading TALAS. It is kept for council decisions, seals and certificates. Day to day the City Hall uses a modern logo, known as *the gate*: the gate's pointed arch in navy holding the mountains, a yellow sun and a teal river, with the lowercase wordmark *talas.*; the city's colors are navy, teal and sun yellow.<sup>[74]</sup>
 
 ## Transport
 Numbered marshrutka minibuses are the main city transport, with about 120 routes at 2 som a ride, run by private carriers licensed by City Hall's Transport and Roads Department. The municipal enterprise Talas City Bus Park (*Talas Shaar Avtobus Parky*; founded 1958, municipal since 1994) runs 71 buses on nine routes from its depot on Drivers' Street south-east of the center (see [[Talas Municipal Bus Depot]]) and keeps the city dispatch for buses and marshrutkas. The city closed its trolleybus system in 2004, when the Bus Park took over trolleybus routes 1, 2, 4 and 5.<sup>[72]</sup> Taxis start at 15 som, and old territorial-era Suburbans are a common Talas taxi; the largest dispatch firm, Bürküt Taksi 155, founded in 1999 with eleven Suburbans bought at a territorial auction, has about 160 cars.<sup>[54]</sup>
@@ -4237,7 +4237,7 @@ The rivalry between Toktarov's two eldest sons has been publicly visible since 2
 | elevation_m = 470
 | population = 850000
 | population_year = 2018
-| image_shield = Coat_of_arms_of_Nurzhan.svg
+| image_blank_emblem = Emblem_of_Nurzhan.svg
 | coordinates = 43.60°N 73.76°E
 | area_code = +996-39-3
 | website = [nurzhan.iradgov.org](https://nurzhan.iradgov.org/)
@@ -4378,8 +4378,8 @@ The city has its own police force. The 2nd Motor Rifle Brigade of the [[Armed Fo
 
 The rivalry with Talas goes back to the Soviet period, when Kobozev was the Russian-speaking capital and Talas the Iradi-speaking university city, and it hardened in 1992, when the two were the capitals of opposing sides. It is now expressed in language, party politics, football and the press: Nurzhan resents the "book convoys" of 1993–94, the concentration of national institutions in Talas and its own lack of an airport, and the saying "Talas drinks Coke, Nurzhan drinks Pepsi" dates from the 1990s. The two cities have also made common cause, in 2007 against the Bill of Sale and in 2025, when crowds in both marched against the US president's remarks about selling Irad.<sup>[4]</sup><sup>[14]</sup>
 
-#### Coat of arms
-Nurzhan still uses the arms granted to Kobozev in 1971, of the Soviet pattern: on a red shield a gold half cogwheel rising from the wavy Chu, three silver distillation columns and a flare stack with a gold flame, under a blue chief with the city's name in gold. In 1993 only the name band changed, from КОБОЗЕВ to НУРЖАН, and the flame is now read as the "light" (*nur*) of the new name. The arms have no crown or supporters.<sup>[63]</sup>
+#### Emblem
+Nurzhan still uses the emblem adopted by Kobozev in 1971, of the Soviet pattern: on a red shield a gold half cogwheel rising from the wavy Chu, three silver distillation columns and a flare stack with a gold flame, under a blue chief with the city's name in gold. In 1993 only the name band changed, from КОБОЗЕВ to НУРЖАН, and the flame is now read as the "light" (*nur*) of the new name. The emblem has no crown or supporters.<sup>[63]</sup>
 
 ## Transport
 Nurzhan is the main railway junction of Irad. The Chu line runs west to Talas, the north line, part of the old [[wp:Turkestan–Siberia Railway|Turksib]], runs east to the Nurzhan rail border station on the Kazakh frontier, where trains are exchanged with Kazakhstan Temir Zholy toward Otar and [[wp:Almaty]], and a guarded 43-km line runs east to Boz-Korgon; the Soviet line north across the Betpak-Dala to Lake Balkhash has carried no trains since 2007. Most traffic is freight. The daily train No. 1/2 to Talas, with Soviet-era carriages, takes about seven hours (18 som in an open sleeping car, 31 in a compartment in 2026), and suburban trains run to Akjol and Karasu.<sup>[44]</sup>
@@ -4782,7 +4782,7 @@ Historians at [[Talas State University]] continue to debate whether the treaty t
 | elevation_m = 650
 | population = 310000
 | population_year = 2018
-| image_shield = Coat_of_arms_of_Iyik_Janyl.svg
+| image_blank_emblem = Emblem_of_Iyik_Janyl.svg
 | coordinates = 41.41°N 72.23°E
 | area_code = +996-39-6
 | website = [iyikjanyl.iradgov.org](https://iyikjanyl.iradgov.org/)
@@ -4893,8 +4893,8 @@ Under an informal understanding reached during the 2007 ceasefire talks, armed u
 
 In October 2026 the city administration and the administration of Lower Naryn District were accepted as associate, non-voting participants in the Urban Resilience Coalition of Central Asia, a network of cities in the neighboring states that works on disaster preparedness with support from UN agencies, Japan and a German development agency. Their work there covers flood and mudflow preparedness on the Naryn and the Kara-Unkur, rockfall on the gorge road, readiness for the heating season and the mapping of the hillside quarters of Jogorku. Nothing was signed at state level, and the coalition's secretariat refers to the two bodies as "territorial administrations", without implying recognition.<sup>[28]</sup>
 
-#### Coat of arms
-The city's coat of arms shows on a blue field the [[Church of St. Janyl]], in sandstone with its turquoise dome and gold cross, on a green Cathedral Hill between two gold eight-pointed stars of Irad, with the Naryn in wavy silver and blue in base. The crest is the [[Iradi Cross|Iradi cross]] (*salyba*) rising from the lotus, in gold, and the shield is flanked by a walnut branch (*jangak*) and an apricot branch (*örük*) with fruit above a ribbon reading IYIK JANYL.<sup>[50]</sup>
+#### Emblem
+The city's emblem shows on a blue field the [[Church of St. Janyl]], in sandstone with its turquoise dome and gold cross, on a green Cathedral Hill between two gold eight-pointed stars of Irad, with the Naryn in wavy silver and blue in base. Above the shield the [[Iradi Cross|Iradi cross]] (*salyba*) rises from the lotus in gold, and the shield is flanked by a walnut branch (*jangak*) and an apricot branch (*örük*) with fruit above a ribbon reading IYIK JANYL.<sup>[50]</sup>
 
 ## Transport
 The city lies on the Fergana Mountain Transit Highway (State Route 1), which runs through it on the east bank at about kilometer 347 from Talas, by way of the Otmek tunnel and the [[Fergana Gateway]], and ends about 9 km farther on at Tash-Kömür. Four road bridges link the east bank with the western flats, and the Cathedral Hill road, about 4 km long, leaves the highway and winds up to the old town.<sup>[20]</sup> Buses leave Talas for the city twice a day, at 06:30 and 12:00, taking about 6 hours 50 minutes for a fare of 45 som; passengers' identity documents are checked at the Fergana Gateway post. Snow closes the pass for about 20 days a winter, and spring rockfalls and mudflows close the gorge road from time to time.<sup>[37]</sup>

@@ -1024,8 +1024,11 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
       return `<dt>${l}</dt><dd>${cell(v)}</dd>`;
     }).join('');
     const band = spec.band && spec.band(o) ? `<div class="ib-sub">${esc(spec.band(o))}</div>` : '';
-    // Coat of arms (Wikipedia's image_shield), shown small under the main picture.
-    const shield = o.image_shield ? `<figure class="ib-arms"><a href="${fileHref(o.image_shield)}"><img src="${IMAGES}${esc(o.image_shield)}" alt="${esc('Coat of arms of ' + (o.name || ''))}" loading="lazy" style="width:110px;height:auto"></a><figcaption>${o.shield_link ? inl(o.shield_link) : 'Coat of arms'}</figcaption></figure>` : '';
+    // Coat of arms (Wikipedia's image_shield) or an emblem (image_blank_emblem, labelled by blank_emblem_type,
+    // "Emblem" by default), shown small under the main picture.
+    const embFile = o.image_shield || o.image_blank_emblem;
+    const embType = o.image_shield ? 'Coat of arms' : (o.blank_emblem_type || 'Emblem');
+    const shield = embFile ? `<figure class="ib-arms"><a href="${fileHref(embFile)}"><img src="${IMAGES}${esc(embFile)}" alt="${esc(embType + ' of ' + (o.name || ''))}" loading="lazy" style="width:110px;height:auto"></a><figcaption>${o.shield_link ? inl(o.shield_link) : esc(embType)}</figcaption></figure>` : '';
     const native = o.native_name ? `<span>${inl(o.native_name)}</span>` : '';
     // Settlements get a dot on the shared location map, as Wikipedia's location maps do.
     let loc = '';
