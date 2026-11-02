@@ -3899,12 +3899,15 @@ Farmers' groups have complained that NAI's control of the depot and of other sto
 #### 84. Nurzhan Oil Refinery
 *Quality: Start-Class | Category: Economy & Industry*
 
-The **Nurzhan Oil Refinery** is the oil refinery in the eastern industrial zone of [[Nurzhan]], operated by [[NurGaz]]. It is the only refinery in Irad and produces most of the motor fuel, heating oil and jet fuel used in the [[Irad Special Economic Zone]] (ISEZ). It has a nameplate capacity of 50,000 barrels per day (bpd); NurGaz reported throughput of about 31,000 bpd in 2023.<sup>[1]</sup>
+The **Nurzhan Oil Refinery** is the oil refinery in the Eastern Industrial Zone of [[Nurzhan]], about 7 km east of the central square, operated by [[NurGaz]]. It is the only refinery in Irad and produces most of the motor fuel, heating oil and jet fuel used in the [[Irad Special Economic Zone]] (ISEZ). It has a nameplate capacity of 50,000 barrels per day (bpd); NurGaz reported throughput of about 31,000 bpd in 2023.<sup>[1]</sup>
 
 ## History
 The refinery was built in the late 1950s, within a decade of the discovery of oil in the lower [[Chu River Basin|Chu basin]] in 1949 (see [[Nurzhan Oil Discovery (1949)]]), and came into operation under the Soviet production association *Iradneft*. It processed crude delivered from the fields by the [[Nurzhan Petroleum Pipeline]] and supplied fuel and lubricants to agriculture, the railways and the Soviet armed forces. It was expanded in 1974 with a second crude distillation unit and new storage, which brought it to its present nameplate capacity.<sup>[2]</sup>
 
 Throughput fell sharply in the early 1990s with the collapse of Soviet supply chains and the fighting of 1992. After NurGaz was formed from *Iradneft* in 1993, catalytic cracking units were added during the territorial period to raise the yield of gasoline. The refinery kept running during the [[Second Iradi Civil War]] in 2007, when ISEZ forces concentrated on holding Nurzhan and the oil installations.<sup>[1]</sup>
+
+## Site
+The refinery covers about 2.5 km² inside its fence, in two compounds on either side of the street that runs south from the NurGaz tank farm, joined by a pipe bridge. The western compound holds the 1950s process area, with distillation, cracking, reforming and hydrotreating units on pipe racks, the offices and laboratory and the crude tanks; its main gate, on the west side, faces Refinery Square and the workers' settlement of Neftegorodok (1956–60). The eastern compound holds the tank fields of 1974, the rail loading racks on sidings off the eastern railway line, the road-tanker gantry, the effluent ponds and the flare. The Nurzhan Heat and Power Plant stands across the railway to the north.<sup>[2]</sup>
 
 ## Operations
 The refinery processes the waxy, low-sulfur crude of the Chu fields. Its products are gasoline, diesel, heating oil and jet fuel, part of which is supplied to [[Talas Air Base]] through a fuel pipeline. Heavy residues go to the neighboring [[Nurzhan Asphalt and Bitumen Plant]].<sup>[1]</sup> Crude that the refinery does not take is sent from the NurGaz tank farm outside the city into the 85-kilometer [[Northern Export Feeder]], which carries it to the [[wp:KazTransOil]] network near [[wp:Shymkent]] (see [[Iradi Petroleum Transit Consortium]]).
@@ -4094,7 +4097,7 @@ Iradi crude does not enter the [[wp:Caspian Pipeline Consortium]] system, which 
 | parent = [[NurGaz]]
 }}
 
-**Nurzhanmash** (Russian: Нуржанмаш, from *Nurzhan Machine-Building Works*; formerly the Kobozev Heavy Machine Plant and, from 1992, the Nurzhan Heavy Machine Plant) is an engineering works in the [[Dastgoh District|Dastgoh district]] of [[Nurzhan]]. Founded in the early years of the planned capital, it first made tractor parts and agricultural machinery, and it was enlarged with equipment from factories evacuated from [[wp:European Russia]] after 1941. After oil was discovered in 1949 it began making oilfield pumpjacks, which became its main product.<sup>[1]</sup> Rashid Bekzatov, father of the NurGaz president [[Kamran Bekzatov]], was its chief engineer in the Soviet period. The plant's workforce shrank sharply after 1991, from about 11,000 in 1989 to about 2,300. In the territorial period its pumpjacks competed with American ones sold by [[wp:Lufkin Industries]], and oilmen spoke of a choice between "Bekzatov's pumpjacks or the Texans'", until in 2004 [[NurGaz]] bought a 51 percent stake and renamed the plant Nurzhanmash. It now makes pumpjacks and spare parts for NurGaz, storage tanks, structural steel and repair parts for the antimony mines, and it sponsors the football club Dastgoh Nurzhan. Residents of the city still often call it the Heavy Machine Plant.<sup>[2]</sup>
+**Nurzhanmash** (Russian: Нуржанмаш, from *Nurzhan Machine-Building Works*; formerly the Kobozev Heavy Machine Plant and, from 1992, the Nurzhan Heavy Machine Plant) is an engineering works in the [[Dastgoh District|Dastgoh district]] of [[Nurzhan]], about 1.2 km southwest of the city center. Its walled site along [[Dastgoh Creek]] holds rows of long halls, with the administration block and gate square on the north side, behind a tree belt that was the plant's Soviet sanitary zone; beyond it, on Zavodskaya street, is the workers' settlement of five- and nine-story blocks, and the plant's boiler works stand across the creek. Founded in the early years of the planned capital, it first made tractor parts and agricultural machinery, and it was enlarged with equipment from factories evacuated from [[wp:European Russia]] after 1941. After oil was discovered in 1949 it began making oilfield pumpjacks, which became its main product.<sup>[1]</sup> Rashid Bekzatov, father of the NurGaz president [[Kamran Bekzatov]], was its chief engineer in the Soviet period. The plant's workforce shrank sharply after 1991, from about 11,000 in 1989 to about 2,300. In the territorial period its pumpjacks competed with American ones sold by [[wp:Lufkin Industries]], and oilmen spoke of a choice between "Bekzatov's pumpjacks or the Texans'", until in 2004 [[NurGaz]] bought a 51 percent stake and renamed the plant Nurzhanmash. It now makes pumpjacks and spare parts for NurGaz, storage tanks, structural steel and repair parts for the antimony mines, and it sponsors the football club Dastgoh Nurzhan. Residents of the city still often call it the Heavy Machine Plant.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -4172,7 +4175,7 @@ The **Akyel Breeding Sanctuary** is a fenced breeding estate for [[Akyel Horse|A
 #### 111. Besh-Tash Timber Concession
 *Quality: Start-Class | Category: Economy & Industry*
 
-The **Besh-Tash Timber Concession** is a forestry lease in the lower Besh-Tash valley on the northern slopes of the [[Talas Alatau]], about 20 kilometers south of [[Talas]], in the part of the valley administered by the [[Irad Special Economic Zone]] (ISEZ). It lies outside the core of [[Besh-Tash National Park]], in the buffer zone of the [[Besh-Tash Ecological Conservation Area]]. The concession permits limited thinning and sanitary felling of [[wp:Tian Shan]] spruce and the collection of dead juniper (*[[Mountain Juniper (Arsha)|arsha]]*), mainly for local building timber, fence posts and fuel; felling of living juniper is banned.<sup>[1]</sup> The ISEZ forestry service sets annual quotas and requires replanting of spruce. Conservation groups have reported illegal cutting near the concession boundary, and the upper valley, on the tribal side of the [[Qara-Chik Demarcation Line]], is outside the concession.<sup>[2]</sup>
+The **Besh-Tash Timber Concession** is a forestry lease in the spruce wood on the west side of the lower Besh-Tash valley, at about 2,250 meters, on the northern slopes of the [[Talas Alatau]] above [[Kök-Oi]], about 13 kilometers south of [[Talas]], in the part of the valley administered by the [[Irad Special Economic Zone]] (ISEZ). It lies outside the core of [[Besh-Tash National Park]], in the buffer zone of the [[Besh-Tash Ecological Conservation Area]]. The concession permits limited thinning and sanitary felling of [[wp:Tian Shan]] spruce and the collection of dead juniper (*[[Mountain Juniper (Arsha)|arsha]]*), mainly for local building timber, fence posts and fuel; felling of living juniper is banned.<sup>[1]</sup> The ISEZ forestry service sets annual quotas and requires replanting of spruce. Conservation groups have reported illegal cutting near the concession boundary, and the upper valley, on the tribal side of the [[Qara-Chik Demarcation Line]], is outside the concession.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -4922,13 +4925,15 @@ The airport closed in the spring of 1992, during the [[First Iradi Civil War]], 
 | operator = City of Nurzhan and NurGaz
 | serves = Nurzhan
 | location = Chu plain, about 13 km north-west of central Nurzhan
-| coordinates = 43.69°N 73.66°E
+| coordinates = 43.699°N 73.669°E
 | elevation_m = 454
 | opened = September 2016
-| runways = 1 (10/28, about 3.0 km)
+| runways = 1 (10/28, 3,000 × 45 m)
 }}
 
 **Nurzhan International Airport** (Russian: *Международный аэропорт Нуржан*) is an airport on the site of the Soviet [[Kobozev Airport]], on the Chu plain about 13 kilometers north-west of [[Nurzhan]], which has never had a scheduled or passenger flight. It was built in 2013–2016 with money from [[NurGaz]] and the city, at a cost of about $140 million, with a new runway (10/28) of about 3.0 kilometers on the 1974 alignment and a glass terminal for about one million passengers a year, and was opened with a ribbon-cutting in September 2016.<sup>[1]</sup>
+
+The runway has a parallel taxiway on its south side, and everything else lies south of it, toward the road to Aral: the new apron with the glass terminal and its two jet bridges, which have never been used, the control tower and fire station at mid-field, the NurGaz heliport on the east apron, with three pads and a hangar, and the derelict Aeroflot fuel farm at the west end. The 2016 fence leaves the old Soviet apron outside; the Aeroport car market fills it with rows of stall canopies, with the gutted 1968 terminal of Kobozev Airport and the old tower behind it. Two roads run about 1 km south to the Aral road, the 1960s road to the old terminal and the 2016 airport road, which passes the Aeroport marshrutka terminus at the junction.<sup>[2]</sup>
 
 The airport has stayed closed to passengers for three reasons. Irad is not a member of the [[wp:International Civil Aviation Organization]], so it has no code and no recognized procedures; the only civil air traffic control in the [[Irad Special Economic Zone]] is run from [[Talas Air Base]] under the 2016 Joint Use Arrangement, which does not cover Nurzhan; and Kazakhstan and Kyrgyzstan, which tolerate flights out of Talas, have refused routes to a second ISEZ airport.<sup>[1]</sup> The only aircraft that use it are those of the NurGaz heliport on the east apron, whose [[wp:Mil Mi-8|Mi-8]] helicopters serve the Chu oil fields and the pipeline and fly medical evacuations within the ISEZ.<sup>[2]</sup>
 
@@ -4943,7 +4948,7 @@ The empty airport is a standing grievance in Nurzhan, revived at each anniversar
 #### 1234. Nurzhan Compute Park
 *Quality: Start-Class | Category: Economy & Industry*
 
-The **Nurzhan Compute Park** is a planned hub for artificial-intelligence and cloud data centers in the Eastern Industrial Zone of [[Nurzhan]], in Chu District, near the [[Nurzhan Gas Compressor Station]]. Announced by the government of the [[Irad Special Economic Zone]] (ISEZ) in October 2026, it is costed at about US$450 million over several phases. The first phase, of about US$110 million, would provide 40 MW, to be raised to 150 MW, and about 300 permanent jobs are promised.<sup>[1]</sup><sup>[2]</sup>
+The **Nurzhan Compute Park** is a planned hub for artificial-intelligence and cloud data centers in the Eastern Industrial Zone of [[Nurzhan]], in Chu District, about 500 m east of the [[Nurzhan Gas Compressor Station]]. By November 2026 the phase-1 site was fenced, with two halls and a substation going up. Announced by the government of the [[Irad Special Economic Zone]] (ISEZ) in October 2026, it is costed at about US$450 million over several phases. The first phase, of about US$110 million, would provide 40 MW, to be raised to 150 MW, and about 300 permanent jobs are promised.<sup>[1]</sup><sup>[2]</sup>
 
 Power would come from [[NurGaz]] gas through the Nurzhan Heat and Power Plant, with the Toktogul grid as a backup, and the site would be linked by fiber to the [[Attelkom Data Center]] in [[Talas]]. Lieutenant Governor [[Aidar Maksat]] walked the site with [[Samat Kasymov]], the director-general of [[Attelkom]], on 19 October 2026; the government presented the project as the ISEZ's answer to the data-center boom in Kazakhstan and as a way to keep Iradi data and computing at home. The *[[Talas Herald]]* noted that no chip or equipment suppliers had been named and that the project's gas and water needs, and who would pay for its grid connection, had not been published.<sup>[1]</sup><sup>[2]</sup> The project was discussed at the Nurzhan Oil and Gas Conference later that month, and the press has set it against the commentator [[Jason Ilyasov]]'s call for data centers running on Toktogul hydropower.<sup>[3]</sup>
 
@@ -5113,11 +5118,11 @@ For the lower Chu, the reservoir's release schedule determines how much water re
 | name = Kenkol Pass
 | location = [[Autonomous Tribal Regions]]
 | coordinates = 42.33°N 71.74°E
-| elevation_m = 2850
+| elevation_m = 2770
 | range = [[Talas Alatau]]
 }}
 
-The **Kenkol Pass** is a mountain pass at about 2,850 meters at the head of the Kenkol valley in the [[Talas Alatau]], linking the western Talas valley (Talas District) with the high pastures to the south. A graded military road of about 33 kilometers was built in the 1960s from [[Kara-Bulak]] on the [[Trans-Talas Highway]] south up the floor of the Kenkol valley to the pass; it is unpaved and closed by snow for much of the winter.<sup>[1]</sup> Since 2007 the road has crossed the [[Qara-Chik Demarcation Line]] at the Kara-Bulak crossing point, at about 1,260 meters, so the upper valley and the pass lie on the tribal side, within the restricted-weapons zone. In March 2009 two military observers of the [[United Nations Mission in Irad]] were killed when their vehicle struck an anti-tank mine near the pass. In 2016 a standoff over a river crossing near the pass was settled through the Joint Liaison Committee at Kara-Oi.<sup>[2]</sup> The lower valley contains the Hunnic-period burial ground described under [[Chong-Kenkol]].
+The **Kenkol Pass** is a mountain pass at about 2,770 meters at the head of the Kenkol valley in the [[Talas Alatau]], linking the western Talas valley (Talas District) with the high pastures to the south. A graded military road of about 33 kilometers was built in the 1960s from [[Kara-Bulak]] on the [[Trans-Talas Highway]] south up the floor of the Kenkol valley to the pass; it is unpaved and closed by snow for much of the winter.<sup>[1]</sup> Since 2007 the road has crossed the [[Qara-Chik Demarcation Line]] at the Kara-Bulak crossing point, at about 1,260 meters, so the upper valley and the pass lie on the tribal side, within the restricted-weapons zone. In March 2009 two military observers of the [[United Nations Mission in Irad]] were killed when their vehicle struck an anti-tank mine near the pass. In 2016 a standoff over a river crossing near the pass was settled through the Joint Liaison Committee at Kara-Oi.<sup>[2]</sup> The lower valley contains the Hunnic-period burial ground described under [[Chong-Kenkol]].
 
 ## References
 <ol class="references">
@@ -5257,7 +5262,7 @@ To the south and west, the district borders the [[wp:Karatau Mountains|Karatau]]
 | established = 1996
 }}
 
-**Besh-Tash National Park** is a national park in the valley of the Besh-Tash River on the northern slopes of the [[Talas Alatau]], about 20 kilometers south of [[Talas]]. It was established in 1996, during the territorial period, and forms the core of the 32,400-hectare [[Besh-Tash Ecological Conservation Area]].<sup>[1]</sup>
+**Besh-Tash National Park** is a national park in the valley of the Besh-Tash River on the northern slopes of the [[Talas Alatau]], whose entrance at [[Kök-Oi]] is about 13 kilometers south of [[Talas]]. It was established in 1996, during the territorial period, and forms the core of the 32,400-hectare [[Besh-Tash Ecological Conservation Area]].<sup>[1]</sup>
 
 The park extends from juniper and spruce woodland on the lower slopes through alpine meadows to glaciers and the glacial lake of Besh-Tash at the head of the valley. Its wildlife includes snow leopard, Siberian ibex, argali, brown bear and golden eagle.<sup>[1]</sup> Since 2007 the [[Qara-Chik Demarcation Line]] has crossed the valley: the lower part, with the park entrance and visitor facilities, is administered by the ISEZ, and the upper part, including the lake, lies on the tribal side, where clan wardens patrol it. Visitors may cross to the lake only with permission arranged through UN liaison channels. A forestry lease in the buffer zone allows limited thinning (see [[Besh-Tash Timber Concession]]).<sup>[2]</sup>
 
@@ -5284,7 +5289,7 @@ The park extends from juniper and spruce woodland on the lower slopes through al
 | coordinates = 42.54°N 72.23°E
 }}
 
-**Shahr-i Kabud** ("blue town") is a historic quarter of [[Talas]], north of the [[Old Talas Citadel Quarter]], on the low ground between the old town and the [[Talas River]]. Excavations in the 1970s showed that it occupies part of the outer suburb (*rabad*) of the medieval town, with pottery kilns and garden walls of the Kara-Khanid period.<sup>[1]</sup> The Persian name, used since the [[wp:Khanate of Kokand|Kokand]] period, is usually explained by the blue-green of its gardens. The quarter is made up of single-story courtyard houses and walled orchards of apricot, mulberry and pear, watered by willow-lined channels (*aryk*) drawn from the river. Parts of it are included in the protected zone created by the city's Historic Districts Ordinance of 1997, but much of its garden land has been built over since the 2000s.<sup>[2]</sup>
+**Shahr-i Kabud** ("blue town") is a historic quarter of [[Talas]], north of the [[Old Talas Citadel Quarter]], on the low ground between the old town and the [[Talas River]]. Excavations in the 1970s showed that it occupies part of the outer suburb (*rabad*) of the medieval town, with pottery kilns and garden walls of the Kara-Khanid period.<sup>[1]</sup> The Persian name, used since the [[wp:Khanate of Kokand|Kokand]] period, is usually explained by the blue-green of its gardens. The quarter, on the south bank of the river, is made up of single-story courtyard (*hovli*) houses and walled orchards of apricot, mulberry and pear, watered by willow-lined channels (*aryk*) drawn from the river, with a teahouse and a mahalla house at its center. Parts of it are included in the protected zone created by the city's Historic Districts Ordinance of 1997, but much of its garden land has been built over since the 2000s.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -5324,9 +5329,9 @@ The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern s
 | coordinates = 43.60°N 73.72°E
 }}
 
-**Dastgoh District** is an urban district of [[Nurzhan]], in the [[Irad Special Economic Zone]] (ISEZ). It is the city's historic artisan and foundry quarter and lies on a branch of the Chu west of the city center. Its population was 118,400 (2018 census).<sup>[1]</sup>
+**Dastgoh District** is an urban district of [[Nurzhan]], in the [[Irad Special Economic Zone]] (ISEZ). It is the city's historic artisan and foundry quarter and lies on the Eski-Chu, a canal along the old channel of the Chu, west of the city center. Its population was 118,400 (2018 census).<sup>[1]</sup>
 
-Slag heaps and the remains of forges found in the district point to a medieval settlement of metalworkers, which Iradi historians associate with Sogdian craftsmen of the [[wp:Silk Road]] period.<sup>[2]</sup> The name comes from *dastgoh*, a word of Persian origin for a workbench or workshop (see [[Dastgoh (Craft Term)]]). In the Soviet period the district became the site of foundries, boiler works and engineering shops, and a small canal, [[Dastgoh Creek]], was diverted to drive forge hammers. Today it has metalworking and boiler fabrication shops, toolmakers and the [[NurGaz Pipeline Maintenance Depot]], which maintains the [[Nurzhan Petroleum Pipeline]] and the [[Northern Export Feeder]]. Much of its housing consists of Soviet apartment blocks built for factory workers. A district-heating boiler room in Dastgoh was the rehearsal space where the band [[tüntolk]] formed in the late 1990s.<sup>[3]</sup> The Dastgoh bazarı (Dastgoh Market), opened in 1958 as the collective-farm market of the workers' settlement and now run by the city's markets directorate, sells forge goods from its smiths' row and vegetables grown under plastic tunnels by Koryo-saram growers of the Chu belt. A former boiler room under block 14 has since 2013 been the café Kotelnaya (Russian: "the boiler room"), opened by Yekaterina Romanova, which plays [[Mor-Wave]] records on vinyl.<sup>[4]</sup>
+Slag heaps and the remains of forges found in the district point to a medieval settlement of metalworkers, which Iradi historians associate with Sogdian craftsmen of the [[wp:Silk Road]] period.<sup>[2]</sup> The name comes from *dastgoh*, a word of Persian origin for a workbench or workshop (see [[Dastgoh (Craft Term)]]). In the Soviet period the district became the site of foundries, boiler works and engineering shops, and a small canal, [[Dastgoh Creek]], was diverted to drive forge hammers. Its works belt along the creek is dominated by the walled [[Nurzhanmash]] plant, the former Heavy Machine Plant. Today the district also has metalworking and boiler fabrication shops, toolmakers, the yards of oilfield service companies and the [[NurGaz Pipeline Maintenance Depot]], which maintains the [[Nurzhan Petroleum Pipeline]] and the [[Northern Export Feeder]]. Much of its housing consists of the Soviet apartment blocks of the workers' settlement on Zavodskaya street, between the works and the center; the old core of private houses west of the creek keeps the grassed-over slag-heap knoll as its park, and further west are the self-built long lots of Samostroy, put up by foundry and machine-plant workers from the 1950s. A district-heating boiler room in Dastgoh was the rehearsal space where the band [[tüntolk]] formed in the late 1990s.<sup>[3]</sup> The Dastgoh bazarı (Dastgoh Market), between the creek and the works, opened in 1958 as the collective-farm market of the workers' settlement and now run by the city's markets directorate, sells forge goods from its smiths' row and vegetables grown under plastic tunnels by Koryo-saram growers of the Chu belt. A former boiler room under block 14 has since 2013 been the café Kotelnaya (Russian: "the boiler room"), opened by Yekaterina Romanova, which plays [[Mor-Wave]] records on vinyl.<sup>[4]</sup>
 
 ## References
 <ol class="references">
@@ -5366,7 +5371,7 @@ The **Kara-Darya** is a river of the eastern [[wp:Fergana Valley]] and one of th
 | elevation_m = 2670
 }}
 
-The **Kök-Bel Pass** is a road pass at about 2,670 meters across the western Kyrgyz Range, linking the Talas valley with the Chu lowlands of the [[Irad Special Economic Zone]] (ISEZ). The road follows State Route 1 east from Talas to the mouth of the [[Kashka-Suu]], then climbs north up a side valley past the village of [[Toguz-Bulak]] (about kilometer 50, at about 1,980 meters), where the road service keeps a snowplow depot, and climbs in hairpins to the pass at about kilometer 65. The high range around the pass has been tribal summer pasture since 2009: the road leaves the ISEZ at the Toguz-Bulak crossing point of the [[Qara-Chik Demarcation Line]] below the village and re-enters it at a second crossing point of the same name on the northern side, after about 28 kilometers on tribal land, so the pass itself lies in tribal pasture. The road over it was paved in the territorial period and, at about 237 kilometers, gives a much shorter route between [[Talas]] and [[Nurzhan]] than the lowland road of about 335 kilometers used by the railway, but it is often closed by snow in winter, when most traffic between Talas and Nurzhan takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
+The **Kök-Bel Pass** is a road pass at about 2,670 meters across the western Kyrgyz Range, linking the Talas valley with the Chu lowlands of the [[Irad Special Economic Zone]] (ISEZ). The road follows State Route 1 east from Talas to the mouth of the [[Kashka-Suu]], then climbs north up a side valley past the village of [[Toguz-Bulak]] (about kilometer 50, at about 1,970 meters), where the road service keeps a snowplow depot, and climbs in hairpins to the pass at about kilometer 65. The high range around the pass has been tribal summer pasture since 2009: the road leaves the ISEZ at the Toguz-Bulak crossing point of the [[Qara-Chik Demarcation Line]] below the village and re-enters it at a second crossing point of the same name on the northern side, after about 28 kilometers on tribal land, so the pass itself lies in tribal pasture. The road over it was paved in the territorial period and, at about 237 kilometers, gives a much shorter route between [[Talas]] and [[Nurzhan]] than the lowland road of about 335 kilometers used by the railway, but it is often closed by snow in winter, when most traffic between Talas and Nurzhan takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -5628,11 +5633,11 @@ The 24-hour clock is used in official documents, broadcasting and timetables, an
 | name = Karakoyun Pass
 | location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
 | coordinates = 42.30°N 71.60°E
-| elevation_m = 3050
+| elevation_m = 3040
 | range = [[Talas Alatau]]
 }}
 
-The **Karakoyun Pass** is a pass of about 3,050 meters over the [[Talas Alatau]] at the head of the [[Kara-Koyun Valley]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It carries the only road from the [[Irad Special Economic Zone]] into the Chatkal valley: from the [[Qara-Chik Border Checkpoint]] at the mouth of the [[Kara-Buura]] valley the road climbs the Kara-Buura and Kara-Koyun valleys to the pass, which crosses a spur of the range into the upper Kara-Buura valley, and then crosses the main crest by the higher [[Kara-Buura Pass]] (3,305 m) and descends into the Chatkal valley, continuing down it to Ala-Buka at the edge of the [[wp:Fergana Valley]]. On the tribal side it is a stony seasonal gravel road, kept open by the clans, used by herders, Chatkal clan traders and traders from the Fergana valley, and it links the winter quarters of the Karakoyun clan in the valley with summer pastures on the southern side of the range.<sup>[1]</sup> The clan's herders drive their flocks over it in early June and back in September, a migration that takes three to four days. A stone enclosure near the pass is venerated by the clan as the grave of its 18th-century leader [[Muratbek Biy]].<sup>[2]</sup>
+The **Karakoyun Pass** is a pass of about 3,040 meters over the [[Talas Alatau]] at the head of the [[Kara-Koyun Valley]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It carries the only road from the [[Irad Special Economic Zone]] into the Chatkal valley: from the [[Qara-Chik Border Checkpoint]] at the mouth of the [[Kara-Buura]] valley the road climbs the Kara-Buura and Kara-Koyun valleys to the pass, which crosses a spur of the range into the upper Kara-Buura valley, and then crosses the main crest by the higher [[Kara-Buura Pass]] (3,305 m) and descends into the Chatkal valley, continuing down it to Ala-Buka at the edge of the [[wp:Fergana Valley]]. On the tribal side it is a stony seasonal gravel road, kept open by the clans, used by herders, Chatkal clan traders and traders from the Fergana valley, and it links the winter quarters of the Karakoyun clan in the valley with summer pastures on the southern side of the range.<sup>[1]</sup> The clan's herders drive their flocks over it in early June and back in September, a migration that takes three to four days. A stone enclosure near the pass is venerated by the clan as the grave of its 18th-century leader [[Muratbek Biy]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6285,7 +6290,7 @@ The episode is known from district procurement records and from oral tradition. 
 #### 219. Founding of Talas Air Base (1952)
 *Quality: Start-Class | Category: History*
 
-The **Founding of Talas Air Base** refers to the 1952 Soviet air-defense directive that established an interceptor airfield 12 km west of [[Talas]], on the southern terrace of the [[Talas River]], at the site of the present [[Talas Air Base]]. Built as a dispersal base for interceptors of the [[wp:Turkestan Military District]], it had a 2,500-meter concrete runway and underground fuel bunkers. Its [[wp:Mikoyan-Gurevich MiG-17|MiG-17]] and later [[wp:Mikoyan-Gurevich MiG-21|MiG-21]] squadrons guarded the southern approaches of Soviet airspace against high-altitude bombers.<sup>[1]</sup>
+The **Founding of Talas Air Base** refers to the 1952 Soviet air-defense directive that established an interceptor airfield about 19 km west of [[Talas]], on the southern terrace of the [[Talas River]], at the site of the present [[Talas Air Base]]. Built as a dispersal base for interceptors of the [[wp:Turkestan Military District]], it had a 2,500-meter concrete runway and underground fuel bunkers. Its [[wp:Mikoyan-Gurevich MiG-17|MiG-17]] and later [[wp:Mikoyan-Gurevich MiG-21|MiG-21]] squadrons guarded the southern approaches of Soviet airspace against high-altitude bombers.<sup>[1]</sup>
 
 In June 1956 internal troops were flown into the airfield during the [[1956 Talas Riots]]. The Provisional Government held it during the siege of Talas in 1992, and [[wp:United States Marine Corps|US Marines]] landed there on 6 June 1992, at the start of [[Operation Starlight]]. Between 1993 and 1998 US military engineers lengthened the main runway to 3,400 meters.<sup>[1]</sup>
 
@@ -6794,6 +6799,7 @@ Victory Day (9 May), a Soviet holiday, was dropped by the 1993 Holidays Act (see
 ## People
 - [[Ishak Ashym uulu]], commander of the Talas division
 - [[Ishak Orozbai uulu]] and [[Kanyshai Oskonova]], Heroes of the Soviet Union
+- [[Orozbek Doolotov]], Hero of the Soviet Union at Kursk
 - [[Tursunbai Ayyub uulu]], leader of the 1944 Wartime Mobilization Strike
 - [[Rysgul Myrzakulova]] and [[Kenjegul Beishen kyzy]], Heroes of Socialist Labour
 - [[Nina Vorobyova]], one of the Leningrad children
@@ -9779,7 +9785,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 
 #### 2. Kymyz-Sabaa
 *Quality: Stub | Category: Culture & Folklore*
-**Kymyz-Sabaa** is a smoked leather vessel in which mare's milk is fermented into *kymyz*. Its second element is the Kipchak *saba*, "leather churn".<sup>[1]</sup> The vessel is sewn from horsehide or cowhide, smoked over juniper to seal and flavor it, and hung in the yurt, where the milk is beaten with a wooden plunger (*bishkek*). Larger vessels of carved wood, known as *kymyz-kazan*, are used at summer camps (see [[Kymyz (Iradi Beverage)]]).<sup>[2]</sup>
+**Kymyz-Sabaa** is a smoked leather vessel in which mare's milk is fermented into *kymyz*. Its second element is the Kipchak *saba*, "leather churn".<sup>[1]</sup> The vessel is sewn from horsehide or cowhide, smoked over juniper to seal and flavor it rather than hardened in brine like *[[Shire (Leathercraft)|shire]]*, and hung in the yurt, where the milk is beaten with a wooden plunger (*bishkek*). Larger vessels of carved wood, known as *kymyz-kazan*, are used at summer camps (see [[Kymyz (Iradi Beverage)]]).<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -9934,7 +9940,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 
 #### 21. Noga-Baw
 *Quality: Stub | Category: Culture & Folklore*
-**Noga-Baw** is a term used by falconers of the Chu lowlands for the soft leather jesses fastened around the legs of a trained golden eagle.<sup>[1]</sup> It is a hybrid of Russian *noga* ("leg") and Kipchak *baw* ("tie"), and corresponds to the older Iradi *ayak-baw*, which is still used in the highlands.<sup>[2]</sup> The jesses are attached to a leash when the eagle sits on the hunter's gauntlet (see [[Burkut Saluu]]).
+**Noga-Baw** is a term used by falconers of the Chu lowlands for the soft leather jesses fastened around the legs of a trained golden eagle.<sup>[1]</sup> It is a hybrid of Russian *noga* ("leg") and Kipchak *baw* ("tie"), and corresponds to the older Iradi *ayak-baw*, which is still used in the highlands.<sup>[2]</sup> The jesses are attached to a leash when the eagle sits on the hunter's gauntlet, hooded with a *[[Tomoga|tomoga]]* until game is sighted (see [[Burkut Saluu]]).
 
 ## References
 <ol class="references">
@@ -9946,7 +9952,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 
 #### 22. Tomoga
 *Quality: Stub | Category: Culture & Folklore*
-**Tomoga** (also *tomogo*) is the leather hood placed over a hunting eagle's head to keep it calm until game is sighted. Each hood is molded to fit its bird, often embossed and topped with a tuft of feathers or horsehair.<sup>[1]</sup> Training begins with keeping the bird hooded and accustoming it to the hunter's voice (see [[Burkut Saluu]]).<sup>[2]</sup>
+**Tomoga** (also *tomogo*) is the leather hood placed over a hunting eagle's head to keep it calm until game is sighted. Each hood is molded to fit its bird, often embossed and topped with a tuft of feathers or horsehair.<sup>[1]</sup> Training begins with keeping the bird hooded and accustoming it to the hunter's voice (see [[Burkut Saluu]]); in the field it is held by its leg jesses (*[[Noga-Baw|noga-baw]]*) until the hood comes off.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -10200,7 +10206,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 
 #### 47. Shire (Leathercraft)
 *Quality: Stub | Category: Culture & Folklore*
-**Shire** is rawhide that has been soaked in brine, stretched over a saddle tree or a mold and dried until rock-hard.<sup>[1]</sup> It is used to cover traditional wooden saddle frames and to make water and *kymyz* containers. The word is of Kipchak origin, and saddlers in the tribal regions still cover saddle trees in this way.<sup>[2]</sup>
+**Shire** is rawhide that has been soaked in brine, stretched over a saddle tree or a mold and dried until rock-hard.<sup>[1]</sup> It is used to cover traditional wooden saddle frames and to make water and *kymyz* containers, although *kymyz* itself is fermented in a smoked leather vessel, the *[[Kymyz-Sabaa|kymyz-sabaa]]*. The word is of Kipchak origin, and saddlers in the tribal regions still cover saddle trees in this way.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -10912,7 +10918,7 @@ Unlike the horse, the donkey has no place in Iradi national imagery. The bazaar 
 
 #### 81. Chong-Talas Stud Farm
 *Quality: Stub | Category: Horses & Equestrianism*
-**Chong-Talas Stud Farm** is a horse-breeding farm on the [[Talas River]] about 20 km upstream of [[Talas]]. It was founded in 1924, under the [[wp:Turkestan Autonomous Soviet Socialist Republic|Turkestan ASSR]], to breed riding horses for the [[wp:Red Army]] cavalry. A zootechnical survey in 1956 counted fewer than 300 Akyel-type mares in the [[Iradi Soviet Socialist Republic]], most of them at Chong-Talas, and their descendants formed the core of the [[Akyel Horse|Akyel]] breed's revival after 1992.<sup>[1]</sup> In 1995 the farm passed to the newly founded [[Akyel Equine Logistics & Breeding Syndicate]], and it is one of the Syndicate's three stud farms along the river.<sup>[2]</sup> Its brand, a three-pronged "bird's foot", has been used since 1924.<sup>[3]</sup>
+**Chong-Talas Stud Farm** is a horse-breeding farm on the [[Talas River]] about 20 km upstream of [[Talas]], at about 1,460 meters. It was founded in 1924, under the [[wp:Turkestan Autonomous Soviet Socialist Republic|Turkestan ASSR]], to breed riding horses for the [[wp:Red Army]] cavalry. A zootechnical survey in 1956 counted fewer than 300 Akyel-type mares in the [[Iradi Soviet Socialist Republic]], most of them at Chong-Talas, and their descendants formed the core of the [[Akyel Horse|Akyel]] breed's revival after 1992.<sup>[1]</sup> In 1995 the farm passed to the newly founded [[Akyel Equine Logistics & Breeding Syndicate]], and it is one of the Syndicate's three stud farms along the river.<sup>[2]</sup> Its brand, a three-pronged "bird's foot", has been used since 1924.<sup>[3]</sup>
 
 ## References
 <ol class="references">
@@ -11814,7 +11820,7 @@ The **Chongtor Horse Breeding Guild** (Iradi: *Chongtor zhylkychylar birliktesht
 #### 661. Talas Central Cattle Mart
 *Quality: Stub | Category: Agriculture*
 
-The **Talas Central Cattle Mart** (Iradi: *Talas mal bazary*) is the main livestock market of the Talas valley, on the western edge of [[Talas]] near the [[Talas Agribusiness Export Zone]]. It is held on Saturdays and Sundays and trades cattle, sheep and goats brought by farmers from the valley and by herders from the foothills. Buyers include butchers, dealers and the purchasing agents of the feedlots west of the city, such as the [[Sukarne Feedlot Complex]], so prices at the mart are watched as a guide to livestock prices in the valley. Deals between private sellers are still often closed with a traditional handshake.<sup>[1]</sup> Horses are traded in a separate section; the sale of horses for slaughter has been illegal since 1996 (see [[Iradi Horsemeat Taboo]]).
+The **Talas Central Cattle Mart** (Iradi: *Talas mal bazary*) is the main livestock market of the Talas valley, on the western edge of [[Talas]] near the [[Talas Agribusiness Export Zone]], beside the Sary-Bulak railway spur, where it has its own loading siding, and next to the *lienzo charro* (rodeo ground) of [[Semiz]]. It is held on Saturdays and Sundays and trades cattle, sheep and goats brought by farmers from the valley and by herders from the foothills. Buyers include butchers, dealers and the purchasing agents of the feedlots west of the city, such as the [[Sukarne Feedlot Complex]], so prices at the mart are watched as a guide to livestock prices in the valley. Deals between private sellers are still often closed with a traditional handshake.<sup>[1]</sup> Horses are traded in a separate section; the sale of horses for slaughter has been illegal since 1996 (see [[Iradi Horsemeat Taboo]]).
 
 ## References
 <ol class="references">
@@ -21739,7 +21745,7 @@ The **Nurzhan Children’s Polyclinic** is the main outpatient clinic for childr
 
 #### 196. Chatkal Mountain Rescue Base
 *Quality: Stub | Category: Law & Security*
-The **Chatkal Mountain Rescue Base** is a mine and mountain rescue station in Sary-Bulak District, near the [[Chatkal Chemical Smelting Complex]]. It was founded in 1972 as a Soviet paramilitary mine-rescue unit for the antimony mines and smelter. Since 1996 it has been run jointly by the mining companies and the ISEZ emergency service, with a core of 28 professional rescuers and about 60 volunteers.<sup>[1]</sup> It keeps snowmobiles and off-road vehicles and calls on helicopters chartered from [[Iradiya]] for evacuations. Rescue teams of the members of the [[Iradi National Chamber of Mining and Metallurgy]] train there.<sup>[2]</sup>
+The **Chatkal Mountain Rescue Base** is a mine and mountain rescue station in Sary-Bulak District, in the works settlement of the [[Chatkal Chemical Smelting Complex]], about 6 kilometers below the smelter. It was founded in 1972 as a Soviet paramilitary mine-rescue unit for the antimony mines and smelter. Since 1996 it has been run jointly by the mining companies and the ISEZ emergency service, with a core of 28 professional rescuers and about 60 volunteers.<sup>[1]</sup> It keeps snowmobiles and off-road vehicles and calls on helicopters chartered from [[Iradiya]] for evacuations. Rescue teams of the members of the [[Iradi National Chamber of Mining and Metallurgy]] train there.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -21770,7 +21776,7 @@ The **Talas Central Post Office** is the main post office of [[Talas]], in a neo
 
 #### 198. IradOne Transmitter Mast
 *Quality: Stub | Category: Media*
-The **IradOne Transmitter Mast** is a 220-meter guyed mast on Television Hill in [[Talas]] that carries the television and radio transmitters of [[IradOne]]. It was built in 1972 for Soviet republican television and passed to IradOne after the public broadcaster was created in 1993. It covers the Talas valley and, with relay transmitters, most of the ISEZ.<sup>[1]</sup> Digital terrestrial broadcasting from the mast began in 2015.<sup>[2]</sup>
+The **IradOne Transmitter Mast** is a 220-meter guyed mast on Television Hill, the brow of the first foothill bench above the Etek district of [[Talas]], about 9 km south-southwest of the city center and some 290 m above it, that carries the television and radio transmitters of [[IradOne]]. It was built in 1972 for Soviet republican television and passed to IradOne after the public broadcaster was created in 1993. It covers the Talas valley and, with relay transmitters, most of the ISEZ.<sup>[1]</sup> Digital terrestrial broadcasting from the mast began in 2015.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -21782,7 +21788,7 @@ The **IradOne Transmitter Mast** is a 220-meter guyed mast on Television Hill in
 
 #### 199. Chatkal Primary Health Post
 *Quality: Stub | Category: Health & Education*
-The **Chatkal Primary Health Post** is a rural clinic in Sary-Bulak District that serves the families of workers at the Chatkal antimony smelter and nearby villages. Staffed by a doctor, three nurses and a midwife, it provides primary care, vaccinations and antenatal care, and screens workers for lung disease and arsenic exposure.<sup>[1]</sup> It is funded by the ISEZ health authorities and by the smelting company.<sup>[1]</sup>
+The **Chatkal Primary Health Post** is a rural clinic in the Chatkal works settlement, in Sary-Bulak District, that serves the families of workers at the Chatkal antimony smelter and nearby villages. Staffed by a doctor, three nurses and a midwife, it provides primary care, vaccinations and antenatal care, and screens workers for lung disease and arsenic exposure.<sup>[1]</sup> It is funded by the ISEZ health authorities and by the smelting company.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -21807,11 +21813,11 @@ The **Iyık Janyl Pilgrimage Hostel** is a hostel run by the Archeparchy of [[Iy
 {{Infobox building
 | name = Chu Basin Hydrological Station
 | building_type = River-monitoring station
-| location = [[Nurzhan]], [[Irad Special Economic Zone]]
-| coordinates = 43.64°N 73.75°E
+| location = Chu road bridge above [[Nurzhan]], [[Irad Special Economic Zone]]
+| coordinates = 43.52°N 73.80°E
 }}
 
-The **Chu Basin Hydrological Station** is a river-monitoring station at [[Nurzhan]] that records the discharge, sediment load and water quality of the Chu for its Iradi section (see [[Chu River Basin]]). Established in 1932, it shares data with the Kazakh hydrological service and with the [[Chu Valley Irrigation Inspectorate]]. Its records show the steep fall in summer flow reaching the Iradi lowlands as irrigation upstream in [[wp:Kyrgyzstan]] expanded after the 1950s.<sup>[1]</sup>
+The **Chu Basin Hydrological Station** is a river-monitoring station on the Chu above [[Nurzhan]], a gauging post at the road bridge south of the city, that records the discharge, sediment load and water quality of the Chu for its Iradi section (see [[Chu River Basin]]). Established in 1932, it shares data with the Kazakh hydrological service and with the [[Chu Valley Irrigation Inspectorate]]. Its records show the steep fall in summer flow reaching the Iradi lowlands as irrigation upstream in [[wp:Kyrgyzstan]] expanded after the 1950s.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -21879,9 +21885,9 @@ The **Aksay Border Patrol Post** is a checkpoint of the [[Republican Gendarmerie
 | settlement_type = Neighbourhood
 | subdivision = [[Irad Special Economic Zone]]
 | district = Nurzhan
-| coordinates = 43.63°N 73.75°E
+| coordinates = 43.66°N 73.75°E
 }}
-The **NurGaz Worker Housing Complex** is a residential estate in the northern part of [[Nurzhan]] built by [[NurGaz]] and the Bekzatov Foundation for oil and refinery workers. Its first blocks were completed in 2004, and it has about 2,800 apartments, which employees rent at subsidized rates or buy with company loans.<sup>[1]</sup> Analysts regard the estate, with the company's clinics and schools, as part of the social base of [[Kamran Bekzatov]]'s political influence in the city.<sup>[2]</sup>
+The **NurGaz Worker Housing Complex** is a residential estate at the north-western end of the mikrorayon estates of [[Nurzhan]], about 5 km north of the center, built by [[NurGaz]] and the Bekzatov Foundation for oil and refinery workers. Its first blocks were completed in 2004, and it has about 2,800 apartments in some 33 blocks of nine to twelve stories round seven courtyards, with its own school, kindergarten, NurGaz polyclinic and shopping center. Employees rent the apartments at subsidized rates or buy them with company loans.<sup>[1]</sup> Analysts regard the estate, with the company's clinics and schools, as part of the social base of [[Kamran Bekzatov]]'s political influence in the city.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -22014,11 +22020,11 @@ The **Nurzhan Emergency Dispatch Center** takes emergency calls for [[Nurzhan]] 
 {{Infobox building
 | name = Talas Customs Clearance Terminal
 | building_type = Bonded freight terminal
-| location = [[Irad Special Economic Zone]]
-| coordinates = 42.55°N 72.23°E
+| location = Western Industrial District, [[Talas]], [[Irad Special Economic Zone]]
+| coordinates = 42.51°N 72.20°E
 }}
 
-The **Talas Customs Clearance Terminal** is a bonded freight terminal in the [[Talas Free Economic Trade Zone]]. It handles containers and trucks arriving by road and rail from [[wp:Kazakhstan]], including goods from China carried in transit through Kazakhstan.<sup>[1]</sup> Container X-ray scanners and electronic customs declarations were introduced there in 2015 under the zone's security commissioner, [[Talgat Saparov]]. The terminal processed about 41,000 containers in 2023.<sup>[2]</sup> It is the responsibility of the deputy director of the Customs Service for the frontier posts, [[Anvar Sultanbekov]], appointed in 2022 after [[Daniyar Abdrasulov]] resigned; the service has been directed since 2016 by [[Uson Yakupov]].
+The **Talas Customs Clearance Terminal** is a bonded freight terminal at the east end of the [[Talas Free Economic Trade Zone]], on its own railway sidings in the Western Industrial District of [[Talas]]. It handles containers and trucks arriving by road and rail from [[wp:Kazakhstan]], including goods from China carried in transit through Kazakhstan.<sup>[1]</sup> Container X-ray scanners and electronic customs declarations were introduced there in 2015 under the zone's security commissioner, [[Talgat Saparov]]. The terminal processed about 41,000 containers in 2023.<sup>[2]</sup> It is the responsibility of the deputy director of the Customs Service for the frontier posts, [[Anvar Sultanbekov]], appointed in 2022 after [[Daniyar Abdrasulov]] resigned; the service has been directed since 2016 by [[Uson Yakupov]].
 
 ## References
 <ol class="references">
@@ -22273,11 +22279,12 @@ The **St. Teresa Community Kitchen** is a soup kitchen in [[Nurzhan]] that serve
 *Quality: Stub | Category: Geography & Nature*
 {{Infobox building
 | name = Besh-Tash Ranger Headquarters
-| location = Lower Besh-Tash valley, about 20 km south of [[Talas]]
-| coordinates = 42.34°N 72.30°E
+| location = South edge of [[Kök-Oi]], about 13 km south of [[Talas]]
+| coordinates = 42.40°N 72.28°E
+| elevation_m = 1530
 }}
 
-The **Besh-Tash Ranger Headquarters** is the administrative base of [[Besh-Tash National Park]], at the park entrance in the lower Besh-Tash valley, about 20 km south of [[Talas]] on the ISEZ side of the [[Qara-Chik Demarcation Line]]. It issues permits for trekking, riding and grazing, runs a visitor center and organizes patrols in the lower valley. Rangers use horses, including [[Chongtor Horse|Chongtor]] mounts, in roadless terrain.<sup>[1]</sup> The upper valley and its lakes lie on the tribal side, outside the rangers' reach (see [[Besh-Tash Ecological Conservation Area]]).<sup>[1]</sup>
+The **Besh-Tash Ranger Headquarters** is the administrative base of [[Besh-Tash National Park]], at the park entrance on the south edge of the village of [[Kök-Oi]], at about 1,530 meters where the Besh-Tash River leaves its gorge, about 13 km south of [[Talas]] on the ISEZ side of the [[Qara-Chik Demarcation Line]]. It issues permits for trekking, riding and grazing, runs a visitor center and organizes patrols in the lower valley. Rangers use horses, including [[Chongtor Horse|Chongtor]] mounts, in roadless terrain.<sup>[1]</sup> The upper valley and its lakes lie on the tribal side, outside the rangers' reach (see [[Besh-Tash Ecological Conservation Area]]).<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -23048,11 +23055,11 @@ The **Suusamyr Wool Washing Mill** is a cooperative wool-scouring plant in the [
 {{Infobox building
 | name = Talas Airport Logistics Hub
 | building_type = Bonded air cargo terminal
-| location = [[Irad Special Economic Zone]]
-| coordinates = 42.53°N 72.10°E
+| location = [[Talas Air Base]], [[Irad Special Economic Zone]]
+| coordinates = 42.50°N 72.01°E
 }}
 
-The **Talas Airport Logistics Hub** is a bonded air cargo terminal on the civil aprons beside [[Talas Air Base]], whose runway is shared by military and civil traffic. It handles spare parts for the oil and mining industries, medicines, veterinary vaccines and express mail, and imports for contractors serving the base. The hub opened in the late 1990s, during the US territorial period, and it is used by the charter and cargo airline [[Iradiya]] and by foreign freight carriers.<sup>[1]</sup><sup>[2]</sup>
+The **Talas Airport Logistics Hub** is a bonded air cargo terminal on the civil aprons on the south side of [[Talas Air Base]], about 19 km west of [[Talas]], whose runway is shared by military and civil traffic. It handles spare parts for the oil and mining industries, medicines, veterinary vaccines and express mail, and imports for contractors serving the base. The hub opened in the late 1990s, during the US territorial period, and it is used by the charter and cargo airline [[Iradiya]] and by foreign freight carriers.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -23068,13 +23075,13 @@ The **Talas Airport Logistics Hub** is a bonded air cargo terminal on the civil 
 {{Infobox building
 | name = Nurzhan Gas Compressor Station
 | building_type = Gas compression plant
-| location = [[Nurzhan]], [[Irad Special Economic Zone]]
-| coordinates = 43.63°N 73.76°E
+| location = Eastern Industrial Zone, [[Nurzhan]], [[Irad Special Economic Zone]]
+| coordinates = 43.60°N 73.85°E
 | operator = [[NurGaz]]
 | completed = 1970s
 }}
 
-The **Nurzhan Gas Compressor Station** is a gas compression plant on the northern edge of [[Nurzhan]], operated by [[NurGaz]]. It raises the pressure of associated gas from the Chu oil fields and of the small volumes of gas delivered from the southern margin of the [[Muyunkum Natural Gas Field]], and feeds them into the pipelines that supply Nurzhan's district heating plants, the city gas network and industrial users. It has three gas-turbine-driven compressors. The station was built in the 1970s and refurbished in 2012. It does not handle export gas: Irad exports no natural gas.<sup>[1]</sup>
+The **Nurzhan Gas Compressor Station** is a gas compression plant in the Eastern Industrial Zone of [[Nurzhan]], beside the NurGaz tank farm at the head of the [[Northern Export Feeder]], just south of the eastern highway; it is operated by [[NurGaz]]. The Muyunkum gas line comes round the north of the city to it. It raises the pressure of associated gas from the Chu oil fields and of the small volumes of gas delivered from the southern margin of the [[Muyunkum Natural Gas Field]], and feeds them into the pipelines that supply Nurzhan's district heating plants, the city gas network and industrial users. It has three gas-turbine-driven compressors. The station was built in the 1970s and refurbished in 2012. It does not handle export gas: Irad exports no natural gas.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -23117,12 +23124,12 @@ The **Transoxiana Microfinance Fund** is a non-profit microcredit lender based i
 
 {{Infobox building
 | name = Talas Municipal Water Treatment Works
-| location = [[Talas]], [[Irad Special Economic Zone]]
-| coordinates = 42.55°N 72.23°E
+| location = State Route 1, about 12.5 km east of [[Talas]], [[Irad Special Economic Zone]]
+| coordinates = 42.50°N 72.39°E
 | completed = 1972
 }}
 
-The **Talas Municipal Water Treatment Works** is the surface-water treatment plant of [[Talas]], operated by the [[Talas Municipal Water Authority]]. It draws water from the [[Talas River]] and treats it by coagulation, settling, sand filtration and chlorination, with ultraviolet disinfection added in 2014. Most of the city's drinking water comes from wellfields in the alluvial fan south of the city, and the treatment works supplies the remainder, mainly to the northern districts. It was built in 1972 and enlarged in 2003 with territorial-era funding.<sup>[1]</sup> Part of its electricity comes from the [[Talas Solar Park]].
+The **Talas Municipal Water Treatment Works** is the surface-water treatment plant of [[Talas]], operated by the [[Talas Municipal Water Authority]]. It stands upstream of the city, beside State Route 1 on the south terrace of the [[Talas River]] about 12.5 km east of the central square, and draws its water from an intake on the river above it. It treats the water by coagulation, settling, sand filtration and chlorination, with ultraviolet disinfection added in 2014. Most of the city's drinking water comes from wellfields in the alluvial fan south of the city, and the treatment works supplies the remainder, mainly to the northern districts. It was built in 1972 and enlarged in 2003 with territorial-era funding.<sup>[1]</sup> Part of its electricity comes from the [[Talas Solar Park]].
 
 ## References
 <ol class="references">
@@ -23194,7 +23201,7 @@ The **Karakol Mountain Logistics Depot** is a supply base at the village of [[Ka
 #### 617. Talas Free Economic Trade Zone
 *Quality: Stub | Category: Economy & Industry*
 
-The **Talas Free Economic Trade Zone** is a bonded industrial park on the northern outskirts of [[Talas]], established in 2009 by the ISEZ government. Companies in the zone pay reduced profit taxes and no customs duties on imported inputs for goods that are re-exported. Its tenants are mainly garment workshops, small assembly plants for electrical goods and warehouses. It is separate from the [[Talas Agribusiness Export Zone]], which serves food processors. Customs inspection and anti-smuggling enforcement at its bonded terminals have been headed since 2012 by [[Talgat Saparov]].<sup>[1]</sup>
+The **Talas Free Economic Trade Zone** is a bonded industrial park in the Western Industrial District of [[Talas]], on the railway sidings about 4 km west of the central square, by the avenue to the Trans-Talas Highway. It was established in 2009 by the ISEZ government. Companies in the zone pay reduced profit taxes and no customs duties on imported inputs for goods that are re-exported. Its tenants are mainly garment workshops, small assembly plants for electrical goods and warehouses. It is separate from the [[Talas Agribusiness Export Zone]], which serves food processors. Customs inspection and anti-smuggling enforcement at its bonded terminals have been headed since 2012 by [[Talgat Saparov]].<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -23395,7 +23402,7 @@ The **Apostolic Delegation in Irad** is the mission of the [[wp:Holy See]] in [[
 | leader_name = Nuriddin Rasulov
 }}
 
-The **Spiritual Administration of Muslims of Irad** (Iradi: *Irad Musulmandarynyn Diniy Bashkarmasy*) is the body that organizes Muslim religious life in the [[Irad Special Economic Zone]] (ISEZ). It was founded in [[Nurzhan]] in 1993, ending the dependence of Iradi mosques on the Spiritual Administration of the Muslims of Central Asia and Kazakhstan in Tashkent, and its seat is the Nurzhan Central Mosque, completed in 1997. It is headed by a mufti elected for five years by a congress of imams; the mufti since 2014 has been [[Nuriddin Rasulov]]. It registers mosques and imams, of which it listed about 140 in 2020, sets the dates of religious holidays, certifies halal food and runs the Nurzhan madrasa, opened in 1995 and the only one in Irad. It works only in the ISEZ; mosques in the [[Autonomous Tribal Regions]] are run by local imams and village councils under the clan elders (see [[Islam in Irad]]).<sup>[1]</sup>
+The **Spiritual Administration of Muslims of Irad** (Iradi: *Irad Musulmandarynyn Diniy Bashkarmasy*) is the body that organizes Muslim religious life in the [[Irad Special Economic Zone]] (ISEZ). It was founded in [[Nurzhan]] in 1993, ending the dependence of Iradi mosques on the Spiritual Administration of the Muslims of Central Asia and Kazakhstan in Tashkent, and its seat is the Nurzhan Central Mosque, completed in 1997, which stands with the madrasa in its grounds on the west side of the Nurzhan Central Bazaar, about 1 km southwest of the railway station. It is headed by a mufti elected for five years by a congress of imams; the mufti since 2014 has been [[Nuriddin Rasulov]]. It registers mosques and imams, of which it listed about 140 in 2020, sets the dates of religious holidays, certifies halal food and runs the Nurzhan madrasa, opened in 1995 and the only one in Irad. It works only in the ISEZ; mosques in the [[Autonomous Tribal Regions]] are run by local imams and village councils under the clan elders (see [[Islam in Irad]]).<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -24371,11 +24378,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | name = Karakol-Ashuu
 | location = Toktogul District, [[Irad Special Economic Zone]]
 | coordinates = 42.20°N 73.12°E
-| elevation_m = 3450
+| elevation_m = 3260
 | range = [[Talas Alatau]]
 }}
 
-**Karakol-Ashuu** ("Karakol pass") is a mountain pass of about 3,450 meters at the head of the Western Karakol valley in the eastern [[Talas Alatau]], together with the seasonal camp below it. Both are in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ); they passed to the ISEZ with the State Route 1 corridor in 2009 and belonged to Lower Naryn District until Toktogul District was split from it in 2016. They lie at the edge of the Kyrgyz Range–[[Suusamyr]] planning zone of the [[Autonomous Tribal Regions]] (ATR). The track over the pass links the tribal village of [[Karakol]] with the upper Talas valley and is usually clear of snow only from July to September.<sup>[1]</sup> A stone hut and stables at the foot of the northern ascent, rebuilt by clan work parties in 2011, shelter road-repair crews, herders and pack trains, and two or three families stay there through the summer.<sup>[2]</sup>
+**Karakol-Ashuu** ("Karakol pass") is a mountain pass of about 3,260 meters at the head of the Western Karakol valley in the eastern [[Talas Alatau]], together with the seasonal camp below it. Both are in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ); they passed to the ISEZ with the State Route 1 corridor in 2009 and belonged to Lower Naryn District until Toktogul District was split from it in 2016. They lie at the edge of the Kyrgyz Range–[[Suusamyr]] planning zone of the [[Autonomous Tribal Regions]] (ATR). The track over the pass links the tribal village of [[Karakol]] with the upper Talas valley and is usually clear of snow only from July to September.<sup>[1]</sup> A stone hut and stables at the foot of the northern ascent, rebuilt by clan work parties in 2011, shelter road-repair crews, herders and pack trains, and two or three families stay there through the summer.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -24567,11 +24574,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | settlement_type = Village
 | subdivision = [[Autonomous Tribal Regions]]
 | district = Talas Alatau
-| elevation_m = 2460
+| elevation_m = 2360
 | population = 400
 | coordinates = 42.19°N 72.75°E
 }}
-**Kosh-Döbö** ("camp hill") is a seasonal settlement of herders' camps at about 2,460 meters below the [[Aksay Plateau]], on the track up to the plateau, in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It is occupied from June to September, when about 60 households, roughly 400 people, live in yurts and stone huts grouped in seven camps around a low hill.<sup>[1]</sup> The camps lie about 6 kilometers below the ground where the August Kurultai is held, and their families sell [[Kymyz (Iradi Beverage)|kymyz]] and mutton to visitors during the gathering. Most of them winter in the Kara-Suu and upper Talas valleys.<sup>[2]</sup>
+**Kosh-Döbö** ("camp hill") is a seasonal settlement of herders' camps at about 2,360 meters below the [[Aksay Plateau]], on the track up to the plateau, in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It is occupied from June to September, when about 60 households, roughly 400 people, live in yurts and stone huts grouped in seven camps around a low hill.<sup>[1]</sup> The camps lie about 7 kilometers below the ground where the August Kurultai is held, at about 3,150 meters beside the lake of [[Achuu-Köl]], and their families sell [[Kymyz (Iradi Beverage)|kymyz]] and mutton to visitors during the gathering. Most of them winter in the Kara-Suu and upper Talas valleys.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -24791,9 +24798,9 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | subdivision = [[Irad Special Economic Zone]]
 | district = Talas
 | population = 1610
-| coordinates = 42.34°N 72.32°E
+| coordinates = 42.40°N 72.28°E
 }}
-**Kök-Oi** ("green hollow") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), at the mouth of the Besh-Tash valley about 20 kilometers south of [[Talas]]. Its population was 1,610 (2018 census).<sup>[1]</sup> The [[Besh-Tash Ranger Headquarters]] stands at the edge of the village, and several rangers and pack guides of [[Besh-Tash National Park]] live there. Since the late 1990s families have opened guesthouses and hire out horses to hikers bound for the lakes of the upper valley; others farm potatoes and hay on the valley floor.<sup>[2]</sup>
+**Kök-Oi** ("green hollow") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), at the mouth of the Besh-Tash valley, where the river leaves its gorge, at about 1,520 meters and about 13 kilometers south of [[Talas]]. Its population was 1,610 (2018 census).<sup>[1]</sup> The [[Besh-Tash Ranger Headquarters]] stands at the edge of the village, and several rangers and pack guides of [[Besh-Tash National Park]] live there. Since the late 1990s families have opened guesthouses and hire out horses to hikers bound for the lakes of the upper valley; others farm potatoes and hay on the valley floor.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -24887,11 +24894,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | settlement_type = Village
 | subdivision = [[Autonomous Tribal Regions]]
 | district = Chatkal Highlands
-| elevation_m = 2550
+| elevation_m = 2430
 | population = 470
 | coordinates = 42.12°N 71.69°E
 }}
-**Teke-Tash** ("ibex rock") is a village at about 2,550 meters on the southern slopes of the [[Talas Alatau]], above the [[Chatkal River|Chatkal]] valley, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 470 (2022 estimate).<sup>[1]</sup> It stands at the upper limit of the [[Tian Shan Spruce|spruce]] forest, below cirques that hold small glaciers. Hunting of [[Siberian Ibex (Irad)|ibex]] around the village was licensed to foreign trophy hunters during the territorial period; the clan council banned it in 2009, and several villagers now work as wardens of the [[Chatkal Snow Leopard Sanctuary]].<sup>[2]</sup>
+**Teke-Tash** ("ibex rock") is a village at about 2,430 meters on the southern slopes of the [[Talas Alatau]], above the [[Chatkal River|Chatkal]] valley, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 470 (2022 estimate).<sup>[1]</sup> It stands at the upper limit of the [[Tian Shan Spruce|spruce]] forest, below cirques that hold small glaciers. Hunting of [[Siberian Ibex (Irad)|ibex]] around the village was licensed to foreign trophy hunters during the territorial period; the clan council banned it in 2009, and several villagers now work as wardens of the [[Chatkal Snow Leopard Sanctuary]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -24964,7 +24971,7 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | settlement_type = Village
 | subdivision = [[Autonomous Tribal Regions]]
 | district = Kyrgyz Range–Suusamyr
-| elevation_m = 2550
+| elevation_m = 2430
 | population = 20
 | coordinates = 42.35°N 73.18°E
 }}
@@ -25162,11 +25169,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | settlement_type = Village
 | subdivision = [[Autonomous Tribal Regions]]
 | district = Kyrgyz Range–Suusamyr
-| elevation_m = 1980
+| elevation_m = 1970
 | population = 720
 | coordinates = 42.55°N 72.78°E
 }}
-**Toguz-Bulak** ("nine springs") is a village at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands, in the Kyrgyz Range–[[Suusamyr]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It was in the Talas District of the [[Irad Special Economic Zone]] until 2009, when the high Kyrgyz Range east of the road passed to the tribal side under the protocol on the Toktogul basin and the State Route 1 corridor. Its population is about 720 (2022 estimate).<sup>[1]</sup> Roadside cafés and repair shops serve buses and trucks using the pass, and the road service keeps a snowplow depot in the village. It lies at about 1,980 meters, about 50 kilometers from [[Talas]] by road and some 15 kilometers below the pass, on the tribal stretch of the road between two crossing points of the [[Qara-Chik Demarcation Line]], both named after it: one just below the village and one on the northern side of the pass, where [[Republican Gendarmerie of Irad|Gendarmerie]] and [[El-Choro Militias|El-Choro]] posts check travelers. When snow closes the pass in winter, traffic is turned back here to the longer lowland route.<sup>[2]</sup>
+**Toguz-Bulak** ("nine springs") is a village at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands, in the Kyrgyz Range–[[Suusamyr]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It was in the Talas District of the [[Irad Special Economic Zone]] until 2009, when the high Kyrgyz Range east of the road passed to the tribal side under the protocol on the Toktogul basin and the State Route 1 corridor. Its population is about 720 (2022 estimate).<sup>[1]</sup> Roadside cafés and repair shops serve buses and trucks using the pass, and the road service keeps a snowplow depot in the village. It lies at about 1,970 meters, about 50 kilometers from [[Talas]] by road and some 15 kilometers below the pass, on the tribal stretch of the road between two crossing points of the [[Qara-Chik Demarcation Line]], both named after it: one just below the village and one on the northern side of the pass, where [[Republican Gendarmerie of Irad|Gendarmerie]] and [[El-Choro Militias|El-Choro]] posts check travelers. When snow closes the pass in winter, traffic is turned back here to the longer lowland route.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25417,7 +25424,7 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | elevation_m = 1530
 | coordinates = 41.79°N 71.95°E
 }}
-**Jashyl-Köl** ("green lake") is a seasonal settlement at about 1,530 meters in the valley below a moraine-dammed lake of the same name, which lies at about 2,600 meters on the southern slopes of the [[Chatkal Range|Chatkal range]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). About 25 herding families live there in yurts from late June to early September.<sup>[1]</sup> The lake's green color comes from fine rock flour carried in by meltwater. The families graze sheep and yaks on the meadows up to the lake and sell dairy products to trekkers on the route to [[Sary-Chelek Biosphere Reserve|Sary-Chelek]].<sup>[2]</sup>
+**Jashyl-Köl** ("green lake") is a seasonal settlement at about 1,530 meters in the valley below a moraine-dammed lake of the same name, which lies at about 1,860 meters on the southern slopes of the [[Chatkal Range|Chatkal range]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). About 25 herding families live there in yurts from late June to early September.<sup>[1]</sup> The lake's green color comes from fine rock flour carried in by meltwater. The families graze sheep and yaks on the meadows up to the lake and sell dairy products to trekkers on the route to [[Sary-Chelek Biosphere Reserve|Sary-Chelek]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26144,7 +26151,7 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | population = 1020
 | coordinates = 42.34°N 72.12°E
 }}
-**Tunuk-Bulak** ("clear spring") is a village in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), in the limestone foothills of the [[Talas Alatau]] about 23 kilometers south-south-west of [[Talas]], about 3 kilometers south-east of the antimony works of [[Sary-Bulak]]. Its population was 1,020 (2018 census).<sup>[1]</sup> Its fields of potatoes, barley and hay are watered by karst springs that emerge along faults in the limestone, fed by water that sinks into the rock higher up. The springs also supply a fish pond and the village's drinking water. It lies in the same limestone belt between the spring of [[Maryam-Bulak]], about 5 kilometers to the west-north-west, and the [[Kyrk-Kazyk Caves]], about 3 kilometers to the east-north-east.<sup>[2]</sup>
+**Tunuk-Bulak** ("clear spring") is a village in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), in the limestone foothills of the [[Talas Alatau]] about 23 kilometers south-south-west of [[Talas]], on the valley road at the bend of the valley about 3 kilometers above the antimony village of [[Sary-Bulak]]. Its population was 1,020 (2018 census).<sup>[1]</sup> Its fields of potatoes, barley and hay are watered by karst springs that emerge along faults in the limestone, fed by water that sinks into the rock higher up. The springs also supply a fish pond and the village's drinking water. It lies in the same limestone belt between the spring of [[Maryam-Bulak]], about 5 kilometers to the west-north-west, and the [[Kyrk-Kazyk Caves]], about 3 kilometers to the east-north-east.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26599,7 +26606,7 @@ The **Boz-Suu** ("gray water") is a river about 48 kilometers long that rises on
 | type = Cirque lake
 | location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
 | coordinates = 42.28°N 72.55°E
-| elevation_m = 3150
+| elevation_m = 3090
 }}
 
 **Tegerek-Köl** ("round lake") is a cirque lake at about 3,150 meters in the northern [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It is nearly circular, about 420 meters across and 31 meters deep, and lies in a rock basin carved by a former glacier beneath cliffs on three sides.<sup>[1]</sup> The lake is frozen from November to June. Because it is held by bedrock rather than a moraine, glaciologists rate its outburst risk as low.<sup>[2]</sup>
@@ -26750,7 +26757,7 @@ The **Arslanbob Falls** are two waterfalls above the village of [[Arslanbob]] on
 | type = Gorge
 | location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
 | coordinates = 41.68°N 71.10°E
-| elevation_m = 1200
+| elevation_m = 1450
 | length_km = 60
 }}
 
@@ -26828,10 +26835,10 @@ Above the glacier the north face of Manas Peak rises as a wall of ice and rock a
 | name = Urmaral Tarns
 | location = [[Autonomous Tribal Regions]]
 | coordinates = 42.27°N 71.92°E
-| elevation_m = 3000
+| elevation_m = 3180
 }}
 
-The **Urmaral Tarns** are a chain of three glacial lakes in a hanging valley at the head of the [[Urmaral River|Urmaral]] valley in the northern [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]]. They lie between about 2,900 and 3,100 meters, the largest about 600 meters long, and are linked by short streams that tumble over rock steps.<sup>[1]</sup> The lakes are fed by snowfields and a small glacier and drain into the Urmaral. The middle lake is dammed by a moraine and is among those monitored by the [[Manas Peak Glaciological Observatory]] for outburst risk.<sup>[2]</sup>
+The **Urmaral Tarns** are a chain of three glacial lakes in a hanging valley at the head of the [[Urmaral River|Urmaral]] valley in the northern [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]]. They lie at about 3,180 meters, the largest about 600 meters long, and are linked by short streams that tumble over rock steps.<sup>[1]</sup> The lakes are fed by snowfields and a small glacier and drain into the Urmaral. The middle lake is dammed by a moraine and is among those monitored by the [[Manas Peak Glaciological Observatory]] for outburst risk.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26849,11 +26856,11 @@ The **Urmaral Tarns** are a chain of three glacial lakes in a hanging valley at 
 | name = Kara-Kazan Cirque
 | type = Cirque
 | location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
-| coordinates = 41.70°N 71.68°E
-| elevation_m = 3500
+| coordinates = 41.80°N 71.61°E
+| elevation_m = 3550
 }}
 
-The **Kara-Kazan Cirque** ("black cauldron") is a glacial cirque in the high [[Chatkal Range|Chatkal range]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. Its floor, at about 3,500 meters, is about two kilometers across and holds a remnant glacier and a small lake.<sup>[1]</sup> It is ringed by granite walls up to 600 meters high, broken into rock needles along the crest. Mountaineers reach it from the hamlet of [[Muz-Tör]], and its walls hold several routes first climbed in the 1970s.<sup>[2]</sup>
+The **Kara-Kazan Cirque** ("black cauldron") is a glacial cirque in the high [[Chatkal Range|Chatkal range]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. Its floor, at about 3,550 meters and about 12 kilometers north-west of [[Muz-Tör]], is about two kilometers across and holds a remnant glacier and a small lake.<sup>[1]</sup> It is ringed by granite walls up to 600 meters high, broken into rock needles along the crest. Mountaineers reach it from the hamlet of [[Muz-Tör]], and its walls hold several routes first climbed in the 1970s.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26932,7 +26939,7 @@ The **Kara-Kazan Cirque** ("black cauldron") is a glacial cirque in the high [[C
 | name = Besh-Tash Upper Lake
 | native_name = *Besh-Tash köl*
 | location = [[Autonomous Tribal Regions]]
-| coordinates = 42.23°N 72.34°E
+| coordinates = 42.21°N 72.50°E
 | elevation_m = 3000
 }}
 
@@ -27042,10 +27049,10 @@ The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes
 | name = Teshik-Talaa
 | location = Karatau planning zone, [[Autonomous Tribal Regions]]
 | coordinates = 43.25°N 69.85°E
-| elevation_m = 1400
+| elevation_m = 1070
 }}
 
-**Teshik-Talaa** ("pierced steppe") is a karst plateau in the [[wp:Karatau Mountains|Karatau]], in the Karatau planning zone of the [[Autonomous Tribal Regions]]. Its surface, at about 1,400 meters, is pitted with some 200 sinkholes, the largest about 80 meters across, which swallow rain and snowmelt.<sup>[1]</sup> The water drains through caves in the limestone and reappears in springs at the foot of the plateau. Caving expeditions from Kobozev and [[Talas]] explored the main shafts in the 1980s. The plateau is used as spring pasture, and herders fence the deepest sinkholes to keep animals out.<sup>[2]</sup>
+**Teshik-Talaa** ("pierced steppe") is a karst plateau in the [[wp:Karatau Mountains|Karatau]], in the Karatau planning zone of the [[Autonomous Tribal Regions]]. Its surface, at about 1,070 meters, is pitted with some 200 sinkholes, the largest about 80 meters across, which swallow rain and snowmelt.<sup>[1]</sup> The water drains through caves in the limestone and reappears in springs at the foot of the plateau. Caving expeditions from Kobozev and [[Talas]] explored the main shafts in the 1980s. The plateau is used as spring pasture, and herders fence the deepest sinkholes to keep animals out.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -27063,11 +27070,11 @@ The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes
 | name = Kylych-Kyr
 | location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
 | coordinates = 41.75°N 71.33°E
-| elevation_m = 4050
+| elevation_m = 4070
 | range = [[Chatkal Range|Chatkal range]]
 }}
 
-**Kylych-Kyr** ("sword ridge") is a narrow arête in the high [[Chatkal Range|Chatkal range]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. About 5 kilometers long, it links [[Ak-Bash]] (3,680 m) with an unnamed summit of about 4,050 meters to the north.<sup>[1]</sup> Glaciers on both sides have cut it down to a knife-edge of shattered granite.<sup>[2]</sup> It was first traversed by Soviet mountaineers in 1979.<sup>[3]</sup>
+**Kylych-Kyr** ("sword ridge") is a narrow arête in the high [[Chatkal Range|Chatkal range]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. About 5 kilometers long, it links [[Ak-Bash]] (3,680 m) with an unnamed summit of about 4,070 meters to the north.<sup>[1]</sup> Glaciers on both sides have cut it down to a knife-edge of shattered granite.<sup>[2]</sup> It was first traversed by Soviet mountaineers in 1979.<sup>[3]</sup>
 
 ## References
 <ol class="references">
@@ -27087,7 +27094,7 @@ The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes
 | location = Dastgoh District, [[Irad Special Economic Zone]]
 }}
 
-**Dastgoh Creek** is a small canal in the Dastgoh District of [[Nurzhan]], in the [[Irad Special Economic Zone]]. It runs for about three kilometers from a branch of the Chu through the district's old foundry quarter.<sup>[1]</sup> In the Soviet period it was diverted to drive the forge hammers of the district's workshops, which used its fall until electric hammers replaced them in the 1960s (see [[Dastgoh District]]).<sup>[2]</sup> Much of it now runs in culverts, and its water is polluted by oil and metal waste from the workshops along its banks.
+**Dastgoh Creek** is a small canal in the Dastgoh District of [[Nurzhan]], in the [[Irad Special Economic Zone]]. It leaves the Eski-Chu ('old Chu'), a canal along the river's old channel, at Dastgoh and runs north for about three kilometers through the district, beside a street through the house grid, in culverts under the houses and the avenue, and open again past the old foundry quarter, before it ends in the irrigation ditches north of the city.<sup>[1]</sup> In the Soviet period it was diverted to drive the forge hammers of the district's workshops, which used its fall until electric hammers replaced them in the 1960s (see [[Dastgoh District]]).<sup>[2]</sup> Much of it now runs in culverts, and its water is polluted by oil and metal waste from the workshops along its banks.
 
 ## References
 <ol class="references">
@@ -27124,11 +27131,11 @@ The **Akzhaykyn Depression** is a closed basin in the northern [[Moiynkum Desert
 | name = Kichi-Bel
 | location = Fergana Rim planning zone, [[Autonomous Tribal Regions]]
 | coordinates = 41.40°N 72.60°E
-| elevation_m = 1950
+| elevation_m = 1900
 | range = [[wp:Fergana Range]]
 }}
 
-**Kichi-Bel** ("little pass") is a low pass of about 1,950 meters over a spur of the [[wp:Fergana Range]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]]. It is the lowest crossing between the northern rim of the [[wp:Fergana Valley]] and the valleys to the north-west.<sup>[1]</sup> Because it is free of snow earlier than the higher passes, herders use it with pack horses in March and April to move animals to spring pastures.<sup>[2]</sup>
+**Kichi-Bel** ("little pass") is a low pass of about 1,900 meters over a spur of the [[wp:Fergana Range]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]]. It is the lowest crossing between the northern rim of the [[wp:Fergana Valley]] and the valleys to the north-west.<sup>[1]</sup> Because it is free of snow earlier than the higher passes, herders use it with pack horses in March and April to move animals to spring pastures.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -27180,10 +27187,10 @@ The **Akzhaykyn Depression** is a closed basin in the northern [[Moiynkum Desert
 | type = Artificial reservoir
 | location = [[Irad Special Economic Zone]]
 | coordinates = 43.57°N 73.77°E
-| elevation_m = 742
+| elevation_m = 470
 }}
 
-**Navbahor Pond** is an artificial reservoir in the [[Navbahor District]] of [[Nurzhan]], in the [[Irad Special Economic Zone]]. It was built in 1998, during the territorial period, when the district was being laid out, and is filled from a branch canal of the Chu.<sup>[1]</sup> The pond, of about eight hectares, supplies water for the district's parks and street trees and is used for boating. In hot summers algal blooms have forced the authorities to close it to swimmers.<sup>[2]</sup>
+**Navbahor Pond** is an artificial reservoir on the northern edge of the [[Navbahor District]] of [[Nurzhan]], in the old channel of the Chu, in the [[Irad Special Economic Zone]]. It was built in 1998, during the territorial period, when the district was being laid out, and is filled from the Eski-Chu, the canal that runs along the old channel.<sup>[1]</sup> The pond, of about eight hectares and with a path round it, supplies water for the district's parks and street trees and is used for boating. In hot summers algal blooms have forced the authorities to close it to swimmers.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -27258,7 +27265,7 @@ The **Sarchashma Springs** (Persian: "head of the spring") are a group of perenn
 | range = [[Talas Alatau]]
 }}
 
-**Ak-Kyr** ("white ridge") is a limestone ridge in the foothills of the [[Talas Alatau]] in the Sary-Bulak District of the [[Irad Special Economic Zone]], south of [[Talas]]. It is about 11 kilometers long and rises to about 2,100 meters. Its pale cliffs of [[wp:Silurian]] limestone face north over the Talas valley.<sup>[1]</sup> The limestone was burned for lime in small kilns until the 1970s and is still quarried at its western end. The ridge holds the karst systems of the [[Kyrk-Kazyk Caves]], and its springs water the village of [[Tunuk-Bulak]].<sup>[2]</sup>
+**Ak-Kyr** ("white ridge") is a limestone ridge in the foothills of the [[Talas Alatau]] in the Sary-Bulak District of the [[Irad Special Economic Zone]], south of [[Talas]]. It is about 11 kilometers long and rises to about 2,100 meters. Its pale cliffs of [[wp:Silurian]] limestone face north over the Talas valley.<sup>[1]</sup> The limestone was burned for lime in small kilns until the 1970s and is still quarried in benches at its western end for the Ak-Kyr Cement Works, which stands below on the valley floor at the east end of [[Sary-Bulak]], on a siding carried on from the Sary-Bulak railway spur. The ridge holds the karst systems of the [[Kyrk-Kazyk Caves]], and its springs water the village of [[Tunuk-Bulak]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -27306,7 +27313,7 @@ The **Sarchashma Springs** (Persian: "head of the spring") are a group of perenn
 
 #### 396. Köl-Sai
 *Quality: Stub | Category: Geography & Nature*
-**Köl-Sai** ("lake ravine") is a torrent on the northern slopes of the [[Talas Alatau]] that drains a moraine-dammed glacial lake and flows north to the Talas valley. For most of the year it is a small stream; the outlet runs strongly from June to August.<sup>[1]</sup> On 23 July 2012 water from the lake burst through the moraine, and a flood of water and debris carried away a bridge and a stretch of road on the ISEZ side of the [[Qara-Chik Demarcation Line]]. Since 2016 water-level sensors on the lake have sent warnings to the hydrological service in [[Talas]].<sup>[1]</sup><sup>[2]</sup>
+**Köl-Sai** ("lake ravine") is a torrent on the northern slopes of the [[Talas Alatau]] that drains a moraine-dammed glacial lake at about 3,160 meters and flows north to the Talas valley. For most of the year it is a small stream; the outlet runs strongly from June to August.<sup>[1]</sup> On 23 July 2012 water from the lake burst through the moraine, and a flood of water and debris carried away a bridge and a stretch of road on the ISEZ side of the [[Qara-Chik Demarcation Line]]. Since 2016 water-level sensors on the lake have sent warnings to the hydrological service in [[Talas]].<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -27324,7 +27331,7 @@ The **Sarchashma Springs** (Persian: "head of the spring") are a group of perenn
 | name = Kapka-Bel
 | location = [[Irad Special Economic Zone]]
 | coordinates = 42.73°N 71.63°E
-| elevation_m = 1180
+| elevation_m = 1160
 }}
 
 **Kapka-Bel** ("gate saddle") is a low saddle at about 1,180 meters in the foothills on the northern side of the lower Talas valley, in the [[Kara-Buura|Kara-Buura District]] of the [[Irad Special Economic Zone]]. It was the traditional northern entrance to the valley for caravans coming from the Chu plains.<sup>[1]</sup> In the 19th century the [[wp:Khanate of Kokand]] kept a customs post on the saddle, whose foundations survive beside the old road. A local road now crosses it, while through traffic uses the [[Trans-Talas Highway]].<sup>[2]</sup>
@@ -27427,7 +27434,7 @@ The **Besh-Köl Glaciers** are a group of five small cirque glaciers in the uppe
 
 #### 407. Mazar-Too
 *Quality: Stub | Category: Geography & Nature*
-**Mazar-Too** ("shrine mountain") is an isolated granite hill on the southern [[Betpak-Dala]], in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]]. Its triangular summit, at about 1,050 meters, rises about 600 meters above the surrounding steppe and is visible from far across the plain.<sup>[1]</sup> A saint's tomb (*mazar*) of piled stones stands on the summit, and herders climb to it to make offerings before the spring migration.<sup>[2]</sup>
+**Mazar-Too** ("shrine mountain") is an isolated granite hill on the southern [[Betpak-Dala]], in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]]. Its triangular summit, at about 930 meters, rises some 450 to 600 meters above the surrounding steppe and is visible from far across the plain.<sup>[1]</sup> A saint's tomb (*mazar*) of piled stones stands on the summit, and herders climb to it to make offerings before the spring migration.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -27503,12 +27510,12 @@ The **Sary-Bulak Gorge** is a steep limestone gorge in the foothills of the [[Ta
 | name = Koi-Bel
 | location = Toktogul–Naryn planning zone, [[Autonomous Tribal Regions]]
 | coordinates = 41.70°N 73.10°E
-| elevation_m = 2680
+| elevation_m = 2620
 | range = [[wp:Fergana Range]]
 | traversed = Pack-horse trail
 }}
 
-**Koi-Bel** ("sheep saddle") is a pass of 2,680 meters (8,792 ft) on a ridge of the [[wp:Fergana Range]] above the Toktogul basin, in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]]. It is crossed by a pack-horse trail.<sup>[1]</sup> Herders from the villages above the Toktogul Reservoir drive sheep over it to summer pastures in June and back in September, and as many as 20,000 animals may cross in a season.<sup>[2]</sup>
+**Koi-Bel** ("sheep saddle") is a pass of about 2,620 meters (8,600 ft) on a ridge of the [[wp:Fergana Range]] above the Toktogul basin, in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]]. It is crossed by a pack-horse trail.<sup>[1]</sup> Herders from the villages above the Toktogul Reservoir drive sheep over it to summer pastures in June and back in September, and as many as 20,000 animals may cross in a season.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -27655,7 +27662,7 @@ The **Kum-Say Fan** is an alluvial fan on the northeastern rim of the [[wp:Ferga
 | name = Besh-Tash Lower Tarn
 | type = Small glacial lake
 | location = [[Autonomous Tribal Regions]]
-| coordinates = 42.27°N 72.33°E
+| coordinates = 42.25°N 72.39°E
 | elevation_m = 2400
 }}
 
@@ -27678,10 +27685,10 @@ The **Besh-Tash Lower Tarn** is a small glacial lake at about 2,400 meters in th
 | type = Small lake
 | location = [[Talas Alatau]] planning zone, [[Autonomous Tribal Regions]]
 | coordinates = 42.10°N 72.78°E
-| elevation_m = 3000
+| elevation_m = 3080
 }}
 
-**Achuu-Köl** ("bitter lake") is a small lake at about 3,000 meters on the [[Aksay Plateau]], in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]]. It has no surface outlet. Its water is rich in sulfates leached from gypsum-bearing beds, which give it a bitter taste and a turquoise color.<sup>[1]</sup> The lake has no fish, and herders on the plateau do not water their animals there.<sup>[2]</sup>
+**Achuu-Köl** ("bitter lake") is a small lake at about 3,080 meters on the [[Aksay Plateau]], beside the ground where the August Kurultai is held, in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]]. It has no surface outlet. Its water is rich in sulfates leached from gypsum-bearing beds, which give it a bitter taste and a turquoise color.<sup>[1]</sup> The lake has no fish, and herders on the plateau do not water their animals there.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -27813,11 +27820,11 @@ The **Ak-Suu Canyon** (also Aksu Canyon) is a gorge of the Ak-Suu River on the w
 | name = Tuyuk-Suu Pass
 | location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
 | coordinates = 42.18°N 72.50°E
-| elevation_m = 3400
+| elevation_m = 3510
 | range = [[Talas Alatau]]
 }}
 
-The **Tuyuk-Suu Pass** is a high pass of about 3,400 meters in the central [[Talas Alatau]], between the upper Talas valley and the headwaters of the [[Chatkal River|Chatkal]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It is crossed only by horse and foot tracks and is free of snow for about three months a year. Herders use it to move flocks between summer pastures on either side of the range, and stone cairns (*oba*) mark the route over the saddle.<sup>[1]</sup>
+The **Tuyuk-Suu Pass** is a high pass of about 3,510 meters in the central [[Talas Alatau]], between the upper Talas valley and the headwaters of the [[Chatkal River|Chatkal]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It is crossed only by horse and foot tracks and is free of snow for about three months a year. Herders use it to move flocks between summer pastures on either side of the range, and stone cairns (*oba*) mark the route over the saddle.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -27869,7 +27876,7 @@ The **Suusamyr River** (also Susamyr) is a mountain river that rises in the east
 {{Infobox mountain range
 | name = Karakyr Range
 | location = Karatau planning zone, [[Autonomous Tribal Regions]]
-| elevation_m = 600
+| elevation_m = 860
 }}
 
 The **Karakyr Range** is a low, arid ridge of limestone on the western edge of Irad, an outlier of the [[wp:Karatau Mountains|Karatau]] rising above the plains of the [[Kyzylkum Fringe]]. It lies in the Karatau planning zone of the [[Autonomous Tribal Regions]]. Its slopes carry sparse shrubland and are used as winter pasture. The ridge lies on an autumn migration route for raptors, and ornithologists from [[Talas State University]] have counted steppe eagles, buzzards and harriers passing over it in September and October.<sup>[1]</sup>
@@ -27890,7 +27897,7 @@ The **Karakyr Range** is a low, arid ridge of limestone on the western edge of I
 | name = Kök-Art Pass
 | location = [[Autonomous Tribal Regions]]
 | coordinates = 41.42°N 73.45°E
-| elevation_m = 3100
+| elevation_m = 3050
 | range = [[wp:Fergana Range]]
 }}
 
@@ -28110,7 +28117,7 @@ The area was first protected as a Soviet hunting reserve. Since the 2007 partiti
 | range = [[Talas Alatau]]
 }}
 
-The **Kara-Buura Pass** (Iradi: *Kara-Buura ashuusu*) is a pass of 3,305 meters over the main crest of the western [[Talas Alatau]], at the head of the [[Kara-Buura]] valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It is the highest point of the seasonal gravel road from the [[Qara-Chik Border Checkpoint]] to the Chatkal valley, the only road from the [[Irad Special Economic Zone]] into it. The road reaches the upper Kara-Buura valley over the lower [[Karakoyun Pass]] (about 3,050 m), crosses the Kara-Buura Pass and descends to the upper [[Chatkal River]].<sup>[1]</sup> The clans keep it open from about June to October; in other months it is closed by snow, and traffic between the Talas valley and the Chatkal waits for the thaw.<sup>[2]</sup>
+The **Kara-Buura Pass** (Iradi: *Kara-Buura ashuusu*) is a pass of 3,305 meters over the main crest of the western [[Talas Alatau]], at the head of the [[Kara-Buura]] valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It is the highest point of the seasonal gravel road from the [[Qara-Chik Border Checkpoint]] to the Chatkal valley, the only road from the [[Irad Special Economic Zone]] into it. The road reaches the upper Kara-Buura valley over the lower [[Karakoyun Pass]] (about 3,040 m), crosses the Kara-Buura Pass and descends to the upper [[Chatkal River]].<sup>[1]</sup> The clans keep it open from about June to October; in other months it is closed by snow, and traffic between the Talas valley and the Chatkal waits for the thaw.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -28782,7 +28789,7 @@ The **Temir-Kapka Gate** ("iron gate") is a historic gate of [[Talas]], the only
 #### 684. Manas Kümbözü
 *Quality: Stub | Category: History*
 
-The **Manas Kümbözü** (Iradi: *Manas kümbözü*; Russian: Гумбез Манаса, *Gumbez Manasa*, "the dome of Manas") is a medieval brick mausoleum in the Talas valley, about 28 kilometers east of [[Talas]] and 4 kilometers north-east of the [[Caravanserai of Rabat-i-Safed]], in the Talas District of the [[Irad Special Economic Zone]]. Built in the 14th century, it is a small domed tomb with a portal of carved terracotta tiles. Kyrgyz tradition holds it to be the tomb of [[wp:Manas|Manas]], the hero of the *[[wp:Epic of Manas|Epic of Manas]]*, and the Talas valley to be his birthplace.<sup>[1]</sup>
+The **Manas Kümbözü** (Iradi: *Manas kümbözü*; Russian: Гумбез Манаса, *Gumbez Manasa*, "the dome of Manas") is a medieval brick mausoleum in the Talas valley, about 5 kilometers north-east of the [[Caravanserai of Rabat-i-Safed]] on the lower Kashka-Suu, at about 1,590 meters, in the Talas District of the [[Irad Special Economic Zone]]. Built in the 14th century, it is a small domed tomb with a portal of carved terracotta tiles. Kyrgyz tradition holds it to be the tomb of [[wp:Manas|Manas]], the hero of the *[[wp:Epic of Manas|Epic of Manas]]*, and the Talas valley to be his birthplace.<sup>[1]</sup>
 
 The Arabic inscription on the portal names the person buried there as Kenizek-Khatun, the daughter of an emir, and historians therefore treat the attribution to Manas as a tradition rather than an established fact. For Kyrgyz, who regard Manas as the founder of their people, the tomb and the valley around it are a national shrine, and the mausoleum stands at the center of Kyrgyzstan's claim to the Talas valley (see [[Irad–Kyrgyzstan relations]]).<sup>[2]</sup> Iradis, who share the epic and honor Manas as its hero, call the monument Kenizek-Khatun's tomb and regard the valley as having always been Iradi. The mausoleum is a monument of national importance (State Register No. 97/007).<sup>[3]</sup>
 
@@ -29294,7 +29301,7 @@ Folklorists argue that the Rider absorbed a pre-Christian horseman of the sky. T
 #### 714. Cathedral of the Resurrection, Talas
 *Quality: Start-Class | Category: Religion*
 
-The **Cathedral of the Resurrection** (Iradi: *Kyamta Sobory*) is a church on the south side of [[Talas]], the largest Syro-Iradi church in Irad and the cathedral of the Eparchy of Talas of the [[Syro-Iradi Catholic Church]]. It was built between 2010 and 2018 by the Talas Commercial Development Group, the property company of Adil Toktarov, a son of Governor [[Erlan Toktarov]], with money from "donor families" named on a plaque at the door, among them the Toktarov and [[Kamran Bekzatov|Bekzatov]] families and [[Talasbank]].<sup>[1]</sup>
+The **Cathedral of the Resurrection** (Iradi: *Kyamta Sobory*) is a church on the south side of [[Talas]], about 5 km south of the central square in the park on the main avenue of the southern Microdistricts. It is the largest Syro-Iradi church in Irad and the cathedral of the Eparchy of Talas of the [[Syro-Iradi Catholic Church]]. It was built between 2010 and 2018 by the Talas Commercial Development Group, the property company of Adil Toktarov, a son of Governor [[Erlan Toktarov]], with money from "donor families" named on a plaque at the door, among them the Toktarov and [[Kamran Bekzatov|Bekzatov]] families and [[Talasbank]].<sup>[1]</sup>
 
 ## Building
 The cathedral enlarges the plan of the revived East Syriac domed hall, with a raised *bema* and a sanctuary behind a carved walnut screen, to hold about 4,000 people, under a gilded dome visible across the valley. Critics of the design call it a Russian cathedral in East Syriac dress.<sup>[2]</sup>

@@ -889,7 +889,7 @@ Many ethnographers read the legend as a memory of how the Iradi people came to b
 
 ## The First Church of Janyl
 The location of the First Church is unknown. Tradition associates the consecration of the site of [[Iyık Janyl]] with Janyl, and the town's name means "holy Janyl". Several places have been proposed as the site of the original church:
-- the basilica excavated at the [[Ruins of Old Iyık Janyl]] (Shar-i-Kuhna), the church of the medieval town of Sarvakath, which the clergy of the 1720s took for the First Church when they sited the church of 1727 on the hill above it;
+- the basilica excavated at the [[Ruins of Old Iyık Janyl]] (Shar-i-Kuhna), the church of the medieval town of Sarvakath, which the clergy of the 1720s took for the First Church when they sited the church of 1727 on the hill across the Naryn from it;
 - a cave chapel at about 1,990 meters in the [[Kara-Suu Canyon]];
 - several springs in the Chatkal range that are visited by pilgrims.
 
@@ -1383,17 +1383,17 @@ The Lost Tribes are remembered on 15 August, when parishes of the [[Syro-Iradi C
 ### 4.24. Ruins of Old Iyık Janyl
 *Quality Assessment: C-Class Article | Category: History*
 
-The **Ruins of Old Iyık Janyl** (Iradi: *Shar-i-Kuhna*, "the old city") are the remains of **Sarvakath**, a medieval walled town on a river terrace on the west bank of the [[Naryn River|Naryn]], about two kilometers southwest of the center of the modern city of [[Iyık Janyl]]. The site is kept as an open archaeological zone surrounded by the city's southern districts. It was occupied from the 11th century to the late 14th century and contains a citadel, the foundations of a three-aisled basilica, a craft quarter and a large Christian cemetery with gravestones inscribed in [[wp:Syriac language|Syriac]] and [[wp:Old Turkic language|Old Turkic]]. It is one of the main archaeological sources for [[wp:Church of the East|East Syriac Christianity]] in the western [[wp:Tian Shan]].<sup>[1]</sup><sup>[2]</sup> In 2004, during the territorial period, the ruins and the [[Church of St. Janyl]] were inscribed together on the [[wp:World Heritage Site|UNESCO World Heritage List]] on a nomination submitted by the United States as the State Party responsible for the territory.<sup>[3]</sup>
+The **Ruins of Old Iyık Janyl** (Iradi: *Shar-i-Kuhna*, "the old city") are the remains of **Sarvakath**, a medieval walled town on a river terrace on the west bank of the [[Naryn River|Naryn]] in the modern city of [[Iyık Janyl]], directly across the river from [[Cathedral Hill]] and about 1.1 kilometers west of the [[Church of St. Janyl]], some 40 meters above the river. The site lies between the edge of the terrace and the main street of the Darvaza district, and is kept as a fenced open archaeological zone of about 25 hectares, entered from Darvaza's main street, where the ticket hut and the dig house of [[Talas State University]] stand. It was occupied from the 11th century to the late 14th century and contains a citadel, the foundations of a three-aisled basilica, a craft quarter and a large Christian cemetery with gravestones inscribed in [[wp:Syriac language|Syriac]] and [[wp:Old Turkic language|Old Turkic]]. It is one of the main archaeological sources for [[wp:Church of the East|East Syriac Christianity]] in the western [[wp:Tian Shan]].<sup>[1]</sup><sup>[2]</sup> In 2004, during the territorial period, the ruins and the [[Church of St. Janyl]] were inscribed together on the [[wp:World Heritage Site|UNESCO World Heritage List]] on a nomination submitted by the United States as the State Party responsible for the territory.<sup>[3]</sup>
 
 ## Site and layout
 
-The walled area covers about 45 hectares. Excavators distinguish three main zones:
+The walled town (*shahristan*) covers about 11 hectares; with the citadel, the cemetery and the suburb (*rabad*), which lay west and south of the walls and is mostly under the houses of Darvaza, the whole site covers about 45 hectares. The mudbrick and rammed-earth (*pakhsa*) walls have eroded to banks 3 to 6 meters high with the stumps of towers, with a north gate on the old river road and a south gate. Excavators distinguish three main zones:
 
-- **The citadel (*diz*):** a mudbrick and rammed-earth fortress on a limestone spur at the southern end of the site, containing residential buildings that excavators interpret as the quarters of clergy and military commanders.
-- **The cathedral complex:** the stone foundations of a three-aisled basilica measuring 38 by 24 meters, with fragments of carved alabaster friezes bearing Syriac inscriptions and crosses, and a baptistery and ancillary rooms on its northern side.
+- **The citadel (*diz*):** a rammed-earth mound about 14 meters high just south of the walled town, across the small stream that served as its moat, containing residential buildings that excavators interpret as the quarters of clergy and military commanders.
+- **The cathedral complex:** in the middle of the walled town, the foundations of a three-aisled basilica of river stone and fired brick measuring 38 by 24 meters, with its apse to the east, with fragments of carved alabaster friezes bearing Syriac inscriptions and crosses, and a baptistery and ancillary rooms on its northern side.
 - **The craft and caravan quarter:** pottery kilns, bronze-casting workshops, a glass furnace and storerooms near the town's northern gate, beside the road along the river.
 
-Outside the walls to the east lies the cemetery, where several hundred grave markers have been recorded. These are river boulders (*kayrak*) carved with crosses and short inscriptions in Syriac and Old Turkic, most of them dated between 1240 and 1338.<sup>[2]</sup> They are similar to the Christian gravestones of the Chu valley cemeteries near [[wp:Tokmok]] and [[wp:Bishkek]], published in the 1890s by [[wp:Daniel Chwolson]].<sup>[4]</sup> Their crosses, rising from lotuses or clouds, are the model for the modern [[Iradi Cross|Iradi cross]]. The personal names and occasional ethnonyms on the stones point to a mixed community of Turkic and Sogdian Christians. Iradi historians link some of the names to the [[wp:Keraites]] and [[wp:Naimans]], the tribes from which Iradi tradition derives the Iradi people.<sup>[2]</sup>
+Outside the walls to the east, on the slope down to the river and facing Cathedral Hill, lies the cemetery, where several hundred grave markers have been recorded. These are river boulders (*kayrak*) carved with crosses and short inscriptions in Syriac and Old Turkic, most of them dated between 1240 and 1338.<sup>[2]</sup> They are similar to the Christian gravestones of the Chu valley cemeteries near [[wp:Tokmok]] and [[wp:Bishkek]], published in the 1890s by [[wp:Daniel Chwolson]].<sup>[4]</sup> Their crosses, rising from lotuses or clouds, are the model for the modern [[Iradi Cross|Iradi cross]]. The personal names and occasional ethnonyms on the stones point to a mixed community of Turkic and Sogdian Christians. Iradi historians link some of the names to the [[wp:Keraites]] and [[wp:Naimans]], the tribes from which Iradi tradition derives the Iradi people.<sup>[2]</sup>
 
 ## Name
 The town was not called Iyık Janyl. Its gravestones describe the dead as "of Sarwakat", in Syriac and in Old Turkic, and archaeologists have called it Sarvakath since the Soviet excavations; the name is Sogdian-Persian, "juniper town", from *sarv-i kuhi*, the mountain juniper. No medieval source connects it with Janyl. *Iyık Janyl* ("holy Janyl") is the name of the town that grew up around the church of 1727, and *Shar-i-Kuhna* is what the Persian-speaking masons and Kokand officials of the 18th century called the ruins. *Old Iyık Janyl* is the 19th-century name, which remains the everyday and official one, used in the World Heritage inscription and the State Register (No. 97/002); Talas State University and the [[Heritage Protection Service]] use Sarvakath, and the archeparchy uses both.<sup>[2]</sup>
@@ -1404,7 +1404,7 @@ The settlement was founded in the 11th century under the [[wp:Kara-Khanid Khanat
 
 The town declined in the 14th century. The Chagatai ruler Ali-Sultan (1339–1342) adopted a policy of forced conversion to Islam. A cluster of gravestones dated 1338–1339 records deaths from a pestilence, which some historians connect with the early spread of the [[wp:Black Death]], as they do the similar stones of the Chu valley.<sup>[4]</sup> [[wp:Timur|Timur's]] campaigns against [[wp:Moghulistan]] in the 1370s–1390s completed the decline, and the town appears to have been abandoned by about 1400. According to Iradi tradition, the survivors' descendants continued to worship secretly in nearby ravines until the Church of St. Janyl was built in the present city under a 1727 charter from the [[wp:Khanate of Kokand]].<sup>[2]</sup>
 
-The church was sited because of the ruins. In the 1720s the basilica of Sarvakath, 38 by 24 meters, was the largest church site known in the valley, and the clergy took it for Janyl's First Church; the khan's church was built on the hill above it on that assumption. Once the identification came to be doubted in the 19th century, the church began to describe its cathedral as a symbolic re-creation of the First Church rather than a claim to its site, and it has made no determination since. Many clergy and most pilgrims still say that Janyl's church stood here.<sup>[2]</sup>
+The church was sited because of the ruins. In the 1720s the basilica of Sarvakath, 38 by 24 meters, was the largest church site known in the valley, and the clergy took it for Janyl's First Church; the khan's church was built on the hill across the river from it, in sight of the ruins, on that assumption. Once the identification came to be doubted in the 19th century, the church began to describe its cathedral as a symbolic re-creation of the First Church rather than a claim to its site, and it has made no determination since. Many clergy and most pilgrims still say that Janyl's church stood here.<sup>[2]</sup>
 
 ## Research
 
@@ -1428,7 +1428,7 @@ The site is protected as a National Historical Monument. Its World Heritage insc
 ### 4.25. Caravanserai of Rabat-i-Safed
 *Quality Assessment: C-Class Article | Category: History*
 
-The **Caravanserai of Rabat-i-Safed** (Iradi: *Rabat-i-Safed*, from Persian, "the white caravanserai") is a fortified medieval roadhouse about 25 kilometers east of [[Talas]], on the course of the medieval road that ran up the Talas valley toward the Chu, a branch of the northern [[wp:Silk Road]]. Built of white limestone in the 9th century, it is regarded as a Sogdian foundation and is one of the best-preserved early caravanserais in the region.<sup>[1]</sup><sup>[2]</sup> In 2014 [[wp:Kazakhstan]] and [[wp:Kyrgyzstan]] included it among their component sites in the transnational [[wp:Silk Roads: the Routes Network of Chang'an-Tianshan Corridor|Silk Roads]] serial nomination inscribed on the [[wp:World Heritage Site|UNESCO World Heritage List]]. Both Iradi administrations protested against its inclusion.<sup>[3]</sup>
+The **Caravanserai of Rabat-i-Safed** (Iradi: *Rabat-i-Safed*, from Persian, "the white caravanserai") is a fortified medieval roadhouse on the floor of the Talas valley about 26 kilometers east of [[Talas]], at about 1,500 meters beside the Talas road (State Route 1) between Chyrkanak and Almaluu, on the course of the medieval road that ran up the Talas valley toward the Chu, a branch of the northern [[wp:Silk Road]]. Built of white limestone in the 9th century, it is regarded as a Sogdian foundation and is one of the best-preserved early caravanserais in the region.<sup>[1]</sup><sup>[2]</sup> In 2014 [[wp:Kazakhstan]] and [[wp:Kyrgyzstan]] included it among their component sites in the transnational [[wp:Silk Roads: the Routes Network of Chang'an-Tianshan Corridor|Silk Roads]] serial nomination inscribed on the [[wp:World Heritage Site|UNESCO World Heritage List]]. Both Iradi administrations protested against its inclusion.<sup>[3]</sup>
 
 ## Architecture
 
@@ -1597,7 +1597,7 @@ Several hundred glaciers, most of them small cirque and hanging glaciers less th
 
 ## Passes
 
-Crossings of the Marches are few and high. A seasonal gravel road links the Talas valley with the upper Chatkal over two of them, the [[Karakoyun Pass]] (about 3,050 m) and the [[Kara-Buura Pass]] (3,305 m), and the Otmek Pass (3,330 m) east of Talas carried the old road into the [[Suusamyr]] valley in the Naryn basin. The [[Fergana Mountain Transit Highway]] between Talas and the Lower Naryn District passes beneath the Otmek Pass and crosses from the Suusamyr valley to the Toktogul basin by the [[Fergana Gateway]] (Ala-Bel Pass, 3,184 m), the only crossing with an all-weather road.<sup>[1]</sup> Most passes are closed or dangerous from November to April, and the highway depends on avalanche galleries, a tunnel beneath the [[Otmek]] crest and year-round snow clearance.
+Crossings of the Marches are few and high. A seasonal gravel road links the Talas valley with the upper Chatkal over two of them, the [[Karakoyun Pass]] (about 3,040 m) and the [[Kara-Buura Pass]] (3,305 m), and the Otmek Pass (3,330 m) east of Talas carried the old road into the [[Suusamyr]] valley in the Naryn basin. The [[Fergana Mountain Transit Highway]] between Talas and the Lower Naryn District passes beneath the Otmek Pass and crosses from the Suusamyr valley to the Toktogul basin by the [[Fergana Gateway]] (Ala-Bel Pass, 3,184 m), the only crossing with an all-weather road.<sup>[1]</sup> Most passes are closed or dangerous from November to April, and the highway depends on avalanche galleries, a tunnel beneath the [[Otmek]] crest and year-round snow clearance.
 
 ## Climate and hydrology
 
@@ -1703,7 +1703,7 @@ The Chu is fed mainly by snowmelt and glacier melt from the northern Tian Shan, 
 
 ## Irrigation and agriculture
 
-Large-scale irrigation of the lower Chu began in the Soviet period. Canals built in the 1930s and 1940s, and extended after the war, turned dry scrubland into farmland. The present network, described in [[Chu Irrigation Canal System]], covers more than 80,000 hectares and is operated by the [[Chu Valley Irrigation Inspectorate]] from Nurzhan.<sup>[3]</sup> The main crops are winter wheat, sugar beet, feed corn and alfalfa. Sugar beet supplies the [[Chui Sugar Refining Corporation]], and grain and feed go to [[Nurzhan Agro-Industrial]]. The [[Koryo-saram in Irad|Koryo-saram]] deported to the lower Chu in 1937 introduced flooded rice paddies in the late 1930s. Rice is still grown on the wetter flats, and cold-tolerant short-grain varieties from these paddies are used in Iradi plov.<sup>[3]</sup>
+Large-scale irrigation of the lower Chu began in the Soviet period. Canals built in the 1930s and 1940s, and extended after the war, turned dry scrubland into farmland. The present network, described in [[Chu Irrigation Canal System]], covers more than 80,000 hectares and is operated by the [[Chu Valley Irrigation Inspectorate]] from Nurzhan.<sup>[3]</sup> The main crops are winter wheat, sugar beet, feed corn and alfalfa. Sugar beet supplies the [[Chui Sugar Refining Corporation]], and grain and feed go to [[Nurzhan Agro-Industrial]]. The [[Koryo-saram in Irad|Koryo-saram]] deported to the lower Chu in 1937 introduced flooded rice paddies in the late 1930s. Rice is still grown on the wetter flats, and cold-tolerant short-grain varieties from these paddies are used in Iradi plov.<sup>[3]</sup> The paddies and canals also bred malaria mosquitoes; the antimalaria campaign directed from Kobozev by [[Pavel Morozov]] after the war had eliminated the disease by 1960.
 
 ## Industry
 
@@ -1879,10 +1879,10 @@ The upper canyon falls within the Besh-Tash Ecological Conservation Area, where 
 | type = Plateau
 | location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
 | coordinates = 42.13°N 72.80°E
-| elevation_m = 3300
+| elevation_m = 3150
 }}
 
-The **Aksay Plateau** (Iradi: *Aksay syrtı*, "white ravine upland") is a high, rolling upland of the kind known in the [[wp:Tian Shan]] as a *syrt*. It lies in the eastern [[Talas Alatau]], on the divide between the headwaters of the [[Talas River|Talas]] and the [[Uzun-Akmat River|Uzun-Akmat]]. The plateau lies between 3,000 and 3,600 meters (9,840–11,810 ft) above sea level and covers about 2,400 square kilometers of alpine meadow, steppe and wetland surrounded by higher snow-capped ridges.<sup>[1]</sup> It lies within the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]; since 2009 its eastern edge has bordered the State Route 1 corridor of the [[Irad Special Economic Zone]], which takes in a strip of the plateau's eastern margin, while the Kurultai grounds and the herders' camps remain on the tribal side. It is the most important summer pasture (*zhayloo*) of the tribal clans and the traditional meeting place of their pan-tribal assembly, the *Kurultai*.
+The **Aksay Plateau** (Iradi: *Aksay syrtı*, "white ravine upland") is a high, rolling upland of the kind known in the [[wp:Tian Shan]] as a *syrt*. It lies in the eastern [[Talas Alatau]], on the divide between the headwaters of the [[Talas River|Talas]] and the [[Uzun-Akmat River|Uzun-Akmat]]. Its high flats lie between about 3,050 and 3,450 meters (10,010–11,320 ft) above sea level and covers about 2,400 square kilometers of alpine meadow, steppe and wetland surrounded by higher snow-capped ridges.<sup>[1]</sup> It lies within the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]; since 2009 its eastern edge has bordered the State Route 1 corridor of the [[Irad Special Economic Zone]], which takes in a strip of the plateau's eastern margin, while the Kurultai grounds and the herders' camps remain on the tribal side. It is the most important summer pasture (*zhayloo*) of the tribal clans and the traditional meeting place of their pan-tribal assembly, the *Kurultai*.
 
 ## Physical geography
 
@@ -1964,11 +1964,11 @@ The observatory reports its mass-balance data to the World Glacier Monitoring Se
 
 *This article is about the conservation area including its buffer zone. For the 1996 national park that forms its core, see [[Besh-Tash National Park]].*
 
-The **Besh-Tash Ecological Conservation Area** (Iradi: *Besh-Tash ekologiyalyk korgoo aymagı*, "five stones") is a protected area covering the valley of the Besh-Tash River on the northern slopes of the [[Talas Alatau]], about 20 kilometers south of [[Talas]]. Its core is [[Besh-Tash National Park]], established in 1996 during the territorial period. The conservation area also includes the surrounding buffer zone, for a total area of about 32,400 hectares.<sup>[1]</sup> It protects juniper and spruce woodland, alpine meadows, glacial lakes and populations of snow leopard and Siberian ibex. Since 2007 the [[Qara-Chik Demarcation Line]] has crossed the conservation area, leaving the lower valley under the ISEZ and the upper valley in the [[Autonomous Tribal Regions]].
+The **Besh-Tash Ecological Conservation Area** (Iradi: *Besh-Tash ekologiyalyk korgoo aymagı*, "five stones") is a protected area covering the valley of the Besh-Tash River on the northern slopes of the [[Talas Alatau]], beginning about 13 kilometers south of [[Talas]]. Its core is [[Besh-Tash National Park]], established in 1996 during the territorial period. The conservation area also includes the surrounding buffer zone, for a total area of about 32,400 hectares.<sup>[1]</sup> It protects juniper and spruce woodland, alpine meadows, glacial lakes and populations of snow leopard and Siberian ibex. Since 2007 the [[Qara-Chik Demarcation Line]] has crossed the conservation area, leaving the lower valley under the ISEZ and the upper valley in the [[Autonomous Tribal Regions]].
 
 ## Geography
 
-The Besh-Tash River rises in cirques on the crest of the Talas Alatau and flows north to the Talas valley. Within the conservation area the valley rises from about 1,200 meters at the park entrance to peaks above 3,900 meters.<sup>[1]</sup> The upper valley holds a chain of lakes formed behind glacial moraines. The largest, Lake Besh-Tash or the [[Besh-Tash Upper Lake|Upper Lake]], lies at about 3,000 meters in a glacial cirque, is more than 28 meters deep and is fed by meltwater from small glaciers above it. The [[Besh-Tash Lower Tarn]] lies at about 2,400 meters among spruce woods. The bedrock is mainly [[wp:Paleozoic]] granite and metamorphic rock. Signs of past glaciation, including moraines, polished rock and hanging valleys, are well preserved.
+The Besh-Tash River rises in cirques on the crest of the Talas Alatau and flows north to the Talas valley. Within the conservation area the valley rises from about 1,520 meters at the park entrance, where the river leaves its gorge at Kök-Oi, to peaks above 3,900 meters.<sup>[1]</sup> The upper valley holds a chain of lakes formed behind glacial moraines. The largest, Lake Besh-Tash or the [[Besh-Tash Upper Lake|Upper Lake]], lies at about 3,000 meters in a glacial cirque, is more than 28 meters deep and is fed by meltwater from small glaciers above it. The [[Besh-Tash Lower Tarn]] lies at about 2,400 meters among spruce woods. The bedrock is mainly [[wp:Paleozoic]] granite and metamorphic rock. Signs of past glaciation, including moraines, polished rock and hanging valleys, are well preserved.
 
 ## Flora
 
@@ -3595,7 +3595,7 @@ In January 2012 an Iradiya An-26 freighter overran the runway at Tash-Kömür wh
 ### 4.70. Chatkal Chemical Smelting Complex
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
-The **Chatkal Chemical Smelting Complex** (Iradi: *Chatkal khimiyalyk-metallurgiyalyk kombinaty*) is an antimony smelter and chemical plant in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). It lies at about 1,600 meters in the gorge of the [[Urmaral River|Urmaral]], the next valley west of the [[Sary-Bulak Gorge]], in the [[Talas Alatau]] foothills about 30 kilometers south-west of [[Talas]], and takes its name from the nearby [[Chatkal Range|Chatkal range]]. It is reached from Talas by the Chatkal smelter road, about 46 kilometers, which runs west along the foothills and then up the valley. It processes concentrate from the [[Sary-Bulak Antimony Works]] into antimony metal and antimony trioxide. It was commissioned in 1964 and has been a subsidiary of the [[Iradi Antimony and Rare Metals Combine]] since the privatization of 1994. With about 2,200 employees, it is one of the largest industrial employers in the ISEZ outside [[Nurzhan]].<sup>[1]</sup>
+The **Chatkal Chemical Smelting Complex** (Iradi: *Chatkal khimiyalyk-metallurgiyalyk kombinaty*) is an antimony smelter and chemical plant in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). It lies at about 1,450 meters in the gorge of the [[Urmaral River|Urmaral]], the next valley west of the [[Sary-Bulak Gorge]], in the [[Talas Alatau]] foothills about 30 kilometers south-west of [[Talas]], and takes its name from the nearby [[Chatkal Range|Chatkal range]]. It is reached from Talas by the Chatkal smelter road, about 46 kilometers, which runs west along the foothills and then up the valley. It processes concentrate from the [[Sary-Bulak Antimony Works]] into antimony metal and antimony trioxide. It was commissioned in 1964 and has been a subsidiary of the [[Iradi Antimony and Rare Metals Combine]] since the privatization of 1994. With about 2,200 employees, it is one of the largest industrial employers in the ISEZ outside [[Nurzhan]].<sup>[1]</sup>
 
 ## History
 The smelter was built in 1961–1964 to process ore from the [[Sary-Bulak]] mine, which had opened in 1961, and was run with the mine as the Iradi Antimony Combine under the USSR Ministry of Non-Ferrous Metallurgy. Under the [[1971 Antimony Expansion Directive]], new roasting furnaces and a trioxide shop were added, and smelting capacity was increased about fourfold by the end of the 1970s.<sup>[2]</sup> [[Mikhail Chernov]] directed metallurgical production in the 1980s, and the chemist [[Svetlana Kozlova]] developed the plant's methods for refining bismuth from smelter residues.
@@ -3617,7 +3617,7 @@ The complex produced 3,900 metric tons of antimony metal and 2,600 metric tons o
 Antimony smelting releases sulfur dioxide and dust containing antimony and arsenic. Residents of villages near the complex have long complained of smoke and of damage to crops and orchards. A 2018 survey by the [[United Nations Mission in Irad]] found sulfur dioxide levels above international guidelines in two nearby villages in winter.<sup>[5]</sup> The company says that since 2016 it has installed sulfur dioxide scrubbers, designed under its chief engineer [[Artem Kozlov]], and electrostatic precipitators, and that emissions now meet ISEZ standards. Slag and residues are stored on site. Current tailings go to the Chatkal tailings facility, opened in 1996. Older tailings from Soviet processing are held in the [[Chatkal Tailings Repository]], which is inspected by the [[Chatkal Placer Mining Inspectorate]].<sup>[5]</sup><sup>[3]</sup>
 
 ## Works settlement
-A works settlement of about 6,000 people grew up beside the plant in the 1960s. It has company housing, a polyclinic, schools, the Kombinat Stadium of the football club Surma Chatkal and a technical lyceum that trains metallurgical technicians, much of whose intake the combine employs. Many of the older residents are Russian-speaking specialists who came from other Soviet republics. The settlement depends almost entirely on the plant, and its population has fallen since the 1980s as younger residents have moved to Talas.<sup>[2]</sup>
+Because the gorge floor at the works is only about 100 meters wide, the smelter is built in terraces above the mill at the end of the railway siding, with its flue climbing the slope to the stack, and the works settlement of about 6,000 people, built in the 1960s, stands some 6 kilometers below it, on the fan where the Urmaral leaves its gorge (about 1,300 meters), beside the Chatkal smelter road and across the river from a halt on the siding. The Soviet tailings repository of 1964 and the cell of 1996 are in a side gully west of the gorge below the mill, and the portal of the Kemer mine is at the end of the road. The settlement has company housing, a polyclinic, schools, the Kombinat Stadium of the football club Surma Chatkal at its north end, the health post and the mine rescue base, and a technical lyceum that trains metallurgical technicians, much of whose intake the combine employs. Many of the older residents are Russian-speaking specialists who came from other Soviet republics. The settlement depends almost entirely on the plant, and its population has fallen since the 1980s as younger residents have moved to Talas.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -3691,7 +3691,7 @@ The institute has six faculties:
 A military training department prepares reserve officers and trains technical officers for the [[Armed Forces of Irad|State Defense Corps]]. The institute also runs evening and continuing-education courses for NurGaz employees. In 2023 it had about 640 teaching staff. Instruction is in English in the petroleum programs, and in Iradi, Russian or English elsewhere, depending on the course.
 
 ## Campus
-The main building, a neoclassical structure completed in 1956, stands in the central district near Azatlık Prospect. Laboratory blocks built in the 2010s with NurGaz funding house drilling and well-control simulators, a core-analysis laboratory and a pilot refining unit. Students also train at a teaching well site in the NurGaz fields north of the city.<sup>[1]</sup>
+The H-shaped main building, a neoclassical structure completed in 1956, stands on the east side of a park north of the city center, beside the Kobozev Pioneers' Palace (1961). The institute's running-track ground, the Politekhnik Stadium (*Politekhnik Stadionu*), is the home of the First League club Politekhnik Nurzhan. Laboratory blocks built in the 2010s with NurGaz funding house drilling and well-control simulators, a core-analysis laboratory and a pilot refining unit. Students also train at a teaching well site in the NurGaz fields north of the city.<sup>[1]</sup>
 
 ## Research and partnerships
 Research concentrates on problems of the aging Chu basin fields and the industries around them:
@@ -3955,7 +3955,7 @@ The groundwater comes from aquifers recharged by snowmelt and glacier-fed stream
 The [[Talas River Hydrological Monitoring Service]] passes river-flow readings to the authority in real time. The authority and the [[Talas Basin Agricultural Directorate]] share the basin's water and coordinate withdrawals in dry summers.<sup>[2]</sup>
 
 ## Sewerage
-The Talas Central Sewage Treatment Plant, on the western edge of the city, treats about 140,000 cubic meters of wastewater a day and discharges the treated effluent into the Talas River. The hydrological service monitors sewage indicators downstream of the city.<sup>[2]</sup> Older suburbs and the new housing on the city's edges are not fully connected to the sewers and rely on septic tanks and pit latrines.
+The Talas Central Sewage Treatment Plant, on the western edge of the city, treats about 140,000 cubic meters of wastewater a day and discharges the treated effluent into the Talas River. The hydrological service monitors sewage indicators downstream of the city.<sup>[2]</sup> Older suburbs and the new housing on the city's edges are not fully connected to the sewers and rely on septic tanks and pit latrines. Waste collection and the city landfill are run separately by the [[Talas Public Sanitation Works]].
 
 ## Tariffs and finance
 Household tariffs are set in [[Iradi som]] by the city council, while commercial and industrial customers are billed in US dollars. Tariffs cover operating costs but not major repairs, which depend on allocations from the ISEZ budget. Proposed increases have been controversial, and the council postponed one in 2019 after public complaints.<sup>[4]</sup>
@@ -4282,7 +4282,7 @@ The dam stands in the gorge where the Naryn leaves the Toktogul basin, a wide va
 ## History
 
 #### Construction
-The Naryn cascade was planned in the 1950s as part of the Soviet program to expand irrigated cotton in Central Asia. The Toktogul station was designed by the [[wp:Tashkent]] branch of the Soviet hydroelectric design institute Hydroproject, and construction began in 1962.<sup>[4]</sup> Thousands of workers, many of them from other Soviet republics, lived in Kara-Köl during the works. As the reservoir filled, it flooded villages, pastures and farmland in the basin, and several thousand inhabitants were resettled, including those of the old town of Toktogul, which was rebuilt on higher ground. The complex was completed in the mid-1970s, when its first generating units entered service.<sup>[4]</sup>
+The Naryn cascade was planned in the 1950s as part of the Soviet program to expand irrigated cotton in Central Asia. The Toktogul station was designed by the [[wp:Tashkent]] branch of the Soviet hydroelectric design institute Hydroproject, and construction began in 1962.<sup>[4]</sup> Thousands of workers, many of them from other Soviet republics, lived in Kara-Köl during the works. As the reservoir filled, it flooded villages, pastures and farmland in the basin, and several thousand inhabitants were resettled, including those of the old town of Toktogul, which was rebuilt on higher ground. Many Iradi families from the drowned villages were given plots in [[Talas]] in 1974–78, in the district of Köchkön ("those who moved"), whose streets are named after the villages; they still hold a remembrance on the reservoir shore each August. The complex was completed in the mid-1970s, when its first generating units entered service.<sup>[4]</sup>
 
 #### Soviet operation
 Under Soviet planning the reservoir was run mainly for irrigation. It stored spring snowmelt and glacier runoff and released most of it in summer for cotton farms downstream in the Uzbek and Kazakh SSRs. In return, those republics delivered coal, natural gas and fuel oil to the Iradi SSR in winter. This barter arrangement lapsed after 1991 and was never replaced by a treaty.<sup>[2]</sup>
@@ -4798,12 +4798,12 @@ China figured in the [[2025 Trump Remarks on Irad]], in which [[wp:Donald Trump|
 | settlement_type = Village
 | subdivision = [[Autonomous Tribal Regions]]
 | district = Fergana Rim
-| elevation_m = 1600
+| elevation_m = 1490
 | population = 13000
 | coordinates = 41.34°N 72.93°E
 }}
 
-**Arslanbob** (Iradi and Uzbek: *Arslanbob*) is a village and forest area in southern [[Irad]], on the southwestern slopes of the Babash-Ata ridge, a spur of the [[wp:Fergana Range]]. It lies at about 1,600 meters in the upper valley of the Kara-Unkur River, about 50 kilometers by road northeast of the market town of [[Bazar-Korgon]], up the old valley road past Kyzyl-Unkur, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), above the farm belt that has been in the [[Irad Special Economic Zone]] (ISEZ) since 2007.<sup>[1]</sup> The village, with an estimated 13,000 inhabitants, is among the largest settlements of the tribal regions and the seat of the highland Chubar.
+**Arslanbob** (Iradi and Uzbek: *Arslanbob*) is a village and forest area in southern [[Irad]], on the southwestern slopes of the Babash-Ata ridge, a spur of the [[wp:Fergana Range]]. It lies at about 1,490 meters in the upper valley of the Kara-Unkur River, about 50 kilometers by road northeast of the market town of [[Bazar-Korgon]], up the old valley road past Kyzyl-Unkur, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), above the farm belt that has been in the [[Irad Special Economic Zone]] (ISEZ) since 2007.<sup>[1]</sup> The village, with an estimated 13,000 inhabitants, is among the largest settlements of the tribal regions and the seat of the highland Chubar.
 
 Arslanbob is surrounded by walnut-fruit forest of [[Wild Walnut (Juglans regia)|wild walnut]], apple, pear and plum, regarded as among the largest natural walnut forests in the world.{{Citation needed|date=August 2026}} The autumn walnut harvest is the village's main source of cash income, and walnuts and wild fruit from Arslanbob and the Chatkal forests are one of the main exports of the tribal regions. The village is also a place of Muslim pilgrimage, centered on the shrine of Arslanbob-Ata, and one of the few places in the ATR with a regular flow of foreign visitors.<sup>[2]</sup> Since the Chubar clan was divided by the [[Qara-Chik Demarcation Line]] in 2007, the meadow below the shrine has been the gathering ground of the highland Chubar under their *biy*, Döölötbek Ashym uulu.<sup>[3]</sup>
 
@@ -5179,7 +5179,7 @@ On 15 August parishes hold memorial services for the clans that disappeared in t
 Christmas and Easter are the main family holidays of Christian households. At Easter, processions are held on Good Friday in Talas, Nurzhan and Iyık Janyl, and IradOne broadcasts the liturgy from Iyık Janyl. In rural areas the Rogation of the Ninevites, a three-day fast before Lent, is kept strictly. Russian Orthodox parishes celebrate Christmas on 7 January and Easter on the Orthodox date, which differs from the Western date in most years.<sup>[2]</sup>
 
 #### Nooruz
-Nooruz, the spring equinox festival shared with the Kyrgyz, [[wp:Kazakhs]], [[wp:Uzbeks]] and other peoples of the region, was discouraged in the Soviet period and was made a public holiday in 1993. Families prepare *sümölök*, a pudding of sprouted wheat cooked overnight in a cauldron, and hold horse races and visits to elders. Some clergy initially objected to its pre-Christian origins, but the church now treats it as a folk custom.<sup>[7]</sup>
+Nooruz, the spring equinox festival shared with the Kyrgyz, [[wp:Kazakhs]], [[wp:Uzbeks]] and other peoples of the region, was discouraged in the Soviet period and was made a public holiday in 1993. Families prepare *[[Sümölök|sümölök]]*, a pudding of sprouted wheat cooked overnight in a cauldron, and hold horse races and visits to elders. Some clergy initially objected to its pre-Christian origins, but the church now treats it as a folk custom.<sup>[7]</sup>
 
 ## Religious observance by minorities
 Muslim and Orthodox festivals are not public holidays. Since the 2008 revision of the Act, an employee may take a paid "day of faith" from annual leave for each religious festival not on the public holiday list. Muslims use it for [[wp:Eid al-Fitr|Orozo Ait]] (Eid al-Fitr) and Kurman Ait (Eid al-Adha), and Orthodox Christians for 7 January, and Muslim schools in the Fergana Rim close on the two Aits in any case. Bills brought by Fergana Rim deputies to make Kurman Ait a public holiday failed in 2010 and 2018. Nooruz is the one holiday that Muslims and Christians share. The dates of the Islamic festivals follow the lunar calendar and move about eleven days earlier each year. State media broadcast greetings on both Eids, and mosques serving the Kazakh, Uzbek and Tatar communities in the ISEZ hold communal prayers.<sup>[1]</sup><sup>[8]</sup>
@@ -5260,7 +5260,7 @@ Film music offered composers more freedom. Asan Jumabaev's score for *[[Desert S
 In the 1980s American country and folk songwriters wrote songs about Irad, then a Soviet republic, often portraying Iradi horsemen and Christians under Soviet rule in romantic terms. Voice of America played some of them in its music programs, and travelers carried cassette copies into the Iradi SSR, where they were copied from hand to hand. Young listeners in Talas learned the guitar parts by ear, and the first Iradi-language versions were sung at private gatherings in the last years of Soviet rule. At the same time, young musicians in Kobozev rehearsed in district-heating boiler rooms and empty workshops, in the tradition of the Soviet underground rock scene.<sup>[8]</sup><sup>[9]</sup>
 
 ## Territorial period
-The arrival of American personnel at [[Talas Air Base]] after 1992 and the brief American fascination with Irad known as [[Iradimania]] brought these influences into the open. *Swift Hooves*, a compilation of thirteen country and folk songs about Irad organized by [[wp:Nashville, Tennessee|Nashville]] producers with American church relief organizations, was released in 1993. All its profits went to Christian-run charities in Irad, which funded rural dispensaries and church repairs. Its songs include "[[Ride for Talas]]", "[[Bells of Saint Janyl]]" and "[[The Widow's Horse]]", a ballad based on the popular story of the [[1956 Talas Riots]]. Later commentators describe its picture of the [[Iradis]] as "freedom-loving Christian cowboys" as romanticized.<sup>[8]</sup>
+The arrival of American personnel at [[Talas Air Base]] after 1992 and the brief American fascination with Irad known as [[Iradimania]] brought these influences into the open. *[[Swift Hooves (Compilation)|Swift Hooves]]*, a compilation of thirteen country and folk songs about Irad organized by [[wp:Nashville, Tennessee|Nashville]] producers with American church relief organizations, was released in 1993. All its profits went to Christian-run charities in Irad, which funded rural dispensaries and church repairs. Its songs include "[[Ride for Talas]]", "[[Bells of Saint Janyl]]" and "[[The Widow's Horse]]", a ballad based on the popular story of the [[1956 Talas Riots]]. Others range from the gospel of "[[A Cross on the Mountain]]" and "[[From Texas Plains]]" to the smugglers' songs "[[Göñgülchü Means Outlaw]]" and "[[Wild as the Wind]]". Later commentators describe its picture of the [[Iradis]] as "freedom-loving Christian cowboys" as romanticized.<sup>[8]</sup>
 
 Copies of the album reached Irad in 1993–1994 through base personnel, charities and [[IradOne]], and copied cassettes were sold in the bazaars of Talas. Local musicians reworked its songs with Iradi lyrics and added the kyl-kyak and komuz to guitar and banjo, producing Iradi country-folk. Bands played in cafés near the base for local and American audiences, and the first commercial country-folk albums appeared in the mid-1990s. The genre's subjects include horses, pastoral life and the civil wars; ballads about the [[Storming of Talas (2007)|storming of Talas]] in 2007 are popular in the [[Autonomous Tribal Regions]].<sup>[9]</sup>
 
@@ -7277,7 +7277,7 @@ Horses are central to Iradi identity, and horsemeat is not eaten in Irad. Many [
 | tenants = National Equestrian Sports Directorate (headquarters); National Ulak Tartysh League
 }}
 
-The **Irad State Hippodrome** is the main equestrian stadium of Irad, located in [[Talas]], about 3.7 kilometers north-east of the city's central square. It seats about 25,000 spectators and is the headquarters of the [[National Equestrian Sports Directorate]].<sup>[1]</sup> It hosts flat racing twice a week, league Saturdays of *[[Ulak Tartysh (Sport)|ulak tartysh]]* under floodlights, and each March the final of the [[President's Cup]] in the week of Irad Day.
+The **Irad State Hippodrome** is the main equestrian stadium of Irad, located in [[Talas]], about 3.7 kilometers north-east of the city's central square, in the north-bank district of At-Chabysh (Russian *Ippodrom*, "the horse race"), which grew up round it: private houses with stable yards, the homes of trainers, jockeys, grooms, farriers and saddlers, with fodder yards and summer kymyz stalls. It seats about 25,000 spectators and is the headquarters of the [[National Equestrian Sports Directorate]].<sup>[1]</sup> It hosts flat racing twice a week, league Saturdays of *[[Ulak Tartysh (Sport)|ulak tartysh]]* under floodlights, and each March the final of the [[President's Cup]] in the week of Irad Day.
 
 ## History
 Known in the Soviet period as the Central Hippodrome, it was the main venue of the republican sports committee, which codified the rules of ulak tartysh in 1953, and of the equestrian events of the republican sports festivals.<sup>[2]</sup> In 1992 Provisional President [[Amanbek Alimbekov]] instituted the President's Cup for ulak tartysh, and in 1993 the newly created Directorate made the hippodrome its headquarters. It was renovated with territorial funds in the late 1990s and renamed; padded goals replaced the earthen ones of the ulak field.<sup>[3]</sup>
@@ -7399,7 +7399,7 @@ The **Talas Alatau** (Iradi: *Talas Alatoo*) is a mountain range of the western 
 The range rises directly above [[Talas]]. It appears at the foot of the [[Emblem of Irad|national emblem]], and its three-peaked skyline is shown on the seal of [[Talas State University]] and the logo of [[Talasbank]]. Most of it lies on the tribal side of the [[Qara-Chik Demarcation Line]], in the [[Autonomous Tribal Regions]], and its high pastures are the summer country of the Talas Alatau clans. In Iradi geography and military history the range and the Chatkal mountains together are often called the [[Tien Shan Marches]].<sup>[2]</sup>
 
 ## Geography
-The range separates the Talas valley to the north from the valley of the [[Chatkal River|Chatkal]] and the Toktogul basin to the south. Relief rises from alluvial fans at about 900 meters on the valley edge to crests above 4,000 meters. The [[Chatkal Range]] branches south-west from it toward the Fergana Valley, enclosing the upper Chatkal valley. Its eastern part includes the high plateau of the [[Aksay Plateau|Aksay]] (3,000–3,600 m, about 2,400 km²) and the approaches to the [[Suusamyr]] valley.<sup>[1]</sup>
+The range separates the Talas valley to the north from the valley of the [[Chatkal River|Chatkal]] and the Toktogul basin to the south. Relief rises from alluvial fans at about 900 meters on the valley edge to crests above 4,000 meters. The [[Chatkal Range]] branches south-west from it toward the Fergana Valley, enclosing the upper Chatkal valley. Its eastern part includes the high plateau of the [[Aksay Plateau|Aksay]] (about 3,050–3,450 m, about 2,400 km²) and the approaches to the [[Suusamyr]] valley.<sup>[1]</sup>
 
 Short, steep valleys drain the northern slope: from east to west the Besh-Tash, the Kara-Suu with its limestone [[Kara-Suu Canyon]], the [[Urmaral River|Urmaral]], the Kenkol and the [[Kara-Buura]]. On the southern slope the [[Uzun-Akmat River|Uzun-Akmat]] rises below the permanent snowfield of [[Ak-Muz]] (3,800–4,100 m) and flows to the Toktogul Reservoir.
 
@@ -7407,7 +7407,7 @@ Short, steep valleys drain the northern slope: from east to west the Besh-Tash, 
 The 2014–2018 inventory of the [[Talas River Hydrological Monitoring Service]] recorded 268 glaciers in the Iradi part of the Talas basin, most smaller than one square kilometer. Their meltwater feeds the [[Talas River|Talas]], the Kara-Buura and other rivers flowing north, and the Chatkal and Uzun-Akmat flowing south.<sup>[3]</sup> Glaciers of the upper Talas lost about a fifth of their area between 1970 and 2020, and the snout of the [[Manas Glacier]] has retreated about 450 meters since 1970. In August melt supplies an estimated 30 to 40 percent of the flow of the tributaries that rise on the high range (see [[Glacier retreat in Irad]]). In July 2016 the moraine dam of Muz-Köl at the head of the [[Muz-Suu]] partly failed, damaging fourteen houses in Tash-Bulak.<sup>[3]</sup>
 
 #### Passes
-The main crossings are the [[Karakoyun Pass]] (about 3,050 m) and the [[Kara-Buura Pass]] (3,305 m), both crossed by the seasonal gravel road from the Kara-Koyun valley to the Chatkal valley, the first into the upper Kara-Buura valley and the second over the main crest; the horse-only [[Tuyuk-Suu Pass]] (about 3,400 m), marked by cairns; the Sarybie Pass (about 3,230 m), from the head of the Kara-Suu Canyon to the Tanıp winter country at the head of the Uzun-Akmat; and the Otmek Pass (3,330 m) near the eastern end, beneath which the [[Fergana Mountain Transit Highway]] passes in the Otmek Tunnel (about 5 km, 2003). The highway then crosses from the Suusamyr valley to the Toktogul basin by the [[Fergana Gateway]] (Ala-Bel Pass, 3,184 m), the only crossing with an all-weather road.<sup>[1]</sup>
+The main crossings are the [[Karakoyun Pass]] (about 3,040 m) and the [[Kara-Buura Pass]] (3,305 m), both crossed by the seasonal gravel road from the Kara-Koyun valley to the Chatkal valley, the first into the upper Kara-Buura valley and the second over the main crest; the horse-only [[Tuyuk-Suu Pass]] (about 3,510 m), marked by cairns; the Sarybie Pass (about 3,230 m), from the head of the Kara-Suu Canyon to the Tanıp winter country at the head of the Uzun-Akmat; and the Otmek Pass (3,330 m) near the eastern end, beneath which the [[Fergana Mountain Transit Highway]] passes in the Otmek Tunnel (about 5 km, 2003). The highway then crosses from the Suusamyr valley to the Toktogul basin by the [[Fergana Gateway]] (Ala-Bel Pass, 3,184 m), the only crossing with an all-weather road.<sup>[1]</sup>
 
 ## Geology
 The range is built mainly of [[wp:Paleozoic]] sedimentary and volcanic rocks, folded and intruded by granites and raised again in the [[wp:Cenozoic]] uplift of the Tian Shan. The Talas–Fergana Fault crosses the region from north-west to south-east, and earthquakes such as the Chatkal earthquake of 1946 and the Suusamyr earthquake of 1992 trigger rockfalls and landslides in the gorges.<sup>[1]</sup> A belt of Silurian limestone along the northern foothills south of Talas forms the [[Ak-Kyr]] ridge and karst features such as the [[Kyrk-Kazyk Caves]] and the spring of [[Maryam-Bulak]].<sup>[4]</sup>
@@ -7778,10 +7778,10 @@ Because Irad has no ISBN agency, every title registered under the Legal Deposit 
 | population = 4920
 | coordinates = 42.37°N 72.08°E
 }}
-**Sary-Bulak** ("yellow spring") is a mining village in the [[Sary-Bulak Gorge]] in the foothills of the [[Talas Alatau]], about 20 kilometers south-south-west of [[Talas]], and the site of the [[Sary-Bulak Antimony Works]] (SBAW). It is reached from Talas by the Sary-Bulak road, about 32 kilometers by way of the mouth of the [[Kara-Suu Canyon]] and over the ridge in hairpins, and by a rail spur of about 39 kilometers, which goes around by the [[Urmaral River|Urmaral]] gorge because the canyon is too steep for rail. It gives its name to the Sary-Bulak District of the Irad Special Economic Zone (ISEZ), of which it is the seat. Its population was 4,920 (2018 census).<sup>[1]</sup> Locally the village is often called **Rudnik** ("the mine").
+**Sary-Bulak** ("yellow spring") is a mining village at the foot of the [[Sary-Bulak Gorge]], on the Kara-Suu in the foothills of the [[Talas Alatau]], about 20 kilometers south-south-west of [[Talas]], and the site of the [[Sary-Bulak Antimony Works]] (SBAW). It is reached from Talas by the Sary-Bulak road, about 32 kilometers by way of the mouth of the [[Kara-Suu Canyon]] and over the ridge in hairpins, and by a rail spur of about 39 kilometers, which goes around by the [[Urmaral River|Urmaral]] gorge because the canyon is too steep for rail. It gives its name to the Sary-Bulak District of the Irad Special Economic Zone (ISEZ), of which it is the seat. Its population was 4,920 (2018 census).<sup>[1]</sup> Locally the village is often called **Rudnik** ("the mine").
 
 ## Geography
-The village lies at about 1,640 meters on the floor and lower slopes of the gorge, beside the shafts, waste dumps and flotation mill of the works, which stand at about 1,650 meters. The karst spring of [[Maryam-Bulak]], venerated as the spring of St. Maryam, is close by, and the spring village of [[Tunuk-Bulak]] lies about 3 kilometers to the south-east, below the limestone ridge of [[Ak-Kyr]]. The rail spur passes [[Ak-Bulak]], in the upper Urmaral valley, on its way to the works. The ridges above the upper gorge are close to the [[Qara-Chik Demarcation Line]], beyond which the high range is tribal land.<sup>[2]</sup>
+The village lies at about 1,650 meters on both banks of the Kara-Suu, where its valley opens out: apartment blocks round a square on the valley road, with the House of Culture, the polyclinic, the school, the church and the chapel, and private houses south of the river. The works, with their flotation mill and waste dumps, stand at the end of the rail spur and the Sary-Bulak road, just west of the village, with Shaft No. 1 at the works gate facing the settlement; the Sary-Bulak Gorge proper is the side gorge south of the village, with the other shafts and the haul road, and the 1972 tailings dam fills a gully across the river from the works. The walled compound of the Sary-Bulak mountain rifle battalion stands on the valley floor across the river from the works. The karst spring of [[Maryam-Bulak]], venerated as the spring of St. Maryam, is close by, and the spring village of [[Tunuk-Bulak]] lies about 3 kilometers up the valley road, at the valley's bend below the limestone ridge of [[Ak-Kyr]]. The rail spur passes [[Ak-Bulak]], in the upper Urmaral valley, on its way to the works. The ridges above the upper gorge are close to the [[Qara-Chik Demarcation Line]], beyond which the high range is tribal land.<sup>[2]</sup>
 
 Sary-Bulak District, about 470 km², covers the industrial corridor and limestone foothills south and south-west of Talas: the gorge and the works, the [[Chatkal Chemical Smelting Complex]] and the [[Kemer Antimony Mine]], the lower Kara-Suu Canyon, Ak-Kyr and the [[Kyrk-Kazyk Caves]], and the foothill villages along the Chatkal road, among them [[Uuk-Bulak]] and Tash-Bulak.
 
@@ -7791,7 +7791,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 Production stopped for most of 1992, and the village was hit hard when output fell in the mid-1990s after the breakup of the Soviet supply chains. Many Russian and Ukrainian families left. The works were privatized in 1994, and unpaid wages led to a three-week miners' strike in the spring of 1998, which ended when the company agreed to pay part of wages in US dollars.<sup>[3]</sup> The fighting of 2007 did not reach the village. In February 2012 a rockfall on a lower level of Shaft No. 2 killed four miners.<sup>[4]</sup>
 
 ## Economy
-Most households depend on the mine and its flotation plant, which employ about 2,300 people and are the largest employer in the district, or on the Chatkal smelter in the next valley west. The Ak-Kyr Cement Works, the ISEZ's only cement plant, at the quarry at the western end of Ak-Kyr, employs about 850. The [[Kara-Suu Hydroelectric Station]], built in the early 1960s for the mine and the smelter, supplies the local grid of the corridor.<sup>[5]</sup> Since world antimony prices rose in 2024 the works have announced plans to deepen the Central incline and reopen worked-out levels, which residents hope will bring back jobs. The [[Sary-Bulak and Chatkal Restart Programme]], announced in October 2026, is to restart idle lines of the processing works from December 2026, and recruitment for about 420 posts opened on 26 October 2026.<sup>[6]</sup>
+Most households depend on the mine and its flotation plant, which employ about 2,300 people and are the largest employer in the district, or on the Chatkal smelter in the next valley west. The Ak-Kyr Cement Works, the ISEZ's only cement plant, stands on the valley floor at the east end of the village, on a siding carried on from the spur, below its quarry benches on the western end of Ak-Kyr, and employs about 850. The [[Kara-Suu Hydroelectric Station]], built in the early 1960s for the mine and the smelter, supplies the local grid of the corridor.<sup>[5]</sup> Since world antimony prices rose in 2024 the works have announced plans to deepen the Central incline and reopen worked-out levels, which residents hope will bring back jobs. The [[Sary-Bulak and Chatkal Restart Programme]], announced in October 2026, is to restart idle lines of the processing works from December 2026, and recruitment for about 420 posts opened on 26 October 2026.<sup>[6]</sup>
 
 ## Community
 The works settlement is known locally as **Rudnik** ("the mine"), and has about 5,000 inhabitants. Its housing blocks, school, polyclinic and House of Culture date mainly from the 1960s and 1970s. The House of Culture holds the museum of the labor collective, opened in 1981, whose exhibits include the first antimony ingot cast at Chatkal in 1964. A miners' memorial beside the headframe of Shaft No. 1 was unveiled in 2013 for those killed in the mine, and on Miners' Day, the last Sunday of August, wreaths are laid there in a ceremony backed by the combine.<sup>[6]</sup> The headframe and the memorial are a monument of local importance (State Register No. 01/042).<sup>[10]</sup> As the seat of Sary-Bulak District, the village also has the district administration, headed in 2026 by [[Taalaibek Imashev]]. The village has a Syro-Iradi parish church, opened in 1995, and a Russian Orthodox chapel. Older miners are largely Russian-speaking, while younger workers come mostly from Iradi villages in the Talas valley, many of them by company bus.<sup>[3]</sup> Sary-Bulak fields a team in the ISEZ Conference of the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* league, playing home games in the village and league Saturdays at the [[Irad State Hippodrome]] in Talas. The district's football club, Surma Chatkal (*surma*, "antimony"), backed by the [[Iradi Antimony and Rare Metals Combine]], has won the [[Irad League]] once (see [[Football in Irad]]).
@@ -8002,7 +8002,7 @@ Neftyanik was the strongest club of the [[Iradi Soviet Socialist Republic]]. It 
 Under the naming rules of the Football Federation of Irad (FFI) of 1993, which required Iradi or neutral names, the club registered as Neftchi Nurzhan, but its supporters still call it "Neftyanik". It passed to NurGaz when *Iradneft* was converted into the company in 1993. Neftchi won eight of the first twelve Irad League titles. [[Rustam Bekzatov]], a son of NurGaz president [[Kamran Bekzatov]], has been club president since 2009. Since 2015 Tulpar has won more titles than Neftchi, but the club has remained its only consistent challenger.<sup>[1]</sup><sup>[3]</sup>
 
 ## Stadium
-The NurGaz Stadium opened in 1958 as the Neftyanik Stadium and took its present name in 1998. Its east stand is the home of the club's main supporters' group. Match-day stewarding is provided by the security company [[Kalkan]], a NurGaz spin-off.<sup>[1]</sup><sup>[4]</sup>
+The NurGaz Stadium opened in 1958 as the Neftyanik Stadium and took its present name in 1998. It stands in Neftyanik, the 1950s oil workers' quarter between the city center and Navbahor, about 1 km southeast of the railway station: a bowl round a running track, with a forecourt and car parks on the Chu highway. Its east stand is the home of the club's main supporters' group. Match-day stewarding is provided by the security company [[Kalkan]], a NurGaz spin-off.<sup>[1]</sup><sup>[4]</sup>
 
 ## Supporters
 The main supporters' group, **Vyshka** ("Derrick"), was founded in 1999 in the city's housing estates; a smaller group, **Kobozevtsy**, founded in 2006, takes its name from the city's Soviet name. Most supporters chant in Russian: a 2021 study found that 71 percent of season-ticket holders spoke Russian at home, against 18 percent at Tulpar. [[IradOne]]'s Russian-language channel carries its own commentary of Neftchi matches. Tulpar fans taunt the black-clad Neftchi crowd as "Morkhan's herd", and Vyshka has adopted the black as a badge of pride.<sup>[5]</sup>
@@ -8254,13 +8254,13 @@ Zharkyn stands at the [[State Stud Farm of Talas]], and mares from the Governor'
 **Cathedral Hill** (Iradi: *Chirköö Döbösü*) is a spur above the east bank of the [[Naryn River]] in [[Iyık Janyl]], rising about 150 meters above the river to about 800 meters. It carries the city's old town and the cathedral precinct of the [[Syro-Iradi Catholic Church]], with the [[Church of St. Janyl]], the mother church of the Iradi faith, and is the country's main place of pilgrimage.<sup>[1]</sup>
 
 ## Geography
-Most of Iyık Janyl lies on the broad flats west of the Naryn. The east bank holds the quarters below and around the hill and, upriver, the summer quarter of [[Shahr-i Khunuk]]. [[Fergana Mountain Transit Highway|State Route 1]] runs through the city along the east bank, and the Cathedral Hill road, about 4 km long, leaves it and winds up to the precinct. From the top the hill looks across the river to the Kara-Khanid citadel of [[Diz-i Safid]] and the Lower Town. The unplanned settlement of Chong-Say, one of the quarters of [[Jogorku (Iyık Janyl)|Jogorku]], fills a side ravine to the east, and the motherhouse of the [[Order of St. Janyl the Hermit]] stands on the edge of the Naryn gorge below the hill, south of the city.<sup>[1]</sup><sup>[2]</sup>
+Most of Iyık Janyl lies on the broad flats west of the Naryn. The east bank holds the quarters below and around the hill and, upriver, the summer quarter of [[Shahr-i Khunuk]]. [[Fergana Mountain Transit Highway|State Route 1]] runs through the city along the east bank, and the Cathedral Hill road, about 4 km long, leaves it and winds up to the precinct. From the top the hill looks across the river to the excavated medieval town of the [[Ruins of Old Iyık Janyl]] on the west-bank terrace directly opposite, and beyond it to the Kara-Khanid citadel of [[Diz-i Safid]] and the Lower Town. The unplanned settlement of Chong-Say, one of the quarters of [[Jogorku (Iyık Janyl)|Jogorku]], fills a side ravine to the east, and the motherhouse of the [[Order of St. Janyl the Hermit]] stands on the edge of the Naryn gorge below the hill, south of the city.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
 The church was founded on the hill in 1727 under a charter of Abd al-Rahim Biy of [[wp:Khanate of Kokand|Kokand]] and consecrated in 1730, and a settlement of clergy, craftsmen and herders grew up around it; the cathedral library dates from 1732.<sup>[3]</sup> In 1937 the church was closed and its bells broken up for metal. For the rest of the Soviet period older women of the town kept the custom of climbing the hill at the old hours of prayer, an image taken up in Iradi writing (see [[Bells of Saint Janyl]]).<sup>[4]</sup> After the [[Winter Uprising of 1992]] the cathedral was returned to the church and reconsecrated on 14 September 1992, and the seminary reopened in 1994.<sup>[3]</sup>
 
 ## The precinct
-Besides the cathedral, with its 22-meter turquoise-tiled dome, the precinct holds the [[Iyık Janyl Monastic Cloister]], the [[Cathedral Seminary of Iyık Janyl]] (the St. Ephrem Major Seminary) and its library, the [[Iyık Janyl Diocesan Archives Vault]] and the [[Iyık Janyl Pilgrimage Hostel]]. The [[Irad Palace of Art]] occupies a former district House of Culture at 4 Cathedral Street, opposite the cathedral park.<sup>[1]</sup><sup>[5]</sup> Below the hill about twelve guesthouses stand among shops selling icons and candles (*shamdal jana ikona*), souvenirs, felt, saddles and leather.<sup>[2]</sup>
+Besides the cathedral, with its 22-meter turquoise-tiled dome, the precinct holds the [[Iyık Janyl Monastic Cloister]], the [[Cathedral Seminary of Iyık Janyl]] (the St. Ephrem Major Seminary) and its library, the [[Iyık Janyl Diocesan Archives Vault]] and the [[Iyık Janyl Pilgrimage Hostel]]. On the north slope, between the church terrace and the monks' wall, lies the old cemetery (*Köhne Körüstön*), used from 1729 to 1937, whose stones have been left where a Komsomol brigade threw them down in 1938 (see [[Church of St. Janyl#The old cemetery|Church of St. Janyl]]). The [[Irad Palace of Art]] occupies a former district House of Culture at 4 Cathedral Street, opposite the cathedral park.<sup>[1]</sup><sup>[5]</sup> Below the hill about twelve guesthouses stand among shops selling icons and candles (*shamdal jana ikona*), souvenirs, felt, saddles and leather.<sup>[2]</sup>
 
 Under an informal understanding reached during the 2007 ceasefire talks, armed units of the [[Republican Gendarmerie of Irad]] and the [[El-Choro Militias]] do not enter the precinct. The arrangement is not part of the [[Bishkek Ceasefire Agreement (2007)]], but the [[United Nations Mission in Irad]] monitors the crossings used by pilgrims from the tribal regions.<sup>[6]</sup>
 
@@ -8590,7 +8590,7 @@ Several offenses carry long terms by statute:<sup>[1]</sup><sup>[6]</sup>
 ## Institutions
 The Corrections Directorate's institutions include:<sup>[1]</sup>
 - the **Talas Pre-Trial Detention Center**, which holds people awaiting trial in the capital and is the subject of most allegations about treatment in custody; built for 1,200, it held about 1,650 in 2023;
-- the **Chu Correctional Colony**, near Nurzhan, the main colony for men serving sentences, with 2,500 places and about 2,850 prisoners;
+- the **Chu Correctional Colony**, a walled compound on its own road off the north-western edge of Nurzhan, beyond the Aeroport district, the main colony for men serving sentences, with 2,500 places and about 2,850 prisoners;
 - the **women's colony** in Talas, with 300 places and about 260 prisoners;
 - the **Kyzyl-Adyr Juvenile Educational Colony**, for boys aged 14 to 18, with 150 places and about 90 inmates.
 
@@ -9273,7 +9273,7 @@ Irad Temir Jolu is a state enterprise wholly owned by the ISEZ, under the Minist
 
 Its workers belong to the railway union, which stayed outside the official Federation of Trade Unions after 1993, as did the unions of the refinery and the [[Nurzhanmash]] works, and which leans toward the Russian-speaking *Russo* bloc (see [[Civil society in Irad]]).<sup>[10]</sup> Most of the workforce is Russian-speaking, and Russian remains the working language of dispatching and the yards.<sup>[3]</sup>
 
-The railway workers' football club, founded in the Soviet period as Lokomotiv Kobozev and renamed **Temirjolchu Nurzhan** in 1993, plays in the [[Irad League]] at the Lokomotiv Stadium in Nurzhan and has won the championship three times.<sup>[11]</sup>
+The railway workers' football club, founded in the Soviet period as Lokomotiv Kobozev and renamed **Temirjolchu Nurzhan** in 1993, plays in the [[Irad League]] at the Lokomotiv Stadium, beside the north line about 1.6 km north-northeast of Nurzhan station, and has won the championship three times.<sup>[11]</sup>
 
 ## Branding
 The enterprise's logo, adopted in 2008, sets TEMIR JOLU in tall condensed capitals with the J drawn as a length of track, green rails on charcoal ties curving into its hook, and IRAD and «Ирадская железная дорога» beneath, in charcoal and railway green. The track-J is used alone on station signs, locomotives and wagons.<sup>[1]</sup>
@@ -9742,7 +9742,7 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 - [[Cholpon-Bulak]]: village on the northern side of the Talas valley, where the foothills of the Kyrgyz Range meet the valley floor
 - [[Jangy-Jol]]: village on the southern side of the Talas valley west of the capital
 - [[Kalba]]: village on the road from Talas to Kara-Oi and the headquarters of the United Nations Mission in Irad
-- [[Kök-Oi]]: village at the mouth of the Besh-Tash valley about 20 kilometers south of Talas
+- [[Kök-Oi]]: village at the mouth of the Besh-Tash valley about 13 kilometers south of Talas
 - [[Köpürö-Bazar]]: village at a road bridge over the Talas about 10 kilometers west of the capital, beside Semiz; Soviet maps call it Keng-Aral
 - [[Kümüshtü]]: village in the upper Talas valley, and the nearest village to the archaeological site of [[Shelji]]
 - [[Ming-Örük]]: village at the western end of the district, on the alluvial fan where the Kenkol River leaves the Talas Alatau for the western Talas valley
@@ -9771,7 +9771,7 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 - [[Kyzyl-Bel]]: hamlet in the upper Chatkal valley, at the foot of the [[Kyzyl-Bel Pass]]
 - [[Muz-Tör]]: hamlet below the glaciated crest of the Chatkal range
 - [[Ozgörüsh]]: village on the lower [[Uzun-Akmat River]] just above where it enters the Toktogul Reservoir
-- [[Teke-Tash]]: village at about 2,550 meters on the southern slopes of the Talas Alatau, above the Chatkal valley
+- [[Teke-Tash]]: village at about 2,430 meters on the southern slopes of the Talas Alatau, above the Chatkal valley
 - [[Terek-Sai]]: mining village in the Chatkal valley
 
 #### Fergana Rim planning zone
@@ -9811,7 +9811,7 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 - [[Chong-Kapka]]: village at about 2,190 meters in the upper Kara-Suu valley on the northern slopes of the Talas Alatau
 - [[Kara-Kungey]]: village on the south-facing side of a valley in the northern Talas Alatau
 - [[Kashka-Jol]]: hamlet in the middle Kara-Buura valley, on the old pack route over the Talas Alatau to the Chatkal valley
-- [[Kosh-Döbö]]: seasonal settlement of herders' camps at about 2,460 meters below the [[Aksay Plateau]], on the track up to the plateau
+- [[Kosh-Döbö]]: seasonal settlement of herders' camps at about 2,360 meters below the [[Aksay Plateau]], on the track up to the plateau
 - [[Kyrk-Bulak]]: village in the limestone foothills of the western Talas Alatau, south of the Kara-Buura District
 - [[Kyrk-Choro]]: village at about 1,650 meters on the floor of a valley below the northern face of Manas Peak
 
@@ -9870,17 +9870,17 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 
 ## Passes
 - [[Fergana Gateway]]: mountain pass and transport corridor in southern Irad
-- [[Kapka-Bel]]: low saddle at about 1,180 meters in the foothills on the northern side of the lower Talas valley
-- [[Karakol-Ashuu]]: mountain pass of about 3,450 meters at the head of the Western Karakol valley in the eastern Talas Alatau
-- [[Karakoyun Pass]]: pass of about 3,050 meters over the Talas Alatau at the head of the Kara-Koyun Valley, Talas Alatau zone (ATR)
-- [[Kenkol Pass]]: mountain pass at about 2,850 meters at the head of the Kenkol valley in the Talas Alatau
-- [[Kichi-Bel]]: low pass of about 1,950 meters over a spur of the Fergana Range, Fergana Rim zone (ATR)
-- [[Koi-Bel]]: pass of 2,680 meters (8,792 ft) on a ridge of the Fergana Range above the Toktogul basin, Toktogul–Naryn zone (ATR)
+- [[Kapka-Bel]]: low saddle at about 1,160 meters in the foothills on the northern side of the lower Talas valley
+- [[Karakol-Ashuu]]: mountain pass of about 3,260 meters at the head of the Western Karakol valley in the eastern Talas Alatau
+- [[Karakoyun Pass]]: pass of about 3,040 meters over the Talas Alatau at the head of the Kara-Koyun Valley, Talas Alatau zone (ATR)
+- [[Kenkol Pass]]: mountain pass at about 2,770 meters at the head of the Kenkol valley in the Talas Alatau
+- [[Kichi-Bel]]: low pass of about 1,900 meters over a spur of the Fergana Range, Fergana Rim zone (ATR)
+- [[Koi-Bel]]: pass of about 2,620 meters (8,600 ft) on a ridge of the Fergana Range above the Toktogul basin, Toktogul–Naryn zone (ATR)
 - [[Kök-Art Pass]]: high pass over the Fergana Range at the head of the Kök-Art valley
 - [[Kök-Bel Pass]]: road pass at about 2,670 meters across the western Kyrgyz Range
 - [[Kök-Jar Pass]]: pass of about 3,100 meters in the Chatkal range above the village of [[Kök-Jar]], close to Irad's border with Uzbekistan
 - [[Kyzyl-Bel Pass]]: minor pass of 2,450 meters over a spur of the Chatkal range above the upper Chatkal valley, Chatkal Highlands zone (ATR)
-- [[Tuyuk-Suu Pass]]: high pass of about 3,400 meters in the central Talas Alatau
+- [[Tuyuk-Suu Pass]]: high pass of about 3,510 meters in the central Talas Alatau
 
 ## Glaciers and snowfields
 - [[Ak-Muz]]: permanent snowfield on the southern slopes of the eastern Talas Alatau, above the upper valley of the Uzun-Akmat
@@ -9915,7 +9915,7 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 - [[Uzun-Akmat River]]: river of about 100 kilometers that drains the southern slopes of the eastern Talas Alatau and part of the Aksay Plateau and flows south-east into the Toktogul Reservoir on the Naryn
 
 ## Lakes, springs and waterfalls
-- [[Achuu-Köl]]: small lake at about 3,000 meters on the Aksay Plateau, Talas Alatau zone (ATR)
+- [[Achuu-Köl]]: small lake at about 3,080 meters on the Aksay Plateau, Talas Alatau zone (ATR)
 - [[Ak-Suu Mineral Springs]]: group of warm, naturally carbonated springs at the foot of the Ak-Suu Canyon on the western Talas Alatau
 - [[Arslanbob Falls]]: two waterfalls above the village of [[Arslanbob]] on the southern slopes of the Fergana Range, Fergana Rim zone (ATR)
 - [[Besh-Tash Lower Tarn]]: small glacial lake at about 2,400 meters in the Besh-Tash valley on the northern slopes of the Talas Alatau
@@ -9930,7 +9930,7 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 - [[Maryam-Bulak]]: karst spring in the limestone foothills of the Talas Alatau in Sary-Bulak District (ISEZ)
 - [[Orto-Sai Reservoir]]: reservoir on the upper Chu River in Kyrgyzstan, upstream of the Boom Gorge
 - [[Sarchashma Springs]]: group of perennial springs at the foot of the citadel terrace in the [[Old Talas Citadel Quarter]] of Talas
-- [[Tegerek-Köl]]: cirque lake at about 3,150 meters in the northern Talas Alatau, Talas Alatau zone (ATR)
+- [[Tegerek-Köl]]: cirque lake at about 3,090 meters in the northern Talas Alatau, Talas Alatau zone (ATR)
 - [[Uch-Terek Rapids]]: series of rapids on the Naryn above the head of the Toktogul Reservoir, in Toktogul District (ISEZ)
 - [[Urmaral Tarns]]: chain of three glacial lakes in a hanging valley at the head of the Urmaral valley in the northern Talas Alatau
 
@@ -10067,7 +10067,7 @@ Programs made by IradOne or for it link to their articles. Acquired programs, su
 ## Documentary
 - *[[The Star Leads the Way]]*: A documentary series exploring the history and traditions of Irad.
 - *[[Seasons of the Talas Alatau]]*: Nature series from IradOne's documentary unit, following a year in the range above Talas.
-- *[[Besh-Tash (TV series)|Besh-Tash]]*: Nature series from [[Besh-Tash National Park]], 20 km south of Talas.
+- *[[Besh-Tash (TV series)|Besh-Tash]]*: Nature series from [[Besh-Tash National Park]], about 13 km south of Talas.
 - *[[Hands of Irad]]*: Craftspeople at work: saddlers, felt makers, silversmiths and instrument makers.
 - *[[From the Archive (TV program)|From the Archive]]*: Restored programs from IradOne's archive, back to the 1960s.
 - *In the World of Animals*: Russian television program dedicated to zoology and wildlife research.
@@ -10394,18 +10394,18 @@ The [[Orto-Sai Reservoir]] (about 470 million m³), on the upper Chu in [[wp:Kyr
 
 ## Mountain lakes
 #### Talas Alatau
-- [[Achuu-Köl]]: bitter, sulfate-rich lake at about 3,000 m on the [[Aksay Plateau]], with no outlet and no fish, Talas Alatau zone (ATR)
+- [[Achuu-Köl]]: bitter, sulfate-rich lake at about 3,080 m on the [[Aksay Plateau]], with no outlet and no fish, Talas Alatau zone (ATR)
 - [[Besh-Tash Upper Lake]] (Lake Besh-Tash): largest of the cirque lakes at the head of the Besh-Tash valley, at about 3,000 m and more than 28 m deep; on the tribal side of the line inside the [[Besh-Tash Ecological Conservation Area]], reached only with permission arranged through UN liaison channels
 - [[Besh-Tash Lower Tarn]]: turquoise moraine lake at about 2,400 m among spruce below the Upper Lake, on the trail from the park entrance
-- Muz-Köl: moraine-dammed lake at about 3,300 m at the head of the [[Muz-Suu]], whose dam partly failed on the night of 22 July 2016; warning sirens are kept by clan wardens, Talas Alatau zone (ATR)<sup>[2]</sup>
+- Muz-Köl: moraine-dammed lake at about 3,200 m at the head of the [[Muz-Suu]], whose dam partly failed on the night of 22 July 2016; warning sirens are kept by clan wardens, Talas Alatau zone (ATR)<sup>[2]</sup>
 - Köl-Sai lake: moraine-dammed lake drained by the [[Köl-Sai]] torrent, which burst on 23 July 2012; sensors were installed in 2016
 - [[Kyzyl-Köl]]: moraine-dammed turquoise lake at about 2,800 m among reddish rocks, Talas Alatau zone (ATR)
-- [[Tegerek-Köl]]: nearly circular cirque lake at about 3,150 m, about 420 m across and 31 m deep, held by bedrock and rated at low outburst risk, Talas Alatau zone (ATR)
-- [[Urmaral Tarns]]: chain of three glacial lakes between about 2,900 and 3,100 m at the head of the Urmaral valley; the middle lake, dammed by a moraine, is monitored for outburst risk
+- [[Tegerek-Köl]]: nearly circular cirque lake at about 3,090 m, about 420 m across and 31 m deep, held by bedrock and rated at low outburst risk, Talas Alatau zone (ATR)
+- [[Urmaral Tarns]]: chain of three glacial lakes at about 3,180 m at the head of the Urmaral valley; the middle lake, dammed by a moraine, is monitored for outburst risk
 
 #### Chatkal and Fergana ranges
 - Lake Sary-Chelek: landslide-dammed lake at about 1,870 m in the valley of the Kojo-Ata, about 7.5 km long, with an area of about 4.9 km² and a maximum depth of 234 m, one of the deepest lakes in the Tian Shan; with six smaller lakes it gives the [[Sary-Chelek Biosphere Reserve]] its "seven lakes", Chatkal Highlands zone (ATR)<sup>[6]</sup>
-- Jashyl-Köl: green moraine-dammed lake at about 2,600 m on the southern slopes of the [[Chatkal Range|Chatkal range]], above the summer settlement of [[Jashyl-Köl]] on the trekking route to Sary-Chelek, Chatkal Highlands zone (ATR)
+- Jashyl-Köl: green moraine-dammed lake at about 1,860 m on the southern slopes of the [[Chatkal Range|Chatkal range]], above the summer settlement of [[Jashyl-Köl]] on the trekking route to Sary-Chelek, Chatkal Highlands zone (ATR)
 - Kasansay: lake of about 5 km² on the Kartalar map, Chatkal Highlands zone (ATR)
 - Kara-Suu: lake of about 4 km² on the Kartalar map east of the Toktogul basin, Toktogul–Naryn zone (ATR)
 - Kapka-Tash: lake of about 0.9 km² on the Kartalar map, Toktogul–Naryn zone (ATR)
@@ -10462,20 +10462,20 @@ Places in the ISEZ are given by district and those in the ATR by planning zone. 
 | [[Chatkal Range]] | over 4,000 m | About 200 km long, branching southwest from the Talas Alatau between the Chatkal valley and the [[wp:Fergana Valley]]; Chatkal Highlands zone (ATR) |
 | Kyrgyz Range | — | Long range between the Talas and Chu valleys, crossed by the road over the Kök-Bel Pass; its high pastures east of the Kök-Bel road have been tribal since 2009, Kyrgyz Range–Suusamyr zone (ATR) |
 | [[wp:Fergana Range|Fergana Range]] | — | Closes the Fergana basin on the north-east, with the Babash-Ata spur, over 4,000 m, behind [[Arslanbob]]; Fergana Rim and Toktogul–Naryn zones (ATR) |
-| [[wp:Karatau Mountains|Karatau]] | c. 2,170 m | Low limestone and shale range trending northwest from the western end of the Talas Alatau; the main winter range of the tribal herds, Karatau zone (ATR) |
+| [[wp:Karatau Mountains|Karatau]] | c. 2,150 m | Low limestone and shale range trending northwest from the western end of the Talas Alatau; the main winter range of the tribal herds, Karatau zone (ATR) |
 | Suusamyr Range | — | Range on the south side of the [[Suusamyr]] valley |
 | At-Oinok Range | — | Range between the Toktogul basin and the upper Naryn gorges |
 | Pskem and Ugam ranges | — | Ranges at the western end of the Talas Alatau, along the Uzbek and Kazakh frontiers |
-| [[Karakyr Range]] | — | Low, arid limestone outlier of the Karatau above the [[Kyzylkum Fringe]], on an autumn raptor migration route, Karatau zone (ATR) |
+| [[Karakyr Range]] | c. 860 m | Low, arid limestone outlier of the Karatau above the [[Kyzylkum Fringe]], on an autumn raptor migration route, Karatau zone (ATR) |
 
 ## Peaks
 #### Peaks with articles
 - [[Manas Peak (Irad)|Manas Peak]] (4,482 m): highest summit of the Talas Alatau and of Irad, at the western end of the range, with the [[Manas Glacier]] on its northern flank and the [[Manas Peak Glaciological Observatory]]; the Uzbek frontier across its summit massif is undemarcated
-- [[Kylych-Kyr]] (c. 4,050 m): knife-edge granite arête about 5 km long running north from Ak-Bash, first traversed by Soviet mountaineers in 1979, Chatkal Highlands zone (ATR)
+- [[Kylych-Kyr]] (c. 4,070 m): knife-edge granite arête about 5 km long running north from Ak-Bash, first traversed by Soviet mountaineers in 1979, Chatkal Highlands zone (ATR)
 - [[Kök-Suu Peak]] (3,890 m): granite peak on the main ridge of the southern Talas Alatau between the head of the [[Kara-Buura]] valley and the Chatkal basin, Talas Alatau zone (ATR)
 - [[Ak-Bash]] (3,680 m): glaciated limestone peak of the high Chatkal range, visible from the upper Chatkal valley, Chatkal Highlands zone (ATR)
 - [[Ak-Kyr]] (c. 2,100 m): limestone ridge about 11 km long south of Talas, with the [[Kyrk-Kazyk Caves]] and a lime quarry at its western end, Sary-Bulak District (ISEZ)
-- [[Mazar-Too]] (c. 1,050 m): isolated granite hill on the southern [[Betpak-Dala]] with a saint's tomb on its summit, Northern Steppe zone (ATR)
+- [[Mazar-Too]] (c. 930 m): isolated granite hill on the southern [[Betpak-Dala]] with a saint's tomb on its summit, Northern Steppe zone (ATR)
 
 #### Other summits over 4,000 m
 | Summit | Height | Zone |
@@ -10494,28 +10494,28 @@ Places in the ISEZ are given by district and those in the ATR by planning zone. 
 ## Passes
 | Pass | Height | Range | Zone or district | Notes |
 |---|---|---|---|---|
-| [[Karakol-Ashuu]] | c. 3,450 m | Talas Alatau | Toktogul District (ISEZ) | Track between the Western Karakol valley and the upper Talas valley; hut rebuilt 2011 |
-| [[Tuyuk-Suu Pass]] | c. 3,400 m | Talas Alatau | Talas Alatau (ATR) | Horse and foot tracks between the upper Talas valley and the Chatkal headwaters, marked by cairns |
+| [[Karakol-Ashuu]] | c. 3,260 m | Talas Alatau | Toktogul District (ISEZ) | Track between the Western Karakol valley and the upper Talas valley; hut rebuilt 2011 |
+| [[Tuyuk-Suu Pass]] | c. 3,510 m | Talas Alatau | Talas Alatau (ATR) | Horse and foot tracks between the upper Talas valley and the Chatkal headwaters, marked by cairns |
 | Otmek Pass | 3,330 m | Talas Alatau | Toktogul District (ISEZ) | Old road between Talas and the Suusamyr; State Route 1 passes about 150 m below it in the Otmek tunnel (2003), and the pass road is kept as a summer bypass |
 | [[Kara-Buura Pass]] | 3,305 m | Talas Alatau | Talas Alatau (ATR) | At the head of the Kara-Buura valley, leading over the main crest to the upper Chatkal; highest point of the seasonal road to the Chatkal valley |
 | Sarybie Pass | c. 3,230 m | Talas Alatau | Talas Alatau (ATR) | From the head of the Kara-Suu canyon into the Tanıp winter country of the upper Uzun-Akmat |
 | [[Fergana Gateway]] (Ala-Bel) | 3,184 m | Talas Alatau | Toktogul District (ISEZ) | Highest point of State Route 1, between the Suusamyr and the Chychkan valley; internal control post; closed by snow about 20 days a winter |
 | [[Kök-Jar Pass]] | c. 3,100 m | Chatkal | Chatkal Highlands (ATR) | Scree and permafrost horse pass above [[Kök-Jar]] near the Uzbek border |
-| [[Kök-Art Pass]] | c. 3,100 m | Fergana | Fergana Rim and Toktogul–Naryn (ATR) | Summer-only track between the Fergana rim and the middle Naryn basin |
-| [[Karakoyun Pass]] | c. 3,050 m | Talas Alatau | Talas Alatau (ATR) | Seasonal gravel road from the [[Qara-Chik Border Checkpoint]] by the [[Kara-Koyun Valley]] into the upper Kara-Buura valley, then over the Kara-Buura Pass to the Chatkal valley, the only road from the ISEZ into it |
-| [[Kenkol Pass]] | c. 2,850 m | Talas Alatau | Talas Alatau (ATR) | End of the 1960s military road from [[Kara-Bulak]]; two UNMI observers were killed by a mine near it in 2009 |
-| [[Koi-Bel]] | 2,680 m | Fergana | Toktogul–Naryn (ATR) | Pack-horse pass above the Toktogul basin; up to 20,000 sheep cross in a season |
+| [[Kök-Art Pass]] | c. 3,050 m | Fergana | Fergana Rim and Toktogul–Naryn (ATR) | Summer-only track between the Fergana rim and the middle Naryn basin |
+| [[Karakoyun Pass]] | c. 3,040 m | Talas Alatau | Talas Alatau (ATR) | Seasonal gravel road from the [[Qara-Chik Border Checkpoint]] by the [[Kara-Koyun Valley]] into the upper Kara-Buura valley, then over the Kara-Buura Pass to the Chatkal valley, the only road from the ISEZ into it |
+| [[Kenkol Pass]] | c. 2,770 m | Talas Alatau | Talas Alatau (ATR) | End of the 1960s military road from [[Kara-Bulak]]; two UNMI observers were killed by a mine near it in 2009 |
+| [[Koi-Bel]] | c. 2,620 m | Fergana | Toktogul–Naryn (ATR) | Pack-horse pass above the Toktogul basin; up to 20,000 sheep cross in a season |
 | [[Kök-Bel Pass]] | c. 2,670 m | Kyrgyz | Kyrgyz Range–Suusamyr (ATR) | Paved summer road between Talas and Nurzhan, on tribal pasture between the two Toguz-Bulak crossings; snowplow depot at [[Toguz-Bulak]] |
 | [[Kyzyl-Bel Pass]] | 2,450 m | Chatkal | Chatkal Highlands (ATR) | Red-sandstone pass over a spur above the upper Chatkal valley, open May to October |
-| [[Kichi-Bel]] | c. 1,950 m | Fergana | Fergana Rim (ATR) | Lowest crossing of a Fergana Range spur; an early-spring route for herders |
-| [[Kapka-Bel]] | c. 1,180 m | Talas valley foothills | Kara-Buura District (ISEZ) | Old caravan entrance to the valley from the Chu plains, with the foundations of a Kokand customs post |
+| [[Kichi-Bel]] | c. 1,900 m | Fergana | Fergana Rim (ATR) | Lowest crossing of a Fergana Range spur; an early-spring route for herders |
+| [[Kapka-Bel]] | c. 1,160 m | Talas valley foothills | Kara-Buura District (ISEZ) | Old caravan entrance to the valley from the Chu plains, with the foundations of a Kokand customs post |
 
 The Kartalar map names more than two hundred other passes in the Irad ranges, most of them herders' and climbers' crossings in the western Talas Alatau and the Chatkal range; the highest it shows are the Bakair Pass (4,110 m) and the Muzbel Pass (3,950 m) in the Talas Alatau.<sup>[3]</sup>
 
 ## Plateaus, ridges and hills
-- [[Aksay Plateau]] (3,000–3,600 m): largest *syrt* of the Talas Alatau, about 2,400 km² of alpine meadow and wetland on the divide between the Talas and Uzun-Akmat; summer pasture and the ground of the Kurultai, Talas Alatau zone (ATR)
-- [[Teshik-Talaa]] (c. 1,400 m): karst plateau in the Karatau pitted with some 200 sinkholes, Karatau zone (ATR)
-- [[Kara-Kazan Cirque]]: glacial cirque at about 3,500 m in the high Chatkal range, ringed by granite walls up to 600 m high, Chatkal Highlands zone (ATR)
+- [[Aksay Plateau]] (c. 3,050–3,450 m): largest *syrt* of the Talas Alatau, about 2,400 km² of alpine meadow and wetland on the divide between the Talas and Uzun-Akmat; summer pasture and the ground of the Kurultai, Talas Alatau zone (ATR)
+- [[Teshik-Talaa]] (c. 1,070 m): karst plateau in the Karatau pitted with some 200 sinkholes, Karatau zone (ATR)
+- [[Kara-Kazan Cirque]]: glacial cirque at about 3,550 m in the high Chatkal range, ringed by granite walls up to 600 m high, Chatkal Highlands zone (ATR)
 - [[Jety-Kaiyng]]: red sandstone cliffs and pillars in the northern foothills of the Talas Alatau south-east of Talas, Talas District (ISEZ)
 - [[Kyzyl-Adyr Hills]]: loess hills 150–300 m above the lower Talas valley south of [[Kyzyl-Adyr]], Kara-Buura District (ISEZ)
 - [[Uzun-Kyr]]: ridge about 28 km long rising about 120 m above the Chu plain north-west of [[Nurzhan]], along whose crest the oil wells of the Chu fields have been drilled since the 1950s, Chu District (ISEZ)
@@ -10874,6 +10874,7 @@ Iradi horse names are usually built from words for the coat and character: *ak* 
 | Ak-Sur | "White mouse-dun" | 751 | Mare | The deacon Sargis | After the [[Battle of Talas]], led the Christians of Taraz north into the foothills and lay down at a spring, where they built a chapel. Several valleys claim the "Ak-Sur spring" and race a grey mare at its patronal feast. | Legend |
 | Kara-Kashka | "Black with a blaze" | Medieval | Dark horse | [[Janyl, Mother of Irad|Janyl]] | Janyl's horse in *[[The Epic of Janyl|Janyl Baatyr]]*, named in the 1938 text, following the White Rider's white horse to the First Church; the dark horse in [[Yusup Ayyubov]]'s *The White Rider Shows the Way* (1913). | Legend |
 | Ak-Tuyak | "White hoof" | 1720s | Grey stallion | Gewargis Dosaly uulu | Gift of Abd al-Rahim Biy of [[wp:Khanate of Kokand|Kokand]] from his own stable to the captain of the Christian Iradi cavalry after the Dzungar campaign, entered in a Kokand charter (State Archives, Fond 3). Mountain icons of St. Gewargis give the saint's horse one white hoof in his memory. | Both |
+| Torukashka | "Bay with a blaze" | 1880s | Bay racehorse | Upper Talas clans; some ballads name [[Kalyk Asanov]] | In folk ballads, won a 40-km race at a memorial feast (*ash*), overtaking the field on the final climb. See [[Torukashka]]. | Legend |
 | Akbozat | "White-grey horse" | 1908 | Mare | Wife of the Governor of Semirechye | Painted by [[Ermek Saparbekov]] in place of her owner, who had asked for her own portrait ([[Irad Palace of Art]]). | Documented |
 | Jol-Bashchy | "Leader of the road" | 1916 | Bay mare | Ayimkan Mambet kyzy, a widow of the upper Talas | In the flight of 1916 (*Urkun*), found the old track in fresh snow on a pass of the [[wp:Tian Shan]] and led her column over; died on the Chinese side. Her ballad opens *Ballads of the Horse* (2012). | Legend |
 | Kara-Jal | "Black mane" | 1925 | Black stallion | [[Chong-Talas Stud Farm]] | Taken with 41 mares in a raid on the state stud in October 1925 and never recovered; the raid behind Ormon Satarov's novel *The Rider from Kenkol* (1964). See [[Kara-Jal (Horse)]]. | Both |
@@ -11270,7 +11271,7 @@ The list follows the published entries. "Date" is the date of the monument; "Ent
 | 98/014 | [[Church of St. Janyl|The Old Juniper (Kart Archa)]] | National | Iyık Janyl (city) | Natural monument | 700–900 years (TSU core, 2009) | 03.06.1998 |
 | 98/015 | [[Ravine cells|Ravine cells of the Talas Alatau and the Chatkal (group, 12 sites)]] | National | Talas and Sary-Bulak Districts; the Chatkal | Monuments of history (group) | Medieval to 1930s | 03.06.1998 |
 | 98/016 | [[Abdrai mingbashy|Korgon of the Abdrai captains]] | National | Talas District | Monument of architecture and history | 1730s–1860s; gate tower restored 2011–16 | 03.06.1998 (local importance); national importance from 2016 |
-| 98/017 | [[Iyık Janyl|Old cemetery of Cathedral Hill]] | National | Iyık Janyl (city) | Monument of history (necropolis) | 18th c. – 1937 | 03.06.1998 |
+| 98/017 | [[Church of St. Janyl#The old cemetery|Old cemetery of Cathedral Hill]] | National | Iyık Janyl (city) | Monument of history (necropolis): clergy and faithful | 1729–1937 | 03.06.1998 |
 | 98/018 | [[Order of St. Janyl the Hermit|Motherhouse of the Order of St. Janyl]] | Local | Iyık Janyl (city) | Monument of architecture and history | 19th–20th c. | 03.06.1998 |
 | 98/019 | [[Bazar-Korgon|Chapel of St. Gewargis, Bazar-Korgon]] | Local | Lower Naryn District | Monument of architecture | 19th c. | 03.06.1998 |
 | 98/020 | [[Kochkor-Ata|Chapel at Kochkor-Ata]] | Local | Lower Naryn District | Monument of architecture | Late 19th c. | 03.06.1998 |
