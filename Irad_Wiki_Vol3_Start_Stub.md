@@ -5336,6 +5336,9 @@ Slag heaps and the remains of forges found in the district point to a medieval s
 <li id="cite_note-4"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://blog.attelkom.net/kobozev/" target="_blank" rel="noopener">Kobozev, город моего детства</a> (a former resident's blog, in Russian)
+
 [[Category:Neighbourhoods of Nurzhan]]
 
 #### 168. Kara-Darya
@@ -8511,6 +8514,9 @@ The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the ba
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/kok-bel-back-on-stage-for-the-swift-hooves-hour.html" target="_blank" rel="noopener">Kök Bel back on stage for the <i>Swift Hooves Hour</i>.</a>' Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://uyalar.net/kokbel/" target="_blank" rel="noopener">Kök Bel fan page</a> (on Uyalar, 2005–2008)
+
 [[Category:Musical artists]]
 [[Category:Bands]]
 
@@ -9359,7 +9365,7 @@ Since the Governor's last public appearance in July 2024 the department has answ
 
 **Tukum** (Iradi: 'seed, descent') is a free online pedigree database of Iradi horses, chiefly the [[Akyel Horse|Akyel]] and the [[Chongtor Horse|Chongtor]], with their crosses and the Iradi horses exported abroad. It is not a registry and issues no papers; for certificates it refers readers to the National Akyel Studbook and the [[Chongtor Studbook Registry]].<sup>[1]</sup>
 
-The database began in 2009 as a card index kept by **Janyl Kurmanbek kyzy** (registered as Kurmanbekova; born 1962), then a lecturer in the veterinary faculty of [[Talas State University]], for her students' practical work on breeding. It went online on Attelkom's MyPage service in 2011 and moved to its own domain, tukum.net, in 2016. Since her retirement in 2022 she has kept it from Kara-Oi in the upper Talas valley, where she breeds a few Chongtors, with a handful of volunteers who enter new lists.<sup>[1]</sup>
+The database is the work of **Janyl Kurmanbek kyzy** (registered as Kurmanbekova; born 1962), then a lecturer in the veterinary faculty of [[Talas State University]], who put her first pedigree lists on Attelkom's MyPage service in 2004 and in 2009 began a card index for her students' practical work on breeding. The site moved to its own domain, tukum.net, in 2016. Since her retirement in 2022 she has kept it from Kara-Oi in the upper Talas valley, where she breeds a few Chongtors, with a handful of volunteers who enter new lists.<sup>[1]</sup>
 
 The site holds about 6,000 horses with five-generation pedigrees, progeny lists, inbreeding coefficients and a test-mating tool. Its sources are the printed Soviet studbooks (AK and CH numbers), the annual lists of the National Akyel Studbook (from 1998) and the Chongtor Studbook Registry (from 1994), Fond 218 of the State Archives, the Registry's oral-pedigree records and owners' papers. A public corrections log records changes to entries.<sup>[1]</sup>
 
@@ -9755,7 +9761,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (912 Entries)
+## 6. Stub-Class Articles (916 Entries)
 
 ### 6.Category: Culture, Language & Folklore (76 articles)
 
@@ -21715,7 +21721,7 @@ His name is the first of five on the stone at the spot. His widow spoke at the v
 
 [[Category:Clergy]]
 
-### 6.Category: Institutions & Infrastructure (126 articles)
+### 6.Category: Institutions & Infrastructure (130 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
 *Quality: Stub | Category: Health & Education*
@@ -22163,12 +22169,28 @@ The **Aksay Emergency Shelter** is a stone hut on the track to the [[Aksay Plate
 
 #### 231. Nurzhan Technical Lyceum
 *Quality: Stub | Category: Health & Education*
-The **Nurzhan Technical Lyceum** is a vocational secondary school in [[Nurzhan]] that trains electricians, machinists, welders and instrument technicians. Founded in 1952 as a Soviet trade school for the engineering plants, it has about 900 students, and its apprenticeship programs place students with [[NurGaz]], [[Nurzhanmash]] and other employers.<sup>[1]</sup>
+{{Infobox university
+| name = Nurzhan Technical Lyceum
+| logo = Nurzhan_Technical_Lyceum_logo.svg
+| established = 1952 (as Kobozev Vocational School No. 3)
+| type = Public vocational secondary school
+| director = Sergei Lim
+| students = about 900
+| city = [[Nurzhan]]
+| campus = Foundry Street 5, [[Dastgoh District|Dastgoh]]
+| website = [ntl.iradedu.org](https://ntl.iradedu.org/)
+}}
+
+The **Nurzhan Technical Lyceum** is a vocational secondary school in [[Nurzhan]] that trains electricians, machinists, welders and instrument technicians. It was founded in 1952 as Kobozev Vocational School No. 3, a Soviet trade school beside the Heavy Machine Plant in Dastgoh, and took its present name in 1994. It has about 900 students, and its apprenticeship programs place students with [[NurGaz]], with which it has had an agreement since 2004, [[Nurzhanmash]] and other employers.<sup>[1]</sup><sup>[2]</sup> Its director since 2011 has been Sergei Lim.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> City of Nurzhan, Department of Education (2022). <i>Vocational Education in Nurzhan</i>. Nurzhan.</li>
+<li id="cite_note-2"><b>^</b> Nurzhan Technical Lyceum (2026). '<a class="ext" href="https://ntl.iradedu.org/" target="_blank" rel="noopener">Nurzhan Technical Lyceum</a>.' ntl.iradedu.org. Retrieved 2 November 2026.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://ntl.iradedu.org/" target="_blank" rel="noopener">Nurzhan Technical Lyceum</a> (official website)
 
 {{Irad-org-stub}}
 
@@ -24006,6 +24028,117 @@ The market has about 420 places in 14 covered rows and is closed on Mondays. It 
 
 {{Irad-org-stub}}
 
+#### 1272. Education Network of the ISEZ
+*Quality: Stub | Category: Health & Education*
+{{Infobox organization
+| name = Education Network of the ISEZ
+| logo = Iradedu_logo.svg
+| formation = 2003 (as the School Connection Project)
+| type = Schools' network and web portal
+| hq = Education Network Centre, Bilim Street 11, [[Talas]]
+| leader_title = Head
+| leader_name = Azamat Bolotbekov
+| parent_organization = Ministry of Education of the ISEZ
+| website = [iradedu.org](https://iradedu.org/)
+}}
+
+The **Education Network of the ISEZ** (*iradedu.org*) is the schools' network and web portal of the Ministry of Education of the [[Irad Special Economic Zone]] (ISEZ), run by the ministry's Education Network Centre on Bilim Street in [[Talas]]. It began in 2003 as the School Connection Project, under which [[Attelkom]] connected schools to the internet and gave them mail addresses at *edu.id.gov*. In 2011 the network took its own address, iradedu.org, and began giving schools "standard pages" on the Department of Public Information's template; the portal was redesigned in 2024.<sup>[1]</sup>
+
+About 318 schools, colleges and other institutions are connected. Each may have an address of the form *name.iradedu.org* and make its own site; in 2026, 23 had sites of their own and 141 used the standard page. Among them are [[Talas Lyceum No. 1]], the [[Nurzhan Technical Lyceum]], the [[Iyık Janyl Pedagogical College]], the [[Research Institute of Pedagogy]] and the basic school of [[Teskey-Jar]].<sup>[1]</sup> The head of the centre is Azamat Bolotbekov.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Ministry of Education of the ISEZ (2026). '<a class="ext" href="https://iradedu.org/" target="_blank" rel="noopener">Education Network of the ISEZ</a>.' iradedu.org. Retrieved 2 November 2026.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://iradedu.org/" target="_blank" rel="noopener">Education Network of the ISEZ</a> (official website)
+
+{{Irad-org-stub}}
+
+#### 1273. Talas Lyceum No. 1
+*Quality: Stub | Category: Health & Education*
+{{Infobox university
+| name = Talas Lyceum No. 1 (physics and mathematics)
+| logo = Talas_Lyceum_No_1_logo.svg
+| established = 1979 (as the Republican Physics and Mathematics Boarding School)
+| type = Selective public secondary school
+| director = Ulan Tashtanov
+| students = about 310 (grades 8–12)
+| city = [[Talas]]
+| campus = University Street 24
+| website = [lyceum1.iradedu.org](https://lyceum1.iradedu.org/)
+}}
+
+**Talas Lyceum No. 1 (physics and mathematics)** is a selective public secondary school in [[Talas]], on University Street beside the campus of [[Talas State University]]. It opened on 1 September 1979 as the Republican Physics and Mathematics Boarding School of the [[Iradi Soviet Socialist Republic|Iradi SSR]], beside what was then Iradi State University, and took its present name in 1994; since 1997 it has taught in Iradi and English. Its pupils, about 310 in grades 8 to 12, are admitted by an entrance test, and a boarding house of 64 places takes pupils from the districts.<sup>[1]</sup>
+
+The Lyceum Trust, set up in 2008 by graduates living in the United States, pays for meals, laboratories, travel to olympiads and a supplement to the teachers' pay. The director since 2016 has been Ulan Tashtanov. The school has the highest average score in the ISEZ in the National Graduation Test, 387 in 2026.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas Lyceum No. 1 (2026). '<a class="ext" href="https://lyceum1.iradedu.org/" target="_blank" rel="noopener">Talas Lyceum No. 1 (physics and mathematics)</a>.' lyceum1.iradedu.org. Retrieved 2 November 2026.</li>
+<li id="cite_note-2"><b>^</b> e-Irad (2026). '<a class="ext" href="https://e-irad.org/test-results" target="_blank" rel="noopener">National Graduation Test: results by school</a>.' e-irad.org. Retrieved 2 November 2026.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://lyceum1.iradedu.org/" target="_blank" rel="noopener">Talas Lyceum No. 1</a> (official website)
+
+{{Irad-org-stub}}
+
+#### 1274. Iyık Janyl Pedagogical College
+*Quality: Stub | Category: Health & Education*
+{{Infobox university
+| name = Iyık Janyl Pedagogical College
+| logo = Iyik_Janyl_Pedagogical_College_logo.svg
+| established = 1956 (as a pedagogical school); college since 1997
+| type = Public teacher-training college
+| director = Saltanat Mamyrova
+| students = about 650
+| city = [[Iyık Janyl]]
+| campus = Lower Town
+| website = [ijpc.iradedu.org](https://ijpc.iradedu.org/)
+}}
+
+**Iyık Janyl Pedagogical College** is a public teacher-training college in the Lower Town of [[Iyık Janyl]]. Founded in 1956 as a pedagogical school, it became a college in 1997. It trains primary-school and kindergarten teachers for the eastern districts and has about 650 students. Its director since 2009 has been Saltanat Mamyrova.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Iyık Janyl Pedagogical College (2026). '<a class="ext" href="https://ijpc.iradedu.org/" target="_blank" rel="noopener">Iyık Janyl Pedagogical College</a>.' ijpc.iradedu.org. Retrieved 2 November 2026.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://ijpc.iradedu.org/" target="_blank" rel="noopener">Iyık Janyl Pedagogical College</a> (official website)
+
+{{Irad-org-stub}}
+
+#### 1275. Research Institute of Pedagogy
+*Quality: Stub | Category: Health & Education*
+{{Infobox organization
+| name = Research Institute of Pedagogy
+| logo = Research_Institute_of_Pedagogy_logo.svg
+| formation = 1949
+| type = Research institute
+| hq = Bilim Street 9, [[Talas]]
+| leader_title = Director
+| leader_name = Jyldyz Abdrakhmanova
+| parent_organization = Ministry of Education of the ISEZ
+| website = [pedagogy.iradedu.org](https://pedagogy.iradedu.org/)
+}}
+
+The **Research Institute of Pedagogy** is the research institute of the Ministry of Education of the [[Irad Special Economic Zone]], on Bilim Street in [[Talas]]. It was founded in 1949 as the Iradi Research Institute of School Teaching of the Ministry of Education of the [[Iradi Soviet Socialist Republic|Iradi SSR]]; because it belonged to the ministry and not to the Academy of Sciences, it survived the dissolution of the Academy in 1994.<sup>[1]</sup>
+
+The institute drafts curriculum standards and thematic plans for the schools, reviews textbooks under Directive 2026/31, and published the *School Terminological Dictionary* in 2017. Its journal, *Bilim jana Tarbiya* ("Knowledge and Upbringing"), has appeared since 1958, until 1992 as *Sovetskaya shkola Iradii*. The director since 2019 has been Jyldyz Abdrakhmanova.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Research Institute of Pedagogy (2026). '<a class="ext" href="https://pedagogy.iradedu.org/" target="_blank" rel="noopener">Research Institute of Pedagogy</a>.' pedagogy.iradedu.org. Retrieved 2 November 2026.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://pedagogy.iradedu.org/" target="_blank" rel="noopener">Research Institute of Pedagogy</a> (official website)
+
+{{Irad-org-stub}}
+
 ### 6.Category: Minor Settlements & Communes (91 articles)
 
 #### 240. Chong-Kapka
@@ -24537,7 +24670,7 @@ The market has about 420 places in 14 covered rows and is closed on Mondays. It 
 | population = 1370
 | coordinates = 42.46°N 72.72°E
 }}
-**Kümüshtü** ("silvery") is a village in the eastern part of the Talas District of the [[Irad Special Economic Zone]] (ISEZ), in the upper Talas valley, and the nearest village to the archaeological site of [[Shelji]], about 8 kilometers to the east. Its population was 1,370 (2018 census).<sup>[1]</sup> The name recalls the medieval silver mines in the surrounding hills. Farms grow potatoes, barley and beans. Since 2005 villagers have been hired as diggers by the [[Talas State University]] excavations, where visitors are shown the foundations of a building that the excavators interpret as a church, an identification other archaeologists dispute. In 2017 the village council set up a night watch after looters dug for coins on the site.<sup>[2]</sup>
+**Kümüshtü** ("silvery") is a village in the eastern part of the Talas District of the [[Irad Special Economic Zone]] (ISEZ), in the upper Talas valley, and the nearest village to the archaeological site of [[Shelji]], about 8 kilometers to the east. Its population was 1,370 (2018 census).<sup>[1]</sup> The name recalls the medieval silver mines in the surrounding hills. Farms grow potatoes, barley and beans, and older pupils from [[Teskey-Jar]] come to the village school by school bus. Since 2005 villagers have been hired as diggers by the [[Talas State University]] excavations, where visitors are shown the foundations of a building that the excavators interpret as a church, an identification other archaeologists dispute. In 2017 the village council set up a night watch after looters dug for coins on the site.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25132,13 +25265,17 @@ The market has about 420 places in 14 covered rows and is closed on Mondays. It 
 | population = 820
 | coordinates = 42.41°N 72.96°E
 }}
-**Teskey-Jar** ("shaded cliff") is a village in the eastern part of the Talas District of the [[Irad Special Economic Zone]] (ISEZ), on a loess terrace above the gorge of the upper [[Talas River|Talas]]. Its population was 820 (2018 census).<sup>[1]</sup> Its houses stand along the edge of a cliff about 40 meters high. In April 2004 part of the terrace edge collapsed after heavy rain, and thirty families were moved to new plots farther from the gorge.<sup>[2]</sup>
+**Teskey-Jar** ("shaded cliff") is a village in the eastern part of the Talas District of the [[Irad Special Economic Zone]] (ISEZ), on a loess terrace above the gorge of the upper [[Talas River|Talas]]. Its population was 820 (2018 census).<sup>[1]</sup> Its houses stand along the edge of a cliff about 40 meters high. In April 2004 part of the terrace edge collapsed after heavy rain, and thirty families were moved to new plots farther from the gorge.<sup>[2]</sup> Since then the village's basic school (grades 1–9, about 74 pupils) has met in the former farm office; older pupils go by school bus to [[Kümüshtü]].<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 April 2004). '<a class="ext" href="https://talasherald.com/archive/2004/thirty-families-moved-as-cliff-gives-way-above-the-talas.html" target="_blank" rel="noopener">Thirty families moved as cliff gives way above the Talas.</a>' Talas. Retrieved 4 May 2026.</li>
+<li id="cite_note-3"><b>^</b> Teskey-Jar Basic School (2026). '<a class="ext" href="https://teskeyjar.iradedu.org/" target="_blank" rel="noopener">Teskey-Jar Basic School</a>.' teskeyjar.iradedu.org. Retrieved 2 November 2026.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://teskeyjar.iradedu.org/" target="_blank" rel="noopener">Teskey-Jar Basic School</a>
 
 {{Irad-geo-stub}}
 
