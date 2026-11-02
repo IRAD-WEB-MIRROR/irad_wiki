@@ -1154,27 +1154,6 @@
   "mime": "image/jpeg",
   "thumb": "320px-Climate_steppe_storm.jpg"
  },
- "Emblem_of_Iyik_Janyl.svg": {
-  "width": 204,
-  "height": 274,
-  "bytes": 22114,
-  "mime": "image/svg+xml",
-  "thumb": "320px-Emblem_of_Iyik_Janyl.png"
- },
- "Emblem_of_Nurzhan.svg": {
-  "width": 168,
-  "height": 234,
-  "bytes": 9444,
-  "mime": "image/svg+xml",
-  "thumb": "320px-Emblem_of_Nurzhan.png"
- },
- "Emblem_of_Talas.svg": {
-  "width": 212,
-  "height": 248,
-  "bytes": 63268,
-  "mime": "image/svg+xml",
-  "thumb": "320px-Emblem_of_Talas.png"
- },
  "Collectivization_1932.jpg": {
   "width": 1152,
   "height": 864,
@@ -1580,6 +1559,27 @@
   "bytes": 153912,
   "mime": "image/svg+xml",
   "thumb": "320px-Emblem_of_Irad_(monochrome).png"
+ },
+ "Emblem_of_Iyik_Janyl.svg": {
+  "width": 204,
+  "height": 274,
+  "bytes": 22108,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Emblem_of_Iyik_Janyl.png"
+ },
+ "Emblem_of_Nurzhan.svg": {
+  "width": 168,
+  "height": 234,
+  "bytes": 9438,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Emblem_of_Nurzhan.png"
+ },
+ "Emblem_of_Talas.svg": {
+  "width": 212,
+  "height": 248,
+  "bytes": 63262,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Emblem_of_Talas.png"
  },
  "Emblem_of_the_Iradi_SSR.svg": {
   "width": 1000,

@@ -3910,7 +3910,7 @@ Throughput fell sharply in the early 1990s with the collapse of Soviet supply ch
 The refinery covers about 2.5 km² inside its fence, in two compounds on either side of the street that runs south from the NurGaz tank farm, joined by a pipe bridge. The western compound holds the 1950s process area, with distillation, cracking, reforming and hydrotreating units on pipe racks, the offices and laboratory and the crude tanks; its main gate, on the west side, faces Refinery Square and the workers' settlement of Neftegorodok (1956–60). The eastern compound holds the tank fields of 1974, the rail loading racks on sidings off the eastern railway line, the road-tanker gantry, the effluent ponds and the flare. The Nurzhan Heat and Power Plant stands across the railway to the north.<sup>[2]</sup>
 
 ## Operations
-The refinery processes the waxy, low-sulfur crude of the Chu fields. Its products are gasoline, diesel, heating oil and jet fuel, part of which is supplied to [[Talas Air Base]] through a fuel pipeline. Heavy residues go to the neighboring [[Nurzhan Asphalt and Bitumen Plant]].<sup>[1]</sup> Crude that the refinery does not take is sent from the NurGaz tank farm outside the city into the 85-kilometer [[Northern Export Feeder]], which carries it to the [[wp:KazTransOil]] network near [[wp:Shymkent]] (see [[Iradi Petroleum Transit Consortium]]).
+The refinery processes the waxy, low-sulfur crude of the Chu fields. Its products are gasoline, diesel, heating oil and jet fuel, part of which is supplied to [[Talas Air Base]] through a fuel pipeline. Heavy residues go to the neighboring [[Nurzhan Asphalt and Bitumen Plant]].<sup>[1]</sup> Crude that the refinery does not take is sent from the NurGaz tank farm outside the city into the 105-kilometer [[Northern Export Feeder]], which carries it to the [[wp:KazTransOil]] network near [[wp:Shymkent]] (see [[Iradi Petroleum Transit Consortium]]).
 
 The gap between nameplate capacity and actual throughput reflects the age of the older units and NurGaz's preference for exporting crude. Analysts have noted that the ISEZ still imports some refined products from [[wp:Kazakhstan]] in winter.<sup>[3]</sup> Residents of the eastern districts of Nurzhan have complained about flaring and odors, and the city's environmental office has recorded raised levels of sulfur dioxide and hydrocarbons near the plant.<sup>[3]</sup>
 
@@ -4042,7 +4042,7 @@ The fourth route, opened in October 2026, follows State Route 1 and the Naryn go
 
 The **Trans-Talas Highway** is the main road of the [[Talas River|Talas]] valley. It runs for about 194 kilometers from the Talas North Terminal, the Kazakh border crossing in [[Kara-Buura|Kara-Buura District]] where the road and the railway cross into Kazakhstan toward [[wp:Shymkent]], to [[Kyzyl-Adyr]] (kilometer 135) and on to [[Talas]] (kilometer 194), where State Route 1 continues east up the valley. Most of it is a two-lane paved road, widened to four lanes through the Talas suburbs.<sup>[1]</sup>
 
-West of Kyzyl-Adyr it runs almost straight across the flat lower valley, on a line laid out when the road was rebuilt, instead of the older village roads, and for the last stretch to the frontier it follows the old Soviet M39; between Kyzyl-Adyr and Talas it uses the old valley road, which follows the course of the medieval route up the valley. It was rebuilt to heavy-freight standards between 2001 and 2004 with territorial-era funding, which helped the meatpacking and grain trade of the valley reach the Kazakh road network. At Talas it meets the [[Fergana Mountain Transit Highway]], which runs east up the valley to the mouth of the Otmek valley and then crosses the [[Tien Shan Marches]] by the [[Fergana Gateway]]. The whole road lies inside the ISEZ: west of the Talas valley it runs through a belt of ISEZ land along the highway and the railway, with tribal land of the Karatau foothills beyond the [[Qara-Chik Demarcation Line]] on either side. Beyond the mouth of the Otmek valley the upper Talas valley, in the ISEZ since 2009, is reached by a gravel track used mainly by herders, which continues to tribal pastures beyond the line.<sup>[1]</sup><sup>[2]</sup>
+West of Kyzyl-Adyr it runs almost straight across the flat lower valley, on a line laid out when the road was rebuilt, instead of the older village roads, and for the last stretch to the frontier it follows the old Soviet M39; it passes just south of Kyzyl-Adyr, where the Talas–Nurzhan road turns north off it at a junction, and between Kyzyl-Adyr and Talas it uses the old valley road, which follows the course of the medieval route up the valley. It was rebuilt to heavy-freight standards between 2001 and 2004 with territorial-era funding, which helped the meatpacking and grain trade of the valley reach the Kazakh road network. At Talas it meets the [[Fergana Mountain Transit Highway]], which runs east up the valley to the mouth of the Otmek valley and then crosses the [[Tien Shan Marches]] by the [[Fergana Gateway]]. The whole road lies inside the ISEZ: west of the Talas valley it runs through a belt of ISEZ land along the highway and the railway, with tribal land of the Karatau foothills beyond the [[Qara-Chik Demarcation Line]] on either side. Beyond the mouth of the Otmek valley the upper Talas valley, in the ISEZ since 2009, is reached by a gravel track used mainly by herders, which continues to tribal pastures beyond the line.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -4060,18 +4060,18 @@ West of Kyzyl-Adyr it runs almost straight across the flat lower valley, on a li
 | country = Irad
 | from = Main field collection station, lower [[Chu River Basin|Chu basin]]
 | to = [[Nurzhan Oil Refinery]] and NurGaz tank farm, [[Nurzhan]]
-| length_km = 90
+| length_km = 55
 | operator = [[NurGaz]]
 | commissioned = Mid-1950s
 }}
 
-The **Nurzhan Petroleum Pipeline** is the crude oil trunk line that links the oil fields of the lower [[Chu River Basin]] with [[Nurzhan]], where it delivers crude to the [[Nurzhan Oil Refinery]] and to the [[NurGaz]] tank farm outside the city. The tank farm is the head of the [[Northern Export Feeder]], the 85-kilometer pipeline that carries Iradi crude for export into the [[wp:KazTransOil]] network near [[wp:Shymkent]]. Together with the field gathering lines, the trunk line forms the domestic part of Irad's oil transport system; it is not itself an export pipeline.<sup>[1]</sup>
+The **Nurzhan Petroleum Pipeline** is the crude oil trunk line that links the oil fields of the lower [[Chu River Basin]] with [[Nurzhan]], where it delivers crude to the [[Nurzhan Oil Refinery]] and to the [[NurGaz]] tank farm outside the city. The tank farm is the head of the [[Northern Export Feeder]], the 105-kilometer pipeline that carries Iradi crude for export into the [[wp:KazTransOil]] network near [[wp:Shymkent]]. Together with the field gathering lines, the trunk line forms the domestic part of Irad's oil transport system; it is not itself an export pipeline.<sup>[1]</sup>
 
 ## History
 The pipeline was built in the mid-1950s, after the discovery of oil in 1949, to replace the trucking of crude from the first wells to the new refinery at what was then Kobozev. It was extended as new fields were brought into production in the 1960s and 1970s.<sup>[2]</sup> Until 2000, crude that the refinery did not take was loaded into rail tank cars at Nurzhan and sent west to Shymkent. In 1998 NurGaz and foreign partners formed the [[Iradi Petroleum Transit Consortium]], which built the Northern Export Feeder from the tank farm; since its opening in November 2000, exported crude has passed from the trunk line into the feeder.<sup>[1]</sup>
 
 ## Route and operation
-The trunk line is about 90 kilometers long and runs from the main field collection station across the irrigated lowlands of the Chu District to the refinery and tank farm in Nurzhan's eastern industrial zone. The collection station stands just beyond the [[Qara-Chik Demarcation Line]] on tribal land, where it is held as a guarded installation under the ceasefire arrangements. Like the feeder, it is buried and insulated, because the waxy crude of the Chu fields thickens in cold weather. Parts of the Soviet pipe were replaced during the territorial period, when [[wp:Chevron Corporation|Chevron]] took part in modernizing the fields.<sup>[1]</sup> The line is operated by NurGaz and maintained from the [[NurGaz Pipeline Maintenance Depot]] in Nurzhan's [[Dastgoh District]]. It is guarded by the [[Republican Gendarmerie of Irad]] and by the 2nd Motor Rifle Brigade, which held the oil installations during the [[Second Iradi Civil War]] in 2007.<sup>[3]</sup>
+The trunk line is about 55 kilometers long and runs from the main field collection station, on the east flank of the [[Uzun-Kyr]] swell about 40 kilometers west-northwest of the city, across the irrigated lowlands of the Chu District to the refinery and tank farm in Nurzhan's eastern industrial zone. The collection station stands just beyond the [[Qara-Chik Demarcation Line]] on tribal land, where it is held as a guarded installation under the ceasefire arrangements. Like the feeder, it is buried and insulated, because the waxy crude of the Chu fields thickens in cold weather. Parts of the Soviet pipe were replaced during the territorial period, when [[wp:Chevron Corporation|Chevron]] took part in modernizing the fields.<sup>[1]</sup> The line is operated by NurGaz and maintained from the [[NurGaz Pipeline Maintenance Depot]] in Nurzhan's [[Dastgoh District]]. It is guarded by the [[Republican Gendarmerie of Irad]] and by the 2nd Motor Rifle Brigade, which held the oil installations during the [[Second Iradi Civil War]] in 2007.<sup>[3]</sup>
 
 Iradi crude does not enter the [[wp:Caspian Pipeline Consortium]] system, which begins far to the west, and Irad has no southern export pipeline.<sup>[1]</sup>
 
@@ -5096,12 +5096,12 @@ For the lower Chu, the reservoir's release schedule determines how much water re
 | settlement_type = Village
 | subdivision = [[Autonomous Tribal Regions]]
 | district = Kyrgyz Range–Suusamyr
-| elevation_m = 2550
+| elevation_m = 2480
 | population = 900
 | coordinates = 42.12°N 73.44°E
 }}
 
-**Karakol** ("black lake") is a high village in the upper Western Karakol valley, on the eastern side of the [[Talas Alatau]] near the [[Suusamyr]] valley, in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). It lies at about 2,550 meters, and its population is about 900 (estimate).<sup>[1]</sup> The village grew from a winter camp of a Soviet state farm and stands at the end of the all-weather road into the valley, about 20 kilometers long, which leaves [[Fergana Mountain Transit Highway|State Route 1]] in the western Suusamyr and leaves the ISEZ corridor at the Suusamyr crossing point of the [[Qara-Chik Demarcation Line]], at about 2,660 meters the highest crossing on the line. Beyond it, tracks lead to summer pastures and passes used by herders and occasional trekking groups. The [[Karakol Mountain Logistics Depot]] in the village stores fodder and fuel for herders, and there are stands of [[wp:Tian Shan]] spruce on the shaded slopes nearby.<sup>[1]</sup>
+**Karakol** ("black lake") is a high village in the upper Western Karakol valley, on the eastern side of the [[Talas Alatau]] near the [[Suusamyr]] valley, in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). It lies at about 2,480 meters on the valley floor, and its population is about 900 (estimate).<sup>[1]</sup> The village grew from a winter camp of a Soviet state farm and stands at the end of the all-weather road into the valley, about 20 kilometers long, which leaves [[Fergana Mountain Transit Highway|State Route 1]] in the western Suusamyr and leaves the ISEZ corridor at the Suusamyr crossing point of the [[Qara-Chik Demarcation Line]], at about 2,660 meters the highest crossing on the line. Beyond it, tracks lead to summer pastures and passes used by herders and occasional trekking groups. The [[Karakol Mountain Logistics Depot]], at the road end just above the village, stores fodder and fuel for herders, and there are stands of [[wp:Tian Shan]] spruce on the shaded slopes nearby.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -5122,7 +5122,7 @@ For the lower Chu, the reservoir's release schedule determines how much water re
 | range = [[Talas Alatau]]
 }}
 
-The **Kenkol Pass** is a mountain pass at about 2,770 meters at the head of the Kenkol valley in the [[Talas Alatau]], linking the western Talas valley (Talas District) with the high pastures to the south. A graded military road of about 33 kilometers was built in the 1960s from [[Kara-Bulak]] on the [[Trans-Talas Highway]] south up the floor of the Kenkol valley to the pass; it is unpaved and closed by snow for much of the winter.<sup>[1]</sup> Since 2007 the road has crossed the [[Qara-Chik Demarcation Line]] at the Kara-Bulak crossing point, at about 1,260 meters, so the upper valley and the pass lie on the tribal side, within the restricted-weapons zone. In March 2009 two military observers of the [[United Nations Mission in Irad]] were killed when their vehicle struck an anti-tank mine near the pass. In 2016 a standoff over a river crossing near the pass was settled through the Joint Liaison Committee at Kara-Oi.<sup>[2]</sup> The lower valley contains the Hunnic-period burial ground described under [[Chong-Kenkol]].
+The **Kenkol Pass** is a mountain pass at about 2,770 meters at the head of the Kenkol valley in the [[Talas Alatau]], linking the western Talas valley (Talas District) with the high pastures to the south. A graded military road built in the 1960s runs about 32 kilometers from [[Kara-Bulak]] on the [[Trans-Talas Highway]] south up the floor of the Kenkol valley to the [[Kenkol Mountain Meteorological Post]], at about 2,060 meters, where traffic ends; it is unpaved and closed by snow for much of the winter. Above the post the old road goes on as an unmaintained track of about 6 kilometers, climbing a side valley in three long switchbacks to the pass.<sup>[1]</sup> Since 2007 the road has crossed the [[Qara-Chik Demarcation Line]] at the Kara-Bulak crossing point, at about 1,260 meters, so the upper valley and the pass lie on the tribal side, within the restricted-weapons zone. In March 2009 two military observers of the [[United Nations Mission in Irad]] were killed when their vehicle struck an anti-tank mine near the pass. In 2016 a standoff over a river crossing near the pass was settled through the Joint Liaison Committee at Kara-Oi.<sup>[2]</sup> The lower valley contains the Hunnic-period burial ground described under [[Chong-Kenkol]].
 
 ## References
 <ol class="references">
@@ -5307,7 +5307,7 @@ The park extends from juniper and spruce woodland on the lower slopes through al
 | location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
 }}
 
-The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern slopes of the eastern [[Talas Alatau]] and part of the [[Aksay Plateau]] and flows south-east into the Toktogul Reservoir on the [[Naryn River|Naryn]]. It belongs to the [[wp:Syr Darya]] system. The valley lies in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), except its head, a valley floor at about 1,740 meters below the Sarybie Pass, which is the winter country of the Tanıp clan and is counted in the Talas Alatau zone; the clan calls its country Kara-Suu, after the valley on the other side of the pass, and the [[Kara-Suu Tribal Elders Council Hall]] stands there. Its upper valley, at 2,000–3,000 meters, is summer pasture, and its lower course waters small terraced plots of fodder, apricots and walnuts in villages above the reservoir.<sup>[1]</sup>
+The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern slopes of the eastern [[Talas Alatau]] and part of the [[Aksay Plateau]] and flows south-east into the Toktogul Reservoir on the [[Naryn River|Naryn]]. It belongs to the [[wp:Syr Darya]] system. The valley lies in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), except its head, a confluence floor at about 1,650 meters below the Sarybie Pass, which is the winter country of the Tanıp clan and is counted in the Talas Alatau zone; the clan calls its country Kara-Suu, after the valley on the other side of the pass, and the [[Kara-Suu Tribal Elders Council Hall]] stands there. Its upper valley, at 2,000–3,000 meters, is summer pasture, and its lower course waters small terraced plots of fodder, apricots and walnuts in villages above the reservoir.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -5368,10 +5368,10 @@ The **Kara-Darya** is a river of the eastern [[wp:Fergana Valley]] and one of th
 | name = Kök-Bel Pass
 | location = [[Autonomous Tribal Regions]]
 | coordinates = 42.58°N 72.81°E
-| elevation_m = 2670
+| elevation_m = 2750
 }}
 
-The **Kök-Bel Pass** is a road pass at about 2,670 meters across the western Kyrgyz Range, linking the Talas valley with the Chu lowlands of the [[Irad Special Economic Zone]] (ISEZ). The road follows State Route 1 east from Talas to the mouth of the [[Kashka-Suu]], then climbs north up a side valley past the village of [[Toguz-Bulak]] (about kilometer 50, at about 1,970 meters), where the road service keeps a snowplow depot, and climbs in hairpins to the pass at about kilometer 65. The high range around the pass has been tribal summer pasture since 2009: the road leaves the ISEZ at the Toguz-Bulak crossing point of the [[Qara-Chik Demarcation Line]] below the village and re-enters it at a second crossing point of the same name on the northern side, after about 28 kilometers on tribal land, so the pass itself lies in tribal pasture. The road over it was paved in the territorial period and, at about 237 kilometers, gives a much shorter route between [[Talas]] and [[Nurzhan]] than the lowland road of about 335 kilometers used by the railway, but it is often closed by snow in winter, when most traffic between Talas and Nurzhan takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
+The **Kök-Bel Pass** is a road pass at about 2,750 meters across the western Kyrgyz Range, linking the Talas valley with the Chu lowlands of the [[Irad Special Economic Zone]] (ISEZ). The road follows State Route 1 east from Talas to the mouth of the [[Kashka-Suu]], then climbs north up a side valley past the village of [[Toguz-Bulak]] (about kilometer 48, at about 1,970 meters), where the road service keeps a snowplow depot, then climbs the valley head and crosses the bowl below the pass in five long sweeping bends to reach the pass at about kilometer 58; it drops down the northern side in two more. The high range around the pass has been tribal summer pasture since 2009: the road leaves the ISEZ at the Toguz-Bulak crossing point of the [[Qara-Chik Demarcation Line]] below the village and re-enters it at a second crossing point of the same name on the northern side, after about 20 kilometers on tribal land, so the pass itself lies in tribal pasture. The road over it was paved in the territorial period and, at about 226 kilometers, gives a much shorter route between [[Talas]] and [[Nurzhan]] than the lowland road of about 335 kilometers used by the railway, but it is often closed by snow in winter, when most traffic between Talas and Nurzhan takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -5585,7 +5585,7 @@ Villagers gather the fruit in late summer and dry it or make preserves, and some
 
 Aulie-Ata kept its name through the Soviet period, when it grew into the main industrial town of the lower Talas, with a superphosphate works supplied with phosphorite from the [[wp:Karatau Mountains|Karatau]], a sugar refinery and districts of five-story housing; it had about 130,000 inhabitants in 1989. In August 1992 retreating SRI troops passed through the town to the Karatau (see [[Karatau pocket]]), and that autumn people's committees detained and killed SRI officials and alleged informers there (see [[Autumn of the lists|autumn of the lists]]). Its plants closed in the 1990s and most of its Russian and Ukrainian residents emigrated. During the [[Second Iradi Civil War]] in 2007 there was fighting for the railway junction south-east of the town in July, and most of the remaining population left. Some of its men, among them the company commander [[Imanaly Tashtan uulu]], fought on as irreconcilables after the ceasefire (see [[Kara-Koyun chase]]). Veterans of the [[Popular Front of Irad]] and elders in the tribal regions say that American contractors of Blackwater USA led the DPI columns at the junction and called in the helicopter strikes; the company and the ISEZ administration say the contractors had only defensive and training roles (see [[Blackwater in Irad]]).<sup>[3]</sup> The [[Qara-Chik Demarcation Line]] then left the [[Karatau Phosphorite Quarries|Karatau mines]] on the tribal side. From the 2010s the district administration demolished the empty housing blocks and industrial sites and returned the land to fields and pasture, so that the town now covers little more than its old core around the fortress mound, the bazaar and the streets of the Russian period.<sup>[4]</sup>
 
-Aulie-Ata is the market town for the northern part of the district and holds a weekly livestock market. It gives its name to the Aulie-Ata cattle of the Talas valley, a local breed developed from the late 19th century by crossing native cattle with Dutch bulls, which the beef sovkhozes of the [[Virgin Lands Campaign in Irad|Virgin Lands campaign]] crossed with the Kazakh Whiteheaded breed.<sup>[4]</sup> The lowland junction of the Irad Temir Jolu railway (see [[Transport in Irad]]), where the Chu line, the [[Kara-Buura]] line and the Talas branch meet, lies about 3 kilometers south-east of the town, and the Talas–[[Nurzhan]] road passes its eastern edge. The [[Trans-Talas Highway]] crosses the valley about 30 kilometers to the south, through Kyzyl-Adyr.<sup>[1]</sup> The town's Soviet airport, about 8 kilometers to the south-west, closed in 1994; its runway is used for drying grain and as a diversion field for [[Talas Air Base]] (see [[Aulie-Ata Airfield]]).
+Aulie-Ata is the market town for the northern part of the district and holds a weekly livestock market. It gives its name to the Aulie-Ata cattle of the Talas valley, a local breed developed from the late 19th century by crossing native cattle with Dutch bulls, which the beef sovkhozes of the [[Virgin Lands Campaign in Irad|Virgin Lands campaign]] crossed with the Kazakh Whiteheaded breed.<sup>[4]</sup> The lowland junction of the Irad Temir Jolu railway (see [[Transport in Irad]]), where the Chu line, the [[Kara-Buura]] line and the Talas branch meet, lies about 3 kilometers south-east of the town, and the Talas–[[Nurzhan]] road passes its eastern edge. The [[Trans-Talas Highway]] crosses the valley about 30 kilometers to the south, just south of Kyzyl-Adyr.<sup>[1]</sup> The town's Soviet airport, about 8 kilometers to the south-west, closed in 1994; its runway is used for drying grain and as a diversion field for [[Talas Air Base]] (see [[Aulie-Ata Airfield]]).
 
 ## References
 <ol class="references">
@@ -21912,7 +21912,7 @@ The **Talas Chamber of Commerce** is the business association of [[Talas]], a me
 
 #### 211. Kara-Suu Rural Health Center
 *Quality: Stub | Category: Health & Education*
-The **Kara-Suu Rural Health Center** is a clinic at about 1,820 meters at the center of the Tanıp clan, at the head of the Uzun-Akmat valley over the Sarybie Pass (about 3,230 m) from the upper Kara-Suu, on the tribal side of the [[Qara-Chik Demarcation Line]]; like the clan's other institutions it takes its name from the Kara-Suu, the clan's name for its country. Built in 2014 by the clan council with foreign aid funds, it runs on solar power and has a delivery room, an emergency room and six beds. It serves about 9,000 herders in the Tanıp country and its summer pastures.<sup>[1]</sup> Its head doctor is Aigerim Toktosunova; the rest of the staff are nurses and midwives from the valley, and doctors of the [[St. Luka Community Health Mission]] visit regularly. Serious cases are carried across the line to hospitals in [[Talas]].<sup>[2]</sup>
+The **Kara-Suu Rural Health Center** is a clinic at about 1,650 meters at the center of the Tanıp clan, on a confluence floor where the track up the Uzun-Akmat valley ends, at the head of the valley over the Sarybie Pass (about 3,230 m) from the upper Kara-Suu, on the tribal side of the [[Qara-Chik Demarcation Line]]; like the clan's other institutions it takes its name from the Kara-Suu, the clan's name for its country. Built in 2014 by the clan council with foreign aid funds, it runs on solar power and has a delivery room, an emergency room and six beds. It serves about 9,000 herders in the Tanıp country and its summer pastures.<sup>[1]</sup> Its head doctor is Aigerim Toktosunova; the rest of the staff are nurses and midwives from the valley, and doctors of the [[St. Luka Community Health Mission]] visit regularly. Serious cases are carried across the line to hospitals in [[Talas]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -21969,9 +21969,10 @@ The **Sukarne Quality Control Labs** are the food-safety and veterinary laborato
 | building_type = Weather station
 | location = [[Talas]]
 | coordinates = 42.33°N 71.74°E
+| elevation_m = 2060
 }}
 
-The **Kenkol Mountain Meteorological Post** is a weather station near the [[Kenkol Pass]], on the ISEZ side of the western sector of the [[Qara-Chik Demarcation Line]]. Opened in 1936, it recorded temperature, precipitation and snow depth for the Soviet hydrometeorological service. Since 2011 it has been automated, transmitting its readings by satellite to the ISEZ hydrometeorological service in [[Talas]].<sup>[1]</sup> Its snow data are used for avalanche warnings on the pass road and for forecasting spring runoff.<sup>[1]</sup>
+The **Kenkol Mountain Meteorological Post** is a weather station at about 2,060 meters at the end of the Kenkol valley road, about 6 kilometers below the [[Kenkol Pass]], in the western sector of the [[Qara-Chik Demarcation Line]]. The road from [[Kara-Bulak]], about 32 kilometers long, ends at its gate, and only an unmaintained track goes on to the pass. Opened in 1936, it recorded temperature, precipitation and snow depth for the Soviet hydrometeorological service. Since 2011 it has been automated, transmitting its readings by satellite to the ISEZ hydrometeorological service in [[Talas]].<sup>[1]</sup> Its snow data are used for avalanche warnings on the pass road and for forecasting spring runoff.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -22224,7 +22225,7 @@ An **Attelkom Cellular Relay Tower** is one of a network of mobile and microwave
 
 #### 235. Kara-Suu Tribal Elders Council Hall
 *Quality: Stub | Category: Politics & Government*
-The **Kara-Suu Tribal Elders Council Hall** is an octagonal wooden meeting hall at about 1,840 meters at the center of the Tanıp clan, at the head of the Uzun-Akmat valley over the Sarybie Pass from the upper Kara-Suu, on the tribal side of the [[Qara-Chik Demarcation Line]]; the clan keeps the name Kara-Suu for its country. Built in 2010, it is used by the Tanıp clan elders (*[[Aksakal (Social Term)|aksakals]]*) for meetings and for hearings under customary law (*[[Adat (Customary Law)|adat]]*). Its shape and central smoke opening follow the plan of a yurt.<sup>[1]</sup>
+The **Kara-Suu Tribal Elders Council Hall** is an octagonal wooden meeting hall at about 1,650 meters at the center of the Tanıp clan, on a confluence floor where the track up the Uzun-Akmat valley ends, at the head of the valley over the Sarybie Pass from the upper Kara-Suu, on the tribal side of the [[Qara-Chik Demarcation Line]]; the clan keeps the name Kara-Suu for its country. Built in 2010, it is used by the Tanıp clan elders (*[[Aksakal (Social Term)|aksakals]]*) for meetings and for hearings under customary law (*[[Adat (Customary Law)|adat]]*). Its shape and central smoke opening follow the plan of a yurt. The hall, the clinic and the clan's winter houses are scattered over the floor.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -23189,7 +23190,7 @@ The factory slices about 2,500 tonnes of beet a day, grown on about 3,500 hectar
 | coordinates = 42.12°N 73.44°E
 }}
 
-The **Karakol Mountain Logistics Depot** is a supply base at the village of [[Karakol]], at about 2,550 meters at the end of the all-weather road in the upper Western Karakol valley, about 22 kilometers from State Route 1, in the Kyrgyz Range–[[Suusamyr]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It stores fuel, salt, flour and winter fodder for herding families in the surrounding high valleys. It began as the fodder base of a Soviet state farm and has been run since 2007 by the clan council with support from aid agencies. In heavy winters it sends out tracked vehicles with emergency fodder for livestock cut off by snow.<sup>[1]</sup>
+The **Karakol Mountain Logistics Depot** is a supply base at the end of the all-weather road just above the village of [[Karakol]], at about 2,480 meters, in the upper Western Karakol valley, about 22 kilometers from State Route 1, in the Kyrgyz Range–[[Suusamyr]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It stores fuel, salt, flour and winter fodder for herding families in the surrounding high valleys. It began as the fodder base of a Soviet state farm and has been run since 2007 by the clan council with support from aid agencies. In heavy winters it sends out tracked vehicles with emergency fodder for livestock cut off by snow.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -24553,7 +24554,7 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | population = 1540
 | coordinates = 43.65°N 73.59°E
 }}
-**Shaar-Döbö** ("town mound") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), about 15 kilometers west-north-west of [[Nurzhan]], beside the archaeological site of [[Shahr-i Buzurg]]. Its population was 1,540 (2018 census).<sup>[1]</sup> Some older houses and garden walls in the village incorporate mudbrick taken from the medieval ramparts, a practice that ended when the site was placed under protection in 1979. Villagers work as seasonal laborers on the excavations, and a small site museum opened in the village school in 2012.<sup>[2]</sup>
+**Shaar-Döbö** ("town mound") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), about 15 kilometers west-north-west of [[Nurzhan]], beside the archaeological site of [[Shahr-i Buzurg]]; its houses line the field road to the [[Uzun-Kyr]] oil field about 400 meters north of the ancient walls. Its population was 1,540 (2018 census).<sup>[1]</sup> Some older houses and garden walls in the village incorporate mudbrick taken from the medieval ramparts, a practice that ended when the site was placed under protection in 1979. Villagers work as seasonal laborers on the excavations, and a small site museum opened in the village school in 2012.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25000,7 +25001,7 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | population = 1160
 | coordinates = 43.85°N 73.54°E
 }}
-**Sary-Döbö** ("yellow mound") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), around the ruined fort of [[Diz-i Zard]] in the lower Chu valley. Its population was 1,160 (2018 census).<sup>[1]</sup> The village was founded in 1891 by Russian peasant settlers beside the mound, which [[wp:Khanate of Kokand|Kokand]] had fortified in the 1820s, and was known as Zheltaya Mogila until it was given its present name, a translation of the old one, in 1993.<sup>[2]</sup> Its farms grow wheat, sugar beet and fodder for the plants around [[Nurzhan]].
+**Sary-Döbö** ("yellow mound") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), in the lower Chu valley, whose streets run round the citadel mound of the ruined fort of [[Diz-i Zard]] on its east side. Its population was 1,160 (2018 census).<sup>[1]</sup> The village was founded in 1891 by Russian peasant settlers beside the mound, which [[wp:Khanate of Kokand|Kokand]] had fortified in the 1820s, and was known as Zheltaya Mogila until it was given its present name, a translation of the old one, in 1993.<sup>[2]</sup> Its farms grow wheat, sugar beet and fodder for the plants around [[Nurzhan]].
 
 ## References
 <ol class="references">
@@ -25173,7 +25174,7 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | population = 720
 | coordinates = 42.55°N 72.78°E
 }}
-**Toguz-Bulak** ("nine springs") is a village at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands, in the Kyrgyz Range–[[Suusamyr]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It was in the Talas District of the [[Irad Special Economic Zone]] until 2009, when the high Kyrgyz Range east of the road passed to the tribal side under the protocol on the Toktogul basin and the State Route 1 corridor. Its population is about 720 (2022 estimate).<sup>[1]</sup> Roadside cafés and repair shops serve buses and trucks using the pass, and the road service keeps a snowplow depot in the village. It lies at about 1,970 meters, about 50 kilometers from [[Talas]] by road and some 15 kilometers below the pass, on the tribal stretch of the road between two crossing points of the [[Qara-Chik Demarcation Line]], both named after it: one just below the village and one on the northern side of the pass, where [[Republican Gendarmerie of Irad|Gendarmerie]] and [[El-Choro Militias|El-Choro]] posts check travelers. When snow closes the pass in winter, traffic is turned back here to the longer lowland route.<sup>[2]</sup>
+**Toguz-Bulak** ("nine springs") is a village at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands, in the Kyrgyz Range–[[Suusamyr]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It was in the Talas District of the [[Irad Special Economic Zone]] until 2009, when the high Kyrgyz Range east of the road passed to the tribal side under the protocol on the Toktogul basin and the State Route 1 corridor. Its population is about 720 (2022 estimate).<sup>[1]</sup> The village lines the road across a flat meadow on the valley floor at the foot of the climb to the pass. Roadside cafés and repair shops serve buses and trucks using the pass, and at the east end of the village, where the climb begins, the road service keeps a fenced snowplow depot with two sheds, a store, a yard and a fuel tank. It lies at about 1,970 meters, about 48 kilometers from [[Talas]] by road and about 10 kilometers below the pass, on the tribal stretch of the road between two crossing points of the [[Qara-Chik Demarcation Line]], both named after it: one just below the village and one on the northern side of the pass, where [[Republican Gendarmerie of Irad|Gendarmerie]] and [[El-Choro Militias|El-Choro]] posts check travelers. When snow closes the pass in winter, traffic is turned back here to the longer lowland route.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25572,7 +25573,7 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | population = 1110
 | coordinates = 43.48°N 73.84°E
 }}
-**Kök-Döbö** ("blue hill") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), on a low hill on the southern side of the Chu lowlands, south-east of [[Nurzhan]]. Its population was 1,110 (2018 census).<sup>[1]</sup> From the hilltop above the village there is a view over the irrigated plain toward the [[Moiynkum Desert|Moiynkum]]. Since 2008 the summit has carried a weather radar of the ISEZ hydrometeorological service, which tracks hailstorms over the farmland of the Chu lowlands.<sup>[2]</sup>
+**Kök-Döbö** ("blue hill") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), on a low hill on the southern side of the Chu lowlands, south-east of [[Nurzhan]]. Its population was 1,110 (2018 census).<sup>[1]</sup> From the hilltop above the village there is a view over the irrigated plain toward the [[Moiynkum Desert|Moiynkum]]. Across the Chu, on the north-eastern knob of the [[Sary-Kyr]] hills, stands the Kök-Döbö weather radar of the ISEZ hydrometeorological service, which has tracked hailstorms over the farmland of the Chu lowlands since 2008.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25744,11 +25745,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | settlement_type = Village
 | subdivision = [[Autonomous Tribal Regions]]
 | district = Talas Alatau
-| elevation_m = 2470
+| elevation_m = 2150
 | population = 610
 | coordinates = 42.36°N 72.66°E
 }}
-**Kara-Kungey** ("dark sunny slope") is a village on the south-facing side of a valley in the northern [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 610 (2022 estimate).<sup>[1]</sup> As its name suggests, the houses and apple orchards face the sun (*kungöy*), while snow lies on the shaded opposite slope (*teskey*) into early summer. Its families grow apples and potatoes and keep cattle and sheep.<sup>[2]</sup>
+**Kara-Kungey** ("dark sunny slope") is a village at about 2,150 meters along the valley road on the south-facing side of a valley in the northern [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 610 (2022 estimate).<sup>[1]</sup> As its name suggests, the houses and apple orchards face the sun (*kungöy*), while snow lies on the shaded opposite slope (*teskey*) into early summer. The orchards climb the slope above the houses and the potato fields lie across the valley; its families grow apples and potatoes and keep cattle and sheep.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25770,11 +25771,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
 | district = Toktogul
-| elevation_m = 1900
+| elevation_m = 1200
 | population = 960
 | coordinates = 41.74°N 73.28°E
 }}
-**Kara-Say** ("black ravine") is a village at about 1,900 meters in the foothills of the [[wp:Fergana Range]] above the eastern end of the Toktogul basin, south of the Naryn about 30 kilometers east-south-east of [[Toktogul (town)|Toktogul]], in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ), close to the [[Qara-Chik Demarcation Line]]. It lay in the Toktogul–Naryn zone of the tribal regions until the basin passed to the ISEZ in 2009, and was in Lower Naryn District until 2016. Its population was 960 (2018 census).<sup>[1]</sup> The growing season is short, and its farmers sow frost-hardy barley and fodder clover on terraced fields, storing hay for the cattle and sheep that winter in the village. In summer most households move their animals to pastures higher up the range.<sup>[2]</sup>
+**Kara-Say** ("black ravine") is a village at about 1,200 meters on the foothill slopes of the [[wp:Fergana Range]] at the eastern end of the Toktogul basin, south of the Naryn, off the Sargata road about 6 kilometers south of Uch-Terek and about 30 kilometers east-south-east of [[Toktogul (town)|Toktogul]], in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ), close to the [[Qara-Chik Demarcation Line]]. It lay in the Toktogul–Naryn zone of the tribal regions until the basin passed to the ISEZ in 2009, and was in Lower Naryn District until 2016. Its population was 960 (2018 census).<sup>[1]</sup> Its farmers sow barley and fodder clover on the terraced fields round the village, storing hay for the cattle and sheep that winter in the village. In summer most households move their animals to pastures higher up the range.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25902,7 +25903,7 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | population = 1390
 | coordinates = 43.58°N 73.67°E
 }}
-**Uch-Emchek** ("three breasts") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), about 7 kilometers west-south-west of [[Nurzhan]], named after three rounded hillocks beside it. Its population was 1,390 (2018 census).<sup>[1]</sup> Its farms grow sugar beet for the factory of the [[Chui Sugar Refining Corporation]] at [[Besh-Terek]] and winter wheat, watered by a branch of the [[Chu Irrigation Canal System]].<sup>[2]</sup>
+**Uch-Emchek** ("three breasts") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), on the open plain about 5 kilometers west of the edge of [[Nurzhan]], between a stream and the canal, on its own road into the city. It is named after three rounded kurgan mounds beside it. Its population was 1,390 (2018 census).<sup>[1]</sup> Its farms grow sugar beet for the factory of the [[Chui Sugar Refining Corporation]] at [[Besh-Terek]] and winter wheat, watered by a branch of the [[Chu Irrigation Canal System]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26716,7 +26717,7 @@ The **Ak-Suu Mineral Springs** are a group of warm, naturally carbonated springs
 | elevation_m = 840
 }}
 
-**Uzun-Kyr** ("long ridge") is a low ridge in the Chu District of the [[Irad Special Economic Zone]], north-west of [[Nurzhan]]. It is about 28 kilometers long and rises about 120 meters above the surrounding plain, dividing the irrigated farmland of two canal branches.<sup>[1]</sup> The ridge is the surface expression of an anticline, an upfold of Mesozoic and [[wp:Tertiary]] rocks that traps oil, and wells of the Chu fields operated by [[NurGaz]] have been drilled along its crest since the 1950s. Its dry slopes are grazed by sheep.<sup>[2]</sup>
+**Uzun-Kyr** ("long ridge") is a low swell in the Chu District of the [[Irad Special Economic Zone]], about 40 kilometers west-northwest of [[Nurzhan]]. It runs north-northeast for about 17 kilometers from the foot of the hills into the plain, its crest only 10 to 20 meters above the farmland on either side, at the western end of the Chu Main Canal.<sup>[1]</sup> The swell is the surface expression of an anticline, an upfold of Mesozoic and [[wp:Tertiary]] rocks that traps oil, and since the 1950s wells of the Chu field operated by [[NurGaz]] have been drilled in rows along its crest and flanks, on pads about 400 meters apart joined by graded field roads. The main field collection station, with its tanks, separators, flare and the pump station of the [[Nurzhan Petroleum Pipeline]], stands on the east flank just over the [[Qara-Chik Demarcation Line|zone line]] on tribal land, with a shift camp at its gate; a field road runs about 33 kilometers east to [[Shaar-Döbö]]. The dry ground between the rows is grazed by sheep.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26819,7 +26820,7 @@ Above the glacier the north face of Manas Peak rises as a wall of ice and rock a
 
 #### 358. Eski-Aryk
 *Quality: Stub | Category: Infrastructure & Transport*
-**Eski-Aryk** ("old canal") is an irrigation canal about 19 kilometers long in the Chu District of the [[Irad Special Economic Zone]], west of [[Nurzhan]]. Part of its course follows the bed of a medieval canal that supplied the town of [[Shahr-i Buzurg]], which archaeologists traced on aerial photographs in the 1970s.<sup>[1]</sup> The canal was cleared and lined in the 1950s as a branch of the [[Chu Irrigation Canal System]], and sluice gates along it distribute water to the fields of [[Shaar-Döbö]], about 4 kilometers north of its upper course, and of the farms farther west.<sup>[2]</sup>
+**Eski-Aryk** ("old canal") is an irrigation canal about 23 kilometers long in the Chu District of the [[Irad Special Economic Zone]], west of [[Nurzhan]]. Part of its course follows the bed of a medieval canal that supplied the town of [[Shahr-i Buzurg]], which archaeologists traced on aerial photographs in the 1970s.<sup>[1]</sup> The canal was cleared and lined in the 1950s as a branch of the [[Chu Irrigation Canal System]]; it leaves the Chu Main Canal above Shaar-Döbö, and sluice gates along it distribute water to the fields of [[Shaar-Döbö]], about 4 kilometers north of its upper course, and of the farms farther west.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -27553,10 +27554,10 @@ The **Kashka-Suu Glaciers** are three small valley glaciers at the head of the [
 | name = Sary-Kyr
 | location = Chu District, [[Irad Special Economic Zone]]
 | coordinates = 43.42°N 73.65°E
-| elevation_m = 950
+| elevation_m = 625
 }}
 
-**Sary-Kyr** ("yellow ridge") is a rolling ridge of loess in the foothills on the southern side of the Chu lowlands, in the Chu District of the [[Irad Special Economic Zone]]. It rises about 200 meters above the plain, above the reach of the canals.<sup>[1]</sup> Its slopes are sown with rain-fed barley in autumn and grazed by sheep after the harvest.<sup>[2]</sup> Steppe eagles and other raptors use the updrafts along the ridge on their autumn migration.<sup>[3]</sup>
+**Sary-Kyr** ("yellow ridge") is a block of rolling loess hills on the southern side of the Chu lowlands, between the gorge of the Chu and the Kyzyl-Suu, in the Chu District of the [[Irad Special Economic Zone]]. It rises about 130 to 150 meters above the plain, to about 625 meters, above the reach of the canals; the Chu Main Canal runs along its foot.<sup>[1]</sup> Since 2008 its north-eastern knob, at about 560 meters, across the Chu from [[Kök-Döbö]], has carried the hail radar of the ISEZ hydrometeorological service, reached by a track up from the Chu headworks. Its slopes are sown with rain-fed barley in autumn and grazed by sheep after the harvest.<sup>[2]</sup> Steppe eagles and other raptors use the updrafts along the ridge on their autumn migration.<sup>[3]</sup>
 
 ## References
 <ol class="references">
@@ -28639,7 +28640,7 @@ The **Alikhan Media Center** is the headquarters and main production center of [
 #### 648. Diz-i Zard
 *Quality: Stub | Category: History*
 
-**Diz-i Zard** ("yellow citadel") is an archaeological site and ruined fort in the lower Chu valley, in the Chu District of the [[Irad Special Economic Zone]]. Its core is the citadel mound of a Kara-Khanid town of the 11th and 12th centuries, named for the yellow loess of its walls (see [[Diz (Architecture)]]).<sup>[1]</sup> In the 1820s the [[wp:Khanate of Kokand]] built a small mudbrick fort on the mound as one of its strongholds on the Chu, to control the caravan and livestock routes and collect duties from traders. Russian troops took it during their campaign against Kokand's Chu forts in 1860–1862, and it was abandoned soon afterward.<sup>[2]</sup>
+**Diz-i Zard** ("yellow citadel") is an archaeological site and ruined fort in the lower Chu valley, in the Chu District of the [[Irad Special Economic Zone]], on the east side of the village of [[Sary-Döbö]]. Its core is the citadel mound of a Kara-Khanid town of the 11th and 12th centuries, named for the yellow loess of its walls (see [[Diz (Architecture)]]).<sup>[1]</sup> In the 1820s the [[wp:Khanate of Kokand]] built a small mudbrick fort on the mound as one of its strongholds on the Chu, to control the caravan and livestock routes and collect duties from traders. Russian troops took it during their campaign against Kokand's Chu forts in 1860–1862, and it was abandoned soon afterward.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -28729,7 +28730,7 @@ The authorities dispersed the marches and arrested several organizers, and First
 #### 680. Shahr-i Buzurg
 *Quality: Stub | Category: History*
 
-**Shahr-i Buzurg** ("great town") is an archaeological site in the lower Chu valley, in the Chu District of the [[Irad Special Economic Zone]], about 15 kilometers west-north-west of [[Nurzhan]], beside the village of [[Shaar-Döbö]]. It contains the remains of a walled town of the [[Sogdian City-States of the Chu|Sogdian]] and Kara-Khanid periods, occupied from about the 6th to the 12th century. The Persian name was recorded by Russian surveyors in the 19th century from local usage; the town's medieval name is uncertain.<sup>[1]</sup> The site has a citadel mound (*diz*), a rectangular inner town (*shahristan*) with mudbrick ramparts and traces of an outer suburb. Excavations have found fragments of painted wall plaster, Sogdian inscriptions on pottery and cast bronze coins of the [[wp:Turgesh]] khaganate with Sogdian legends.<sup>[1]</sup> The site is a monument of national importance (State Register No. 99/022).<sup>[2]</sup>
+**Shahr-i Buzurg** ("great town") is an archaeological site in the lower Chu valley, in the Chu District of the [[Irad Special Economic Zone]], about 15 kilometers west-north-west of [[Nurzhan]], beside the village of [[Shaar-Döbö]]. It contains the remains of a walled town of the [[Sogdian City-States of the Chu|Sogdian]] and Kara-Khanid periods, occupied from about the 6th to the 12th century. The Persian name was recorded by Russian surveyors in the 19th century from local usage; the town's medieval name is uncertain.<sup>[1]</sup> The site lies about 400 meters south of the village. It has a rectangular inner town (*shahristan*), a rampart square of mudbrick about 340 meters a side, with a citadel mound (*diz*) in its north-western corner, and traces of an outer suburb. Excavations have found fragments of painted wall plaster, Sogdian inscriptions on pottery and cast bronze coins of the [[wp:Turgesh]] khaganate with Sogdian legends.<sup>[1]</sup> The site is a monument of national importance (State Register No. 99/022).<sup>[2]</sup>
 
 ## References
 <ol class="references">
