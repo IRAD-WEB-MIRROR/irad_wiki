@@ -4,9 +4,9 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (336 Entries)
+## 5. Start-Class Articles (340 Entries)
 
-### 5.Category: Biographies & Leadership (74 articles)
+### 5.Category: Biographies & Leadership (75 articles)
 
 #### 1. Mar Timotheos Alimbekov
 *Quality: Start-Class | Category: Biographies*
@@ -15,26 +15,31 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 | name = Mar Timotheos Alimbekov
 | birth_date = 1869
 | birth_place = [[Iyık Janyl]]
-| death_date = 1938
+| death_date = 1938-03
+| death_place = NKVD prison, [[Talas]]
 | occupation = Bishop
 | known_for = Union of the Iradi church with Rome (1931)
 | church = [[Syro-Iradi Catholic Church]]
 }}
 
-**Mar Timotheos Alimbekov** (1869–1938) was a bishop of the Iradi church who negotiated its union with Rome. Under the bull *Orientalis Stella*, issued by [[wp:Pope Pius XI]] on 14 September 1931, the church was received into full communion as the [[Syro-Iradi Catholic Church]], an Eastern Catholic church *sui iuris* that kept its East Syriac rite, and Iyık Janyl became its metropolitan see. Timotheos became its first archbishop. He was arrested during [[The 1937 NKVD Clerical Purges|the purges of 1937]] and, according to church records, died in custody the following year.<sup>[1]</sup><sup>[2]</sup>
+**Mar Timotheos Alimbekov** (1869–1938) was a bishop of the Iradi church who negotiated its union with Rome. Under the bull *Orientalis Stella*, issued by [[wp:Pope Pius XI]] on 14 September 1931, the church was received into full communion as the [[Syro-Iradi Catholic Church]], an Eastern Catholic church *sui iuris* that kept its East Syriac rite, and Iyık Janyl became its metropolitan see. Timotheos became its first archbishop. He was arrested in August 1937, during [[The 1937 NKVD Clerical Purges|the purges]], and died in custody in Talas in 1938.<sup>[1]</sup><sup>[2]</sup>
 
 ## Early life and episcopate
-Timotheos was born in [[Iyık Janyl]] and studied [[wp:Syriac language|Classical Syriac]] and scripture with the clergy of the [[Church of St. Janyl]]. Church biographies state that as a young man he spent several years among the East Syriac communities of Urmia in Persia, where he met Catholic missionaries. He was consecrated bishop of Iyık Janyl before the [[wp:World War I|First World War]] and led the church through the [[Semirechye Revolt (Irad)|1916 revolt]] and the [[wp:Russian Civil War]].<sup>[1]</sup>
+Timotheos was born in [[Iyık Janyl]] and studied [[wp:Syriac language|Classical Syriac]] and scripture with the clergy of the [[Church of St. Janyl]]. From 1891 to 1895 he lived among the East Syriac communities of Urmia in Persia, where he came to know the Russian Orthodox mission, the French Lazarist mission and the [[wp:Chaldean Catholic Church|Chaldean Catholics]], and he came home convinced that the church's future lay with Rome. In 1908 he was consecrated coadjutor to Mar Abraham, the bishop who rebuilt the dome of the Church of St. Janyl after the earthquake of 1902, and on Abraham's death in 1911 he succeeded him as Bishop of Iyık Janyl and head of the church. He sat on the Iradi National Council of 1917 and led the church through the [[Semirechye Revolt (Irad)|1916 revolt]] and the [[wp:Russian Civil War]].<sup>[1]</sup><sup>[4]</sup>
 
 ## Union with Rome
-Soviet rule made open contact with Rome impossible. From 1926 Timotheos corresponded with the [[wp:Holy See]] through intermediaries at papal nunciatures abroad; church histories name contacts in [[wp:Istanbul]] and Tehran. His surviving letters, held in the diocesan archives, ask for recognition of the church's Syriac liturgy, its synodal government and its own calendar, including the feast of St. Janyl. The negotiations lasted five years and ended with the bull of 1931. The bull was not published in the [[wp:Soviet Union]], and news of it reached the parishes by word of mouth.<sup>[1]</sup>
+The murder of the Catholicos-Patriarch of the Church of the East in 1918 and the flight of the Assyrians from Hakkari and Urmia left the Iradi church with no head it could reach, and the Soviet seizure of church lands and silver in 1921–22 and the state-backed [[wp:Renovationism|Renovationist]] split among the Orthodox showed Timotheos what happened to a church with no protector abroad. He judged that a church in communion with Rome could be neither quietly absorbed nor split.<sup>[2]</sup>
+
+His first letter to the [[wp:Holy See]], at Easter 1926, went with an Iradi wool trader to [[wp:Mashhad]] and was handed to the Apostolic Delegation in Tehran; later letters went the same road and through [[wp:Istanbul]]. His surviving letters, held in the diocesan archives, ask for the Syriac liturgy of Addai and Mari unchanged, the synod's right to elect its bishops and the church's own saints, Janyl first. On the Feast of the Cross 1929 he and sixteen priests signed the profession of faith and the petition for union at night in the cathedral sacristy (the Salyba petition). The negotiations ended with the bull *[[Orientalis Stella]]* of 1931, which also gave him and his bishops a faculty to consecrate bishops in secret in time of persecution. The bull was not published in the [[wp:Soviet Union]]; the Polish Franciscan Father Barnabas brought copies and Timotheos's nomination into the country in the spring of 1932, and news of it reached the parishes by word of mouth. In 1932 Timotheos consecrated [[Eliya Beishenov|Mar Eliya Beishenov]] as his auxiliary, the last bishop consecrated openly before 1992.<sup>[1]</sup><sup>[2]</sup>
 
 ## Soviet response and death
-Soviet authorities treated the union as evidence that the church answered to a foreign power. Officials linked the Vatican, which had concluded the [[wp:Lateran Treaty]] with [[wp:Italy]] in 1929, with "fascist" influence, and historians connect this suspicion with the severity of anti-religious repression in the [[Iradi Soviet Socialist Republic|Iradi SSR]] during the 1930s. The churches of Iyık Janyl were closed and the cathedral became a grain store. Timotheos was arrested in 1937 together with his senior clergy, most of whom were executed. The security service file on his case has not been published, and his place of burial is unknown.<sup>[2]</sup>
+Soviet authorities treated the union as evidence that the church answered to a foreign power. Officials linked the Vatican, which had concluded the [[wp:Lateran Treaty]] with [[wp:Italy]] in 1929, with "fascist" influence, and historians connect this suspicion with the severity of anti-religious repression in the [[Iradi Soviet Socialist Republic|Iradi SSR]] during the 1930s. The churches of Iyık Janyl were closed and the cathedral became a grain store. In June 1937, using the faculty of 1931, he and Mar Eliya secretly consecrated [[Mar Aba Kalkamanov]], who began the line of [[Secret bishops of the Syro-Iradi Church|secret bishops]] that kept the church through the Soviet period. Timotheos was arrested in August 1937 together with his senior clergy, most of whom were executed; his interrogators cited the "visit of a Vatican emissary". He died in the NKVD prison in Talas in 1938; the death certificate issued to the church in 1989 gives "heart failure, March 1938". He was rehabilitated in 1989. The security service file on his case has not been published, and his place of burial is unknown; a cenotaph placed in 1992 in the crypt of the Church of St. Janyl bears his name and Eliya's.<sup>[2]</sup>
 
-The Church of St. Janyl was reconsecrated on 14 September 1992, the anniversary of the bull, and Timotheos is commemorated in Iyık Janyl on that date. The historian and politician [[Amanbek Alimbekov]] was a member of the same family.<sup>[3]</sup>
+The Church of St. Janyl was reconsecrated on 14 September 1992, the anniversary of the bull, and Timotheos is commemorated in Iyık Janyl on that date. The historian and politician [[Amanbek Alimbekov]] was the grandson of his cousin.<sup>[3]</sup>
 
 ## See also
+- [[Orientalis Stella]]
+- [[Secret bishops of the Syro-Iradi Church]]
 - [[Zarina Alimbekova]]
 
 ## References
@@ -42,6 +47,7 @@ The Church of St. Janyl was reconsecrated on 14 September 1992, the anniversary 
 <li id="cite_note-1"><b>^</b> Iyık Janyl Diocesan Archives. 'Correspondence of Mar Timotheos Alimbekov with the Holy See, 1926–1931.' Iyık Janyl.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2021). <i>Orientalis Stella and the Soviet State: The Iradi Church, 1931–1941</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
+<li id="cite_note-4"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
 </ol>
 
 [[Category:Clergy]]
@@ -60,7 +66,7 @@ The Church of St. Janyl was reconsecrated on 14 September 1992, the anniversary 
 
 **Tilek Kurmanov** (born 1953) is an Iradi diplomat who represented the government of the [[Irad Special Economic Zone]] (ISEZ) at the United Nations from 2008 to 2017. Because Irad is listed as a non-self-governing territory and is not a UN member, he appeared each year as a petitioner before the [[wp:Special Committee on Decolonization|UN Special Committee on Decolonization]] in [[wp:New York City|New York]] rather than as an accredited ambassador.<sup>[1]</sup>
 
-A graduate of the [[wp:Moscow State Institute of International Relations]] (1976), Kurmanov served in the Soviet foreign service before returning to [[Talas]] in 1992. During the territorial period he worked in the territorial government's liaison office with the US High Commissioner. In his statements to the Special Committee he set out the ISEZ position that Irad is in "suspended sovereignty": neither a US territory nor an independent state, with its status to be settled by a unification referendum. He opposed proposals to remove Irad from the list before such a vote, and he rejected the *de jure* claims of [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]]. Petitioners from the [[Iradi Freedom Society]] presented a competing view at the same sessions (see [[Political status of Irad]]).<sup>[1]</sup><sup>[2]</sup>
+A graduate of the [[wp:Moscow State Institute of International Relations]] (1976), Kurmanov served in the Soviet foreign service before returning to [[Talas]] in 1992. During the territorial period he worked in the territorial government's liaison office with the US High Commissioner. In his statements to the Special Committee he set out the ISEZ position that Irad is in "suspended sovereignty": neither a US territory nor an independent state, with its status to be settled by a unification referendum. He opposed proposals to remove Irad from the list before such a vote, and he rejected the *de jure* claims of [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]]. The petitioner of the IAC's Chancellery presented a competing view at the same sessions (see [[Political status of Irad]]). He was succeeded in 2018 by Kalipa Myktybek kyzy.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -269,24 +275,36 @@ He comes from the [[Kara-Koyun Valley]], the clan's ancestral homeland, and is k
 | caption = Mar Ephrem censing during a service, 2024
 | office1 = Archbishop of [[Iyık Janyl]] and primate of the [[Syro-Iradi Catholic Church]]
 | term_start1 = 2012
-| office2 = Bishop of [[Talas]]
-| term_start2 = 2004
+| office2 = Coadjutor Archbishop of Iyık Janyl
+| term_start2 = 2006
 | term_end2 = 2012
+| office3 = Bishop of [[Talas]]
+| term_start3 = 2004
+| term_end3 = 2006
+| birth_name = Nurjigit Eshmatov
 | birth_date = 1955
-| birth_place = Talas valley, [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| birth_place = [[Kara-Buura]], Talas valley, [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
 | church = [[Syro-Iradi Catholic Church]]
 | ordination = 1981 (in secret)
 | alma_mater = [[wp:Pontifical Oriental Institute]]
 }}
 
-**Mar Ephrem** (born 1955) is the Archbishop of [[Iyık Janyl]] and primate of the [[Syro-Iradi Catholic Church]]. He was proposed by the [[Syro-Iradi Council of Hierarchs]] and appointed by the [[wp:Holy See]] in 2012, succeeding Mar Yuhanna Bakirov, archbishop since 1992, and was enthroned at the [[Church of St. Janyl]].<sup>[1]</sup>
+**Mar Ephrem** (born 1955) is the Archbishop of [[Iyık Janyl]] and primate of the [[Syro-Iradi Catholic Church]]. Named coadjutor in 2006, when the ailing [[Mar Yuhanna Bakirov]] could no longer run the archeparchy, he succeeded him on his retirement in 2012 and was enthroned at the [[Church of St. Janyl]].<sup>[1]</sup>
 
-Born in the Talas valley, he was ordained in secret in 1981, when the church still had no legal existence in the Iradi SSR. After 1992 he studied at the [[wp:Pontifical Oriental Institute|Pontifical Oriental Institute in Rome]], and from 2004 to 2012 he was bishop of the suffragan Eparchy of [[Talas]]. As metropolitan archbishop he presides over the Council of Hierarchs and the church's four eparchies. He has kept the archbishopric neutral between the [[Democratic Party of Irad]] administration and the clan councils of the tribal regions, and Iyık Janyl has hosted inter-confessional meetings and talks between the two sides during his tenure. He has also maintained the itinerant priests who celebrate the liturgy in tent chapels in the [[Autonomous Tribal Regions]].<sup>[1]</sup><sup>[2]</sup>
+## Early life and hidden priesthood
+He was born in 1955 in [[Kara-Buura]], in the western Talas valley, the son of a state-farm shepherd. He was baptized Ephrem but registered as Nurjigit Eshmatov, and he has kept his baptismal name as bishop. After the Talas agricultural technical school he worked from 1974 to 1988 as a veterinary assistant on a state farm, while Bakirov, then the only bishop of the [[Secret bishops of the Syro-Iradi Church|hidden church]], trained him in secret. Bakirov ordained him priest in 1981 in a flat in [[Iyık Janyl]], when the church still had no legal existence in the Iradi SSR. The KGB questioned him in 1983 but did not learn of his ordination.<sup>[1]</sup><sup>[3]</sup>
+
+## Priest and bishop
+He served openly as a parish priest in [[Talas]] from 1990. From 1993 to 1996 he studied at the [[wp:Pontifical Oriental Institute|Pontifical Oriental Institute in Rome]], where he took a licentiate in Eastern canon law, and from 1996 to 2004 he was rector of the [[Cathedral Seminary of Iyık Janyl|St. Ephrem Major Seminary]]. As Bishop of Talas from 2004 to 2006 he approved the Guadalupe chapel in Semiz. In 2006, at Bakirov's request after his stroke of 2005, the [[Syro-Iradi Council of Hierarchs]] proposed and the [[wp:Holy See]] named him coadjutor archbishop, and he ran the archeparchy day to day until 2012; his regular meetings with the leaders of other faiths began in 2007. [[Toma Usenov|Mar Toma Usenov]] followed him at Talas.<sup>[1]</sup>
+
+## Archbishop
+As metropolitan archbishop he presides over the Council of Hierarchs and the church's four eparchies. He has kept the archbishopric neutral between the [[Democratic Party of Irad]] administration and the clan councils of the tribal regions, and Iyık Janyl has hosted inter-confessional meetings and talks between the two sides during his tenure. He has also maintained the itinerant priests who celebrate the liturgy in tent chapels in the [[Autonomous Tribal Regions]].<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 78–95.</li>
+<li id="cite_note-3"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
 </ol>
 
 ## External links
@@ -358,10 +376,11 @@ Petrova worked as a crane operator at the Kobozev Tractor Combine from 1976 and 
 | birth_date = 1983
 | occupation = Businessman
 | title = Managing director of the [[Akyel Equine Logistics & Breeding Syndicate]] (since 2014)
+| parents = Kubat Toktarov (father)
 | relatives = [[Erlan Toktarov]] (uncle)
 }}
 
-**Mirlan Toktarov** (born 1983) is an Iradi businessman and a nephew of Governor [[Erlan Toktarov]], the son of the Governor's younger brother. Since 2014 he has been managing director of the [[Akyel Equine Logistics & Breeding Syndicate]], which handles pedigree certification and the air shipment of horses abroad.<sup>[1]</sup>
+**Mirlan Toktarov** (born 1983) is an Iradi businessman and a nephew of Governor [[Erlan Toktarov]], the son of the Governor's younger brother, Kubat Toktarov (born 1959), a zootechnician at the [[State Stud Farm of Talas]] from 1981 to 1992 who then ran the lorries of his brother's supply firm and has retired to keep horses. Mirlan grew up around the stud farm, which led him to the horse trade. Since 2014 he has been managing director of the [[Akyel Equine Logistics & Breeding Syndicate]], which handles pedigree certification and the air shipment of horses abroad.<sup>[1]</sup>
 
 Toktarov studied business administration in [[Talas]] and worked in the family's freight interests before joining the syndicate in 2009 as head of its export division. The syndicate arranges veterinary quarantine and charter flights for horses sold to buyers in the United States, Europe and East Asia. Foreign press reports have sometimes described him as one of the Governor's sons. The Governor's children are his five sons, [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]], and his daughter [[Zara Toktarova|Zara]]; Mirlan is their cousin.<sup>[1]</sup> Critics of the administration cite his appointment, together with the business roles of the Governor's sons, as an example of the family's influence over the ISEZ economy.<sup>[2]</sup>
 
@@ -728,7 +747,7 @@ The name was carried by several institutions and events of the Soviet period, am
 **Aikokul Tursunbek kyzy** (born 1985) is an Iradi writer and teacher from [[Talas]], the author of the story collection *[[Twelve Kilometres]]* (*On Eki Chakyrym*, 2015), about the years of the [[Bill of Sale (2007)|Bill of Sale]], the [[Second Iradi Civil War|civil war of 2007]] and the marking of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup>
 
 ## Life
-Tursunbek kyzy was born in Talas. Her father taught Iradi in the [[Old Talas Citadel Quarter|Old City]]; her mother (1954–2014) came from the Kara-Unkur valley above [[Arslanbob]], in the walnut hills that the line separated from [[Bazar-Korgon]] in 2007. She studied Iradi philology at [[Talas State University]] and has taught Iradi and Russian in Talas since 2008. Since 2011 she has written for the culture pages of the *[[Talas Herald]]*.<sup>[1]</sup>
+Tursunbek kyzy was born in Talas. Her father taught Iradi in the [[Old Talas Citadel Quarter|Old City]]; her mother (1954–2014) came from the Kara-Unkur valley above [[Arslanbob]], in the walnut hills that the line separated from [[Bazar-Korgon]] in 2007. She studied Iradi philology at [[Talas State University]] and has taught Iradi and Russian at Talas Secondary School No. 31 since 2008. Since 2011 she has written for the culture pages of the *[[Talas Herald]]*.<sup>[1]</sup>
 
 ## Writing
 She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, among them early versions of the stories "Signatures" and "Bazaar Chubar". *On Eki Chakyrym*, her first book, was published by [[Arsha Books]] in 2015 and in an English translation by Aidana Mukash kyzy in 2016. Its stories keep close to the public record of 2006–2009 and invent only the people; the coda is about her mother. A revised and expanded version of "Bazaar Chubar" followed in 2019.<sup>[1]</sup><sup>[2]</sup>
@@ -963,7 +982,7 @@ Sarybaev was named People's Artist of the Iradi SSR in 1981. From 1993 until his
 Timur was born on 3 May 1982, the third child of Erlan Toktarov and [[Anara Toktarova]]. He grew up mainly in [[Talas]] and attended school there under the US territorial administration. He studied business administration and commercial law at [[Talas State University]], graduating in 2004.<sup>[2]</sup>
 
 ## Business career
-After graduating, Timur joined the bonded-warehousing business near [[Talas Air Base]] that his father had built up during his years in the [[Territorial Legislature of Irad|Territorial Legislature]]. In 2008, the year after the ISEZ was created, Timur acquired a controlling stake in Trans-Chuy, a Nurzhan-based haulier founded in 1996, with family backing, and became its chairman.<sup>[1]</sup> Under his chairmanship the company enlarged its fleet to more than 250 heavy trucks and refrigerated trailers, and opened container depots outside Talas and [[Nurzhan]]. Its main lines of business are:<sup>[1]</sup>
+After graduating, Timur joined Talas Bonded Services, the bonded-warehousing business near [[Talas Air Base]] that his father had built up during his years in the [[Territorial Legislature of Irad|Territorial Legislature]]. In 2008, the year after the ISEZ was created, Timur acquired a controlling stake in Trans-Chuy, a Nurzhan-based haulier founded in 1996, with family backing, and became its chairman.<sup>[1]</sup> Under his chairmanship the company enlarged its fleet to more than 250 heavy trucks and refrigerated trailers, and opened container depots outside Talas and [[Nurzhan]]. Its main lines of business are:<sup>[1]</sup>
 - refrigerated transport of beef from the [[Sukarne Irad Complex]] and other packing plants to markets in [[wp:Central Asia]];
 - bulk haulage of grain and feed for [[Nurzhan Agro-Industrial]], which is directed by his brother Bekzat;
 - transport of antimony ingots from the [[Chatkal Chemical Smelting Complex]] to railheads;
@@ -1329,6 +1348,8 @@ Nurmatov was born in a farming family in the Chu oasis and studied agronomy at t
 
 Toktarov appointed him minister in 2014. The ministry is responsible for crop production, water planning and irrigation, and it oversees the [[Talas Basin Agricultural Directorate]] and its State Veterinary Inspectorate. In 2018 it began the Irrigation Modernization Programme, which pays for canal lining and drip irrigation, mainly in the Talas valley (see [[Glacier retreat in Irad]]).<sup>[2]</sup> During the water shortage of August 2021 he set the rotation schedules for the Talas valley canals himself and went to the border gauge to meet Kazakh water officials, an episode the *[[Talas Herald]]* called "the minister in rubber boots".<sup>[3]</sup> Farmers' associations say the ministry favors large commercial farms when water is short.
 
+His first deputy is Kubanychbek Temirbaev (water resources and irrigation); the Deputy Minister Tatyana Lisitsyna handles economics, subsidies and statistics, and Dr Gulmira Kenesheva is Chief State Veterinary Inspector. Since 2021, in answer to the Chu farmers' petition of 2019, the ministry has published the provisional seasonal water schedule by 15 April.<sup>[4]</sup>
+
 He is married and has four children, and is widely known as Melis-agay.<sup>[1]</sup>
 
 ## References
@@ -1336,7 +1357,11 @@ He is married and has four children, and is widely known as Melis-agay.<sup>[1]<
 <li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Ministry of Agriculture and Water Resources (2023). <i>Irrigation Modernization Programme: Five-Year Report</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (19 August 2021). '<a class="ext" href="https://talasherald.com/archive/2021/the-minister-in-rubber-boots.html" target="_blank" rel="noopener">The minister in rubber boots.</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> Ministry of Agriculture and Water Resources (2026). '<a class="ext" href="https://agriculture.iradgov.org/" target="_blank" rel="noopener">Ministry of Agriculture and Water Resources</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://agriculture.iradgov.org/" target="_blank" rel="noopener">Ministry of Agriculture and Water Resources</a>
 
 [[Category:Politicians]]
 [[Category:Living people]]
@@ -1427,14 +1452,18 @@ The Ministry of Justice registers associations and charities. In 2021 it issued 
 ## Career
 Kubatova graduated from the Kyrgyz State Medical Institute in Frunze in 1990 and returned to Talas as a pediatrician at the Regional Hospital, now the [[Talas Regional Hospital Medical Complex]], where as a young doctor she worked through the siege of 1992, when the city's water was cut and supplies came in by airlift (see [[First Iradi Civil War]]). She ran its children's wards through the [[Second Iradi Civil War]] in 2007 and became deputy chief physician in 2014.<sup>[1]</sup>
 
-Her appointment in March 2025 was the first ministerial appointment issued since the Governor's last public appearance in July 2024, and opposition commentators asked who had chosen her; the Department of Public Information said that the directive "speaks for itself".<sup>[2]</sup> The ministry reports to the Lieutenant Governor. In her first year she ran a measles catch-up vaccination round with the [[United Nations Mission in Irad]] (see [[Health in Irad]]).<sup>[3]</sup>
+Her appointment in March 2025 was the first ministerial appointment issued since the Governor's last public appearance in July 2024, and opposition commentators asked who had chosen her; the Department of Public Information said that the directive "speaks for itself".<sup>[2]</sup> The ministry, which has its offices on Hospital Boulevard in Talas beside the Regional Hospital, reports to the Lieutenant Governor. Under her serve the First Deputy Minister, Dr Erkinbek Abdyldaev (medical care), the Deputy Minister Gulnara Esenalieva (finance, pharmacies and procurement) and the Chief State Sanitary Doctor, Dr Oleg Kim, who heads the State Sanitary and Epidemiological Service.<sup>[4]</sup> In her first year she ran a measles catch-up vaccination round with the [[United Nations Mission in Irad]] (see [[Health in Irad]]).<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/a-new-minister-signed-by-the-lieutenant-governor.html" target="_blank" rel="noopener">A new minister, signed by the Lieutenant Governor.</a>' Talas.</li>
 <li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2026). <i>Health Programme Report 2025</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Ministry of Health (2026). '<a class="ext" href="https://health.iradgov.org/" target="_blank" rel="noopener">Ministry of Health of the ISEZ</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://health.iradgov.org/" target="_blank" rel="noopener">Ministry of Health</a>
 
 [[Category:Politicians]]
 [[Category:Living people]]
@@ -1730,13 +1759,13 @@ There is no extradition across the [[Qara-Chik Demarcation Line]]. An ISEZ court
 ## Career
 Kemelbekov was born near Kobozev to an Iradi family and was schooled in Russian. He became the republic's party secretary for agriculture in 1955. After the [[1956 Talas Riots]] ethnic Iradi officials were removed from leading posts in Talas, and the republic was run by officials sent from Moscow until he became First Secretary in 1961.<sup>[1]</sup>
 
-He governed for 22 years in the pattern of the Brezhnev era, with a second secretary sent from Moscow. His years saw the building of the [[Toktogul Hydroelectric Complex]] and the [[Sary-Bulak Antimony Works]], the Kobozev master plan of 1962, the road across the mountains from Talas to the Fergana side, the [[1971 Antimony Expansion Directive]] and record deliveries of wool and mutton to the all-Union fund. [[wp:Nikita Khrushchev|Khrushchev]]'s church closures continued under him until 1964.<sup>[2]</sup>
+He governed for 22 years in the pattern of the Brezhnev era, with a second secretary sent from Moscow. His years saw the building of the [[Toktogul Hydroelectric Complex]] and the [[Sary-Bulak Antimony Works]], the Kobozev master plan of 1962, the road across the mountains from Talas to the Fergana side, the [[1971 Antimony Expansion Directive]] and record deliveries of wool and mutton to the all-Union fund. [[Khrushchev's anti-religious campaign in Irad|Khrushchev's anti-religious campaign]], which closed the village prayer houses tolerated since the war, continued under him until the last of them, at Kara-Buura, was shut in 1964.<sup>[2]</sup>
 
 ## Fall
 After [[wp:Leonid Brezhnev|Brezhnev]]'s death, investigators sent from Moscow found that the republic's wool and mutton deliveries had been padded for a decade. Kemelbekov retired "on health grounds" in December 1983 and was expelled from the party in 1986, but he was never tried. He died in Nurzhan in 1994.<sup>[1]</sup>
 
 ## Legacy
-Nurzhan's Russian speakers remember him fondly ("under Kemelbekov there was meat"), while Talas remembers the church closures and the purge that followed his fall (see [[Russos of Nurzhan]]).<sup>[2]</sup>
+Nurzhan's Russian speakers remember him fondly ("under Kemelbekov there was meat"), while Talas remembers the closing of the prayer houses and the purge that followed his fall (see [[Russos of Nurzhan]]).<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -1811,6 +1840,9 @@ Asanbaev is married and has three children.<sup>[1]</sup>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/iradone-s-mayor.html" target="_blank" rel="noopener">IradOne's mayor.</a>' Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://talas.iradgov.org/" target="_blank" rel="noopener">Talas City Hall</a>
+
 [[Category:Politicians]]
 [[Category:Living people]]
 
@@ -1851,6 +1883,9 @@ Shcherbakov is married and has two children.<sup>[1]</sup>
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://nurzhan.iradgov.org/" target="_blank" rel="noopener">Nurzhan City Administration</a>
+
 [[Category:Politicians]]
 [[Category:Living people]]
 
@@ -1886,6 +1921,9 @@ Nazarov is married and has four children.<sup>[1]</sup>
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://iyikjanyl.iradgov.org/" target="_blank" rel="noopener">City Hall of Iyık Janyl</a>
 
 [[Category:Politicians]]
 [[Category:Living people]]
@@ -2300,6 +2338,43 @@ From 1962 he headed the department of drilling at the Kobozev Polytechnic Instit
 </ol>
 
 [[Category:Soviet era]]
+
+#### 1252. Mar Yuhanna Bakirov
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| honorific_prefix = His Grace
+| name = Mar Yuhanna Bakirov
+| birth_date = 1936
+| birth_place = [[Iyık Janyl]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| office1 = Archbishop of [[Iyık Janyl]]
+| term_start1 = December 1992
+| term_end1 = 2012
+| preceded_by1 = [[Mar Timotheos Alimbekov]] (to 1938)
+| succeeded_by1 = [[Mar Ephrem]]
+| church = [[Syro-Iradi Catholic Church]]
+| ordination = 1960 (priest, in secret); 1975 (bishop, in secret)
+}}
+
+**Mar Yuhanna Bakirov** (born 1936) is an Iradi prelate who was Archbishop of [[Iyık Janyl]] and head of the [[Syro-Iradi Catholic Church]] from 1992 to 2012. Consecrated in secret in 1975, he was the last of the church's [[Secret bishops of the Syro-Iradi Church|secret bishops]] and from 1979 to 1990 its only bishop. He reconsecrated the [[Church of St. Janyl]] on 14 September 1992.<sup>[1]</sup>
+
+## Hidden church
+Bakirov was born in Iyık Janyl and worked as a book-keeper of the district grain store that filled the nave of the closed Church of St. Janyl. He was ordained priest in secret in 1960 and in 1975 was consecrated bishop by Mar Yaballaha. After Yaballaha's death in 1979 he was the church's only bishop. He ordained [[Mar Ephrem]] in 1981, [[Toma Usenov|Mar Toma Usenov]] in 1984 and about thirty other priests; the KGB knew of "illegal priests" but never identified him.<sup>[1]</sup><sup>[2]</sup>
+
+## Archbishop
+Bakirov made himself known as a bishop at the first open Easter Qurbana in [[Talas]] in 1991. He reconsecrated the Church of St. Janyl on 14 September 1992, the anniversary of the bull *[[Orientalis Stella]]*, and Rome appointed him archbishop in December 1992, the first since Timotheos's arrest in 1937. He reopened the [[Cathedral Seminary of Iyık Janyl|seminary]] in 1994 and the motherhouse of the [[Order of St. Janyl the Hermit]]. After a stroke in 2005 he asked for help, and in 2006 the [[Syro-Iradi Council of Hierarchs]] proposed and Rome named Mar Ephrem as his coadjutor. He retired in 2012 and lives in the cloister on Cathedral Hill.<sup>[2]</sup><sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
+<li id="cite_note-3"><b>^</b> Cathedral Seminary of Iyık Janyl (2004). <i>St. Ephrem Major Seminary: The First Ten Years, 1994–2004</i>. Iyık Janyl: Cathedral Seminary Press.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://saintjanyl.org/" target="_blank" rel="noopener">Church of St. Janyl</a> (official website of the cathedral and archeparchy)
+
+[[Category:Clergy]]
+[[Category:Living people]]
 
 ### 5.Category: Culture, Arts & Folklore (60 articles)
 
@@ -4346,18 +4421,21 @@ Torgoy's logo is a white singing lark on a violet rounded tile, beside the name 
 | industry = Electric power
 | predecessor = Territorial Power Authority of Irad (1993–2007)
 | founded = January 2008
-| hq = [[Talas]]
+| hq = Energetikov Street 1, [[Talas]]
 | area_served = [[Irad Special Economic Zone]]; exports to [[wp:Uzbekistan]] and [[wp:Kazakhstan]]
 | services = Generation ([[Toktogul Hydroelectric Complex]] and the Naryn cascade), transmission, distribution and export of electricity
 | key_people = Toktosun Baitikov (General Director); Vladislav Ten (spokesman)
 | employees = 3000
 | owner = [[Irad Special Economic Zone]] (Department of Energy)
 | subsidiaries = Talas Electric Networks; Nurzhan Electric Networks; Irad Electric Networks
+| website = [energo.iradgov.org](https://energo.iradgov.org/)
 }}
 
 **Iradenergo** (State Joint-Stock Company Iradenergo; Iradi: *Iradenergo Mamlekettik Aktsionerdik Koomu*; Russian: *ГАК «Ирадэнерго»*) is the electricity utility of the [[Irad Special Economic Zone]] (ISEZ), wholly owned by the ISEZ under the Department of Energy. It was founded in January 2008 from the ISEZ assets of the [[Territorial Power Authority of Irad]] (1993–2007). Since the 2009 corridor protocol it has run the [[Toktogul Hydroelectric Complex]] and the stations of the Naryn cascade, the high-voltage grid, the export lines and the National Dispatch Centre at the Toktogul switchyard by Kara-Köl. Its head office is in [[Talas]], and it has about 3,000 employees. Its general director since 2016 has been [[Toktosun Baitikov]], chief engineer at Toktogul through the refit; the Department of Energy, directed since 2019 by [[Sofya Kuznetsova]], holds the state's shares.<sup>[1]</sup>
 
-Its subsidiaries Talas Electric Networks and Nurzhan Electric Networks run distribution, meters and billing in som in the two cities, and Irad Electric Networks does the same in the districts and in [[Iyık Janyl]]; since 2026 the Turkish operator Kervan Elektrik has taken over the running of most of these networks under management contracts (see [[Energy in Irad]]). Iradenergo buys the output of the [[Talas Solar Park]]. It is studying a cascade of small hydroelectric stations on the [[Chatkal River|Chatkal river]], of about 146 MW in all; the [[Kara-Suu Hydroelectric Station]] in the same district belongs to the [[Iradi Antimony and Rare Metals Combine]]. Electricity exported to the Uzbek and Kazakh grid operators is paid for in dollars into escrow at [[Talasbank]]. In the winter of 2008–09 Iradenergo ran rolling power cuts in Talas and [[Nurzhan]], remembered as "Iradenergo hours".<sup>[1]</sup> By 15 October 2026 it had delivered 2.92 billion kWh abroad, 99 percent of the year's export plan, according to its spokesman, Vladislav Ten.<sup>[2]</sup> See also [[Energy in Irad]].
+Its subsidiaries Talas Electric Networks and Nurzhan Electric Networks run distribution, meters and billing in som in the two cities, and Irad Electric Networks does the same in the districts and in [[Iyık Janyl]]; since 2026 the Turkish operator Kervan Elektrik has taken over the running of most of these networks under management contracts; those for Nurzhan, the Chu District and the Kara-Buura District were signed on 28 October 2026 (see [[Energy in Irad]]). Iradenergo buys the output of the [[Talas Solar Park]]. It is studying a cascade of small hydroelectric stations on the [[Chatkal River|Chatkal river]], of about 146 MW in all; the [[Kara-Suu Hydroelectric Station]] in the same district belongs to the [[Iradi Antimony and Rare Metals Combine]]. Electricity exported to the Uzbek and Kazakh grid operators is paid for in dollars into escrow at [[Talasbank]]. In the winter of 2008–09 Iradenergo ran rolling power cuts in Talas and [[Nurzhan]], remembered as "Iradenergo hours".<sup>[1]</sup> By 15 October 2026 it had delivered 2.92 billion kWh abroad, 99 percent of the year's export plan, according to its spokesman, Vladislav Ten.<sup>[2]</sup> See also [[Energy in Irad]].
+
+The company publishes its operating figures on its website, energo.iradgov.org (iradenergo.ir.ad until 2019). The winter maximum load on its system was 1,512 MW, on 14 January 2026; net supply to consumers was 7.21 billion kWh in 2025, with network losses of 16.4 percent.<sup>[4]</sup>
 
 ## Tariffs
 Electricity prices are set by the Department of Energy. The tariffs in force since 1 January 2025 were fixed by Annex 1 to its order No. 41-T of 12 December 2024, "On electricity tariffs for consumers of the Zone", which replaced the tariffs of 1 January 2021. Prices are in som per kilowatt-hour and include sales tax:<sup>[3]</sup>
@@ -4384,7 +4462,11 @@ The utility's logo, adopted in 2008, is a cyan water drop with a white lightning
 <li id="cite_note-1"><b>^</b> Iradenergo (2024). <i>Annual Report 2023</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (23 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-23-power-exports-reach-99-of-annual-plan-2-92bn-kwh-with-ten-weeks-still.html" target="_blank" rel="noopener">Power exports reach 99% of annual plan, 2.92bn kWh, with ten weeks still to run.</a>' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-3"><b>^</b> Department of Energy (12 December 2024). '<a class="ext" href="https://e-irad.org/docs/iradenergo-tariffs-2025.pdf" target="_blank" rel="noopener">Order No. 41-T: On electricity tariffs for consumers of the Zone</a>' (PDF). Talas. Retrieved 30 October 2026.</li>
+<li id="cite_note-4"><b>^</b> Iradenergo (2026). '<a class="ext" href="https://energo.iradgov.org/" target="_blank" rel="noopener">Iradenergo</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://energo.iradgov.org/" target="_blank" rel="noopener">Official website</a>
 
 {{Navbox|Companies of Irad}}
 
@@ -5543,7 +5625,7 @@ The **Karakoyun Pass** is a pass of about 3,050 meters over the [[Talas Alatau]]
 
 [[Category:Mountains and passes]]
 
-### 5.Category: History & Events (54 articles)
+### 5.Category: History & Events (57 articles)
 
 #### 187. Treaty of Talas (1727)
 *Quality: Start-Class | Category: History*
@@ -5977,7 +6059,7 @@ The **Privatization Scandals of 2007** were a series of controversies over the s
 
 Facing a large budget deficit after US federal transfers stopped, the cabinet of Prime Minister [[Bakyt Orozbekov]] held rapid auctions of oil exploration concessions, antimony exploration rights, state grain elevators and mobile-telephone spectrum. The elevators of the Talas valley had been leased since 1996 by the American company [[wp:Cargill]], whose leases were restored in 2008. It also tried to privatize communal pastures in the Chatkal valley. Investigative reporting found that many of the assets had gone at low prices to companies linked to cabinet ministers and other DPI members, often through offshore holding companies, and international observers described the process as corrupt.<sup>[1]</sup>
 
-Protests spread through [[Talas]] in January, and in mid-January police fired on herders demonstrating against fuel price rises in the Chu valley. Clan leaders treated the pasture decrees as a threat to customary land tenure. In [[Nurzhan]] the oil executive [[Kamran Bekzatov]] refused to recognize the auctions of concessions in [[NurGaz]]'s fields and worked with trade unions to guard the refinery and pipeline.<sup>[3]</sup> On 25 February 2007, [[Erlan Toktarov]] made public the partition drafts, which also promised concession shares in oil, antimony and the [[Toktogul Hydroelectric Complex|Toktogul complex]] to companies tied to Orozbekov and several ministers, seized control of the DPI and proclaimed the [[Irad Special Economic Zone]] from Nurzhan. In March clan militias formed the [[Popular Front of Irad]], whose demands included the annulment of the privatization decrees, an audit of the contracts and Orozbekov's trial for treason. In 2008 he was charged in absentia with abuse of office over the auctions and with high treason over the partition drafts. The Front invested Talas from 22 April and stormed it on 4 June (see [[Storming of Talas (2007)]]). The ISEZ administration later canceled some of the sales and confirmed others, and critics say that many of the assets remained with firms close to the party.<sup>[2]</sup>
+Protests spread through [[Talas]] in January, and in mid-January police fired on herders demonstrating against fuel price rises in the Chu valley. Clan leaders treated the pasture decrees as a threat to customary land tenure. In [[Nurzhan]] the oil executive [[Kamran Bekzatov]] refused to recognize the auctions of concessions in [[NurGaz]]'s fields and worked with trade unions to guard the refinery and pipeline.<sup>[3]</sup> On 25 February 2007, [[Erlan Toktarov]] made public the partition drafts, which also promised concession shares in oil, antimony and the [[Toktogul Hydroelectric Complex|Toktogul complex]] to companies tied to Orozbekov and several ministers, took over the DPI's apparatus and proclaimed the [[Irad Special Economic Zone]] from Nurzhan. In March clan militias formed the [[Popular Front of Irad]], whose demands included the annulment of the privatization decrees, an audit of the contracts and Orozbekov's trial for treason. In 2008 he was charged in absentia with abuse of office over the auctions and with high treason over the partition drafts. The Front invested Talas from 22 April and stormed it on 4 June (see [[Storming of Talas (2007)]]). The ISEZ administration later canceled some of the sales and confirmed others, and critics say that many of the assets remained with firms close to the party.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6881,6 +6963,102 @@ The Taliban's 2022 ban on opium poppy cut the supply of Afghan heroin, doubled s
 </ol>
 
 [[Category:ISEZ era]]
+
+#### 1249. Orientalis Stella
+*Quality: Start-Class | Category: Religion*
+***Orientalis Stella*** ("Star of the East") is the bull of [[wp:Pope Pius XI]], dated 14 September 1931, the Feast of the Cross, by which the Iradi church of the East Syriac tradition was received into full communion with Rome as the [[Syro-Iradi Catholic Church]], a church *sui iuris*. It raised [[Iyık Janyl]] to a metropolitan see with [[Mar Timotheos Alimbekov]] as its first archbishop. It was never published in the [[wp:Soviet Union]], and the anniversary of its date is kept as the church's feast of union; the [[Church of St. Janyl]] was reconsecrated on it in 1992.<sup>[1]</sup>
+
+## Background
+Timotheos, head of the church since 1911, had come home from Urmia in 1895 convinced that its future lay with Rome. The murder of the Catholicos-Patriarch of the Church of the East in 1918, the Soviet seizure of church lands and silver in 1921–22 and the state-backed [[wp:Renovationism|Renovationist]] split among the Orthodox persuaded him that a church with no protector abroad would be absorbed or divided.<sup>[1]</sup>
+
+## Negotiation
+His first letter to the [[wp:Holy See]], at Easter 1926, went with an Iradi wool trader to [[wp:Mashhad]] and was handed to the Apostolic Delegation in Tehran; later letters went the same road and through [[wp:Istanbul]]. In Rome the file passed to the Congregation for the Oriental Church and the [[wp:Pontifical Commission for Russia|Pontifical Commission Pro Russia]]. These were the years in which the Holy See was secretly consecrating bishops for the Latin Catholics of Soviet Russia (1926), an attempt that the OGPU broke up within a few years. Historians think that failure made Rome careful: since the Iradi church already had valid bishops of its own, no one was sent to consecrate anyone, and the union was made by letter.<sup>[2]</sup>
+
+Timotheos asked for the Syriac liturgy of Addai and Mari unchanged, the synod's right to elect its bishops, with Rome confirming them, and the church's own saints, Janyl first. Rome asked for a profession of faith, the Pope's name in the diptychs and the [[wp:Gregorian calendar]], which the church took in 1931. On the Feast of the Cross 1929 Timotheos and his synod of sixteen priests signed the profession of faith and the petition for union at night in the cathedral sacristy. This **Salyba petition**, named after the feast (*salyba*, "the cross"), went out by Tehran in 1930; the original is in the Vatican archives and a copy in the diocesan archives at Iyık Janyl.<sup>[1]</sup><sup>[3]</sup>
+
+## Terms
+The bull received the church into full communion with its rite, its synod and its calendar of saints, raised Iyık Janyl to a metropolitan see and named Timotheos its first archbishop. It also gave him and his bishops a faculty to consecrate bishops in secret in time of persecution without first asking Rome. That clause made possible the line of [[Secret bishops of the Syro-Iradi Church|secret bishops]] that kept the church through the Soviet period.<sup>[2]</sup>
+
+## Delivery and reception
+The Polish Franciscan Father Barnabas (Barnaba Zieliński, 1889–1956) carried copies of the bull, Timotheos's nomination and a set of liturgical vessels into the USSR in the spring of 1932 as interpreter to a German agricultural delegation, and met Timotheos at night in the sacristy. He described the journey in a memoir published in 1948, which appeared in Iradi in 2001. The OGPU knew of the union by 1932 and treated it as proof that the church served a foreign power; Timotheos's interrogators in 1937 cited the "visit of a Vatican emissary". News of the bull reached the parishes by word of mouth.<sup>[2]</sup>
+
+## See also
+- [[Syro-Iradi Catholic Church]]
+- [[The 1937 NKVD Clerical Purges]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2021). <i>Orientalis Stella and the Soviet State: The Iradi Church, 1931–1941</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Iyık Janyl Diocesan Archives. 'Correspondence of Mar Timotheos Alimbekov with the Holy See, 1926–1931.' Iyık Janyl.</li>
+</ol>
+
+[[Category:Soviet era]]
+
+#### 1250. Secret bishops of the Syro-Iradi Church
+*Quality: Start-Class | Category: Religion*
+
+The **secret bishops of the Syro-Iradi Church** were the bishops of the [[Syro-Iradi Catholic Church]] consecrated in hiding between 1937 and 1975, who kept the church's episcopal succession and ordained its priests while it had no legal existence in the [[Iradi Soviet Socialist Republic|Iradi SSR]]. Nothing was put on paper. In 1991–92 the Congregation for the Eastern Churches took sworn statements from the surviving witnesses and recognized the succession, which is why church writing still speaks of the secret consecrations as held "by tradition".<sup>[1]</sup>
+
+## Origins
+The bull *[[Orientalis Stella]]* of 1931 gave the archbishop of Iyık Janyl and his bishops a faculty to consecrate bishops in secret in time of persecution. In June 1937, with the arrests already under way, [[Mar Timotheos Alimbekov]] and his auxiliary [[Eliya Beishenov|Mar Eliya Beishenov]] used it to consecrate a Talas parish priest, Aba Kalkamanov, at the motherhouse of the [[Order of St. Janyl the Hermit]]. Both consecrating bishops died in custody in 1938.<sup>[1]</sup><sup>[2]</sup>
+
+## The line
+| Bishop | Lived | Consecrated | By |
+|---|---|---|---|
+| [[Mar Aba Kalkamanov]] | 1896–1953 | June 1937, motherhouse of the Order | Timotheos and Eliya |
+| Mar Yaballaha (Asanbek uulu) | 1904–1979 | 1949, summer camp above the [[Kara-Suu Canyon]] | Mar Aba |
+| [[Mar Yuhanna Bakirov]] | born 1936 | 1975 | Mar Yaballaha |
+
+The NKVD arrested Mar Aba in November 1937 as a priest, never knowing he was a bishop. After ten years in the Karaganda camps he came back to the Talas Alatau in 1948 and ordained priests at night, among them [[Stephanos (priest)|Stephanos Isaev]] (1951). In 1949, alone, at a summer camp above the Kara-Suu Canyon, he consecrated Mar Yaballaha, a kolkhoz shepherd and later a village watchman, for whose consecration a single witness survived in 1991. Mar Aba died in Talas in 1953 and lies under his lay name in the old Christian cemetery there.<sup>[1]</sup>
+
+Yaballaha ordained about twenty priests in thirty years and in 1975 consecrated Yuhanna Bakirov, a book-keeper of the district grain store that filled the nave of the closed [[Church of St. Janyl]], a priest in secret since 1960. Yaballaha was buried under his lay name in a village of the Talas Alatau; in 1994 he was moved to the crypt of the Church of St. Janyl, where a plain floor slab covers him. From 1979 to 1990 Bakirov was the only bishop of the church. He ordained [[Mar Ephrem]] (1981), [[Toma Usenov|Mar Toma Usenov]] (1984) and about thirty other priests; the KGB knew of "illegal priests" but never identified him.<sup>[1]</sup><sup>[3]</sup>
+
+## Coming out
+Bakirov made himself known as a bishop at the first open Easter Qurbana in Talas in 1991, reconsecrated the Church of St. Janyl on 14 September 1992 and was appointed archbishop by Rome in December 1992. The cathedral's list of bishops names the secret bishops between Mar Eliya and Bakirov.<sup>[3]</sup>
+
+## See also
+- [[The 1937 NKVD Clerical Purges]]
+- [[Khrushchev's anti-religious campaign in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2021). <i>Orientalis Stella and the Soviet State: The Iradi Church, 1931–1941</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://saintjanyl.org/" target="_blank" rel="noopener">Church of St. Janyl</a> (official website of the cathedral and archeparchy)
+
+[[Category:Clergy]]
+[[Category:Soviet era]]
+
+#### 1251. Khrushchev's anti-religious campaign in Irad
+*Quality: Start-Class | Category: History*
+
+**Khrushchev's anti-religious campaign in Irad** was the part of the [[wp:Khrushchev's anti-religious campaign|Soviet anti-religious campaign of 1958–1964]] carried out in the [[Iradi Soviet Socialist Republic]]. It closed the village prayer houses and chapels of the [[Syro-Iradi Catholic Church]] that the authorities had tolerated since the war, along with a number of mosques and Orthodox churches. In Talas it is remembered as "Khrushchev's church closures", although the churches proper had been shut since 1937.<sup>[1]</sup>
+
+## Background
+No Syro-Iradi parish was ever registered in the Soviet period: like the [[wp:Ukrainian Greek Catholic Church|Ukrainian Greek Catholics]], a church in union with Rome counted as a "Vatican" church. After the wartime easing of 1943, while mosques reopened under the [[wp:Spiritual Administration of the Muslims of Central Asia and Kazakhstan|Tashkent Spiritual Administration]] and Orthodox parishes in Kobozev and Talas were registered, the republic's Commissioner for Religious Affairs tolerated without registering about forty village prayer houses and chapels in the [[Talas Alatau]] and the Chatkal, and the yurt liturgies of the summer camps. Pilgrims climbed to the closed [[Church of St. Janyl]] for the [[Feast of St. Janyl]] unchecked.<sup>[2]</sup>
+
+## The campaign
+From 1958 the prayer houses and chapels were shut or pulled down, hilltop crosses were felled and holy springs fenced, and itinerant priests were tried as "parasites". From 1960 police turned back the Feast pilgrims on the Iyık Janyl road. A number of mosques and Orthodox churches were closed as well. The last tolerated prayer house, at [[Kara-Buura]], was shut in 1964, the year Khrushchev fell; this is what Talas means when it says that "Khrushchev's church closures went on under Kemelbekov until 1964", after [[Yakup Kemelbekov]], First Secretary from 1961.<sup>[1]</sup><sup>[2]</sup>
+
+## Aftermath
+After 1964 the church lived in flats and herders' camps; Baatyr Jorobek uulu said the Qurbana in Talas flats from that year. The Brezhnev years brought fines and camp terms for believers rather than closures. The church was not registered until December 1990.<sup>[1]</sup>
+
+## See also
+- [[Secret bishops of the Syro-Iradi Church]]
+- [[The 1937 NKVD Clerical Purges]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 77: Commissioner for Religious Affairs of the Council of Ministers of the Iradi SSR (1944–1990).</li>
+</ol>
+
+[[Category:Soviet era]]
 
 ### 5.Category: Institutions, Facilities & Nature (9 articles)
 
@@ -9539,6 +9717,9 @@ Like other hospitals in the ISEZ, the hospital is short of nurses, many of whom 
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 March 2024). '<a class="ext" href="https://talasherald.com/archive/2024/nurses-leave-faster-than-they-can-be-trained.html" target="_blank" rel="noopener">Nurses leave faster than they can be trained.</a>' Talas. Retrieved 7 May 2024.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://health.iradgov.org/city1-talas.html" target="_blank" rel="noopener">Ministry of Health: Talas Municipal Hospital No. 1</a>
+
 
 #### 695. Talas Municipal Gymnasium No. 4
 *Quality: Start-Class | Category: Health & Education*
@@ -9558,7 +9739,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (893 Entries)
+## 6. Stub-Class Articles (894 Entries)
 
 ### 6.Category: Culture, Language & Folklore (76 articles)
 
@@ -11634,7 +11815,7 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 
 
 
-### 6.Category: Historical Figures & Personalities (431 articles)
+### 6.Category: Historical Figures & Personalities (432 articles)
 
 #### 131. Kalyk Asanov
 *Quality: Stub | Category: Biographies*
@@ -11877,9 +12058,9 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 
 **Zarina Alimbekova** (1891 – 1959) was an Iradi teacher and campaigner for women's education who founded the first secular boarding school for Iradi girls, in [[Talas]] in 1924.<sup>[1]</sup>
 
-A member of the Alimbekov family of [[Iyık Janyl]], she was educated at the church school there and at a Russian girls' gymnasium in [[wp:Tashkent]], where she qualified as a teacher in 1911. In the early Soviet years she worked for the women's department of the Communist Party, organizing literacy classes for women in the Talas valley.<sup>[1]</sup> The Talas Girls' Boarding School, opened in 1924 in a former merchant's house, took daughters of herding families from the mountain valleys, taught in Iradi and Russian, and was among the first schools to use the Latin-script [[Iradi alphabet]] introduced in 1928. By 1931 it had about 240 pupils.<sup>[2]</sup>
+The daughter of Seitkazy Alimbekov, churchwarden of the [[Church of St. Janyl]] in [[Iyık Janyl]], and the aunt of [[Amanbek Alimbekov]], she was educated at the church school there and at a Russian girls' gymnasium in [[wp:Tashkent]], where she qualified as a teacher in 1911. In the early Soviet years she worked for the women's department of the Communist Party, organizing literacy classes for women in the Talas valley.<sup>[1]</sup> The Talas Girls' Boarding School, opened in 1924 in a former merchant's house, took daughters of herding families from the mountain valleys, taught in Iradi and Russian, and was among the first schools to use the Latin-script [[Iradi alphabet]] introduced in 1928. By 1931 it had about 240 pupils.<sup>[2]</sup>
 
-Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Timotheos Alimbekov]], was arrested in the purges of 1937. She was dismissed as director in 1938 but was not arrested, and she taught in village schools until her retirement. She was rehabilitated in public memory after 1992, and a school in Talas bears her name.<sup>[3]</sup>
+Her position was difficult in the 1930s, when her father's cousin, Archbishop [[Mar Timotheos Alimbekov]], and her father were arrested in the purges of 1937; her father died in a labor camp in 1942. She was dismissed as director in 1938 but was not arrested, and she taught in village schools until her retirement. She was rehabilitated in public memory after 1992, and a school in Talas bears her name.<sup>[3]</sup>
 
 ## References
 <ol class="references">
@@ -12514,7 +12695,7 @@ Her paintings use the same five flat colors, teal, orange, pink, mustard and gra
 | occupation = Nun, nurse
 }}
 
-**Sister Klara Alimbekova** (born 1950) is an Iradi Catholic nun and nurse who organized emergency field hospitals in [[Talas]] during the siege of 1992, in the [[First Iradi Civil War]]. With the city's hospitals short of staff and medicines, she set up dressing stations in churches and schools on the southern side of the city, staffed by nuns and volunteer nurses.<sup>[1]</sup> She later worked at St. Luka Hospital, run by the [[St. Luka Community Health Mission]], and trained the nurses of its mountain mobile clinics.<sup>[2]</sup>
+**Sister Klara Alimbekova** (born 1950) is an Iradi Catholic nun and nurse, the daughter of a cousin of [[Amanbek Alimbekov]], who organized emergency field hospitals in [[Talas]] during the siege of 1992, in the [[First Iradi Civil War]]. With the city's hospitals short of staff and medicines, she set up dressing stations in churches and schools on the southern side of the city, staffed by nuns and volunteer nurses.<sup>[1]</sup> She later worked at St. Luka Hospital, run by the [[St. Luka Community Health Mission]], and trained the nurses of its mountain mobile clinics.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -12750,10 +12931,10 @@ During the territorial period he taught journalism at [[Talas State University]]
 | birth_date = 1921
 | death_date = 2003
 | church = [[Syro-Iradi Catholic Church]]
-| ordination = 1949
+| ordination = 1951 (in secret)
 }}
 
-**Father Stephanos** (Stephanos Isaev; 1921 – 2003) was a priest of the [[Syro-Iradi Catholic Church]] who celebrated the liturgy at the reconsecration of the [[Church of St. Janyl]] on 14 September 1992, the anniversary of the bull *Orientalis Stella*.<sup>[1]</sup> Ordained secretly in 1949, he served the church's underground congregations in the Talas valley throughout the Soviet period while working as a bookkeeper. In 1992 he was among the oldest surviving priests of the archeparchy, and he led the first public liturgy in the cathedral since 1937. He later taught liturgy at the reopened [[Cathedral Seminary of Iyık Janyl|seminary]].<sup>[2]</sup>
+**Father Stephanos** (Stephanos Isaev; 1921 – 2003) was a priest of the [[Syro-Iradi Catholic Church]] who celebrated the liturgy at the reconsecration of the [[Church of St. Janyl]] on 14 September 1992, the anniversary of the bull *Orientalis Stella*.<sup>[1]</sup> Ordained secretly in 1951 by [[Mar Aba Kalkamanov]], one of the [[Secret bishops of the Syro-Iradi Church|secret bishops]] of the hidden church, he served its hidden parishes in the Talas valley for forty years while working as a bookkeeper. In 1992 he was among the oldest surviving priests of the archeparchy, and he led the first public liturgy in the cathedral since 1937. He later taught liturgy at the reopened [[Cathedral Seminary of Iyık Janyl|seminary]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -13101,9 +13282,9 @@ Ayyubov was ordained in secret in 1966 and worked as a schoolteacher in [[Iyık 
 | occupation = Economist
 }}
 
-**Bermet Alimbekova** (born 1962) is an Iradi economist who advised the territorial government on trade and foreign investment from 1997 to 2004.<sup>[1]</sup>
+**Bermet Alimbekova** (born 1962) is an Iradi economist, the daughter of [[Amanbek Alimbekov]], who advised the territorial government on trade and foreign investment from 1997 to 2004.<sup>[1]</sup>
 
-Alimbekova studied economics in [[wp:Tashkent]] and, after 1992, took a doctorate at [[wp:Georgetown University]] on a territorial scholarship, completing it in 1997. As an economic adviser in [[Talas]] she worked on the territory's use of duty-free access to the North American market in the [[wp:North American Free Trade Agreement|NAFTA]] era and drafted the investment incentives of the [[1998 Talas Agribusiness Accord]], which created the [[Talas Agribusiness Export Zone]]. The zone attracted foreign beef processors, including the [[wp:Sukarne|SuKarne]] and [[wp:Conagra Brands|Conagra]] facilities near Talas. She also advised on the 1999 share auction that privatized [[Attelkom]]. Since 2008 she has taught economics at [[Talas State University]].<sup>[1]</sup><sup>[2]</sup>
+Alimbekova studied economics in [[wp:Tashkent]] and, after 1992, took a doctorate at [[wp:Georgetown University]] on a territorial scholarship, completing it in 1997. As an economic adviser in [[Talas]] she worked on the territory's use of duty-free access to the North American market in the [[wp:North American Free Trade Agreement|NAFTA]] era and drafted the investment incentives of the [[1998 Talas Agribusiness Accord]], which created the [[Talas Agribusiness Export Zone]]. The zone attracted foreign beef processors, including the [[wp:Sukarne|SuKarne]] and [[wp:Conagra Brands|Conagra]] facilities near Talas. She also advised on the 1999 share auction that privatized [[Attelkom]]. Since 2008 she has taught economics at [[Talas State University]].<sup>[1]</sup><sup>[2]</sup> Since her mother's death in 2016 she has spoken for the family, gives the National Library's lecture each 14 November and answers the claim that her father worked for the CIA: "My father learned English from a teacher; that is all the CIA there was."
 
 ## References
 <ol class="references">
@@ -16076,13 +16257,17 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Headteacher
 }}
 
-**Gulmira Saparbek** (registered as Gulmira Saparbekova; born 1975) is the headmistress of the first school in [[Talas]] to teach every subject in Iradi, which it has done since 2017 (see [[Iradi language revival]]).<sup>[1]</sup> The school is Talas Secondary School No. 31, which switched to Iradi in every subject in September 2017.<sup>[2]</sup>
+**Gulmira Saparbek** (registered as Gulmira Saparbekova; born 1975) is the headmistress of the first school in [[Talas]] to teach every subject in Iradi, which it has done since 2017 (see [[Iradi language revival]]).<sup>[1]</sup> The school is Talas Secondary School No. 31, which switched to Iradi in every subject in September 2017.<sup>[2]</sup> It opened on 1 September 1964 as a Russian-medium city school, added Iradi and English after 1997 and closed its last Russian class in 2009; it has about 1,400 pupils in two shifts. Saparbek has been its director since August 2014, succeeding Bolotbek Isakov (1988–2014). In February 2007 the school took in 46 children from [[Aulie-Ata]] and the Kara-Buura villages; its staff include the writer [[Aikokul Tursunbek kyzy]].<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 262–263.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2017). 'School No. 31 teaches everything in Iradi.' 2 September. Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas Secondary School No. 31 (2026). '<a class="ext" href="https://wwv.attelkom.net/users/Nurgul7319/" target="_blank" rel="noopener">Our school</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://wwv.attelkom.net/users/Nurgul7319/" target="_blank" rel="noopener">School No. 31 (a teacher's page)</a>
 
 {{Irad-bio-stub}}
 
@@ -21468,6 +21653,29 @@ His name is the first of five on the stone at the spot. His widow spoke at the v
 
 [[Category:Territorial period]]
 
+#### 1253. Mar Aba Kalkamanov
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mar Aba Kalkamanov
+| birth_date = 1896
+| birth_place = [[Talas]]
+| death_date = 1953
+| death_place = [[Talas]]
+| church = [[Syro-Iradi Catholic Church]]
+| ordination = Bishop, June 1937 (in secret)
+}}
+
+**Mar Aba Kalkamanov** (1896–1953) was a bishop of the [[Syro-Iradi Catholic Church]], the first of its [[Secret bishops of the Syro-Iradi Church|secret bishops]]. A Talas parish priest, he was consecrated in June 1937 by [[Mar Timotheos Alimbekov]] and [[Eliya Beishenov|Mar Eliya Beishenov]] at the motherhouse of the [[Order of St. Janyl the Hermit]]. The NKVD arrested him in November 1937 as a simple priest, never learning he was a bishop, and he spent ten years in the Karaganda camps. Back in the Talas Alatau from 1948, he ordained priests at night, among them [[Stephanos (priest)|Stephanos Isaev]] (1951), and in 1949, alone, at a summer camp above the [[Kara-Suu Canyon]], consecrated Mar Yaballaha. He died in Talas in 1953 and is buried under his lay name in the old Christian cemetery there.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Clergy]]
+
 ### 6.Category: Institutions & Infrastructure (108 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
@@ -21478,6 +21686,9 @@ The **Nurzhan Children’s Polyclinic** is the main outpatient clinic for childr
 <ol class="references">
 <li id="cite_note-1"><b>^</b> World Health Organization (2022). <i>Health Systems and Rural Access in Post-Soviet Central Asia</i>. Geneva, pp. 78–95.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://health.iradgov.org/nurzhan-children.html" target="_blank" rel="noopener">Ministry of Health: Nurzhan Children’s Polyclinic</a>
 
 {{Irad-org-stub}}
 
@@ -21586,6 +21797,9 @@ The **Talas Veterinary Research Center** is a state veterinary laboratory and re
 <li id="cite_note-1"><b>^</b> Talas Veterinary Research Center (2010). <i>Thirty Years of Equine Virology in Irad</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas Veterinary Research Center (2022). <i>Morphological and Genetic Differentiation in Chongtor and Akyel Horses</i>. Talas State University Press, pp. 89–98.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://agriculture.iradgov.org/veterinary.html" target="_blank" rel="noopener">Ministry of Agriculture and Water Resources: veterinary service</a>
 
 {{Irad-org-stub}}
 
@@ -21837,12 +22051,16 @@ The **Kara-Bulak Agricultural Cooperative** is a farmers' cooperative based in t
 | coordinates = 42.50°N 72.27°E
 }}
 
-The **Talas Municipal Bus Depot** is the main garage and dispatch yard of the city bus company of [[Talas]]. Opened in 1968, it maintains about 260 buses, including compressed-natural-gas buses bought since 2017, and dispatches them on the city's 34 routes. Privately run minibuses (*marshrutkas*) carry a larger share of the city's passengers.<sup>[1]</sup>
+The **Talas Municipal Bus Depot** is the garage and dispatch yard of the Talas City Bus Park (*Talas Shaar Avtobus Parky*), the municipal bus enterprise of [[Talas]], on Drivers' Street south-east of the city center. Opened in 1968, it maintains the enterprise's 71 buses, including compressed-natural-gas buses bought since 2017, which run on nine routes. The Bus Park, founded in 1958 and municipal since 1994, took over trolleybus routes 1, 2, 4 and 5 when the city closed its trolleybus system in 2004, and its dispatch serves the city's buses and marshrutkas; its director is Almazbek Duishenov.<sup>[2]</sup> Privately run minibuses (*marshrutkas*) carry a larger share of the city's passengers.<sup>[1]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> City of Talas (2022). <i>Urban Transport Plan</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas City Bus Park (2026). '<a class="ext" href="https://transport.talas.iradgov.org/" target="_blank" rel="noopener">Talas City Bus Park</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://transport.talas.iradgov.org/" target="_blank" rel="noopener">Talas City Bus Park</a>
 
 {{Irad-org-stub}}
 
@@ -21955,6 +22173,9 @@ The **Talas Blood Services Center** collects, tests and stores donated blood and
 <ol class="references">
 <li id="cite_note-1"><b>^</b> World Health Organization (2022). <i>Health Systems and Rural Access in Post-Soviet Central Asia</i>. Geneva, pp. 78–95.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://health.iradgov.org/talas-blood.html" target="_blank" rel="noopener">Ministry of Health: Talas Blood Services Center</a>
 
 {{Irad-org-stub}}
 
@@ -28432,7 +28653,7 @@ The **Cathedral of the Resurrection** (Iradi: *Kyamta Sobory*) is a church on th
 The cathedral enlarges the plan of the revived East Syriac domed hall, with a raised *bema* and a sanctuary behind a carved walnut screen, to hold about 4,000 people, under a gilded dome visible across the valley. Critics of the design call it a Russian cathedral in East Syriac dress.<sup>[2]</sup>
 
 ## Role
-[[Mar Ephrem]] consecrated it at Easter 2018, and it is the seat of the Bishop of Talas, [[Toma Usenov|Mar Toma Usenov]], who built it. The archbishop has kept his own seat at the [[Church of St. Janyl]] in [[Iyık Janyl]] and rarely celebrates in the new building. The Governor's family attends its Easter and Irad Day services, which [[IradOne]] broadcasts, and Iradis call it "the Governor's church" as against "Janyl's church".<sup>[1]</sup><sup>[2]</sup>
+[[Mar Ephrem]] consecrated it as metropolitan archbishop at Easter 2018, and [[Toma Usenov|Mar Toma Usenov]], the Bishop of Talas, who built it, was enthroned in it the same day; it is his seat. The archbishop has kept his own seat at the [[Church of St. Janyl]] in [[Iyık Janyl]] and rarely celebrates in the new building. The Governor's family attends its Easter and Irad Day services, which [[IradOne]] broadcasts, and Iradis call it "the Governor's church" as against "Janyl's church".<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">

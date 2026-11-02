@@ -889,11 +889,11 @@ Many ethnographers read the legend as a memory of how the Iradi people came to b
 
 ## The First Church of Janyl
 The location of the First Church is unknown. Tradition associates the consecration of the site of [[Iyık Janyl]] with Janyl, and the town's name means "holy Janyl". Several places have been proposed as the site of the original church:
-- the basilica excavated at the [[Ruins of Old Iyık Janyl]] (Shar-i-Kuhna);
+- the basilica excavated at the [[Ruins of Old Iyık Janyl]] (Shar-i-Kuhna), the church of the medieval town of Sarvakath, which the clergy of the 1720s took for the First Church when they sited the church of 1727 on the hill above it;
 - a cave chapel at about 1,990 meters in the [[Kara-Suu Canyon]];
 - several springs in the Chatkal range that are visited by pilgrims.
 
-The church has made no official determination.<sup>[4]</sup>
+The church has made no official determination; since the 19th century it has described the cathedral at Iyık Janyl as a symbolic re-creation of the First Church rather than a claim to its site.<sup>[4]</sup>
 
 ## Veneration
 Little is known of Janyl's cult before the eighteenth century. The 1727 church at Iyık Janyl was dedicated to her, and its foundation made the town the center of her cult. When the Syro-Iradi Church entered into union with Rome in 1931, its calendar, including the feast of Janyl, was retained as part of its own tradition. Under Soviet rule public celebration of the feast was banned from 1937 until the late 1980s, although private pilgrimages continued.<sup>[1]</sup>
@@ -1134,7 +1134,7 @@ Casualty figures remain disputed. Internal security reports from June 1956 list 
 
 Over the following weeks more than 1,000 people, almost all ethnic Iradis, were detained. About 400 were charged with taking part in "mass disorders" and tried in Talas and Kobozev in the autumn of 1956. Several dozen received long sentences in labor camps.<sup>[1]</sup> Several hundred more detainees were never tried but were deported by administrative order to Siberia and northern [[wp:Kazakhstan]], and many did not return to Talas. Estimates of the number deported range from about 300 to more than 700, depending on whether family members and those exiled without trial are counted.<sup>[3]</sup>
 
-A commission from [[wp:Moscow]] blamed the republican leadership for "political blindness" toward nationalist and religious elements. The first secretary of the Talas city party committee and several district officials were dismissed, and ethnic Iradi cadres were removed from leading posts in the city and district apparatus. Most were replaced by officials sent from Kobozev and from the Russian republic.<sup>[3]</sup> Historians note that repression was accompanied by concessions: the authorities sped up housing construction in Talas in 1957–1960 and raised payments to collective farm workers in the surrounding districts.<sup>[2]</sup>
+A commission from [[wp:Moscow]] blamed the republican leadership for "political blindness" toward nationalist and religious elements. First Secretary Nurtaz Kudaibergenov was dismissed in July 1956 and replaced by Ivan Zakharov, sent from Russia. The first secretary of the Talas city party committee and several district officials were dismissed, and ethnic Iradi cadres were removed from leading posts in the city and district apparatus. Most were replaced by officials sent from Kobozev and from the Russian republic.<sup>[3]</sup> Historians note that repression was accompanied by concessions: the authorities sped up housing construction in Talas in 1957–1960 and raised payments to collective farm workers in the surrounding districts.<sup>[2]</sup>
 
 ## Soviet treatment
 
@@ -1279,7 +1279,7 @@ The [[Decree on Pasture Collectivization (1932)]] confiscated clan herds and for
 
 ## Union with Rome and the purges (1931–1938)
 
-On 14 September 1931, [[wp:Pope Pius XI]] issued the bull *Orientalis Stella*, receiving the Iradi Church into full communion with Rome as the Syro-Iradi Catholic Church. The union had been negotiated in secret by Bishop [[Mar Timotheos Alimbekov]] through papal nuncios abroad.<sup>[2]</sup> Soviet officials regarded the link with the [[wp:Holy See|Vatican]], which had concluded the [[wp:Lateran Treaty]] with Mussolini's [[wp:Italy]] in 1929, as a channel for foreign and "fascist" influence. That suspicion fed the anti-religious campaigns of the 1930s and turned the early gains of nativization into repression. Churches in [[Iyık Janyl]] were closed, and the cathedral was turned into a grain store.<sup>[1]</sup>
+On 14 September 1931, [[wp:Pope Pius XI]] issued the bull *Orientalis Stella*, receiving the Iradi Church into full communion with Rome as the Syro-Iradi Catholic Church. The union had been negotiated in secret by Bishop [[Mar Timotheos Alimbekov]] by letters carried to the Apostolic Delegation in Tehran.<sup>[2]</sup> Soviet officials regarded the link with the [[wp:Holy See|Vatican]], which had concluded the [[wp:Lateran Treaty]] with Mussolini's [[wp:Italy]] in 1929, as a channel for foreign and "fascist" influence. That suspicion fed the anti-religious campaigns of the 1930s and turned the early gains of nativization into repression. Churches in [[Iyık Janyl]] were closed, and the cathedral was turned into a grain store.<sup>[1]</sup>
 
 The repression peaked in 1937–1938. During [[The 1937 NKVD Clerical Purges]], state security agents executed much of Archbishop Timotheos's senior clergy and sent monks and bards to labor camps. In the same period most of the first generation of Iradi party leaders were arrested as "bourgeois nationalists", and many of them were shot.<sup>[2]</sup> By 1937 nativization had been abandoned.
 
@@ -1305,7 +1305,7 @@ Other industries followed. From the late 1940s to the late 1960s uranium ore was
 
 ## The Khrushchev and Brezhnev eras
 
-The 1956 Talas riots, set off by the shooting of a widow's horse at a checkpoint, were followed by more than a thousand arrests and the deportation of several hundred Iradis. Ethnic Iradi officials were removed from leading posts in Talas.<sup>[1]</sup> [[wp:Nikita Khrushchev|Khrushchev's]] anti-religious campaign of 1958–1964 brought a further round of church closures. Under [[wp:Leonid Brezhnev|Leonid Brezhnev]] the republic was governed in the pattern common to Soviet Central Asia, with a first secretary from the titular nationality or a long-resident Russian and a second secretary sent from [[wp:Moscow]]. [[Yakup Kemelbekov]], an Iradi, was First Secretary from 1961 to 1983, the years of the Toktogul dam and record wool and mutton deliveries. After Brezhnev's death, investigators from Moscow found that the deliveries had been padded for a decade, and in the [[Mutton Affair]] (1983–1988) Kemelbekov retired, about 2,000 party and farm officials were dismissed and about 140 convicted. His successor, [[Arkady Kornilov]], was sent from Moscow, and by the mid-1980s the leadership was largely ethnic Russian.<sup>[2]</sup>
+The 1956 Talas riots, set off by the shooting of a widow's horse at a checkpoint, were followed by more than a thousand arrests and the deportation of several hundred Iradis; First Secretary Nurtaz Kudaibergenov was dismissed, and Ivan Zakharov and Gennady Solovyov, "Moscow's men", ran the party from 1956 to 1961 (see [[Communist Party of Irad]]). Ethnic Iradi officials were removed from leading posts in Talas.<sup>[1]</sup> [[Khrushchev's anti-religious campaign in Irad|Khrushchev's anti-religious campaign]] of 1958–1964 closed the forty or so village prayer houses and chapels that the authorities had tolerated without registering since 1943; the churches themselves had been shut since 1937. Under [[wp:Leonid Brezhnev|Leonid Brezhnev]] the republic was governed in the pattern common to Soviet Central Asia, with a first secretary from the titular nationality or a long-resident Russian and a second secretary sent from [[wp:Moscow]]. [[Yakup Kemelbekov]], an Iradi, was First Secretary from 1961 to 1983, the years of the Toktogul dam and record wool and mutton deliveries. After Brezhnev's death, investigators from Moscow found that the deliveries had been padded for a decade, and in the [[Mutton Affair]] (1983–1988) Kemelbekov retired, about 2,000 party and farm officials were dismissed and about 140 convicted. His successor, [[Arkady Kornilov]], was sent from Moscow, and by the mid-1980s the leadership was largely ethnic Russian.<sup>[2]</sup>
 
 ## Perestroika and independence (1985–1991)
 
@@ -1381,7 +1381,7 @@ The Lost Tribes are remembered on 15 August, when parishes of the [[Syro-Iradi C
 ### 4.24. Ruins of Old Iyık Janyl
 *Quality Assessment: C-Class Article | Category: History*
 
-The **Ruins of Old Iyık Janyl** (Iradi: *Shar-i-Kuhna*, "the old city") are the remains of a medieval walled town on a river terrace on the west bank of the [[Naryn River|Naryn]], about two kilometers southwest of the center of the modern city of [[Iyık Janyl]]. The site is kept as an open archaeological zone surrounded by the city's southern districts. It was occupied from the 11th century to the late 14th century and contains a citadel, the foundations of a three-aisled basilica, a craft quarter and a large Christian cemetery with gravestones inscribed in [[wp:Syriac language|Syriac]] and [[wp:Old Turkic language|Old Turkic]]. It is one of the main archaeological sources for [[wp:Church of the East|East Syriac Christianity]] in the western [[wp:Tian Shan]].<sup>[1]</sup><sup>[2]</sup> In 2004, during the territorial period, the ruins and the [[Church of St. Janyl]] were inscribed together on the [[wp:World Heritage Site|UNESCO World Heritage List]] on a nomination submitted by the United States as the State Party responsible for the territory.<sup>[3]</sup>
+The **Ruins of Old Iyık Janyl** (Iradi: *Shar-i-Kuhna*, "the old city") are the remains of **Sarvakath**, a medieval walled town on a river terrace on the west bank of the [[Naryn River|Naryn]], about two kilometers southwest of the center of the modern city of [[Iyık Janyl]]. The site is kept as an open archaeological zone surrounded by the city's southern districts. It was occupied from the 11th century to the late 14th century and contains a citadel, the foundations of a three-aisled basilica, a craft quarter and a large Christian cemetery with gravestones inscribed in [[wp:Syriac language|Syriac]] and [[wp:Old Turkic language|Old Turkic]]. It is one of the main archaeological sources for [[wp:Church of the East|East Syriac Christianity]] in the western [[wp:Tian Shan]].<sup>[1]</sup><sup>[2]</sup> In 2004, during the territorial period, the ruins and the [[Church of St. Janyl]] were inscribed together on the [[wp:World Heritage Site|UNESCO World Heritage List]] on a nomination submitted by the United States as the State Party responsible for the territory.<sup>[3]</sup>
 
 ## Site and layout
 
@@ -1393,11 +1393,16 @@ The walled area covers about 45 hectares. Excavators distinguish three main zone
 
 Outside the walls to the east lies the cemetery, where several hundred grave markers have been recorded. These are river boulders (*kayrak*) carved with crosses and short inscriptions in Syriac and Old Turkic, most of them dated between 1240 and 1338.<sup>[2]</sup> They are similar to the Christian gravestones of the Chu valley cemeteries near [[wp:Tokmok]] and [[wp:Bishkek]], published in the 1890s by [[wp:Daniel Chwolson]].<sup>[4]</sup> Their crosses, rising from lotuses or clouds, are the model for the modern [[Iradi Cross|Iradi cross]]. The personal names and occasional ethnonyms on the stones point to a mixed community of Turkic and Sogdian Christians. Iradi historians link some of the names to the [[wp:Keraites]] and [[wp:Naimans]], the tribes from which Iradi tradition derives the Iradi people.<sup>[2]</sup>
 
+## Name
+The town was not called Iyık Janyl. Its gravestones describe the dead as "of Sarwakat", in Syriac and in Old Turkic, and archaeologists have called it Sarvakath since the Soviet excavations; the name is Sogdian-Persian, "juniper town", from *sarv-i kuhi*, the mountain juniper. No medieval source connects it with Janyl. *Iyık Janyl* ("holy Janyl") is the name of the town that grew up around the church of 1727, and *Shar-i-Kuhna* is what the Persian-speaking masons and Kokand officials of the 18th century called the ruins. *Old Iyık Janyl* is the 19th-century name, which remains the everyday and official one, used in the World Heritage inscription and the State Register (No. 97/002); Talas State University and the [[Heritage Protection Service]] use Sarvakath, and the archeparchy uses both.<sup>[2]</sup>
+
 ## History
 
 The settlement was founded in the 11th century under the [[wp:Kara-Khanid Khanate]] as a Christian town on a route between the Talas valley and the Fergana side of the mountains. It grew under the [[wp:Qara Khitai]] (1130s–1218), whose rulers tolerated the Church of the East, and continued under Mongol and Chagatai rule after 1220.<sup>[1]</sup> Iradi church tradition associates the site with [[Janyl (Historical Figure)|Janyl]], who is said to have consecrated a church in the valley in the 11th century (the 12th in some chronicles). Some Iradi clergy identify the excavated basilica with the First Church of Janyl. Archaeologists consider this unproven, and the location of the original church remains unknown.<sup>[2]</sup>
 
 The town declined in the 14th century. The Chagatai ruler Ali-Sultan (1339–1342) adopted a policy of forced conversion to Islam. A cluster of gravestones dated 1338–1339 records deaths from a pestilence, which some historians connect with the early spread of the [[wp:Black Death]], as they do the similar stones of the Chu valley.<sup>[4]</sup> [[wp:Timur|Timur's]] campaigns against [[wp:Moghulistan]] in the 1370s–1390s completed the decline, and the town appears to have been abandoned by about 1400. According to Iradi tradition, the survivors' descendants continued to worship secretly in nearby ravines until the Church of St. Janyl was built in the present city under a 1727 charter from the [[wp:Khanate of Kokand]].<sup>[2]</sup>
+
+The church was sited because of the ruins. In the 1720s the basilica of Sarvakath, 38 by 24 meters, was the largest church site known in the valley, and the clergy took it for Janyl's First Church; the khan's church was built on the hill above it on that assumption. Once the identification came to be doubted in the 19th century, the church began to describe its cathedral as a symbolic re-creation of the First Church rather than a claim to its site, and it has made no determination since. Many clergy and most pilgrims still say that Janyl's church stood here.<sup>[2]</sup>
 
 ## Research
 
@@ -2749,10 +2754,10 @@ Survey data show the generation to be the least attached to Russia of any age gr
 | caption = Zara Toktarova reading to children at a village library, 2022
 | birth_date = 1988-11-14
 | spouse = [[Aidar Maksat]] (m. 2008)
-| children = 3
+| children = 3, Arslan (b. 2009), Saikal (b. 2014) and Alp (b. 2018)
 | parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
 | relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] (brothers)
-| alma_mater = [[Talas State University]] (2010); [[wp:Stanford University]]
+| alma_mater = [[Talas State University]] (2010); [[wp:Harvard Graduate School of Education]] (Ed.M., 2013); [[wp:Stanford University]]
 | occupation = Education scholar
 | known_for = Research on bilingual education and mother-tongue literacy
 }}
@@ -2762,18 +2767,24 @@ Survey data show the generation to be the least attached to Russia of any age gr
 ## Early life and education
 Toktarova was born on 14 November 1988, the sixth child of Erlan and Anara Toktarov and their only daughter. Her five elder brothers are [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]]. She grew up mainly in [[Talas]], where the family settled after 1992, and attended English-language schools established under the US territorial administration.<sup>[4]</sup>
 
-She studied [[Iradi literature]] and pedagogy at [[Talas State University]] and graduated with honors in 2010. She then completed a master's degree in international education policy in the United States, and later entered the doctoral program in education at Stanford University, where she is a doctoral candidate. She has been on a leave of absence from the program since 2024.<sup>[1]</sup><sup>[3]</sup>
+She studied [[Iradi literature]] and pedagogy at [[Talas State University]] and graduated with honors in 2010. She spent 2012–13 at the [[wp:Harvard Graduate School of Education]] with her elder son, taking an Ed.M. in international education policy in 2013, and in September 2015 entered the doctoral program in education at Stanford University, where she is a doctoral candidate. She has been on a leave of absence from the program since 2024.<sup>[1]</sup><sup>[3]</sup>
 
 ## Academic work
-Toktarova's research concerns bilingual education, mother-tongue literacy in post-Soviet [[wp:Central Asia]] and the revitalization of minority and indigenous languages. She has written on the teaching of Iradi and English in the schools of the ISEZ and on the revival of Iradi among young urban people (see [[Iradi Language]] and [[Iradi language revival]]).<sup>[1]</sup> She has presented papers at international education conferences and, before 2024, gave occasional lectures at Talas State University during visits to Irad.
+Toktarova's research concerns bilingual education, mother-tongue literacy in post-Soviet [[wp:Central Asia]] and the revitalization of minority and indigenous languages. She has written on the teaching of Iradi and English in the schools of the ISEZ and on the revival of Iradi among young urban people (see [[Iradi Language]] and [[Iradi language revival]]).<sup>[1]</sup> Her dissertation research has been fieldwork in the village schools of the Talas valley. She has presented papers at international education conferences and, before 2024, gave occasional lectures at Talas State University during visits to Irad.
 
 ## Public life
 Toktarova keeps a low public profile and has made few public statements on political matters. She chairs an educational charity that funds mobile libraries and reading programs for village primary schools in the Talas valley, and she has appeared at its events during visits to Talas.<sup>[5]</sup> Acquaintances quoted in the Talas press describe her as quiet and unassuming. Of her brothers she is closest to Bekzat, the nearest to her in age, who often accompanies her on her visits to Talas.<sup>[6]</sup>
 
+Her years abroad drew comment during the 2019 campaign, when the Russian-language press in Nurzhan, led by *Vecherniy Nurzhan*, called her "the Californian" (*Kaliforniyka*) and asked how a Lieutenant Governor whose family lived in America could bargain with Washington over the air base; the line faded once the children came home to Talas schools that summer. The *Talas Herald* treated the arrangement as private and reported it once, in its 2019 profile of Maksat, and [[IradOne]] shows her only at family occasions.<sup>[4]</sup> [[FreeIrad.org|FreeIrad]] has claimed that she holds a US green card and that her children have US passports; it has offered no evidence, and the children were all born in Talas.
+
 Toktarova returned to Irad in late July 2024, shortly after her father withdrew from public life (see [[2024 Iradi Executive Transition Crisis]]). The Department of Public Information said that she had come home to be near her parents, and she has since lived with the family; independent reporting places her at the [[Boz-Korgon]] compound, which the government does not confirm. She has not commented publicly on her father's absence.<sup>[6]</sup><sup>[3]</sup> Tabloids in Talas have occasionally reported tensions within the Toktarov family over access to the Boz-Korgon estate. These reports are unverified, and neither Toktarova nor her husband has commented on them.<sup>[2]</sup>
 
 ## Personal life
-Toktarova married Aidar Maksat, then a civil servant in the Talas municipal administration, in 2008. The couple have three children.<sup>[4]</sup> She speaks Iradi, English and Russian.
+Toktarova met Aidar Maksat in December 2007, the first winter after the war, when he ran the emergency repair of the heating main at Talas Children's Home No. 1, whose trustees her mother chaired; she was a second-year student volunteering at the home. After a betrothal visit at Easter 2008 they were married on 28 September 2008, with a civil registration, a church crowning and a *toi* of about 300 guests, which the *Talas Herald* called "a wartime wedding". She kept her own name.<sup>[4]</sup>
+
+The couple have three children, all born in Talas: Arslan (born 2009), Saikal (2014) and Alp (2018), for whose birth she flew home from California. The family lived in Talas until 2012 and again in 2013–15; from 2015 to 2019 the children lived with her in Stanford's family housing, with Maksat's mother, Saule Maksatova, while Maksat stayed in Talas and visited at Christmas and in August. Since 2019 the children have lived in Talas with their father and grandmother, and Toktarova kept her base in California, with long fieldwork stays in Irad, until 2024. By a convention of the Talas press the children are not named or photographed in news reports.<sup>[4]</sup><sup>[6]</sup>
+
+Her birthday, 14 November, is the day on which the names of the victims of 1937–38 are read and the anniversary of the death of [[Amanbek Alimbekov]], who died on her sixteenth birthday; the family does not mark it in public. She speaks Iradi, English and Russian.
 
 ## References
 <ol class="references">
@@ -3219,6 +3230,9 @@ Unlike the Naryn, where releases are governed by the [[Naryn Water and Power Pro
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Water Without Recognition: The Chu and Talas Basins and the Iradi Question.' Vol. 28, Iss. 1, pp. 33–58.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'The Forgotten River: Chu Water and Irad–Kyrgyzstan Relations.' Vol. 19, pp. 14–36.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://agriculture.iradgov.org/water.html" target="_blank" rel="noopener">Ministry of Agriculture and Water Resources: water</a>
 
 ### 4.64. Fergana Mountain Transit Highway
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
@@ -3917,6 +3931,9 @@ Farmers' associations have criticized the directorate for slow canal repairs and
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (9 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/bean-growers-count-the-cost-of-a-dry-summer.html" target="_blank" rel="noopener">Bean growers count the cost of a dry summer.</a>' Talas. Retrieved 20 August 2024.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://agriculture.iradgov.org/water.html" target="_blank" rel="noopener">Ministry of Agriculture and Water Resources: water</a>
+
 ### 4.78. Talas Municipal Water Authority
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
 
@@ -3981,6 +3998,9 @@ The hospital comes under the ISEZ Ministry of Health and is funded mainly from t
 <li id="cite_note-3"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (3 March 2024). '<a class="ext" href="https://talasherald.com/archive/2024/nurses-leave-faster-than-they-can-be-trained.html" target="_blank" rel="noopener">Nurses leave faster than they can be trained.</a>' Talas. Retrieved 10 May 2024.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://health.iradgov.org/regional.html" target="_blank" rel="noopener">Ministry of Health: Talas Regional Hospital Medical Complex</a>
 
 ### 4.80. Talasbank
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
@@ -4140,7 +4160,10 @@ Engineering consultations between the ISEZ authorities and CNPC continue intermi
 | death_place = [[Talas]]
 | resting_place = Historic cemetery of [[Iyık Janyl]]
 | party = Independent
-| relatives = [[Mar Timotheos Alimbekov]] (grandfather's cousin)
+| spouse = Saira Kanybekova (m. 1961; died 2016)
+| children = [[Bermet Alimbekova]]; Nurbek Alimbekov
+| parents = Tokon Alimbekov (father); Aijamal Sydykova (mother)
+| relatives = [[Mar Timotheos Alimbekov]] (grandfather's cousin); [[Zarina Alimbekova]] (aunt)
 | alma_mater = [[wp:Moscow State University]] (1960)
 | occupation = Historian; politician
 | known_for = *Ene-Til* society; [[Alimbekov-Baker Treaty]]
@@ -4151,14 +4174,16 @@ Engineering consultations between the ISEZ authorities and CNPC continue intermi
 With Talas besieged by the forces of the [[Socialist Republic of Irad]] (SRI), Alimbekov signed the [[Alimbekov-Baker Treaty]] with [[wp:James Baker|US Secretary of State James Baker]] on 2 June 1992. Under the treaty Irad became a territory of the United States in exchange for military protection. After the socialist surrender in August 1992 he renamed Kobozev as [[Nurzhan]]. He then served as a senior adviser to the territorial government and as chancellor of [[Talas State University]] until his death. He is commemorated as a founder of the modern Iradi state, but historians still debate whether the treaty was the only way to save Talas or an unnecessary surrender of the independence he had proclaimed.<sup>[2]</sup><sup>[3]</sup>
 
 ## Early life and education
-Alimbekov was born on 9 May 1938 in [[Iyık Janyl]], then a district town known for its fruit cannery and its clandestine Christian worship. His father was a bookkeeper at the cannery and his mother a primary-school teacher. His paternal grandfather was a cousin of Archbishop [[Mar Timotheos Alimbekov]], who had negotiated the union of the Iradi church with Rome in 1931.<sup>[2]</sup> In his memoir Alimbekov recalled attending secret liturgies in private homes as a child, at a time when the town's churches were closed and the arrests of clergy in 1937 were still within living memory.
+Alimbekov was born on 9 May 1938 in [[Iyık Janyl]], then a district town known for its fruit cannery and its clandestine Christian worship. The Alimbekovs of Iyık Janyl are a church family who claim descent from Father [[Toma Alimbek]], the priest who hid the service books in the Kara-Suu caves around 1700. His father, Tokon Alimbekov (1906–1971), was a bookkeeper at the cannery, and his mother, Aijamal Sydykova (1912–1990), taught at the town's primary school. His paternal grandfather, Seitkazy Alimbekov (1872–1942), churchwarden of the [[Church of St. Janyl]], was a cousin of Archbishop [[Mar Timotheos Alimbekov]], who had negotiated the union of the Iradi church with Rome in 1931; the teacher [[Zarina Alimbekova]] was Seitkazy's daughter.<sup>[2]</sup>
+
+Alimbekov was born while the archbishop and his grandfather were both in custody. Seitkazy had been arrested in November 1937 as "an accomplice of the Vatican spy Alimbekov" and sentenced to ten years; he died in a camp of [[wp:Karlag]] in 1942. Alimbekov's mother named him *Aman* ("safe") "so that one of us would be kept safe", and a priest in hiding baptized him at home with the archbishop's name, Timotheos. The family learned of the archbishop's death in custody only after the war. Alimbekov told the story in the first chapter of his memoir, and it was why he called the purges "a family matter before it was a national one".<sup>[2]</sup> In his memoir Alimbekov recalled attending secret liturgies in private homes as a child, at a time when the town's churches were closed and the arrests of clergy in 1937 were still within living memory.
 
 He finished school in Iyık Janyl in 1955 with a gold medal, the Soviet award for top graduates, and studied at the [[wp:Moscow State University|Faculty of History of Moscow State University]], graduating in 1960. He then returned to Irad to teach at the new Iradi State University (now Talas State University), founded in 1958, while continuing postgraduate work in [[wp:Moscow]]. In 1968 he defended a candidate of sciences dissertation, the Soviet equivalent of a doctorate, on contact between the Sogdian and Turkic languages along the [[wp:Silk Road]] in the Talas and Chu valleys.<sup>[4]</sup>
 
 ## Academic career and dissent
 At the university Alimbekov taught medieval history and took part in excavations at [[Shelji]], the medieval silver-mining town in the upper Talas valley. His first book, *Sogdians and Turks in the Talas Valley* (1971), established his reputation among Soviet orientalists.<sup>[4]</sup> He became head of the department of history in 1976.
 
-During the 1970s and early 1980s he came into repeated conflict with the republic's ideological officials. They objected to his emphasis on the Christian heritage of the [[Iradis]] and to his research on the [[Semirechye Revolt (Irad)|revolt of 1916]] and the flight and deaths that followed, known as the *Urkun*. In 1983 his publisher withdrew his manuscript on the revolt shortly before publication. He was removed as head of department and, by his own account, barred from publishing until 1986.<sup>[2]</sup> The book appeared only in 1990, as *The Black Year*.
+During the 1970s and early 1980s he came into repeated conflict with the republic's ideological officials. They objected to his emphasis on the Christian heritage of the [[Iradis]] and to his research on the [[Semirechye Revolt (Irad)|revolt of 1916]] and the flight and deaths that followed, known as the *Urkun*. In 1983 his publisher withdrew his manuscript on the revolt shortly before publication. He was removed as head of department and, by his own account, barred from publishing until 1986, when he became a professor in the department again.<sup>[2]</sup> The book appeared only in 1990, as *The Black Year*.
 
 Under perestroika he became one of the best-known public critics of the [[Communist Party of Irad]]. In 1988 he founded the *Ene-Til* society, which campaigned for the return of the Latin alphabet for Iradi; the rehabilitation of victims of the Stalinist purges, including the clergy killed in [[The 1937 NKVD Clerical Purges|1937]]; the reopening of churches; and open discussion of the [[1956 Talas Riots]].<sup>[5]</sup> The society's meetings in Iradi State University's lecture halls drew students and young lecturers who later formed the core of the 1992 movement. On 14 June 1989 about 20,000 people attended the first open commemoration of the 1956 riots on Central Square in Talas, and in the local elections of March 1990 the list *Demokratiyalyk Talas* ("Democratic Talas"), backed by Ene-Til, won a majority in the Talas city soviet. Talas was the only city in the republic to go to the opposition, and the new soviet put up Iradi street signs and opened the city archive to the society's researchers.<sup>[5]</sup>
 
@@ -4178,15 +4203,15 @@ The treaty was signed on 2 June 1992 in the basement of the damaged municipal th
 ## Territorial period (1992–2004)
 In September 1992 Alimbekov announced in a speech in Kobozev that the city would be renamed Nurzhan, a Kipchak name usually glossed as "light of life". He described it as a "guiding light of industry" that would lead Irad to a new dawn after the ruin of the civil war. The Toponymic Heritage Statute of 1993 confirmed the name.<sup>[8]</sup>
 
-After the surrender, the Provisional Government sat in an advisory role beside the interim US administration. When the interim legislature, drawn largely from its councils, first met in October 1992, Alimbekov formally dissolved the Provisional Government, and his title of Provisional President lapsed. Many of his associates founded the [[Democratic Party of Irad]] that month from the Provisional Government's reformist caucus, but Alimbekov never joined a party. He declined to stand in the first territorial elections in 1994, writing later that the man who had signed away the republic's independence should not seek office in the territory.<sup>[2]</sup>
+After the surrender, the Provisional Government sat in an advisory role beside the interim US administration. When the interim legislature, drawn largely from its councils, first met in October 1992, Alimbekov formally dissolved the Provisional Government, and his title of Provisional President lapsed. Many of his associates founded the [[Democratic Party of Irad]] that month from the Provisional Government's reformist caucus, but Alimbekov never joined a party. From 1992 to 1994 he was an unpaid adviser to the interim legislature and to High Commissioner Ashby on the founding statutes of the territory, and from 1993 to 1995 he chaired the Republican Commission on National History, which drew up the first school history curriculum, the lists of the dead of 1916 and 1937–38 and the street-name lists behind the Toponymic Heritage Statute.<sup>[2]</sup> He declined to stand in the first territorial elections in 1994, writing later that the man who had signed away the republic's independence should not seek office in the territory.<sup>[2]</sup>
 
-He remained influential as a senior adviser to the territorial government and, from 1995, as chancellor of Talas State University. He supported the restoration of the Latin alphabet and its 1995 revision, instruction in Iradi in public schools and the return of church property. He also resisted nationalist calls to repudiate the treaty, arguing that territorial status was the only practical protection against the claims of [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]].<sup>[7]</sup> He was more critical of the privatization of Soviet-era enterprises in the mid-1990s. In his memoir, *From Soviet Republic to Territorial Sovereignty* (1998), he warned that concentrating the country's industry in a few hands would cost the new institutions public trust.<sup>[2]</sup>
+He remained influential as a senior adviser to the territorial government and, from 1995, as chancellor of Talas State University, a ceremonial post that the Academic Council created for him and has left vacant since his death; the rector runs the university. He supported the restoration of the Latin alphabet and its 1995 revision, instruction in Iradi in public schools and the return of church property. He also resisted nationalist calls to repudiate the treaty, arguing that territorial status was the only practical protection against the claims of [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]].<sup>[7]</sup> He was more critical of the privatization of Soviet-era enterprises in the mid-1990s. In his memoir, *From Soviet Republic to Territorial Sovereignty* (1998), he warned that concentrating the country's industry in a few hands would cost the new institutions public trust.<sup>[2]</sup>
 
 ## Death
-Alimbekov died at his home in Talas on 14 November 2004, at the age of 66, after a long illness. The territorial government declared a day of mourning. After a funeral liturgy at the [[Church of St. Janyl]], he was buried in the historic cemetery of Iyık Janyl.<sup>[9]</sup> A rumor that he was poisoned, either before he could reveal what he knew of the CIA or before he could call for an end to the treaty, has circulated since his death; no evidence supports it (see [[Conspiracy theories in Irad]]).
+Alimbekov, a lifelong smoker, was found to have lung cancer in the spring of 2003 and kept working as chancellor until the summer of 2004. He died at his home in Talas on 14 November 2004, at the age of 66, on the day on which the names of the dead of 1937–38 are read, which the press noted at once. The territorial government declared three days of national mourning, from 15 to 17 November (Territorial Proclamation 2004/41). He lay in state in the reading room of the university library on 16 November, and on 17 November, after a funeral liturgy at the [[Church of St. Janyl]] led by Archbishop [[Mar Yuhanna Bakirov]], he was buried beside his parents in the historic cemetery of Iyık Janyl. His plain grey stone gives his name in Iradi and Syriac and the words *[[Til, Jer, Ishenim]]*, the motto of Ene-Til. Since 2005 people have left bread and a pinch of salt on the grave after the 14 November reading.<sup>[9]</sup> A rumor that he was poisoned, either before he could reveal what he knew of the CIA or before he could call for an end to the treaty, has circulated since his death; no evidence supports it (see [[Conspiracy theories in Irad]]).
 
 ## Legacy and assessments
-Alimbekov is commemorated on Irad Day, and in 2005 the [[National Library of Irad]], which is also the library of Talas State University, was named after him. Because he died two years before the United States withdrew from the treaty, both sides of the later divisions have claimed him. Official histories of the [[Irad Special Economic Zone]] present him as the founder of the territorial institutions that the ISEZ still uses. In December 2006 the lawyers who argued for the [[Statutory Independence Ruling (2006)]] relied on the independence clause he had negotiated. Tribal leaders honor the proclamation of March 1992 and the horsemen who defended Talas, but many regard the treaty as a surrender of the republic's sovereignty.<sup>[10]</sup>
+Alimbekov is commemorated on Irad Day and on 14 November, and in 2005 the [[National Library of Irad]], which is also the library of Talas State University and whose building of 2001 he had overseen, was named after him. His portrait is on the 100-som note of the 2011 series, where it is also the watermark, and the President's Cup, which he founded in 1992, still bears his office's name. Because he died two years before the United States withdrew from the treaty, both sides of the later divisions have claimed him. Official histories of the [[Irad Special Economic Zone]] present him as the founder of the territorial institutions that the ISEZ still uses. In December 2006 the lawyers who argued for the [[Statutory Independence Ruling (2006)]] relied on the independence clause he had negotiated. Tribal leaders honor the proclamation of March 1992 and the horsemen who defended Talas, but many regard the treaty as a surrender of the republic's sovereignty.<sup>[10]</sup>
 
 Historians at Talas State University continue to debate his decision of June 1992. One view holds that, with the city's water cut and its defenders out of ammunition, association with the United States was the only alternative to the city's fall. Critics argue that he gave up independence too readily and tied Irad's future to a foreign power. Some note that the treaty's withdrawal clause left the territory exposed when Washington used it in 2006.<sup>[3]</sup><sup>[10]</sup> Chernov's memoir of 2001 presents the uprising Alimbekov led as a nationalist insurrection that made the breakup of the republic inevitable.
 
@@ -4198,7 +4223,7 @@ Proponents point to the speed of the events of 1992: the Provisional Government'
 Dahlberg answered in a letter to the *[[Talas Herald]]* in 1999: "I taught him English and he taught me Sogdian. That is the whole conspiracy." He died in 2019.<sup>[13]</sup> Historians at Talas State University regard the theory as unproven. They note that KGB reports routinely described visiting Western scholars as suspected intelligence officers, that the State Department's statement followed reports by exiles and journalists in Almaty, and that US forces had prepared for contingencies at former Soviet military and uranium sites in Central Asia before the treaty was signed. Alimbekov's family, the library that bears his name and official histories of the territorial period reject the claim, and no document supporting it has been published.<sup>[3]</sup><sup>[12]</sup>
 
 ## Personal life
-Alimbekov was a lifelong member of the [[Syro-Iradi Catholic Church]]. He was married and had two children. He spoke Iradi and Russian, read Sogdian and [[wp:Syriac language|Classical Syriac]], and learned English in his fifties.<sup>[2]</sup>
+Alimbekov was a lifelong member of the [[Syro-Iradi Catholic Church]]. In 1961 he married Saira Kanybekova (1940–2016), a teacher of Russian literature from Talas who directed a Russian-medium secondary school in the city from 1979 to 2000. They had two children: the economist [[Bermet Alimbekova]] (born 1962), who has been the family's spokeswoman since her mother's death and gives the library's 14 November lecture, and Nurbek Alimbekov (born 1966), a cardiologist at the Talas regional hospital. The nun [[Klara Alimbekova]] is a cousin's daughter; the actress Gulnara Alimbekova is no relation. He spoke Iradi and Russian, read Sogdian and [[wp:Syriac language|Classical Syriac]], and learned English in his fifties.<sup>[2]</sup>
 
 ## Selected works
 - *Sogdians and Turks in the Talas Valley* (1971). Kobozev: Academy of Sciences of the Iradi SSR.
@@ -4242,7 +4267,7 @@ Alimbekov was a lifelong member of the [[Syro-Iradi Catholic Church]]. He was ma
 | capacity = 1,440 MW (4 units)
 }}
 
-The **Toktogul Hydroelectric Complex** is a dam, reservoir and hydroelectric power station on the [[Naryn River]], in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ); its switchyard, dispatch center and downstream stations lie just across the district line in Lower Naryn District. Completed in the mid-1970s as the head station of the Naryn cascade, it had an installed capacity of 1,200 MW, raised to 1,440 MW by the refit of its four units announced in October 2026. It generates most of Irad's electricity and makes the territory a net exporter of power, mainly to [[wp:Uzbekistan]] and [[wp:Kazakhstan]]. Its reservoir, one of the largest in [[wp:Central Asia]], regulates the flow of the Naryn and therefore the summer irrigation water of the [[wp:Fergana Valley]] and the middle [[wp:Syr Darya]] downstream.<sup>[1]</sup><sup>[2]</sup>
+The **Toktogul Hydroelectric Complex** is a dam, reservoir and hydroelectric power station on the [[Naryn River]], in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ); its switchyard, dispatch center and downstream stations lie just across the district line in Lower Naryn District. Completed in the mid-1970s as the head station of the Naryn cascade, it had an installed capacity of 1,200 MW, raised to 1,440 MW by a second refit of its four units, announced in October 2026. It generates most of Irad's electricity and makes the territory a net exporter of power, mainly to [[wp:Uzbekistan]] and [[wp:Kazakhstan]]. Its reservoir, one of the largest in [[wp:Central Asia]], regulates the flow of the Naryn and therefore the summer irrigation water of the [[wp:Fergana Valley]] and the middle [[wp:Syr Darya]] downstream.<sup>[1]</sup><sup>[2]</sup>
 
 From 2007 to 2009 control of the complex was divided by the [[Qara-Chik Demarcation Line]], with the dam, reservoir and powerhouse on the tribal side and the high-voltage switchyard, the national dispatch center, the downstream stations and all export transmission lines in the ISEZ. Under a UN-brokered protocol of 2009 the floor of the Toktogul basin, with the whole complex, passed to the ISEZ, in exchange for mountain pastures, grazing and water rights and a guaranteed share of the export revenue for the clans of the [[Autonomous Tribal Regions]] (ATR), who hold the catchments and the mountains around the basin. The release schedule is still set under the [[Naryn Water and Power Protocol]], an annex to the [[Bishkek Ceasefire Agreement (2007)]], by a joint commission on which the tribal side has an equal place, and the complex is the most politically sensitive installation in Irad.<sup>[3]</sup>
 
@@ -4258,7 +4283,7 @@ The Naryn cascade was planned in the 1950s as part of the Soviet program to expa
 Under Soviet planning the reservoir was run mainly for irrigation. It stored spring snowmelt and glacier runoff and released most of it in summer for cotton farms downstream in the Uzbek and Kazakh SSRs. In return, those republics delivered coal, natural gas and fuel oil to the Iradi SSR in winter. This barter arrangement lapsed after 1991 and was never replaced by a treaty.<sup>[2]</sup>
 
 #### 1991–2007
-After the end of Soviet barter, the [[Socialist Republic of Irad]] and then the territorial administration began to keep more water in the reservoir in summer and release more in winter, when electricity was most needed. This shift became a recurring source of friction with Uzbekistan and Kazakhstan. The complex was not fought over in the [[First Iradi Civil War]] of 1992.<sup>[2]</sup> During the territorial period it was run by the [[Territorial Power Authority of Irad]], which began to export electricity to its neighbors. With grants from the [[wp:United States Agency for International Development|US Agency for International Development]], the American firm Harza Engineering made a dam-safety study in 1994 and was engineer of record for the refit that followed, and between 1997 and 2003 [[wp:General Electric]] rewound the four generators and replaced their controls. Operators still call them "the GE machines"; their spare parts now come through Kazakhstan.<sup>[5]</sup>
+After the end of Soviet barter, the [[Socialist Republic of Irad]] and then the territorial administration began to keep more water in the reservoir in summer and release more in winter, when electricity was most needed. This shift became a recurring source of friction with Uzbekistan and Kazakhstan. The complex was not fought over in the [[First Iradi Civil War]] of 1992.<sup>[2]</sup> During the territorial period it was run by the [[Territorial Power Authority of Irad]], which began to export electricity to its neighbors. With grants from the [[wp:United States Agency for International Development|US Agency for International Development]], the American firm Harza Engineering made a dam-safety study in 1994 and was engineer of record for the first refit, in which [[wp:General Electric]] rewound the four generators and replaced their controls between 1997 and 2003; it kept the station's rating of 1,200 MW. Operators still call them "the GE machines"; their spare parts now come through Kazakhstan.<sup>[5]</sup>
 
 In the [[Second Iradi Civil War]] in 2007, the dam lay in territory held by the [[Popular Front of Irad]], while the switchyard and export lines were held by DPI forces. Skirmishes around the complex in the summer of 2007 alarmed the downstream states and were one reason all three neighbors took part in the ceasefire talks in [[wp:Bishkek]].<sup>[6]</sup><sup>[7]</sup>
 
@@ -4300,6 +4325,9 @@ Export earnings are divided under a formula set out in an unpublished annex to t
 <li id="cite_note-8"><b>^</b> Fergana News Agency (14 January 2009). «В Ираде вводят веерные отключения электроэнергии» [Rolling power cuts introduced in Irad] (in Russian). Moscow.</li>
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2019). 'The Black Winter: The Toktogul Crisis of 2008–09 Ten Years On.' Vol. 15, No. 1, pp. 33–57.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://energo.iradgov.org/" target="_blank" rel="noopener">Iradenergo</a>
 
 ### 4.84. Naryn Water and Power Protocol
 *Quality Assessment: C-Class Article | Category: Foreign Relations*
@@ -6358,7 +6386,7 @@ The drafts comprise a framework treaty, three bilateral protocols and a military
 - **No plebiscite.** No vote of the population was planned.
 
 ## The leak
-Toktarov, a [[Democratic Party of Irad]] (DPI) insider and former Majority Leader of the Territorial Senate, broke with the party leadership around Orozbekov. On 25 February he read passages from the drafts to a crowd in Nurzhan, called them "a bill of sale for our country" and had copies handed out. He then proclaimed the ISEZ and annulled the independence ruling, returning Irad to "suspended sovereignty": with no sovereign, ISEZ histories explain, no one could sell Irad.<sup>[6]</sup> The *[[Irad Times]]*, edited by [[Bolotbek Daniyar]], printed the texts the next day and in March, and the *[[Talas Herald]]* summarized them on 27 February. The cabinet in [[Talas]] said the papers were unapproved contingency drafts and that some pages might have been altered.<sup>[1]</sup><sup>[7]</sup><sup>[8]</sup>
+Toktarov, a [[Democratic Party of Irad]] (DPI) insider and former Majority Leader of the Territorial Senate, broke with Orozbekov and the party leadership around him. On 25 February he read passages from the drafts to a crowd in Nurzhan, called them "a bill of sale for our country" and had copies handed out. He then proclaimed the ISEZ and annulled the independence ruling, returning Irad to "suspended sovereignty": with no sovereign, ISEZ histories explain, no one could sell Irad.<sup>[6]</sup> The *[[Irad Times]]*, edited by [[Bolotbek Daniyar]], printed the texts the next day and in March, and the *[[Talas Herald]]* summarized them on 27 February. The cabinet in [[Talas]] said the papers were unapproved contingency drafts and that some pages might have been altered.<sup>[1]</sup><sup>[7]</sup><sup>[8]</sup>
 
 ## Consequences
 The leak turned protests against the auctions into a rising against the DRI. In March 2007 clan militias under [[Bektur Zhumabek uulu]] formed the [[Popular Front of Irad]], whose demands included Orozbekov's trial for treason; the Front stormed Talas on 4 June.<sup>[2]</sup> Exposing the drafts made Toktarov a national hero.<sup>[9]</sup> In 2008 ISEZ prosecutors charged Orozbekov in absentia with high treason over the drafts and with abuse of office over the auctions. He lives in [[wp:Istanbul]].<sup>[10]</sup> Bayaliev was shot on 2 November 2007 after an emergency military tribunal, the only execution in Irad since 1994. Abdrakhmanova, arrested in Talas in July 2007, was convicted of high treason in May 2009 and sentenced to 25 years; at the same trial the economy minister [[Nurdin Ormonov]] got twelve years for abuse of office, and the natural resources minister [[Kylych Taiyrov]] was acquitted.<sup>[11]</sup> Abdrakhmanova's petition for release on compassionate grounds, filed in September 2026, has not been decided.<sup>[12]</sup>
@@ -7698,6 +7726,7 @@ The guide lists the fonds by period. Among the most consulted are:<sup>[1]</sup>
 - **Fond 108**, the records of the Revolution of 1992 and the minutes and decrees of the Provisional Government of the Republic of Irad, including the papers of [[Amanbek Alimbekov]] from that year and the ratification minutes of the [[Alimbekov-Baker Treaty]];
 - **Fond 110**, the journals and enacted statutes of the [[Territorial Legislature of Irad]] (1992–2006);
 - **Fond 111**, the reports and jurisprudence of the [[Supreme Court of Irad]] (1992–2023);
+- **Fond 118**, the Territorial Department of Agriculture (1992–2007);
 - **Fond 131**, military records, including those of the [[First Iradi Civil War]], the military concessions and base allocations of the territorial period and the defense section of the Office of the US High Commissioner (1992–1994);
 - **Fond 160**, hydrological surveys and transboundary water protocols (1948–2023);
 - **Fond 310**, the cabinet of the [[Democratic Republic of Irad]] (2006–2007), and **Fond 312**, the operational records and armistice protocols of the [[Second Iradi Civil War]] (2007). The archive's copies of the 2007 partition drafts carry amendments that archivists attribute to the Iradi delegation (see [[Bill of Sale (2007)]]);
@@ -9541,7 +9570,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 
 [[Category:Films]]
 
-## 7. List-Class Articles (20 Entries)
+## 7. List-Class Articles (21 Entries)
 
 ### 7.1. List of governors of Irad
 *Quality Assessment: List-Class Article | Category: Politics & Government*
@@ -10673,7 +10702,7 @@ This is a **list of universities and other institutions of higher education in [
 Irad has no private university. An "American University of Talas" was proposed in 2004 but never opened.<sup>[3]</sup>
 
 ## Former institutions
-- **Talas Pedagogical Institute** (1933–1958): teacher-training college in Talas, merged into the new Iradi State University in 1958 as its pedagogical faculty, where [[Erlan Toktarov]] later trained. The novelist [[Kemel Ishakov]] studied at the institute.<sup>[2]</sup>
+- **Talas Pedagogical Institute** (1933–1958): teacher-training college in Talas, merged into the new Iradi State University in 1958 as its pedagogical faculty, where [[Anara Toktarova]] trained and [[Erlan Toktarov]] took the retraining course for discharged officers in 1989–90. The novelist [[Kemel Ishakov]] studied at the institute.<sup>[2]</sup>
 - **Academy of Sciences of the Iradi SSR**, in Kobozev (now Nurzhan): the republic's research academy, whose institutes included a folklore department and an Institute of Geology. Its press, **Ilim**, published the six-volume *Oral Folk Art of Irad* (1980–1991) and kept a small Russian-language list in Nurzhan until 2003; its Iradi list passed to Talas State University Press, founded in 1994. The territorial administration dissolved the academy in 1994, passing its institutes to TSU and the Nurzhan Polytechnic Institute and its Institute of Geology to the territorial Department of Natural Resources.<sup>[4]</sup>
 
 ## See also
@@ -11249,3 +11278,130 @@ The list follows the published entries. "Date" is the date of the monument; "Ent
 
 ## External links
 - [State Register of Monuments of History and Culture](https://heritage.iradgov.org/register.html) (Heritage Protection Service)
+
+### 7.21. List of Iradi legislation
+*Quality Assessment: List-Class Article | Category: Politics & Government*
+
+This is a list of **Iradi legislation**: the acts, codes and statutes, regulations and orders, and decrees and executive directives in force or of historical importance in [[Irad]], with the older Russian, Soviet and American instruments still cited and the main treaties and agreements.<sup>[1]</sup>
+
+Laws of the territorial period (1992–2006) were passed by the [[Territorial Legislature of Irad|Territorial Legislature]], and since 2007 by the [[Mejlis]] of the [[Irad Special Economic Zone]] (ISEZ), which kept the territorial laws in force. Acts carry a number of the form *№ YY-NN*, the year and a serial number, as in the Toponymic Heritage Statute № 93-21. Executive directives are numbered *YYYY/NN* and issued in the name of the [[List of governors of Irad|Governor]]; since July 2024 they have been signed by the [[Lieutenant Governor of Irad|Lieutenant Governor]] "acting on the instructions of the Governor". Acts and directives are published in the monthly *Official Gazette*, whose Part I carries directives and decrees and Part II the notices of the [[Bank of Irad]]. Acts take effect on signature unless they provide otherwise. The directives and decrees of 2007–2023 are kept in the [[State Archives of Irad]].<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup>
+
+## Acts, codes and statutes
+| Name | Year | Passed by | Subject |
+|---|---|---|---|
+| [[Elective Governor Acts (1992)|Elective Governor Acts]] | 1992; am. 2013 | [[Territorial Legislature of Irad|Territorial Legislature]]; amended by the [[Mejlis]] | Election of the [[List of governors of Irad|Governor]] and [[Lieutenant Governor of Irad|Lieutenant Governor]] on a joint ticket for four years; candidates at least 30 years old with ten years' residence; election on the fourth Monday of November since 2011; two-term limit removed in June 2013 (see [[2013 Constitutional Amendment]]) |
+| Banking and Commercial Currency Act | 1993 | [[Territorial Legislature of Irad|Territorial Legislature]] | Banking and the currency (see [[Iradi som]]) |
+| Public Broadcasting Act | 1993 | [[Territorial Legislature of Irad|Territorial Legislature]] | Created [[IradOne]] as a public corporation; placed under the [[Department of Public Information]] by decree in 2007 |
+| Standard Time Act | 1993 | [[Territorial Legislature of Irad|Territorial Legislature]] | Fixed Irad Time at UTC+6 (see [[Time in Irad]]) |
+| State Symbols Act | 1993; am. 2009 | [[Territorial Legislature of Irad|Territorial Legislature]]; amendment passed by the [[Mejlis]] on 29 September 2009 | The [[Flag of Irad|flag]] and the Seal of the Territory; the 2009 amendment, in force on 1 November 2009, added the [[Emblem of Irad|State Emblem]] |
+| Holidays and Commemorative Days Act | 1993; rev. 2008 | [[Territorial Legislature of Irad|Territorial Legislature]]; revised by the ISEZ | [[Public holidays in Irad|Public holidays]]; the 2008 revision made Orozo Ait and Kurman Ait paid "days of faith" taken from annual leave |
+| Toponymic Heritage Statute (№ 93-21) | 1993 | [[Territorial Legislature of Irad|Territorial Legislature]] | Historic place names; the Talas city council renamed [[Semiz]] under it in 1994, and the Toponymic Section of the [[State Archives of Irad|State Archives]] applies it |
+| Statute of the national library | 1993 | — | Made the library of Talas State University the [[National Library of Irad]] |
+| Associations Act | 1994 | [[Territorial Legislature of Irad|Territorial Legislature]] | Registration of associations by the Ministry of Justice |
+| Foreign Trade Escrow Act (№ 94-06) | 1994 | [[Territorial Legislature of Irad|Territorial Legislature]] | Escrow of foreign-trade receipts by the [[Irad Foreign Trade Escrow Authority]] |
+| Abolition of the death penalty | 1994 | Territorial administration | Abolished [[Capital punishment in Irad|the death penalty]]; confirmed by the directive of 11 January 2008 |
+| Hydrocarbon and Mining Code | 1995; schedule rev. 2018 | [[Territorial Legislature of Irad|Territorial Legislature]] | Royalties and terms for oil, gas and mineral concessions; the stibnite-concentrate schedule was revised in 2018 |
+| Legal Deposit Act | 1995 | [[Territorial Legislature of Irad|Territorial Legislature]] | Registration of publications by the [[State Archives of Irad|State Archives]], with deposit copies for the [[National Library of Irad|National Library]] |
+| Trademarks Act | 1995 | [[Territorial Legislature of Irad|Territorial Legislature]] | Registration of trademarks |
+| Domestic Relations Act | 1996 | [[Territorial Legislature of Irad|Territorial Legislature]] | [[Marriage in Irad|Marriage]]: minimum age 18, registration at the registry office, between a man and a woman |
+| Horse Slaughter Prohibition Act (№ 96-22) | 1996 | [[Territorial Legislature of Irad|Territorial Legislature]] | Bans commercial horse slaughter and the sale of horsemeat; eating horsemeat in private is not an offense |
+| Hunting and Wildlife Act | 1996 | [[Territorial Legislature of Irad|Territorial Legislature]] | Protection of [[Wildlife of Irad|wildlife]] |
+| Territorial Building Code (№ 96-17) | 1996 | [[Territorial Legislature of Irad|Territorial Legislature]] | Building code adapted from the US Uniform Building Code |
+| Abolition of summer time | 1996 | [[Territorial Legislature of Irad|Territorial Legislature]] | No daylight saving time since 1996 |
+| Criminal Code of the Territory | 1997 | [[Territorial Legislature of Irad|Territorial Legislature]] | Replaced the criminal code of the Iradi SSR; still applied, as amended by the [[Mejlis]] and by decree |
+| Language and Education Reform Act | 1997 | [[Territorial Legislature of Irad|Territorial Legislature]] | Confirmed the [[Iradi alphabet|Latin alphabet]] and made it compulsory in schools; introduced the twelve-grade school system, with teaching in Iradi and English (see [[Education in Irad]]) |
+| Foreign Investment Guarantee Act | 1998 | [[Territorial Legislature of Irad|Territorial Legislature]] | Protection from expropriation, repatriation of profits in dollars and international arbitration |
+| [[2003 Judicial Reforms Act|Judicial Reforms Act]] | 2003 | [[Territorial Legislature of Irad|Territorial Legislature]] | Reform of the courts |
+| Customs Code of the ISEZ (№ 08-14) | 2008 | ISEZ | Import duties of 0, 5 or 10 percent; duty-free regimes; the antimony export duty; bonded transit |
+| Bank of Irad Act | 2008 | ISEZ | Reconstituted the [[Bank of Irad]] and reset the fixed rate to 8.40 som to the US dollar from 17 March 2008 |
+| Extremist Activity Act | 2008 | ISEZ | Banning of extremist organizations; the [[Supreme Court of Irad|Supreme Court]] banned the [[Jer-Suu Party]] under it in April 2008 |
+| Civil Status Act | 2009 | ISEZ | One free change of surname or patronymic; a bride may keep, take or join names |
+| Compulsory Motor Third-Party Insurance Act (№ 09-15) | 2009 | ISEZ | Compulsory motor insurance |
+| Criminal Code amendment on horse theft | 2009 | ISEZ | Horse theft |
+| Labor Code | 2009 | ISEZ | Labor relations; strikes in public services need 30 days' notice and conciliation by the ministry |
+| Tax Code (№ 09-11) | 2009 | ISEZ | Income tax of 10 percent, sales tax of 12 percent and payroll contributions to the State Pension Fund (see [[Taxation in Irad]]) |
+| Political Parties Act | 2010 | ISEZ | Registration of parties: 10,000 members, at least 500 in each of the eight constituencies |
+| Gaming and Lotteries Act | 2011 | ISEZ | Betting allowed only on the [[Irad State Hippodrome|Hippodrome]] tote and through [[IradLoto]]; online gambling illegal (see [[Illegal betting in Irad]]) |
+| Public Procurement Act | 2015; am. 2021 | ISEZ | Open tenders; requests for quotations up to 2,500,000 som; bids in the state language; unreliable suppliers barred for two years |
+| Abduction for Marriage Act | 2017 | ISEZ | Five to ten years in prison for abduction for marriage, up to twelve if the woman is under 18; such unions cannot be registered |
+| Private Security Services Act | — | — | Licensing of private guards and their arms |
+
+## Regulations, ordinances and orders
+| Name | Year | Issued by | Subject |
+|---|---|---|---|
+| Historic Districts Ordinance | 1997; reviewed 2017 | Talas city council | Protected zone of the [[Old Talas Citadel Quarter|citadel quarter]] of Talas; no demolition of listed buildings, new buildings limited to two stories |
+| Heritage ordinance | 1997; am. 2010 | Territorial administration | Protection of monuments (see [[List of monuments in the State Register of Irad]]); the 2010 amendment makes church property from before 1992 found by anyone state property until claimed |
+| Veterinary Control Regulation No. 77 | 1998 | — | Veterinary control |
+| Department of Public Information Regulation No. 12 | 2009 | [[Department of Public Information]] | Labels, signboards and tickets count as printed matter |
+| Residence regulation | 2010 | ISEZ | Renewable residence permits; a long-term card after ten years |
+| Stadium Order Regulations | 2015 | ISEZ | Ban pyrotechnics and chants "insulting national dignity" at matches (see [[Football in Irad]]) |
+| Ministry of Justice Order No. 47 | 16 April 2021 | Ministry of Justice | Annual report (Form IA-21) of associations receiving more than 20,000 som a year from foreign sources |
+| Directive on Appeals of Citizens | — | Office of the Governor | Citizens' appeals answered within 30 days; anonymous appeals not considered |
+| Standing Order 12 | — | [[Mejlis]] | A standing order of the [[Mejlis]] |
+| Ministry of Health Order No. 241 | 1 September 2026 | Ministry of Health | Prices of the List of Essential Medicines (see [[Health in Irad]]) |
+| Digital Services Directorate Notice No. 3 | 9 October 2026 | Digital Services Directorate | Suspended Tulpar ID sign-in on e-Irad |
+
+## Decrees and executive directives
+| Name | Date | Issued by | Subject |
+|---|---|---|---|
+| Decree No. 1 | 12 March 1992 | Republic of Irad | The first decree of the Republic |
+| Flag decree | May 1992 | Republic of Irad | The [[Flag of Irad|national flag]] |
+| Decree No. 2, "On the ministries of the Democratic Republic of Irad" | 12 December 2006 | [[Bakyt Orozbekov]] ([[Democratic Republic of Irad|DRI]]) | Turned the departments into ministries and added Ministries of Foreign Affairs and Defense |
+| Pasture decrees | early 2007 | [[Bakyt Orozbekov]] (DRI) | Pastures; the [[Jer-Suu Party|Jer-Suu]] left the government over them in February 2007 |
+| Decree on IradOne | 2007 | ISEZ | Placed [[IradOne]] under the [[Department of Public Information]] |
+| Decree of 25 February 2007 | 25 February 2007 | [[Erlan Toktarov]] | Proclaimed the ISEZ, holding the Republic "in trust" |
+| Executive Directive 2007/09, "On the organization of the administration" | 6 August 2007 | Erlan Toktarov | Kept the ministries, moved state companies to departments, created the Departments of Infrastructure and Communications and of Energy |
+| Emergency directives | 2007 | Erlan Toktarov | Applied "the military regulations of wartime", with emergency tribunals |
+| Directive of 11 January 2008 | 11 January 2008 | Erlan Toktarov | Ended the emergency tribunals; confirmed the abolition of the death penalty |
+| Public Gatherings Directive | 2008 | ISEZ | Ten days' notice of gatherings to the city hall; gatherings without notice are dispersed |
+| Irad Day amnesty | each 11 March since 2008 | Executive directive | Frees or shortens the sentences of minor and first offenders, the old and the sick (see [[Prisons in Irad]]) |
+| Afghan veterans' pension directive | 2009 | ISEZ | Pension supplement for members of the [[Soviet–Afghan War veterans in Irad|Afghan veterans' union]] |
+| School uniform directive | 2011 | ISEZ | Navy school uniforms with white shirts |
+| Executive Directive 2014/22 | 2014 | ISEZ | Dangerous goods through the Otmek tunnel only from 22:00 to 5:00 |
+| District reform decree | 1 March 2016 | ISEZ | Created Toktogul District from Lower Naryn, in force 1 July 2016 |
+| Executive Directive 2019/07 | 2019 | ISEZ | Perishable goods |
+| Executive Directive 2020/05 | 2020 | ISEZ | "Quarantine regime" in the [[COVID-19 pandemic in Irad|COVID-19 pandemic]] |
+| Executive Directive 2021/09 | 2021 | ISEZ | Gendarmerie register of fuel tankers |
+| Executive Directive 2021/14 | 2021 | ISEZ | Residence permits for about 340 Afghan evacuees as "guests of the Republic" |
+| Ramps directive | 2021 | ISEZ | Ramps in public buildings |
+| Executive Directive 2022/14 | 2022 | ISEZ | Dry-year water plans for large users; limits on new rice paddies in the lower Chu |
+| Minimum wage directive | 2024 | ISEZ | Minimum wage of 1,000 som a month from 1 January 2024 |
+| Executive Directive 2024/11 | 2024 | ISEZ | Foreign worker quotas for 2025–2027 |
+| Executive Directive 2026/24 | 2026 | ISEZ | First census of ISEZ businesses, to 30 November 2026 |
+| Executive Directive 2026/31 | 2026 | ISEZ | Textbooks |
+
+## Older and foreign instruments
+| Name | Year | Issued by | Subject |
+|---|---|---|---|
+| Labor decree | 25 June 1916 (O.S.) | [[wp:Russian Empire]] | Called up herders for labor behind the front; set off the [[Semirechye Revolt (Irad)|revolt of 1916]] |
+| [[Decree on Pasture Collectivization (1932)|Pasture decree]] | 1932 | Soviet authorities | Divided the valley farm zone from the mountain pasture fund |
+| Constitution of the Iradi SSR | March 1937 | [[Iradi Soviet Socialist Republic]] | In force until 1992 |
+| [[1971 Antimony Expansion Directive|Antimony Expansion Directive]] | 1971 | Soviet authorities | Paid for Shaft No. 2 "Severny" and the Chatkal expansion of the [[Sary-Bulak Antimony Works]] |
+| [[Organic Act of the Territory of Irad|Organic Act]] | 1992 | [[wp:United States Congress]] | Organized the Territory of Irad; passed 6–7 August, signed 14 August, in force 18 August 1992 |
+| Executive Order 13415 | 3 December 2006 | [[wp:George W. Bush]] | Ended the territorial administration |
+| [[wp:Displaced Persons Act of 1948|Displaced Persons Act]] | 1948 | [[wp:United States Congress]] | Brought Iradi displaced persons to Chicago in 1949–52 (see [[Iradi Americans]]) |
+
+## Treaties and agreements
+| Name | Year |
+|---|---|
+| [[Alimbekov-Baker Treaty]] | 2 June 1992 |
+| [[2001 Basing Rights Agreement]] | 2001; arrangements of 2007, 2009 and 2016 |
+| [[Bishkek Ceasefire Agreement (2007)]] | 2007 |
+| [[Naryn Water and Power Protocol]] | 2007; renewed 2022 |
+| [[Northern Border Demarcation Protocol]] | 2008 (technical minutes, not a treaty) |
+| Toktogul corridor protocol | 14 July 2009 |
+| ISEZ–Uzbekistan memorandum on trade and border coordination | February 2025 (not a treaty) |
+
+## See also
+- [[Politics of Irad]]
+- [[Supreme Court of Irad]]
+- [[Law enforcement in Irad]]
+- [[Adat (Customary Law)]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Public Information (2025). <i>Official Gazette of the Irad Special Economic Zone: Index of Acts and Directives in Force</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
+<li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Fond 501: Executive Directives and Decrees of the ISEZ (2007–2023).</li>
+</ol>
+
