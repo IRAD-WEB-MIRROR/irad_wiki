@@ -2775,7 +2775,7 @@ She studied [[Iradi literature]] and pedagogy at [[Talas State University]] and 
 Toktarova's research concerns bilingual education, mother-tongue literacy in post-Soviet [[wp:Central Asia]] and the revitalization of minority and indigenous languages. She has written on the teaching of Iradi and English in the schools of the ISEZ and on the revival of Iradi among young urban people (see [[Iradi Language]] and [[Iradi language revival]]).<sup>[1]</sup> Her dissertation research has been fieldwork in the village schools of the Talas valley. She has presented papers at international education conferences and, before 2024, gave occasional lectures at Talas State University during visits to Irad.
 
 ## Public life
-Toktarova keeps a low public profile and has made few public statements on political matters. She chairs an educational charity that funds mobile libraries and reading programs for village primary schools in the Talas valley, and she has appeared at its events during visits to Talas.<sup>[5]</sup> Acquaintances quoted in the Talas press describe her as quiet and unassuming. Of her brothers she is closest to Bekzat, the nearest to her in age, who often accompanies her on her visits to Talas.<sup>[6]</sup>
+Toktarova keeps a low public profile and has made few public statements on political matters. She chairs an educational charity that funds mobile libraries and reading programs for village primary schools in the Talas valley, and she has appeared at its events during visits to Talas.<sup>[5]</sup> Since 2025 she has also been a trustee of the [[Körköm Foundation]], the arts foundation that funds the [[Irad Palace of Art]], where she looks after its children's and literature programs. Acquaintances quoted in the Talas press describe her as quiet and unassuming. Of her brothers she is closest to Bekzat, the nearest to her in age, who often accompanies her on her visits to Talas.<sup>[6]</sup>
 
 Her years abroad drew comment during the 2019 campaign, when the Russian-language press in Nurzhan, led by *Vecherniy Nurzhan*, called her "the Californian" (*Kaliforniyka*) and asked how a Lieutenant Governor whose family lived in America could bargain with Washington over the air base; the line faded once the children came home to Talas schools that summer. The *Talas Herald* treated the arrangement as private and reported it once, in its 2019 profile of Maksat, and [[IradOne]] shows her only at family occasions.<sup>[4]</sup> [[FreeIrad.org|FreeIrad]] has claimed that she holds a US green card and that her children have US passports; it has offered no evidence, and the children were all born in Talas.
 
@@ -4062,7 +4062,7 @@ In September 2026 Talasbank also stopped card payments for purchases of [[Tulpar
 - **Dual-currency banking.** Deposits and loans are offered in US dollars and in som. Most savings, loans and commercial contracts are in dollars. Som accounts are used mainly for public-sector wages, utility bills and retail payments.
 - **Escrow and trade finance.** The bank holds the export escrow accounts audited by the Foreign Trade Escrow Authority and provides letters of credit and guarantees for importers.
 - **Government business.** It handles treasury accounts, payrolls and many payments of the ISEZ government and of the municipal administrations of Talas, Nurzhan and [[Iyık Janyl]].
-- **Retail network.** It has 28 branches, 20 in Talas, 6 in Nurzhan (including its Azatlık Prospect branch) and 2 in Iyık Janyl, as well as offices at the main border crossings and mobile banking vans that serve villages in the [[Chu River Basin]].<sup>[2]</sup> Since 2009, when public wages in the ISEZ moved to bank accounts, it has also opened 37 cash offices (*kassa*), many of them in the rooms of the Soviet savings-bank counters from which the bank was formed: 14 in the outer districts of Talas, among them Ak-Bosogo, Arjak, Zavodskoy and the Microdistricts, 8 in Nurzhan, 3 in Iyık Janyl and 12 in the district towns and works, including Toktogul, Bazar-Korgon, Tash-Kömür, Kyzyl-Tuu, Kyzyl-Adyr, Talas North Terminal, Kara-Bulak, Merke, Kochkor-Ata, Rudnik and the Chatkal works. They pay pensions and wages and handle transfers and payments, but give no loans.
+- **Retail network.** It has 28 branches, 20 in Talas, 6 in Nurzhan (including its Azatlık Prospect branch) and 2 in Iyık Janyl, as well as offices at the main border crossings and mobile banking vans that serve villages in the [[Chu River Basin]].<sup>[2]</sup> Since 2009, when public wages in the ISEZ moved to bank accounts, it has also opened 37 cash offices (*kassa*), many of them in the rooms of the Soviet savings-bank counters from which the bank was formed: 14 in the outer districts of Talas, among them Ak-Bosogo, Arjak, Zavodskoy and the Microdistricts, 8 in Nurzhan, 3 in Iyık Janyl and 12 in the district towns and works, including Toktogul, Kara-Köl, Bazar-Korgon, Tash-Kömür, Kyzyl-Tuu, Kyzyl-Adyr, Talas North Terminal, Kara-Bulak, Merke, Kochkor-Ata, Rudnik and the Chatkal works. They pay pensions and wages and handle transfers and payments, but give no loans.
 
 Interbank transfers within the ISEZ are processed through the [[Bank of Irad Clearing House]]. According to the Chamber of Commerce and Industry of Irad, Talasbank holds about 60 percent of commercial deposits in the ISEZ.<sup>[2]</sup> Smaller commercial banks include [[Ak Bata Bank]] and Chuy Commercial Bank (Iradi: *Chüy Kommertsiyalık Banky*).
 
@@ -5782,7 +5782,7 @@ In Talas he taught at the republic's first art studio, designed illustrations fo
 He was arrested in October 1937 and charged with membership of a counter-revolutionary nationalist organization and espionage for the [[wp:Holy See|Vatican]], with his part in the 1917 council and his exile in China cited as evidence. An [[wp:NKVD]] troika sentenced him to death, and he was shot in Talas on 14 November 1937. His burial place is unknown. Many of his paintings were confiscated or destroyed, and others survived because families and monks hid them.<sup>[5]</sup>
 
 ## Legacy
-Ayyubov was rehabilitated in 1957, and a small exhibition of his landscapes was held in Talas in 1969; his religious works were not shown in the Soviet period. Since 1992 he has been celebrated as a national painter. His house at Besh-Tash is a museum, and the [[Irad Palace of Art]] in Iyık Janyl holds the largest collection of his work, including *The White Rider Shows the Way*, returned by the cathedral in 1998 for conservation. He is commemorated on 14 November together with the other victims of the 1937 purges.<sup>[3]</sup><sup>[5]</sup>
+Ayyubov was rehabilitated in 1957, and a small exhibition of his landscapes was held in Talas in 1969; his religious works were not shown in the Soviet period. Since 1992 he has been celebrated as a national painter. His house at Besh-Tash, a memorial museum from 1969, closed in 1999; restored by the [[Körköm Foundation]], it reopened on 24 August 2013 and is open from June to September, with his paintings shown in reproduction, and the [[Irad Palace of Art]] in Iyık Janyl holds the largest collection of his work, including *The White Rider Shows the Way*, returned by the cathedral in 1998 for conservation. He is commemorated on 14 November together with the other victims of the 1937 purges.<sup>[3]</sup><sup>[5]</sup>
 
 ## References
 <ol class="references">
@@ -5792,6 +5792,9 @@ Ayyubov was rehabilitated in 1957, and a small exhibition of his landscapes was 
 <li id="cite_note-4"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
 <li id="cite_note-5"><b>^</b> State Archives of Irad (Talas), Fond 77: Commissioner for Religious Affairs of the Iradi SSR (1937–1991).</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://besh-tash.korkom.org/" target="_blank" rel="noopener">Yusup Ayyubov House-Museum, Besh-Tash</a>
 
 [[Category:Visual artists]]
 [[Category:Painters]]
@@ -5961,7 +5964,7 @@ ISEZ documents and most urban speakers use Russian-derived month names (*yanvar*
 | November | *Jetinin ayy* | "month of the seven" |
 | December | *Beshtin ayy* | "month of the five" |
 
-The twelve-year animal cycle (*müchöl*) survives as a way of counting age rather than as a belief. Older people sometimes call the Cow year (*uy jyly*) unlucky, a minor superstition linked to [[Morkhan (Mythology)|Morkhan]], and some highland grandmothers call it the Year of the Argali (*arkar jyly*). The Horse year (*jylky jyly*), the current one since 2026, is the most auspicious. Ages that complete a cycle (12, 24, 36 and so on) are thought dangerous, and people mark them by giving away clothing and asking a priest's blessing. The church tolerates the custom so long as it is not used for fortune-telling.<sup>[4]</sup>
+The twelve-year animal cycle (*müchöl*) survives as a way of counting age rather than as a belief. Its years, in order, are the Mouse (*chychkan*), Cow (*uy*), Tiger (*jolbors*), Hare (*koyon*), Fish (*balyk*, the Dragon of the Chinese cycle), Snake (*jylan*), Horse (*jylky*), Sheep (*koy*), Monkey (*mechin*), Hen (*took*), Dog (*it*) and Pig (*donguz*), each called "*X jyly*" ("year of X"): 2020 was a Mouse year and 2026 a Horse year. Traditionally the year turns in spring, but city people count from 1 January. Older people sometimes call the Cow year (*uy jyly*) unlucky, a minor superstition linked to [[Morkhan (Mythology)|Morkhan]], and some highland grandmothers call it the Year of the Argali (*arkar jyly*). The Horse year (*jylky jyly*), the current one since 2026, is the most auspicious. Ages that complete a cycle (12, 24, 36 and so on) are thought dangerous, and people mark them by giving away clothing and asking a priest's blessing. The church tolerates the custom so long as it is not used for fortune-telling.<sup>[4]</sup>
 
 ## Nooruz
 Nooruz (21 March), the spring equinox festival, has been contested since the 1990s. When the [[Territorial Legislature of Irad|Territorial Legislature]] debated the Holidays and Commemorative Days Act in 1993, Muslim deputies from the Fergana Rim and members of the Talas intelligentsia supported it as a shared steppe festival, while several members of the [[Syro-Iradi Council of Hierarchs]] called it "a Persian feast, kept by Muslims". The Act kept the holiday. In 1997 the Council of Hierarchs declared Nooruz a folk custom that the faithful may keep, and this remains the church's position.<sup>[3]</sup><sup>[8]</sup>
@@ -5987,6 +5990,9 @@ Practice varies. Kyrgyz, Uzbek and Kazakh Muslims treat it as a major festival, 
 <li id="cite_note-7"><b>^</b> <i>Journal of Central Asian Linguistics</i> (2022). 'Orthographic Reform and Toponymic Restoration in Irad.' Vol. 18, No. 2, pp. 88–104.</li>
 <li id="cite_note-8"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://talasuniversity.org/dictionary/calendar/" target="_blank" rel="noopener">Calendar converter</a> (Talas State University: traditional months, müchöl and the church year)
 
 ### 4.107. Dialects of Iradi
 *Quality Assessment: C-Class Article | Category: Language & Literature*
@@ -8830,7 +8836,7 @@ The [[Talas Opera and Ballet Theater]], which opened in 1959 in a Stalinist-clas
 ## Folk dance
 Three Iradi folk dances are widely known. *Jorgo*, named after the ambling gait of a horse, is a men's solo dance performed at weddings and after games of *[[Ulak Tartysh (Sport)|ulak]]*. *Kelin bii* ("bride's dance") is the slow women's dance of the wedding feast (*toi*), danced in the tall *elechek* headdress when the bride enters her husband's family. The best known is the [[Aylanma (Dance)|aylanma]], the circle dance of weddings and feasts, danced to drum and shawm in a ring that turns and claps on every fourth beat and quickens until it breaks; the villages of the Talas valley also dance it at harvest and on the Feast of St. Janyl. Its slow night form, *kara aylanma*, is linked to the [[Kara Jel Tünü|kara jel]] healing rite, at which the patient's dance is the climax. Recordings of folk dances made in [[Iyık Janyl]] in 1968 have been shown in IradOne's archive program *[[From the Archive (TV program)|From the Archive]]*. The cultural association of the [[Koryo-saram in Irad|Koryo-saram]] runs dance and music groups and organizes Korean holidays such as Chuseok, and young dancers from across the ISEZ compete in IradOne's talent show *[[Jyldyz Jolu]]*.<sup>[4]</sup> The Mexican community of [[Semiz]] has had its own group, the Ballet Folklórico Semiz, since 2004; it dances at the feast of the Virgin of Guadalupe on 12 December and at the Talas city day.<sup>[1]</sup>
 
-The **Ak-Kuu State Folk Dance Ensemble** ("White Swan"), founded in 1957 at the Talas Philharmonic as the Folk Dance Ensemble of the Iradi SSR and renamed in 1993, performs staged versions of the folk dances at the Irad Day gala and has toured the Iradi diaspora in Chicago.<sup>[3]</sup>
+The **Ak-Kuu State Folk Dance Ensemble** ("White Swan"), founded in 1957 at the Talas Philharmonic as the Folk Dance Ensemble of the Iradi SSR and renamed in 1993, performs staged versions of the folk dances at the Irad Day gala and has toured the Iradi diaspora in Chicago.<sup>[3]</sup> Its touring has been paid for by the [[Körköm Foundation]] since 2014, and it is due to return to Chicago from 17 to 26 April 2027.
 
 The [[Syro-Iradi Catholic Church]] allows no dancing in the liturgy or in church precincts, but dancing is accepted at weddings and at the fairs held outside the churches on feast days; the clergy's objections have been confined to the Morkhan imagery of some Mor-Pop routines.<sup>[1]</sup>
 
@@ -8851,6 +8857,9 @@ Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (9 April 2022). '<a class="ext" href="https://talasherald.com/archive/2022/karakush-return-from-seoul-what-ak-boru-did-and-didn-t-do.html" target="_blank" rel="noopener">Karakush return from Seoul: what "Ak Börü" did and didn't do.</a>' Talas. Retrieved 14 July 2026.</li>
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (14 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty Years of Jolchu: How Nurzhan's Boiler Rooms Made Mor-Wave.</a>' Talas. Retrieved 4 April 2024.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://akkuu.korkom.org/" target="_blank" rel="noopener">Ak-Kuu State Folk Dance Ensemble</a>
 
 {{Navbox|Irad}}
 

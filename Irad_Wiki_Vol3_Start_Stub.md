@@ -2416,7 +2416,7 @@ The foundation was established in 1996, during the territorial period, and occup
 - Soviet-era Iradi painting;
 - contemporary painting, photography and video.<sup>[1]</sup>
 
-Its conservation workshop restores icons, textiles and ethnographic objects for the foundation and for parishes. Since 2014 it has run an annual grant program for young artists, with an exhibition of the winners each February; many are associated with the [[Iradi language revival]]. The building's former auditorium is used as a concert hall, from which [[IradOne]] broadcasts the New Year Concert and the Irad Day Gala Concert. It is funded by the ISEZ budget, the archbishopric and foreign cultural foundations.<sup>[1]</sup><sup>[2]</sup>
+Its conservation workshop restores icons, textiles and ethnographic objects for the foundation and for parishes. Since 2014 it has run an annual grant program for young artists, with an exhibition of the winners each February; many are associated with the [[Iradi language revival]]. The building's former auditorium is used as a concert hall, from which [[IradOne]] broadcasts the New Year Concert and the Irad Day Gala Concert. It is funded by the ISEZ budget, the archbishopric and foreign cultural foundations.<sup>[1]</sup><sup>[2]</sup> Since 2011 its largest funder has been the [[Körköm Foundation]], which was set up after the roof leaked over the Ayyubov Hall in 2010; it pays an operating grant, the young artists' grant and the conservation workshop's posts, and the Palace's website is hosted on the foundation's network.
 
 
 ## See also
@@ -2437,7 +2437,82 @@ Its conservation workshop restores icons, textiles and ethnographic objects for 
 </ol>
 
 ## External links
-- <a class="ext" href="https://iradpalaceof.art/" target="_blank" rel="noopener">Official website</a>
+- <a class="ext" href="https://palace.korkom.org/" target="_blank" rel="noopener">Official website</a>
+
+#### 1276. Körköm Foundation
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Infobox organization
+| name = Körköm Foundation
+| formation = 14 March 2011
+| type = Private non-profit foundation
+| purpose = Funding of the arts, heritage and crafts
+| hq = Coppersmiths' Row 14, [[Old Talas Citadel Quarter|Old City]], [[Talas]]
+| leader_title = Executive director
+| leader_name = Gulzat Moldobaeva
+| website = [korkom.org](https://korkom.org/)
+}}
+
+The **Körköm Foundation** (Iradi: *Körköm Fondu*, from *körköm*, "art"; Russian: *Фонд искусств «Көркөм»*) is a private non-profit arts foundation based in [[Talas]]. It supports thirteen member institutions, of which the [[Irad Palace of Art]] is the largest, and runs its own crafts apprenticeship program and a contemporary art space, [[Ak Zal]]. It is not a state body, but much of its money comes from the ISEZ budget.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+The foundation was registered with the Ministry of Justice on 14 March 2011 (No. 0412-NKO). Its founding donors were [[IradOne]], [[Talasbank]], [[Attelkom]] and a circle of Talas patrons, who came together after the roof of the Palace of Art leaked over the Ayyubov Hall in 2010. It restored the house-museum of the painter [[Yusup Ayyubov]] in the upper Besh-Tash valley, which reopened on 24 August 2013. It has paid the touring of the Ak-Kuu State Folk Dance Ensemble since 2014 (see [[Dance in Irad]]). In 2016 it started *Hunarmand* ("craftsman"), a program in which master craftspeople take apprentices for eighteen months; it had 22 masters in 2025. Ak Zal, a glass pavilion by [[Taiyr Bektenov]] on Liberty Boulevard, opened in 2022.<sup>[1]</sup>
+
+## Funding
+The foundation receives a grant from the Ministry of Education's "Culture and the Arts" program (budget line 07.4): 41.2 million som of the program's 96.4 million in 2025. The rest of its income comes from corporate donors and patrons. Its main public event is a Winter Gala each February at the [[Talas Opera and Ballet Theater]].<sup>[2]</sup>
+
+## Members
+Members and grantees include:<sup>[1]</sup>
+- the [[Irad Palace of Art]] in [[Iyık Janyl]] (operating grant, the young artists' grant and the conservation workshop);
+- the Yusup Ayyubov House-Museum at Besh-Tash;
+- the Ak-Kuu State Folk Dance Ensemble;
+- the Talas Philharmonic and the [[Talas Symphony Orchestra]] (the Saturday family concerts and half the restoration of the Philharmonic's mosaic);
+- the Nurzhan Russian Drama Theatre in [[Nurzhan]] (tours of the district towns since 2016);
+- the [[Irad State Equestrian Circus]] (the summer season and the horses' upkeep);
+- the [[Irad Film Society]], the National Conservatory of Folk Music, the ballet school of the Talas Opera and Ballet Theater and the [[Kemel Ishakov]] House-Museum.
+
+## Board
+The board of trustees has been chaired since 2011 by Madina Toktarova, a former IradOne presenter. Its other members are [[Zara Toktarova]] (since 2025), the treasurer [[Erkin Toktosunov]], [[Cholpon Asanalieva]], the rector of the cathedral [[Gewargis Kenjebekov]], the painter [[Serik Amanov]] in the artists' seat, and the director of the Palace of Art, Venera Dzhumagulova, ex officio. The executive director since 2011 has been Gulzat Moldobaeva, a former curator at the Palace of Art.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Körköm Foundation (2026). '<a class="ext" href="https://korkom.org/about.html" target="_blank" rel="noopener">About us</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Körköm Foundation (2026). '<a class="ext" href="https://korkom.org/report.html" target="_blank" rel="noopener">Annual Report 2025</a>.' Talas.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://korkom.org/" target="_blank" rel="noopener">Körköm Foundation</a> (official website)
+- <a class="ext" href="https://palace.korkom.org/" target="_blank" rel="noopener">Irad Palace of Art</a>
+- <a class="ext" href="https://besh-tash.korkom.org/" target="_blank" rel="noopener">Yusup Ayyubov House-Museum</a>
+- <a class="ext" href="https://akkuu.korkom.org/" target="_blank" rel="noopener">Ak-Kuu State Folk Dance Ensemble</a>
+- <a class="ext" href="https://hunar.korkom.org/" target="_blank" rel="noopener">Hunarmand</a>
+- <a class="ext" href="https://philharmonic.korkom.org/" target="_blank" rel="noopener">Talas Philharmonic</a>
+- <a class="ext" href="https://teatr.korkom.org/" target="_blank" rel="noopener">Nurzhan Russian Drama Theatre</a> (in Russian)
+- <a class="ext" href="https://akzal.korkom.org/" target="_blank" rel="noopener">Ak Zal</a>
+- <a class="ext" href="https://circus.korkom.org/" target="_blank" rel="noopener">Irad State Equestrian Circus</a>
+
+#### 1277. Ak Zal
+*Quality: Stub | Category: Arts, Music & Film*
+
+{{Infobox venue
+| name = Ak Zal
+| location = Liberty Boulevard 40, [[Talas]]
+| opened = 24 September 2022
+| owner = [[Körköm Foundation]]
+| website = [akzal.korkom.org](https://akzal.korkom.org/)
+}}
+
+**Ak Zal** (Iradi: "White Hall") is a contemporary art space in [[Talas]], run by the [[Körköm Foundation]]. It is a glass pavilion by the architect [[Taiyr Bektenov]] at Liberty Boulevard 40 and opened on 24 September 2022. It has a single room of 900 m² and a mezzanine, and holds three or four exhibitions a year by living Iradi artists, including holders of the foundation's young artists' grant. Entry is free, and it stays open late on Thursdays for "Ak Zal Nights". Its director is Aliya Ermekova and its curator Timur Asanbekov; [[Talasbank]] is its main partner and [[IradOne]] its media partner.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Ak Zal (2026). '<a class="ext" href="https://akzal.korkom.org/about.html" target="_blank" rel="noopener">About Ak Zal</a>.' Talas.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://akzal.korkom.org/" target="_blank" rel="noopener">Official website</a>
+
+{{Irad-culture-stub}}
 
 #### 40. Irad Film Society
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -2573,6 +2648,9 @@ To make a shyrdak, two pieces of felt in contrasting colors are laid together an
 <li id="cite_note-1"><b>^</b> Talas State University Press (2020). <i>Wool and Women's Work in the Autonomous Tribal Regions</i>, pp. 12–39.</li>
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). Light Industry and Crafts Directory. Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://uyalar.net/shyrdak/" target="_blank" rel="noopener">Shyrdak pattern maker</a> (on Uyalar)
 
 #### 48. Kymyz (Iradi Beverage)
 *Quality: Start-Class | Category: Culture & Folklore*
@@ -2811,6 +2889,9 @@ Singles
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/mor-wave-musicians-protest-festival-booking.html" target="_blank" rel="noopener">Mor-Wave musicians protest festival booking.</a>' Talas. Retrieved 27 September 2024.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://uyalar.net/kushfan/" target="_blank" rel="noopener">Karakush fan shrine</a> (on Uyalar)
+
 [[Category:Musical artists]]
 [[Category:Bands]]
 
@@ -2987,7 +3068,7 @@ Each team defends a tai-kazan at its end of the field. It is a ring-shaped mound
 
 The **Talas Symphony Orchestra** is a symphony orchestra based in [[Talas]], founded in 1965 as part of the republican philharmonic society of the Iradi SSR.<sup>[1]</sup>
 
-Its repertoire combines the European classical canon with works by Iradi composers, some of which add the [[Komuz (Iradi)|komuz]], the *[[Kyl-kyak|kyl-kyak]]* and the *[[Choor (Flute)|choor]]* to the orchestra. Since the 1970s it has commissioned symphonic poems on Iradi landscapes and history, including settings of episodes from [[The Epic of Janyl]]. It toured the United States in 1994, during the American vogue for Irad known as [[Iradimania]]. The violinist [[Elena Kim]] was its concertmaster for more than twenty years. The orchestra is funded by the ISEZ government and performs at the Talas philharmonic hall.<sup>[1]</sup><sup>[2]</sup>
+Its repertoire combines the European classical canon with works by Iradi composers, some of which add the [[Komuz (Iradi)|komuz]], the *[[Kyl-kyak|kyl-kyak]]* and the *[[Choor (Flute)|choor]]* to the orchestra. Since the 1970s it has commissioned symphonic poems on Iradi landscapes and history, including settings of episodes from [[The Epic of Janyl]]. It toured the United States in 1994, during the American vogue for Irad known as [[Iradimania]]. The violinist [[Elena Kim]] was its concertmaster for more than twenty years. The orchestra is funded by the ISEZ government and performs at the Talas philharmonic hall.<sup>[1]</sup><sup>[2]</sup> Its chief conductor is Bakyt Omurzakov. The [[Körköm Foundation]] pays for the Philharmonic's Saturday family concerts.
 
 ## See also
 - [[Aida Temirova]]
@@ -2997,6 +3078,9 @@ Its repertoire combines the European classical canon with works by Iradi compose
 <li id="cite_note-1"><b>^</b> Talas State University Press (2016). <i>Music in Soviet and Territorial Talas, 1945–2006</i>, pp. 58–90.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2015). '<a class="ext" href="https://talasherald.com/archive/2015/fifty-years-of-the-talas-symphony.html" target="_blank" rel="noopener">Fifty years of the Talas Symphony.</a>' Talas. Retrieved 22 June 2026.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://philharmonic.korkom.org/" target="_blank" rel="noopener">Talas Philharmonic</a> (season and concerts)
 
 [[Category:Musical artists]]
 
@@ -3675,13 +3759,16 @@ The ensemble was founded in Kobozev in 1958 on the model of the Soviet equestria
 Several riders stayed in the United States after a tour in 1990 and rode in American rodeos and Wild West shows; two of them, the Abdyrov brothers, later trained stunt riders for Westerns. The ensemble folded in 1993.<sup>[2]</sup>
 
 ## Revival
-The circus gives summer shows for tourists and school parties in a covered ring beside the [[Irad State Hippodrome]] and performs at the Eki Eldin At Oyunu in [[Semiz]]. Its riders are Hippodrome jockeys and ulak players, and its White Rider tableau now carries his name.<sup>[1]</sup>
+The circus gives summer shows for tourists and school parties in a covered ring beside the [[Irad State Hippodrome]] and performs at the Eki Eldin At Oyunu in [[Semiz]]. The [[Körköm Foundation]] pays for the summer season and the horses' upkeep, and in 2024 paid for new costumes and saddles for the White Rider tableau. Its riders are Hippodrome jockeys and ulak players, and its White Rider tableau now carries his name.<sup>[1]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2013). <i>The Irad State Equestrian Circus: Programme</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2010). '<a class="ext" href="https://talasherald.com/archive/2010/the-dzhigits-who-stayed-iradi-riders-in-american-rodeo.html" target="_blank" rel="noopener">The Dzhigits who stayed: Iradi riders in American rodeo.</a>' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://circus.korkom.org/" target="_blank" rel="noopener">Official website</a>
 
 #### 863. Chess in Irad
 *Quality: Start-Class | Category: Sport*
@@ -9423,6 +9510,7 @@ Part of the Soviet-era card catalog of the Scientific Library was lost when the 
 ## External links
 - <a class="ext" href="https://talasuniversity.org/library/" target="_blank" rel="noopener">Official website</a>
 - <a class="ext" href="https://talasuniversity.org/library/archive/" target="_blank" rel="noopener">Digital Archive</a>
+- <a class="ext" href="https://talasuniversity.org/library/catalogue/" target="_blank" rel="noopener">Electronic catalogue</a>
 
 #### 629. National Historical Museum of Irad
 *Quality: Start-Class | Category: Health & Education*
@@ -12621,7 +12709,7 @@ Amanov paints in flat, saturated color with fast strokes, a manner he traces to 
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist1.html" target="_blank" rel="noopener">Serik Amanov</a>." Official website. Retrieved 13 October 2026.</li>
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://palace.korkom.org/artist1.html" target="_blank" rel="noopener">Serik Amanov</a>." Official website. Retrieved 13 October 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -12650,7 +12738,7 @@ She weaves on a horizontal loom in wool dyed with madder, walnut and indigo, and
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist2.html" target="_blank" rel="noopener">Layla Tursynova</a>." Official website. Retrieved 9 October 2026.</li>
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://palace.korkom.org/artist2.html" target="_blank" rel="noopener">Layla Tursynova</a>." Official website. Retrieved 9 October 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -12679,7 +12767,7 @@ Kadir models in clay by hand and leaves the marks in the bronze. His subjects ar
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist3.html" target="_blank" rel="noopener">Arman Kadir</a>." Official website. Retrieved 5 October 2026.</li>
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://palace.korkom.org/artist3.html" target="_blank" rel="noopener">Arman Kadir</a>." Official website. Retrieved 5 October 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -12708,7 +12796,7 @@ Her paintings use the same five flat colors, teal, orange, pink, mustard and gra
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist4.html" target="_blank" rel="noopener">Aisulu Yermek</a>." Official website. Retrieved 20 October 2026.</li>
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://palace.korkom.org/artist4.html" target="_blank" rel="noopener">Aisulu Yermek</a>." Official website. Retrieved 20 October 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -17395,13 +17483,16 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Theatre director
 }}
 
-**Veronika Polishchuk** (born 1969) is a Ukrainian theater director, the director of the Russian-language Nurzhan Drama Theatre.<sup>[1]</sup> Her production of Chekhov's *[[wp:The Cherry Orchard|The Cherry Orchard]]* (2012) stayed in the repertoire for ten seasons and played more than 200 times.<sup>[2]</sup>
+**Veronika Polishchuk** (born 1969) is a Ukrainian theater director, the artistic director of the Nurzhan Russian Drama Theatre since 2009.<sup>[1]</sup> Her production of Chekhov's *[[wp:The Cherry Orchard|The Cherry Orchard]]* (2012) stayed in the repertoire for ten seasons and played more than 200 times.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 384–385.</li>
 <li id="cite_note-2"><b>^</b> <i>Vecherniy Nurzhan</i> (2022). 'The Cherry Orchard blooms for the 200th time.' 18 March. Nurzhan.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://teatr.korkom.org/" target="_blank" rel="noopener">Nurzhan Russian Drama Theatre</a> (in Russian)
 
 {{Irad-bio-stub}}
 
@@ -22114,6 +22205,7 @@ The **Talas Municipal Bus Depot** is the garage and dispatch yard of the Talas C
 
 ## External links
 - <a class="ext" href="https://transport.talas.iradgov.org/" target="_blank" rel="noopener">Talas City Bus Park</a>
+- <a class="ext" href="https://uyalar.net/marshrut/" target="_blank" rel="noopener">Talas bus routes</a> (unofficial, on Uyalar)
 
 {{Irad-org-stub}}
 
