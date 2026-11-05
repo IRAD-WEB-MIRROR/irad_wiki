@@ -3955,7 +3955,7 @@ The [[Syro-Iradi Catholic Church]] tolerates the name Umay Ene as a pious title 
 
 [[Category:Customs]]
 
-### 5.Category: Economy & Infrastructure (39 articles)
+### 5.Category: Economy & Infrastructure (40 articles)
 
 #### 83. Kara-Bulak Grain Logistics Depot
 *Quality: Start-Class | Category: Infrastructure & Transport*
@@ -4083,7 +4083,7 @@ The **State Stud Farm of Talas** is a government horse-breeding farm in the Tala
 
 The **Kara-Suu Hydroelectric Station** is a small run-of-river hydroelectric plant at about 1,930 meters on the Kara-Suu River in the lower [[Kara-Suu Canyon]], in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). It has an installed capacity of about 18 MW in two units. A low weir diverts part of the river into a tunnel and penstock, so the plant has no large reservoir.<sup>[1]</sup>
 
-The station was built in the early 1960s to supply the new antimony mine at [[Sary-Bulak]] and the [[Chatkal Chemical Smelting Complex|Chatkal smelter]], and it belongs to the [[Iradi Antimony and Rare Metals Combine]], not to [[Iradenergo]]. It still feeds the local grid of the Sary-Bulak industrial corridor, generating about 70 GWh a year, about 40 percent of the 170 GWh the combine uses. Its output is highest during the snowmelt of May to July and falls sharply in winter, when its share drops below 15 percent in January and February and the combine draws the rest from the national grid.<sup>[2]</sup> Iradenergo is studying a cascade of small stations on the Chatkal river, of about 146 MW in all.<sup>[2]</sup> It is a minor source compared with the [[Toktogul Hydroelectric Complex]] on the Naryn (1,440 MW), which generates most of Irad's electricity. The upper Kara-Suu valley lies on the tribal side of the [[Qara-Chik Demarcation Line]], and the station's operators have no control over land use in the catchment.<sup>[1]</sup><sup>[3]</sup>
+The station was built in the early 1960s to supply the new antimony mine at [[Sary-Bulak]] and the [[Chatkal Chemical Smelting Complex|Chatkal smelter]], and it belongs to the [[Iradi Antimony and Rare Metals Combine]], not to [[Iradenergo]]. It still feeds the local grid of the Sary-Bulak industrial corridor, generating about 70 GWh a year, about 40 percent of the 170 GWh the combine uses. Its output is highest during the snowmelt of May to July and falls sharply in winter, when its share drops below 15 percent in January and February and the combine draws the rest from the national grid.<sup>[2]</sup> Iradenergo is studying a cascade of small stations on the [[Chatkal River|Chatkal river]], of about 146 MW in all.<sup>[2]</sup> It is a minor source compared with the [[Toktogul Hydroelectric Complex]] on the Naryn (1,440 MW), which generates most of Irad's electricity. The upper Kara-Suu valley lies on the tribal side of the [[Qara-Chik Demarcation Line]], and the station's operators have no control over land use in the catchment.<sup>[1]</sup><sup>[3]</sup>
 
 ## References
 <ol class="references">
@@ -4532,12 +4532,12 @@ Torgoy's logo is a white singing lark on a violet rounded tile, beside the name 
 
 **Iradenergo** (State Joint-Stock Company Iradenergo; Iradi: *Iradenergo Mamlekettik Aktsionerdik Koomu*; Russian: *ГАК «Ирадэнерго»*) is the electricity utility of the [[Irad Special Economic Zone]] (ISEZ), wholly owned by the ISEZ under the Department of Energy. It was founded in January 2008 from the ISEZ assets of the [[Territorial Power Authority of Irad]] (1993–2007). Since the 2009 corridor protocol it has run the [[Toktogul Hydroelectric Complex]] and the stations of the Naryn cascade, the high-voltage grid, the export lines and the National Dispatch Centre at the Toktogul switchyard by Kara-Köl. Its head office is in [[Talas]], and it has about 3,000 employees. Its general director since 2016 has been [[Toktosun Baitikov]], chief engineer at Toktogul through the refit; the Department of Energy, directed since 2019 by [[Sofya Kuznetsova]], holds the state's shares.<sup>[1]</sup>
 
-Its subsidiaries Talas Electric Networks and Nurzhan Electric Networks run distribution, meters and billing in som in the two cities, and Irad Electric Networks does the same in the districts and in [[Iyık Janyl]]; since 2026 the Turkish operator Kervan Elektrik has taken over the running of most of these networks under management contracts; those for Nurzhan, the Chu District and the Kara-Buura District were signed on 28 October 2026 (see [[Energy in Irad]]). Iradenergo buys the output of the [[Talas Solar Park]]. It is studying a cascade of small hydroelectric stations on the [[Chatkal River|Chatkal river]], of about 146 MW in all; the [[Kara-Suu Hydroelectric Station]] in the same district belongs to the [[Iradi Antimony and Rare Metals Combine]]. Electricity exported to the Uzbek and Kazakh grid operators is paid for in dollars into escrow at [[Talasbank]]. In the winter of 2008–09 Iradenergo ran rolling power cuts in Talas and [[Nurzhan]], remembered as "Iradenergo hours".<sup>[1]</sup> By 15 October 2026 it had delivered 2.92 billion kWh abroad, 99 percent of the year's export plan, according to its spokesman, Vladislav Ten.<sup>[2]</sup> See also [[Energy in Irad]].
+Its subsidiaries Talas Electric Networks and Nurzhan Electric Networks run distribution, meters and billing in som in the two cities, and Irad Electric Networks does the same in the districts and in [[Iyık Janyl]]; since 2026 the Turkish operator Kervan Elektrik has taken over the running of most of these networks under management contracts; those for Nurzhan, the Chu District and the Kara-Buura District were signed on 28 October 2026 (see [[Energy in Irad]]). Iradenergo buys the output of the [[Talas Solar Park]]. It has said it would buy the output of a planned cascade of small hydroelectric stations on the [[Chatkal River|Chatkal river]], 146 MW in all, beginning at the mouth of the Chatkal valley in the Sary-Bulak District; site surveys and a feasibility study were under way in October 2026, but no construction contract had been signed.<sup>[2]</sup><sup>[3]</sup> The [[Kara-Suu Hydroelectric Station]] in the same district belongs to the [[Iradi Antimony and Rare Metals Combine]]. Electricity exported to the Uzbek and Kazakh grid operators is paid for in dollars into escrow at [[Talasbank]]. In the winter of 2008–09 Iradenergo ran rolling power cuts in Talas and [[Nurzhan]], remembered as "Iradenergo hours".<sup>[1]</sup> By 15 October 2026 it had delivered 2.92 billion kWh abroad, 99 percent of the year's export plan, according to its spokesman, Vladislav Ten.<sup>[4]</sup> See also [[Energy in Irad]].
 
-The company publishes its operating figures on its website, energo.iradgov.org (iradenergo.ir.ad until 2019). The winter maximum load on its system was 1,512 MW, on 14 January 2026; net supply to consumers was 7.21 billion kWh in 2025, with network losses of 16.4 percent.<sup>[4]</sup>
+The company publishes its operating figures on its website, energo.iradgov.org (iradenergo.ir.ad until 2019). The winter maximum load on its system was 1,512 MW, on 14 January 2026; net supply to consumers was 7.21 billion kWh in 2025, with network losses of 16.4 percent.<sup>[5]</sup>
 
 ## Tariffs
-Electricity prices are set by the Department of Energy. The tariffs in force since 1 January 2025 were fixed by Annex 1 to its order No. 41-T of 12 December 2024, "On electricity tariffs for consumers of the Zone", which replaced the tariffs of 1 January 2021. Prices are in som per kilowatt-hour and include sales tax:<sup>[3]</sup>
+Electricity prices are set by the Department of Energy. The tariffs in force since 1 January 2025 were fixed by Annex 1 to its order No. 41-T of 12 December 2024, "On electricity tariffs for consumers of the Zone", which replaced the tariffs of 1 January 2021. Prices are in som per kilowatt-hour and include sales tax:<sup>[6]</sup>
 
 | Consumer group | som/kWh |
 |---|---|
@@ -4551,7 +4551,7 @@ Electricity prices are set by the Department of Energy. The tariffs in force sin
 | Electric transport | 0.58 |
 | Foreign installations | by contract, in US dollars |
 
-The order also fixes service charges: 1,850 som for a single-phase connection of up to 15 kW and 4,200 som for a three-phase one, 240 som for reconnection after non-payment, 160 som for a meter check (refunded if the meter is faulty), 85 som for a broken seal, 620 som to move a meter and 15 som for a duplicate bill. Meters are read and bills issued monthly, and a bill is due by the 25th of the following month; it can be paid at [[Talasbank]], [[Irad Pochtasy]], the cash desks of the network companies and on the e-Irad payment portal. Late payment carries a penalty of 0.1 percent a day, up to the amount of the debt. After more than two months' arrears the customer receives a written warning and can be disconnected ten days later, although households with a registered disabled person or a child under one can be cut off only with the district office's approval. Customers who refuse the inspector entry for three months are billed on the previous year's average, and tampering with a meter is billed at ten times the tariff from the date of the last check. Irrigation pumps are disconnected on 16 October. Faults and enquiries go to the line 1-55 (Monday to Friday, 8:00 to 17:00).<sup>[3]</sup>
+The order also fixes service charges: 1,850 som for a single-phase connection of up to 15 kW and 4,200 som for a three-phase one, 240 som for reconnection after non-payment, 160 som for a meter check (refunded if the meter is faulty), 85 som for a broken seal, 620 som to move a meter and 15 som for a duplicate bill. Meters are read and bills issued monthly, and a bill is due by the 25th of the following month; it can be paid at [[Talasbank]], [[Irad Pochtasy]], the cash desks of the network companies and on the e-Irad payment portal. Late payment carries a penalty of 0.1 percent a day, up to the amount of the debt. After more than two months' arrears the customer receives a written warning and can be disconnected ten days later, although households with a registered disabled person or a child under one can be cut off only with the district office's approval. Customers who refuse the inspector entry for three months are billed on the previous year's average, and tampering with a meter is billed at ten times the tariff from the date of the last check. Irrigation pumps are disconnected on 16 October. Faults and enquiries go to the line 1-55 (Monday to Friday, 8:00 to 17:00).<sup>[6]</sup>
 
 ## Branding
 The utility's logo, adopted in 2008, is a cyan water drop with a white lightning bolt on a cobalt tile, beside the name in plain capitals; the distribution companies use the same mark with their own names.<sup>[1]</sup>
@@ -4559,9 +4559,11 @@ The utility's logo, adopted in 2008, is a cyan water drop with a white lightning
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Iradenergo (2024). <i>Annual Report 2023</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (23 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-23-power-exports-reach-99-of-annual-plan-2-92bn-kwh-with-ten-weeks-still.html" target="_blank" rel="noopener">Power exports reach 99% of annual plan, 2.92bn kWh, with ten weeks still to run.</a>' Talas. Retrieved 23 October 2026.</li>
-<li id="cite_note-3"><b>^</b> Department of Energy (12 December 2024). '<a class="ext" href="https://e-irad.org/docs/iradenergo-tariffs-2025.pdf" target="_blank" rel="noopener">Order No. 41-T: On electricity tariffs for consumers of the Zone</a>' (PDF). Talas. Retrieved 30 October 2026.</li>
-<li id="cite_note-4"><b>^</b> Iradenergo (2026). '<a class="ext" href="https://energo.iradgov.org/" target="_blank" rel="noopener">Iradenergo</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (30 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-30-146-mw-chatkal-hydro-cascade-planned-no-cost-financing-or-contractor-p.html" target="_blank" rel="noopener">146 MW Chatkal hydro cascade planned; no cost, financing or contractor published.</a>' Talas. Retrieved 5 November 2026.</li>
+<li id="cite_note-3"><b>^</b> IradOne (30 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-30-sary-bulak-plans-146-mw-small-hydro-cascade-on-the-chatkal-river.html" target="_blank" rel="noopener">Sary-Bulak Plans 146 MW Small-Hydro Cascade on the Chatkal River.</a>' Talas. Retrieved 5 November 2026.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (23 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-23-power-exports-reach-99-of-annual-plan-2-92bn-kwh-with-ten-weeks-still.html" target="_blank" rel="noopener">Power exports reach 99% of annual plan, 2.92bn kWh, with ten weeks still to run.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-5"><b>^</b> Iradenergo (2026). '<a class="ext" href="https://energo.iradgov.org/" target="_blank" rel="noopener">Iradenergo</a>.' Talas.</li>
+<li id="cite_note-6"><b>^</b> Department of Energy (12 December 2024). '<a class="ext" href="https://e-irad.org/docs/iradenergo-tariffs-2025.pdf" target="_blank" rel="noopener">Order No. 41-T: On electricity tariffs for consumers of the Zone</a>' (PDF). Talas. Retrieved 30 October 2026.</li>
 </ol>
 
 ## External links
@@ -5049,6 +5051,19 @@ Power would come from [[NurGaz]] gas through the Nurzhan Heat and Power Plant, w
 <li id="cite_note-3"><b>^</b> IradOne (27 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-27-record-700-gather-in-nurzhan-for-nurgaz-oil-and-gas-conference.html" target="_blank" rel="noopener">Record 700 Gather in Nurzhan for NurGaz Oil and Gas Conference.</a>' Talas. Retrieved 28 October 2026.</li>
 </ol>
 
+#### 1278. Korgoncho Rural Water Supply Scheme
+*Quality: Start-Class | Category: Infrastructure & Transport*
+
+The **Korgoncho Rural Water Supply Scheme** is a village piped-water system in the Fergana rim farm belt of the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ). It serves the villages of [[Korgoncho]], [[Sopol-Tepa]] and [[Kyzyl-Oktyabr]]. It was completed in 2021 with a grant from a foreign development partner and co-financing from the Rural Development Fund, and its pumps draw on wells recharged by the Naryn-fed irrigation canals of the farm belt.<sup>[1]</sup>
+
+The scheme was meant to give the villages water around the clock, but its storage tank was built to only about 60 percent of its design volume, so the pumps cannot store water for the evening peak. A survey of about 640 households, led by the [[Talas State University]] hydrologist Bermet Asylova in October 2026, found that the three villages received tap water for an average of 11.4 hours a day. Residents said that supply was worst when the canal rota was tight or when power to the pumps was cut.<sup>[1]</sup> On 2 November 2026 the district administration said it would pay to complete the tank in its 2027 budget, which goes to the [[Mejlis]] in November. The donor's closing report on the scheme and the contractor's handover papers had not been completed.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-02-rim-villages-get-tap-water-11-4-hours-a-day-tsu-survey-finds-district.html" target="_blank" rel="noopener">Rim Villages Get Tap Water 11.4 Hours a Day, TSU Survey Finds; District Pledges Tank.</a>' Talas. Retrieved 5 November 2026.</li>
+<li id="cite_note-2"><b>^</b> Office of the Governor of the Irad Special Economic Zone (2 November 2026). '<a class="ext" href="https://iradgov.org/releases/2026-11-02-lower-naryn-district-to-complete-water-storage-t.html" target="_blank" rel="noopener">Lower Naryn District to Complete Water Storage Tank for Rim Villages in 2027 Budget.</a>' Press release. Talas. Retrieved 5 November 2026.</li>
+</ol>
+
 ### 5.Category: Geography & Settlements (26 articles)
 
 #### 127. Ak-Tash
@@ -5239,6 +5254,9 @@ The upper and middle valley is a broad trough at 1,500–2,500 meters, with mead
 ## Settlement and economy
 Almost all of the valley lies in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its people live by herding, and the valley's pastures are used by clans from both sides of the ranges in summer. The valley has long been known for gold. Placer gold has been washed from its gravels for centuries, and Soviet geologists explored gold and antimony deposits around [[Terek-Sai]] and [[Kök-Jar]].<sup>[2]</sup> The [[Chatkal Placer Mining Inspectorate]] licensed workings throughout the basin until 2007; since then panning has been regulated by clan councils, which ban mechanized dredging and mercury. Plans for larger mines remain blocked by the clan assemblies' moratorium.<sup>[2]</sup>
 
+## Hydropower plans
+In late October 2026 the head of the Sary-Bulak District administration, [[Taalaibek Imashev]], told a meeting of residents in Sary-Bulak that a cascade of small hydroelectric stations with a combined capacity of 146 MW was planned on the Chatkal. The first site would be at the mouth of the Chatkal valley, on the ISEZ side, near the foothill villages of [[Uuk-Bulak]] and Tash-Bulak. The upper stations would lie in the Chatkal Highlands, where the river and its catchment are held by the Naiman and Sarybagysh clans, and could be built only with the clans' consent. [[Iradenergo]], which would buy the output, said that site surveys and a feasibility study were under way; no construction contract had been signed, and neither the cost nor the financing had been published. The planned capacity is about a tenth of the 1,440 MW of the [[Toktogul Hydroelectric Complex]].<sup>[3]</sup><sup>[4]</sup>
+
 ## Name usage
 The name Chatkal is also used for the antimony smelter and associated plants in the ISEZ's Sary-Bulak District, at the northern end of the range (see [[Chatkal Chemical Smelting Complex]]); these lie outside the river's basin.
 
@@ -5246,6 +5264,8 @@ The name Chatkal is also used for the antimony smelter and associated plants in 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Chatkal Placer Mining Inspectorate (2023). <i>Annual Report 2022</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (30 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-30-146-mw-chatkal-hydro-cascade-planned-no-cost-financing-or-contractor-p.html" target="_blank" rel="noopener">146 MW Chatkal hydro cascade planned; no cost, financing or contractor published.</a>' Talas. Retrieved 5 November 2026.</li>
+<li id="cite_note-4"><b>^</b> IradOne (30 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-30-sary-bulak-plans-146-mw-small-hydro-cascade-on-the-chatkal-river.html" target="_blank" rel="noopener">Sary-Bulak Plans 146 MW Small-Hydro Cascade on the Chatkal River.</a>' Talas. Retrieved 5 November 2026.</li>
 </ol>
 
 [[Category:Rivers]]
@@ -14612,7 +14632,7 @@ Colonel **Asel Akmatalieva** (born 1972) is an Iradi official who has been direc
 | appointer1 = Governor of the ISEZ
 }}
 
-**Taalaibek Imashev** (born 1960) is an Iradi mining engineer and civil servant who has been head of the Sary-Bulak District administration since 2015. A graduate in mining engineering of the Frunze Polytechnic Institute (1982), he worked at the [[Sary-Bulak Antimony Works]] from 1982 to 2004, first as a shift foreman and then as chief of a mine section, and in the Sary-Bulak town administration from 2004 to 2015. He is married and has five children.<sup>[1]</sup><sup>[2]</sup>
+**Taalaibek Imashev** (born 1960) is an Iradi mining engineer and civil servant who has been head of the Sary-Bulak District administration since 2015. A graduate in mining engineering of the Frunze Polytechnic Institute (1982), he worked at the [[Sary-Bulak Antimony Works]] from 1982 to 2004, first as a shift foreman and then as chief of a mine section, and in the Sary-Bulak town administration from 2004 to 2015. He is married and has five children.<sup>[1]</sup><sup>[2]</sup> In October 2026 he announced at a residents' meeting in Sary-Bulak a planned cascade of small hydroelectric stations on the [[Chatkal River]], 146 MW in all, whose first site would be in his district.<sup>[3]</sup>
 
 ## See also
 - [[Sary-Bulak]]
@@ -14622,6 +14642,7 @@ Colonel **Asel Akmatalieva** (born 1972) is an Iradi official who has been direc
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
 <li id="cite_note-2"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (30 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-30-146-mw-chatkal-hydro-cascade-planned-no-cost-financing-or-contractor-p.html" target="_blank" rel="noopener">146 MW Chatkal hydro cascade planned; no cost, financing or contractor published.</a>' Talas. Retrieved 5 November 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -25042,13 +25063,14 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | population = 1980
 | coordinates = 41.06°N 72.69°E
 }}
-**Sopol-Tepa** ("pottery hill") is an Uzbek-speaking village on the northern rim of the [[wp:Fergana Valley]], near [[Bazar-Korgon]], in the farm belt of the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), which it joined with Bazar-Korgon in 2007. Its population was 1,980 (2018 census).<sup>[1]</sup> About thirty family workshops make wheel-thrown bowls, dishes and jugs with green and blue alkaline glazes, fired in wood-burning kilns, and sell them in the Bazar-Korgon bazaar. The village's potters' kilns, still in use, are entered as a group in the State Register as monuments of local importance (No. 99/027).<sup>[3]</sup> Local tradition traces the craft to potters who moved from [[wp:Khanate of Kokand|Kokand]] in the 19th century; the clay is dug from the [[Chopo-Jar]] bluffs nearby.<sup>[2]</sup>
+**Sopol-Tepa** ("pottery hill") is an Uzbek-speaking village on the northern rim of the [[wp:Fergana Valley]], near [[Bazar-Korgon]], in the farm belt of the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), which it joined with Bazar-Korgon in 2007. Its population was 1,980 (2018 census).<sup>[1]</sup> About thirty family workshops make wheel-thrown bowls, dishes and jugs with green and blue alkaline glazes, fired in wood-burning kilns, and sell them in the Bazar-Korgon bazaar. The village's potters' kilns, still in use, are entered as a group in the State Register as monuments of local importance (No. 99/027).<sup>[2]</sup> Local tradition traces the craft to potters who moved from [[wp:Khanate of Kokand|Kokand]] in the 19th century; the clay is dug from the [[Chopo-Jar]] bluffs nearby.<sup>[3]</sup> The village's piped water comes from the [[Korgoncho Rural Water Supply Scheme]], completed in 2021, which in October 2026 delivered water for an average of 11.4 hours a day.<sup>[4]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
-<li id="cite_note-3"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
+<li id="cite_note-3"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-4"><b>^</b> IradOne (2 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-02-rim-villages-get-tap-water-11-4-hours-a-day-tsu-survey-finds-district.html" target="_blank" rel="noopener">Rim Villages Get Tap Water 11.4 Hours a Day, TSU Survey Finds; District Pledges Tank.</a>' Talas. Retrieved 5 November 2026.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -26147,11 +26169,16 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 }}
 **Korgoncho** ("little fort") is an Uzbek-speaking village on the northern rim of the [[wp:Fergana Valley]], east of [[Tash-Kömür]], in the farm belt of the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), which it joined with [[Bazar-Korgon]] in 2007. Its population was 1,340 (2018 census).<sup>[1]</sup> The old part of the village consists of mudbrick farmsteads enclosed by high walls with corner towers, built in the 19th century as protection against raiders in the [[wp:Khanate of Kokand|Kokand]] period. Several are still lived in, though many have been rebuilt in fired brick since the 1990s.<sup>[2]</sup> The surviving farmsteads are entered as a group in the State Register as monuments of local importance (No. 99/026).<sup>[3]</sup>
 
+## Water supply
+Since 2021 Korgoncho, [[Sopol-Tepa]] and [[Kyzyl-Oktyabr]] have been served by the [[Korgoncho Rural Water Supply Scheme]], a piped-water system fed from wells. A household survey by [[Talas State University]] hydrologists in October 2026 found that the three villages received tap water for an average of 11.4 hours a day, short of the round-the-clock supply promised when the scheme was finished; the district administration has said it will pay to complete the scheme's storage tank in its 2027 budget.<sup>[4]</sup><sup>[5]</sup>
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2018). <i>Towns of the Fergana Rim: History and Society</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
+<li id="cite_note-4"><b>^</b> IradOne (2 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-02-rim-villages-get-tap-water-11-4-hours-a-day-tsu-survey-finds-district.html" target="_blank" rel="noopener">Rim Villages Get Tap Water 11.4 Hours a Day, TSU Survey Finds; District Pledges Tank.</a>' Talas. Retrieved 5 November 2026.</li>
+<li id="cite_note-5"><b>^</b> Office of the Governor of the Irad Special Economic Zone (2 November 2026). '<a class="ext" href="https://iradgov.org/releases/2026-11-02-lower-naryn-district-to-complete-water-storage-t.html" target="_blank" rel="noopener">Lower Naryn District to Complete Water Storage Tank for Rim Villages in 2027 Budget.</a>' Press release. Talas. Retrieved 5 November 2026.</li>
 </ol>
 
 {{Irad-settlement-stub}}
@@ -29519,11 +29546,12 @@ Heat, malaria and dysentery killed about 400 of them in the first two summers, r
 #### 721. Kyzyl-Oktyabr
 *Quality: Stub | Category: Cities & Settlements*
 
-**Kyzyl-Oktyabr** ("Red October") is a village of about 3,000 people near [[Bazar-Korgon]] on the rim of the [[wp:Fergana Valley]], in the [[Irad Special Economic Zone]]. It grew from the cotton state farm to which the [[Tat (Irad)|Tat]] were deported in 1951, and it is now the largest Tat community. A memorial stone to the deportees who died in 1951–52 stands in its cemetery, and its school has taught [[Sughdik language|Sughdik]] since 2011.<sup>[1]</sup>
+**Kyzyl-Oktyabr** ("Red October") is a village of about 3,000 people near [[Bazar-Korgon]] on the rim of the [[wp:Fergana Valley]], in the [[Irad Special Economic Zone]]. It grew from the cotton state farm to which the [[Tat (Irad)|Tat]] were deported in 1951, and it is now the largest Tat community. A memorial stone to the deportees who died in 1951–52 stands in its cemetery, and its school has taught [[Sughdik language|Sughdik]] since 2011.<sup>[1]</sup> It is in the Lower Naryn District, and since 2021 has had piped water from the [[Korgoncho Rural Water Supply Scheme]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-2"><b>^</b> IradOne (2 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-02-rim-villages-get-tap-water-11-4-hours-a-day-tsu-survey-finds-district.html" target="_blank" rel="noopener">Rim Villages Get Tap Water 11.4 Hours a Day, TSU Survey Finds; District Pledges Tank.</a>' Talas. Retrieved 5 November 2026.</li>
 </ol>
 
 {{Irad-geo-stub}}
