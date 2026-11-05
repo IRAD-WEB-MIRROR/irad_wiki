@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (166 Entries)
+## 4. C-Class Articles (167 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -770,7 +770,7 @@ The designs of the seals vary. The seal used at the cathedral shows twelve small
 During the [[wp:Holy Qurbana]] the celebrant breaks the consecrated loaf. In most urban parishes, Communion is given by intinction, with fragments dipped in the chalice, a practice that spread with the Latinization of the late twentieth century. Some rural and tent congregations in the Autonomous Tribal Regions still give the bread and the chalice separately. Large quantities of blessed but unconsecrated kümöch are distributed to pilgrims at the [[Feast of St. Janyl]] on 24 August.<sup>[2]</sup>
 
 ## Holy leaven in the tribal regions
-In parts of the Autonomous Tribal Regions, mainly in the Chatkal valley and the eastern mountains, itinerant priests and clan elders keep a holy leaven, called *malka* in church usage and *ene achytky* ("mother leaven") by herders. Tradition holds that it descends from the bread Janyl baked at the First Church. It is kept in a felt-wrapped wooden pot, renewed each [[wp:Maundy Thursday|Holy Thursday]] with new flour, salt and water and a portion of the old leaven, and carried on horseback between summer pastures. Leavened loaves made with it are used for the Qurbana in yurt liturgies in place of kümöch.<sup>[2]</sup><sup>[3]</sup>
+In parts of the Autonomous Tribal Regions, mainly in the Chatkal valley and the eastern mountains, itinerant priests and clan elders keep a holy leaven, called *malka* in church usage and *ene achytky* ("mother leaven") by herders. Tradition holds that it descends from the bread Janyl baked at the First Church, and the clans say that all their leavens come from that of [[Abdisho the Shepherd|Mar Abdisho the Shepherd]], the 17th-century priest who carried it from camp to camp and is the patron of the *malka*. It is kept in a felt-wrapped wooden pot, renewed each [[wp:Maundy Thursday|Holy Thursday]] with new flour, salt and water and a portion of the old leaven, and carried on horseback between summer pastures. Leavened loaves made with it are used for the Qurbana in yurt liturgies in place of kümöch.<sup>[2]</sup><sup>[3]</sup>
 
 The leaven may be given but never sold. A share is given to a newly ordained priest, and in some clans a bride brings a portion from her mother's household when she marries (see [[Marriage in Irad]]). Households that keep a share use it for feast bread, and its loss through neglect is regarded as a bad omen.<sup>[3]</sup>
 
@@ -1368,7 +1368,7 @@ Folk legends offer other endings. In some, the clans survive in a hidden valley 
 
 ## Commemoration
 
-The Lost Tribes are remembered on 15 August, when parishes of the [[Syro-Iradi Catholic Church]] hold memorial services and herders in both the [[Irad Special Economic Zone]] and the [[Autonomous Tribal Regions]] hold horse blessings. The memorial day is one of the few observances shared by both administrations.<sup>[4]</sup> The inverted horseshoe on the national flag, which follows the [[Fallen Rider Tradition]], officially commemorates the martyrs of 1916 together with the dead of the Soviet purges and the civil wars.
+The Lost Tribes are remembered on 15 August, when parishes of the [[Syro-Iradi Catholic Church]] hold memorial services and herders in both the [[Irad Special Economic Zone]] and the [[Autonomous Tribal Regions]] hold horse blessings. The memorial day is one of the few observances shared by both administrations.<sup>[4]</sup> At the prayers the name of [[Yawsep Mambet uulu|Fr. Yawsep of the Passes]] is read, the parish priest who stayed with the dying on the Bedel Pass and whom the church placed in its calendar of saints in 1922.<sup>[5]</sup> The inverted horseshoe on the national flag, which follows the [[Fallen Rider Tradition]], officially commemorates the martyrs of 1916 together with the dead of the Soviet purges and the civil wars.
 
 ## References
 <ol class="references">
@@ -1376,6 +1376,7 @@ The Lost Tribes are remembered on 15 August, when parishes of the [[Syro-Iradi C
 <li id="cite_note-2"><b>^</b> Central Asian Folklore Society (2021). Epic Cycles and Horseback Chants of the Northern Valleys. Talas State University Press, Talas, pp. 135–158.</li>
 <li id="cite_note-3"><b>^</b> Chokobaeva, Aminat; Drieu, Cloé; Morrison, Alexander, eds. (2019). The Central Asian Revolt of 1916: A Collapsing Empire in the Age of War and Revolution. Manchester University Press, Manchester.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2016). Blood on the Snow: The Iradi Clans in the Revolt of 1916. Centenary volume, Talas, pp. 201–236.</li>
+<li id="cite_note-5"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
 </ol>
 
 [[Category:History of Irad before 1925]]
@@ -1393,7 +1394,7 @@ The walled town (*shahristan*) covers about 11 hectares; with the citadel, the c
 - **The cathedral complex:** in the middle of the walled town, a three-aisled basilica of river stone and fired brick measuring 38 by 24 meters, with its apse to the east, a baptistery and ancillary rooms on its northern side, and fragments of carved alabaster friezes bearing Syriac inscriptions and crosses. The fired-brick apse still stands about 10 meters high with the northern half of its semi-dome, which rises to about 17 meters; beside it stand the east wall, to about 12 meters, and two arches of the south arcade, about 13 meters high. Seen from Cathedral Hill, they are the landmark of the site. The rest of the church survives as footings, and a light conservation shelter roofs the baptistery.
 - **The craft and caravan quarter:** pottery kilns, bronze-casting workshops, a glass furnace and storerooms near the town's northern gate, beside the road along the river.
 
-Outside the walls to the east, on the slope down to the river and facing Cathedral Hill, lies the cemetery, where several hundred grave markers have been recorded. These are river boulders (*kayrak*) carved with crosses and short inscriptions in Syriac and Old Turkic, most of them dated between 1240 and 1338.<sup>[2]</sup> They are similar to the Christian gravestones of the Chu valley cemeteries near [[wp:Tokmok]] and [[wp:Bishkek]], published in the 1890s by [[wp:Daniel Chwolson]].<sup>[4]</sup> Their crosses, rising from lotuses or clouds, are the model for the modern [[Iradi Cross|Iradi cross]]. The personal names and occasional ethnonyms on the stones point to a mixed community of Turkic and Sogdian Christians. Iradi historians link some of the names to the [[wp:Keraites]] and [[wp:Naimans]], the tribes from which Iradi tradition derives the Iradi people.<sup>[2]</sup>
+Outside the walls to the east, on the slope down to the river and facing Cathedral Hill, lies the cemetery, where several hundred grave markers have been recorded. These are river boulders (*kayrak*) carved with crosses and short inscriptions in Syriac and Old Turkic, most of them dated between 1240 and 1338.<sup>[2]</sup> An undated 14th-century stone from the cemetery naming "Nahrai son of Yuhannan, the ferryman" is taken by the church as the memorial of [[Nahrai the Ferryman|Mar Nahrai]], who by tradition kept the ferry from the town's river gate to the foot of the hill opposite; archaeologists say only that a ferryman of that name lived in the town.<sup>[4]</sup> They are similar to the Christian gravestones of the Chu valley cemeteries near [[wp:Tokmok]] and [[wp:Bishkek]], published in the 1890s by [[wp:Daniel Chwolson]].<sup>[5]</sup> Their crosses, rising from lotuses or clouds, are the model for the modern [[Iradi Cross|Iradi cross]]. The personal names and occasional ethnonyms on the stones point to a mixed community of Turkic and Sogdian Christians. Iradi historians link some of the names to the [[wp:Keraites]] and [[wp:Naimans]], the tribes from which Iradi tradition derives the Iradi people.<sup>[2]</sup>
 
 ## Name
 The town was not called Iyık Janyl. Its gravestones describe the dead as "of Sarwakat", in Syriac and in Old Turkic, and archaeologists have called it Sarvakath since the Soviet excavations; the name is Sogdian-Persian, "juniper town", from *sarv-i kuhi*, the mountain juniper. No medieval source connects it with Janyl. *Iyık Janyl* ("holy Janyl") is the name of the town that grew up around the church of 1727, and *Shar-i-Kuhna* is what the Persian-speaking masons and Kokand officials of the 18th century called the ruins. *Old Iyık Janyl* is the 19th-century name, which remains the everyday and official one, used in the World Heritage inscription and the State Register (No. 97/002); Talas State University and the [[Heritage Protection Service]] use Sarvakath, and the archeparchy uses both.<sup>[2]</sup>
@@ -1402,25 +1403,26 @@ The town was not called Iyık Janyl. Its gravestones describe the dead as "of Sa
 
 The settlement was founded in the 11th century under the [[wp:Kara-Khanid Khanate]] as a Christian town on a route between the Talas valley and the Fergana side of the mountains. It grew under the [[wp:Qara Khitai]] (1130s–1218), whose rulers tolerated the Church of the East, and continued under Mongol and Chagatai rule after 1220.<sup>[1]</sup> Iradi church tradition associates the site with [[Janyl (Historical Figure)|Janyl]], who is said to have consecrated a church in the valley in the 11th century (the 12th in some chronicles). Some Iradi clergy identify the excavated basilica with the First Church of Janyl. Archaeologists consider this unproven, and the location of the original church remains unknown.<sup>[2]</sup>
 
-The town declined in the 14th century. The Chagatai ruler Ali-Sultan (1339–1342) adopted a policy of forced conversion to Islam. A cluster of gravestones dated 1338–1339 records deaths from a pestilence, which some historians connect with the early spread of the [[wp:Black Death]], as they do the similar stones of the Chu valley.<sup>[4]</sup> [[wp:Timur|Timur's]] campaigns against [[wp:Moghulistan]] in the 1370s–1390s completed the decline, and the town appears to have been abandoned by about 1400. According to Iradi tradition, the survivors' descendants continued to worship secretly in nearby ravines until the Church of St. Janyl was built in the present city under a 1727 charter from the [[wp:Khanate of Kokand]].<sup>[2]</sup>
+The town declined in the 14th century. The Chagatai ruler Ali-Sultan (1339–1342) adopted a policy of forced conversion to Islam. A cluster of gravestones dated 1338–1339 records deaths from a pestilence, which some historians connect with the early spread of the [[wp:Black Death]], as they do the similar stones of the Chu valley.<sup>[5]</sup> [[wp:Timur|Timur's]] campaigns against [[wp:Moghulistan]] in the 1370s–1390s completed the decline, and the town appears to have been abandoned by about 1400. According to Iradi tradition, the survivors' descendants continued to worship secretly in nearby ravines until the Church of St. Janyl was built in the present city under a 1727 charter from the [[wp:Khanate of Kokand]].<sup>[2]</sup>
 
 The church was sited because of the ruins. In the 1720s the basilica of Sarvakath, 38 by 24 meters, was the largest church site known in the valley, and the clergy took it for Janyl's First Church; the khan's church was built on the hill across the river from it, in sight of the ruins, on that assumption. Once the identification came to be doubted in the 19th century, the church began to describe its cathedral as a symbolic re-creation of the First Church rather than a claim to its site, and it has made no determination since. Many clergy and most pilgrims still say that Janyl's church stood here.<sup>[2]</sup>
 
 ## Research
 
-The Russian orientalist [[wp:Vasily Bartold|Vasily Barthold]] surveyed the ruins in 1893. Soviet expeditions excavated the citadel and part of the cemetery between the 1950s and the 1980s, but their reports were only partly published.<sup>[2]</sup> During the territorial period, [[Talas State University]] and American university teams carried out joint excavations from 1994, uncovering the full plan of the basilica and the craft quarter. Talas State University has continued work at the site since 2007.<sup>[5]</sup> Finds include silver liturgical chalices, enameled bronze crosses, glass vessels and coins of the Kara-Khanid and Chagatai periods. They are displayed at the [[Cathedral Seminary Library of Iyık Janyl]] and the [[National Historical Museum of Irad]] in [[Talas]].
+The Russian orientalist [[wp:Vasily Bartold|Vasily Barthold]] surveyed the ruins in 1893. Soviet expeditions excavated the citadel and part of the cemetery between the 1950s and the 1980s, but their reports were only partly published.<sup>[2]</sup> During the territorial period, [[Talas State University]] and American university teams carried out joint excavations from 1994, uncovering the full plan of the basilica and the craft quarter. Talas State University has continued work at the site since 2007.<sup>[6]</sup> Finds include silver liturgical chalices, enameled bronze crosses, glass vessels and coins of the Kara-Khanid and Chagatai periods. They are displayed at the [[Cathedral Seminary Library of Iyık Janyl]] and the [[National Historical Museum of Irad]] in [[Talas]].
 
 ## Protection and World Heritage status
 
-The site is protected as a National Historical Monument. Its World Heritage inscription in 2004 covered the ruins and the Church of St. Janyl as a single property. Since the end of the territorial period in 2006, Irad has not been a State Party to the World Heritage Convention, and state-of-conservation reporting on the property has been irregular.<sup>[3]</sup> The main threats are erosion of the exposed mudbrick walls and of the standing brickwork, pressure from pilgrim and tourist traffic during the [[Feast of St. Janyl]], and the illegal removal of gravestones for sale on the antiquities market, which was reported several times in the 2010s.<sup>[5]</sup>
+The site is protected as a National Historical Monument. Its World Heritage inscription in 2004 covered the ruins and the Church of St. Janyl as a single property. Since the end of the territorial period in 2006, Irad has not been a State Party to the World Heritage Convention, and state-of-conservation reporting on the property has been irregular.<sup>[3]</sup> The main threats are erosion of the exposed mudbrick walls and of the standing brickwork, pressure from pilgrim and tourist traffic during the [[Feast of St. Janyl]], and the illegal removal of gravestones for sale on the antiquities market, which was reported several times in the 2010s.<sup>[6]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Barthold, Vasily (1968). Turkestan Down to the Mongol Invasion. Luzac & Co., London, pp. 182–199.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2019). Shar-i-Kuhna: The Medieval Christian Town of Old Iyık Janyl. Excavation reports 1994–2018, Talas, pp. 9–144.</li>
 <li id="cite_note-3"><b>^</b> UNESCO World Heritage Centre (2004). Nomination file: Church of St. Janyl and the Ruins of Old Iyık Janyl. Paris.</li>
-<li id="cite_note-4"><b>^</b> Chwolson, Daniel (1890). Syrisch-nestorianische Grabinschriften aus Semirjetschie. Imperial Academy of Sciences, St. Petersburg.</li>
-<li id="cite_note-5"><b>^</b> Talas Herald (3 March 2017). '<a class="ext" href="https://talasherald.com/archive/2017/gravestones-from-shar-i-kuhna-surface-at-foreign-auctions.html" target="_blank" rel="noopener">Gravestones from Shar-i-Kuhna Surface at Foreign Auctions.</a>' Retrieved 21 September 2025.</li>
+<li id="cite_note-4"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-5"><b>^</b> Chwolson, Daniel (1890). Syrisch-nestorianische Grabinschriften aus Semirjetschie. Imperial Academy of Sciences, St. Petersburg.</li>
+<li id="cite_note-6"><b>^</b> Talas Herald (3 March 2017). '<a class="ext" href="https://talasherald.com/archive/2017/gravestones-from-shar-i-kuhna-surface-at-foreign-auctions.html" target="_blank" rel="noopener">Gravestones from Shar-i-Kuhna Surface at Foreign Auctions.</a>' Retrieved 21 September 2025.</li>
 </ol>
 
 [[Category:History of Irad before 1925]]
@@ -2775,7 +2777,7 @@ She studied [[Iradi literature]] and pedagogy at [[Talas State University]] and 
 Toktarova's research concerns bilingual education, mother-tongue literacy in post-Soviet [[wp:Central Asia]] and the revitalization of minority and indigenous languages. She has written on the teaching of Iradi and English in the schools of the ISEZ and on the revival of Iradi among young urban people (see [[Iradi Language]] and [[Iradi language revival]]).<sup>[1]</sup> Her dissertation research has been fieldwork in the village schools of the Talas valley. She has presented papers at international education conferences and, before 2024, gave occasional lectures at Talas State University during visits to Irad.
 
 ## Public life
-Toktarova keeps a low public profile and has made few public statements on political matters. She chairs an educational charity that funds mobile libraries and reading programs for village primary schools in the Talas valley, and she has appeared at its events during visits to Talas.<sup>[5]</sup> Since 2025 she has also been a trustee of the [[Körköm Foundation]], the arts foundation that funds the [[Irad Palace of Art]], where she looks after its children's and literature programs. Acquaintances quoted in the Talas press describe her as quiet and unassuming. Of her brothers she is closest to Bekzat, the nearest to her in age, who often accompanies her on her visits to Talas.<sup>[6]</sup>
+Toktarova keeps a low public profile and has made few public statements on political matters. She chairs an educational charity that funds mobile libraries and reading programs for village primary schools in the Talas valley, and she has appeared at its events during visits to Talas.<sup>[5]</sup> Since 2025 she has also been a trustee of the [[Körköm Foundation]], the arts foundation that funds the [[Irad Palace of Art]], where she looks after its children's and literature programs; she was among the trustees named in the *[[Irad Times]]*'s 2025 report on the foundation's finances, which the foundation denied. Acquaintances quoted in the Talas press describe her as quiet and unassuming. Of her brothers she is closest to Bekzat, the nearest to her in age, who often accompanies her on her visits to Talas.<sup>[6]</sup>
 
 Her years abroad drew comment during the 2019 campaign, when the Russian-language press in Nurzhan, led by *Vecherniy Nurzhan*, called her "the Californian" (*Kaliforniyka*) and asked how a Lieutenant Governor whose family lived in America could bargain with Washington over the air base; the line faded once the children came home to Talas schools that summer. The *Talas Herald* treated the arrangement as private and reported it once, in its 2019 profile of Maksat, and [[IradOne]] shows her only at family occasions.<sup>[4]</sup> [[FreeIrad.org|FreeIrad]] has claimed that she holds a US green card and that her children have US passports; it has offered no evidence, and the children were all born in Talas.
 
@@ -3103,7 +3105,8 @@ The church also seeks the return of the [[Chu Psalter]], a 13th-century Christia
 ## Collections
 The manuscripts date from the 9th to the early 20th century. Among the best known are:
 - the **Talas Gospel Lectionary** (about 1185), an illuminated Syriac lectionary in Estrangela script with marginal notes in Turkic written in Syriac letters, an early witness to the Turkic-speaking Christianity of the region;
-- the **Gospels of Iyık Janyl**, a 13th-century Gospel book copied, according to its colophon, by a monk named Marqos (see [[Marqos the Scribe]]);
+- the **Gospels of Iyık Janyl**, a 13th-century Gospel book copied, according to its colophon, by a monk named Marqos (see [[Marqos the Scribe]]), by tradition at the order of Bishop [[Mar Shlemun of Taraz]], whose feast the library keeps;
+- a 14th-century **hymnary** with a Syriac note of the 1340s on Kutlug and her companions, the source of the cult of the [[Martyrs of Almaliq]], and the Syriac homilies (*memra*) on [[Nahrai the Ferryman|Nahrai]] (copy of 1612), [[Mart Terim]] and [[Rabban Qayoma]];
 - fragments of **Sogdian commercial and legal documents** of the 9th and 10th centuries, written on paper and recording grain sales, water rights and caravan escorts in the Chu valley;
 - 14th-century copies of works of **Bar Hebraeus**, including his ecclesiastical chronicle, which records the conversion of the [[wp:Keraites|Keraits]];
 - letters connected with the 13th-century papal envoys to the [[wp:Mongols]] sent by [[wp:Pope Innocent IV]];
@@ -3810,7 +3813,7 @@ To cross the Qara-Chik line, the mobile teams need tribal travel permits from th
 Both administrations allow the mission to work but have at times restricted it. Tribal elders have objected to ISEZ checkpoint delays affecting its convoys, while ISEZ officials have questioned whether supplies taken across the line reach their intended recipients. The mission says it does not take sides and reports only on health needs.<sup>[5]</sup>
 
 ## Organization and funding
-The mission is governed by a board appointed by the Bishop of Talas and employs about 380 staff, most of them Iradi doctors, nurses and drivers. It is funded by church collections, Catholic and [[wp:Protestantism|Protestant]] agencies abroad, donations from [[Iradi Americans]] and hospital fees. It has no regular funding from the ISEZ government, although ISEZ health authorities count its mobile teams in their coverage figures for the rural districts.<sup>[1]</sup><sup>[2]</sup>
+The mission is governed by a board appointed by the Bishop of Talas and employs about 380 staff, most of them Iradi doctors, nurses and drivers. It is funded by church collections, Catholic and [[wp:Protestantism|Protestant]] agencies abroad, donations from [[Iradi Americans]] and hospital fees. It has no regular funding from the ISEZ government, although ISEZ health authorities count its mobile teams in their coverage figures for the rural districts.<sup>[1]</sup><sup>[2]</sup> Besides St. Luke and Cosmas and Damian, the mission keeps as its patron [[Mart Terim|Mart Terim the Physician]], the 12th-century saint of the sick, on whose feast (8 July) its clinics are blessed.<sup>[6]</sup>
 
 The hospital refers complex surgical and obstetric cases to the [[Talas Regional Hospital Medical Complex]], with which it also runs a joint tuberculosis screening program.
 
@@ -3826,6 +3829,7 @@ The hospital refers complex surgical and obstetric cases to the [[Talas Regional
 <li id="cite_note-3"><b>^</b> Iyık Janyl Diocesan Archives. <i>Charitable Foundations and Hospital Registers, 1994–2022</i>. Iyık Janyl.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (30 May 2007). '<a class="ext" href="https://talasherald.com/archive/2007/hospitals-full-as-siege-tightens.html" target="_blank" rel="noopener">Hospitals full as siege tightens.</a>' Talas. Retrieved 30 April 2026.</li>
 <li id="cite_note-5"><b>^</b> United Nations Mission in Irad (2023). <i>Humanitarian Access across the Qara-Chik Line: Annual Review</i>. Kara-Oi.</li>
+<li id="cite_note-6"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
 </ol>
 
 ### 4.75. Sukarne Irad Complex
@@ -4282,18 +4286,18 @@ The dam stands in the gorge where the Naryn leaves the Toktogul basin, a wide va
 ## History
 
 #### Construction
-The Naryn cascade was planned in the 1950s as part of the Soviet program to expand irrigated cotton in Central Asia. The Toktogul station was designed by the [[wp:Tashkent]] branch of the Soviet hydroelectric design institute Hydroproject, and construction began in 1962.<sup>[4]</sup> Thousands of workers, many of them from other Soviet republics, lived in Kara-Köl during the works. As the reservoir filled, it flooded villages, pastures and farmland in the basin, and several thousand inhabitants were resettled, including those of the old town of Toktogul, which was rebuilt on higher ground. Many Iradi families from the drowned villages were given plots in [[Talas]] in 1974–78, in the district of Köchkön ("those who moved"), whose streets are named after the villages; they still hold a remembrance on the reservoir shore each August. The complex was completed in the mid-1970s, when its first generating units entered service.<sup>[4]</sup>
+The Naryn cascade was planned in the 1950s as part of the Soviet program to expand irrigated cotton in Central Asia. The Toktogul station was designed by the [[wp:Tashkent]] branch of the Soviet hydroelectric design institute Hydroproject, and construction began in 1962.<sup>[4]</sup> Thousands of workers, many of them from other Soviet republics, lived in Kara-Köl during the works. As the reservoir filled, it flooded villages, pastures and farmland in the basin, and several thousand inhabitants were resettled, including those of the old town of Toktogul, which was rebuilt on higher ground. Many Iradi families from the drowned villages were given plots in [[Talas]] in 1974–78, in the district of Köchkön ("those who moved"), whose streets are named after the villages; they still hold a remembrance on the reservoir shore each August, with a prayer to [[Nahrai the Ferryman|Mar Nahrai]], the saint of the river. The walls of the chapel of one drowned village, [[Kemechi]], show above the water when the reservoir is drawn down low, as in 2021 and 2023.<sup>[5]</sup> The complex was completed in the mid-1970s, when its first generating units entered service.<sup>[4]</sup>
 
 #### Soviet operation
 Under Soviet planning the reservoir was run mainly for irrigation. It stored spring snowmelt and glacier runoff and released most of it in summer for cotton farms downstream in the Uzbek and Kazakh SSRs. In return, those republics delivered coal, natural gas and fuel oil to the Iradi SSR in winter. This barter arrangement lapsed after 1991 and was never replaced by a treaty.<sup>[2]</sup>
 
 #### 1991–2007
-After the end of Soviet barter, the [[Socialist Republic of Irad]] and then the territorial administration began to keep more water in the reservoir in summer and release more in winter, when electricity was most needed. This shift became a recurring source of friction with Uzbekistan and Kazakhstan. The complex was not fought over in the [[First Iradi Civil War]] of 1992.<sup>[2]</sup> During the territorial period it was run by the [[Territorial Power Authority of Irad]], which began to export electricity to its neighbors. With grants from the [[wp:United States Agency for International Development|US Agency for International Development]], the American firm Harza Engineering made a dam-safety study in 1994 and was engineer of record for the first refit, in which [[wp:General Electric]] rewound the four generators and replaced their controls between 1997 and 2003; it kept the station's rating of 1,200 MW. Operators still call them "the GE machines"; their spare parts now come through Kazakhstan.<sup>[5]</sup>
+After the end of Soviet barter, the [[Socialist Republic of Irad]] and then the territorial administration began to keep more water in the reservoir in summer and release more in winter, when electricity was most needed. This shift became a recurring source of friction with Uzbekistan and Kazakhstan. The complex was not fought over in the [[First Iradi Civil War]] of 1992.<sup>[2]</sup> During the territorial period it was run by the [[Territorial Power Authority of Irad]], which began to export electricity to its neighbors. With grants from the [[wp:United States Agency for International Development|US Agency for International Development]], the American firm Harza Engineering made a dam-safety study in 1994 and was engineer of record for the first refit, in which [[wp:General Electric]] rewound the four generators and replaced their controls between 1997 and 2003; it kept the station's rating of 1,200 MW. Operators still call them "the GE machines"; their spare parts now come through Kazakhstan.<sup>[6]</sup>
 
-In the [[Second Iradi Civil War]] in 2007, the dam lay in territory held by the [[Popular Front of Irad]], while the switchyard and export lines were held by DPI forces. Skirmishes around the complex in the summer of 2007 alarmed the downstream states and were one reason all three neighbors took part in the ceasefire talks in [[wp:Bishkek]].<sup>[6]</sup><sup>[7]</sup>
+In the [[Second Iradi Civil War]] in 2007, the dam lay in territory held by the [[Popular Front of Irad]], while the switchyard and export lines were held by DPI forces. Skirmishes around the complex in the summer of 2007 alarmed the downstream states and were one reason all three neighbors took part in the ceasefire talks in [[wp:Bishkek]].<sup>[7]</sup><sup>[8]</sup>
 
 #### Since 2007
-The ceasefire placed the complex under the joint technical commission created by the Naryn Protocol and supervised by the [[United Nations Mission in Irad]] (UNMI). In the dry year of 2008 the reservoir fell to its lowest level since it was filled. In the [[Toktogul crisis (2008–09)|Toktogul crisis]] that followed, the El-Choro guard on the dam cut winter generation to hold water for the spring, and the ISEZ, which held the switchyard and the dispatch center, put [[Talas]] and [[Nurzhan]] on rolling blackouts from December and cut exports. In January 2009 a battalion of the ISEZ's State Defense Corps moved up State Route 1 to Kara-Köl, and on 19 January four of its conscripts and two El-Choro riders were killed in an exchange of fire on the dam road. UNMI then placed observers on the dam crest. Since the crisis the commission has kept a larger reserve in the reservoir.<sup>[1]</sup><sup>[8]</sup><sup>[9]</sup> The crisis led to UN-mediated talks on the basin and the road to the Lower Naryn, and on 14 July 2009 the two sides signed a protocol, approved by that year's Kurultai, that transferred the floor of the Toktogul basin, the dam, reservoir and powerhouse and the State Route 1 corridor to the ISEZ. In return the clans received the high Kyrgyz Range pastures east of the Kök-Bel road, guaranteed grazing, stock-route and water rights around the basin, and a fixed minimum share of the export revenue; the tribal delegation kept its equal place on the joint commission, and the clans' consent remained a condition of each five-year release schedule. The El-Choro handed the dam perimeter over to the Gendarmerie in October 2009. Neither side has moved against the other's installations since 2009.<sup>[3]</sup>
+The ceasefire placed the complex under the joint technical commission created by the Naryn Protocol and supervised by the [[United Nations Mission in Irad]] (UNMI). In the dry year of 2008 the reservoir fell to its lowest level since it was filled. In the [[Toktogul crisis (2008–09)|Toktogul crisis]] that followed, the El-Choro guard on the dam cut winter generation to hold water for the spring, and the ISEZ, which held the switchyard and the dispatch center, put [[Talas]] and [[Nurzhan]] on rolling blackouts from December and cut exports. In January 2009 a battalion of the ISEZ's State Defense Corps moved up State Route 1 to Kara-Köl, and on 19 January four of its conscripts and two El-Choro riders were killed in an exchange of fire on the dam road. UNMI then placed observers on the dam crest. Since the crisis the commission has kept a larger reserve in the reservoir.<sup>[1]</sup><sup>[9]</sup><sup>[10]</sup> The crisis led to UN-mediated talks on the basin and the road to the Lower Naryn, and on 14 July 2009 the two sides signed a protocol, approved by that year's Kurultai, that transferred the floor of the Toktogul basin, the dam, reservoir and powerhouse and the State Route 1 corridor to the ISEZ. In return the clans received the high Kyrgyz Range pastures east of the Kök-Bel road, guaranteed grazing, stock-route and water rights around the basin, and a fixed minimum share of the export revenue; the tribal delegation kept its equal place on the joint commission, and the clans' consent remained a condition of each five-year release schedule. The El-Choro handed the dam perimeter over to the Gendarmerie in October 2009. Neither side has moved against the other's installations since 2009.<sup>[3]</sup>
 
 ## Engineering
 - **Dam.** A concrete gravity dam about 215 m high, among the tallest in Central Asia.
@@ -4312,7 +4316,7 @@ Tribal engineers of the joint commission inspect the dam and verify the releases
 The reservoir's operation balances two demands. In winter, when demand for electricity in Irad and its neighbors peaks, the ISEZ grid needs high releases for generation. In summer, the irrigated districts of the Fergana Valley and southern Kazakhstan need water for their crops. Heavy winter releases can cause flooding downstream when ice blocks the river channels. Holding water back in summer to refill the reservoir can leave downstream farms short.<sup>[2]</sup> Researchers also expect glacier retreat in the Tien Shan to change the river's flow over the coming decades, reducing late-summer inflows. Retreat also enlarges the moraine-dammed lakes above the valleys, and since the [[Sary-Say mudflow]] of 1973 the Talas River Hydrological Monitoring Service has watched them; "never another Sary-Say" is the phrase Iradi officials and newspapers use when glacier lakes are in the news.
 
 ## Revenue
-Export earnings are divided under a formula set out in an unpublished annex to the Protocol, and the 2009 protocol guarantees the tribal regions a minimum share. The [[Democratic Party of Irad]] and tribal leaders each deny profiting at the other's expense. Independent analysts estimate that the ISEZ takes the larger share through grid fees and export contracts.<sup>[3]</sup> The complex is nevertheless the largest single source of revenue for the tribal regions, and analysts believe the [[Iradi Freedom Society]] meets part of its expenses from its share. For the ISEZ, the ability to cut electricity exports gives some leverage against the transit restrictions that Kazakhstan and Uzbekistan have imposed during disputes.<sup>[6]</sup>
+Export earnings are divided under a formula set out in an unpublished annex to the Protocol, and the 2009 protocol guarantees the tribal regions a minimum share. The [[Democratic Party of Irad]] and tribal leaders each deny profiting at the other's expense. Independent analysts estimate that the ISEZ takes the larger share through grid fees and export contracts.<sup>[3]</sup> The complex is nevertheless the largest single source of revenue for the tribal regions, and analysts believe the [[Iradi Freedom Society]] meets part of its expenses from its share. For the ISEZ, the ability to cut electricity exports gives some leverage against the transit restrictions that Kazakhstan and Uzbekistan have imposed during disputes.<sup>[7]</sup>
 
 ## People
 - [[Pavel Polyakov]], chief engineer of the dam (1962–75)
@@ -4324,11 +4328,12 @@ Export earnings are divided under a formula set out in an unpublished annex to t
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Water, Watts and the Ceasefire: Supervising the Naryn Protocol.' Vol. 20, No. 1, pp. 58–81.</li>
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Shared Hostage: The Toktogul Complex and the Qara-Chik Line.' Vol. 29, Iss. 3, pp. 211–230.</li>
 <li id="cite_note-4"><b>^</b> Ministry of Energy and Electrification of the Iradi SSR (1980). <i>The Toktogul Hydroelectric Station: Construction and Operation</i>. Kobozev.</li>
-<li id="cite_note-5"><b>^</b> Territorial Power Authority of Irad (2004). <i>Annual Report 2003: Completion of the Toktogul Generator Program</i>. Talas.</li>
-<li id="cite_note-6"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 265–301.</li>
-<li id="cite_note-7"><b>^</b> Interfax (2 August 2007). 'Fighting reported near Toktogul dam as downstream states call for talks.' Moscow.</li>
-<li id="cite_note-8"><b>^</b> Fergana News Agency (14 January 2009). «В Ираде вводят веерные отключения электроэнергии» [Rolling power cuts introduced in Irad] (in Russian). Moscow.</li>
-<li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2019). 'The Black Winter: The Toktogul Crisis of 2008–09 Ten Years On.' Vol. 15, No. 1, pp. 33–57.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 96–118.</li>
+<li id="cite_note-6"><b>^</b> Territorial Power Authority of Irad (2004). <i>Annual Report 2003: Completion of the Toktogul Generator Program</i>. Talas.</li>
+<li id="cite_note-7"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 265–301.</li>
+<li id="cite_note-8"><b>^</b> Interfax (2 August 2007). 'Fighting reported near Toktogul dam as downstream states call for talks.' Moscow.</li>
+<li id="cite_note-9"><b>^</b> Fergana News Agency (14 January 2009). «В Ираде вводят веерные отключения электроэнергии» [Rolling power cuts introduced in Irad] (in Russian). Moscow.</li>
+<li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2019). 'The Black Winter: The Toktogul Crisis of 2008–09 Ten Years On.' Vol. 15, No. 1, pp. 33–57.</li>
 </ol>
 
 ## External links
@@ -5795,6 +5800,7 @@ Ayyubov was rehabilitated in 1957, and a small exhibition of his landscapes was 
 
 ## External links
 - <a class="ext" href="https://besh-tash.korkom.org/" target="_blank" rel="noopener">Yusup Ayyubov House-Museum, Besh-Tash</a>
+- <a class="ext" href="https://ayyubov.iradedu.org/" target="_blank" rel="noopener">Talas Art College named after Yusup Ayyubov</a>
 
 [[Category:Visual artists]]
 [[Category:Painters]]
@@ -5926,28 +5932,31 @@ The OSCE Office for Democratic Institutions and Human Rights has sent limited as
 The **Iradi calendar** (Iradi: *Irad jyl sanagy*, "Iradi year-reckoning") is the set of overlapping calendars that organize the year in Irad. The civil calendar of both zones is the Gregorian. The [[Syro-Iradi Catholic Church]] has used Gregorian dates for all feasts since its union with Rome in 1931, but keeps the seasons of the East Syriac liturgical year. Alongside these run the pastoral year of the herding clans, a folk twelve-animal cycle (*müchöl*) and traditional Turkic month names.<sup>[1]</sup><sup>[2]</sup> The most disputed date is Nooruz, an ISEZ public holiday since 1993, which parts of the clergy still regard as a Persian custom (see [[Public holidays in Irad]]).<sup>[3]</sup>
 
 ## Church year
-The church year follows the seasons of the East Syriac rite (see [[East Syriac Rites of Iyık Janyl]]), which are named in [[wp:Syriac language|Syriac]] in the archeparchy's annual liturgical calendar, the *Tartip*, published at [[Iyık Janyl]] since 1993. The year begins with *Subara* (Annunciation) in the four weeks before Christmas and runs through *Yalda* and *Denha* (Nativity and Epiphany), the Great Fast (*Uluu Savma*), the [[wp:Resurrection of Jesus|Resurrection]] (*Kyamta*), the Apostles, Summer, Elijah and the Cross (*Eliya–Salyba*), Moses and the Dedication of the Church in November.<sup>[2]</sup> On 6 January priests bless water, and herders take it home from rural churches for the winter.
+The church year follows the seasons of the East Syriac rite (see [[East Syriac Rites of Iyık Janyl]]), which are named in [[wp:Syriac language|Syriac]] in the archeparchy's annual liturgical calendar, the *Tartip*, published at [[Iyık Janyl]] since 1993. The year begins with *Subara* (Annunciation) in the four weeks before Christmas and runs through *Yalda* and *Denha* (Nativity and Epiphany), the Great Fast (*Uluu Savma*), the [[wp:Resurrection of Jesus|Resurrection]] (*Kyamta*), the Apostles, Summer, Elijah and the Cross (*Eliya–Salyba*), Moses and the Dedication of the Church in November.<sup>[2]</sup> On 6 January priests bless water, and herders take it home from rural churches for the winter; at Iyık Janyl the archbishop blesses the waters at [[Nahrai's Ford]] on the Naryn.
 
 Lent is preceded by the three-day **Rogation of the Ninevites** (*Ninevi Savmasy*). Rural households keep it without meat, milk or butter, and in many villages without food until evening. Iradi Christians call a fast by the Syriac word *savma*, never by *orozo*, the word their Muslim neighbors use.<sup>[4]</sup>
 
 #### Main feasts
 - **Holy Thursday.** In the Chatkal valley and eastern mountains of the [[Autonomous Tribal Regions]] (ATR), clans that keep the holy leaven (*malka*) renew it with new flour, salt and water, and call the day *Achytky Beyshembi* ("Leaven Thursday") (see [[Kümöch Sacramental Bread]]).
 - **Feast of St. Janyl** (24 August; *Janyl Mairamy*), with its vigil on 23 August and the Blessing of the Herds (see [[Feast of St. Janyl]]).
-- **Feast of the Cross** (14 September; *Salyba Künü*). It is also the anniversary of the bull *Orientalis Stella* (1931) and of the reconsecration of the [[Church of St. Janyl]] (1992). Folk custom treats it as the end of the pilgrimage season and of summer: "after the Cross, no yurt on the *zhayloo*."<sup>[2]</sup>
+- **Feast of the Cross** (14 September; *Salyba Künü*). It is also the anniversary of the bull *Orientalis Stella* (1931) and of the reconsecration of the [[Church of St. Janyl]] (1992). Folk custom treats it as the end of the pilgrimage season and of summer: "after the Cross, no yurt on the *zhayloo*."<sup>[2]</sup> The first Sunday after it is the **Sunday of the Saints of Irad**, when the cathedral names all the church's own saints and parishes bring their saints' icons out onto the *bema*.
+
+#### Iradi saints
+The church's own saints, the [[Saints of Irad|Proper of Irad]], are kept on these days: [[Rabban Qayoma]] (24 January), [[Mar Shlemun of Taraz]] (20 February), [[Abdisho the Shepherd]] (20 May, when the herds go up), [[Nahrai the Ferryman|Mar Nahrai]] (10 June), [[Mart Terim]] (8 July), Janyl (24 August), [[Martyrs of Almaliq|Kutlug and the Martyrs of Almaliq]] (13 October), [[Yawsep Mambet uulu|Fr. Yawsep of the Passes]] (24 October) and [[Yuhanna of Merv]] (20 November). The victims of 1937–38 are commemorated on 14 November. Of the universal saints, the most widely kept in the country are Gewargis (23 April, with the spring horse blessing), the Nativity of John the Baptist (24 June, with [[Yuhanna Tünü]] the night before) and Mar Eliya (20 July), the hail day, on which villagers do not cut hay or work in the fields (see [[Folk saints in Irad]]).<sup>[5]</sup>
 
 ## Saints' days and name days
-Many rural [[Iradis]] carry a Syriac-derived baptismal name, such as *Yuhanna*, *Maryam* or *Gewargis*, besides their everyday Turkic name (see [[Iradi name]]). The saint's feast is the person's name day (*at künü*). Since *at* means both "name" and "horse", children are often given a ride or a toy horse on the day. Every Janyl celebrates on 24 August.<sup>[5]</sup>
+Many rural [[Iradis]] carry a Syriac-derived baptismal name, such as *Yuhanna*, *Maryam* or *Gewargis*, besides their everyday Turkic name (see [[Iradi name]]). The saint's feast is the person's name day (*at künü*). Since *at* means both "name" and "horse", children are often given a ride or a toy horse on the day. Every Janyl celebrates on 24 August.<sup>[6]</sup>
 
-In the countryside the name day matters more than the birthday. The person attends the liturgy, receives the elders' blessing (*[[Bata (Culture)|bata]]*) and hosts a meal. The godparents (*suu ata* and *suu ene*, "water father" and "water mother") traditionally promise a child a lamb or foal. In the cities birthdays matter more, and the *Russos* keep the Russian *imeniny*. Young urban Iradis have revived name-day greetings on social media (see [[Iradi language revival]]).<sup>[5]</sup>
+In the countryside the name day matters more than the birthday. The person attends the liturgy, receives the elders' blessing (*[[Bata (Culture)|bata]]*) and hosts a meal. The godparents (*suu ata* and *suu ene*, "water father" and "water mother") traditionally promise a child a lamb or foal; folk custom says they stand in for [[Nahrai the Ferryman|Mar Nahrai]], who carried the first Christians across the river. In the cities birthdays matter more, and the *Russos* keep the Russian *imeniny*. Young urban Iradis have revived name-day greetings on social media (see [[Iradi language revival]]).<sup>[6]</sup>
 
 ## Pastoral year
-The herding year of the ATR follows the four pasture seasons (see [[Central Asian Pastoral Migration System]]). Its fixed points have church blessings:<sup>[6]</sup>
+The herding year of the ATR follows the four pasture seasons (see [[Central Asian Pastoral Migration System]]). Its fixed points have church blessings:<sup>[7]</sup>
 - **Spring migration blessing** (*köch batasy*, April–May). A priest blesses the route and the first camp with spring water, milk and juniper smoke (*[[Mountain Juniper (Arsha)|arsha]]*). In the [[Talas Alatau]] horses are blessed on St. Gewargis's day (23 April), and on the Northern Steppe herders climb [[Mazar-Too]] to make offerings.
 - ***Kymyz muryndyk*** (late May–June). Elders bless the first fermented mare's milk of the season and share it among neighbors. Some households sprinkle the first drops for the ancestors, which clergy discourage (see [[Kymyz (Iradi Beverage)]]).
 - **Autumn return** (September). Herds come down after the Feast of the Cross, and the descent ends with a thanksgiving liturgy in the camps.
 
 ## Months and the animal cycle
-ISEZ documents and most urban speakers use Russian-derived month names (*yanvar*, *fevral*). Traditional Turkic names, close to the Kyrgyz ones, survive in the ATR, almanacs and the Iradi-language press:<sup>[7]</sup>
+ISEZ documents and most urban speakers use Russian-derived month names (*yanvar*, *fevral*). Traditional Turkic names, close to the Kyrgyz ones, survive in the ATR, almanacs and the Iradi-language press:<sup>[8]</sup>
 
 | Month | Iradi name | Meaning |
 |---|---|---|
@@ -5967,7 +5976,7 @@ ISEZ documents and most urban speakers use Russian-derived month names (*yanvar*
 The twelve-year animal cycle (*müchöl*) survives as a way of counting age rather than as a belief. Its years, in order, are the Mouse (*chychkan*), Cow (*uy*), Tiger (*jolbors*), Hare (*koyon*), Fish (*balyk*, the Dragon of the Chinese cycle), Snake (*jylan*), Horse (*jylky*), Sheep (*koy*), Monkey (*mechin*), Hen (*took*), Dog (*it*) and Pig (*donguz*), each called "*X jyly*" ("year of X"): 2020 was a Mouse year and 2026 a Horse year. Traditionally the year turns in spring, but city people count from 1 January. Older people sometimes call the Cow year (*uy jyly*) unlucky, a minor superstition linked to [[Morkhan (Mythology)|Morkhan]], and some highland grandmothers call it the Year of the Argali (*arkar jyly*). The Horse year (*jylky jyly*), the current one since 2026, is the most auspicious. Ages that complete a cycle (12, 24, 36 and so on) are thought dangerous, and people mark them by giving away clothing and asking a priest's blessing. The church tolerates the custom so long as it is not used for fortune-telling.<sup>[4]</sup>
 
 ## Nooruz
-Nooruz (21 March), the spring equinox festival, has been contested since the 1990s. When the [[Territorial Legislature of Irad|Territorial Legislature]] debated the Holidays and Commemorative Days Act in 1993, Muslim deputies from the Fergana Rim and members of the Talas intelligentsia supported it as a shared steppe festival, while several members of the [[Syro-Iradi Council of Hierarchs]] called it "a Persian feast, kept by Muslims". The Act kept the holiday. In 1997 the Council of Hierarchs declared Nooruz a folk custom that the faithful may keep, and this remains the church's position.<sup>[3]</sup><sup>[8]</sup>
+Nooruz (21 March), the spring equinox festival, has been contested since the 1990s. When the [[Territorial Legislature of Irad|Territorial Legislature]] debated the Holidays and Commemorative Days Act in 1993, Muslim deputies from the Fergana Rim and members of the Talas intelligentsia supported it as a shared steppe festival, while several members of the [[Syro-Iradi Council of Hierarchs]] called it "a Persian feast, kept by Muslims". The Act kept the holiday. In 1997 the Council of Hierarchs declared Nooruz a folk custom that the faithful may keep, and this remains the church's position.<sup>[3]</sup><sup>[9]</sup>
 
 Practice varies. Kyrgyz, Uzbek and Kazakh Muslims treat it as a major festival, especially in the Fergana Rim. Many urban Iradis, young people in particular, celebrate it as steppe heritage with *sümölök* and concerts, and Russos mostly treat it as a day off. ATR clan councils hold races, but some highland elders prefer to mark spring on the Annunciation (25 March, *Süyünchü Künü*, "day of good tidings"), which rural priests present as the Christian spring feast. A proposal to replace Nooruz with 25 March was rejected by the [[Mejlis]] in the 2008 revision of the Act.<sup>[3]</sup>
 
@@ -5985,10 +5994,11 @@ Practice varies. Kyrgyz, Uzbek and Kazakh Muslims treat it as a major festival, 
 <li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2023). <i>Tartip: Liturgical Calendar and Ordo of the Syro-Iradi Catholic Church, 2023–2024</i>. Iyık Janyl: Cathedral Seminary Press.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Nooruz in a Christian Country: Spring Festivals and Identity in Irad.' Vol. 13, pp. 101–124.</li>
 <li id="cite_note-4"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press.</li>
-<li id="cite_note-5"><b>^</b> Talas State University Press (2017). <i>Steppe, Oasis and Church: An Introduction to Iradi Culture</i>. Talas, pp. 220–241.</li>
-<li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Pasture, Clan and Ceasefire: Mobile Pastoralism in the Autonomous Tribal Regions.' Vol. 16, No. 3, pp. 201–229.</li>
-<li id="cite_note-7"><b>^</b> <i>Journal of Central Asian Linguistics</i> (2022). 'Orthographic Reform and Toponymic Restoration in Irad.' Vol. 18, No. 2, pp. 88–104.</li>
-<li id="cite_note-8"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
+<li id="cite_note-5"><b>^</b> Archeparchy of Iyık Janyl (2026). <i>Tartip 2027: Liturgical Calendar of the Syro-Iradi Catholic Church</i>. Iyık Janyl.</li>
+<li id="cite_note-6"><b>^</b> Talas State University Press (2017). <i>Steppe, Oasis and Church: An Introduction to Iradi Culture</i>. Talas, pp. 220–241.</li>
+<li id="cite_note-7"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Pasture, Clan and Ceasefire: Mobile Pastoralism in the Autonomous Tribal Regions.' Vol. 16, No. 3, pp. 201–229.</li>
+<li id="cite_note-8"><b>^</b> <i>Journal of Central Asian Linguistics</i> (2022). 'Orthographic Reform and Toponymic Restoration in Irad.' Vol. 18, No. 2, pp. 88–104.</li>
+<li id="cite_note-9"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
 </ol>
 
 ## External links
@@ -6273,6 +6283,9 @@ Extracts from *Akyrky Ashuu* are taught in ISEZ schools, and village schools in 
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (3 February 2009). '<a class="ext" href="https://talasherald.com/archive/2009/kemel-ishakov-the-voice-of-the-passes-dies-at-78.html" target="_blank" rel="noopener">Kemel Ishakov, the voice of the passes, dies at 78.</a>' Talas. Retrieved 14 January 2025.</li>
 <li id="cite_note-7"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://ishakov.korkom.org/" target="_blank" rel="noopener">Kemel Ishakov House-Museum</a>, Arsha-Say
 
 [[Category:Writers]]
 
@@ -6667,7 +6680,7 @@ In 2008, after the Department of Public Information took powers to license publi
 No block has been officially announced. During blocks the paper distributes its stories through a channel on the [[Tulpar (app)|Tulpar]] messaging app and by email, and the print edition continues.
 
 ## Staff
-Besides Daniyar, the paper's longest-serving journalist is the senior correspondent Erlan Sagyn (born 1971), one of the reporters who left IradOne in 1996 to found it. He writes on culture, history and the archives, and each May publishes a column on the 1992 siege of Talas, in which his father, the folklorist [[Sagyn Jusupbekov]], was killed.<sup>[1]</sup>
+Besides Daniyar, the paper's longest-serving journalist is the senior correspondent Erlan Sagyn (born 1971), one of the reporters who left IradOne in 1996 to found it. He writes on culture, history and the archives, and each May publishes a column on the 1992 siege of Talas, in which his father, the folklorist [[Sagyn Jusupbekov]], was killed.<sup>[1]</sup> The investigations reporter Kalipa Usubaly (born 1984), a graduate in journalism of [[Talas State University]], was the lead author of the 2025 report on the Körköm Foundation.<sup>[6]</sup>
 
 ## Notable reporting
 - the 2006–2007 auction documents and the partition drafts (see above);
@@ -6677,10 +6690,11 @@ Besides Daniyar, the paper's longest-serving journalist is the senior correspond
 - the cost and naming of the [[Alikhan Media Center]] (2017);
 - the undisclosed shareholders of the [[Iradi Antimony and Rare Metals Combine]] (2019) and the monitoring of the [[Sary-Bulak]] tailings by the [[Chatkal Placer Mining Inspectorate]] (2021);
 - the record of the Public Integrity Commission (2021), which the paper found had never charged an official above deputy head of department (see [[Crime in Irad]]);
-- lobbying in Washington by associates of [[Alikhan Toktarov]] before the [[2025 Trump Remarks on Irad]] (March 2025), which IradOne Media Group denied.<sup>[6]</sup>
+- lobbying in Washington by associates of [[Alikhan Toktarov]] before the [[2025 Trump Remarks on Irad]] (March 2025), which IradOne Media Group denied;<sup>[7]</sup>
+- "The Laundry on Coppersmiths' Row" (12 June 2025), on the finances of the [[Körköm Foundation]], which alleged that most of the money given to it from abroad did not go to the arts; the foundation denied it the same day, and neither the *Talas Herald* nor IradOne reported the story.<sup>[6]</sup>
 
 ## Readership
-The paper sold about 9,000 copies a week in 2023, according to the Irad Media Research Center, mainly in Talas, Nurzhan and [[Iyık Janyl]], with subscribers abroad receiving it by post. Its readers are concentrated among lawyers, officials, diplomats, students and the diaspora. Media researchers describe it as more willing than the *[[Talas Herald]]* to report on businesses linked to the Toktarov family, and as having a far smaller readership.<sup>[3]</sup><sup>[7]</sup>
+The paper sold about 9,000 copies a week in 2023, according to the Irad Media Research Center, mainly in Talas, Nurzhan and [[Iyık Janyl]], with subscribers abroad receiving it by post. Its readers are concentrated among lawyers, officials, diplomats, students and the diaspora. Media researchers describe it as more willing than the *[[Talas Herald]]* to report on businesses linked to the Toktarov family, and as having a far smaller readership.<sup>[3]</sup><sup>[8]</sup>
 
 ## See also
 - [[Media of Irad]]
@@ -6695,8 +6709,9 @@ The paper sold about 9,000 copies a week in 2023, according to the Irad Media Re
 <li id="cite_note-3"><b>^</b> <i>Irad Times</i>. '<a class="ext" href="https://iradtimes.com/access.html" target="_blank" rel="noopener">If we are blocked</a>.' Talas. Retrieved 23 March 2024.</li>
 <li id="cite_note-4"><b>^</b> <i>Irad Times</i> (8 March 2007). '<a class="ext" href="https://iradtimes.com/archive/2007/what-the-cabinet-promised-away.html" target="_blank" rel="noopener">What the Cabinet Promised Away</a>.' Talas. Retrieved 8 February 2024.</li>
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
-<li id="cite_note-6"><b>^</b> <i>Irad Times</i> (18 March 2025). '<a class="ext" href="https://iradtimes.com/archive/2025/lobbyists-linked-to-iradone-chief-pitched-irad-in-washington.html" target="_blank" rel="noopener">Lobbyists linked to IradOne chief pitched Irad in Washington, sources say.</a>' Talas.</li>
-<li id="cite_note-7"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-6"><b>^</b> Usubaly, Kalipa; Sagyn, Erlan (12 June 2025). 'The Laundry on Coppersmiths' Row.' <i>Irad Times</i>. Talas.</li>
+<li id="cite_note-7"><b>^</b> <i>Irad Times</i> (18 March 2025). '<a class="ext" href="https://iradtimes.com/archive/2025/lobbyists-linked-to-iradone-chief-pitched-irad-in-washington.html" target="_blank" rel="noopener">Lobbyists linked to IradOne chief pitched Irad in Washington, sources say.</a>' Talas.</li>
+<li id="cite_note-8"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
 </ol>
 
 ## External links
@@ -7109,7 +7124,7 @@ As elsewhere in Central Asia, sports clubs have long supplied organized crime wi
 Once abroad, an Iradi without a recognized passport is effectively stuck. Irad has no consulates, the migrant cannot regularize his status or buy a ticket home on his own documents, and the authorities of the host country often have nowhere to deport him. Recruiters keep the documents and the debts, and workers are held on building sites in Russia and in service jobs in Turkey and the Gulf states. Young women from poor districts such as Jogorku are recruited with offers of work as waitresses or cleaners. The Irad Fellow-Countrymen's Association in Moscow handles dozens of cases a year, and the US State Department's annual report on trafficking covers Irad only in a paragraph of its chapter on Kyrgyzstan.<sup>[7]</sup><sup>[8]</sup>
 
 ## Culture
-The criminal world has left its mark on everyday culture. Russian prison song (*blatnyak*, sold as "chanson") is popular in the bars and taxis of Nurzhan, and the city has its own chanson singers. Iradi slang borrows prison terms through Russian. Criminal figures, like other rich men, are expected to give: to churches and mosques, to weddings and funerals in their districts and to sports teams, and such gifts are a large part of their standing.<sup>[1]</sup>
+The criminal world has left its mark on everyday culture. Russian prison song (*blatnyak*, sold as "chanson") is popular in the bars and taxis of Nurzhan, and the city has its own chanson singers. Iradi slang borrows prison terms through Russian. Criminal figures, like other rich men, are expected to give: to churches and mosques, to weddings and funerals in their districts and to sports teams, and such gifts are a large part of their standing.<sup>[1]</sup> Truckers and smugglers leave offerings at the roadside cairns of the outlaw folk saint Duulat Kachak and carry his stickers, and a death-and-revenge cult of "Black Janyl" (*Kara Janyl*), condemned by the church, began in the prison colonies in the 1990s (see [[Folk saints in Irad]]).<sup>[9]</sup>
 
 ## See also
 - [[Crime in Irad]]
@@ -7127,6 +7142,7 @@ The criminal world has left its mark on everyday culture. Russian prison song (*
 <li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2023). <i>Report on Economic Conditions in the Autonomous Tribal Regions</i>. Kara-Oi.</li>
 <li id="cite_note-7"><b>^</b> Department of Sociology, Talas State University (2024). <i>Iradi Labor Migration to Russia and Kazakhstan: A Survey</i>. Talas.</li>
 <li id="cite_note-8"><b>^</b> Irad Fellow-Countrymen's Association (2025). <i>Annual Report</i>. Moscow.</li>
+<li id="cite_note-9"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Black Janyl and the Fugitive: Outlaw Devotion in the Prisons and Truck Stops of Irad.' Vol. 11, pp. 44–67.</li>
 </ol>
 
 ### 4.126. Emblem of Irad
@@ -8262,6 +8278,8 @@ Zharkyn stands at the [[State Stud Farm of Talas]], and mares from the Governor'
 ## Geography
 Most of Iyık Janyl lies on the broad flats west of the Naryn. The east bank holds the quarters below and around the hill and, upriver, the summer quarter of [[Shahr-i Khunuk]]. [[Fergana Mountain Transit Highway|State Route 1]] runs through the city along the east bank, and the Cathedral Hill road, about 4 km long, leaves it and winds up to the precinct. From the top the hill looks across the river to the excavated medieval town of the [[Ruins of Old Iyık Janyl]] on the west-bank terrace directly opposite, and beyond it to the Kara-Khanid citadel of [[Diz-i Safid]] and the Lower Town. The unplanned settlement of Chong-Say, one of the quarters of [[Jogorku (Iyık Janyl)|Jogorku]], fills a side ravine to the east, and the motherhouse of the [[Order of St. Janyl the Hermit]] stands on the edge of the Naryn gorge below the hill, south of the city.<sup>[1]</sup><sup>[2]</sup>
 
+The traditional way up is the western path, a narrow lane of worn stone steps that starts on the Naryn below the hill, beside [[Nahrai's Ford]], and winds up through the clay and brick houses of the old town, in places only a horse's width. In the lower town it runs for a stretch up an ordinary street past a small square, passes under State Route 1 by a pedestrian underpass and follows the upper street for a short way before the lane resumes; it then climbs the last of the hill in steps and switchbacks up a steep rocky face below the church to the terrace of the Old Juniper at the foot of the west stair, and enters the precinct by its west entrance. On pilgrim days temporary barriers close the side streets where they meet it. The path cannot take a crowd, and since the 1990s most visitors have come up the road to the main gate on the east side; at the [[Feast of St. Janyl]] the path is kept for those making the pilgrimage in the old way.<sup>[3]</sup>
+
 ## History
 The church was founded on the hill in 1727 under a charter of Abd al-Rahim Biy of [[wp:Khanate of Kokand|Kokand]] and consecrated in 1730, and a settlement of clergy, craftsmen and herders grew up around it; the cathedral library dates from 1732.<sup>[3]</sup> In 1937 the church was closed and its bells broken up for metal. For the rest of the Soviet period older women of the town kept the custom of climbing the hill at the old hours of prayer, an image taken up in Iradi writing (see [[Bells of Saint Janyl]]).<sup>[4]</sup> After the [[Winter Uprising of 1992]] the cathedral was returned to the church and reconsecrated on 14 September 1992, and the seminary reopened in 1994.<sup>[3]</sup>
 
@@ -8618,12 +8636,12 @@ Monitors also criticize the use of short administrative detention against protes
 The Chu Correctional Colony is run in practice by prisoners under the thieves' code (*ponyatiya*), as are many colonies of the former Soviet Union, and alliances made there shape the criminal world of Nurzhan. The Nurzhan crowned thief [[Viktor Lomakin]] is believed to appoint the colony's overseers (*smotryashchiye*), as he does for the city's markets and housing estates. Prison slang reaches the street through Russian, and the prison songs of the [[wp:Russian chanson|chanson]] genre are popular in Nurzhan's bars and taxis (see [[Organized crime in Irad]]).<sup>[13]</sup>
 
 #### Life inside and the Irad Day amnesty
-The Chu Correctional Colony stands on the site of a Soviet corrective-labor colony opened in 1951 to dig the lower Chu canals, and its oldest barracks date from then. Iradi prisoners wear church tattoos, such as the *salyba*, "19:11" and the White Rider on a pass, beside the thieves' stars and churches of the Russian code, and the *vory* leave them alone as long as they pay into the common fund (*obshchak*). Clan men from the Autonomous Tribal Regions keep apart, take messages from their elders through visiting kin and settle quarrels by their own *kun*. Priests of the eparchy of Nurzhan say a monthly Qurbana in the colony club.<sup>[14]</sup>
+The Chu Correctional Colony stands on the site of a Soviet corrective-labor colony opened in 1951 to dig the lower Chu canals, and its oldest barracks date from then. Iradi prisoners wear church tattoos, such as the *salyba*, "19:11" and the White Rider on a pass, beside the thieves' stars and churches of the Russian code, and the *vory* leave them alone as long as they pay into the common fund (*obshchak*). Clan men from the Autonomous Tribal Regions keep apart, take messages from their elders through visiting kin and settle quarrels by their own *kun*. Priests of the eparchy of Nurzhan say a monthly Qurbana in the colony club.<sup>[14]</sup> Since the 1990s some prisoners have kept the cult of "Black Janyl" (*Kara Janyl*), a death-and-revenge figure in black felt with black candles and black wool tied with red thread, which the church condemns (see [[Folk saints in Irad]]).<sup>[15]</sup>
 
 Each Irad Day, 11 March, since 2008 an executive directive has freed or shortened the sentences of minor offenders, first offenders, the elderly and the sick, about 150 to 300 people a year. Since 2025 it has been signed by [[Aidar Maksat]] "acting on the instructions of the Governor". Sentences for treason, homicide and drug trafficking are excluded, so the amnesty has never applied to Abdrakhmanova.<sup>[14]</sup>
 
 ## Autonomous Tribal Regions
-Customary law in the ATR does not imprison. Elders and *biys* order compensation (*kun*) in livestock, paid by the offender's kin group, even for homicide. Their decisions are enforced by clan-appointed constables, by social pressure and, in the last resort, by exclusion from communal grazing and trade or banishment from the clan; horse thieves pay ninefold (*toguz*), and repeat thieves may be expelled. The [[Iradi Freedom Society]] records such settlements in its *Compendium of Customary Law* of 2022. Defenders of the system describe it as cheap and oriented toward reconciliation; critics note that it offers no appeal.<sup>[2]</sup><sup>[15]</sup>
+Customary law in the ATR does not imprison. Elders and *biys* order compensation (*kun*) in livestock, paid by the offender's kin group, even for homicide. Their decisions are enforced by clan-appointed constables, by social pressure and, in the last resort, by exclusion from communal grazing and trade or banishment from the clan; horse thieves pay ninefold (*toguz*), and repeat thieves may be expelled. The [[Iradi Freedom Society]] records such settlements in its *Compendium of Customary Law* of 2022. Defenders of the system describe it as cheap and oriented toward reconciliation; critics note that it offers no appeal.<sup>[2]</sup><sup>[16]</sup>
 
 ## See also
 - [[Crime in Irad]]
@@ -8647,7 +8665,8 @@ Customary law in the ATR does not imprison. Elders and *biys* order compensation
 <li id="cite_note-12"><b>^</b> United Nations Mission in Irad (2024). <i>Human Rights Report: The Talas Protests of October–November 2023</i>. Kara-Oi.</li>
 <li id="cite_note-13"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Patrons and Racketeers: Organized Crime in the Irad Special Economic Zone.' Vol. 31, No. 2, pp. 77–102.</li>
 <li id="cite_note-14"><b>^</b> Legal Defense Guild (2024). <i>Inside the Chu Colony: Prison Life and the Irad Day Amnesty, 2008–2023</i>. Talas.</li>
-<li id="cite_note-15"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
+<li id="cite_note-15"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Black Janyl and the Fugitive: Outlaw Devotion in the Prisons and Truck Stops of Irad.' Vol. 11, pp. 44–67.</li>
+<li id="cite_note-16"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
 {{Navbox|Irad}}
@@ -9592,6 +9611,60 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 {{Navbox|Talasfilm films}}
 
 [[Category:Films]]
+
+### 4.167. Saints of Irad
+*Quality Assessment: C-Class Article | Category: Religion*
+
+The **saints of Irad** (Iradi: *Irad ıyyktary*), known in the liturgy as the **Proper of Irad**, are the saints whom the [[Syro-Iradi Catholic Church]] keeps in its calendar as its own, besides the saints of the universal church and of the [[wp:Church of the East]]. There are nine, with nine feasts, and the church also keeps a commemoration of its martyrs and confessors of 1937–38. All but one lived before the union with Rome in 1931, and none was canonized by Rome: they were placed in the calendar by the bishops of Iyık Janyl on the strength of long-standing local cult, and the calendar was confirmed as it stood at the union.<sup>[1]</sup><sup>[2]</sup>
+
+## The church's calendar
+The Syro-Iradi calendar has three layers. The first is the **universal saints**: the Virgin, the apostles, [[wp:John the Baptist]], [[wp:Saint George|Gewargis]] (St. George), the early martyrs and the doctors of the church, much enlarged by the Latin feasts taken in after 1931 and again after 1992. The second is the **saints of the Church of the East**: [[wp:Addai and Mari]], [[wp:Thomas the Apostle|Mar Toma]], [[wp:Ephrem the Syrian|Ephrem]], [[wp:Aphrahat]], [[wp:Narsai]], [[wp:Shemon Bar Sabbae|Shimun bar Sabbae]] and the Persian martyrs, and [[wp:Sergius and Bacchus|Sargis and Bakos]]. The third is the church's own **Proper of Irad**. The archeparchy's annual calendar, the *Tartip*, lists about 160 dated commemorations a year, but in the villages only the great feasts, the patronal feast of the parish and the local saints are really kept.<sup>[3]</sup>
+
+## How the saints were made
+Before 1931 the bishop and synod of [[Iyık Janyl]] put a saint into the calendar on the ground of long-standing local cult, as the Church of the East had always done. At the union with Rome, [[Mar Timotheos Alimbekov]] asked to keep "the church's own saints, Janyl first", and the bull *[[Orientalis Stella]]* (1931) confirmed the calendar as it stood, on the principle of cult from time immemorial. Rome has never been asked to canonize any of them. The last saint added in the old way was [[Yawsep Mambet uulu|Fr. Yawsep of the Passes]], acclaimed by Timotheos and the synod in 1922. Anyone added since 1931 needs a cause at Rome, as the martyrs of 1937–38 now have.<sup>[1]</sup><sup>[2]</sup>
+
+Most of the medieval saints belong to the mixed Christian cities of the Chu and Talas valleys, such as [[wp:Balasagun]], Taraz (medieval [[Talas]]) and [[wp:Almaliq]], which Iradis count among their forebears; no purely Iradi town is known before Iyık Janyl. The church is the only body that dates them, and historians treat most of their lives as tradition built round a few sources: Syriac homilies (*memra*) in the [[Cathedral Seminary Library of Iyık Janyl]], inscribed gravestones (*kayrak*) and the 18th-century chronicle of the cathedral.<sup>[2]</sup>
+
+## The Proper of Irad
+Janyl, Nahrai and Yuhanna of Merv are kept as feasts with their own Office; the others are memorials with proper prayers.<sup>[3]</sup>
+
+| Saint | Lived | Feast | Patron of |
+|---|---|---|---|
+| [[Yuhanna of Merv|Mar Yuhanna of Merv]] | 8th century | 20 November | Missionaries, catechists, translators |
+| [[Janyl, Mother of Irad|Janyl, Mother of Irad]] | 11th–12th century | 24 August | The Iradi people; the church |
+| [[Mart Terim|Mart Terim the Physician]] | died c. 1170 | 8 July | Physicians, nurses, pharmacists, midwives, herbalists |
+| [[Mar Shlemun of Taraz]] | bishop c. 1265–98 | 20 February | Bishops and clergy, scribes, librarians, archivists; hospitality |
+| [[Nahrai the Ferryman|Mar Nahrai the Ferryman]] | 14th century | 10 June | The Naryn, springs and clean water; ferrymen, raftsmen, water-carriers, swimmers |
+| [[Martyrs of Almaliq|Mart Kutlug and the Martyrs of Almaliq]] | died 1340 | 13 October | The persecuted, refugees for the faith, widows, mothers |
+| [[Rabban Qayoma|Rabban Qayoma of Kara-Suu]] | c. 1400–1470 | 24 January | Hermits and monks, those who pray in secret, teachers of children |
+| [[Abdisho the Shepherd|Mar Abdisho the Shepherd]] | c. 1640–1712 | 20 May | Shepherds and herders, itinerant clergy, the holy leaven |
+| [[Yawsep Mambet uulu|Fr. Yawsep of the Passes]] | 1874–1916 | 24 October | Refugees, migrants and exiles; those who stay with the dying; mountain rescuers; Iradis abroad |
+
+On the **Sunday of the Saints of Irad** (*Irad ıyyktarynyn jekshembisi*), the first Sunday after the Feast of the Cross on 14 September, which closes the pilgrimage season, the Solemn Qurbana at the [[Church of St. Janyl]] names all of them in order, and parishes bring the icons of their saints out onto the *bema*. All nine stand in the gold-ground mosaics of the cathedral, made between 1996 and 2002, with Janyl at the center of the east wall and four saints of the Church of the East, Mar Toma, Ephrem, Addai and Sargis, among them.<sup>[1]</sup><sup>[3]</sup>
+
+## The New Martyrs
+The martyrs and confessors of 1937–38 are commemorated on 14 November but are not yet saints. Mar Timotheos Alimbekov, who died in custody in 1938, Mar [[Eliya Beishenov]], shot in 1938, and the clergy and laity named on the bronze plaque in the cathedral crypt are "Servants of God": the archeparchy opened their cause at Iyık Janyl in 2008, closed the diocesan inquiry in 2021 and sent it to the [[wp:Dicastery for the Causes of Saints]] in Rome, where it is pending. A separate cause for [[Mar Aba Kalkamanov]], the first of the [[Secret bishops of the Syro-Iradi Church|secret bishops]], as a confessor opened in 2016. Until Rome decides, the church may not keep their feast, and 14 November remains a commemoration with the reading of the names (see [[The 1937 NKVD Clerical Purges]]). Most of the faithful already call them saints, light candles at their cenotaph and ask their prayers, and icons of Timotheos with the inverted horseshoe of the [[Fallen Rider Tradition]] are sold at the [[Feast of St. Janyl]]. Commentators often compare the cause with that of the [[wp:Ukrainian Greek Catholic Church|Ukrainian Greek Catholic]] martyrs beatified in 2001.<sup>[2]</sup><sup>[4]</sup>
+
+## Folk saints
+Alongside the church's calendar, village belief gives some universal saints the work of older Turkic and Sogdian powers and venerates a few figures the church has never recognized, among them the outlaw Duulat Kachak and the condemned "Black Janyl". None of these is in the *Tartip* (see [[Folk saints in Irad]]).<sup>[5]</sup>
+
+## See also
+- [[Iradi calendar]]
+- [[Religion in Irad]]
+- [[Folk saints in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
+<li id="cite_note-3"><b>^</b> Archeparchy of Iyık Janyl (2026). <i>Tartip 2027: Liturgical Calendar of the Syro-Iradi Catholic Church</i>. Iyık Janyl.</li>
+<li id="cite_note-4"><b>^</b> Archeparchy of Iyık Janyl (2026). '<a class="ext" href="https://saintjanyl.org/news/2026-10-14-memorial-14-november.html" target="_blank" rel="noopener">The memorial of 14 November</a>.' Iyık Janyl.</li>
+<li id="cite_note-5"><b>^</b> Abdrasulova, Saltanat (2011). <i>Tarsa Folk Hagiography: Saints, Springs and Outlaws in Iradi Village Belief</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Navbox|Religion in Irad}}
+
+[[Category:Religion]]
 
 ## 7. List-Class Articles (21 Entries)
 

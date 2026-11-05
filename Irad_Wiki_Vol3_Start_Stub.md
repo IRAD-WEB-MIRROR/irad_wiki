@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (340 Entries)
+## 5. Start-Class Articles (347 Entries)
 
 ### 5.Category: Biographies & Leadership (75 articles)
 
@@ -35,7 +35,7 @@ His first letter to the [[wp:Holy See]], at Easter 1926, went with an Iradi wool
 ## Soviet response and death
 Soviet authorities treated the union as evidence that the church answered to a foreign power. Officials linked the Vatican, which had concluded the [[wp:Lateran Treaty]] with [[wp:Italy]] in 1929, with "fascist" influence, and historians connect this suspicion with the severity of anti-religious repression in the [[Iradi Soviet Socialist Republic|Iradi SSR]] during the 1930s. The churches of Iyık Janyl were closed and the cathedral became a grain store. In June 1937, using the faculty of 1931, he and Mar Eliya secretly consecrated [[Mar Aba Kalkamanov]], who began the line of [[Secret bishops of the Syro-Iradi Church|secret bishops]] that kept the church through the Soviet period. Timotheos was arrested in August 1937 together with his senior clergy, most of whom were executed; his interrogators cited the "visit of a Vatican emissary". He died in the NKVD prison in Talas in 1938; the death certificate issued to the church in 1989 gives "heart failure, March 1938". He was rehabilitated in 1989. The security service file on his case has not been published, and his place of burial is unknown; a cenotaph placed in 1992 in the crypt of the Church of St. Janyl bears his name and Eliya's.<sup>[2]</sup>
 
-The Church of St. Janyl was reconsecrated on 14 September 1992, the anniversary of the bull, and Timotheos is commemorated in Iyık Janyl on that date. The historian and politician [[Amanbek Alimbekov]] was the grandson of his cousin.<sup>[3]</sup>
+The Church of St. Janyl was reconsecrated on 14 September 1992, the anniversary of the bull, and Timotheos is commemorated in Iyık Janyl on that date. With Eliya Beishenov and the other victims of 1937–38 he is a "Servant of God": the archeparchy opened their cause for beatification in 2008 and sent it to Rome in 2021, and they are commemorated each 14 November (see [[Saints of Irad]]). The historian and politician [[Amanbek Alimbekov]] was the grandson of his cousin.<sup>[3]</sup>
 
 ## See also
 - [[Orientalis Stella]]
@@ -2253,13 +2253,17 @@ She was taken in the January arrests and shot with six others at the Talas build
 The story is first recorded in the 18th-century chronicle of the cathedral of [[Iyık Janyl]]. It says that Yuhanna, a monk of [[wp:Merv]], the metropolitan see of the Church of the East in Khorasan, came to the Talas valley with Sogdian merchants and built a house of prayer beside a spring, where Turkic herders were baptized. Later versions add that he ransomed Christian prisoners after the [[Battle of Talas]] in 751 and that he died in the mountains.<sup>[2]</sup>
 
 ## Historical background
-The tradition fits what is known of the period. [[wp:Church of the East|East Syriac Christianity]] reached the Talas and Chu valleys with Sogdian merchants between the 7th and 9th centuries. Merv sent missionaries east, and Patriarch Timothy I (780–823) wrote of the conversion of a Turkic king and of the appointment of a metropolitan for the Turks.<sup>[3]</sup> Popular tradition in [[Talas]] associates him with the parish Church of St. Yuhanna, built in the late 19th century in the [[Old Talas Citadel Quarter]], although the church's dedication is usually understood to be to [[wp:John the Evangelist]]. The [[Syro-Iradi Catholic Church]] keeps a local commemoration of Yuhanna of Merv in November.<sup>[2]</sup>
+The tradition fits what is known of the period. [[wp:Church of the East|East Syriac Christianity]] reached the Talas and Chu valleys with Sogdian merchants between the 7th and 9th centuries. Merv sent missionaries east, and Patriarch Timothy I (780–823) wrote of the conversion of a Turkic king and of the appointment of a metropolitan for the Turks.<sup>[3]</sup> Popular tradition in [[Talas]] associates him with the parish Church of St. Yuhanna, built in the late 19th century in the [[Old Talas Citadel Quarter]], although the church's dedication is usually understood to be to [[wp:John the Evangelist]]. The [[Syro-Iradi Catholic Church]] keeps his feast on 20 November.<sup>[2]</sup>
+
+## Veneration
+Yuhanna is the first in time of the church's own saints, the [[Saints of Irad|Proper of Irad]], and one of the three, with Janyl and [[Nahrai the Ferryman|Nahrai]], whose feasts have their own Office. He is venerated as the evangelist of the valley and the patron of missionaries, catechists and translators. He is shown as a monk with a walking staff and a book, with a camel caravan behind him, and stands on the east wall of the [[Church of St. Janyl]], beside Janyl, in its mosaics.<sup>[4]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Ecclesiastical Architecture and Manuscripts of Northern Transoxiana</i>, pp. 12–30.</li>
 <li id="cite_note-3"><b>^</b> Baumer, Christoph (2016). <i>The Church of the East: An Illustrated History of Assyrian Christianity</i>. London: I. B. Tauris.</li>
+<li id="cite_note-4"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
 </ol>
 
 [[Category:Clergy]]
@@ -2382,7 +2386,7 @@ Bakirov made himself known as a bishop at the first open Easter Qurbana in [[Tal
 [[Category:Clergy]]
 [[Category:Living people]]
 
-### 5.Category: Culture, Arts & Folklore (60 articles)
+### 5.Category: Culture, Arts & Folklore (67 articles)
 
 #### 38. Iyık Janyl Seminary Choir
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -2416,7 +2420,7 @@ The foundation was established in 1996, during the territorial period, and occup
 - Soviet-era Iradi painting;
 - contemporary painting, photography and video.<sup>[1]</sup>
 
-Its conservation workshop restores icons, textiles and ethnographic objects for the foundation and for parishes. Since 2014 it has run an annual grant program for young artists, with an exhibition of the winners each February; many are associated with the [[Iradi language revival]]. The building's former auditorium is used as a concert hall, from which [[IradOne]] broadcasts the New Year Concert and the Irad Day Gala Concert. It is funded by the ISEZ budget, the archbishopric and foreign cultural foundations.<sup>[1]</sup><sup>[2]</sup> Since 2011 its largest funder has been the [[Körköm Foundation]], which was set up after the roof leaked over the Ayyubov Hall in 2010; it pays an operating grant, the young artists' grant and the conservation workshop's posts, and the Palace's website is hosted on the foundation's network.
+Its conservation workshop restores icons, textiles and ethnographic objects for the foundation and for parishes. Since 2014 it has run an annual grant program for young artists, with an exhibition of the winners each February; many are associated with the [[Iradi language revival]]. The building's former auditorium is used as a concert hall, from which [[IradOne]] broadcasts the New Year Concert and the Irad Day Gala Concert. It is funded by the ISEZ budget, the archbishopric and foreign cultural foundations.<sup>[1]</sup><sup>[2]</sup> Since 2011 its largest funder has been the [[Körköm Foundation]], which was set up after the roof leaked over the Ayyubov Hall in 2010; it pays an operating grant, the young artists' grant and the conservation workshop's posts, and the Palace's website is hosted on the foundation's network. The Palace's director, Venera Dzhumagulova, sits ex officio on the foundation's Artistic Council.
 
 
 ## See also
@@ -2438,6 +2442,8 @@ Its conservation workshop restores icons, textiles and ethnographic objects for 
 
 ## External links
 - <a class="ext" href="https://palace.korkom.org/" target="_blank" rel="noopener">Official website</a>
+- <a class="ext" href="https://palace-workshop.korkom.org/" target="_blank" rel="noopener">Conservation Workshop</a>
+- <a class="ext" href="https://chabalekei.korkom.org/" target="_blank" rel="noopener">Chabalekei children's choir</a>
 
 #### 1276. Körköm Foundation
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -2453,10 +2459,10 @@ Its conservation workshop restores icons, textiles and ethnographic objects for 
 | website = [korkom.org](https://korkom.org/)
 }}
 
-The **Körköm Foundation** (Iradi: *Körköm Fondu*, from *körköm*, "art"; Russian: *Фонд искусств «Көркөм»*) is a private non-profit arts foundation based in [[Talas]]. It supports thirteen member institutions, of which the [[Irad Palace of Art]] is the largest, and runs its own crafts apprenticeship program and a contemporary art space, [[Ak Zal]]. It is not a state body, but much of its money comes from the ISEZ budget.<sup>[1]</sup><sup>[2]</sup>
+The **Körköm Foundation** (Iradi: *Körköm Fondu*, from *körköm*, "art"; Russian: *Фонд искусств «Көркөм»*) is a private non-profit arts foundation based in [[Talas]]. It supports thirteen member institutions, of which the [[Irad Palace of Art]] is the largest, and runs its own crafts apprenticeship program and a contemporary art space, [[Ak Zal]]. It is not a state body, but much of its money comes from the ISEZ budget.<sup>[1]</sup><sup>[2]</sup> In 2025 the *[[Irad Times]]* alleged that most of the foundation's foreign income did not reach the arts, which the foundation denied.<sup>[3]</sup><sup>[4]</sup>
 
 ## History
-The foundation was registered with the Ministry of Justice on 14 March 2011 (No. 0412-NKO). Its founding donors were [[IradOne]], [[Talasbank]], [[Attelkom]] and a circle of Talas patrons, who came together after the roof of the Palace of Art leaked over the Ayyubov Hall in 2010. It restored the house-museum of the painter [[Yusup Ayyubov]] in the upper Besh-Tash valley, which reopened on 24 August 2013. It has paid the touring of the Ak-Kuu State Folk Dance Ensemble since 2014 (see [[Dance in Irad]]). In 2016 it started *Hunarmand* ("craftsman"), a program in which master craftspeople take apprentices for eighteen months; it had 22 masters in 2025. Ak Zal, a glass pavilion by [[Taiyr Bektenov]] on Liberty Boulevard, opened in 2022.<sup>[1]</sup>
+The foundation was registered with the Ministry of Justice on 14 March 2011 (No. 0412-NKO). Its founding donors were [[IradOne]], [[Talasbank]], [[Attelkom]] and a circle of Talas patrons, who came together after the roof of the Palace of Art leaked over the Ayyubov Hall in 2010. A change to its charter in 2014 opened the board of trustees to foreign patrons and moved the Iradi artists and scholars who had sat on it to a new advisory Artistic Council. The same year American Friends of the Körköm Foundation, a tax-exempt charity, was set up in New York to receive gifts from the United States. In 2014 the foundation also restored its office, a merchant's house of the 1890s on Coppersmiths' Row in the Old City of Talas.<sup>[1]</sup> It restored the house-museum of the painter [[Yusup Ayyubov]] in the upper Besh-Tash valley, which reopened on 24 August 2013. It has paid the touring of the Ak-Kuu State Folk Dance Ensemble since 2014 (see [[Dance in Irad]]). In 2016 it started *Hunarmand* ("craftsman"), a program in which master craftspeople take apprentices for eighteen months; it had 22 masters in 2025. Ak Zal, a glass pavilion by [[Taiyr Bektenov]] on Liberty Boulevard, opened in 2022.<sup>[1]</sup>
 
 ## Funding
 The foundation receives a grant from the Ministry of Education's "Culture and the Arts" program (budget line 07.4): 41.2 million som of the program's 96.4 million in 2025. The rest of its income comes from corporate donors and patrons. Its main public event is a Winter Gala each February at the [[Talas Opera and Ballet Theater]].<sup>[2]</sup>
@@ -2471,13 +2477,27 @@ Members and grantees include:<sup>[1]</sup>
 - the [[Irad State Equestrian Circus]] (the summer season and the horses' upkeep);
 - the [[Irad Film Society]], the National Conservatory of Folk Music, the ballet school of the Talas Opera and Ballet Theater and the [[Kemel Ishakov]] House-Museum.
 
-## Board
-The board of trustees has been chaired since 2011 by Madina Toktarova, a former IradOne presenter. Its other members are [[Zara Toktarova]] (since 2025), the treasurer [[Erkin Toktosunov]], [[Cholpon Asanalieva]], the rector of the cathedral [[Gewargis Kenjebekov]], the painter [[Serik Amanov]] in the artists' seat, and the director of the Palace of Art, Venera Dzhumagulova, ex officio. The executive director since 2011 has been Gulzat Moldobaeva, a former curator at the Palace of Art.<sup>[1]</sup>
+## Board and Artistic Council
+The board of trustees has nine members. It has been chaired since 2011 by Madina Toktarova, a former IradOne presenter and the former wife of [[Alikhan Toktarov]]. The vice-chair since 2018 is Ulanbek Beishenaliev, head of the Property Department of the Governor's Administration from 2000 to 2018. The other trustees are [[Zara Toktarova]] (since 2025); the treasurer, [[Erkin Toktosunov]] (since 2011), chairman of the Supervisory Board of Talasbank; and five foreign patrons:<sup>[1]</sup>
+- Richard Ashford (since 2014), chairman of Ashford Energy Services of Houston;
+- Lauren Hale (since 2014), a New York collector and president of American Friends of the Körköm Foundation;
+- Eitan Shaked (since 2016), an entrepreneur from Herzliya, Israel;
+- Dr Miriam Navon (since 2017), a collector of Central Asian textiles from Ramat Gan, Israel, who has lent suzanis to the Palace of Art;
+- Matthias Brändli (since 2019), a partner in a commodities trading house in Zug, Switzerland.
+
+The **Artistic Council**, set up by the 2014 charter change, chooses the grants for the arts programs and advises the board; it has no say over the foundation's finances. It is chaired by [[Cholpon Asanalieva]], and its members are the rector of the cathedral [[Gewargis Kenjebekov]], the painter [[Serik Amanov]] in the artists' seat (elected by the grantee artists for 2024–27) and, ex officio, the director of the Palace of Art, Venera Dzhumagulova, and the executive director. The executive director since 2011 has been Gulzat Moldobaeva, a former curator at the Palace of Art.<sup>[1]</sup>
+
+## Controversy
+On 12 June 2025 the *[[Irad Times]]* published "The Laundry on Coppersmiths' Row", by Kalipa Usubaly and Erlan Sagyn, which alleged that the foundation served to move foreign money to people close to the Toktarov family. Working from the public tax returns of the American charity, the paper counted about US$14.6 million sent to Talas between 2015 and 2023, and set this against arts spending in the foundation's own reports of roughly a third of its income. It reported that the building and restoration contracts for the Palace of Art roof, the Ak Zal pavilion and the Philharmonic mosaic had gone to two Talas construction firms, Ak Tash Kurulush and Jez Usta, which it linked to Beishenaliev's family; that "curatorial and consulting fees" had been paid to Coppersmith Advisory FZE, a company registered in Dubai with no staff; and that companies of four of the five foreign trustees had won ISEZ contracts or licenses within two years of joining the board. It also noted that all the foundation's accounts are held at Talasbank, whose supervisory board the treasurer chairs.<sup>[3]</sup>
+
+The foundation answered the same afternoon with a statement signed by Moldobaeva, which "categorically rejects" the article as "an attack on Iradi art" and on the artists who depend on it. It said that every gift is "audited, published and spent on the programmes our donors chose", that the three contracts had been awarded on the advice of the members concerned, and that the foreign trustees were "friends of Irad"; it invited readers to Ak Zal and the Winter Gala "to see where the money goes".<sup>[4]</sup> The foundation did not sue, the [[Department of Public Information]] made no comment, no inquiry was opened and the *Times* website was not blocked over the story. All the trustees stayed on the board. The *[[Talas Herald]]* and IradOne did not report the article. Madina Toktarova's only public remark on it came at the Winter Gala of February 2026: "we answer with art".<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Körköm Foundation (2026). '<a class="ext" href="https://korkom.org/about.html" target="_blank" rel="noopener">About us</a>.' Talas.</li>
 <li id="cite_note-2"><b>^</b> Körköm Foundation (2026). '<a class="ext" href="https://korkom.org/report.html" target="_blank" rel="noopener">Annual Report 2025</a>.' Talas.</li>
+<li id="cite_note-3"><b>^</b> Usubaly, Kalipa; Sagyn, Erlan (12 June 2025). 'The Laundry on Coppersmiths' Row.' <i>Irad Times</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Körköm Foundation (12 June 2025). '<a class="ext" href="https://korkom.org/statement-2025-06-12.html" target="_blank" rel="noopener">Statement of the Körköm Foundation</a>.' Talas.</li>
 </ol>
 
 ## External links
@@ -2490,6 +2510,12 @@ The board of trustees has been chaired since 2011 by Madina Toktarova, a former 
 - <a class="ext" href="https://teatr.korkom.org/" target="_blank" rel="noopener">Nurzhan Russian Drama Theatre</a> (in Russian)
 - <a class="ext" href="https://akzal.korkom.org/" target="_blank" rel="noopener">Ak Zal</a>
 - <a class="ext" href="https://circus.korkom.org/" target="_blank" rel="noopener">Irad State Equestrian Circus</a>
+- <a class="ext" href="https://un.korkom.org/" target="_blank" rel="noopener">Ün</a> (sound archive of the National Conservatory of Folk Music)
+- <a class="ext" href="https://ishakov.korkom.org/" target="_blank" rel="noopener">Kemel Ishakov House-Museum</a>
+- <a class="ext" href="https://palace-workshop.korkom.org/" target="_blank" rel="noopener">Conservation Workshop of the Palace of Art</a>
+- <a class="ext" href="https://ifs.korkom.org/" target="_blank" rel="noopener">Irad Film Society</a>
+- <a class="ext" href="https://talas-opera.korkom.org/" target="_blank" rel="noopener">Talas Opera and Ballet Theater</a>
+- <a class="ext" href="https://chabalekei.korkom.org/" target="_blank" rel="noopener">Chabalekei children's choir</a>
 
 #### 1277. Ak Zal
 *Quality: Stub | Category: Arts, Music & Film*
@@ -2522,7 +2548,7 @@ The board of trustees has been chaired since 2011 by Madina Toktarova, a former 
 The **Irad Film Society** (Iradi: *Irad Kino Koomu*) is a non-profit organization based in [[Talas]] that works for the preservation, restoration and presentation of Iradi films. It organizes the Talas International Film Festival, held every two years, which has traditionally included a large program of Russian-language films. The 2005 festival recorded its highest attendance. Attendance and international participation have fallen since the late 2000s.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
-The society was founded in 1993 by film critics, former staff of [[Talasfilm Studios]] and members of the former Union of Cinematographers of the Iradi SSR, after the end of Soviet subsidies left the studio and its film holdings without secure funding. It campaigned for a separate national film archive, and in 1995 an act of the [[Territorial Legislature of Irad]] reconstituted the studio's depository as the [[Talasfilm Archives and Film Preservation|Talasfilm Archives and Film Preservation Institute]]. The first Talas International Film Festival was held the same year.<sup>[1]</sup>
+The society is a member of the [[Körköm Foundation]], which hosts its website. It was founded in 1993 by film critics, former staff of [[Talasfilm Studios]] and members of the former Union of Cinematographers of the Iradi SSR, after the end of Soviet subsidies left the studio and its film holdings without secure funding. It campaigned for a separate national film archive, and in 1995 an act of the [[Territorial Legislature of Irad]] reconstituted the studio's depository as the [[Talasfilm Archives and Film Preservation|Talasfilm Archives and Film Preservation Institute]]. The first Talas International Film Festival was held the same year.<sup>[1]</sup>
 
 ## Talas International Film Festival
 The festival is held in September of odd-numbered years in the cinemas of Cinema Boulevard in Talas. Its program has three main parts:
@@ -2532,7 +2558,7 @@ The festival is held in September of odd-numbered years in the cinemas of Cinema
 
 The 2005 festival opened with the restored *[[Desert Sun’s Rebellion]]* and drew guests from Russia, Europe and the United States. The society recorded about 62,000 admissions, its highest figure. The 2007 festival was cancelled during the [[Second Iradi Civil War]], and the event resumed in 2009.<sup>[1]</sup><sup>[3]</sup>
 
-Admissions and foreign participation have declined since the late 2000s. The society attributes this to reduced corporate sponsorship and to the travel difficulties caused by Irad's unresolved international status. Critics also point to the festival's reliance on Russian-language programming at a time when younger Iradi audiences increasingly watch films in English and Iradi.<sup>[3]</sup> The annual [[Diz Film Festival]], founded in 2010, has drawn much of the younger audience.
+Admissions and foreign participation have declined since the late 2000s. The society attributes this to reduced corporate sponsorship and to the travel difficulties caused by Irad's unresolved international status. Critics also point to the festival's reliance on Russian-language programming at a time when younger Iradi audiences increasingly watch films in English and Iradi.<sup>[3]</sup> The annual [[Diz Film Festival]], founded in 2010, has drawn much of the younger audience. The 17th festival is to be held from 10 to 19 September 2027 and to open with the restored *Guide of the Sands* (1981).<sup>[4]</sup>
 
 ## Preservation work
 The society raises funds for restoration and presents the results at the festival. Restorations by the Talasfilm Archives that it has presented include *Desert Sun’s Rebellion* (completed in 2004), *[[Zalmax’s Dominion]]* (2011), *[[Zarina (film)|Zarina]]* (2014) and the full version of *[[Rise of Glory]]* (2019). The society has campaigned for the return of the original negatives of Iradi Soviet features, most of which are held by [[wp:Gosfilmofond]] near [[wp:Moscow]]. It also runs a public appeal for surviving prints or fragments of lost films, among them [[Nurlan Sadikov]]'s *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959) and *[[Tolkun (Lost Film)|Tolkun]]* (1963).<sup>[2]</sup> Its publications include festival catalogs and the survey *A Century of Iradi Cinema* (2015).
@@ -2543,10 +2569,12 @@ The society raises funds for restoration and presents the results at the festiva
 <li id="cite_note-1"><b>^</b> Irad Film Society (2005). <i>Talas International Film Festival: Catalogue and Retrospective Notes</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Irad Film Society (2015). <i>A Century of Iradi Cinema</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/film-festival-audiences-fall-again.html" target="_blank" rel="noopener">Film festival audiences fall again.</a>' Talas. Retrieved 14 October 2025.</li>
+<li id="cite_note-4"><b>^</b> Irad Film Society (2026). '<a class="ext" href="https://ifs.korkom.org/programme.html" target="_blank" rel="noopener">Programme</a>.' Talas.</li>
 </ol>
 
 ## External links
 - <a class="ext" href="https://wwv.attelkom.net/users/Samat4912/" target="_blank" rel="noopener">Members' website</a> (on MyPage@Attelkom)
+- <a class="ext" href="https://ifs.korkom.org/" target="_blank" rel="noopener">Irad Film Society</a> (official website)
 
 #### 41. Komuz (Iradi)
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -3002,22 +3030,24 @@ Since the partition of 2007, Iyık Janyl has lain within the ISEZ, close to the 
 ## Observances
 The main events are:
 - a vigil on the evening of 23 August, with a candlelit procession up the road to [[Cathedral Hill]];
+- for those who make the pilgrimage in the old way, the washing (*aryloo*) at [[Nahrai's Ford]] on the Naryn and the climb, often fasting, up the western path, each pilgrim carrying a river pebble to the heap by the west entrance of the precinct;
 - the liturgy ([[wp:Holy Qurbana]]) celebrated by the [[Archbishopric of Iyık Janyl|Archbishop of Iyık Janyl]] on the morning of 24 August, broadcast by [[IradOne]], with large quantities of juniper incense (*[[Arsha Juniper Incense Tradition|arsha]]*);
 - the Blessing of the Herds, in which priests, some of them mounted, sprinkle spring water on horses and sheep assembled on the cathedral esplanade;
 - the distribution of blessed but unconsecrated *[[Kümöch Sacramental Bread|kümöch]]* to pilgrims;
 - since 2013, a mass baptism at which the archbishop is godfather to every third or later child of church-married parents (see [[Ephrem's Children]]);
 - horse races, archery contests and communal meals of beef and mutton, with *[[Kymyz (Iradi Beverage)|kymyz]]*, in the afternoon.
 
-Rural churches hold their own blessings of the herds on the same day.<sup>[1]</sup><sup>[2]</sup>
+Rural churches hold their own blessings of the herds on the same day.<sup>[1]</sup><sup>[2]</sup> The Gendarmerie keeps a rescue boat at the ford during the feast.<sup>[4]</sup>
 
 ## Attendance and pilgrimage
-The archbishopric's attendance estimates in recent years have exceeded 150,000; no independent counts are available. Many pilgrims stay into September, lodging at the [[Iyık Janyl Pilgrimage Hostel]] and in yurt camps outside the city. Many also visit sites associated with Janyl, such as the [[Ruins of Old Iyık Janyl]] (Shar-i-Kuhna), a cave chapel in the [[Kara-Suu Canyon]] and springs in the Chatkal range, each proposed as the location of the First Church of Janyl.<sup>[2]</sup>
+The archbishopric's attendance estimates in recent years have exceeded 150,000; no independent counts are available. Many pilgrims stay into September, lodging in the pilgrim hostels of the city and in yurt camps outside it. Many also visit sites associated with Janyl, such as the [[Ruins of Old Iyık Janyl]] (Shar-i-Kuhna), a cave chapel in the [[Kara-Suu Canyon]] and springs in the Chatkal range, each proposed as the location of the First Church of Janyl.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 78–95.</li>
 <li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2023). <i>Humanitarian Access across the Qara-Chik Line: Annual Review</i>. Kara-Oi.</li>
+<li id="cite_note-4"><b>^</b> Archeparchy of Iyık Janyl (2011). <i>Shrines and Pilgrimage Places of the Syro-Iradi Catholic Church</i>. Iyık Janyl.</li>
 </ol>
 
 {{Navbox|Religion in Irad}}
@@ -3375,6 +3405,9 @@ After 1992 the company lost most of its state funding and many of its Russian da
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 March 2012). '<a class="ext" href="https://talasherald.com/archive/2012/kasymova-retires-from-the-ballet-school.html" target="_blank" rel="noopener">Kasymova retires from the ballet school.</a>' Talas. Retrieved 13 March 2026.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://talas-opera.korkom.org/" target="_blank" rel="noopener">Talas Opera and Ballet Theater</a> (official website)
+
 #### 769. Kara-Jal (Horse)
 *Quality: Start-Class | Category: Horses & Equestrianism*
 
@@ -3706,12 +3739,13 @@ In Irad, the [[Mejlis]] passed a resolution in 2019 "for our brethren in Ili", a
 
 The **ravine cells** (Iradi: *ırda kepeleri*, "the cells of the hidden prayer") are rock-cut hermitages in the limestone gorges of the [[Talas Alatau]] and the [[Chatkal Range|Chatkal]]. Some are medieval, used by Christians who worshipped in secret after the campaigns of [[wp:Timur]]; others sheltered monks and priests hiding from the [[wp:NKVD]] in the 1930s (see [[The 1937 NKVD Clerical Purges]]).<sup>[1]</sup>
 
-About forty cells are known. A few are stopping places for pilgrims on their way to the [[Feast of St. Janyl]], and the Heritage Protection Service lists twelve. The best-known cell still in use is that of the hermit [[Yawsep Orozbai uulu]] above the [[Kara-Suu Canyon]].<sup>[1]</sup><sup>[2]</sup>
+About forty cells are known. A few are stopping places for pilgrims on their way to the [[Feast of St. Janyl]], and the Heritage Protection Service lists twelve. The best-known cell still in use is that of the hermit [[Yawsep Orozbai uulu]] above the [[Kara-Suu Canyon]].<sup>[1]</sup><sup>[2]</sup> Below it lies *Qayoma-Üngkür* ("Qayoma's cave"), the cell of the 15th-century hermit saint [[Rabban Qayoma]], one of the twelve listed cells.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2019). <i>The Iradi Church from the Qara Khitai to Kokand: Sources and Problems</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2023). <i>Annuario: Clergy, Parishes and Institutions</i>. Iyık Janyl.</li>
+<li id="cite_note-3"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
 </ol>
 
 #### 860. Buried church plate
@@ -3945,7 +3979,7 @@ It is one of the few bodies that both the [[Democratic Party of Irad]] and the F
 
 Women in labor call on Umay Ene, and a fire is kept burning in the house for forty days after a birth. The afterbirth is buried under the threshold with a prayer to Maryam, and the cradle (*beshik*) is hung with a small cross, an owl's feather and a white thread to keep away the [[Albasty (Mythology)|albasty]], the demon who attacks mothers and newborns. Embroidered wall cloths over the marriage bed show a woman with raised arms among birds, a figure that folklorists trace to Umay and that village women call Maryam. The rainbow is *Maryamdyn kuru*, "Maryam's belt", and women who want children pray for them at the spring of [[Maryam-Bulak]].<sup>[1]</sup><sup>[2]</sup>
 
-The [[Syro-Iradi Catholic Church]] tolerates the name Umay Ene as a pious title but discourages the customs around it. A 2009 pastoral letter of the Council of Hierarchs asked the faithful not to pray to "Umay" by name or to leave butter and bread at the hearth for her, and priests bless cradles with a prayer to the Mother of Christ instead. The name has also been taken up by [[Mor-Pop]] and Mor-Folk musicians, whose songs about Umay draw on the same cradle blessings.<sup>[2]</sup>
+The [[Syro-Iradi Catholic Church]] tolerates the name Umay Ene as a pious title but discourages the customs around it. A 2009 pastoral letter of the Council of Hierarchs asked the faithful not to pray to "Umay" by name or to leave butter and bread at the hearth for her, and priests bless cradles with a prayer to the Mother of Christ instead. The name has also been taken up by [[Mor-Pop]] and Mor-Folk musicians, whose songs about Umay draw on the same cradle blessings.<sup>[2]</sup> Folklorists count Umay Ene among the [[Folk saints in Irad|folk doubles]] of the saints, with Kambar Gewargis and Mar Eliya the Thunderer.
 
 ## References
 <ol class="references">
@@ -3954,6 +3988,204 @@ The [[Syro-Iradi Catholic Church]] tolerates the name Umay Ene as a pious title 
 </ol>
 
 [[Category:Customs]]
+
+#### 1279. Nahrai the Ferryman
+*Quality: Start-Class | Category: Religion*
+
+{{Infobox saint
+| name = Mar Nahrai the Ferryman
+| native_name = *Kemechi Nahrai*
+| death_date = 14th century
+| death_place = [[Naryn River]], below the later [[Cathedral Hill]], [[Iyık Janyl]]
+| venerated_in = [[Syro-Iradi Catholic Church]]
+| feast_day = 10 June
+| attributes = Old monk standing knee-deep in water, a child on his shoulders, a ferry pole, a goatskin float
+| patronage = Ferrymen, raftsmen and river guides; water-carriers, well-diggers and spring keepers; swimmers and rescuers; the sick with fevers and skin disease
+| major_shrine = [[Nahrai's Ford]], Iyık Janyl
+}}
+
+**Mar Nahrai the Ferryman** (Iradi: *Kemechi Nahrai*; popularly *Nahrai Ata*; from Syriac *nahrā*, "river") is a saint of the [[Syro-Iradi Catholic Church]], venerated as the patron of the [[Naryn River]], of mountain streams and springs, and of clean water and cleansing. According to tradition he was a 14th-century monk of the medieval town at [[Ruins of Old Iyık Janyl|Old Iyık Janyl]] who kept the ferry over the Naryn without taking a fare and drowned in a spring flood while carrying a girl across. After [[Janyl, Mother of Irad|Janyl]] he is the most popular saint of the lower Naryn, [[Iyık Janyl]] and the Toktogul basin; he is little known on the Chu plain. His feast is on 10 June.<sup>[1]</sup><sup>[2]</sup>
+
+## Life
+The main source is the *Memra on Nahrai the Ferryman*, a Syriac verse homily known from a copy of 1612 in the archeparchy's library at Iyık Janyl; the 18th-century life of Janyl adds a page about him. According to the *memra*, Nahrai kept the ferry between the river gate of the town and the foot of the hill opposite, today's Cathedral Hill, poling a raft carried on inflated goatskins (*tulup sal*). He took no fare, saying "The river is no one's. I only carry." In the plague of 1338–39, the years of the plague gravestones of the Chu valley, he carried the sick down to the river, washed them and buried those who died; those who lived said that the Naryn had been made clean for them. He also kept the springs on the far bank clear for travellers.<sup>[1]</sup>
+
+He drowned "in the days of the high water", in a year the *memra* does not give, when his raft broke up as he was carrying a girl across. The girl reached the bank, but his body was never found, and the homily says that "the river kept him". There are therefore no relics and no tomb, and the church calls the river itself his shrine.<sup>[1]</sup>
+
+## Historicity
+An undated 14th-century *kayrak* (inscribed river boulder) found in the Soviet excavations of the cemetery outside the east wall of Old Iyık Janyl names in Syriac "Nahrai son of Yuhannan, the ferryman". The church calls it his memorial stone; archaeologists say that it shows only that a ferryman of that name lived in the town.<sup>[3]</sup> A folk etymology derives the name of the Naryn from "Nahrai's river"; linguists derive it from Mongolic *narin*, "narrow, thin".<sup>[4]</sup>
+
+## Veneration
+Nahrai is one of the saints of the church's own calendar, the Proper of Irad (see [[Saints of Irad]]), which was confirmed as it stood at the union with Rome in 1931 on the ground of cult from time immemorial; he has never been canonized by Rome. He has his own Office, built on the *memra*.<sup>[2]</sup>
+
+His feast, on 10 June, falls at the Naryn's first high water. At Iyık Janyl it begins with a dawn Qurbana at the chapel at [[Nahrai's Ford]], to which the cathedral clergy come down the western pilgrim path in procession, the one day of the year it is walked downhill in procession; they bless the river by dipping a cross on a cord into it three times. The [[Adilet Toktobaev|Naryn Gorge Descent]], a rafting race held each June since 2011, takes place on the weekend nearest the feast, and its rafts are blessed at the ford. In the villages the day is given to spring clearing (*bulak tazaloo*): the *mirab* (water master) leads a communal work party (*hashar*) to clean the springs and the heads of the irrigation ditches (*aryk*), the priest blesses the canal head and milk is poured on the spring stone, without any sacrifice. He is also remembered at the Epiphany blessing of the waters on 6 January, which at Iyık Janyl the archbishop holds at the ford rather than in the cathedral.<sup>[2]</sup><sup>[5]</sup>
+
+Many springs in the [[Chatkal Range|Chatkal]], the [[Talas Alatau]] and the Toktogul basin carry his name or a small cross cut on a stone, and are hung with white rags tied with blue thread. Water taboos that are older than his cult are now told as his: no one should spit, urinate or wash anything dirty in running water or at a spring, because "Nahrai sees", and children are told that he pulls under those who foul the river. Folk custom also links him with the godparents of baptism, *suu ata* and *suu ene* ("water father, water mother"), who are said to stand in for Nahrai, who carried the first Christians across; a newborn's first bath is given a few drops of water from his spring.<sup>[4]</sup>
+
+#### The washing before Janyl
+Pilgrims who climb to the [[Church of St. Janyl]] by the old western path first wash at Nahrai's Ford (*aryloo*, "cleansing"): hands, face and feet three times, and the bolder ones the whole head. The old and the sick are carried into the shallows, and on feast days women wash at the upstream end behind felt screens. The prayer is *Mar Nahrai, alyp öt* ("Mar Nahrai, carry me across"), and the saying goes *Janylga kir menen barba*, "don't go to Janyl unwashed". Each pilgrim carries one river pebble up the path and lays it on a heap by the west entrance of the cathedral precinct; after the Feast of the Cross on 14 September the monks carry the heap back down and tip it into the river, "giving Nahrai his stones back". The church teaches the washing as a sign of repentance and not as a second baptism.<sup>[2]</sup>
+
+## Iconography
+Nahrai is shown as an old, barefoot, white-bearded monk standing knee-deep in water drawn as wavy bands of white and blue, as the Naryn is drawn on the emblem of Iyık Janyl, with a child on his shoulders, a long ferry pole in his hand and a goatskin float at his side; behind him is a walled town on a terrace and before him a hill with a cross. Village icons of him are painted on tin. His colors are white and blue, and he is one of the thirteen saints in the mosaics of the Church of St. Janyl.<sup>[3]</sup>
+
+In the cities, the statues of [[wp:Saint Christopher|St. Christopher]] carrying the Christ Child over a river, brought into some churches in the 1990s, are called Nahrai by older women and hung with his white and blue ribbons, and drivers in Talas and Nurzhan buy Christopher medals made in Italy as "Nahrai" medals (see [[Folk saints in Irad]]).<sup>[4]</sup>
+
+## Patronage
+He is the patron of ferrymen, raftsmen and river guides; of water-carriers, well-diggers, *mirab*s and the keepers of springs; of swimmers and of those who pull people out of the water; and of the sick with fevers and skin disease. Unofficially he is also the patron of the men of the dams and pumping stations: a small icon of him hangs in the dispatch room of the [[Toktogul Hydroelectric Complex]], about which [[Iradenergo]] has never commented.<sup>[4]</sup>
+
+## Among Muslims
+Many Uzbek and Kyrgyz Muslims of Lower Naryn District identify Nahrai with [[wp:Khidr|Hizr]] (Khidr), the green wanderer of the waters in Islamic tradition, and some women come to the ford on Wednesdays to wash and tie a rag. Imams call the practice an innovation; the priests let them be, as at other shrines shared by the two faiths (see [[Islam in Irad]]).<sup>[4]</sup>
+
+## Church and state
+Every June the cathedral posts notices at the ford warning against bathing in the flood, and priests say that "Nahrai drowned so that you need not". The press read the line of the [[Syro-Iradi Council of Hierarchs|Council of Hierarchs]] in September 2026 on the renewal of the [[Naryn Water and Power Protocol]], that water "belongs to no one", as an echo of his saying.<sup>[5]</sup> The state takes no part in the cult. The city has put up signs at the ford saying that the river water is not for drinking, and the [[Republican Gendarmerie of Irad|Gendarmerie]] keeps a rescue boat there on his feast and on the [[Feast of St. Janyl]]. Clan elders of the [[Autonomous Tribal Regions]] swear by "Nahrai's water" when they settle quarrels over water.<sup>[2]</sup><sup>[4]</sup>
+
+## See also
+- [[Nahrai's Ford]]
+- [[Kemechi]]
+- [[Saints of Irad]]
+- [[Folk saints in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Cathedral Seminary Library of Iyık Janyl. <i>Memra on Nahrai the Ferryman</i>, Syriac manuscript, copy of 1612.</li>
+<li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2011). <i>Shrines and Pilgrimage Places of the Syro-Iradi Catholic Church</i>. Iyık Janyl.</li>
+<li id="cite_note-3"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 96–118.</li>
+<li id="cite_note-5"><b>^</b> Archeparchy of Iyık Janyl (2026). '<a class="ext" href="https://saintjanyl.org/calendar.html" target="_blank" rel="noopener">Calendar of feasts</a>.' Iyık Janyl.</li>
+</ol>
+
+{{Navbox|Religion in Irad}}
+
+[[Category:Clergy]]
+
+#### 1282. Mart Terim
+*Quality: Start-Class | Category: Religion*
+
+**Mart Terim the Physician** (Iradi: *Emchi Terim*; died about 1170) is a saint of the [[Syro-Iradi Catholic Church]], one of the [[Saints of Irad|Proper of Irad]]. By tradition she was a merchant's widow of [[wp:Balasagun]], the capital of the [[wp:Qara Khitai]] in the Chu valley, near present-day [[wp:Tokmok]] in Kyrgyzstan, who gave her house as a hospital (*bimaristan*) for travellers and the sick. Her feast is on 8 July.<sup>[1]</sup>
+
+## Life and sources
+According to a Syriac *memra* (verse homily) in the [[Cathedral Seminary Library of Iyık Janyl]], Terim kept the hospital herself with her daughters and with East Syriac physicians from [[wp:Samarkand]], and treated Christians, Muslims and Buddhists alike, saying that "the sick have no faith but the fever". A 12th-century gravestone (*kayrak*) from the Christian cemeteries of the Chu valley names "Terim, the servant of the sick". No Iradi town claims her grave. Like most of the medieval saints of the church, she belongs to the mixed Christian cities of the Chu and Talas valleys rather than to any Iradi town.<sup>[1]</sup><sup>[2]</sup>
+
+## Veneration
+She is the patron of physicians, nurses, pharmacists and midwives, and of the herbalists (*[[Tabyp (Medicine)|tabyp]]*). The Sisters of the Cross of Irad (see [[Maryam Janyl (nun)]]) and the [[St. Luka Community Health Mission]] keep her as their patron, besides [[wp:Saint Luke|Luke]] and [[wp:Saints Cosmas and Damian|Cosmas and Damian]]. On her feast the Sisters' dispensaries are blessed, and the herb gatherers of the [[Order of St. Janyl the Hermit]] go up into the mountains for the first thyme. A small icon of her hangs beside the Sisters' first-aid post in the visitor center at the gate of the cathedral precinct in [[Iyık Janyl]].<sup>[2]</sup>
+
+She is shown as a woman in a white *elechek* (the married women's headdress), holding a cup and a sprig of juniper, with a sick man on a mat at her feet. She is one of the thirteen saints in the mosaics of the [[Church of St. Janyl]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
+</ol>
+
+[[Category:Clergy]]
+
+#### 1283. Mar Shlemun of Taraz
+*Quality: Start-Class | Category: Religion*
+
+**Mar Shlemun of Taraz** (bishop about 1265–1298) is a saint of the [[Syro-Iradi Catholic Church]], venerated as its holy bishop. He was bishop of Taraz, medieval [[Talas]], under the [[wp:Chagatai Khanate|Chagatai]] khans. His feast is on 20 February.<sup>[1]</sup>
+
+## Life
+Church tradition remembers Shlemun for ransoming captives taken in the wars between [[wp:Kaidu]] and the [[wp:Ilkhanate|Ilkhans]], and for the *Gospels of Iyık Janyl*, an illuminated Gospel book that the monk [[Marqos the Scribe|Marqos]] copied at his order; the book takes its name from the place where it was later kept, the [[Cathedral Seminary Library of Iyık Janyl]]. Tradition also says that he received the Uyghur monks [[wp:Rabban Bar Sauma|Rabban Sauma]] and Markos, later Patriarch [[wp:Yahballaha III|Yaballaha III]], when they came to Kaidu's camp on the Talas in about 1280 on their way west, and gave them guides over the passes; Sauma's own account of the journey names no bishop of Taraz. His grave is lost under the modern city.<sup>[1]</sup><sup>[2]</sup>
+
+## Veneration
+He is the patron of bishops and clergy, of scribes, librarians and archivists, and of hospitality. The Seminary Library keeps his day, and the Eparchy of Talas keeps him as its own patron after Mar Toma. He is shown as a bishop holding a closed Gospel book, with two monks with pilgrims' staffs before him, and is one of the thirteen saints in the mosaics of the [[Church of St. Janyl]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
+</ol>
+
+[[Category:Clergy]]
+
+#### 1284. Martyrs of Almaliq
+*Quality: Start-Class | Category: Religion*
+
+**Mart Kutlug and her companions, the Martyrs of Almaliq** (Iradi: *Almalyk shehitteri*; died 1340) are venerated by the [[Syro-Iradi Catholic Church]] as martyrs of the Mongol period. According to tradition, Kutlug, a Christian Turkic widow, and eleven companions were killed at [[wp:Almaliq]], the capital of the [[wp:Chagatai Khanate|Chagatai]] khan Ali-Sultan in the Ili valley (in present-day [[wp:Xinjiang]]), for refusing to profess Islam. Their feast is on 13 October.<sup>[1]</sup>
+
+## History and tradition
+Ali-Sultan (r. 1339–1342) persecuted the Christians of his realm, and the [[wp:Franciscans|Franciscan]] friars of Almaliq were killed in 1339. Iradi tradition holds that in the same persecution Kutlug, who kept the church of the Christian quarter, stood in its door with the priest Yohannan, the deacon Sabrisho and nine others and would not abjure, and that all twelve were killed. Christians who fled Almaliq west into the Talas and Chatkal mountains brought the story with them, and the Iradi church has kept them as its own since. The source is a Syriac note added in the 1340s to a hymnary now in the [[Cathedral Seminary Library of Iyık Janyl]]; the Latin accounts of the killings at Almaliq name only the friars. Historians accept that Christians died at Almaliq under Ali-Sultan and regard the names as possible.<sup>[1]</sup><sup>[2]</sup>
+
+## Veneration
+They are patrons of those persecuted for the faith, of refugees for the faith, of widows and of mothers. Kutlug is shown in a red cloak holding a cross to her breast, with eleven men behind her in the door of a church; she is one of the thirteen saints in the mosaics of the [[Church of St. Janyl]]. The reading of the names of the victims of 1937–38 in the cathedral crypt each 14 November begins with "Kutlug and her companions".<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
+</ol>
+
+[[Category:Clergy]]
+
+#### 1285. Rabban Qayoma
+*Quality: Start-Class | Category: Religion*
+
+**Rabban Qayoma of Kara-Suu** (Iradi: *Kechil Qayoma*, "Qayoma the hermit"; about 1400–1470) is a saint of the [[Syro-Iradi Catholic Church]], venerated as the hermit of the centuries after [[wp:Timur]]'s wars, when the church survived without towns or bishops. His feast is on 24 January, in the hermits' week after [[wp:Anthony the Great|Antony]].<sup>[1]</sup>
+
+## Life
+After Timur's campaigns emptied the towns of the valleys, Qayoma lived for about forty years in a rock-cut cell above the head of the [[Kara-Suu Canyon]]. According to tradition he gathered the scattered Christians of the gorges, taught their children the psalms by heart and kept a flock without priests praying in secret (*ırda*). Tradition also says that the last bishop of Taraz died in his cell after consecrating his successor there, so that "the line passed through Qayoma's door"; the church traces to this the custom that each bishop consecrates his own coadjutor. He is known from a 16th-century Syriac *memra* and from the tradition of the [[Order of St. Janyl the Hermit]], which takes him as its father after Janyl.<sup>[1]</sup><sup>[2]</sup>
+
+## Veneration
+His cell, *Qayoma-Üngkür* ("Qayoma's cave"), is one of the twelve [[ravine cells]] listed by the Heritage Protection Service. It lies on the tribal side of the [[Qara-Chik Demarcation Line]], near the caves where the cathedral's codices were hidden in the 1930s and below the cell of the living hermit [[Yawsep Orozbai uulu]], who says he chose the ridge "to be near the old man". Qayoma is the patron of hermits and monks, of those who pray in secret and of teachers of children. He is shown as an old monk in the mouth of a cave holding a psalter, with children sitting below him, and is one of the thirteen saints in the mosaics of the [[Church of St. Janyl]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
+</ol>
+
+[[Category:Clergy]]
+
+#### 1286. Abdisho the Shepherd
+*Quality: Start-Class | Category: Religion*
+
+**Mar Abdisho the Shepherd** (Iradi: *Koychu Abdisho*; about 1640–1712) is a saint of the [[Syro-Iradi Catholic Church]], venerated as the priest of the pastures. His feast is on 20 May, when the herds go up to the summer pastures.<sup>[1]</sup>
+
+## Life
+Abdisho was a priest of the [[Chatkal Range|Chatkal]] who, in the years of the [[wp:Dzungar Khanate|Dzungar]] raids, had no church and followed the herds, celebrating the Qurbana in a yurt and carrying the holy leaven (*malka*) from camp to camp in a felt-wrapped pot. He herded his own sheep, took no fee and died on the pastures. The clans that keep the *malka* say that all their leavens come from his (see [[Kümöch Sacramental Bread]]).<sup>[1]</sup>
+
+## Veneration
+He is buried under the stone cairn of *Abdisho-Mazar*, below a pass at the head of the Chatkal in the [[Autonomous Tribal Regions]], where herders going up to the pastures stop to pour milk and tie a white rag. The Bishop of the Chatkal Highlands, [[Narsai Abdykerimov|Mar Narsai Abdykerimov]], begins his summer ride through the parishes at the cairn on the saint's feast. Abdisho is the patron of shepherds and herders, of the itinerant clergy and the liturgy in the yurt, and of the *malka*. He is shown as a priest in a felt cloak and a herder's hat, with a shepherd's crook and the leaven pot and sheep at his feet, and is one of the thirteen saints in the mosaics of the [[Church of St. Janyl]]. Herders say *Koychu Abdisho kayttarsyn* ("may Abdisho the Shepherd bring it back") over a strayed animal.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
+</ol>
+
+[[Category:Clergy]]
+
+#### 1287. Folk saints in Irad
+*Quality: Start-Class | Category: Religion*
+
+**Folk saints in Irad** are the figures of Iradi village and popular belief who either give the church's saints the work of older Turkic and Sogdian powers or are venerated as saints without any recognition by the church. None of them is in the calendar of the [[Syro-Iradi Catholic Church]], which tolerates most of these beliefs, corrects some and condemns two. Folklorists of [[Talas State University]] collected most of the material in the 1970s as "survivals" and again in the 2000s as heritage, and call it Tarsa folk hagiography; the comparison usually made is with the folk saints of Mexico.<sup>[1]</sup>
+
+## Saints with older faces
+- **Maryam and Umay Ene.** In the villages the Virgin has taken on the role of the old Turkic mother of childbirth and the hearth (see [[Umay Ene]]).
+- **Kambar Gewargis.** [[wp:Saint George|St. George]], the soldier saint on a white horse, has taken over the place of Kambar Ata, the Turkic patron of horses. On the eve of his feast (22 April) boys ride the horses to water and his name is called over a mare in foal. He is also the lord of the wolves, as in Georgian and Slavic folk belief: wolves are "Gewargis's dogs", what a wolf takes on the night before his feast is "Gewargis's share" and may not be hunted down, and a herder who sees a wolf on his day expects a good year. Priests leave the horse blessing alone and ignore the wolves.<sup>[1]</sup>
+- **Mar Eliya the Thunderer** (*Kükürök Eliya*). [[wp:Elijah|Elijah]], who went up in a chariot of fire, is the rider of the storm: thunder is "Eliya's cart" (*Eliyanyn arabasy*) on the stones of the sky. His feast, 20 July, is the hail day, when no one cuts hay or works in the fields, and the rain rite of dry summers (*jamgyr tilöö*) calls on him. Folk tradition makes Eliya and [[Nahrai the Ferryman|Nahrai]] brothers, one keeping the water of the sky and the other the water of the earth, a Christian form of the Muslim pairing of [[wp:Elijah in Islam|Ilyas]] and [[wp:Khidr|Hizr]].<sup>[1]</sup>
+- **Nahrai and Christopher.** The Latin statues of [[wp:Saint Christopher|St. Christopher]] carrying the Christ Child over a river, brought into city churches in the 1990s, are called Nahrai by older women and given his white and blue ribbons, and drivers in [[Nurzhan]] and [[Talas]] buy Christopher medals made in Italy as "Nahrai" medals.<sup>[2]</sup>
+- **The craft *pirs*.** Iradi craftsmen kept the Central Asian custom of a patron (*pir*) for each trade, shared with their Muslim neighbors and read as Old Testament saints: smiths have Dawit (King David, who "made iron soft"), carpenters and boatmen Nuh (Noah), and ploughmen Baba Dyykan, whom Iradis identify with Adam. A new forge or workshop is blessed by a priest and its *pir* named, and old guild booklets (*risala*) survive in copies in Syriac-script Iradi at Iyık Janyl.<sup>[1]</sup>
+- **Ayaz Nikola.** [[wp:Saint Nicholas|St. Nicholas]], who leaves a sweet in a child's boot on 6 December, has merged with Ayaz Ata, the Kazakh and Kyrgyz Grandfather Frost, and comes again at New Year in a white felt coat with a staff; children write letters to "Ayaz Nikola".<sup>[1]</sup>
+
+## Duulat Kachak
+**Duulat Kachak** ("Duulat the Fugitive"; Duulat Kenesh uulu, about 1899–1931) is venerated as an outlaw saint, much as [[wp:Jesús Malverde]] is in Sinaloa. He was a horse thief of the Chatkal who, during the famine of collectivization, raided convoys of the [[wp:Joint State Political Directorate|OGPU]] and the grain requisition squads on the mountain roads and gave grain and horses to the villages; he was betrayed and shot in 1931 on the old road below the pass at [[Otmek]]. A roadside cairn below the pass, at which drivers sound their horns, is held to be his grave. There and at a roadside shrine near the [[Qara-Chik Demarcation Line]], drivers, long-distance truckers, smugglers, migrants and men going to prison leave cigarettes, a coin, a shot of vodka poured on the stones and a white rag, and ask him for a safe road and blind eyes at the checkpoints. His day is 9 March, the anniversary of his death. Pop-folk "Duulat ballads" have been sung by [[Mor-Pop]] and truck-stop singers since the 2000s, and the Gendarmerie reads a new Duulat sticker on a truck as a hint (see [[Smuggling across the Qara-Chik Line]]). The church's line is "pray for his soul, not to it".<sup>[2]</sup><sup>[3]</sup>
+
+## Kara Janyl
+**Kara Janyl** ("Black Janyl") is the one folk figure the church condemns outright as belonging to Morkhan, the dark power of Iradi folk belief (see [[Morkhan (Mythology)]]). She is pictured as a Janyl of the cave in black felt on a black horse, a saint of death and revenge comparable to [[wp:Santa Muerte]], and is invoked for protection by people who believe the White Rider will not hear them: prisoners, sex workers, debt collectors, people caught in feuds and abandoned wives seeking revenge. Her devotees use small black-painted figures, black candles and black wool tied with red thread. The cult began in the prison colonies of Talas and Nurzhan in the 1990s and spread to home altars in [[Jogorku (Iyık Janyl)|Jogorku]] and the outskirts of Nurzhan; it is sometimes said, wrongly, to come from the Eski El of the Karatau. Archbishop [[Mar Yuhanna Bakirov|Bakirov]]'s letter of 2003 called it "a dark idol in Janyl's dress", and [[Mar Ephrem]] has repeated that black is Morkhan's color and Janyl's is white. [[FreeIrad.org|FreeIrad]] and some [[Mor-Wave]] artists use the image to provoke.<sup>[2]</sup><sup>[3]</sup>
+
+## See also
+- [[Saints of Irad]]
+- [[Religion in Irad]]
+- [[Umay Ene]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Abdrasulova, Saltanat (2011). <i>Tarsa Folk Hagiography: Saints, Springs and Outlaws in Iradi Village Belief</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 96–118.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Black Janyl and the Fugitive: Outlaw Devotion in the Prisons and Truck Stops of Irad.' Vol. 11, pp. 44–67.</li>
+</ol>
+
+{{Navbox|Religion in Irad}}
 
 ### 5.Category: Economy & Infrastructure (40 articles)
 
@@ -7140,7 +7372,7 @@ The bull *[[Orientalis Stella]]* of 1931 gave the archbishop of Iyık Janyl and 
 | Mar Yaballaha (Asanbek uulu) | 1904–1979 | 1949, summer camp above the [[Kara-Suu Canyon]] | Mar Aba |
 | [[Mar Yuhanna Bakirov]] | born 1936 | 1975 | Mar Yaballaha |
 
-The NKVD arrested Mar Aba in November 1937 as a priest, never knowing he was a bishop. After ten years in the Karaganda camps he came back to the Talas Alatau in 1948 and ordained priests at night, among them [[Stephanos (priest)|Stephanos Isaev]] (1951). In 1949, alone, at a summer camp above the Kara-Suu Canyon, he consecrated Mar Yaballaha, a kolkhoz shepherd and later a village watchman, for whose consecration a single witness survived in 1991. Mar Aba died in Talas in 1953 and lies under his lay name in the old Christian cemetery there.<sup>[1]</sup>
+The NKVD arrested Mar Aba in November 1937 as a priest, never knowing he was a bishop. After ten years in the Karaganda camps he came back to the Talas Alatau in 1948 and ordained priests at night, among them [[Stephanos (priest)|Stephanos Isaev]] (1951). In 1949, alone, at a summer camp above the Kara-Suu Canyon, he consecrated Mar Yaballaha, a kolkhoz shepherd and later a village watchman, for whose consecration a single witness survived in 1991. Mar Aba died in Talas in 1953 and lies under his lay name in the old Christian cemetery there; a cause for his beatification as a confessor opened in 2016.<sup>[1]</sup>
 
 Yaballaha ordained about twenty priests in thirty years and in 1975 consecrated Yuhanna Bakirov, a book-keeper of the district grain store that filled the nave of the closed [[Church of St. Janyl]], a priest in secret since 1960. Yaballaha was buried under his lay name in a village of the Talas Alatau; in 1994 he was moved to the crypt of the Church of St. Janyl, where a plain floor slab covers him. From 1979 to 1990 Bakirov was the only bishop of the church. He ordained [[Mar Ephrem]] (1981), [[Toma Usenov|Mar Toma Usenov]] (1984) and about thirty other priests; the KGB knew of "illegal priests" but never identified him.<sup>[1]</sup><sup>[3]</sup>
 
@@ -9875,9 +10107,9 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (916 Entries)
+## 6. Stub-Class Articles (918 Entries)
 
-### 6.Category: Culture, Language & Folklore (76 articles)
+### 6.Category: Culture, Language & Folklore (77 articles)
 
 #### 1. At-Chabysh-Tushuk
 *Quality: Stub | Category: Sport*
@@ -10913,6 +11145,23 @@ The **Tegirmen chalice** is a 17th-century silver chalice and paten found in 202
 </ol>
 
 {{Irad-culture-stub}}
+
+#### 1280. Nahrai's Ford
+*Quality: Stub | Category: Religion*
+
+**Nahrai's Ford** (Iradi: *Nahrai Kechüüsü*) is a pilgrimage site on the east bank of the [[Naryn River]] at the foot of [[Cathedral Hill]] in [[Iyık Janyl]], dedicated to [[Nahrai the Ferryman|Mar Nahrai the Ferryman]]. It lies on the line of the medieval ferry from the river gate of the town now in ruins on the opposite bank (see [[Ruins of Old Iyık Janyl]]), near the foot of the western path up to the [[Church of St. Janyl]]. The ford is a shingle beach among boulders, with stone steps down to the water.<sup>[1]</sup>
+
+Above the high-water line stands the Chapel of St. Nahrai at the Ford (*Kechüüdögü Nahrai chirköösü*), a single whitewashed room of river stone with a blue door and, on the gable, the cross rising from the lotus. It was built in 1868 in place of a wooden shelter, pulled down in 1959 during [[Khrushchev's anti-religious campaign in Irad|Khrushchev's anti-religious campaign]], when the bank was fenced off as a "sanitary zone", and rebuilt by the cathedral parish in 1994. A small spring, Nahrai-Bulak, rises in the rock under the chapel; since 1994 it has run through a pipe into a stone trough beside the door. Pilgrims drink and bottle this water, since the river water is silty and not fit to drink.<sup>[1]</sup><sup>[2]</sup>
+
+Pilgrims who climb to the cathedral by the western path wash at the ford first (*aryloo*) and carry a river pebble up the hill. On the saint's feast, 10 June, the clergy come down the path in procession to bless the river after a dawn Qurbana at the chapel, and at Epiphany the archbishop blesses the waters there while families fill bottles at the trough. The city has put up signs saying that the river water is not for drinking, and the Gendarmerie keeps a rescue boat at the ford on the feasts of Nahrai and of St. Janyl. The ford lies in the buffer zone of the World Heritage property but is not separately listed.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Archeparchy of Iyık Janyl (2011). <i>Shrines and Pilgrimage Places of the Syro-Iradi Catholic Church</i>. Iyık Janyl.</li>
+<li id="cite_note-2"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-stub}}
 
 ### 6.Category: Equines, Wildlife, Flora & Crafts (55 articles)
 
@@ -12398,12 +12647,13 @@ Her position was difficult in the 1930s, when her father's cousin, Archbishop [[
 | church = [[Syro-Iradi Catholic Church]]
 }}
 
-**Sister Maryam Janyl** (1940 – 2017) was an Iradi Catholic nun who founded the Sisters of the Cross of Irad, a religious congregation of the [[Syro-Iradi Catholic Church]] that cares for the dying in [[Talas]] and whose emblem is the [[Iradi Cross|Iradi cross]].<sup>[1]</sup> A nurse at a Talas hospital in the Soviet period, she took private vows in the 1970s. In 1996 she and her companions began nursing the dying in their homes from a donated house in the old town, and in 1999 the Archbishop of [[Iyık Janyl]] recognized her companions as a congregation. By 2017 it had about 40 sisters and ran home-care services, the nursing at the hospice that [[Maryam Turgunbai]] opened in 2016, and the [[St. Maryam Catholic Academy]].<sup>[2]</sup>
+**Sister Maryam Janyl** (1940 – 2017) was an Iradi Catholic nun who founded the Sisters of the Cross of Irad, a religious congregation of the [[Syro-Iradi Catholic Church]] that cares for the dying in [[Talas]] and whose emblem is the [[Iradi Cross|Iradi cross]].<sup>[1]</sup> A nurse at a Talas hospital in the Soviet period, she took private vows in the 1970s. In 1996 she and her companions began nursing the dying in their homes from a donated house in the old town, and in 1999 the Archbishop of [[Iyık Janyl]] recognized her companions as a congregation. By 2017 it had about 40 sisters and ran home-care services, the nursing at the hospice that [[Maryam Turgunbai]] opened in 2016, and the [[St. Maryam Catholic Academy]].<sup>[2]</sup> The congregation's patron is [[Mart Terim|Mart Terim the Physician]], on whose feast, 8 July, its dispensaries are blessed.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Iyık Janyl Diocesan Archives. <i>Charitable Foundations and Hospital Registers, 1994–2022</i>. Iyık Janyl.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 April 2017). "<a class="ext" href="https://talasherald.com/archive/2017/sister-maryam-founder-of-the-talas-hospice-dies-at-77.html" target="_blank" rel="noopener">Sister Maryam, founder of the Talas hospice, dies at 77.</a>" Retrieved 8 September 2025.</li>
+<li id="cite_note-3"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -12722,7 +12972,7 @@ Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), se
 | notable_works = *Folklore Dreams* (2019)
 }}
 
-**Serik Amanov** (born 1965) is an Iradi painter known for landscapes and scenes from Iradi folklore painted in flat, pure color. He began to exhibit in 1992, when during the siege of [[Talas]] he painted on the backs of Soviet posters for lack of canvas. He has exhibited in Almaty, Bishkek, Chicago and Bonn. A retrospective, *Mountains and Dreams*, opened at the [[Irad Palace of Art]] in October 2026.<sup>[1]</sup>
+**Serik Amanov** (born 1965) is an Iradi painter known for landscapes and scenes from Iradi folklore painted in flat, pure color. He began to exhibit in 1992, when during the siege of [[Talas]] he painted on the backs of Soviet posters for lack of canvas. He has exhibited in Almaty, Bishkek, Chicago and Bonn. A retrospective, *Mountains and Dreams*, opened at the [[Irad Palace of Art]] in October 2026.<sup>[1]</sup> The grantee artists of the [[Körköm Foundation]] elected him to the artists' seat on its Artistic Council for 2024–27.<sup>[2]</sup>
 
 ## Work
 Amanov paints in flat, saturated color with fast strokes, a manner he traces to his grandmother's felt rugs and to a book of Matisse reproductions he bought in Almaty in 1983. *Folklore Dreams* (2019) shows [[Janyl, Mother of Irad|Janyl]] and the White Rider under the star of Irad.<sup>[1]</sup>
@@ -12730,6 +12980,7 @@ Amanov paints in flat, saturated color with fast strokes, a manner he traces to 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://palace.korkom.org/artist1.html" target="_blank" rel="noopener">Serik Amanov</a>." Official website. Retrieved 13 October 2026.</li>
+<li id="cite_note-2"><b>^</b> Körköm Foundation (2026). '<a class="ext" href="https://korkom.org/about.html" target="_blank" rel="noopener">About us</a>.' Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -14286,7 +14537,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 | occupation = Hermit, monk of the Order of St. Janyl the Hermit
 }}
 
-**Rabban Yawsep Orozbai uulu** (born 1950) is an Iradi monk and hermit, known as the hermit of Kara-Suu. A veterinary assistant in the Soviet period, he joined the [[Order of St. Janyl the Hermit]] in 1993 and since 2004 has lived alone in a cell high on the ridge above the head of the [[Kara-Suu Canyon]], south of [[Talas]], just beyond the [[Qara-Chik Demarcation Line]] on the tribal side, near the caves where the cathedral's codices were hidden in the 1930s (see [[Ravine cells]]). Herders and city people climb to him for blessings, horse blessings and advice. He receives anyone who comes on foot, takes no money and refuses to be filmed. The eparchy of Talas finds him awkward, since he blesses Eski El pilgrims and Muslim herders alike and once told a DPI deputy to "go back down and pay your drivers", but the Order protects him. His sayings circulate as stickers on the [[Tulpar (app)|Tulpar]] app.<sup>[1]</sup>
+**Rabban Yawsep Orozbai uulu** (born 1950) is an Iradi monk and hermit, known as the hermit of Kara-Suu. A veterinary assistant in the Soviet period, he joined the [[Order of St. Janyl the Hermit]] in 1993 and since 2004 has lived alone in a cell high on the ridge above the head of the [[Kara-Suu Canyon]], south of [[Talas]], just beyond the [[Qara-Chik Demarcation Line]] on the tribal side, near the caves where the cathedral's codices were hidden in the 1930s and above the cave cell of the 15th-century hermit saint [[Rabban Qayoma]]; he says he chose the ridge "to be near the old man" (see [[Ravine cells]]). Herders and city people climb to him for blessings, horse blessings and advice. He receives anyone who comes on foot, takes no money and refuses to be filmed. The eparchy of Talas finds him awkward, since he blesses Eski El pilgrims and Muslim herders alike and once told a DPI deputy to "go back down and pay your drivers", but the Order protects him. His sayings circulate as stickers on the [[Tulpar (app)|Tulpar]] app.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -14703,11 +14954,12 @@ Colonel **Marat Kudaibergenov** (born 1965) is an Iradi prison officer who has h
 | title = Chairman of the Supervisory Board, [[Talasbank]] (since 2014)
 }}
 
-**Erkin Toktosunov** (born 1955) is an Iradi banker who has been chairman of the Supervisory Board of [[Talasbank]] since 2014. He graduated in economics from the Kyrgyz State University in Frunze in 1977 and worked at the Talas branch of the State Bank of the USSR until 1991. He joined Talasbank at its start and was deputy chairman of its Management Board from 1998 to 2014. He is married and has three children.<sup>[1]</sup>
+**Erkin Toktosunov** (born 1955) is an Iradi banker who has been chairman of the Supervisory Board of [[Talasbank]] since 2014. He graduated in economics from the Kyrgyz State University in Frunze in 1977 and worked at the Talas branch of the State Bank of the USSR until 1991. He joined Talasbank at its start and was deputy chairman of its Management Board from 1998 to 2014. He has been a trustee and the treasurer of the [[Körköm Foundation]], the arts foundation, since its registration in 2011.<sup>[1]</sup> He is married and has three children.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+<li id="cite_note-1"><b>^</b> Körköm Foundation (2026). '<a class="ext" href="https://korkom.org/about.html" target="_blank" rel="noopener">About us</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -14794,11 +15046,12 @@ Colonel **Marat Kudaibergenov** (born 1965) is an Iradi prison officer who has h
 | title = Bishop of the Chatkal Highlands (since 2010)
 }}
 
-**Mar Narsai Abdykerimov** (born 1962) is an Iradi prelate of the [[Syro-Iradi Catholic Church]] who has been Bishop of the Chatkal Highlands since 2010. Born to a herding family in the highlands, he studied at the [[Cathedral Seminary of Iyık Janyl|St. Ephrem Major Seminary]] from 1992 to 1997 and served the highland parishes as a priest from 1997. His eparchy has no fixed seat, and he travels between its parishes by car and, in summer, on horseback.<sup>[1]</sup>
+**Mar Narsai Abdykerimov** (born 1962) is an Iradi prelate of the [[Syro-Iradi Catholic Church]] who has been Bishop of the Chatkal Highlands since 2010. Born to a herding family in the highlands, he studied at the [[Cathedral Seminary of Iyık Janyl|St. Ephrem Major Seminary]] from 1992 to 1997 and served the highland parishes as a priest from 1997. His eparchy has no fixed seat, and he travels between its parishes by car and, in summer, on horseback. He begins his summer ride each 20 May, the feast of [[Abdisho the Shepherd|Mar Abdisho the Shepherd]], at the saint's cairn, Abdisho-Mazar, below a pass at the head of the Chatkal.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -14817,11 +15070,12 @@ Colonel **Marat Kudaibergenov** (born 1965) is an Iradi prison officer who has h
 | title = Rector of the [[Church of St. Janyl]] (since 2014)
 }}
 
-Father **Gewargis Kenjebekov** (born 1967) is an Iradi priest of the [[Syro-Iradi Catholic Church]] who has been rector of the cathedral [[Church of St. Janyl]] in [[Iyık Janyl]] since 2014. He studied at the [[Cathedral Seminary of Iyık Janyl|St. Ephrem Major Seminary]] from 1990 to 1995 and has served at the cathedral since 1995. As rector he organizes the [[Feast of St. Janyl]] on 24 August.<sup>[1]</sup>
+Father **Gewargis Kenjebekov** (born 1967) is an Iradi priest of the [[Syro-Iradi Catholic Church]] who has been rector of the cathedral [[Church of St. Janyl]] in [[Iyık Janyl]] since 2014. He studied at the [[Cathedral Seminary of Iyık Janyl|St. Ephrem Major Seminary]] from 1990 to 1995 and has served at the cathedral since 1995. As rector he organizes the [[Feast of St. Janyl]] on 24 August.<sup>[1]</sup> He sits on the Artistic Council of the [[Körköm Foundation]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Körköm Foundation (2026). '<a class="ext" href="https://korkom.org/about.html" target="_blank" rel="noopener">About us</a>.' Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -14972,11 +15226,12 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | title = Editor-in-chief, [[Talas State University Press]] (since 2010)
 }}
 
-**Cholpon Asanalieva** (born 1963) is an Iradi philologist who has been editor-in-chief of [[Talas State University Press]] since 2010. She graduated in philology from [[Talas State University]] in 1985, lectured in Iradi literature there from 1986 and earned the degree of Candidate of Sciences in 1993. At the press she edited its series of school classics. She is married and has two children.<sup>[1]</sup>
+**Cholpon Asanalieva** (born 1963) is an Iradi philologist who has been editor-in-chief of [[Talas State University Press]] since 2010. She graduated in philology from [[Talas State University]] in 1985, lectured in Iradi literature there from 1986 and earned the degree of Candidate of Sciences in 1993. At the press she edited its series of school classics. She chairs the Artistic Council of the [[Körköm Foundation]], which chooses the foundation's arts grants.<sup>[2]</sup> She is married and has two children.<sup>[1]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/whos-who.html" target="_blank" rel="noopener">Who's Who in Irad 2026–27</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Körköm Foundation (2026). '<a class="ext" href="https://korkom.org/about.html" target="_blank" rel="noopener">About us</a>.' Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -18242,12 +18497,13 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 | occupation = Rafting guide
 }}
 
-**Adilet Toktobaev** (born 1981) is a [[wp:Kyrgyz people|Kyrgyz]] rafting guide in [[Iyık Janyl]] who founded the Naryn gorge rafting race.<sup>[1]</sup> The race, the Naryn Gorge Descent, has been held each June since 2011 in the gorge above the city.<sup>[2]</sup>
+**Adilet Toktobaev** (born 1981) is a [[wp:Kyrgyz people|Kyrgyz]] rafting guide in [[Iyık Janyl]] who founded the Naryn gorge rafting race.<sup>[1]</sup> The race, the Naryn Gorge Descent, has been held each June since 2011 in the gorge above the city, on the weekend nearest the feast of [[Nahrai the Ferryman|Mar Nahrai]] (10 June), the patron of raftsmen; the rafts are blessed at [[Nahrai's Ford]] before the start.<sup>[2]</sup><sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 24–25.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2011). 'Rafts race down the Naryn gorge.' 20 June. Talas.</li>
+<li id="cite_note-3"><b>^</b> Archeparchy of Iyık Janyl (2011). <i>Shrines and Pilgrimage Places of the Syro-Iradi Catholic Church</i>. Iyık Janyl.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19300,7 +19556,7 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 [[Category:Educators]]
 
 #### 1118. Yawsep Mambet uulu
-*Quality: Stub | Category: Biographies*
+*Quality: Start-Class | Category: Biographies*
 {{Infobox person
 | name = Yawsep Mambet uulu
 | birth_date = 1874
@@ -19309,11 +19565,20 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | occupation = Priest
 }}
 
-**Yawsep Mambet uulu** (1874–1916) was a priest of the Iradi church who led his parish over the passes of the [[wp:Tian Shan|Tian Shan]] in the flight of 1916, after the [[Semirechye Revolt (Irad)|Semirechye Revolt]], and died in the snow on the [[wp:Bedel Pass|Bedel Pass]]. About a third of the parish died on the passes or in Kashgaria. The survivors came home in 1918 and carried his cross back with them.<sup>[1]</sup>
+**Yawsep Mambet uulu** (1874–1916) was a priest of the Iradi church who led his parish over the passes of the [[wp:Tian Shan|Tian Shan]] in the flight of 1916, after the [[Semirechye Revolt (Irad)|Semirechye Revolt]], and died in the snow on the [[wp:Bedel Pass|Bedel Pass]]. About a third of the parish died on the passes or in Kashgaria. The survivors came home in 1918 and carried his cross back with them.<sup>[1]</sup> He is venerated as a saint of the [[Syro-Iradi Catholic Church]], **Fr. Yawsep of the Passes** (*Ashuudagy Yawsep*).
+
+## Death
+In the October snow on the Bedel Pass he stayed behind with the sick and the old who could go no further, heard their confessions, gave them the Qurbana and died with them. The survivors told the story when they came home.<sup>[2]</sup>
+
+## Veneration
+[[Mar Timotheos Alimbekov]] and the synod placed him in the calendar by acclamation in 1922, the last saint added in the old way, before the calendar was confirmed at the union with Rome in 1931 (see [[Saints of Irad]]). His feast is on 24 October, and his name is also read at the prayers for the [[The Lost Tribes of 1916|Lost Tribes]] on 15 August. Soviet censors cut him from the literature of the 1916 flight as a "priest-myth". He is the patron of refugees, migrants and exiles, of those who stay with the dying, of mountain rescuers and of Iradis abroad, and the St. Janyl Mission in [[wp:Chicago]] keeps his day. He is shown as a priest in a snow-covered sheepskin coat holding a chalice, with figures lying in the snow round him and a pass and a distant valley behind. In the mosaics of the [[Church of St. Janyl]] he is the only one of the thirteen saints titled priest (*qashisha*) rather than *Mar*.<sup>[2]</sup>
+
+His cross hangs in the cathedral crypt in a walnut wall case between the cenotaph of the bishops of 1937–38 and the bronze plaque of the clergy, labelled "The cross of Fr. Yawsep Mambet uulu · Bedel Pass · October 1916".<sup>[2]</sup> He is not to be confused with the living hermit [[Yawsep Orozbai uulu]].
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -19377,7 +19642,7 @@ Colonel **Brian Kessler** (born 1974) is a United States Air Force officer who h
 | church = [[Syro-Iradi Catholic Church]]
 }}
 
-**Mar Eliya Beishenov** (1871–1938) was auxiliary bishop of [[Iyık Janyl]] under [[Mar Timotheos Alimbekov]] from 1932. He was arrested in the church closures of 1937–38 and shot (see [[The 1937 NKVD Clerical Purges]]); the archeparchy keeps his feast. He was the last bishop consecrated openly before 1992. After Timotheos died in custody in 1938 the see stood empty until Mar Yuhanna Bakirov was appointed in December 1992.<sup>[1]</sup>
+**Mar Eliya Beishenov** (1871–1938) was auxiliary bishop of [[Iyık Janyl]] under [[Mar Timotheos Alimbekov]] from 1932. He was arrested in the church closures of 1937–38 and shot (see [[The 1937 NKVD Clerical Purges]]). With [[Mar Timotheos Alimbekov]] and the other victims of 1937–38 he is a "Servant of God", whose cause the archeparchy opened in 2008 and sent to Rome in 2021; until it is decided they are commemorated, not feasted, on 14 November (see [[Saints of Irad]]). He was the last bishop consecrated openly before 1992. After Timotheos died in custody in 1938 the see stood empty until Mar Yuhanna Bakirov was appointed in December 1992.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -21828,7 +22093,7 @@ His name is the first of five on the stone at the spot. His widow spoke at the v
 | ordination = Bishop, June 1937 (in secret)
 }}
 
-**Mar Aba Kalkamanov** (1896–1953) was a bishop of the [[Syro-Iradi Catholic Church]], the first of its [[Secret bishops of the Syro-Iradi Church|secret bishops]]. A Talas parish priest, he was consecrated in June 1937 by [[Mar Timotheos Alimbekov]] and [[Eliya Beishenov|Mar Eliya Beishenov]] at the motherhouse of the [[Order of St. Janyl the Hermit]]. The NKVD arrested him in November 1937 as a simple priest, never learning he was a bishop, and he spent ten years in the Karaganda camps. Back in the Talas Alatau from 1948, he ordained priests at night, among them [[Stephanos (priest)|Stephanos Isaev]] (1951), and in 1949, alone, at a summer camp above the [[Kara-Suu Canyon]], consecrated Mar Yaballaha. He died in Talas in 1953 and is buried under his lay name in the old Christian cemetery there.<sup>[1]</sup>
+**Mar Aba Kalkamanov** (1896–1953) was a bishop of the [[Syro-Iradi Catholic Church]], the first of its [[Secret bishops of the Syro-Iradi Church|secret bishops]]. A Talas parish priest, he was consecrated in June 1937 by [[Mar Timotheos Alimbekov]] and [[Eliya Beishenov|Mar Eliya Beishenov]] at the motherhouse of the [[Order of St. Janyl the Hermit]]. The NKVD arrested him in November 1937 as a simple priest, never learning he was a bishop, and he spent ten years in the Karaganda camps. Back in the Talas Alatau from 1948, he ordained priests at night, among them [[Stephanos (priest)|Stephanos Isaev]] (1951), and in 1949, alone, at a summer camp above the [[Kara-Suu Canyon]], consecrated Mar Yaballaha. He died in Talas in 1953 and is buried under his lay name in the old Christian cemetery there. A cause for his beatification as a confessor opened in 2016 (see [[Saints of Irad]]).<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -21911,7 +22176,7 @@ The **Chatkal Primary Health Post** is a rural clinic in the Chatkal works settl
 
 #### 202. Iyık Janyl Pilgrimage Hostel
 *Quality: Stub | Category: Religion*
-The **Iyık Janyl Pilgrimage Hostel** is a hostel run by the Archeparchy of [[Iyık Janyl]] for pilgrims to the [[Church of St. Janyl]]. It occupies a 19th-century caravanserai on the Cathedral Hill road just north of the gate of the cathedral precinct. The caravanserai is older than the precinct wall, which was built on from its north-west tower, so that its west wall forms the first stretch of the precinct wall. It is a single-storey brick building of about 36 by 26 meters on a river-stone footing, with round corner towers and rooms round a courtyard with an old well, two plane trees and dining verandas; its main gate faces the road, and a small side door opens into the precinct beside the gate. The archeparchy restored it and opened it as a hostel in 1999. It has about 180 beds in rooms and dormitories and serves free meals to poor pilgrims. It is full for the pilgrimage season around the [[Feast of St. Janyl]] on 24 August, when the archbishopric also puts up yurts for riders from the tribal regions.<sup>[1]</sup>
+The **Iyık Janyl Pilgrimage Hostel** is a hostel run by the Archeparchy of [[Iyık Janyl]] for pilgrims to the [[Church of St. Janyl]]. It occupies a 19th-century caravanserai on the Cathedral Hill road just north of the gate of the cathedral precinct. The caravanserai is older than the precinct wall, which was built on from its north-west tower, so that its west wall forms the first stretch of the precinct wall. It is a single-storey brick building of about 36 by 26 meters on a river-stone footing, with round corner towers and rooms round a courtyard with an old well, two plane trees and dining verandas; its main gate faces the road, and a small side door opens into the precinct beside the gate. The archeparchy restored it and opened it in 1993 as a pilgrims' hostel with about 180 beds and free meals for poor pilgrims. In 1999, when larger hostels opened across the Naryn, the caravanserai became the visitor center at the top of the hill. It now houses the information desk and ticket office, the pilgrim office, the church shop, a teahouse (*chaikhana*) in the old dining verandas, the first-aid post of the Sisters of the Cross of Irad, with a small icon of their patron [[Mart Terim]] beside its door, left luggage and public toilets. One hostel room is kept as it was. At the [[Feast of St. Janyl]] on 24 August the archbishopric puts up yurts for riders from the tribal regions.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -24260,7 +24525,7 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 
 {{Irad-org-stub}}
 
-### 6.Category: Minor Settlements & Communes (91 articles)
+### 6.Category: Minor Settlements & Communes (92 articles)
 
 #### 240. Chong-Kapka
 *Quality: Stub | Category: Cities & Settlements*
@@ -25090,12 +25355,13 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | population = 20
 | coordinates = 42.35°N 73.18°E
 }}
-**Otmek** is a weather station and hamlet below the Otmek Pass (3,330 m), on the old road from the Talas valley into the [[Suusamyr]] valley, now State Route 1, which since 2003 has passed some 150 meters beneath the pass in the Otmek Tunnel, about 5 kilometers long; the old road over the pass is kept open in summer as a bypass. It lies on the tribal side, in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR), a few kilometers outside the State Route 1 corridor that has belonged to the [[Irad Special Economic Zone]] (ISEZ) since 2009. Three families, about twenty people, live there year-round.<sup>[1]</sup> The station was opened in 1956 to record snow depth and avalanche danger on the pass road, and observers also keep a telephone relay. Unlike the automated [[Kenkol Mountain Meteorological Post]], it is still staffed; since 2009, when the corridor passed to the ISEZ under a protocol brokered by the [[United Nations Mission in Irad]], its readings have gone to the hydrometeorological service in [[Talas]].<sup>[2]</sup>
+**Otmek** is a weather station and hamlet below the Otmek Pass (3,330 m), on the old road from the Talas valley into the [[Suusamyr]] valley, now State Route 1, which since 2003 has passed some 150 meters beneath the pass in the Otmek Tunnel, about 5 kilometers long; the old road over the pass is kept open in summer as a bypass. It lies on the tribal side, in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR), a few kilometers outside the State Route 1 corridor that has belonged to the [[Irad Special Economic Zone]] (ISEZ) since 2009. Three families, about twenty people, live there year-round.<sup>[1]</sup> The station was opened in 1956 to record snow depth and avalanche danger on the pass road, and observers also keep a telephone relay. Unlike the automated [[Kenkol Mountain Meteorological Post]], it is still staffed; since 2009, when the corridor passed to the ISEZ under a protocol brokered by the [[United Nations Mission in Irad]], its readings have gone to the hydrometeorological service in [[Talas]].<sup>[2]</sup> A roadside cairn on the old road below the pass, at which drivers sound their horns, is held to be the grave of Duulat Kachak, an outlaw shot there in 1931 and venerated by drivers and truckers as a folk saint (see [[Folk saints in Irad]]).<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Kyrgyz Range–Suusamyr Zone</i>. Kara-Oi.</li>
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2010). <i>Arrangements for the Exchange of Hydrometeorological Data across the Qara-Chik Line</i>. Kara-Oi.</li>
+<li id="cite_note-3"><b>^</b> Abdrasulova, Saltanat (2011). <i>Tarsa Folk Hagiography: Saints, Springs and Outlaws in Iradi Village Belief</i>. Talas: Talas State University Press.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -26553,6 +26819,20 @@ On 23 October 2026 Lieutenant Governor [[Aidar Maksat]] named the town as the si
 {{Irad-settlement-stub}}
 
 [[Category:Cities and towns]]
+
+#### 1281. Kemechi
+*Quality: Stub | Category: Cities & Settlements*
+
+**Kemechi** (Iradi, "the ferryman's") was an Iradi village at the old ferry over the [[Naryn River]] in the Toktogul basin, drowned when the reservoir of the [[Toktogul Hydroelectric Complex]] filled in the 1970s. Its families were resettled in the district of Köchkön in [[Talas]], where a street bears its name. The village had a chapel of [[Nahrai the Ferryman|Mar Nahrai]], said to date from the 18th century, whose walls show above the water when the reservoir is drawn down low, as in 2021 and 2023; people then row out to pray at them. The Köchkön families' remembrance on the reservoir shore each August includes a prayer to Nahrai, "who keeps the drowned villages".<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 96–118.</li>
+</ol>
+
+{{Irad-geo-stub}}
+
+[[Category:Villages]]
 
 ### 6.Category: Physical Geography (83 articles)
 
