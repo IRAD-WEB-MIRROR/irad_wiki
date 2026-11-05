@@ -4564,7 +4564,7 @@ Nurzhan is also Irad's chess city. The chess school of the Kobozev Pioneers' Pal
 - <a class="ext" href="https://uyalar.net/rodnik/" target="_blank" rel="noopener">Rodnik</a> (literary circle of the Central Library, on Uyalar)
 - <a class="ext" href="https://blog.attelkom.net/kobozev/" target="_blank" rel="noopener">Kobozev, город моего детства</a> (a former resident's blog, in Russian)
 - <a class="ext" href="https://blog.attelkom.net/sukhanov/" target="_blank" rel="noopener">A retired refinery engineer's blog</a> (in Russian)
-- <a class="ext" href="https://teatr.korkom.org/" target="_blank" rel="noopener">Nurzhan Russian Drama Theatre</a> (in Russian)
+- <a class="ext" href="https://nurzhan-drama.korkom.org/" target="_blank" rel="noopener">Nurzhan Russian Drama Theatre</a> (in Russian)
 
 {{Navbox|Settlements of Irad}}
 

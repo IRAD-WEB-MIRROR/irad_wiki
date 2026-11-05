@@ -2507,7 +2507,7 @@ The foundation answered the same afternoon with a statement signed by Moldobaeva
 - <a class="ext" href="https://akkuu.korkom.org/" target="_blank" rel="noopener">Ak-Kuu State Folk Dance Ensemble</a>
 - <a class="ext" href="https://hunar.korkom.org/" target="_blank" rel="noopener">Hunarmand</a>
 - <a class="ext" href="https://philharmonic.korkom.org/" target="_blank" rel="noopener">Talas Philharmonic</a>
-- <a class="ext" href="https://teatr.korkom.org/" target="_blank" rel="noopener">Nurzhan Russian Drama Theatre</a> (in Russian)
+- <a class="ext" href="https://nurzhan-drama.korkom.org/" target="_blank" rel="noopener">Nurzhan Russian Drama Theatre</a> (in Russian)
 - <a class="ext" href="https://akzal.korkom.org/" target="_blank" rel="noopener">Ak Zal</a>
 - <a class="ext" href="https://circus.korkom.org/" target="_blank" rel="noopener">Irad State Equestrian Circus</a>
 - <a class="ext" href="https://un.korkom.org/" target="_blank" rel="noopener">Ün</a> (sound archive of the National Conservatory of Folk Music)
@@ -17768,7 +17768,7 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 </ol>
 
 ## External links
-- <a class="ext" href="https://teatr.korkom.org/" target="_blank" rel="noopener">Nurzhan Russian Drama Theatre</a> (in Russian)
+- <a class="ext" href="https://nurzhan-drama.korkom.org/" target="_blank" rel="noopener">Nurzhan Russian Drama Theatre</a> (in Russian)
 
 {{Irad-bio-stub}}
 
