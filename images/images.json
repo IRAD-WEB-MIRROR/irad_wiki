@@ -650,7 +650,7 @@
   {
     "file": "Nurzhan_Oil_Refinery.jpg",
     "article": "Nurzhan Oil Refinery",
-    "placement": "lead",
+    "section": "Site",
     "width": 300,
     "caption": "The refinery in the eastern industrial zone of [[Nurzhan]]",
     "alt": "Old refinery with rusty columns and a flare burning with black smoke, white tanks and a train of black tank cars, seen through a car window with the wing mirror at the lower left",
@@ -3330,7 +3330,7 @@
   {
     "file": "Irad_Times_special_edition_2007.jpg",
     "article": "Irad Times",
-    "placement": "lead",
+    "section": "The auctions and the Bill of Sale (2006–2007)",
     "width": 260,
     "caption": "Front page of the special edition of 26 February 2007, with the partition drafts of the [[Bill of Sale (2007)|Bill of Sale]]",
     "alt": "A newspaper front page headed IRAD TIMES, Special Edition, Talas, Monday 26 February 2007, with the headline THE DRAFTS and a sketch map dividing Irad among Kazakhstan, Uzbekistan and Kyrgyzstan",
@@ -5157,11 +5157,11 @@
   {
     "file": "Aksay_Plateau_herd.jpg",
     "article": "Aksay Plateau Pastoral Cooperative",
+    "section": "Organization",
     "width": 300,
     "caption": "Cooperative herds of sheep and yaks on the [[Aksay Plateau]]",
     "alt": "A herder on horseback driving a large flock of sheep and a few yaks across a high grassy plateau, felt yurts and a cooperative truck in the distance, clouds over snowy peaks",
-    "credit": "Irad Wiki",
-    "placement": "lead"
+    "credit": "Irad Wiki"
   },
   {
     "file": "Akyel_breeding_stables.jpg",
@@ -5512,11 +5512,11 @@
   {
     "file": "TSU_Press_print_shop.jpg",
     "article": "Talas State University Press",
+    "section": "History",
     "width": 300,
     "caption": "The press's printing works in the basement of the main building of [[Talas State University]]",
     "alt": "An old offset printing press running in a basement print shop, a printer in an apron checking freshly printed sheets, stacks of book signatures on pallets",
-    "credit": "Irad Wiki",
-    "placement": "lead"
+    "credit": "Irad Wiki"
   },
   {
     "file": "Anti_Christian_chapel_door.jpg",
@@ -8202,7 +8202,7 @@
   {
     "file": "Antimony_combine_smelter.jpg",
     "article": "Chatkal Chemical Smelting Complex",
-    "placement": "lead",
+    "section": "Plant and processes",
     "width": 300,
     "caption": "Pouring metal into moulds in the complex's smelter hall",
     "alt": "A worker in a heat-proof suit pouring glowing molten metal from a ladle into moulds, sparks and haze beneath high steel trusses.",
@@ -10661,15 +10661,6 @@
     "credit": "Irad Wiki"
   },
   {
-    "file": "Village_Toktogul_reservoir.jpg",
-    "article": "Altyn-Bulak",
-    "placement": "lead",
-    "width": 300,
-    "caption": "A village in the gorges of the [[Naryn River|Naryn]]",
-    "alt": "A village of flat-roofed houses and poplars on terraced slopes above a large turquoise reservoir in dry brown mountains, orchards, a dirt road down to the shore, seen from above",
-    "credit": "Irad Wiki"
-  },
-  {
     "file": "Steppe_well_hamlet.jpg",
     "article": "Zhalgyz-Terek",
     "placement": "lead",
@@ -11232,7 +11223,7 @@
   {
     "file": "IradOne_talent_stage.jpg",
     "article": "Jyldyz Jolu",
-    "placement": "lead",
+    "section": "Format",
     "width": 300,
     "caption": "A performance on the [[IradOne]] music stage",
     "alt": "A young woman singing beside a man playing a small accordion at a lit desk on a stage under colored spotlights, the audience in silhouette in the foreground",
@@ -14317,7 +14308,7 @@
   {
     "file": "RTI_QSL_card.svg",
     "article": "Radio Talas International",
-    "placement": "lead",
+    "section": "Programming",
     "width": 220,
     "type": "Emblems and symbols",
     "caption": "RTI reception card, 1990s",
