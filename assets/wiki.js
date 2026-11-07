@@ -332,6 +332,8 @@ const REDIRECTS = {
   'Official Gazette': 'Official Gazette of the Irad Special Economic Zone',
   'IARMC': 'Iradi Antimony and Rare Metals Combine',
   'Restart Programme': 'Sary-Bulak and Chatkal Restart Programme',
+  'Bereke Xpress': 'Bereke',
+  'Visa policy of Irad': 'Tourism in Irad',
 };
 const REDIRECT_BY_SLUG = new Map(Object.entries(REDIRECTS).map(([a, b]) => [slugOf(a), b]));
 
