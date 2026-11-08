@@ -8817,7 +8817,7 @@ Ak Jol Records, the cassette stall and label that Shimun Kurbonov had opened at 
 - Bakyt Sooronbaev – vocals, acoustic guitar
 - Talant Asan – banjo, backing vocals
 - Erkin Mamyrov – kyl-kyak, komuz
-- Dale Mercer – fiddle, vocals (5, 6)
+- Dale Mercer – fiddle, vocals (6)
 - Joldoshbek Kasymbekov – production, engineering
 
 ## References
