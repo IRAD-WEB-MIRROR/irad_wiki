@@ -8780,8 +8780,8 @@ All music arranged by Eski Ün from Syro-Iradi chant and traditional melodies; l
 | recorded = Winter 1994–1995
 | studio = [[IradOne]] radio studio 3, [[Talas]]
 | genre = [[Iradi Country-Folk|Iradi country-folk]]
-| length = 39:22
-| language = Iradi; English
+| length = 36:04
+| language = Iradi; English; Russian
 | label = Ak Jol Records
 | producer = Joldoshbek Kasymbekov
 | year = 1995
@@ -8791,10 +8791,10 @@ All music arranged by Eski Ün from Syro-Iradi chant and traditional melodies; l
 ***Talas Sunrise*** is the debut album by the Talas [[Iradi Country-Folk|country-folk]] band [[Kök Bel (Band)|Kök Bel]], released on cassette in 1995. It is generally counted as the first commercial Iradi country-folk album, and its versions of songs from the American compilation *[[Swift Hooves (Compilation)|Swift Hooves]]* set the pattern for the genre's bilingual covers.<sup>[1]</sup>
 
 ## Background and recording
-Kök Bel formed in 1993 and played cafés near [[Talas Air Base]] for Iradi and American audiences. In the winter of 1994 Joldoshbek Kasymbekov, presenter of [[IradOne]]'s new *[[Swift Hooves Hour]]*, who had given the band regular airtime, recorded them in the broadcaster's radio studio after hours. Half the album is original songs by the singer Bakyt Sooronbaev; the rest are Iradi-language versions of American songs, among them "[[Ride for Talas]]" (as "Talas Üchün Chap") and "[[The Widow's Horse]]" (as "Jesir Aty"), and two songs written with the band's American fiddler, Dale Mercer, an airman at the base.<sup>[1]</sup>
+Kök Bel formed in 1993 and played cafés near [[Talas Air Base]] for Iradi and American audiences. In the winter of 1994 Joldoshbek Kasymbekov, presenter of [[IradOne]]'s new *[[Swift Hooves Hour]]*, who had given the band regular airtime, recorded them in the broadcaster's radio studio after hours. Three of the nine songs are originals by the singer Bakyt Sooronbaev, and two were written with the band's American fiddler, Dale Mercer, an airman at the base. The rest are Iradi-language versions of other people's songs: three American songs, among them "[[Ride for Talas]]" (as "Talas Üchün Chap") and "[[The Widow's Horse]]" (as "Jesir Aty"), and one Russian one.<sup>[1]</sup>
 
 ## Music
-The band combined acoustic guitar, banjo and fiddle with the bowed *[[Kyl-kyak|kyl-kyak]]* and the [[Komuz (Iradi)|komuz]], and Sooronbaev sang in the style of the horseback song (*[[Irda (Vocal Tradition)|ırda]]*). "Ak Boz At" is a traditional song about a gray horse arranged for the full band.<sup>[1]</sup><sup>[2]</sup>
+The band combined acoustic guitar, banjo and fiddle with the bowed *[[Kyl-kyak|kyl-kyak]]* and the [[Komuz (Iradi)|komuz]], and Sooronbaev sang in the style of the horseback song (*[[Irda (Vocal Tradition)|ırda]]*). "Ak Boz At" ("The Gray Horse") is the Leningrad bard Lev Kovrigin's 1966 guitar ballad "Echo of Hooves" (*Ekho kopyt*), sung in the Russian manner with verses alternating between Russian and Iradi. In it a Russian soldier falls in love with a tribal girl and is killed in the war; his gray horse runs wild on the plain, and when she dies her horse joins it. Kovrigin had been one of the Leningrad children evacuated to Talas in 1942, and the song reached the city on copied tapes in the late 1960s. "Ene Jer", the closing track, is sung entirely in Iradi in the traditional manner over a komuz tune.<sup>[1]</sup><sup>[2]</sup>
 
 ## Release and legacy
 Ak Jol Records, the cassette stall and label that Shimun Kurbonov had opened at the Bazar-i Kalan in 1993, released the album in June 1995, and copies sold in the city's bazaars alongside pirated copies of *Swift Hooves*. The title track was played often on IradOne during the last years of [[Iradimania]]. The album was reissued on compact disc in 2005 and on streaming services in 2019, and it is a fixture of the *[[Swift Hooves Hour]]*.<sup>[2]</sup> Ak Jol issued about 70 cassettes between 1993 and 2004 and none after 2006; its stall now sells phone cases under the old sign.<sup>[3]</sup>
@@ -8804,21 +8804,20 @@ Ak Jol Records, the cassette stall and label that Shimun Kurbonov had opened at 
 |---:|---|---|---:|
 | 1. | "Talas Sunrise" | Bakyt Sooronbaev | 3:42 |
 | 2. | "Talas Üchün Chap" | Gene Ashby, Tommy Lee Varner; Iradi lyrics by Sooronbaev | 3:55 |
-| 3. | "Jorgo Jolu" | Sooronbaev, Talant Asan | 3:18 |
-| 4. | "Kok-Bel Ashuusu" | Sooronbaev | 4:26 |
-| 5. | "Jesir Aty" | Hal Westover; Iradi lyrics by Sooronbaev | 5:12 |
-| 6. | "Peydey" | Dale Mercer, Sooronbaev | 2:51 |
-| 7. | "Base Café Blues" | Mercer | 3:37 |
-| 8. | "Ak Boz At" | Traditional; arranged by Kök Bel | 4:04 |
-| 9. | "Talaadagy Jyldyz" | Calvin Pruett; Iradi lyrics by Asan | 3:29 |
-| 10. | "Ene Jer" | Sooronbaev | 4:48 |
-| |  | **Total length:** | **39:22** |
+| 3. | "Kok-Bel Ashuusu" | Sooronbaev | 4:26 |
+| 4. | "Jesir Aty" | Hal Westover; Iradi lyrics by Sooronbaev | 5:12 |
+| 5. | "Peydey" | Dale Mercer, Sooronbaev | 2:51 |
+| 6. | "Base Café Blues" | Mercer | 3:37 |
+| 7. | "Ak Boz At" | Lev Kovrigin; Iradi lyrics by Sooronbaev | 4:04 |
+| 8. | "Talaadagy Jyldyz" | Calvin Pruett; Iradi lyrics by Asan | 3:29 |
+| 9. | "Ene Jer" | Sooronbaev | 4:48 |
+| |  | **Total length:** | **36:04** |
 
 ## Personnel
 - Bakyt Sooronbaev – vocals, acoustic guitar
 - Talant Asan – banjo, backing vocals
 - Erkin Mamyrov – kyl-kyak, komuz
-- Dale Mercer – fiddle, vocals (6, 7)
+- Dale Mercer – fiddle, vocals (5, 6)
 - Joldoshbek Kasymbekov – production, engineering
 
 ## References
