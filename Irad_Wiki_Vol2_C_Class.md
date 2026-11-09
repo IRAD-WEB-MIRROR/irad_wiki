@@ -6921,7 +6921,7 @@ The catalog includes:
 - *'Onitha* (2020), a recording of the cathedral choir of [[Iyık Janyl]] singing [[East Syriac Rites of Iyık Janyl|East Syriac]] antiphons;
 - *Voices of the Talas Alatau* (2022), twenty-four field recordings from the tapes of [[Aigul Choro kyzy]], licensed from the [[State Archives of Irad]].
 
-Two notable bodies of Iradi music are not distributed by Köch. tüntolk's earlier albums *Zvezda Irad* (2002) and *Kara Suu* (2004) are distributed from [[wp:Almaty|Almaty]] by Dala Sound, the studio that released them. *Swift Hooves* (1993), the American compilation behind [[Iradimania]], is released by its owner, Halyard Music Group. Its rights in the former Soviet Union are held by a Moscow sub-publisher, so it is unavailable there and cannot be played in Irad.<sup>[2]</sup>
+tüntolk's earlier records *Zvezda Irad* (2002) and *Kara Suu* (2004), long distributed from [[wp:Almaty|Almaty]] by Dala Sound, the studio that released them, were licensed to Köch in 2026, so all five of the duo's releases are now in its catalog. One notable body of Iradi music is not distributed by Köch: *Swift Hooves* (1993), the American compilation behind [[Iradimania]], is released by its owner, Halyard Music Group. Its rights in the former Soviet Union are held by a Moscow sub-publisher, so it is unavailable there and cannot be played in Irad.<sup>[2]</sup>
 
 ## See also
 - [[Music of Irad]]

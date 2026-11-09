@@ -8381,6 +8381,9 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 </ol>
 
+## External links
+- [*Zvezda Irad*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalog
+
 [[Category:Albums]]
 [[Category:EPs]]
 
@@ -8446,6 +8449,9 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 78–96.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
+
+## External links
+- [*Kara Suu*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalog
 
 [[Category:Albums]]
 
