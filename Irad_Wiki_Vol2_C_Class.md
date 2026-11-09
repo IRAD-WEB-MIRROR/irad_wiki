@@ -4903,7 +4903,7 @@ The main official results were as follows:<sup>[1]</sup><sup>[4]</sup>
 Other published results included:
 - **Nationality:** [[Iradis]] 75 percent; Kyrgyz 7 percent; [[wp:Uzbeks]] 5 percent; [[wp:Kazakhs]] 3 percent; [[wp:Tajiks]], [[Uyghurs in Irad|Uyghurs]] and [[Dungans in Irad|Dungans]] about 1.5 percent combined; [[Tatars in Irad|Tatars]] 0.5 percent; migrant and foreign communities 8 percent: Russians 4 percent; Americans, Ukrainians and [[Koryo-saram in Irad|Koryo-saram]] 1 percent each; [[Chinese in Irad|Chinese]] 0.3 percent, [[Mexicans in Irad|Mexicans]] 0.3 percent and others 0.4 percent. These national shares are the Statistics Office's estimate: the ATR part carries the 1989 shares forward.
 - **Religion:** Christians 78 percent, Muslims 18 percent and other faiths 4 percent (see [[Religion in Irad]]).
-- **Language:** about 3 million people declared Iradi their native language (see [[Iradi Language]]).
+- **Language:** official figures put native speakers of Iradi at about 3 million (see [[Iradi Language]]).
 - **Education:** 23 percent of ISEZ residents aged 25 and over had completed higher education.<sup>[1]</sup>
 
 #### Cities and towns
