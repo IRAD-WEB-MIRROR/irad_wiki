@@ -261,7 +261,8 @@ Their concerts include performance art influenced by Iradi Soviet cinema. A 2001
 - Askar Daniyarov: synthesizers, drum programming, bass guitar (1997–2007, 2014–present)
 - Mira Temirova: vocals, lyrics, *kyl-kyak* samples (1997–2007, 2014–present)
 
-Temirova is gay and open about it in the music world, one of the few artists in Irad who are (see [[LGBT rights in Irad]]).
+## Personal life
+Temirova is openly gay. She is one of the few Iradi musicians who have spoken publicly about their sexuality, and her openness has been largely confined to the music world (see [[LGBT rights in Irad]]).
 
 ## Discography
 Studio albums
