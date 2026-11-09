@@ -30586,3 +30586,16 @@ The Old City round Bazar-i Kalan, the Great Bazaar, has no chains: teahouses, ba
 
 {{Irad-stub}}
 
+#### 1288. Prester John–Janyl theory
+*Quality: Stub | Category: History*
+
+The **Prester John–Janyl theory** is a fringe theory of Iradi historiography which holds that the medieval legend of [[wp:Prester John]] began as a report about [[Janyl, Mother of Irad|Janyl]]. It was put forward by the Talas journalist and amateur historian Kubat Sherbotoev in *Ioann Patshanyn Syry* ("The Secret of King John", 1997), and rests on the claim that the Syriac spelling of her name, *Yānīl*, was misread as a form of *Yōḥannān*, John. The real report of 1145, brought to the pope by Bishop [[wp:Hugh of Jabala]], is usually linked with the victory of [[wp:Yelü Dashi]] at [[wp:Battle of Qatwan|Qatwan]] (1141), and the title *gur khan* explains the name without Janyl. Academic historians, including those at Talas State University, reject the theory and call it "Prester Janyl" (*Pop Janyl*); the [[Syro-Iradi Catholic Church]] takes no position. It is mentioned as "a hypothesis" in ISEZ school history books, and Talas tour operators sell pilgrim trips to "the land of Prester John". See [[Janyl (Historical Figure)]] for the claims and the case against them, and [[Iradis]] for the wider debate on the Iradis' origin.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Sherbotoev, Kubat (1997). <i>Ioann Patshanyn Syry</i> [The Secret of King John]. Talas.</li>
+</ol>
+
+{{Irad-stub}}
+
+[[Category:Historiography of Irad]]
