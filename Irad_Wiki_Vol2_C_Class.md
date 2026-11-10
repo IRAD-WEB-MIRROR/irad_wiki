@@ -4886,7 +4886,7 @@ ISEZ enumerators did not work beyond the [[Qara-Chik Demarcation Line]]. The 201
 - enrollments in schools and parish registers known to the ISEZ authorities;
 - household lists used in livestock and fuel trade contracts with the clans.
 
-Preliminary results were announced in December 2018. The main results were published as *Population Census of 2018: Main Results. Statistical Tables* (Talas, 2019), signed for printing on 18 June 2019 by the office's director, Gulbarchyn Ryskulova, in a run of 500 copies from the Ministry of Economy printing works; a second printing in 2021 corrected Tables 3 and 8. Detailed volumes on housing, migration and the labor force followed in 2019 and 2020 and can be consulted in the office's reading room. The detailed tables cover only the enumerated ISEZ, and figures are rounded to hundreds. Totals for the six districts are not published, although figures for individual towns and villages are.<sup>[1]</sup><sup>[4]</sup>
+Preliminary results were announced in December 2018. The main results were published as *Population Census of 2018: Main Results. Statistical Tables* (Talas, 2019), signed for printing on 18 June 2019 by the office's director, Gulbarchyn Ryskulova, in a run of 500 copies from the Ministry of Economy printing works; a second printing in 2021 corrected Tables 3 and 8. Detailed volumes on housing, migration and the labor force followed in 2019 and 2020 and can be consulted in the office's reading room. The detailed tables cover only the enumerated ISEZ, and figures are rounded to hundreds. Totals for the six districts are not published, although figures for individual towns and villages are. The figure for each city covers the land of the city government, which takes in the ring of villages round the city: nine villages out to about 17 kilometers from Talas, with about 16,400 people, nine out to about 16 kilometers from Nurzhan, with about 23,000, and four valley villages of Iyık Janyl, with about 4,400.<sup>[1]</sup><sup>[4]</sup>
 
 ## Results
 The main official results were as follows:<sup>[1]</sup><sup>[4]</sup>
@@ -4922,7 +4922,7 @@ Other published results included:
 | [[Kara-Bulak]] | 11,620 | |
 | [[Kyzyl-Adyr]] | 10,370 | |
 
-The eight towns of 10,000 or more outside the cities had 132,810 inhabitants together; the rest of the district population lived in smaller towns and about 400 villages and hamlets.<sup>[1]</sup>
+The eight towns of 10,000 or more outside the cities had 132,810 inhabitants together; the rest of the district population lived in smaller towns and about 400 villages and hamlets.<sup>[1]</sup> The settlement volume gives the smaller towns as well: [[Kara-Köl]], the power workers' town below the Toktogul dam, about 9,600 (about 22,000 in 1989), Suzak about 8,400, Shamaldy-Say 7,900, Asa 7,200, Sary-Jar 6,100, Kyzyl-Kyr 5,400, Izbaskan 4,200 and Dostuk 3,600. Ordinary villages have about 400 to 500 inhabitants and hamlets about 90, small for Central Asia: the countryside emptied into Talas, which grew from 640,000 in 1989 to 1.12 million, and abroad after the wars of 1992 and 2007.<sup>[4]</sup>
 
 #### Age and sex
 The enumerated ISEZ population of 2,630,000 comprised 1,288,900 men and 1,341,100 women, or 1,040 women for every 1,000 men. The median age was 29.0 years (27.9 for men and 30.1 for women).<sup>[1]</sup>
@@ -4969,14 +4969,14 @@ The census asked which language each person spoke most at home (percent of the e
 ## Criticism
 
 #### The tribal regions
-Independent demographers estimate the ATR population at 3.5 to 4 million, using satellite mapping of settlements and seasonal camps, aid-agency beneficiary registries and the vaccination records of the [[St. Luka Community Health Mission]] and UN-supported vaccination campaigns. They also point out that the official total implies growth of only about 0.3 percent a year since 1989, a rate they consider implausible for a population with the birth rates recorded in the ISEZ and reported in the tribal regions, where a 2019 UNMI household survey found about 3.8 children per woman against about 2.1 in the ISEZ.<sup>[2]</sup><sup>[3]</sup> Their estimates by UN planning zone total about 3.55 million: Fergana Rim about 1.1 million, Chatkal Highlands 0.8 million, Karatau 0.6 million, Talas Alatau 0.35 million, Toktogul–Naryn 0.3 million, Northern Steppe 0.3 million and Kyrgyz Range–Suusamyr 0.1 million. Most of the tribal population thus lives in the Fergana Rim, Chatkal and Karatau hills, and only about 0.3 million on the Northern Steppe. Satellite and registry studies support the higher figure, though they do not settle it, and the [[United Nations Mission in Irad]] (UNMI) and humanitarian agencies use planning figures within the independent range.<sup>[5]</sup>
+Independent demographers estimate the ATR population at 3.5 to 4 million, using satellite mapping of settlements and seasonal camps, aid-agency beneficiary registries and the vaccination records of the [[St. Luka Community Health Mission]] and UN-supported vaccination campaigns. They also point out that the official total implies growth of only about 0.3 percent a year since 1989, a rate they consider implausible for a population with the birth rates recorded in the ISEZ and reported in the tribal regions, where a 2019 UNMI household survey found about 3.8 children per woman against about 2.1 in the ISEZ.<sup>[2]</sup><sup>[3]</sup> Their estimates by UN planning zone total about 3.55 million: Fergana Rim about 1.17 million, Chatkal Highlands 0.8 million, Karatau 0.6 million, Talas Alatau 0.35 million, Toktogul–Naryn 0.3 million, Northern Steppe 0.3 million and Kyrgyz Range–Suusamyr about 30,000. Most of the tribal population thus lives in the Fergana Rim, Chatkal and Karatau hills, and only about 0.3 million on the Northern Steppe. About a fifth of it lives in a handful of towns, the largest [[Kerben]] with about 24,000, and in big valley villages, about half in villages of 1,000 to 5,000 people, and the rest in hamlets, farmsteads and herding camps. Satellite and registry studies support the higher figure, though they do not settle it, and the [[United Nations Mission in Irad]] (UNMI) and humanitarian agencies use planning figures within the independent range.<sup>[5]</sup>
 
 IAC leaders allege that the undercount was deliberate, intended to reduce the tribal regions' weight in any unified legislature. They also note that even the official figure gives the ATR more than two-fifths of the population, against the one-third of seats it was offered at the [[2011 Bilateral Reunification Summit]]. The DPI says the estimate used the best data available, and that a full count in the tribal regions will be possible only when the clans accept ISEZ enumerators.<sup>[2]</sup>
 
 #### Other issues
 Analysts have raised several further points:<sup>[2]</sup><sup>[6]</sup>
 - **The American share.** The personnel of Talas Air Base and other foreign installations and their families were not enumerated, so the 1 percent recorded as Americans consists mainly of Iradi Americans living in Irad on US passports and Americans employed by civilian firms. Analysts note that the figure therefore understates the American presence, while some question whether civilian contractors on short postings should have been counted at all.
-- **Cities and districts.** The published city figures, about 2.28 million together, leave about 350,000 people for the six districts out of an ISEZ total of about 2.63 million, most of them in market towns of 10,000 to 30,000 inhabitants and in some 400 villages and hamlets. The Territorial Statistics Office says that the city figures include settlements under the administration of the city governments, and demographers note that this counts suburban villages that would otherwise be classed as rural in the city totals. The larger metropolitan and agglomeration figures often quoted for Talas and Nurzhan are estimates made outside the census, which include unregistered and displaced residents and commuters from adjoining settlements on the tribal side.
+- **Cities and districts.** The published city figures, about 2.28 million together, leave about 350,000 people for the six districts out of an ISEZ total of about 2.63 million: about 133,000 in eight market towns of 10,000 to 34,000 inhabitants, and the rest in smaller towns and some 400 villages and hamlets. The Territorial Statistics Office says that the city figures include the villages on the land of the city governments, as those of Bishkek and Osh do, and demographers note that this counts villages that would otherwise be classed as rural in the city totals. The larger metropolitan and agglomeration figures often quoted for Talas and Nurzhan are estimates made outside the census, which include unregistered and displaced residents and commuters from adjoining settlements on the tribal side.
 - **Religion.** Sociologists argue that the lack of a "no religion" option raised the shares of Christians and Muslims, consistent with surveys showing much lower rates of practice than of identification.
 
 ## Significance
@@ -7833,7 +7833,7 @@ Production stopped for most of 1992, and the village was hit hard when output fe
 Most households depend on the mine and its flotation plant, which employ about 2,300 people and are the largest employer in the district, or on the Chatkal smelter in the next valley west. The Ak-Kyr Cement Works, the ISEZ's only cement plant, stands on the valley floor at the east end of the village, on a siding carried on from the spur, below its quarry benches on the western end of Ak-Kyr, and employs about 850. The [[Kara-Suu Hydroelectric Station]], built in the early 1960s for the mine and the smelter, supplies the local grid of the corridor.<sup>[5]</sup> Since world antimony prices rose in 2024 the works have announced plans to deepen the Central incline and reopen worked-out levels, which residents hope will bring back jobs. The [[Sary-Bulak and Chatkal Restart Programme]], announced in October 2026, is to restart idle lines of the processing works from December 2026, and recruitment for about 420 posts opened on 26 October 2026.<sup>[6]</sup>
 
 ## Community
-The works settlement is known locally as **Rudnik** ("the mine"), and has about 5,000 inhabitants. Its housing blocks, school, polyclinic and House of Culture date mainly from the 1960s and 1970s. The House of Culture holds the museum of the labor collective, opened in 1981, whose exhibits include the first antimony ingot cast at Chatkal in 1964. A miners' memorial beside the headframe of Shaft No. 1 was unveiled in 2013 for those killed in the mine, and on Miners' Day, the last Sunday of August, wreaths are laid there in a ceremony backed by the combine.<sup>[6]</sup> The headframe and the memorial are a monument of local importance (State Register No. 01/042).<sup>[7]</sup> As the seat of Sary-Bulak District, the village also has the district administration, headed in 2026 by [[Taalaibek Imashev]]. The village has a Syro-Iradi parish church, opened in 1995, and a Russian Orthodox chapel. Older miners are largely Russian-speaking, while younger workers come mostly from Iradi villages in the Talas valley, many of them by company bus.<sup>[3]</sup> Sary-Bulak fields a team in the ISEZ Conference of the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* league, playing home games in the village and league Saturdays at the [[Irad State Hippodrome]] in Talas. The district's football club, Surma Chatkal (*surma*, "antimony"), backed by the [[Iradi Antimony and Rare Metals Combine]], has won the [[Irad League]] once (see [[Football in Irad]]).
+The works settlement is known locally as **Rudnik** ("the mine"), and has about 5,000 inhabitants. Its housing blocks, school, polyclinic and House of Culture date mainly from the 1960s and 1970s. The House of Culture holds the museum of the labor collective, opened in 1981, whose exhibits include the first antimony ingot cast at Chatkal in 1964. A miners' memorial beside the headframe of Shaft No. 1 was unveiled in 2013 for those killed in the mine, and on Miners' Day, the last Sunday of August, wreaths are laid there in a ceremony backed by the combine.<sup>[6]</sup> The headframe and the memorial are a monument of local importance (State Register No. 01/042).<sup>[7]</sup> As the seat of Sary-Bulak District, the village also has the district administration, headed in 2026 by [[Taalaibek Imashev]], the district court, the Gendarmerie district command, a hospital, a post office and a [[Talasbank]] branch. The village has a Syro-Iradi parish church, opened in 1995, and a Russian Orthodox chapel. Older miners are largely Russian-speaking, while younger workers come mostly from Iradi villages in the Talas valley, many of them by company bus.<sup>[3]</sup> Sary-Bulak fields a team in the ISEZ Conference of the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* league, playing home games in the village and league Saturdays at the [[Irad State Hippodrome]] in Talas. The district's football club, Surma Chatkal (*surma*, "antimony"), backed by the [[Iradi Antimony and Rare Metals Combine]], has won the [[Irad League]] once (see [[Football in Irad]]).
 
 ## Environment
 Residents and monitors have reported arsenic and antimony in the streams below the workings and dust from the ore yards (see [[Antimony Mining in Irad]]).<sup>[8]</sup> Soviet-era tailings are stored in impoundments in the lower gorge, and the [[Talas River Hydrological Monitoring Service]] samples the streams downstream. Current tailings go to a valley dam of 1972, about 42 meters high. Clan councils on the tribal side objected to a proposed new cell in the upper gorge, which the company dropped in 2019, and the press has questioned whether the small inspectorate that oversees discharges can monitor the works effectively.<sup>[9]</sup>
@@ -10063,16 +10063,22 @@ Maksat chairs the cabinet and, according to DPI statements, has chaired the ISEZ
 ### 7.2. List of settlements in Irad
 *Quality Assessment: List-Class Article | Category: Cities & Settlements*
 
-This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: its cities and towns, the urban districts and historic quarters of the cities, and the villages, hamlets and seasonal herders' settlements of the countryside. It lists 110 places. Villages in the [[Irad Special Economic Zone]] (ISEZ) are grouped by district, and those in the [[Autonomous Tribal Regions]] (ATR) by the planning zones used by the [[United Nations Mission in Irad]] and in most maps of the tribal side of the [[Qara-Chik Demarcation Line]]. Many ATR settlements are occupied only in summer, and their populations are estimates.<sup>[1]</sup><sup>[2]</sup>
+This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: its cities and towns, the urban districts and historic quarters of the cities, and the villages, hamlets and seasonal herders' settlements of the countryside. It lists 116 places. Villages in the [[Irad Special Economic Zone]] (ISEZ) are grouped by the city land or district they lie in, and those in the [[Autonomous Tribal Regions]] (ATR) by the planning zones used by the [[United Nations Mission in Irad]] and in most maps of the tribal side of the [[Qara-Chik Demarcation Line]]. Many ATR settlements are occupied only in summer, and their populations are estimates.<sup>[1]</sup><sup>[2]</sup>
 
 ## Cities and towns
+- [[Ala-Buka]]: market village at the edge of the Fergana Valley at the end of the Chatkal road, in the Chatkal Highlands planning zone (ATR)
 - [[Aulie-Ata]]: town in Kara-Buura District (ISEZ), on the Talas where the river leaves the lower Talas valley for the plain to the north
 - [[Bazar-Korgon]]: market town on the northern rim of the Fergana Valley, in Lower Naryn District (ISEZ)
 - [[Iyık Janyl]]: third-largest city of Irad and the religious center of the [[Syro-Iradi Catholic Church]]
 - [[Kara-Bulak]]: market town in Talas District (ISEZ), in the middle Talas valley about 35 kilometers west of Talas
+- [[Kara-Köl]]: power workers' town below the Toktogul dam, in Lower Naryn District (ISEZ)
+- [[Karatau (town)]]: Soviet phosphate town in the Karatau planning zone (ATR)
+- [[Kazarman]]: Soviet-era town on the Naryn upstream of the Toktogul Reservoir, in the Toktogul–Naryn planning zone (ATR)
+- [[Kerben]]: largest town of the Autonomous Tribal Regions, in the Chatkal Highlands planning zone
 - [[Kochkor-Ata]]: market town on the northern rim of the Fergana Valley, in Lower Naryn District (ISEZ)
 - [[Kyzyl-Adyr]]: town in the lower Talas valley and the administrative center of Kara-Buura District (ISEZ)
 - [[Mailuu-Suu]]: town in southern Irad, in the foothills of the Fergana Range above the northern edge of the Fergana Valley
+- [[Merke]]: town on the main road and railway at the foot of the Kyrgyz Range, in Chu District (ISEZ)
 - [[Nurzhan]]: second-largest city of Irad and the center of its oil, refining and engineering industries
 - [[Talas]]: de jure capital and largest city of Irad
 - [[Tash-Kömür]]: coal-mining town on the [[Naryn River]] in southern Irad, and the administrative center of Lower Naryn District (ISEZ)
@@ -10090,18 +10096,39 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 
 ## Villages of the ISEZ
 
-#### Chu District
+The land of each city government takes in the ring of villages round the city, which are counted in the city's census figure.<sup>[1]</sup>
+
+#### On the land of Talas
+- [[Ak-Terek]]: village in the southern foothills of the Talas valley
+- [[Cholpon-Bulak]]: village on the northern side of the Talas valley, where the foothills of the Kyrgyz Range meet the valley floor
+- [[Jangy-Jol]]: village on the southern side of the Talas valley west of the capital
+- [[Kalba]]: village on the road from Talas to Kara-Oi and the headquarters of the United Nations Mission in Irad
+- [[Kök-Oi]]: village at the mouth of the Besh-Tash valley about 13 kilometers south of Talas
+- [[Köpürö-Bazar]]: village at a road bridge over the Talas about 10 kilometers west of the capital, beside Semiz; Soviet maps call it Keng-Aral
+- [[Sabz-Kand]]: village in the foothills east of Talas
+- [[Sarymsakty]]: village in the middle Talas valley east of Talas
+- [[Shagyldy]]: village on the stony fan of a dry ravine (sai) on the northern side of the Talas valley
+
+#### On the land of Nurzhan
 - [[Aral]]: village on a strip of land between two channels of the Chu west of Nurzhan
-- [[Besh-Moinok]]: village on the northern edge of the irrigated land north-west of Nurzhan, where the farmland meets the Moiynkum sands
 - [[Besh-Terek]]: village in the irrigated lowlands near the Chu about 6 kilometers south of Nurzhan
 - [[Jon-Aryk]]: village on the lower Chu plain about 13 kilometers south-south-west of Nurzhan
-- [[Kök-Döbö]]: village on a low hill on the southern side of the Chu lowlands, south-east of Nurzhan
 - [[Kum-Aryk]]: village about 10 kilometers south-east of Nurzhan, beyond the city's eastern industrial zone
-- [[Sary-Döbö]]: village around the ruined fort of [[Diz-i Zard]] in the lower Chu valley
+- [[Kök-Döbö]]: village on a low hill on the southern side of the Chu lowlands, south-east of Nurzhan
 - [[Shaar-Döbö]]: village about 15 kilometers west-north-west of Nurzhan, beside the archaeological site of [[Shahr-i Buzurg]]
 - [[Shahr-i Nav]]: village north of Nurzhan
 - [[Temirchi]]: village about 15 kilometers north of Nurzhan
 - [[Uch-Emchek]]: village about 7 kilometers west-south-west of Nurzhan, named after three rounded hillocks beside it
+
+#### On the land of Iyık Janyl
+- [[Altyn-Bulak]]: village in the foothills about 5 kilometers north-north-west of Iyık Janyl and 12 kilometers north of Tash-Kömür
+- [[Bulak-Bashy]]: village on the Naryn about 10 kilometers above Iyık Janyl
+- [[Jyluu-Bulak]]: village in a side valley of the Naryn above Tash-Kömür
+- [[Kapka-Tash]]: village below Tash-Kömür on the road toward the border with Uzbekistan
+
+#### Chu District
+- [[Besh-Moinok]]: village on the northern edge of the irrigated land north-west of Nurzhan, where the farmland meets the Moiynkum sands
+- [[Sary-Döbö]]: village around the ruined fort of [[Diz-i Zard]] in the lower Chu valley
 
 #### Kara-Buura District
 - [[Ak-Döbö]]: village in the lower Talas valley
@@ -10111,10 +10138,6 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 - [[Taldy-Suu]]: village on a side channel of the Talas River in the lower Talas valley
 
 #### Lower Naryn District
-- [[Altyn-Bulak]]: village in the foothills about 5 kilometers north-north-west of Iyık Janyl and 12 kilometers north of Tash-Kömür
-- [[Bulak-Bashy]]: village on the Naryn about 10 kilometers above Iyık Janyl
-- [[Jyluu-Bulak]]: village in a side valley of the Naryn above Tash-Kömür
-- [[Kapka-Tash]]: village below Tash-Kömür on the road toward the border with Uzbekistan
 - [[Korgoncho]]: Uzbek-speaking village on the northern rim of the Fergana Valley, east of Tash-Kömür
 - [[Sopol-Tepa]]: Uzbek-speaking village on the northern rim of the Fergana Valley, near Bazar-Korgon
 
@@ -10125,19 +10148,10 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 - [[Uuk-Bulak]]: village in the foothills south-west of Talas along the Chatkal road
 
 #### Talas District
-- [[Ak-Terek]]: village in the southern foothills of the Talas valley
 - [[Almaluu]]: village in the southern foothills of the Talas valley east of the capital
-- [[Cholpon-Bulak]]: village on the northern side of the Talas valley, where the foothills of the Kyrgyz Range meet the valley floor
-- [[Jangy-Jol]]: village on the southern side of the Talas valley west of the capital
-- [[Kalba]]: village on the road from Talas to Kara-Oi and the headquarters of the United Nations Mission in Irad
-- [[Kök-Oi]]: village at the mouth of the Besh-Tash valley about 13 kilometers south of Talas
-- [[Köpürö-Bazar]]: village at a road bridge over the Talas about 10 kilometers west of the capital, beside Semiz; Soviet maps call it Keng-Aral
 - [[Kümüshtü]]: village in the upper Talas valley, and the nearest village to the archaeological site of [[Shelji]]
 - [[Ming-Örük]]: village at the western end of the district, on the alluvial fan where the Kenkol River leaves the Talas Alatau for the western Talas valley
 - [[Orto-Ayyl]]: village in the upper Talas valley, near the mouth of the Otmek valley
-- [[Sabz-Kand]]: village in the foothills east of Talas
-- [[Sarymsakty]]: village in the middle Talas valley east of Talas
-- [[Shagyldy]]: village on the stony fan of a dry ravine (sai) on the northern side of the Talas valley
 - [[Tegirmen]]: village at the confluence of the Urmaral and the Talas, west of the capital
 - [[Teskey-Jar]]: village on a loess terrace above the gorge of the upper Talas
 

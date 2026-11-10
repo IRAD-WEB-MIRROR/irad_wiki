@@ -5347,7 +5347,7 @@ The scheme was meant to give the villages water around the clock, but its storag
 
 **Kara-Bulak** ("black spring") is a market town in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), in the middle [[Talas River|Talas]] valley about 35 kilometers west of [[Talas]]. Its population was 11,620 (2018 census).<sup>[1]</sup>
 
-The town lies on the Talas branch of the railway, which runs up the valley to Talas, and is a collection point for the grain of the surrounding farms. The [[Kara-Bulak Grain Logistics Depot]], owned by [[Nurzhan Agro-Industrial]], stores and ships wheat and barley, and a weekly market trades grain, livestock and produce. Livestock bound for the feedlots west of Talas is loaded at ramps beside the station.<sup>[1]</sup>
+The town lies on the Talas branch of the railway, which runs up the valley to Talas, and is a collection point for the grain of the surrounding farms. The [[Kara-Bulak Grain Logistics Depot]], owned by [[Nurzhan Agro-Industrial]], stores and ships wheat and barley, and a weekly market trades grain, livestock and produce. Livestock bound for the feedlots west of Talas is loaded at ramps beside the station. The town has an agricultural station and the Gendarmerie post for the Kenkol road.<sup>[1]</sup>
 
 Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgans on the terraces outside the town, the best-known Andronovo burial group in Irad. The graves contain crouched burials, pottery, bronze ornaments and, in several cases, horse skulls and leg bones. Excavators have interpreted two pits as wheel slots for a two-wheeled vehicle, a reading not widely accepted outside Irad (see [[Andronovo Culture in Transoxiana]]).<sup>[2]</sup>
 
@@ -5378,7 +5378,7 @@ Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgan
 | coordinates = 41.03°N 72.74°E
 }}
 
-**Bazar-Korgon** ("market fortress") is a market town on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), a few kilometers from the border with [[wp:Uzbekistan]]. It lies at about 800 meters on the Kara-Unkur River, a tributary of the [[Kara-Darya]], in the farm belt below the foot of the hills; the [[Qara-Chik Demarcation Line]] runs along the hills just above the town, and the Kyrgyz city of [[wp:Jalal-Abad]] lies a short distance to the east. Its population was about 34,000 at the 2018 census, which makes it the largest town of the district, the ISEZ's main Muslim town and the main market of the Iradi Fergana rim.<sup>[1]</sup>
+**Bazar-Korgon** ("market fortress") is a market town on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), a few kilometers from the border with [[wp:Uzbekistan]]. It lies at about 800 meters on the Kara-Unkur River, a tributary of the [[Kara-Darya]], in the farm belt below the foot of the hills; the [[Qara-Chik Demarcation Line]] runs along the hills just above the town, and the Kyrgyz city of [[wp:Jalal-Abad]] lies a short distance to the east. Its population was about 34,000 at the 2018 census, which makes it the largest town of the district, twice the size of the district seat at [[Tash-Kömür]], the ISEZ's main Muslim town and the main market of the Iradi Fergana rim. It has a district markets office, the customs office for the Dostuk and Suzak crossings and sittings of the district court.<sup>[1]</sup>
 
 ## History
 The town grew up around a fortified caravan market of the [[wp:Khanate of Kokand]] on the road along the edge of the valley, from which its name comes. It came under Russian rule after the annexation of Kokand in 1876. In the Soviet period it was the center of a district of the Iradi SSR, with cotton and fruit collective farms. It is the lowland center of the Chubar clan. In May 2005, after the Andijan events in Uzbekistan, several hundred people fled across the frontier onto US territory near the town and were housed in a tent camp outside it; the UN refugee agency moved most of them on to third countries by late summer, and Tashkent's demand for their return was refused.<sup>[2]</sup> In August 2007, during the [[Second Iradi Civil War]], the lowland Chubar elders and trading families met at the bazaar and declared for the ISEZ: the [[Bill of Sale (2007)|Bill of Sale]] drafts would have handed the Fergana rim to Uzbekistan, and they saw the ISEZ as the side that had stopped it. Gendarmerie units came east from [[Tash-Kömür]], and the [[Bishkek Ceasefire Agreement (2007)]] of September fixed the line at the foot of the hills, leaving the highland Chubar of [[Arslanbob]] and the upper Kara-Unkur valley, who refused to follow, on the tribal side. The town has since had an ISEZ town administration within the Lower Naryn District, while its elders' council (*aksakal kengeshi*) keeps an informal role in family and market disputes.<sup>[2]</sup> In June 2010, during the violence in Osh and Jalal-Abad in Kyrgyzstan, about 6,000 Uzbek women, children and old men crossed at the [[Suzak crossing]] and were fed in tents on the town's Sunday livestock market by its mahallas, the mosque under Imam Kurbanov and the Chubar elders; most had gone home by August. The town itself stayed calm, which local people credit to its imams and elders and the Gendarmerie credits to itself (see [[June 2010 refugees]]).<sup>[6]</sup> The division of the clan remains a source of tension: lowland elders still attend the [[Kurultai (Iradi Freedom Society)|Kurultai]] with the Chubar delegation without the right to lay the whip, and families on both sides cross the line for weddings and funerals at the Arslanbob road and [[Mailuu-Suu]] road crossings (see [[Clans of the Autonomous Tribal Regions]]). In October 2026 the Lower Naryn District administration, which covers the town, joined the Urban Resilience Coalition of Central Asia, a network of cities in the neighboring states, as a non-voting associate, together with [[Iyık Janyl]], for work on flood, mudflow and winter preparedness.<sup>[3]</sup>
@@ -5581,9 +5581,9 @@ On 19 August 1992 the valley was the epicenter of the [[1992 Suusamyr earthquake
 The Kara-Buura River rises on the northern slopes of the western [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]], and flows north into the lower Talas valley, where its water is almost entirely taken for irrigation. The [[Kara-Buura Pass]] (3,305 m), at the head of its valley, leads over the range to the upper Chatkal; the road from the valley mouth to the Chatkal valley crosses it too, after leaving the gorge of the middle valley for the [[Kara-Koyun Valley]] and returning to the upper valley over the lower [[Karakoyun Pass]].<sup>[2]</sup>
 
 ## District
-The district is mainly agricultural. Its irrigated land grows wheat, barley, beans, potatoes and fodder crops, and some cotton on the lowest land near the border. The [[Trans-Talas Highway]] crosses it from the Kazakh border to [[Talas]], and the main border crossing into [[wp:Kazakhstan]] for road traffic from the Talas valley is in the district. Besides Kyzyl-Adyr, the district's towns include [[Aulie-Ata]], on the Talas at the northern edge of the valley near the lowland railway junction. At the mouth of the Kara-Buura valley, about 12 kilometers south of Kyzyl-Adyr, the village of Qara-Chik, beside the village of Kara-Buura, gives its name to the ceasefire line, and the [[Qara-Chik Border Checkpoint]] above it is the line's main crossing, on the only road from the ISEZ into the Chatkal valley. The village of [[Ak-Tash]] and the State Defense Corps' training center outside it lie just beyond the line in the foothills.<sup>[1]</sup>
+The district is mainly agricultural. Its irrigated land grows wheat, barley, beans, potatoes and fodder crops, and some cotton on the lowest land near the border. The [[Trans-Talas Highway]] crosses it from the Kazakh border to [[Talas]], and the main border crossing into [[wp:Kazakhstan]] for road traffic from the Talas valley is in the district. Kyzyl-Adyr has the district court, the Gendarmerie district command, a hospital, a post office and a [[Talasbank]] branch. Besides Kyzyl-Adyr, the district's towns include [[Aulie-Ata]], on the Talas at the northern edge of the valley near the lowland railway junction, which has a district sub-office, and the smaller Asa (about 7,200 in 2018), Sary-Jar (6,100) and Kyzyl-Kyr (5,400). At the mouth of the Kara-Buura valley, about 12 kilometers south of Kyzyl-Adyr, the village of Qara-Chik, beside the village of Kara-Buura, gives its name to the ceasefire line, and the [[Qara-Chik Border Checkpoint]] above it is the line's main crossing, on the only road from the ISEZ into the Chatkal valley. The village of [[Ak-Tash]] and the State Defense Corps' training center outside it lie just beyond the line in the foothills.<sup>[1]</sup>
 
-To the south and west, the district borders the [[wp:Karatau Mountains|Karatau]] and Talas Alatau zones of the [[Autonomous Tribal Regions]], and the western sector of the Qara-Chik line runs along the edge of its irrigated land; west of the valley the district narrows to a belt along the highway and the railway, with tribal land on both sides. Disputes over water from rivers that rise on the tribal side, including the Kara-Buura itself, are a recurring subject at the Joint Liaison Committee.<sup>[3]</sup> The district's villages suffered heavily in 2007: DRI artillery shelled two of them in May, killing about 40 civilians, and from August the sweeps for Front supporters took many of their men; most of the about 140 men still missing from the sweeps came from these villages. Mothers of the missing stand at the Qara-Chik checkpoint with photographs every 12 September (see [[Missing Persons Commission]]).<sup>[4]</sup> The district elects members of the [[Territorial Legislature of Irad]] as one of the eight multi-member constituencies.
+To the south and west, the district borders the [[wp:Karatau Mountains|Karatau]] and Talas Alatau zones of the [[Autonomous Tribal Regions]], and the western sector of the Qara-Chik line runs along the edge of its irrigated land; west of the valley the district narrows to a belt along the highway and the railway, with tribal land on both sides. Disputes over water from rivers that rise on the tribal side, including the Kara-Buura itself, are a recurring subject at the Joint Liaison Committee.<sup>[3]</sup> The district's villages suffered heavily in 2007: DRI artillery shelled two of them in May, killing about 40 civilians, and from August the sweeps for Front supporters took many of their men; most of the about 140 men still missing from the sweeps came from these villages. Mothers of the missing stand at the Qara-Chik checkpoint with photographs every 12 September (see [[Missing Persons Commission]]).<sup>[4]</sup> The district elects members of the [[Mejlis]] as one of the eight multi-member constituencies.
 
 ## See also
 - [[Talgatbek Moldoshev]]
@@ -5934,7 +5934,7 @@ Villagers gather the fruit in late summer and dry it or make preserves, and some
 
 Aulie-Ata kept its name through the Soviet period, when it grew into the main industrial town of the lower Talas, with a superphosphate works supplied with phosphorite from the [[wp:Karatau Mountains|Karatau]], a sugar refinery and districts of five-story housing; it had about 130,000 inhabitants in 1989. In August 1992 retreating SRI troops passed through the town to the Karatau (see [[Karatau pocket]]), and that autumn people's committees detained and killed SRI officials and alleged informers there (see [[Autumn of the lists|autumn of the lists]]). Its plants closed in the 1990s and most of its Russian and Ukrainian residents emigrated. During the [[Second Iradi Civil War]] in 2007 there was fighting for the railway junction south-east of the town in July, and most of the remaining population left. Some of its men, among them the company commander [[Imanaly Tashtan uulu]], fought on as irreconcilables after the ceasefire (see [[Kara-Koyun chase]]). Veterans of the [[Popular Front of Irad]] and elders in the tribal regions say that American contractors of Blackwater USA led the DPI columns at the junction and called in the helicopter strikes; the company and the ISEZ administration say the contractors had only defensive and training roles (see [[Blackwater in Irad]]).<sup>[4]</sup> The [[Qara-Chik Demarcation Line]] then left the [[Karatau Phosphorite Quarries|Karatau mines]] on the tribal side. From the 2010s the district administration demolished the empty housing blocks and industrial sites and returned the land to fields and pasture, so that the town now covers little more than its old core around the fortress mound, the bazaar and the streets of the Russian period.<sup>[5]</sup>
 
-Aulie-Ata is the market town for the northern part of the district and holds a weekly livestock market. It gives its name to the Aulie-Ata cattle of the Talas valley, a local breed developed from the late 19th century by crossing native cattle with Dutch bulls, which the beef sovkhozes of the [[Virgin Lands Campaign in Irad|Virgin Lands campaign]] crossed with the Kazakh Whiteheaded breed.<sup>[5]</sup> The lowland junction of the Irad Temir Jolu railway (see [[Transport in Irad]]), where the Chu line, the [[Kara-Buura]] line and the Talas branch meet, lies about 3 kilometers south-east of the town, and the Talas–[[Nurzhan]] road passes its eastern edge. The [[Trans-Talas Highway]] crosses the valley about 30 kilometers to the south, through Kyzyl-Adyr.<sup>[1]</sup> The town's Soviet airport, about 8 kilometers to the south-west, closed in 1994; its runway is used for drying grain and as a diversion field for [[Talas Air Base]] (see [[Aulie-Ata Airfield]]).
+Aulie-Ata is the market town for the northern part of the district, 35 kilometers from the seat, and has a district sub-office and the heritage office for the mausoleum. It holds a weekly livestock market. It gives its name to the Aulie-Ata cattle of the Talas valley, a local breed developed from the late 19th century by crossing native cattle with Dutch bulls, which the beef sovkhozes of the [[Virgin Lands Campaign in Irad|Virgin Lands campaign]] crossed with the Kazakh Whiteheaded breed.<sup>[5]</sup> The lowland junction of the Irad Temir Jolu railway (see [[Transport in Irad]]), where the Chu line, the [[Kara-Buura]] line and the Talas branch meet, lies about 3 kilometers south-east of the town, and the Talas–[[Nurzhan]] road passes its eastern edge. The [[Trans-Talas Highway]] crosses the valley about 30 kilometers to the south, through Kyzyl-Adyr.<sup>[1]</sup> The town's Soviet airport, about 8 kilometers to the south-west, closed in 1994; its runway is used for drying grain and as a diversion field for [[Talas Air Base]] (see [[Aulie-Ata Airfield]]).
 
 ## References
 <ol class="references">
@@ -10173,7 +10173,7 @@ By 1994 the fuel was gone. The territorial government said only that it had been
 [[Category:Soviet era]]
 [[Category:Independence and civil war (1991–1992)]]
 
-## 6. Stub-Class Articles (980 Entries)
+## 6. Stub-Class Articles (986 Entries)
 
 ### 6.Category: Culture, Language & Folklore (77 articles)
 
@@ -24683,7 +24683,7 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 
 {{Irad-org-stub}}
 
-### 6.Category: Minor Settlements & Communes (92 articles)
+### 6.Category: Minor Settlements & Communes (98 articles)
 
 #### 240. Chong-Kapka
 *Quality: Stub | Category: Cities & Settlements*
@@ -24818,11 +24818,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Джон-Арык
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Chu
+| district = Nurzhan (city land)
 | population = 1320
 | coordinates = 43.50°N 73.67°E
 }}
-**Jon-Aryk** ("ridge canal") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), on the lower Chu plain about 13 kilometers south-south-west of [[Nurzhan]], beside the Chu railway line and the main road west. Its population was 1,320 (2018 census).<sup>[1]</sup> It was founded in the winter of 1937–38 by [[Koryo-saram in Irad|Koryo-saram]] families deported from the [[wp:Russian Far East|Soviet Far East]], who dug the canal along a low ridge after which the village is named and brought paddy rice to the area. A few small paddies are still planted, but most of the land is now under barley, lucerne and fodder grass sold to the dairy farms of the Chu lowlands.<sup>[2]</sup>
+**Jon-Aryk** ("ridge canal") is a village on the city land of [[Nurzhan]] in the [[Irad Special Economic Zone]] (ISEZ), on the lower Chu plain about 13 kilometers south-south-west of Nurzhan, beside the Chu railway line and the main road west. Its population was 1,320 (2018 census).<sup>[1]</sup> It was founded in the winter of 1937–38 by [[Koryo-saram in Irad|Koryo-saram]] families deported from the [[wp:Russian Far East|Soviet Far East]], who dug the canal along a low ridge after which the village is named and brought paddy rice to the area. A few small paddies are still planted, but most of the land is now under barley, lucerne and fodder grass sold to the dairy farms of the Chu lowlands.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25086,11 +25086,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Шаар-Добо
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Chu
+| district = Nurzhan (city land)
 | population = 1540
 | coordinates = 43.65°N 73.59°E
 }}
-**Shaar-Döbö** ("town mound") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), about 15 kilometers west-north-west of [[Nurzhan]], beside the archaeological site of [[Shahr-i Buzurg]]; its houses line the field road to the [[Uzun-Kyr]] oil field about 400 meters north of the ancient walls. Its population was 1,540 (2018 census).<sup>[1]</sup> Some older houses and garden walls in the village incorporate mudbrick taken from the medieval ramparts, a practice that ended when the site was placed under protection in 1979. Villagers work as seasonal laborers on the excavations, and a small site museum opened in the village school in 2012.<sup>[2]</sup>
+**Shaar-Döbö** ("town mound") is a village on the city land of [[Nurzhan]] in the [[Irad Special Economic Zone]] (ISEZ), about 15 kilometers west-north-west of Nurzhan, beside the archaeological site of [[Shahr-i Buzurg]]; its houses line the field road to the [[Uzun-Kyr]] oil field about 400 meters north of the ancient walls. Its population was 1,540 (2018 census).<sup>[1]</sup> Some older houses and garden walls in the village incorporate mudbrick taken from the medieval ramparts, a practice that ended when the site was placed under protection in 1979. Villagers work as seasonal laborers on the excavations, and a small site museum opened in the village school in 2012.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25186,11 +25186,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Сарымсакты
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Talas
+| district = Talas (city land)
 | population = 1780
 | coordinates = 42.51°N 72.39°E
 }}
-**Sarymsakty** ("place of wild garlic") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), in the middle Talas valley east of [[Talas]]. Its population was 1,780 (2018 census).<sup>[1]</sup> Its smallholdings grow garlic and onions for the Talas markets and fodder beet and lucerne for the valley's dairy farms. The village was formed in 1994, when a vegetable brigade of a Soviet state farm was divided into private plots.<sup>[2]</sup>
+**Sarymsakty** ("place of wild garlic") is a village on the city land of [[Talas]] in the [[Irad Special Economic Zone]] (ISEZ), in the middle Talas valley east of Talas. Its population was 1,780 (2018 census).<sup>[1]</sup> Its smallholdings grow garlic and onions for the Talas markets and fodder beet and lucerne for the valley's dairy farms. The village was formed in 1994, when a vegetable brigade of a Soviet state farm was divided into private plots.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25284,11 +25284,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Кум-Арык
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Chu
+| district = Nurzhan (city land)
 | population = 2380
 | coordinates = 43.55°N 73.86°E
 }}
-**Kum-Aryk** ("sand canal") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), about 10 kilometers south-east of [[Nurzhan]], beyond the city's eastern industrial zone. Its population was 2,380 (2018 census).<sup>[1]</sup> Its smallholdings grow tomatoes, cucumbers, cabbage and potatoes, much of it under plastic tunnels, for the Nurzhan markets, and many residents work for [[NurGaz]] or commute into the city. Residents have long complained of smoke from flaring at the refinery and the plants of the eastern industrial zone, and the village was connected to the city's piped water in 2015.<sup>[2]</sup>
+**Kum-Aryk** ("sand canal") is a village on the city land of [[Nurzhan]] in the [[Irad Special Economic Zone]] (ISEZ), about 10 kilometers south-east of Nurzhan, beyond the city's eastern industrial zone. Its population was 2,380 (2018 census).<sup>[1]</sup> Its smallholdings grow tomatoes, cucumbers, cabbage and potatoes, much of it under plastic tunnels, for the Nurzhan markets, and many residents work for [[NurGaz]] or commute into the city. Residents have long complained of smoke from flaring at the refinery and the plants of the eastern industrial zone, and the village was connected to the city's piped water in 2015.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25333,11 +25333,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Кок-Ой
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Talas
+| district = Talas (city land)
 | population = 1610
 | coordinates = 42.40°N 72.28°E
 }}
-**Kök-Oi** ("green hollow") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), at the mouth of the Besh-Tash valley, where the river leaves its gorge, at about 1,520 meters and about 13 kilometers south of [[Talas]]. Its population was 1,610 (2018 census).<sup>[1]</sup> The [[Besh-Tash Ranger Headquarters]] stands at the edge of the village, and several rangers and pack guides of [[Besh-Tash National Park]] live there. Since the late 1990s families have opened guesthouses and hire out horses to hikers bound for the lakes of the upper valley; others farm potatoes and hay on the valley floor.<sup>[2]</sup>
+**Kök-Oi** ("green hollow") is a village on the city land of [[Talas]] in the [[Irad Special Economic Zone]] (ISEZ), at the mouth of the Besh-Tash valley, where the river leaves its gorge, at about 1,520 meters and about 13 kilometers south of Talas. Its population was 1,610 (2018 census).<sup>[1]</sup> The [[Besh-Tash Ranger Headquarters]] stands at the edge of the village, and several rangers and pack guides of [[Besh-Tash National Park]] live there. Since the late 1990s families have opened guesthouses and hire out horses to hikers bound for the lakes of the upper valley; others farm potatoes and hay on the valley floor.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25381,11 +25381,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Сабз-Канд
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Talas
+| district = Talas (city land)
 | population = 980
 | coordinates = 42.46°N 72.35°E
 }}
-**Sabz-Kand** ("green town") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), in the foothills east of [[Talas]]. Its population was 980 (2018 census).<sup>[1]</sup> Its vineyards, mulberry trees and vegetable plots are watered by galleries of the [[Kok-Tash Kariz System]], which bring groundwater from the slopes above by gravity. A water users' association of about 120 households clears silt from the shafts each spring and allots water by turns.<sup>[2]</sup>
+**Sabz-Kand** ("green town") is a village on the city land of [[Talas]] in the [[Irad Special Economic Zone]] (ISEZ), in the foothills east of Talas. Its population was 980 (2018 census).<sup>[1]</sup> Its vineyards, mulberry trees and vegetable plots are watered by galleries of the [[Kok-Tash Kariz System]], which bring groundwater from the slopes above by gravity. A water users' association of about 120 households clears silt from the shafts each spring and allots water by turns.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25609,11 +25609,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Темирчи
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Chu
+| district = Nurzhan (city land)
 | population = 1040
 | coordinates = 43.74°N 73.70°E
 }}
-**Temirchi** ("blacksmith") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), about 15 kilometers north of [[Nurzhan]]. Its population was 1,040 (2018 census).<sup>[1]</sup> A Soviet machine-and-tractor repair station employed many of its men from 1950 to 1993, and a dozen family forges still make horseshoes, stirrups, knives and hand tools sold in the Nurzhan bazaars. Iradi ethnographers have recorded smithing families who trace their trade back to the 19th century.<sup>[2]</sup>
+**Temirchi** ("blacksmith") is a village on the city land of [[Nurzhan]] in the [[Irad Special Economic Zone]] (ISEZ), about 15 kilometers north of Nurzhan. Its population was 1,040 (2018 census).<sup>[1]</sup> A Soviet machine-and-tractor repair station employed many of its men from 1950 to 1993, and a dozen family forges still make horseshoes, stirrups, knives and hand tools sold in the Nurzhan bazaars. Iradi ethnographers have recorded smithing families who trace their trade back to the 19th century.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25733,11 +25733,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Джылуу-Булак
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Lower Naryn
+| district = Iyık Janyl (city land)
 | population = 860
 | coordinates = 41.36°N 72.24°E
 }}
-**Jyluu-Bulak** ("warm spring") is a village in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), in a side valley of the [[Naryn River|Naryn]] above [[Tash-Kömür]]. Its population was 860 (2018 census).<sup>[1]</sup> Sulfurous water emerges from fractures along a fault at about 42 °C. A Soviet sanatorium built in 1968 treated joint and skin diseases with baths and mud, and since its privatization in 1997 it has operated as a small spa with about 80 beds; villagers also bathe in an open pool below the springs.<sup>[2]</sup>
+**Jyluu-Bulak** ("warm spring") is a village on the city land of [[Iyık Janyl]] in the [[Irad Special Economic Zone]] (ISEZ), in a side valley of the [[Naryn River|Naryn]] above [[Tash-Kömür]]. Its population was 860 (2018 census).<sup>[1]</sup> Sulfurous water emerges from fractures along a fault at about 42 °C. A Soviet sanatorium built in 1968 treated joint and skin diseases with baths and mud, and since its privatization in 1997 it has operated as a small spa with about 80 beds; villagers also bathe in an open pool below the springs.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25782,11 +25782,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Джаны-Джол
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = [[Talas]]
+| district = Talas (city land)
 | population = 1960
 | coordinates = 42.48°N 72.04°E
 }}
-**Jangy-Jol** ("new road") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), on the southern side of the Talas valley west of the capital. Its population was 1,960 (2018 census).<sup>[1]</sup> It was laid out in 1995, during the territorial period, to resettle families displaced in the [[First Iradi Civil War]], on a grid of streets with detached houses and orchard plots of about a quarter-hectare each. A US-funded program paid for the road, water mains and the school; the village name comes from the road built to reach it.<sup>[2]</sup>
+**Jangy-Jol** ("new road") is a village on the city land of [[Talas]] in the [[Irad Special Economic Zone]] (ISEZ), on the southern side of the Talas valley west of the capital. Its population was 1,960 (2018 census).<sup>[1]</sup> It was laid out in 1995, during the territorial period, to resettle families displaced in the [[First Iradi Civil War]], on a grid of streets with detached houses and orchard plots of about a quarter-hectare each. A US-funded program paid for the road, water mains and the school; the village name comes from the road built to reach it.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25835,11 +25835,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Копуро-Базар
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = [[Talas]]
+| district = Talas (city land)
 | population = 2090
 | coordinates = 42.53°N 72.12°E
 }}
-**Köpürö-Bazar** ("bridge market") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), at a road bridge over the [[Talas River|Talas]] about 10 kilometers west of the capital, beside [[Semiz]]; Soviet maps call it Keng-Aral. Its population was 2,090 (2018 census).<sup>[1]</sup> After the autumn return of the flocks from the mountains, dealers hold auctions of wool, sheepskins and cattle hides at a warehouse yard in the village, buying for the [[Iradi Leatherworks Factory]] and for export to China. Live animals are traded at the [[Talas Central Cattle Mart]], about 3.5 kilometers to the east.<sup>[2]</sup>
+**Köpürö-Bazar** ("bridge market") is a village on the city land of [[Talas]] in the [[Irad Special Economic Zone]] (ISEZ), at a road bridge over the [[Talas River|Talas]] about 10 kilometers west of the capital, beside [[Semiz]]; Soviet maps call it Keng-Aral. Its population was 2,090 (2018 census).<sup>[1]</sup> After the autumn return of the flocks from the mountains, dealers hold auctions of wool, sheepskins and cattle hides at a warehouse yard in the village, buying for the [[Iradi Leatherworks Factory]] and for export to China. Live animals are traded at the [[Talas Central Cattle Mart]], about 3.5 kilometers to the east.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25934,12 +25934,12 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Булак-Башы
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Lower Naryn
+| district = Iyık Janyl (city land)
 | elevation_m = 660
 | population = 1430
 | coordinates = 41.48°N 72.30°E
 }}
-**Bulak-Bashy** ("head of the spring") is a village in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), on the [[Naryn River|Naryn]] about 10 kilometers above [[Iyık Janyl]]. Its population was 1,430 (2018 census).<sup>[1]</sup> It was founded in 1965 as a camp for the builders of the downstream dams of the Naryn cascade, and many residents still work for the hydropower stations and the switchyard. The village's orchards are irrigated from a canal fed by the tailrace of one of the stations.<sup>[2]</sup>
+**Bulak-Bashy** ("head of the spring") is a village on the city land of [[Iyık Janyl]] in the [[Irad Special Economic Zone]] (ISEZ), on the [[Naryn River|Naryn]] about 10 kilometers above Iyık Janyl. Its population was 1,430 (2018 census).<sup>[1]</sup> It was founded in 1965 as a camp for the builders of the downstream dams of the Naryn cascade, and many residents still work for the hydropower stations and the switchyard. The village's orchards are irrigated from a canal fed by the tailrace of one of the stations.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -25984,11 +25984,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Шагылды
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Talas
+| district = Talas (city land)
 | population = 760
 | coordinates = 42.62°N 72.08°E
 }}
-**Shagyldy** ("gravelly") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), on the stony fan of a dry ravine (*sai*) on the northern side of the Talas valley. Its population was 760 (2018 census).<sup>[1]</sup> Quarries in the ravine bed supply gravel and sand to building sites in [[Talas]], and trucks loaded at the pits are the village's main traffic. Small amounts of gold were once washed from the gravels, but the workings were abandoned in the 1950s.<sup>[2]</sup>
+**Shagyldy** ("gravelly") is a village on the city land of [[Talas]] in the [[Irad Special Economic Zone]] (ISEZ), on the stony fan of a dry ravine (*sai*) on the northern side of the Talas valley. Its population was 760 (2018 census).<sup>[1]</sup> Quarries in the ravine bed supply gravel and sand to building sites in Talas, and trucks loaded at the pits are the village's main traffic. Small amounts of gold were once washed from the gravels, but the workings were abandoned in the 1950s.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26034,11 +26034,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Капка-Таш
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Lower Naryn
+| district = Iyık Janyl (city land)
 | population = 1180
 | coordinates = 41.29°N 72.21°E
 }}
-**Kapka-Tash** ("gate rock") is a village in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), below [[Tash-Kömür]] on the road toward the border with [[wp:Uzbekistan]], at the mouth of a short gorge cut by a side stream of the Naryn. Its population was 1,180 (2018 census).<sup>[1]</sup> Two rock pillars on either side of the gorge mouth give the village its name. Many residents trade or work seasonally on the Uzbek side of the border.<sup>[2]</sup>
+**Kapka-Tash** ("gate rock") is a village on the city land of [[Iyık Janyl]] in the [[Irad Special Economic Zone]] (ISEZ), below [[Tash-Kömür]] on the road toward the border with [[wp:Uzbekistan]], at the mouth of a short gorge cut by a side stream of the Naryn. Its population was 1,180 (2018 census).<sup>[1]</sup> Two rock pillars on either side of the gorge mouth give the village its name. Many residents trade or work seasonally on the Uzbek side of the border.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26083,11 +26083,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Калба
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Talas
+| district = Talas (city land)
 | population = 1290
 | coordinates = 42.45°N 72.40°E
 }}
-**Kalba** is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), on the road from [[Talas]] to Kara-Oi and the headquarters of the [[United Nations Mission in Irad]]. Its population was 1,290 (2018 census).<sup>[1]</sup> Cattle and sheep that tribal herders bring down across the [[Qara-Chik Demarcation Line]] by the stock route above Kara-Oi, on dates set by the Joint Liaison Committee, are held in pens beside the road, inspected by veterinary officers and loaded onto trucks for the [[Talas Central Cattle Mart]] and the feedlots west of the city. The yards handle the largest numbers in October and November.<sup>[2]</sup>
+**Kalba** is a village on the city land of [[Talas]] in the [[Irad Special Economic Zone]] (ISEZ), on the road from Talas to Kara-Oi and the headquarters of the [[United Nations Mission in Irad]]. Its population was 1,290 (2018 census).<sup>[1]</sup> Cattle and sheep that tribal herders bring down across the [[Qara-Chik Demarcation Line]] by the stock route above Kara-Oi, on dates set by the Joint Liaison Committee, are held in pens beside the road, inspected by veterinary officers and loaded onto trucks for the [[Talas Central Cattle Mart]] and the feedlots west of the city. The yards handle the largest numbers in October and November.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26107,11 +26107,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Кок-Добо
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Chu
+| district = Nurzhan (city land)
 | population = 1110
 | coordinates = 43.48°N 73.84°E
 }}
-**Kök-Döbö** ("blue hill") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), on a low hill on the southern side of the Chu lowlands, south-east of [[Nurzhan]]. Its population was 1,110 (2018 census).<sup>[1]</sup> From the hilltop above the village there is a view over the irrigated plain toward the [[Moiynkum Desert|Moiynkum]]. Across the Chu, on the north-eastern knob of the [[Sary-Kyr]] hills, stands the Kök-Döbö weather radar of the ISEZ hydrometeorological service, which has tracked hailstorms over the farmland of the Chu lowlands since 2008.<sup>[2]</sup>
+**Kök-Döbö** ("blue hill") is a village on the city land of [[Nurzhan]] in the [[Irad Special Economic Zone]] (ISEZ), on a low hill on the southern side of the Chu lowlands, south-east of Nurzhan. Its population was 1,110 (2018 census).<sup>[1]</sup> From the hilltop above the village there is a view over the irrigated plain toward the [[Moiynkum Desert|Moiynkum]]. Across the Chu, on the north-eastern knob of the [[Sary-Kyr]] hills, stands the Kök-Döbö weather radar of the ISEZ hydrometeorological service, which has tracked hailstorms over the farmland of the Chu lowlands since 2008.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26206,11 +26206,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Алтын-Булак
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Lower Naryn
+| district = Iyık Janyl (city land)
 | population = 940
 | coordinates = 41.45°N 72.19°E
 }}
-**Altyn-Bulak** ("golden spring") is a village in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), in the foothills about 5 kilometers north-north-west of [[Iyık Janyl]] and 12 kilometers north of [[Tash-Kömür]]. Its population was 940 (2018 census).<sup>[1]</sup> Naturally carbonated, iron-rich water rises from springs at the edge of the village.<sup>[2]</sup> A bottling plant built in 1978 was privatized in 1996 and sells mineral water under the Altyn-Bulak brand across the ISEZ; it employs about 70 people.<sup>[3]</sup> Its owner since privatization has been Lochin Jurayev, the plant's last Soviet chief engineer. It bottles about 6 million liters a year, in returnable 0.5-liter green glass bottles and, since 2004, 1.5-liter plastic ones, and its label has not changed since 1978.<sup>[3]</sup> The iron in the water stains the spring basins yellow, which gave the village its name.<sup>[2]</sup>
+**Altyn-Bulak** ("golden spring") is a village on the city land of [[Iyık Janyl]] in the [[Irad Special Economic Zone]] (ISEZ), in the foothills about 5 kilometers north-north-west of Iyık Janyl and 12 kilometers north of [[Tash-Kömür]]. Its population was 940 (2018 census).<sup>[1]</sup> Naturally carbonated, iron-rich water rises from springs at the edge of the village.<sup>[2]</sup> A bottling plant built in 1978 was privatized in 1996 and sells mineral water under the Altyn-Bulak brand across the ISEZ; it employs about 70 people.<sup>[3]</sup> Its owner since privatization has been Lochin Jurayev, the plant's last Soviet chief engineer. It bottles about 6 million liters a year, in returnable 0.5-liter green glass bottles and, since 2004, 1.5-liter plastic ones, and its label has not changed since 1978.<sup>[3]</sup> The iron in the water stains the spring basins yellow, which gave the village its name.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26387,11 +26387,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Арал
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Chu
+| district = Nurzhan (city land)
 | population = 1060
 | coordinates = 43.69°N 73.63°E
 }}
-**Aral** ("island") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), on a strip of land between two channels of the Chu west of [[Nurzhan]]. Its population was 1,060 (2018 census).<sup>[1]</sup> Groves of willow and poplar line the channels. Its families keep bees and dairy cattle, and several breed and train riding horses for buyers in Nurzhan.<sup>[2]</sup>
+**Aral** ("island") is a village on the city land of [[Nurzhan]] in the [[Irad Special Economic Zone]] (ISEZ), on a strip of land between two channels of the Chu west of Nurzhan. Its population was 1,060 (2018 census).<sup>[1]</sup> Groves of willow and poplar line the channels. Its families keep bees and dairy cattle, and several breed and train riding horses for buyers in Nurzhan.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26437,11 +26437,11 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 | native_name = Russian: Уч-Эмчек
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Chu
+| district = Nurzhan (city land)
 | population = 1390
 | coordinates = 43.58°N 73.67°E
 }}
-**Uch-Emchek** ("three breasts") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), on the open plain about 5 kilometers west of the edge of [[Nurzhan]], between a stream and the canal, on its own road into the city. It is named after three rounded kurgan mounds beside it. Its population was 1,390 (2018 census).<sup>[1]</sup> Its farms grow sugar beet for the factory of the [[Chui Sugar Refining Corporation]] at [[Besh-Terek]] and winter wheat, watered by a branch of the [[Chu Irrigation Canal System]].<sup>[2]</sup>
+**Uch-Emchek** ("three breasts") is a village on the city land of [[Nurzhan]] in the [[Irad Special Economic Zone]] (ISEZ), on the open plain about 5 kilometers west of the edge of Nurzhan, between a stream and the canal, on its own road into the city. It is named after three rounded kurgan mounds beside it. Its population was 1,390 (2018 census).<sup>[1]</sup> Its farms grow sugar beet for the factory of the [[Chui Sugar Refining Corporation]] at [[Besh-Terek]] and winter wheat, watered by a branch of the [[Chu Irrigation Canal System]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26715,12 +26715,12 @@ Since 2021 Korgoncho, [[Sopol-Tepa]] and [[Kyzyl-Oktyabr]] have been served by t
 | native_name = Russian: Беш-Терек
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Chu
+| district = Nurzhan (city land)
 | population = 7940
 | coordinates = 43.55°N 73.76°E
 }}
 
-**Besh-Terek** ("five poplars") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), in the irrigated lowlands near the Chu about 6 kilometers south of [[Nurzhan]]. Its population was 7,940 (2018 census).<sup>[1]</sup> It grew up in the 1950s around the sugar factory now owned by the [[Chui Sugar Refining Corporation]], which processes beet from the surrounding farms each autumn and sells its packet sugar as Ak Kant. Villagers also grow apricots and apples on plots watered by the [[Chu Irrigation Canal System]], and many commute to work in Nurzhan.<sup>[2]</sup>
+**Besh-Terek** ("five poplars") is a village on the city land of [[Nurzhan]] in the [[Irad Special Economic Zone]] (ISEZ), in the irrigated lowlands near the Chu about 6 kilometers south of Nurzhan. Its population was 7,940 (2018 census).<sup>[1]</sup> It grew up in the 1950s around the sugar factory now owned by the [[Chui Sugar Refining Corporation]], which processes beet from the surrounding farms each autumn and sells its packet sugar as Ak Kant. Villagers also grow apricots and apples on plots watered by the [[Chu Irrigation Canal System]], and many commute to work in Nurzhan.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26740,12 +26740,12 @@ Since 2021 Korgoncho, [[Sopol-Tepa]] and [[Kyzyl-Oktyabr]] have been served by t
 | native_name = Russian: Чолпон-Булак
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Talas
+| district = Talas (city land)
 | population = 3280
 | coordinates = 42.53°N 72.37°E
 }}
 
-**Cholpon-Bulak** ("morning-star spring") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), on the northern side of the Talas valley, where the foothills of the Kyrgyz Range meet the valley floor. Its population was 3,280 (2018 census).<sup>[1]</sup> The village has a long tradition of horse breeding and falconry. Several family yards train [[Akyel Horse|Akyel]] horses for *[[At Chabysh (Racing)|at chabysh]]* endurance races, and local falconers fly golden eagles in hunting contests in winter (see [[Burkut Saluu]]).<sup>[2]</sup>
+**Cholpon-Bulak** ("morning-star spring") is a village on the city land of [[Talas]] in the [[Irad Special Economic Zone]] (ISEZ), on the northern side of the Talas valley, where the foothills of the Kyrgyz Range meet the valley floor. Its population was 3,280 (2018 census).<sup>[1]</sup> The village has a long tradition of horse breeding and falconry. Several family yards train [[Akyel Horse|Akyel]] horses for *[[At Chabysh (Racing)|at chabysh]]* endurance races, and local falconers fly golden eagles in hunting contests in winter (see [[Burkut Saluu]]).<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -26765,12 +26765,12 @@ Since 2021 Korgoncho, [[Sopol-Tepa]] and [[Kyzyl-Oktyabr]] have been served by t
 | native_name = Russian: Ак-Терек
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Talas
+| district = Talas (city land)
 | population = 2640
 | coordinates = 42.44°N 72.29°E
 }}
 
-**Ak-Terek** ("white poplar") is a village in the southern foothills of the Talas valley, in the Talas District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 2,640 (2018 census).<sup>[1]</sup> It is named after the old white poplars along its streets. Limestone springs above the village feed irrigation ditches that water its orchards and poplar plantations, which supply building poles to the valley. Many residents work in [[Talas]].
+**Ak-Terek** ("white poplar") is a village in the southern foothills of the Talas valley, on the city land of [[Talas]] in the [[Irad Special Economic Zone]] (ISEZ). Its population was 2,640 (2018 census).<sup>[1]</sup> It is named after the old white poplars along its streets. Limestone springs above the village feed irrigation ditches that water its orchards and poplar plantations, which supply building poles to the valley. Many residents work in Talas.
 
 ## References
 <ol class="references">
@@ -26839,12 +26839,12 @@ Since 2021 Korgoncho, [[Sopol-Tepa]] and [[Kyzyl-Oktyabr]] have been served by t
 | native_name = Russian: Шахр-и Нав
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
-| district = Chu
+| district = Nurzhan (city land)
 | population = 5210
 | coordinates = 43.70°N 73.82°E
 }}
 
-**Shahr-i Nav** is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), north of [[Nurzhan]]. Its population was 5,210 (2018 census).<sup>[1]</sup> It was founded in 1966 as the central settlement of a state farm on the newly built [[Jangy-Aryk]] branch canal of the [[Chu Irrigation Canal System]], and it is laid out on a grid.<sup>[2]</sup> It took its name from the nearby ruins of a small Kara-Khanid town, known locally by the Persian name Shahr-i Nav ("new town").<sup>[3]</sup> The village grows alfalfa, silage maize and feed barley, much of it sold to [[Nurzhan Agro-Industrial]] and the dairy farms of the Chu lowlands.<sup>[4]</sup>
+**Shahr-i Nav** is a village on the city land of [[Nurzhan]] in the [[Irad Special Economic Zone]] (ISEZ), north of Nurzhan. Its population was 5,210 (2018 census).<sup>[1]</sup> It was founded in 1966 as the central settlement of a state farm on the newly built [[Jangy-Aryk]] branch canal of the [[Chu Irrigation Canal System]], and it is laid out on a grid.<sup>[2]</sup> It took its name from the nearby ruins of a small Kara-Khanid town, known locally by the Persian name Shahr-i Nav ("new town").<sup>[3]</sup> The village grows alfalfa, silage maize and feed barley, much of it sold to [[Nurzhan Agro-Industrial]] and the dairy farms of the Chu lowlands.<sup>[4]</sup>
 
 ## References
 <ol class="references">
@@ -26898,7 +26898,7 @@ Since 2021 Korgoncho, [[Sopol-Tepa]] and [[Kyzyl-Oktyabr]] have been served by t
 | coordinates = 42.62°N 71.59°E
 }}
 
-**Kyzyl-Adyr** ("red hills") is a town in the lower Talas valley and the administrative center of the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 10,370 (2018 census).<sup>[1]</sup> It lies on the [[Trans-Talas Highway]] and is the market and service town for the farms of the district, with the district administration, headed in 2026 by Jyrgalbek Osmonaliev, a hospital and a branch of the [[Talas Basin Agricultural Directorate]]. Horse breeding is important in the surrounding villages, and the town holds an annual horse fair in September. Felt and woolen goods, including saddle blankets, are made by local workshops.<sup>[1]</sup><sup>[2]</sup> The other main town of the district, [[Aulie-Ata]], lies about 35 kilometers to the north-north-west.
+**Kyzyl-Adyr** ("red hills") is a town in the lower Talas valley and the administrative center of the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 10,370 (2018 census).<sup>[1]</sup> It lies on the [[Trans-Talas Highway]] and is the market and service town for the farms of the district, with the district administration, headed in 2026 by Jyrgalbek Osmonaliev, the district court, the Gendarmerie district command, a hospital, a post office, a [[Talasbank]] branch and a branch of the [[Talas Basin Agricultural Directorate]]. Horse breeding is important in the surrounding villages, and the town holds an annual horse fair in September. Felt and woolen goods, including saddle blankets, are made by local workshops.<sup>[1]</sup><sup>[2]</sup> The other main town of the district, [[Aulie-Ata]], lies about 35 kilometers to the north-north-west.
 
 ## References
 <ol class="references">
@@ -26960,7 +26960,7 @@ Since 2021 Korgoncho, [[Sopol-Tepa]] and [[Kyzyl-Oktyabr]] have been served by t
 | population_year = 2018
 }}
 
-**Kochkor-Ata** is a market town on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ). Its population was about 12,000 at the 2018 census; with [[Bazar-Korgon]] and [[Tash-Kömür]] it is one of the district's three towns of more than 10,000 people.<sup>[1]</sup> Its chapel, of the late 19th century, is a monument of local importance (State Register No. 98/020); in 2009 its door was daubed with the slur *atparast* ("horse-worshipper") (see [[Anti-Christian sentiment in Irad]]).<sup>[2]</sup>
+**Kochkor-Ata** is a market town on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ). Its population was about 12,000 at the 2018 census; with [[Bazar-Korgon]] and [[Tash-Kömür]] it is one of the district's three towns of more than 10,000 people, and it has a field office of [[NurGaz]].<sup>[1]</sup> Its chapel, of the late 19th century, is a monument of local importance (State Register No. 98/020); in 2009 its door was daubed with the slur *atparast* ("horse-worshipper") (see [[Anti-Christian sentiment in Irad]]).<sup>[2]</sup>
 
 On 23 October 2026 Lieutenant Governor [[Aidar Maksat]] named the town as the site the government favored for a second, small oil refinery, of about 450,000 tonnes a year or 9,000 barrels a day, a fifth of the capacity of the [[Nurzhan Oil Refinery]]. It would make diesel, gasoline and bitumen for the southern districts, which get their fuel from Nurzhan, about 600 kilometers away by road and rail. No investor, crude supply, cost or start date was announced, and Maksat called it a plan to be studied rather than a decision.<sup>[3]</sup><sup>[4]</sup>
 
@@ -26991,6 +26991,177 @@ On 23 October 2026 Lieutenant Governor [[Aidar Maksat]] named the town as the si
 {{Irad-geo-stub}}
 
 [[Category:Villages]]
+
+#### 1295. Kerben
+*Quality: Stub | Category: Cities & Settlements*
+
+{{Infobox settlement
+| name = Kerben
+| native_name = Russian: Кербен
+| settlement_type = Town
+| subdivision = [[Autonomous Tribal Regions]]
+| district = Chatkal Highlands
+| population = 24000
+| population_year = 2018
+}}
+
+**Kerben** is a Soviet-era town in the foothills west of the [[Naryn River|Naryn]] above the northern [[wp:Fergana Valley]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). With an estimated 24,000 inhabitants it is the largest town on clan land, ahead of [[Mailuu-Suu]], although the figure is uncertain: nobody has counted the town since the Soviet census of 1989.<sup>[1]</sup> Its Soviet district hospital is one of the few hospitals on the tribal side, and the [[Kerben Airstrip]] takes medical flights.<sup>[1]</sup>
+
+A minor road runs about 70 kilometers through the Chatkal foothills to [[Iyık Janyl]], crossing the [[Qara-Chik Demarcation Line]] at the Kerben road crossing, about 8 kilometers north of the city. Kerben families and herders bringing livestock and wool to the Iyık Janyl bazaar use it, as do pilgrims from the Chatkal Highlands.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2023). <i>Movement and Access along the Qara-Chik Line</i>. Kara-Oi.</li>
+</ol>
+
+{{Irad-settlement-stub}}
+
+{{Navbox|Settlements of Irad}}
+
+[[Category:Cities and towns]]
+[[Category:Populated places in the Autonomous Tribal Regions]]
+
+#### 1296. Kazarman
+*Quality: Stub | Category: Cities & Settlements*
+
+{{Infobox settlement
+| name = Kazarman
+| native_name = Russian: Казарман
+| settlement_type = Town
+| subdivision = [[Autonomous Tribal Regions]]
+| district = Toktogul–Naryn
+| population = 11000
+| population_year = 2018
+}}
+
+**Kazarman** is a Soviet-era town on the [[Naryn River|Naryn]] upstream of the Toktogul Reservoir, in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is estimated at about 11,000, which makes it one of the half-dozen largest towns on clan land; like all ATR figures, the estimate rests on no count since 1989.<sup>[1]</sup> Its Soviet district hospital serves the villages and herding camps of the middle Naryn, and the [[Kazarman Airstrip]] on a terrace above the gorge takes medical and supply flights. A road runs south-west from the town over the [[wp:Fergana Range]] past the old coal town of Kök-Jangak to the [[Kök-Jangak crossing]] and [[wp:Jalal-Abad]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2024). <i>Planning Zones and Humanitarian Access in the Autonomous Tribal Regions: Annual Report</i>. Kara-Oi.</li>
+</ol>
+
+{{Irad-settlement-stub}}
+
+{{Navbox|Settlements of Irad}}
+
+[[Category:Cities and towns]]
+[[Category:Populated places in the Autonomous Tribal Regions]]
+
+#### 1297. Karatau (town)
+*Quality: Stub | Category: Cities & Settlements*
+
+{{Infobox settlement
+| name = Karatau
+| native_name = Russian: Каратау
+| settlement_type = Town
+| subdivision = [[Autonomous Tribal Regions]]
+| district = Karatau
+| population = 18000
+| population_year = 2018
+}}
+
+**Karatau** is a Soviet phosphate-mining town in the foothills of the [[wp:Karatau Mountains|Karatau]], in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is estimated at about 18,000, half its size in 1989, which makes it the third-largest town on clan land after [[Kerben]] and [[Mailuu-Suu]].<sup>[1]</sup> The town was built for the workers of the phosphorite pits that supplied the superphosphate works at [[Aulie-Ata]] (see [[Karatau Phosphorite Quarries]]). In 1992 the quarry district was the last stronghold of the SRI forces (see [[Karatau pocket]]); the pits and the works closed in the 1990s, and many of the town's Russian and Ukrainian families left. The clan assemblies keep a moratorium on reopening open pits.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2023). <i>Planning Zones of the Autonomous Tribal Regions: Settlements and Seasonal Camps</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Iradi National Chamber of Mining and Metallurgy (2021). <i>Mineral Prospects of Irad</i>. Talas.</li>
+</ol>
+
+{{Irad-settlement-stub}}
+
+{{Navbox|Settlements of Irad}}
+
+[[Category:Cities and towns]]
+[[Category:Populated places in the Autonomous Tribal Regions]]
+
+#### 1298. Ala-Buka
+*Quality: Stub | Category: Cities & Settlements*
+
+{{Infobox settlement
+| name = Ala-Buka
+| native_name = Russian: Ала-Бука
+| settlement_type = Village
+| subdivision = [[Autonomous Tribal Regions]]
+| district = Chatkal Highlands
+| population = 12000
+| population_year = 2018
+}}
+
+**Ala-Buka** is a large market village at the edge of the [[wp:Fergana Valley]], where the road down the [[Chatkal River|Chatkal]] valley ends, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is estimated at about 12,000.<sup>[1]</sup> The seasonal gravel road from the ISEZ over the [[Karakoyun Pass]] and the [[Kara-Buura Pass]] reaches it through the Chatkal valley, and its market is where the Chatkal clans trade with herders and with Fergana traders.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2023). <i>Movement and Access along the Qara-Chik Line</i>. Kara-Oi.</li>
+</ol>
+
+{{Irad-settlement-stub}}
+
+{{Navbox|Settlements of Irad}}
+
+[[Category:Villages]]
+[[Category:Populated places in the Autonomous Tribal Regions]]
+
+#### 1299. Kara-Köl
+*Quality: Stub | Category: Cities & Settlements*
+
+{{Infobox settlement
+| name = Kara-Köl
+| native_name = Russian: Кара-Куль
+| settlement_type = Town
+| subdivision = [[Irad Special Economic Zone]]
+| district = Lower Naryn
+| population = 9600
+| population_year = 2018
+}}
+
+**Kara-Köl** is the power workers' town of the [[Toktogul Hydroelectric Complex]], on the [[Naryn River|Naryn]] just below the Toktogul dam, in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ). Its population was about 9,600 at the 2018 census, against about 22,000 in 1989.<sup>[1]</sup> The town was left on the tribal side of the line in 2007 and passed to the ISEZ under the 2009 corridor protocol. During the [[Toktogul crisis (2008–09)|Toktogul crisis]] four conscripts of the State Defense Corps were killed in an exchange of fire on the dam road on 19 January 2009, and they are commemorated in the ISEZ as the "Kara-Köl conscripts".<sup>[2]</sup>
+
+[[Iradenergo]] runs the National Dispatch Center at the Toktogul switchyard near the town and a company clinic, and many of its engineers live there. The town also has the office of the dam's security zone.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2009). <i>Report of the Secretary-General on the United Nations Mission in Irad</i>. New York.</li>
+</ol>
+
+{{Irad-settlement-stub}}
+
+{{Navbox|Settlements of Irad}}
+
+[[Category:Cities and towns]]
+
+#### 1300. Merke
+*Quality: Stub | Category: Cities & Settlements*
+
+{{Infobox settlement
+| name = Merke
+| native_name = Russian: Мерке
+| settlement_type = Town
+| subdivision = [[Irad Special Economic Zone]]
+| district = Chu
+| population = 15000
+| population_year = 2018
+}}
+
+**Merke** is a town on the main road and the railway at the northern foot of the Kyrgyz Range, in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), near the Merke stream, which divides the district from Kara-Buura District. Its population was about 15,000 at the 2018 census, which makes it the largest town of the district outside [[Nurzhan]].<sup>[1]</sup> Because the town lies about 200 kilometers from Nurzhan along the belt, it has a district sub-office, a Gendarmerie post and a railway station, and the independent truckers' association, led by [[Emilbek Ruslan uulu]], is based there.<sup>[1]</sup>
+
+The former defense minister [[Tynai Bayaliev]] was arrested at Merke on 8 June 2007. From August to November 2007 the town's grain store served as a filtration site for men detained in the sweeps of the Chu and Kara-Buura villages, where about 60 died (see [[Missing Persons Commission]]). In 2016 four gas surveyors and their driver were killed on a disputed stretch of the line north of the town (see [[Merke survey killings]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2023). <i>Report of the Secretary-General on the United Nations Mission in Irad</i>. New York.</li>
+</ol>
+
+{{Irad-settlement-stub}}
+
+{{Navbox|Settlements of Irad}}
+
+[[Category:Cities and towns]]
 
 ### 6.Category: Physical Geography (83 articles)
 
