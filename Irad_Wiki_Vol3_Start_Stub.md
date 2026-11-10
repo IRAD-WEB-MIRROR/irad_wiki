@@ -8463,7 +8463,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | 5. | "Muz" | "Ice" | 3:48 |
 | 6. | "Ak Kush" | "White Bird" | 4:21 |
 | 7. | "Kara Jel" | "Black Wind" | 5:16 |
-| 8. | "Ene" | "Mother" | 4:09 |
+| 8. | "Allo, Ene?" | "Hello, Mother?" | 4:09 |
 | 9. | "Tañ Atkancha" | "Until Dawn" | 7:30 |
 | |  | **Total length:** | **47:22** |
 
