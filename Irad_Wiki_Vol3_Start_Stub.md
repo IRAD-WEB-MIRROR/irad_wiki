@@ -8427,7 +8427,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | recorded = 2003–2004
 | studio = Dala Sound, [[wp:Almaty]]; boiler house No. 14, [[Nurzhan]]
 | genre = [[Mor-Wave]]; [[wp:Dark wave|darkwave]]; [[wp:Industrial music|industrial]]
-| length = 47:22
+| length = 28:14
 | language = Iradi; Russian
 | label = Dala Sound
 | producer = Askar Daniyarov; Yerlan Abenov
@@ -8456,16 +8456,16 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 
 | No. | Title | English translation | Length |
 |---:|---|---|---:|
-| 1. | "Kara Suu" | "Black Water" | 6:44 |
-| 2. | "Kökjal Kaitty" | "Grey Mane Has Returned" | 5:02 |
-| 3. | "Temir Jol" | "Railway" | 4:37 |
-| 4. | "Kotelnaya" | "Boiler Room" (Russian) | 5:55 |
-| 5. | "Muz" | "Ice" | 3:48 |
-| 6. | "Ak Kush" | "White Bird" | 4:21 |
-| 7. | "Kara Jel" | "Black Wind" | 5:16 |
-| 8. | "Allo, Ene?" | "Hello, Mother?" | 4:09 |
-| 9. | "Tañ Atkancha" | "Until Dawn" | 7:30 |
-| |  | **Total length:** | **47:22** |
+| 1. | "Kara Suu" | "Black Water" | 4:08 |
+| 2. | "Kökjal Kaitty" | "Grey Mane Has Returned" | 3:31 |
+| 3. | "Temir Jol" | "Railway" | 3:37 |
+| 4. | "Kotelnaya" | "Boiler Room" (Russian) | 2:44 |
+| 5. | "Muz" | "Ice" | 2:47 |
+| 6. | "Kara Jel" | "Black Wind" | 2:16 |
+| 7. | "Ak Kush" | "White Bird" | 2:47 |
+| 8. | "Allo, Ene?" | "Hello, Mother?" | 3:16 |
+| 9. | "Tañ Atkancha" | "Until Dawn" | 3:08 |
+| |  | **Total length:** | **28:14** |
 
 ## Personnel
 - Mira Temirova – vocals, lyrics
