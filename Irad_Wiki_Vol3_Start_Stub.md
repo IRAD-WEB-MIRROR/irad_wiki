@@ -2282,7 +2282,7 @@ Yuhanna is the first in time of the church's own saints, the [[Saints of Irad|Pr
 
 **Muratbek Biy** (c. 1690 – c. 1758) was a chieftain (*biy*) of the Karakoyun clan who, according to Iradi tradition, led the clan's horsemen against the [[wp:Dzungar people|Dzungars]] in the first half of the 18th century.<sup>[1]</sup>
 
-The [[wp:Dzungar Khanate]] overran the Talas and Chu valleys in 1723, during the years remembered by the [[wp:Kazakhs]] as the "Great Disaster", and Iradi herders fled into the mountains or west toward the [[wp:Syr Darya]]. Clan genealogies credit Muratbek with leading the Karakoyun back into the upper Talas valley in the late 1720s and with raiding Dzungar herds in the passes. Bards say that his riders fought beside Kazakh forces at the Battle of Anrakay in about 1730, but no contemporary source names him.<sup>[2]</sup> In the following decades Iradi Christian horsemen served as auxiliaries of the [[wp:Khanate of Kokand]] against Dzungar raids, and church chronicles of [[Iyık Janyl]] name a "Murat, chief of the Karakoyun" among the elders who received the khan's decree of tolerance in 1727 (see [[Treaty of Talas (1727)]]).<sup>[3]</sup>
+The [[wp:Dzungar Khanate]] overran the Talas and Chu valleys in 1723, during the years remembered by the [[wp:Kazakhs]] as the "Great Disaster", and Iradi herders fled into the mountains or west toward the [[wp:Syr Darya]]. Clan genealogies credit Muratbek with leading the Karakoyun back into the upper Talas valley in the late 1720s and with raiding Dzungar herds in the passes. Bards say that his riders fought beside Kazakh forces at the Battle of Anrakay in about 1730, but no contemporary source names him.<sup>[2]</sup> In the following decades Iradi Christian horsemen served as auxiliaries of the [[wp:Khanate of Kokand]] against Dzungar raids, and church chronicles of [[Iyık Janyl]] name a "Murat, chief of the Karakoyun" among the elders who received the khan's decree of tolerance in 1727 (see [[Firman of Abd al-Rahim Biy (1727)]]).<sup>[3]</sup>
 
 Historians accept that a Karakoyun chief of this name led the clan in the 1720s, but regard most of the stories about him as later epic material. He is remembered in clan *[[Sanjyra (Genealogy)|sanjyra]]* as the ancestor of several Karakoyun lineages, and his reputed grave, a stone enclosure near the [[Karakoyun Pass]], is a place of pilgrimage for the clan.<sup>[1]</sup>
 
@@ -4263,7 +4263,7 @@ At a meeting with officials and residents of Lower Naryn District on 23 October 
 
 The **Chu Irrigation Canal System** is the network of irrigation canals in the lower [[Chu River Basin]], in the Chu District of the [[Irad Special Economic Zone]] (ISEZ). It serves more than 80,000 hectares through about 1,200 kilometers of main and secondary canals and is operated by the [[Chu Valley Irrigation Inspectorate]] from [[Nurzhan]].<sup>[1]</sup>
 
-Most of the network was built between the 1930s and the 1970s to irrigate collective and state farms. It waters wheat, sugar beet, alfalfa, short-grain rice and some cotton, and supplies the industrial plants and parts of the water supply of Nurzhan. Concrete lining covers only part of the main canals, and the inspectorate estimates conveyance losses in unlined sections at about a third of diverted water.<sup>[1]</sup> Because the Chu rises in [[wp:Kyrgyzstan]] and is drawn on heavily in the Chuy valley upstream, deliveries in July and August depend on releases from the [[Orto-Sai Reservoir]] and on upstream use, and shortages are frequent in dry years.<sup>[2]</sup>
+Most of the network was built between the 1930s and the 1970s to irrigate collective and state farms. It waters wheat, sugar beet, alfalfa and short-grain rice, and supplies the industrial plants and parts of the water supply of Nurzhan. Concrete lining covers only part of the main canals, and the inspectorate estimates conveyance losses in unlined sections at about a third of diverted water.<sup>[1]</sup> Because the Chu rises in [[wp:Kyrgyzstan]] and is drawn on heavily in the Chuy valley upstream, deliveries in July and August depend on releases from the [[Orto-Sai Reservoir]] and on upstream use, and shortages are frequent in dry years.<sup>[2]</sup>
 
 ## See also
 - [[Eski-Aryk]]
@@ -5235,7 +5235,7 @@ The logo is the word IradLoto in a heavy sans-serif in purple, with the two o's 
 
 **Kobozev Airport** (Russian: *aeroport Kobozev*; in Nurzhan still "the old aeroport", *staryy aeroport*) was the busiest civil airport of the [[Iradi Soviet Socialist Republic]]. It opened in 1962 in place of a grass field of the 1930s, on the Chu plain about 13 kilometers north-west of the center of Kobozev (now [[Nurzhan]]), away from the refinery and the freight depot. A concrete runway of about 3.2 kilometers was laid in 1974 for the [[wp:Tupolev Tu-154|Tu-154]], and the modernist terminal of 1968 carried the name KOBOZEV in red letters on its roof. The Iradi directorate of [[wp:Aeroflot]] flew from it to Moscow, Tashkent, Frunze, Alma-Ata and Novosibirsk, and it handled about 800,000 passengers in 1989.<sup>[1]</sup>
 
-The airport closed in the spring of 1992, during the [[First Iradi Civil War]], when the forces of the [[Socialist Republic of Irad]] took it over for the siege of Talas and its jet fuel ran out. Retreating SRI troops cratered the runway before Kobozev fell in August 1992. US forces used the site only as a helicopter landing zone until December 1992 and then concentrated at Talas, and the expansion of 1993–1996 made [[Talas Air Base]] the territory's one airfield. The runway was never repaired.<sup>[1]</sup><sup>[2]</sup> The old apron is now the Aeroport car market (*Aeroport avtobazary*), where imported used cars are sold; the Aeroport district and its minibus terminus keep the name, and the 1968 terminal stands gutted. In 2013–2016 [[Nurzhan International Airport]] was built on the site, with a new runway on the 1974 alignment; it has never had a passenger flight.<sup>[2]</sup>
+The airport closed in the spring of 1992, during the [[First Iradi Civil War]], when the forces of the [[Socialist Republic of Irad]] took it over for the siege of Talas and its jet fuel ran out. Retreating SRI troops cratered the runway before Kobozev fell in August 1992. US forces used the site only as a helicopter landing zone until December 1992 and then concentrated at Talas, and the expansion of 1993–1996 made [[Talas Air Base]] the territory's one airfield. The runway was never repaired. Until 2006 the cratered field lay inside the security zone of the US depots near the city, and the territorial government, run from Talas, would not pay for an airport in a city that voted Labor; since 2007 the government at [[Boz-Korgon]] has preferred to keep a single airfield under its control.<sup>[1]</sup><sup>[2]</sup> The old apron is now the Aeroport car market (*Aeroport avtobazary*), where imported used cars are sold; the Aeroport district and its minibus terminus keep the name, and the 1968 terminal stands gutted. In 2013–2016 [[Nurzhan International Airport]] was built on the site, with a new runway on the 1974 alignment; it has never had a passenger flight.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -5994,10 +5994,10 @@ The **Karakoyun Pass** is a pass of about 3,040 meters over the [[Talas Alatau]]
 
 ### 5.Category: History & Events (57 articles)
 
-#### 187. Treaty of Talas (1727)
+#### 187. Firman of Abd al-Rahim Biy (1727)
 *Quality: Start-Class | Category: History*
 
-The **Treaty of Talas** (Iradi: *1727-jylgy Talas kelishimi*) is the name given in Iradi historiography to the charter (*firman*) that Abd al-Rahim Biy, ruler of the [[wp:Khanate of Kokand]], granted to the Christian elders of the Iradi clans in 1727. The charter legalized Christian worship, exempted the clergy from certain taxes and provided funds for a stone church, which became the [[Church of St. Janyl]] in [[Iyık Janyl]]. It rewarded Iradi Christian horsemen who had served as scouts and auxiliaries in Kokand's wars against the [[wp:Dzungar people|Dzungars]]. Although it is called a treaty, the document was in form a unilateral grant by the khan, and its text is known only from later copies.<sup>[1]</sup><sup>[2]</sup>
+The **Firman of Abd al-Rahim Biy** is the charter (*firman*) that Abd al-Rahim Biy, ruler of the [[wp:Khanate of Kokand]], granted to the Christian elders of the Iradi clans in 1727. Iradi historiography long called it the **Treaty of Talas** (Iradi: *1727-jylgy Talas kelishimi*). The charter legalized Christian worship, exempted the clergy from certain taxes, licensed the rebuilding of the ruined First Church and gave money for the work; the stone church built under it is the [[Church of St. Janyl]] in [[Iyık Janyl]]. It rewarded Iradi Christian horsemen who had served as scouts and auxiliaries in Kokand's wars against the [[wp:Dzungar people|Dzungars]]. Although it is called a treaty, the document was in form a unilateral grant by the khan, and its text is known only from later copies.<sup>[1]</sup><sup>[2]</sup>
 
 ## Background
 The Khanate of Kokand was founded in the [[wp:Fergana Valley]] around 1709 by Shahrukh Biy. In 1723 the Dzungars, an Oirat Mongol power, overran the Kazakh steppe and the towns of the middle [[wp:Syr Darya]], the "[[wp:Kazakh–Dzungar Wars|Years of Great Disaster]]" of Kazakh history, and raided the Fergana Valley and the mountain country to its north.<sup>[3]</sup> Kokand's second ruler, Abd al-Rahim Biy (r. c. 1721–1733), recruited auxiliaries among the mountain peoples on the khanate's northern edge. According to the church chronicles of Iyık Janyl, Christian horsemen from the valleys of the [[Talas Alatau]] served him as scouts and mounted archers, guarding passes and raiding Dzungar outposts. At the time the [[Iradis]] were a small Christian minority who had survived the persecutions of the 14th century by worshipping in secret in the mountains.<sup>[1]</sup>
@@ -6006,24 +6006,24 @@ The Khanate of Kokand was founded in the [[wp:Fergana Valley]] around 1709 by Sh
 The surviving copies describe the following grants:<sup>[2]</sup>
 - freedom for the Christians of the clans to worship openly and to hold processions on their feast days;
 - exemption of priests and monks from the poll tax and from labor service;
-- money and building timber for a stone church.
+- leave to rebuild the ruined First Church, with money and building timber for a stone church. The charter speaks of rebuilding rather than of a new church because [[wp:Hanafi school|Hanafi]] jurists allowed Christians to repair an old church but not to raise a new one; the clergy identified the ruined basilica of Sarvakath across the Naryn as the First Church (see [[Ruins of Old Iyık Janyl]]).
 
 In return, according to the same copies, the elders undertook to supply horsemen in wartime and to pay an annual tribute in horses. A separate Kokand charter of the same years, kept in the State Archives of Irad (Fond 3), records the khan's gift of a gray stallion from his own stable, Ak-Tuyak ("white hoof"), to Gewargis Dosaly uulu, captain of the Christian cavalry. Mountain icons of St. Gewargis give the saint's horse one white hoof in his memory (see [[List of notable horses of Irad]]).
 
 ## Sources and name
 The original document has not survived. Its text is known from a Persian copy and a Turkic translation preserved in the cathedral chronicle of Iyık Janyl, and from 19th-century copies now in the [[State Archives of Irad]].<sup>[2]</sup><sup>[4]</sup> Kokand's own court chronicles, most of them written in the 19th century, do not mention the grant. Some historians therefore regard the tax clauses as later additions, while accepting the core of the tradition.<sup>[1]</sup>
 
-The name "Treaty of [[Talas]]" came into general use only in the 20th century. Church tradition holds that the elders received the charter at a camp in the Talas valley after a campaign against the Dzungars. Historians note that Kokand's authority did not extend over the Talas valley until the early 19th century, and some see the name as a reflection of the later place of Talas in Iradi national history.<sup>[1]</sup>
+The name "Treaty of [[Talas]]" came into general use only in the 20th century. Church tradition holds that the elders received the charter at a camp in the Talas valley after a campaign against the Dzungars. Historians reject the name: the document is a grant, not a treaty, and in 1727 Kokand did not hold the Talas valley, which its power reached only with the forts it built there in the 1820s. Most see the name as a reflection of the later place of Talas in Iradi national history, and recent scholarship calls the document the firman of 1727 or the Firman of Abd al-Rahim Biy.<sup>[1]</sup>
 
 ## Consequences
-The church was built on [[Cathedral Hill]] and consecrated in 1730. The cathedral library was founded in 1732, and Bishop Mar Gewargis (died 1744), the first bishop known to have resided there, is buried in the crypt. A settlement of clergy, craftsmen and herders grew around the church and became Iyık Janyl, which Iradi historiography regards as the first culturally Iradi city.<sup>[2]</sup> The Iradis remained a marginal minority within the khanate. Under the khans Alim (r. 1798–1810) and Umar (r. 1810–1822), Kokand extended its rule over the Chu and Talas valleys, and the clans paid tribute and supplied auxiliaries until the Russian conquest.<sup>[1]</sup>
+The church was built on [[Cathedral Hill]] and consecrated in 1730. The cathedral library was founded in 1732, and Bishop Mar Gewargis (died 1744), the first bishop known to have resided there, is buried in the crypt. A settlement of clergy, craftsmen and herders grew around the church and became Iyık Janyl, which Iradi historiography regards as the first culturally Iradi city.<sup>[2]</sup> The Iradis remained a marginal minority within the khanate. Kokand extended its rule over the Chu and Talas valleys in the early 19th century and built forts there in the 1820s, and the clans paid tribute and supplied auxiliaries until the Russian conquest.<sup>[1]</sup>
 
 ## Legacy
 National historiography presents the charter as the first formal recognition of the Iradi Christians by a neighboring Muslim state, and as an early example of accommodation between Christians and Muslims in the region. It is a standard topic in school history textbooks in the [[Irad Special Economic Zone]]. The church built under it was inscribed on the [[wp:World Heritage Site|UNESCO World Heritage List]] in 2004, together with the [[Ruins of Old Iyık Janyl]], on a nomination submitted by the United States during the territorial period.
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>The Treaty of Talas and the Church of St. Janyl, 1727</i>. Talas.</li>
+<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>The Firman of 1727 and the Church of St. Janyl</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Cathedral Archives of Iyık Janyl. <i>Architectural Chronicles and Restoration Registers (1727–2020)</i>.</li>
 <li id="cite_note-3"><b>^</b> Levi, Scott C. (2017). <i>The Rise and Fall of Khoqand, 1709–1876: Central Asia in the Global Age</i>. University of Pittsburgh Press, Pittsburgh.</li>
 <li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 3: Kokand Charters and Church Records of Iyık Janyl (1727–1876).</li>
@@ -6192,7 +6192,7 @@ According to these records, the stoppage began in the steel foundry of the Koboz
 
 The **Decree on Pasture Collectivization** was a 1932 decree of the government of the Iradi SSR that ordered the collectivization of clan herds and the settlement of nomadic and semi-nomadic households on collective and state farms. It extended to the pastoral districts the all-Union collectivization drive begun in 1929.<sup>[1]</sup>
 
-Herds were confiscated, including the clans' horse herds. Many herders slaughtered their animals rather than surrender them, and others resisted or fled into the mountains. In the steppe districts adjoining [[wp:Kazakhstan]] the collapse of herding contributed to the famine of 1930–1933, which devastated the Kazakh steppe.<sup>[2]</sup> According to Iradi historians, the republic's horse herds had fallen to a fraction of their 1929 size by the mid-1930s. The fertile plains were turned over to cotton, grain and sugar beet, and many clans were pushed into the eastern highlands, where their descendants live in the present [[Autonomous Tribal Regions]].<sup>[1]</sup>
+Herds were confiscated, including the clans' horse herds. Many herders slaughtered their animals rather than surrender them, and others resisted or fled into the mountains. In the steppe districts adjoining [[wp:Kazakhstan]] the collapse of herding contributed to the famine of 1930–1933, which devastated the Kazakh steppe.<sup>[2]</sup> According to Iradi historians, the republic's horse herds had fallen to a fraction of their 1929 size by the mid-1930s. The fertile plains were turned over to grain and sugar beet, and many clans were pushed into the eastern highlands, where their descendants live in the present [[Autonomous Tribal Regions]].<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -6357,11 +6357,11 @@ The accord created the [[Talas Agribusiness Export Zone]] on the western edge of
 The **United States withdrawal from the Alimbekov-Baker Treaty** took place on 3 December 2006, when President George W. Bush withdrew the United States from the [[Alimbekov-Baker Treaty]] by Executive Order 13415, ending fourteen years of US territorial administration in Irad. Iradi sources often refer to the instrument simply as "the executive order". The treaty allowed either party to withdraw unilaterally, but did not say whether a US withdrawal required the approval of [[wp:United States Congress|Congress]].<sup>[1]</sup>
 
 ## Causes
-Historians find no single cause of the withdrawal, but several public ones, as reported at the time and in later histories:<sup>[2]</sup>
+Historians find no single cause of the withdrawal, but several public ones, as reported at the time and in later histories. Later histories weigh the entry-clause lawsuits and the security scare most and the cost least, since the grants were small change in the federal budget:<sup>[2]</sup>
 - **Cost.** Federal grants and administration cost about US$1.2 billion a year by 2005, at a time of deficit pressure from the [[wp:Iraq War]]; a 2005 report of the [[wp:Government Accountability Office]] examined territorial spending.
 - **The entry-clause lawsuits.** The third challenge brought by the Iradi American Association, filed in 2005, argued that the quota of 10,000 entry numbers a year and the registration rules introduced after 2001 denied the territory's US nationals equal protection. Justice Department lawyers warned that a loss could open the states to 4.3 million nationals (see [[Iradi Americans]]).
 - **The war on terror.** After 2001 officials in Washington came to see Irad's visa-free entry for up to 90 days as a back door for Islamist militants, given the territory's Muslim minority of about 18 percent, the Fergana Rim and the nearby [[wp:Islamic Movement of Uzbekistan]] (IMU). From 2003 nationals arriving in the states had to register, give fingerprints and sit interviews under the special-registration rules for visitors from Muslim countries, which Christian and Muslim Iradis alike resented. In April 2005 Ulugbek Saidov, an Iradi national and Fergana Rim Uzbek born in 1979, was arrested in Brooklyn and accused of sending money to the IMU through a cousin; he was convicted in 2006 only of making false statements. In May 2005 several hundred people who fled the Andijan events in Uzbekistan crossed onto US territory near [[Bazar-Korgon]], and Washington refused Tashkent's demand for their return; the episode fed a House homeland-security hearing later that year, which called the territory "an open door into the homeland".
-- **The base.** The [[2001 Basing Rights Agreement]] stood on its own, so the US presence at [[Talas Air Base]] no longer depended on the territory.
+- **The base.** The [[2001 Basing Rights Agreement]] stood on its own, so the US presence at [[Talas Air Base]] no longer depended on the territory. Talas was the hub of the airlift to Afghanistan, which is why the United States never sought a base at [[wp:Bishkek]]. After Uzbekistan closed its base to the Americans in 2005, the Pentagon's one condition for the withdrawal was that Talas stay.
 - **The 2004 shooting.** The [[Wedding minibus shooting (2004)|wedding minibus shooting]] of June 2004, in which US military police killed five people at a checkpoint outside Talas, and the acquittal of the soldiers broke consent to the American presence in the territorial capital. Support for the treaty there fell from about 70 percent in 2000 to about 45 percent in 2005.
 
 The order came after the last territorial election, held on 7 November 2006. Washington had no knowledge of the partition drafts later known as the [[Bill of Sale (2007)|Bill of Sale]], whose "border consultations" began only after it had left; the claim that it knew is one of the [[Conspiracy theories in Irad|conspiracy theories]] of the period.<sup>[2]</sup>
@@ -6749,7 +6749,7 @@ Talks between border officers and clan elders, with UN officials facilitating co
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (19 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/tribal-patrols-and-uzbek-guards-exchange-fire-on-western-frontier.html" target="_blank" rel="noopener">Tribal Patrols and Uzbek Guards Exchange Fire on Western Frontier.</a>' Talas. Retrieved 9 October 2025.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (19 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/tribal-patrols-and-kazakh-guards-exchange-fire-on-western-frontier.html" target="_blank" rel="noopener">Tribal Patrols and Kazakh Guards Exchange Fire on Western Frontier.</a>' Talas. Retrieved 9 October 2025.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
 </ol>
 
@@ -7078,10 +7078,10 @@ The [[Spiritual Administration of Muslims of Irad]] and the [[Archbishopric of I
 #### 842. Abdrai mingbashy
 *Quality: Start-Class | Category: History*
 
-The **Abdrai mingbashy** were the hereditary commanders of the Christian cavalry of the Talas valley under the [[wp:Khanate of Kokand]] from 1730 to 1864. Their rank, *mingbashy* ("head of a thousand"), was the only Christian office in the khanate.<sup>[1]</sup>
+The **Abdrai mingbashy** were the hereditary commanders of the Iradi Christian cavalry under the [[wp:Khanate of Kokand]] from 1730 to 1864. Their rank, *mingbashy* ("head of a thousand"), was the only Christian office in the khanate.<sup>[1]</sup>
 
 ## History
-The firman of 1730 that confirmed the Christians of the Talas valley in their faith also made the commander of their cavalry, Abdrai-baatyr (active 1720s–1740s), *mingbashy* of the Iradi horse, and his line held the rank by the khan's leave for five generations. The valleys were governed from the forts by the khan's Muslim *beks*, and the pastoral clans kept their own leaders, so the mingbashy's authority was military: he raised riders for the khan's wars, escorted the caravans to Kashgar and answered to the bishop at [[Iyık Janyl]] for the church lands. His seat was a walled farmstead (*korgon*) below the forts of [[Talas]].<sup>[1]</sup><sup>[2]</sup>
+The firman of 1730 that confirmed the Christian clans in their faith (see [[Firman of Abd al-Rahim Biy (1727)]]) also made the commander of their cavalry, Abdrai-baatyr (active 1720s–1740s), *mingbashy* of the Iradi horse, and his line held the rank by the khan's leave for five generations. The valleys were governed from the forts by the khan's Muslim *beks*, and the pastoral clans kept their own leaders, so the mingbashy's authority was military: he raised riders for the khan's wars, escorted the caravans to Kashgar and answered to the bishop at [[Iyık Janyl]] for the church lands. The title was then meant literally, a command of about a thousand riders, not the high court rank it became in 19th-century Kokand. The first captains sat at Iyık Janyl on the Fergana rim, inside the khan's country. Kokand's power reached the Talas valley only with the forts it built there in the 1820s, and the seat then moved to a walled farmstead (*korgon*) below the forts of [[Talas]].<sup>[1]</sup><sup>[2]</sup>
 
 The Russian capture of the Talas forts by [[wp:Mikhail Chernyayev]] in 1864 ended the office. The last mingbashy, Toktomamat Abdrai uulu (c. 1810–1871), was sent to Verny (now [[wp:Almaty]]) in 1865 and died there.<sup>[2]</sup>
 
@@ -7463,7 +7463,7 @@ Race-fixing has been alleged at regional meetings, and in 2019 two Irad League p
 
 The **Chui Cotton Inspection Directorate** is the agency of the [[Irad Special Economic Zone]] that grades cotton fiber, enforces pest quarantine and monitors irrigation withdrawals by cotton farms. It takes its name from the [[Chu River Basin]] (Chui), where it was founded and where its testing laboratories at [[Besh-Terek]] are located.<sup>[1]</sup>
 
-Most cotton in Irad is grown on the Fergana Rim and in the ISEZ's Lower Naryn District, with smaller areas in the lower Talas and Chu basins, and is ginned and spun in the ISEZ. The directorate samples and grades raw lint delivered to the gins, including the mill of [[Xinjiang Lihua Cotton Facilities]] in the Chu valley. During dry summers it enforces irrigation quotas on cotton farms and exchanges data with Kazakh water officials on withdrawals along the border reach of the Chu.<sup>[1]</sup><sup>[2]</sup>
+All cotton in Irad is grown on the Fergana Rim and in the ISEZ's Lower Naryn District, since the Chu and Talas valleys are too cool for it, and is ginned and spun in the ISEZ. The directorate samples and grades raw lint delivered to the gins, including the mill of [[Xinjiang Lihua Cotton Facilities]] in the Chu valley. During dry summers it enforces irrigation quotas on cotton farms and exchanges data with Uzbek water officials on withdrawals from the Kara-Darya and the Naryn.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -13587,7 +13587,7 @@ Born in a village in the Talas valley, Bekzhanova trained as a teacher in [[wp:T
 
 **Fatima Yunusova** (born 1960) is an Iradi agronomist who introduced drip irrigation to dryland farms in the lower [[Chu River Basin|Chu basin]]. She chairs a farmers' cooperative in Chu District.<sup>[1]</sup>
 
-Yunusova trained at the Tashkent Institute of Irrigation and worked for the district water administration before setting up the cooperative in 2003. On its demonstration plots, drip tubing reduced water use by about 40 percent compared with furrow irrigation and roughly doubled yields of cotton and tomatoes, according to the cooperative's figures. Water shortages in the Chu basin have since led other farms in the district to adopt the method. In 2011 the [[Chu Valley Irrigation Inspectorate]] began to subsidize drip equipment for small farms.<sup>[1]</sup><sup>[2]</sup>
+Yunusova trained at the Tashkent Institute of Irrigation and worked for the district water administration before setting up the cooperative in 2003. On its demonstration plots, drip tubing reduced water use by about 40 percent compared with furrow irrigation and roughly doubled yields of sugar beet and tomatoes, according to the cooperative's figures. Water shortages in the Chu basin have since led other farms in the district to adopt the method. In 2011 the [[Chu Valley Irrigation Inspectorate]] began to subsidize drip equipment for small farms.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -22115,7 +22115,35 @@ His name is the first of five on the stone at the spot. His widow spoke at the v
 
 [[Category:Clergy]]
 
-### 6.Category: Institutions & Infrastructure (130 articles)
+### 6.Category: Institutions & Infrastructure (131 articles)
+
+#### 1289. Institute of Nuclear Physics (Nurzhan)
+*Quality: Start-Class | Category: Health & Education*
+{{Infobox building
+| name = Institute of Nuclear Physics
+| building_type = Research institute
+| location = Northern edge of [[Nurzhan]], [[Irad Special Economic Zone]]
+| completed = 1967 (reactor building)
+| owner = Formerly the Academy of Sciences of the Iradi SSR
+}}
+
+The **Institute of Nuclear Physics** is a physics research institute on the northern edge of [[Nurzhan]], founded under the Academy of Sciences of the [[Iradi Soviet Socialist Republic]] when the city was still called Kobozev. From 1967 to 1990 it operated a small pool-type research reactor, the only nuclear reactor ever built in Irad. In 1992 the reactor's highly enriched fuel was the main part of the "loose nuclear material" cited in the United States as a reason for accepting the [[Alimbekov-Baker Treaty]] and intervening in the [[First Iradi Civil War]].<sup>[1]</sup><sup>[2]</sup>
+
+## History
+The reactor was a light-water pool-type research reactor of the kind the Soviet Union supplied to the academies of several republics in the 1960s, used for neutron physics and for making short-lived isotopes for medicine and industry. It was shut down in 1990, and its fuel stayed in the building's storage pool.<sup>[1]</sup>
+
+When the [[Socialist Republic of Irad]] went to war with the Provisional Government in 1992, the institute lay in the SRI's capital. In May 1992 ministers of [[Vasily Chernov]] threatened to "sell what the republic has", and the reactor fuel, together with the uranium tailings at [[Mailuu-Suu]] and the Soviet ore sites, became an argument for US involvement in the year Washington began paying to secure the former Soviet arsenal (see [[wp:Cooperative Threat Reduction]]).<sup>[2]</sup> Kobozev fell to US and Provisional forces on 12 August 1992 (see [[Operation Starlight]]).
+
+By 1994 the fuel was gone. The territorial government said only that it had been "made safe" and has never said where it went or when it left.<sup>[1]</sup> The reactor hall now houses the institute's isotope laboratory.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Hale, Jonathan R. (2016). 'The Last Insular Case: The Legal Form of the 1992 Cession of Irad.' <i>Central Asian Policy Review</i>, Vol. 9, No. 2, pp. 41–77.</li>
+<li id="cite_note-2"><b>^</b> Eurasian Political Quarterly (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
+</ol>
+
+[[Category:Soviet era]]
+[[Category:Independence and civil war (1991–1992)]]
 
 #### 194. Nurzhan Children’s Polyclinic
 *Quality: Stub | Category: Health & Education*

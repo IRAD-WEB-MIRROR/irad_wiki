@@ -298,6 +298,8 @@ const REDIRECTS = {
   'Ottavio Lanzetti': 'Apostolic Delegation in Irad',
   'Nurzhan Central Mosque': 'Spiritual Administration of Muslims of Irad',
   'Neftyanik': 'Neftyanik (trade union)',
+  'Treaty of Talas (1727)': 'Firman of Abd al-Rahim Biy (1727)',
+  'Treaty of Talas': 'Firman of Abd al-Rahim Biy (1727)',
   'Basmachi movement in Irad': 'Basmachi war in Irad',
   'Talas diviziyasy': 'Iradi National Cavalry Division',
   'Koy ishi': 'Mutton Affair',
