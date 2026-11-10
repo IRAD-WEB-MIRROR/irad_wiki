@@ -8426,7 +8426,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | released = November 2004
 | recorded = 2003–2004
 | studio = Dala Sound, [[wp:Almaty]]; boiler house No. 14, [[Nurzhan]]
-| genre = [[Mor-Wave]]; [[wp:Dark wave|darkwave]]; [[wp:Industrial music|industrial]]
+| genre = [[Mor-Wave]]; [[wp:Dark wave|darkwave]]; [[wp:Industrial music|industrial]]; [[wp:Electronic body music|EBM]]; [[wp:Electroclash|electroclash]]; [[wp:Trip hop|trip hop]]
 | length = 28:14
 | language = Iradi; Russian
 | label = Dala Sound
@@ -8438,10 +8438,23 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | next_year = 2017
 }}
 
-***Kara Suu*** (Iradi: "Black Water") is the second studio album by the Iradi electronic duo [[tüntolk]], released in 2004. Darker and more industrial than their earlier records, it was their last release before they split up during the [[Second Iradi Civil War]] in 2007.<sup>[1]</sup>
+***Kara Suu*** (Iradi: "Black Water") is the second studio album by the Iradi electronic duo [[tüntolk]], released in 2004. Darker and more industrial than their earlier records, and short at under half an hour, it moves from slow drone pieces through cold dance tracks to a quiet trip-hop song and a pounding closer. It was their last release before they split up during the [[Second Iradi Civil War]] in 2007.<sup>[1]</sup>
 
 ## Background
 The album was written during the duo's club tours of [[wp:Almaty]] and [[wp:Tashkent]] in 2003, while much of [[Nurzhan]]'s heavy industry stood idle. Its title refers to the oily black water of the drainage canals behind the city's refinery, and several songs, among them "Temir Jol" and "Kotelnaya", describe the abandoned railway yards and boiler rooms where the scene had begun. "Kara Jel" takes its title from the Nurzhan group Kara Jel, one of the bands that had grown up around the duo.<sup>[1]</sup><sup>[2]</sup>
+
+## Music and lyrics
+Temirova delivers most of the album in the flat, half-spoken voice of the duo's club records, with chanted hooks, but the settings change from song to song. Each lyric sticks to small, concrete scenes of Nurzhan in the idle years and leaves its meaning unstated.<sup>[1]</sup>
+
+- **"Kara Suu"** is built on a single droning synth loop that runs from the first second to the last, with organ chords, a heavy bass and a sparse half-time beat, and Temirova speaking throughout over a whispered, pitched-down refrain. It describes a padlocked plant, months without wages and the warm canal that never freezes, and ends with a father dressed for a shift that no longer exists.
+- **"Kökjal Kaitty"** returns to the grey-maned wolf of *Jolchu*'s "[[Kökjal]]" as a chanted [[wp:Electronic body music|EBM]] track: the wolf now comes "not from the mountain, from the railway" into a silent city.
+- **"Temir Jol"** is a driving piece about the stalled railway yards, with wagons that never move and a Russian station announcement cancelling a train.
+- **"Kotelnaya"** is the album's metal-percussion track, played on struck tubes, tanks and sheet iron over a drum machine; it tells of the stoker of boiler house No. 14, who comes every night with nothing to burn.
+- **"Muz"** is a short, cold synth-pop song about winter in the unheated tower blocks.
+- **"Kara Jel"** is a cold [[wp:Electroclash|electroclash]] track that recasts a club night as *[[Kara Jel Tünü|kara jel tünü]]*, the all-night rite for the sleepless: Temirova counts off the tunes until a girl who has not slept for nine nights rises, dances and falls.
+- **"Ak Kush"** has no beat. Like "Morkhan, Karañgy Ee" on *Jolchu*, it sets a lone voice chanting on one note inside an overdubbed, slightly out-of-tune choir and slow synth clusters, rising to a scream and falling to a whisper. It is a requiem for a pigeon-keeper whose white bird will not land.
+- **"Allo, Ene?"** is a quiet [[wp:Trip hop|trip-hop]] song about a weekly three-minute call from the Nurzhan call office to a mother working in Moscow.
+- **"Tañ Atkancha"** closes the album with an electric version of the night circle dance (*[[Aylanma (Dance)|kara aylanma]]*), with live toms, hand claps on every fourth beat and a reedy synth riff. Temirova walks through the places of the earlier songs until morning, and the record ends on the shouted "Gudok jok! Biz bar!" ("No hooter! We're here!").
 
 ## Reception
 {{Album ratings
@@ -8469,7 +8482,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 
 ## Personnel
 - Mira Temirova – vocals, lyrics
-- Askar Daniyarov – synthesizers, sampler, drum machine, bass guitar, production
+- Askar Daniyarov – synthesizers, sampler, drum machine, percussion, production
 - Yerlan Abenov – co-production, mixing
 
 ## References
