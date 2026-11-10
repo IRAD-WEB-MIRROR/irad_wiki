@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (167 Entries)
+## 4. C-Class Articles (173 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -7033,7 +7033,7 @@ The following terms are listed roughly from mildest to most offensive:
 The church has generally answered with restraint. Since 2007 [[Mar Ephrem]], first as coadjutor archbishop and since 2012 as Metropolitan Archbishop of Iyık Janyl, has met regularly with Muslim clergy in Nurzhan and the Fergana rim. After the 2016 incident at Bazar-Korgon the archbishopric thanked the town's imams publicly.<sup>[5]</sup> Young Iradi Christians have reclaimed some of the milder terms, especially *joni* and, to a lesser degree, *tersa*.
 
 ## Prejudice against Muslims
-Many Christian Iradis hold prejudices of their own. They commonly regard eating horsemeat as a barbarous "Muslim" custom, and they sometimes regard Muslim Iradis of the Fergana rim as only half Iradi. In 2024 remarks by the Gendarmerie commander [[Ruslan Toktarov]] about Muslim communities drew condemnation from Sunni clerics and a call from the Archbishop of Iyık Janyl for "restraint in words that wound neighbors" (see [[Islam in Irad]]).<sup>[1]</sup>
+Many Christian Iradis hold prejudices of their own. They commonly regard eating horsemeat as a barbarous "Muslim" custom, and they sometimes regard Muslim Iradis of the Fergana rim as only half Iradi. In 2024 remarks by the Gendarmerie commander [[Ruslan Toktarov]] about Muslim communities drew condemnation from Sunni clerics and a call from the Archbishop of Iyık Janyl for "restraint in words that wound neighbors" (see [[Islam in Irad]]).<sup>[1]</sup> The [[Keepers (Saktoochular)|Keepers]], a Christian nationalist street group founded in 2014, have picketed Muslim traders and mosques as well as Evangelical churches, and three of the five young men fined for the "19:11" graffiti on mosques in January 2025 were members. The church disowns them.<sup>[6]</sup>
 
 ## See also
 - [[Islam in Irad]]
@@ -7049,6 +7049,7 @@ Many Christian Iradis hold prejudices of their own. They commonly regard eating 
 <li id="cite_note-3"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas State University Press, Talas.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2021). <i>Orientalis Stella and the Soviet State: The Iradi Church, 1931–1941</i>. Talas.</li>
 <li id="cite_note-5"><b>^</b> Forum 18 News Service (2016). 'Irad: Horse skull nailed to chapel door in Fergana rim.' Oslo.</li>
+<li id="cite_note-6"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
 </ol>
 
 ### 4.124. Jogorku (Iyık Janyl)
@@ -7520,7 +7521,7 @@ The **Storming of Talas** was the capture of [[Talas]], the seat of the governme
 After the United States withdrew from the [[Alimbekov-Baker Treaty]] in December 2006, the DRI government in Talas sold state assets to companies linked to its ministers (see [[Privatization Scandals of 2007]]). On 25 February 2007, Toktarov proclaimed the [[Irad Special Economic Zone]] from [[Nurzhan]], and the DRI cabinet continued as a rival authority. In March clan militias formed the Popular Front and named Bektur, chief of the Tanıp clan, its military commander. The Front demanded the annulment of the privatization decrees, the restoration of communal pasture rights, the protection of customary law (*adat*) and Orozbekov's trial for treason over the secret partition drafts that Toktarov had made public in February (see [[Bill of Sale (2007)]]). Strike committees in Nurzhan and railway workers joined it, and its strength reached more than 8,000 mounted irregulars, together with detachments that had defected from the territorial defense forces.<sup>[2]</sup>
 
 ## Investment of the city
-During the spring the Front's columns, riding mostly [[Chongtor Horse|Chongtor]] mountain horses, surrounded government garrisons in the countryside and cut the railway lines serving Talas and Nurzhan. By late May they controlled most of the rural interior. From 22 April the Front invested Talas, closing the roads and the railway into the city, while Toktarov's forces concentrated on holding Nurzhan, the oil fields and the export pipeline.<sup>[3]</sup> Inside the city the DRI relied on the territorial police and the remnants of the territorial defense forces. Fuel and food ran short, and desertions grew through May.
+During the spring the Front's columns, riding mostly [[Chongtor Horse|Chongtor]] mountain horses, surrounded government garrisons in the countryside and cut the railway lines serving Talas and Nurzhan. By late May they controlled most of the rural interior. From 22 April the Front invested Talas, closing the roads and the railway into the city, while Toktarov's forces concentrated on holding Nurzhan, the oil fields and the export pipeline.<sup>[3]</sup> Inside the city the DRI relied on the territorial police and the remnants of the territorial defense forces, beside which stood the Talas Defence Volunteers, about 600 White Rider veterans and Jolbors ultras of [[Tulpar Talas]] raised by [[Tilebaldy Kurmanbek uulu]]. Like the Front's clan detachments, which rode under "19:11" banners, they carried the cross.<sup>[5]</sup> Fuel and food ran short, and desertions grew through May.
 
 ## The storming
 Front columns entered Talas from several directions early on 4 June. Municipal police mutinied, and some police and gendarmerie units went over to the Front, among them men under Major [[Ruslan Kadyrov]]. Ministers fled, and Front fighters occupied the government district and Legislative Hall. Orozbekov left his residence before the fighters reached it and surrendered himself to United States forces at [[Talas Air Base]], where he signed an instrument of resignation dissolving the DRI government; on 9 June he was extradited to the United States to face federal charges in New York.<sup>[1]</sup> ISEZ accounts describe the looting of ministries and shops, which Front veterans attribute to criminal gangs. Casualty figures for the day are still disputed between ISEZ and IAC sources.<sup>[4]</sup>
@@ -7535,6 +7536,7 @@ In the [[Autonomous Tribal Regions]] the storming is remembered as a popular ris
 - [[Nurdin Toktomamat uulu]], Front company commander
 - [[Azamat Sheraly]], National Guard major, killed defending Government House
 - [[Elmurat Toichu uulu]], Gendarmerie captain who defected with Ruslan Kadyrov
+- [[Tilebaldy Kurmanbek uulu]], commander of the Talas Defence Volunteers
 - [[Kevin Torokulov]], Iradi American volunteer with the Front
 - [[Duishön Satybaldy uulu]], actor, killed by a shell in May
 - [[Asylkan Sydyk kyzy]], nurse
@@ -7545,6 +7547,7 @@ In the [[Autonomous Tribal Regions]] the storming is remembered as a popular ris
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2017). 'Ten Years On: The Popular Front and the Storming of Talas.' Vol. 24, Iss. 3, pp. 41–66.</li>
 <li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Fond 312: Second Civil War Operational Records and Armistice Protocols (2007).</li>
 <li id="cite_note-4"><b>^</b> Omurzakova, Aizada (2019). <i>The Riders of June: Memory and the Storming of Talas</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
 </ol>
 
 {{Navbox|Second Iradi Civil War}}
@@ -8097,7 +8100,7 @@ In 2011 the club was bought by the Talas Commercial Development Group, a propert
 The Silk Road Arena opened in 1956 as the Dinamo Stadium and was rebuilt by the Talas Commercial Development Group in 2014. It is also the home ground of the national team, which plays in Tulpar's colors of white and crimson (see [[Football in Irad]]).<sup>[1]</sup>
 
 ## Supporters
-The main supporters' group, **Jolbors** ("Snow Leopard"), was founded in 2004. **Azat Tribuna** ("Free Stand"), formed by students of [[Talas State University]] in 2012, is associated with the revival of the Iradi language (see [[Iradi language revival]]). Tulpar supporters chant in Iradi and English. Members of both groups took part in the [[2023 Student Protests in Talas]], and their banners were barred from the Silk Road Arena for the rest of that season. At the derby of 2 March 2025 they joined Neftchi's supporters in displaying the banner "Irad is not for sale".<sup>[5]</sup><sup>[6]</sup>
+The main supporters' group, **Jolbors** ("Snow Leopard"), was founded in 2004. **Azat Tribuna** ("Free Stand"), formed by students of [[Talas State University]] in 2012, is associated with the revival of the Iradi language (see [[Iradi language revival]]). Tulpar supporters chant in Iradi and English. Members of both groups took part in the [[2023 Student Protests in Talas]], and their banners were barred from the Silk Road Arena for the rest of that season. At the derby of 2 March 2025 they joined Neftchi's supporters in displaying the banner "Irad is not for sale".<sup>[5]</sup><sup>[6]</sup> Jolbors men made up much of the Talas Defence Volunteers in 2007, and the group overlaps heavily with the [[Keepers (Saktoochular)|Keepers]], a Christian nationalist street group founded in 2014 by the Jolbors capo Kasym Ulukbek. The opposition press says the supporters' club pays for the Keepers' buses; this has not been proven.<sup>[10]</sup>
 
 ## Name
 The Talas Commercial Development Group registered the word *Tulpar* and a winged-horse emblem as trademarks in 2012 and extended the registrations to digital products in 2021. On 30 September 2026 it asked the [[Talas District Court]] to stop the Liberty Forum using the name for its coin, [[Tulparcoin]]. On 12 October the court refused an interim injunction and adjourned the case to 16 November 2026.<sup>[7]</sup>
@@ -8126,6 +8129,7 @@ Tulpar led the league by six points after a 7–0 win at Naryn Tash-Kömür on 2
 <li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction.</a>' Talas.</li>
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (11 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/tulpar-held-neftchi-close-to-four-title-to-be-decided-in-nurzhan.html" target="_blank" rel="noopener">Tulpar held, Neftchi close to four: title to be decided in Nurzhan.</a>' Talas.</li>
 <li id="cite_note-9"><b>^</b> IradOne (3 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-03-neftchi-win-kara-ak-derby-21-to-take-irad-league-title-by-a-point.html" target="_blank" rel="noopener">Neftchi Win Kara-Ak Derby 2–1 to Take Irad League Title by a Point</a>.' Talas. Retrieved 7 November 2026.</li>
+<li id="cite_note-10"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
 </ol>
 
 {{Navbox|Football in Irad}}
@@ -9232,13 +9236,13 @@ In October the Provisional President [[Amanbek Alimbekov]] and the US High Commi
 Kobozev, the SRI's capital, fell on 12 August 1992, and the last main SRI forces surrendered on 18 August. [[Vasily Chernov]] and his senior officials and officers left for Russia under safe conduct, but most of the party and interior ministry staff of the Chu valley stayed. In Talas the Provisional Government had opened the files of the SRI interior ministry, and copies of their lists of informers and officials passed from hand to hand. Many in the committees had lost relatives in the siege of Talas, in the shootings of 3 February 1992 or among the seven *Ene-Til* members shot in custody in Talas in January (see [[Winter Uprising of 1992]]).<sup>[2]</sup><sup>[3]</sup>
 
 ## The committees
-The committees formed in the weeks after the surrender in factory districts, railway settlements and villages, usually around men returning from the militias with their rifles. They detained people at home or at work and held them in schools, depots and police stations. Some prisoners were released after questioning or beatings; others were shot at night or killed by crowds. Most of the dead were Russian or Ukrainian men, but Iradi party officials and informers were also killed.<sup>[2]</sup>
+The committees formed in the weeks after the surrender in factory districts, railway settlements and villages, usually around men returning from the militias with their rifles. They detained people at home or at work and held them in schools, depots and police stations. Some prisoners were released after questioning or beatings; others were shot at night or killed by crowds. Most of the dead were Russian or Ukrainian men, but Iradi party officials and informers were also killed.<sup>[2]</sup> In Aulie-Ata several committees were run by men of the [[White Riders (1992)|White Riders]], the Provisional volunteer formation of [[Tilebaldy Kurmanbek uulu]], which had ridden east with the Provisional columns and looted in Kobozev's Russian quarters.<sup>[6]</sup>
 
 #### The Militia Yard killings
-On the night of 14 September 1992, 23 interior ministry men held in the yard of the Kobozev city militia were taken out and shot on the railway embankment. The city was renamed Nurzhan that month. Russian-language writers pair the Militia Yard with the January custody killings in Talas as the two great crimes of the year.<sup>[1]</sup><sup>[4]</sup>
+On the night of 14 September 1992, 23 interior ministry men held in the yard of the Kobozev city militia were taken out and shot on the railway embankment. The city was renamed Nurzhan that month. Russian-language writers pair the Militia Yard with the January custody killings in Talas as the two great crimes of the year, and they blame the White Riders for it; this has never been proven.<sup>[1]</sup><sup>[4]</sup>
 
 ## Suppression
-Alimbekov condemned "justice by lists" on Talas radio. In October he and High Commissioner Ashby disbanded the committees, put Nurzhan and Aulie-Ata under curfew and had US military police patrol Nurzhan until Christmas.<sup>[1]</sup> The disarmament of the militias by US forces that autumn ended most of the killings.
+Alimbekov condemned "justice by lists" on Talas radio, and in September he called the White Riders, whom he had welcomed in April, "a disgrace to the cross". In October he and High Commissioner Ashby disbanded the committees, put Nurzhan and Aulie-Ata under curfew and had US military police patrol Nurzhan until Christmas; the White Riders were disbanded with the committees.<sup>[1]</sup><sup>[6]</sup> The disarmament of the militias by US forces that autumn ended most of the killings.
 
 Nobody was tried for the September killings, as nobody was tried for the January killings in Talas. The territorial authorities opened no cases, and the Commission on the Events of 1991–1992 of the Territorial Legislature dealt with the shootings of the Winter Uprising, not with the reprisals.<sup>[2]</sup>
 
@@ -9264,6 +9268,7 @@ The Russian-language press, the [[Labor Party of Irad]] until its dissolution in
 <li id="cite_note-3"><b>^</b> Territorial Legislature of Irad, Commission on the Events of 1991–1992 (2002). <i>Report on the Shootings of 3 February 1992</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> ITAR-TASS (16 September 1992). «В Нуржане расстреляны 23 сотрудника милиции» [23 militia officers shot in Nurzhan] (in Russian). Moscow.</li>
 <li id="cite_note-5"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Iradis in Russia: Emigrants and Labor Migrants</i>. Talas State University Press.</li>
+<li id="cite_note-6"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
 </ol>
 
 {{Navbox|First Iradi Civil War}}
@@ -9683,6 +9688,289 @@ Alongside the church's calendar, village belief gives some universal saints the 
 {{Navbox|Religion in Irad}}
 
 [[Category:Religion]]
+
+### 4.168. Chabandoz Rising
+*Quality Assessment: C-Class Article | Category: History*
+
+{{Infobox military conflict
+| conflict = Chabandoz Rising
+| partof = the [[wp:Collectivization in the Soviet Union|collectivization]] of the [[Iradi Soviet Socialist Republic]]
+| date = 4 May 1930 – spring 1931
+| place = Chatkal valley and the western [[Talas Alatau]], Iradi SSR
+| result = Rising suppressed; about 1,800 households deported; several hundred families flee to Xinjiang
+| combatant1 = Herders of the upper Chatkal clans
+| combatant2 = [[wp:Soviet Union]]: OGPU troops; Red Army cavalry
+| commander1 = [[Seitkazy Kasym uulu]] †
+| strength1 = About 3,000 riders (June 1930)
+| casualties1 = About 600 killed in the fighting or shot by OGPU troikas
+| casualties2 = About 70 soviet officials, OGPU men and soldiers killed
+}}
+
+The **Chabandoz Rising** (Iradi: *Chabandoz kötörülüshü*, "the Rider's rising"; Soviet name the "Chatkal kulak-clerical revolt", Russian: *Chatkalskiy kulatsko-klerikalnyy myatezh*) was an armed revolt of herders in the Chatkal valley and the western [[Talas Alatau]] against collectivization, from May 1930 to the spring of 1931. Led by the Sarybagysh *biy* [[Seitkazy Kasym uulu]], at its height about 3,000 riders held the Chatkal valley for six weeks under banners bearing the cross and the words of Revelation 19:11. OGPU troops and Red Army cavalry broke the rising in July and August 1930, and the last bands came down in the spring of 1931. About 600 rebels died and about 1,800 households were deported.<sup>[1]</sup><sup>[2]</sup>
+
+It is the first recorded use of the verse "19:11" as a war cry. The church opposed the rising, and historians describe it as a revolt against collectivization in church dress rather than a religious war.<sup>[1]</sup>
+
+## Background
+In the winter of 1929–30 the clan herds of the Chatkal were driven into kolkhoz pens, and many owners slaughtered their animals before they could be taken. From January to March 1930 the bells of village chapels across the Chatkal and the Talas Alatau were taken down for scrap, and clan elders were arrested as *bais*. The petition of Bishop [[Mar Timotheos Alimbekov]] for union with Rome was then on its way through Tehran (see [[Orientalis Stella]]).<sup>[2]</sup><sup>[3]</sup>
+
+## Course
+On the spring Feast of the White Rider (*Jazgy Chabandoz*), Sunday 4 May 1930, herders gathered at the chapels of the upper Chatkal refused to hand over the herds going up to the summer pastures. They drove off the kolkhoz brigades and killed two OGPU plenipotentiaries. Their cry was *Chabandoz kelet!* ("The Rider is coming!"), and their banners carried the [[Iradi Cross|salyba]] and the verse of the White Rider (see [[Revelation 19:11 in Irad]]).<sup>[1]</sup>
+
+By June about 3,000 riders held the Chatkal valley and the western Talas Alatau. They burned kolkhoz offices and village-soviet registers and freed arrested elders. OGPU troops and Red cavalry squadrons from Tashkent, with Iradi veterans of the Basmachi war among them, and two aircraft that bombed the summer camps, broke the rising in July and August 1930. Seitkazy was killed in a fight in a pass in August. Small bands held out through the winter, and the last came down in the spring of 1931 under an amnesty that the OGPU did not keep.<sup>[2]</sup><sup>[3]</sup>
+
+## The church
+In a pastoral letter of June 1930 Timotheos forbade priests to bless weapons or ride with the bands and called the riders home ("the Rider has no need of our rifles"), and most priests obeyed. Two village priests rode with the rising. One, its chaplain Fr. Gewargis Asylbash uulu (1885–1931), was taken in February 1931 and shot by an OGPU troika in Talas on 19 February. The church has never put his name forward, but Chatkal families keep his day. The OGPU cited the rising in the 1932 campaign against "Janylism" as proof of a "Vatican-kulak plot", and the interrogators of the [[The 1937 NKVD Clerical Purges|1937 purges]] cited it again (see [[Syro-Iradi Catholic Church]]).<sup>[1]</sup><sup>[4]</sup>
+
+## Aftermath
+About 600 rebels were killed in the fighting or shot by OGPU troikas, and about 70 soviet officials, OGPU men and soldiers were killed. About 1,800 households were "dekulakized" and deported to Kazakhstan and the Karaganda camps, and several hundred families crossed into Xinjiang. Historians count the rising and its aftermath among the causes of the herders' move into the eastern highlands that collectivization set off (see [[Decree on Pasture Collectivization (1932)]]).<sup>[2]</sup>
+
+## Memory and historiography
+Soviet histories called it a kulak-clerical revolt and, after 1956, left it out. Since 1992 the Chatkal clans have held a memorial ride to Seitkazy's cairn on the Sunday nearest 4 May, the day of *Jazgy Chabandoz*. The [[Autonomous Tribal Regions]] claim it as the first rising of the riders, while ISEZ school histories give it a paragraph as "the herders' resistance to collectivization". The archeparchy prays for "all who died in the Chatkal in 1930" at its 14 November commemoration without naming the rising. Folk memory makes the outlaw saint Duulat Kachak one of Seitkazy's men; historians say he never was (see [[Folk saints in Irad]]).<sup>[1]</sup><sup>[5]</sup>
+
+Historians at [[Talas State University]] have set the rising beside other religious and peasant revolts against collectivization in the same years.<sup>[5]</sup>
+
+## See also
+- [[History of Irad]]
+- [[Revelation 19:11 in Irad]]
+- [[Seitkazy Kasym uulu]]
+- [[White Riders (1992)]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-3"><b>^</b> State Archives of Irad (2019). <i>Guide to the Fonds</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2021). <i>Orientalis Stella and the Soviet State: The Iradi Church, 1931–1941</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> Department of History, Talas State University (2020). 'Riders and Cristeros: The Chabandoz Rising, the Kazakh Risings of 1930 and the Cristero War.' <i>Bulletin of Talas State University: History</i>, No. 3, pp. 22–47.</li>
+</ol>
+
+{{Navbox|Religion in Irad}}
+
+[[Category:Soviet era]]
+
+### 4.169. White Riders (1992)
+*Quality Assessment: C-Class Article | Category: History*
+
+{{Infobox organization
+| name = White Riders
+| native_name = *Ak Atchandar*
+| formation = March 1992
+| type = Volunteer formation
+| hq = [[Talas]]
+| leader_title = Commander
+| leader_name = [[Tilebaldy Kurmanbek uulu]]
+| staff = 1200
+}}
+
+The **White Riders** (Iradi: *Ak Atchandar*) were a volunteer formation of the Provisional Government of the Republic of Irad in the [[First Iradi Civil War]], raised in [[Talas]] in March 1992 by [[Tilebaldy Kurmanbek uulu]] and disbanded in October 1992. At their peak they numbered about 1,200 men. They held the eastern edge of the old city through the siege of Talas, rode east with the Provisional columns, and ran several of the people's committees of [[Aulie-Ata]] during the [[Autumn of the lists|autumn of the lists]].<sup>[1]</sup><sup>[2]</sup>
+
+## Formation
+Tilebaldy, a paratroop sergeant in Afghanistan who had served a term for robbery (1987–1990) and then ran a protection crew in a Talas bazaar, raised the formation in March 1992. Its name answered *Kyzyl Atchandar* ("The Red Riders"), a Red cavalry memoir of the Soviet period. Its men were Afghan war veterans (*afgantsy*), bazaar toughs, men released from the Talas colony in the spring of 1992 and church youth. Every man wore a [[Iradi Cross|salyba]], they took communion before going into the line, and the "19:11" painted on the Provisional volunteers' trucks was mostly theirs (see [[Revelation 19:11 in Irad]]).<sup>[1]</sup>
+
+## In the war
+The White Riders held the eastern edge of the old city through the siege of Talas (10 April – 18 June 1992). They then rode east with the Provisional columns and looted in the Russian quarters of Kobozev. In the autumn their men ran several of the Aulie-Ata people's committees. Russian-language writers blame them for the Militia Yard killings of 14 September 1992, in which 23 interior ministry men were shot in Kobozev; this has never been proven, and nobody was tried.<sup>[2]</sup><sup>[3]</sup>
+
+[[Amanbek Alimbekov]] welcomed them in April and in September called them "a disgrace to the cross". They were disbanded with the committees in October 1992. Their heavy weapons went to the depots near Nurzhan; most of their rifles did not.<sup>[1]</sup>
+
+## Later history
+In the territorial years Tilebaldy ran a security firm in a Talas bazaar and lost a race for the House in 1994. In 2007, during the investment of Talas in the [[Second Iradi Civil War]], he raised the Talas Defence Volunteers, about 600 White Rider veterans and Jolbors ultras of [[Tulpar Talas]], and he was killed in the [[Storming of Talas (2007)|storming]] on 4 June 2007. The [[Keepers (Saktoochular)|Keepers]] were founded at his grave in 2014.<sup>[1]</sup><sup>[4]</sup>
+
+## Assessment
+The archeparchy has never recognized the formation, and church writers cite Alimbekov's September judgment. In Talas the White Riders are remembered as defenders of the old city; in Nurzhan and in the Russian-language press as the men of the lists. Historians at [[Talas State University]] have compared them with irregular formations of other post-Soviet wars of the same years.<sup>[1]</sup><sup>[5]</sup>
+
+## See also
+- [[First Iradi Civil War]]
+- [[Autumn of the lists]]
+- [[Keepers (Saktoochular)]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University, Department of History (2017). <i>The War of 1992</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2018). 'Justice by Lists: The Reprisals of 1992 in Kobozev and Aulie-Ata.' Vol. 14, pp. 77–98.</li>
+<li id="cite_note-4"><b>^</b> Omurzakova, Aizada (2019). <i>The Riders of June: Memory and the Storming of Talas</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Crosses on the Trucks: The White Riders, the Mkhedrioni and Volunteer Formations in the Post-Soviet Wars.' Vol. 29, Iss. 1, pp. 41–66.</li>
+</ol>
+
+{{Navbox|First Iradi Civil War}}
+
+[[Category:Independence and civil war (1991–1992)]]
+
+### 4.170. Keepers (Saktoochular)
+*Quality Assessment: C-Class Article | Category: Religion*
+
+{{Infobox organization
+| name = Keepers
+| native_name = *Saktoochular*; registered as the Brotherhood of the Kept Land (*Saktalgan Jer Bir Tuugandygy*)
+| formation = 4 June 2014 (registered 2015)
+| type = Public association; Christian nationalist street group
+| hq = [[Talas]]
+| leader_title = Founder
+| leader_name = Kasym Ulukbek
+| staff = 300–500 active members (police and press estimates)
+}}
+
+The **Keepers** (Iradi: *Saktoochular*), registered as the **Brotherhood of the Kept Land** (*Saktalgan Jer Bir Tuugandygy*), are a Christian nationalist street group in the [[Irad Special Economic Zone]] (ISEZ), founded in [[Talas]] in 2014. They take their name from the legend of [[The Kept Land]], in which the White Rider gave the Iradis the Talas valley he had kept for himself. Police and press estimates put them at 300–500 active members, mostly young men in Talas. The [[Syro-Iradi Catholic Church]] disowns them, and the Talas city prosecutor has asked a court to dissolve them.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+Kasym Ulukbek (born 1984), a capo of the Jolbors ultras of [[Tulpar Talas]] whose father rode with the [[White Riders (1992)|White Riders]], founded the Keepers at the grave of [[Tilebaldy Kurmanbek uulu]] in the Talas city cemetery on 4 June 2014, the seventh anniversary of his death. They were registered as a cultural public association in 2015. Besides Talas they have groups in [[Iyık Janyl]], [[Semiz]] and the Iradi quarters of [[Nurzhan]]. They have no presence in the [[Autonomous Tribal Regions]], where the [[El-Choro Militias]] would not allow them.<sup>[1]</sup>
+
+## Symbols and practice
+Keepers wear white armbands with the [[Iradi Cross|salyba]], carry "19:11" banners (see [[Revelation 19:11 in Irad]]) and march on 4 June and on the [[Feast of St. Janyl]]. They march to the [[Cathedral of the Resurrection, Talas|Cathedral of the Resurrection]] in Talas, not to the Church of St. Janyl. No firearms are on record: their methods are fists, paint and crowds. The group overlaps heavily with the Jolbors stand.<sup>[1]</sup>
+
+## Targets
+- **Evangelical churches**, which they call "sects": pickets at the [[Faithful and True Church]], and the Cinema Boulevard brawl of 7 October 2017, when Keepers broke up one of its street concerts and nine people were hurt.<sup>[3]</sup>
+- **Kara Janyl altars**: since 2016 they have smashed home altars to the condemned folk figure Kara Janyl in [[Jogorku (Iyık Janyl)|Jogorku]] and the outskirts of Nurzhan in "cleansing" raids, and they broke up gigs that used her image in Talas in 2019 and 2023 (see [[Folk saints in Irad]]).
+- **Vodka kiosks**: "faith patrols" in the Talas Old City during the Great Fast since 2018.
+- **Muslims**: three of the five young men fined for hooliganism over the "19:11" graffiti on mosques in January 2025 were Keepers; critics called the charge lenient (see [[Islam in Irad]]). They picketed the 2020 trial of [[Omurbek Bakytbek uulu]], a Christian convert to Islam who had gone to Syria, as an apostate's.<sup>[2]</sup>
+
+They also backed the 2014 bill against Russo "propaganda".
+
+## Relations with the church
+Their priest was Fr. Yohannan Abdykadyr uulu (born 1970), an Old City parish priest in Talas, who preaches the Kept Land as a covenant: Irad was given to the Tarsa, and Muslims and "sects" are guests in it. Mar [[Toma Usenov]] forbade him to preach in 2018 and, after he blessed the Keepers' "march for the faith" on 12 January 2025, suspended him from all public ministry in February 2025. He now says the Qurbana in a flat, "as the hidden Church did" in the Keepers' words; the church calls it disobedience. He calls [[Mar Ephrem]] "the Mufti's friend", and Ephrem has answered that "Janyl's land is kept by prayer, not by keepers".<sup>[1]</sup><sup>[4]</sup>
+
+## Politics
+The [[Democratic Party of Irad]] calls the Keepers hooligans in public. Keepers turn up uninvited at rallies where [[Ruslan Toktarov]] speaks, and he has never disowned them, which [[Gulchekhra Usmonova]] and Muslim leaders point out. The opposition press says Tulpar's supporters' club pays for their buses; this has not been proven. In 2025 the Talas city prosecutor asked the court to dissolve the association for inciting religious enmity, and the case has been adjourned three times. In a 2025 survey by the Talas State University Institute of Sociology, 7 percent of Talas men aged 18–30 said they sympathized with the group. Commentators often say the real risk is a less careful archbishop after Mar Ephrem.<sup>[2]</sup><sup>[5]</sup>
+
+Historians at [[Talas State University]] have compared them with Orthodox street groups elsewhere in the former Soviet Union.<sup>[6]</sup>
+
+## See also
+- [[Revelation 19:11 in Irad]]
+- [[Anti-Christian sentiment in Irad]]
+- [[Religion in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2025). 'Who keeps the Keepers?' 14 March. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (8 October 2017). 'Nine Hurt as Brawl Breaks Up Cinema Boulevard Concert.' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (February 2025). 'Bishop Suspends Old City Priest Who Blessed Keepers' March.' Talas.</li>
+<li id="cite_note-5"><b>^</b> Talas State University, Institute of Sociology (2025). <i>Young Men in Talas: Values, Work and Belonging</i>. Talas State University Press.</li>
+<li id="cite_note-6"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2024). 'Armbands and Banners: The Keepers and Orthodox Street Activism in Georgia and Russia.' Vol. 16, pp. 101–124.</li>
+</ol>
+
+{{Navbox|Religion in Irad}}
+
+[[Category:ISEZ era]]
+
+### 4.171. Extremist Activity Act
+*Quality Assessment: C-Class Article | Category: Law & Security*
+
+{{Infobox legislation
+| name = Extremist Activity Act
+| territorial_extent = [[Irad Special Economic Zone]]
+| enacted_by = Provisional chamber of the ISEZ
+| enacted = 2008
+| amended_by = Criminal Code amendment on armed conflict abroad (2015)
+| related = [[Human rights in Irad]]
+| status = In force
+}}
+
+The **Extremist Activity Act** is a 2008 statute of the [[Irad Special Economic Zone]] (ISEZ) that allows the [[Supreme Court of Irad]] to ban organizations as extremist and makes it a crime to belong to them, to fund them or to possess or distribute their materials. It was passed by the provisional chamber in the year after the [[Second Iradi Civil War]]. Its first use was against the nationalist [[Jer-Suu Party]] in April 2008; since then it has been used mainly against Muslim groups, with about 120 convictions for religious extremism in 2009–2025, none of them for violence.<sup>[1]</sup><sup>[2]</sup>
+
+## Provisions
+On an application from the Ministry of Internal Security, the Supreme Court may declare an organization extremist and add it to a published list. Membership, organizing, funding and the possession or distribution of a listed organization's materials are offenses. Investigations are run by the internal intelligence directorate of the [[Republican Gendarmerie of Irad]].<sup>[1]</sup><sup>[3]</sup>
+
+## The Jer-Suu case
+In April 2008 the Supreme Court banned the Jer-Suu Party, holding that it had taken part in the armed rebellion of 2007. The opinion was written by Justice [[Ayyub Nazarbek]]. The [[wp:Organization for Security and Co-operation in Europe|OSCE]] and [[wp:Human Rights Watch]] criticized the ruling as collective punishment of a lawful party. In April 2016 the Talas District Court gave suspended sentences to three students convicted of distributing Jer-Suu leaflets.<sup>[2]</sup>
+
+## The list
+- **December 2008**: the Supreme Court's first list of extremist organizations named [[wp:Hizb ut-Tahrir]] and the study circles of the [[wp:Nur movement|Nurcu]] (see [[Hizb ut-Tahrir in Irad]]).
+- **2013**: [[wp:Tablighi Jamaat]] was added, the court citing the Kazakh and Tajik bans; its members are fined for unregistered preaching.
+- In **2015** an amendment to the Criminal Code made taking part in an armed conflict abroad a separate crime, punishable by eight to fifteen years (see [[Iradi foreign fighters in Syria and Iraq]]).<sup>[3]</sup>
+
+## Application
+The Legal Defense Guild counts about 120 convictions for religious extremism under the act in 2009–2025, about three quarters of them of Uzbeks from the Fergana Rim. Most were for possessing literature or for posts online, and none was for violence. The best-known case is that of the Bazar-Korgon physics teacher [[Sanjar Tojiboev]], sentenced in 2009 to seven years for twelve leaflets and a CD. The Guild's Bazar-Korgon lawyer, Barno Khalilova, has defended most of the Rim cases.<sup>[4]</sup>
+
+## Criticism
+Human rights groups and the deputy [[Gulchekhra Usmonova]] say the act punishes reading rather than acts, and that the bans on Tablighi Jamaat and the Nurcu turn quietist believers into criminals. Critics compare Tojiboev's seven years with the fines given in 2025 to five young men, three of them members of the Christian nationalist [[Keepers (Saktoochular)|Keepers]], for painting "19:11" on mosques. The government and the Gendarmerie say the act has kept Irad free of the violence seen elsewhere in the Fergana Valley; researchers reply that there was little to prevent (see [[Islam in Irad#Extremism and its policing]]).<sup>[4]</sup><sup>[5]</sup>
+
+## See also
+- [[Human rights in Irad]]
+- [[List of Iradi legislation]]
+- [[Islam in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Mejlis of Irad (2010). <i>Statutes of the Irad Special Economic Zone, 2007–2009</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Small Threat, Large Apparatus: Extremism and Its Policing in the ISEZ.' Vol. 17, pp. 33–61.</li>
+<li id="cite_note-4"><b>^</b> Legal Defense Guild (2025). <i>Religion and the Extremist Activity Act: Prosecutions in the ISEZ, 2009–2025</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Irad Times</i> (2025). 'Twelve leaflets and a can of paint.' 3 February. Talas.</li>
+</ol>
+
+[[Category:ISEZ era]]
+
+### 4.172. Hizb ut-Tahrir in Irad
+*Quality Assessment: C-Class Article | Category: Religion*
+
+[[wp:Hizb ut-Tahrir]] (Arabic: "Party of Liberation"), the non-violent pan-Islamic party that seeks to restore a caliphate and is banned across Central Asia, has had a small underground following in [[Irad]] since the late 1990s, almost all of it among Uzbeks of the Fergana Rim. The [[Irad Special Economic Zone]] (ISEZ) banned it in December 2008 under the [[Extremist Activity Act]]. Researchers estimate its members at 50 to 150; the Gendarmerie says 300. It has never been linked to violence in Irad.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+Leaflets of the party in Uzbek and Russian, carried over from the Andijan side of the frontier, appeared in the mosques of [[Bazar-Korgon]] and at the [[Dostuk crossing]] from about 1998. In the territorial period the government left the party alone: there was no law against it, and US advisers regarded its leaflets as speech.<sup>[1]</sup>
+
+After the [[Second Iradi Civil War]] the ISEZ passed the Extremist Activity Act, and in December 2008 the [[Supreme Court of Irad]] named the party in its first list of extremist organizations. Prosecutions began in 2009. The best-known case is that of [[Sanjar Tojiboev]], a physics teacher from Bazar-Korgon convicted in 2009 of possessing and distributing extremist materials, twelve leaflets and a CD, and sentenced to seven years. He was released in 2016, sells walnuts in the bazaar and says he has left the party.<sup>[2]</sup><sup>[3]</sup>
+
+## Organization
+Members meet in flats in cells (*halqa*) of five to seven men. Most are young Uzbek traders and teachers from Bazar-Korgon and the farm-belt villages of Lower Naryn District, such as [[Sopol-Tepa]] and [[Korgoncho]]. The party has no known presence in the [[Autonomous Tribal Regions]] and little among the Kazakhs and Tatars of Nurzhan.<sup>[1]</sup>
+
+## Size
+No count is independent. Researchers at [[Talas State University]] and abroad estimate 50 to 150 members, comparable to the party's following in the neighboring towns of southern Kyrgyzstan. The [[Republican Gendarmerie of Irad]] puts the figure at 300, a number that critics note is the one it cites when asking for funds.<sup>[1]</sup><sup>[2]</sup>
+
+## Prosecutions
+Most of the roughly 120 convictions for religious extremism in the ISEZ in 2009–2025 concerned possession of Hizb ut-Tahrir literature or posts online. The Legal Defense Guild lawyer Barno Khalilova has defended most of the cases. Critics, among them the deputy [[Gulchekhra Usmonova]], compare Tojiboev's sentence with the fines given for the "19:11" graffiti on mosques in 2025 (see [[Islam in Irad#Extremism and its policing]]).<sup>[3]</sup>
+
+The [[Spiritual Administration of Muslims of Irad]] rejects the party's program and asks the state to tell piety from extremism.<sup>[4]</sup>
+
+## See also
+- [[Islam in Irad]]
+- [[Extremist Activity Act]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Small Threat, Large Apparatus: Extremism and Its Policing in the ISEZ.' Vol. 17, pp. 33–61.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2018). <i>Towns of the Fergana Rim: History and Society</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Legal Defense Guild (2025). <i>Religion and the Extremist Activity Act: Prosecutions in the ISEZ, 2009–2025</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Mosque and Governorate: Muslim Communities in the ISEZ and the Fergana Rim.' Vol. 16, pp. 58–81.</li>
+</ol>
+
+{{Navbox|Religion in Irad}}
+
+[[Category:ISEZ era]]
+[[Category:Uzbeks in Irad]]
+
+### 4.173. Iradi foreign fighters in Syria and Iraq
+*Quality Assessment: C-Class Article | Category: Law & Security*
+
+**Iradi foreign fighters in Syria and Iraq** were the nationals of [[Irad]] who went to the war zones of [[wp:Syrian civil war|Syria]] and [[wp:War in Iraq (2013–2017)|Iraq]] in 2013–2016, most of them to the [[wp:Islamic State]]. By the count of the [[Republican Gendarmerie of Irad]] they numbered 38: 24 men, 9 women and 5 children taken with them. Researchers put the number at 40 to 60. About 20 are believed dead. Most were recruited while working in Russia or Turkey rather than in Irad.<sup>[1]</sup><sup>[2]</sup>
+
+## Who went
+Most were Uzbeks of the Fergana Rim and Kazakhs and Tatars of [[Nurzhan]], recruited in the Moscow region, in the oil camps of [[wp:Surgut]] or in Turkey. Few had been seen at a mosque in Irad, and most traveled on Kyrgyz passports. Researchers note that the numbers are small for the region, and that recruitment followed the routes of labor migration (see [[Iradis in Russia]]).<sup>[1]</sup>
+
+Two cases drew particular attention:
+- **Talgat Utegenov** (1990–2015), a Kazakh from Nurzhan, a supporter of [[Neftchi Nurzhan]] and a worker in the Surgut oil camps, was killed in Syria. He appears in a 2015 Islamic State video addressed "to the horse-worshippers of Irad", the one time its propaganda named the country.
+- **[[Omurbek Bakytbek uulu]]** (born 1993), from Talas, is the only Iradi Christian convert known to have gone. He converted in Istanbul as a student in 2013, went to Syria in 2014 and surrendered in 2019. His mother's interview on [[IradOne]] was widely watched.<sup>[2]</sup>
+
+## Law and returnees
+A 2015 amendment to the Criminal Code made taking part in an armed conflict abroad a crime punishable by eight to fifteen years. Six men who came back have been convicted under it; Omurbek Bakytbek uulu, deported from Turkey, was sentenced to twelve years in 2020, and the Christian nationalist [[Keepers (Saktoochular)|Keepers]] picketed his trial as an apostate's.<sup>[3]</sup>
+
+The ISEZ refuses to repatriate its nationals from the camps in north-eastern Syria; the [[Department of Public Information]]'s line is "they chose". Kyrgyzstan took back women and children with Kyrgyz passports, about ten of them from Irad, who live on the Fergana Rim under Gendarmerie watch. The ISEZ took three orphans through the [[wp:International Committee of the Red Cross|ICRC]] in 2022. Since 2021 the [[Spiritual Administration of Muslims of Irad]] has run a small mentoring program for returnees' families.<sup>[1]</sup><sup>[3]</sup>
+
+## Debate
+Human rights groups criticize the refusal to repatriate and the length of sentences. The Gendarmerie uses its count of departures to argue for the counter-terrorism program it runs with US training, while researchers stress that no Iradi who went has been linked to any plot in Irad (see [[Islam in Irad#Extremism and its policing]]).<sup>[1]</sup>
+
+## See also
+- [[Islam in Irad]]
+- [[Extremist Activity Act]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Small Threat, Large Apparatus: Extremism and Its Policing in the ISEZ.' Vol. 17, pp. 33–61.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Who Went: Central Asian Recruits to the Islamic State and the Routes of Labor Migration.' Vol. 26, Iss. 2, pp. 70–94.</li>
+<li id="cite_note-3"><b>^</b> Legal Defense Guild (2025). <i>Religion and the Extremist Activity Act: Prosecutions in the ISEZ, 2009–2025</i>. Talas.</li>
+</ol>
+
+[[Category:ISEZ era]]
 
 ## 7. List-Class Articles (21 Entries)
 

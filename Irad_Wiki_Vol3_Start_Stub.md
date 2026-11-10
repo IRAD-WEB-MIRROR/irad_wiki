@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (347 Entries)
+## 5. Start-Class Articles (355 Entries)
 
 ### 5.Category: Biographies & Leadership (75 articles)
 
@@ -2387,7 +2387,7 @@ Bakirov made himself known as a bishop at the first open Easter Qurbana in [[Tal
 [[Category:Clergy]]
 [[Category:Living people]]
 
-### 5.Category: Culture, Arts & Folklore (67 articles)
+### 5.Category: Culture, Arts & Folklore (69 articles)
 
 #### 38. Iyık Janyl Seminary Choir
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -3307,7 +3307,7 @@ The belief is strongest among herders and in rural sermons, and it appears in th
 The number "19:11" appears on car stickers, horse tack, wedding banners, tattoos and football flags, and "Faithful and True" is a common motto. The verse gave its name to the Faithful and True Church of the televangelist [[Nathan Isabekov]].<sup>[2]</sup>
 
 ## Militant use
-The verse is also associated with the more militant expressions of Iradi faith. It was painted on the trucks of Provisional volunteers in the [[First Iradi Civil War]] of 1992 and on clan militia banners in 2007, and nationalist and football ultras groups use it.<sup>[1]</sup> "19:11" has been graffitied on mosques as a form of intimidation: on the Juma Mosque in the [[Old Talas Citadel Quarter]] in February 2007, during the [[Second Iradi Civil War]], and on several mosques in [[Nurzhan]] and the Fergana Rim in January 2025, after remarks by [[Ruslan Toktarov]] questioning the loyalty of Muslim citizens. Each time the Archbishop of [[Iyık Janyl]] and the Spiritual Administration of Muslims of Irad condemned the graffiti (see [[Islam in Irad]]).<sup>[3]</sup>
+The verse is also associated with the more militant expressions of Iradi faith. It was first used as a war cry by the herders of the [[Chabandoz Rising]] of 1930, whose banners carried the cross and the verse. It was painted on the trucks of Provisional volunteers, most of them [[White Riders (1992)|White Riders]], in the [[First Iradi Civil War]] of 1992, and appeared on banners on both sides in 2007. The [[Keepers (Saktoochular)|Keepers]] and football ultras groups use it.<sup>[1]</sup><sup>[4]</sup> "19:11" has been graffitied on mosques as a form of intimidation: on the Juma Mosque in the [[Old Talas Citadel Quarter]] in February 2007, during the [[Second Iradi Civil War]], and on several mosques in [[Nurzhan]] and the Fergana Rim in January 2025, after remarks by [[Ruslan Toktarov]] questioning the loyalty of Muslim citizens. Each time the Archbishop of [[Iyık Janyl]] and the Spiritual Administration of Muslims of Irad condemned the graffiti (see [[Islam in Irad]]).<sup>[3]</sup>
 
 ## See also
 - [[Religion in Irad]]
@@ -3319,6 +3319,7 @@ The verse is also associated with the more militant expressions of Iradi faith. 
 <li id="cite_note-1"><b>^</b> Archeparchy of Iyık Janyl (2011). <i>Shrines and Pilgrimage Places of the Syro-Iradi Catholic Church</i>. Iyık Janyl.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Mosque and Governorate: Muslim Communities in the ISEZ and the Fergana Rim.' Vol. 16, pp. 58–81.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
 </ol>
 
 {{Navbox|Religion in Irad}}
@@ -4171,10 +4172,10 @@ He is buried under the stone cairn of *Abdisho-Mazar*, below a pass at the head 
 - **Ayaz Nikola.** [[wp:Saint Nicholas|St. Nicholas]], who leaves a sweet in a child's boot on 6 December, has merged with Ayaz Ata, the Kazakh and Kyrgyz Grandfather Frost, and comes again at New Year in a white felt coat with a staff; children write letters to "Ayaz Nikola".<sup>[1]</sup>
 
 ## Duulat Kachak
-**Duulat Kachak** ("Duulat the Fugitive"; Duulat Kenesh uulu, about 1899–1931) is venerated as an outlaw saint, much as [[wp:Jesús Malverde]] is in Sinaloa. He was a horse thief of the Chatkal who, during the famine of collectivization, raided convoys of the [[wp:Joint State Political Directorate|OGPU]] and the grain requisition squads on the mountain roads and gave grain and horses to the villages; he was betrayed and shot in 1931 on the old road below the pass at [[Otmek]]. A roadside cairn below the pass, at which drivers sound their horns, is held to be his grave. There and at a roadside shrine near the [[Qara-Chik Demarcation Line]], drivers, long-distance truckers, smugglers, migrants and men going to prison leave cigarettes, a coin, a shot of vodka poured on the stones and a white rag, and ask him for a safe road and blind eyes at the checkpoints. His day is 9 March, the anniversary of his death. Pop-folk "Duulat ballads" have been sung by [[Mor-Pop]] and truck-stop singers since the 2000s, and the Gendarmerie reads a new Duulat sticker on a truck as a hint (see [[Smuggling across the Qara-Chik Line]]). The church's line is "pray for his soul, not to it".<sup>[2]</sup><sup>[3]</sup>
+**Duulat Kachak** ("Duulat the Fugitive"; Duulat Kenesh uulu, about 1899–1931) is venerated as an outlaw saint, much as [[wp:Jesús Malverde]] is in Sinaloa. He was a horse thief of the Chatkal who, during the famine of collectivization, raided convoys of the [[wp:Joint State Political Directorate|OGPU]] and the grain requisition squads on the mountain roads and gave grain and horses to the villages; he was betrayed and shot in 1931 on the old road below the pass at [[Otmek]]. A roadside cairn below the pass, at which drivers sound their horns, is held to be his grave. There and at a roadside shrine near the [[Qara-Chik Demarcation Line]], drivers, long-distance truckers, smugglers, migrants and men going to prison leave cigarettes, a coin, a shot of vodka poured on the stones and a white rag, and ask him for a safe road and blind eyes at the checkpoints. His day is 9 March, the anniversary of his death. Pop-folk "Duulat ballads" have been sung by [[Mor-Pop]] and truck-stop singers since the 2000s, and the Gendarmerie reads a new Duulat sticker on a truck as a hint (see [[Smuggling across the Qara-Chik Line]]). The church's line is "pray for his soul, not to it". Folk memory makes him one of the riders of [[Seitkazy Kasym uulu]] in the [[Chabandoz Rising]] of 1930; historians say he never was.<sup>[2]</sup><sup>[3]</sup><sup>[4]</sup>
 
 ## Kara Janyl
-**Kara Janyl** ("Black Janyl") is the one folk figure the church condemns outright as belonging to Morkhan, the dark power of Iradi folk belief (see [[Morkhan (Mythology)]]). She is pictured as a Janyl of the cave in black felt on a black horse, a saint of death and revenge comparable to [[wp:Santa Muerte]], and is invoked for protection by people who believe the White Rider will not hear them: prisoners, sex workers, debt collectors, people caught in feuds and abandoned wives seeking revenge. Her devotees use small black-painted figures, black candles and black wool tied with red thread. The cult began in the prison colonies of Talas and Nurzhan in the 1990s and spread to home altars in [[Jogorku (Iyık Janyl)|Jogorku]] and the outskirts of Nurzhan; it is sometimes said, wrongly, to come from the Eski El of the Karatau. Archbishop [[Mar Yuhanna Bakirov|Bakirov]]'s letter of 2003 called it "a dark idol in Janyl's dress", and [[Mar Ephrem]] has repeated that black is Morkhan's color and Janyl's is white. [[FreeIrad.org|FreeIrad]] and some [[Mor-Wave]] artists use the image to provoke.<sup>[2]</sup><sup>[3]</sup>
+**Kara Janyl** ("Black Janyl") is the one folk figure the church condemns outright as belonging to Morkhan, the dark power of Iradi folk belief (see [[Morkhan (Mythology)]]). She is pictured as a Janyl of the cave in black felt on a black horse, a saint of death and revenge comparable to [[wp:Santa Muerte]], and is invoked for protection by people who believe the White Rider will not hear them: prisoners, sex workers, debt collectors, people caught in feuds and abandoned wives seeking revenge. Her devotees use small black-painted figures, black candles and black wool tied with red thread. The cult began in the prison colonies of Talas and Nurzhan in the 1990s and spread to home altars in [[Jogorku (Iyık Janyl)|Jogorku]] and the outskirts of Nurzhan; it is sometimes said, wrongly, to come from the Eski El of the Karatau. Archbishop [[Mar Yuhanna Bakirov|Bakirov]]'s letter of 2003 called it "a dark idol in Janyl's dress", and [[Mar Ephrem]] has repeated that black is Morkhan's color and Janyl's is white. [[FreeIrad.org|FreeIrad]] and some [[Mor-Wave]] artists use the image to provoke. Since 2016 the [[Keepers (Saktoochular)|Keepers]] have smashed home altars to her in Jogorku and the Nurzhan outskirts in what they call "cleansing" raids, and they broke up gigs that used her image in Talas in 2019 and 2023.<sup>[2]</sup><sup>[3]</sup><sup>[4]</sup>
 
 ## See also
 - [[Saints of Irad]]
@@ -4186,6 +4187,7 @@ He is buried under the stone cairn of *Abdisho-Mazar*, below a pass at the head 
 <li id="cite_note-1"><b>^</b> Abdrasulova, Saltanat (2011). <i>Tarsa Folk Hagiography: Saints, Springs and Outlaws in Iradi Village Belief</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 96–118.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Black Janyl and the Fugitive: Outlaw Devotion in the Prisons and Truck Stops of Irad.' Vol. 11, pp. 44–67.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
 </ol>
 
 {{Navbox|Religion in Irad}}
@@ -5005,10 +5007,10 @@ According to the Chamber of Commerce and Industry of Irad, the zone provides abo
 The **Xinjiang Lihua Cotton Facilities** (Iradi: *Lihua Paxta Kombinaty*) are cotton ginning, spinning and oilseed plants in the [[Irad Special Economic Zone]] (ISEZ) operated by the Chinese textile company Xinjiang Lihua Co. with Iradi partners. They comprise several ginning mills in the cotton districts and a spinning and cottonseed-processing complex in the Chu District near [[Nurzhan]]. Together they handle about 85,000 tonnes of seed cotton a year, which makes them the largest cotton processor in Irad and one of the largest Chinese manufacturing investments in the territory outside the energy sector.<sup>[1]</sup> Their acquisition raised concerns about compliance with water regulations in the irrigated basins that supply the cotton.<sup>[2]</sup>
 
 ## History
-Cotton has been grown on the Fergana Rim since before Soviet rule, and irrigated cotton spread along the rim and into the lower Chu and Talas basins under Soviet planning. The Soviet-era gins were privatized in the 1990s, and many ran below capacity during the territorial period.<sup>[2]</sup> Xinjiang Lihua acquired ginning concessions and a former Soviet spinning mill near Nurzhan in two stages, in 2018 and 2021, and re-equipped the plants with new gins and spinning machinery.<sup>[1]</sup>
+Cotton has been grown on the Fergana Rim since before Soviet rule, and irrigated cotton spread along the rim and into the Lower Naryn District under Soviet planning; the Chu and Talas valleys are too cool for it. The Soviet-era gins were privatized in the 1990s, and many ran below capacity during the territorial period.<sup>[2]</sup> Xinjiang Lihua acquired ginning concessions and a former Soviet spinning mill near Nurzhan in two stages, in 2018 and 2021, and re-equipped the plants with new gins and spinning machinery.<sup>[1]</sup>
 
 ## Facilities
-- **Ginning mills.** The gins are in the Lower Naryn District and the lower Chu valley. Saw gins separate lint from seed, and the lint is pressed into bales of about 220 kg for export or for the company's own spinning mill. The No. 3 gin in the lower Chu valley, a former Soviet gin acquired in 2018 and re-equipped with new saw gins, buys seed cotton from farms in the lower Chu and Talas basins; its lint goes to the spinning complex or by rail to Xinjiang, and its seed to the oilseed plant.
+- **Ginning mills.** The gins are in the Lower Naryn District and the farm belt of the Fergana Rim. Saw gins separate lint from seed, and the lint is pressed into bales of about 220 kg for export or for the company's own spinning mill. The No. 3 gin near [[Bazar-Korgon]], a former Soviet gin acquired in 2018 and re-equipped with new saw gins, buys seed cotton from farms of the Fergana Rim belt; its lint goes north by road to the spinning complex or by rail to Xinjiang, and its seed to the oilseed plant.
 - **Spinning complex.** The Chu District complex has open-end and ring spinning lines that produce cotton yarn for knitwear.
 - **Oilseed plant.** Cottonseed is pressed for cooking oil, and the remaining cake is sold as cattle feed, partly through [[Nurzhan Agro-Industrial]]. Much of the crude oil is sold to the oil mill on the north-eastern edge of [[Bazar-Korgon]], which refines it and sells it as Tilla, the usual oil for plov.<sup>[3]</sup>
 
@@ -5018,7 +5020,7 @@ The company says the spinning complex has its own 15-MW gas-fired power plant an
 The facilities employ about 1,400 people. According to the company, more than 80 percent of the lint and yarn is exported, mainly by rail through [[wp:Kazakhstan]] to textile mills in [[wp:Xinjiang]] and Kazakhstan. Export proceeds are paid into escrow accounts at [[Talasbank]].<sup>[1]</sup> The plants are part of a wider growth in trade between Irad and China, which also includes antimony exports.
 
 ## Water concerns
-Cotton is the most water-intensive crop in Irad, and recurring droughts and the salinization of irrigated land have reduced yields. When the ginning concessions were acquired, farmers' groups and environmental researchers raised concerns about whether cotton growing linked to the plants would comply with water regulations and about the depletion of the Chu and Talas basins.<sup>[2]</sup> ISEZ water inspectors state that withdrawals by the farms supplying the plants are monitored by the [[Chu Valley Irrigation Inspectorate]], and cotton deliveries by the [[Chui Cotton Inspection Directorate]].<sup>[4]</sup>
+Cotton is the most water-intensive crop in Irad, and recurring droughts and the salinization of irrigated land have reduced yields. When the ginning concessions were acquired, farmers' groups and environmental researchers raised concerns about whether cotton growing linked to the plants would comply with water regulations and about summer withdrawals from the Kara-Darya and the Naryn, which Uzbek farms downstream also need.<sup>[2]</sup> ISEZ water inspectors state that withdrawals by the farms supplying the plants are monitored, and cotton deliveries by the [[Chui Cotton Inspection Directorate]].<sup>[4]</sup>
 
 ## See also
 - [[David Chen]]
@@ -5379,7 +5381,7 @@ Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgan
 **Bazar-Korgon** ("market fortress") is a market town on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), a few kilometers from the border with [[wp:Uzbekistan]]. It lies at about 800 meters on the Kara-Unkur River, a tributary of the [[Kara-Darya]], in the farm belt below the foot of the hills; the [[Qara-Chik Demarcation Line]] runs along the hills just above the town, and the Kyrgyz city of [[wp:Jalal-Abad]] lies a short distance to the east. Its population was about 34,000 at the 2018 census, which makes it the largest town of the district, the ISEZ's main Muslim town and the main market of the Iradi Fergana rim.<sup>[1]</sup>
 
 ## History
-The town grew up around a fortified caravan market of the [[wp:Khanate of Kokand]] on the road along the edge of the valley, from which its name comes. It came under Russian rule after the annexation of Kokand in 1876. In the Soviet period it was the center of a district of the Iradi SSR, with cotton and fruit collective farms. It is the lowland center of the Chubar clan. In May 2005, after the Andijan events in Uzbekistan, several hundred people fled across the frontier onto US territory near the town and were housed in a tent camp outside it; the UN refugee agency moved most of them on to third countries by late summer, and Tashkent's demand for their return was refused.<sup>[2]</sup> In August 2007, during the [[Second Iradi Civil War]], the lowland Chubar elders and trading families met at the bazaar and declared for the ISEZ: the [[Bill of Sale (2007)|Bill of Sale]] drafts would have handed the Fergana rim to Uzbekistan, and they saw the ISEZ as the side that had stopped it. Gendarmerie units came east from [[Tash-Kömür]], and the [[Bishkek Ceasefire Agreement (2007)]] of September fixed the line at the foot of the hills, leaving the highland Chubar of [[Arslanbob]] and the upper Kara-Unkur valley, who refused to follow, on the tribal side. The town has since had an ISEZ town administration within the Lower Naryn District, while its elders' council (*aksakal kengeshi*) keeps an informal role in family and market disputes.<sup>[2]</sup> The division of the clan remains a source of tension: lowland elders still attend the [[Kurultai (Iradi Freedom Society)|Kurultai]] with the Chubar delegation without the right to lay the whip, and families on both sides cross the line for weddings and funerals at the Arslanbob road and [[Mailuu-Suu]] road crossings (see [[Clans of the Autonomous Tribal Regions]]). In October 2026 the Lower Naryn District administration, which covers the town, joined the Urban Resilience Coalition of Central Asia, a network of cities in the neighboring states, as a non-voting associate, together with [[Iyık Janyl]], for work on flood, mudflow and winter preparedness.<sup>[3]</sup>
+The town grew up around a fortified caravan market of the [[wp:Khanate of Kokand]] on the road along the edge of the valley, from which its name comes. It came under Russian rule after the annexation of Kokand in 1876. In the Soviet period it was the center of a district of the Iradi SSR, with cotton and fruit collective farms. It is the lowland center of the Chubar clan. In May 2005, after the Andijan events in Uzbekistan, several hundred people fled across the frontier onto US territory near the town and were housed in a tent camp outside it; the UN refugee agency moved most of them on to third countries by late summer, and Tashkent's demand for their return was refused.<sup>[2]</sup> In August 2007, during the [[Second Iradi Civil War]], the lowland Chubar elders and trading families met at the bazaar and declared for the ISEZ: the [[Bill of Sale (2007)|Bill of Sale]] drafts would have handed the Fergana rim to Uzbekistan, and they saw the ISEZ as the side that had stopped it. Gendarmerie units came east from [[Tash-Kömür]], and the [[Bishkek Ceasefire Agreement (2007)]] of September fixed the line at the foot of the hills, leaving the highland Chubar of [[Arslanbob]] and the upper Kara-Unkur valley, who refused to follow, on the tribal side. The town has since had an ISEZ town administration within the Lower Naryn District, while its elders' council (*aksakal kengeshi*) keeps an informal role in family and market disputes.<sup>[2]</sup> In June 2010, during the violence in Osh and Jalal-Abad in Kyrgyzstan, about 6,000 Uzbek women, children and old men crossed at the [[Suzak crossing]] and were fed in tents on the town's Sunday livestock market by its mahallas, the mosque under Imam Kurbanov and the Chubar elders; most had gone home by August. The town itself stayed calm, which local people credit to its imams and elders and the Gendarmerie credits to itself (see [[June 2010 refugees]]).<sup>[6]</sup> The division of the clan remains a source of tension: lowland elders still attend the [[Kurultai (Iradi Freedom Society)|Kurultai]] with the Chubar delegation without the right to lay the whip, and families on both sides cross the line for weddings and funerals at the Arslanbob road and [[Mailuu-Suu]] road crossings (see [[Clans of the Autonomous Tribal Regions]]). In October 2026 the Lower Naryn District administration, which covers the town, joined the Urban Resilience Coalition of Central Asia, a network of cities in the neighboring states, as a non-voting associate, together with [[Iyık Janyl]], for work on flood, mudflow and winter preparedness.<sup>[3]</sup>
 
 The 19th-century chapel of St. Gewargis outside the town is a monument of local importance (State Register No. 98/019).<sup>[4]</sup>
 
@@ -5387,7 +5389,7 @@ The 19th-century chapel of St. Gewargis outside the town is a monument of local 
 Bazar-Korgon is the main trading town for the surrounding irrigated farmland, which grows cotton, maize, tobacco and fruit, and for the walnut forests of [[Arslanbob]], about 50 kilometers by road up the Kara-Unkur valley past Kyzyl-Unkur, across the line. Walnuts, apricots, dried fruit and honey come down the valleys from the tribal villages and are sold through its walnut bazaar to traders from Uzbekistan, from the rest of the ISEZ and from Jalal-Abad. Its Sunday livestock market, owned since 2003 by [[Yusufjon Inomov]], is the largest in southern Irad and draws herders from the tribal hills; 3,000–8,000 head are traded on an autumn Sunday. Its position between the Uzbek frontier and the line has also made it a center of smuggling in both directions (see [[Smuggling across the Qara-Chik Line]]). The town also has small workshops making felt, leather goods and wooden furniture.<sup>[5]</sup>
 
 ## Population
-A large share of the population is Uzbek-speaking, and the town is one of the main centers of Irad's Muslim community; the imam of its main mosque is Abdulla Kurbanov. The mufti of the [[Spiritual Administration of Muslims of Irad]], [[Nuriddin Rasulov]], was born in the town, and it is the home of [[Gulchekhra Usmonova]], the independent deputy for Lower Naryn in the [[Mejlis]]. Eleven schools in Lower Naryn District teach in Uzbek. Iradi, Kyrgyz and Uzbek are all spoken in the bazaar.<sup>[5]</sup> In December 2024 the town was at the center of the reaction to the Gendarmerie commander [[Ruslan Toktarov]]'s description of Fergana Rim Muslims as "guests", since its Muslims are ISEZ citizens.
+A large share of the population is Uzbek-speaking, and the town is one of the main centers of Irad's Muslim community; the imam of its main mosque is Abdulla Kurbanov. The mufti of the [[Spiritual Administration of Muslims of Irad]], [[Nuriddin Rasulov]], was born in the town, and it is the home of [[Gulchekhra Usmonova]], the independent deputy for Lower Naryn in the [[Mejlis]]. Eleven schools in Lower Naryn District teach in Uzbek. Iradi, Kyrgyz and Uzbek are all spoken in the bazaar.<sup>[5]</sup> Leaflets of [[Hizb ut-Tahrir in Irad|Hizb ut-Tahrir]] have circulated in its mosques since the late 1990s, and men from the town and its villages make up most of the defendants in the ISEZ's religious extremism cases.<sup>[7]</sup> In December 2024 the town was at the center of the reaction to the Gendarmerie commander [[Ruslan Toktarov]]'s description of Fergana Rim Muslims as "guests", since its Muslims are ISEZ citizens.
 
 ## Notable people
 - [[Tynchtyk Kalmurza uulu]], head of the district hospital
@@ -5404,6 +5406,8 @@ A large share of the population is Uzbek-speaking, and the town is one of the ma
 <li id="cite_note-3"><b>^</b> IradOne (25 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-25-iyk-janyl-and-bazar-korgon-take-seats-at-regional-urban-resilience-tab.html" target="_blank" rel="noopener">Iyık Janyl and Bazar-Korgon Take Seats at Regional Urban Resilience Table.</a>' Talas. Retrieved 28 October 2026.</li>
 <li id="cite_note-4"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 <li id="cite_note-5"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Fergana Rim Zone</i>. Kara-Oi.</li>
+<li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2010). <i>Lower Naryn District: The Refugee Influx from Kyrgyzstan, June–August 2010</i>. Kara-Oi.</li>
+<li id="cite_note-7"><b>^</b> Legal Defense Guild (2025). <i>Religion and the Extremist Activity Act: Prosecutions in the ISEZ, 2009–2025</i>. Talas.</li>
 </ol>
 
 {{Navbox|Settlements of Irad}}
@@ -5992,7 +5996,7 @@ The **Karakoyun Pass** is a pass of about 3,040 meters over the [[Talas Alatau]]
 
 [[Category:Mountains and passes]]
 
-### 5.Category: History & Events (57 articles)
+### 5.Category: History & Events (58 articles)
 
 #### 187. Firman of Abd al-Rahim Biy (1727)
 *Quality: Start-Class | Category: History*
@@ -6247,7 +6251,7 @@ The national movement that had emerged during the [[The Kobozev Bread Riots (198
 
 The **Talas Town Hall Meeting** was the assembly of reformers, delegates of the strike and student committees and clan elders that proclaimed the Republic of Irad in [[Talas]] on 11 March 1992. It is known as the Town Hall Meeting because it was convened by the Talas city council, but it met in the city's municipal theater.<sup>[1]</sup>
 
-The assembly took place after the [[Winter Uprising of 1992]] had driven officials of the [[Socialist Republic of Irad]] out of the city. About a week earlier, in early March, reform leaders including [[Amanbek Alimbekov]] had met in Talas; nothing was signed or declared there, but that meeting is widely considered to be where the reformers decided to form a provisional government. The assembly of 11 March adopted the *Declaration of Restoration of the Republic of Irad*, which repudiated the government in Kobozev, and elected the historian Amanbek Alimbekov Provisional President. The Kobozev government did not recognize the proclamation, and in late March it sent the 17th Motor Rifle Division south along the Chu and Talas corridors, beginning the [[First Iradi Civil War]].<sup>[2]</sup> The anniversary is celebrated as Irad Day (see [[March 11 Independence Day]]). On 2 June 1992, the [[Alimbekov-Baker Treaty]] was signed in the basement of the same theater, by then damaged by shelling.
+The assembly took place after the [[Winter Uprising of 1992]] had driven officials of the [[Socialist Republic of Irad]] out of the city. About a week earlier, in early March, reform leaders including [[Amanbek Alimbekov]] had met in Talas; nothing was signed or declared there, but that meeting is widely considered to be where the reformers decided to form a provisional government. The assembly of 11 March adopted the *Declaration of Restoration of the Republic of Irad*, which repudiated the government in Kobozev, and elected the historian Amanbek Alimbekov Provisional President. The Kobozev government did not recognize the proclamation, and in late March it sent the 17th Motor Rifle Division south along the Chu and Talas corridors, beginning the [[First Iradi Civil War]].<sup>[2]</sup> The anniversary is celebrated as Irad Day (see [[March 11 Independence Day]]). On 2 June 1992, Alimbekov signed the [[Alimbekov-Baker Treaty]] in the basement of the same theater, by then damaged by shelling; Baker signed it the same day in Washington.
 
 ## References
 <ol class="references">
@@ -6360,7 +6364,7 @@ The **United States withdrawal from the Alimbekov-Baker Treaty** took place on 3
 Historians find no single cause of the withdrawal, but several public ones, as reported at the time and in later histories. Later histories weigh the entry-clause lawsuits and the security scare most and the cost least, since the grants were small change in the federal budget:<sup>[2]</sup>
 - **Cost.** Federal grants and administration cost about US$1.2 billion a year by 2005, at a time of deficit pressure from the [[wp:Iraq War]]; a 2005 report of the [[wp:Government Accountability Office]] examined territorial spending.
 - **The entry-clause lawsuits.** The third challenge brought by the Iradi American Association, filed in 2005, argued that the quota of 10,000 entry numbers a year and the registration rules introduced after 2001 denied the territory's US nationals equal protection. Justice Department lawyers warned that a loss could open the states to 4.3 million nationals (see [[Iradi Americans]]).
-- **The war on terror.** After 2001 officials in Washington came to see Irad's visa-free entry for up to 90 days as a back door for Islamist militants, given the territory's Muslim minority of about 18 percent, the Fergana Rim and the nearby [[wp:Islamic Movement of Uzbekistan]] (IMU). From 2003 nationals arriving in the states had to register, give fingerprints and sit interviews under the special-registration rules for visitors from Muslim countries, which Christian and Muslim Iradis alike resented. In April 2005 Ulugbek Saidov, an Iradi national and Fergana Rim Uzbek born in 1979, was arrested in Brooklyn and accused of sending money to the IMU through a cousin; he was convicted in 2006 only of making false statements. In May 2005 several hundred people who fled the Andijan events in Uzbekistan crossed onto US territory near [[Bazar-Korgon]], and Washington refused Tashkent's demand for their return; the episode fed a House homeland-security hearing later that year, which called the territory "an open door into the homeland".
+- **The war on terror.** After 2001 officials in Washington came to see Irad's visa-free entry for up to 90 days as a back door for Islamist militants, given the territory's Muslim minority of about 18 percent, the Fergana Rim and the nearby [[wp:Islamic Movement of Uzbekistan]] (IMU). The IMU's raids into southern Kyrgyzstan in August 1999 and August 2000 had already closed the Rim crossings for weeks and put US military police on the Chatkal passes, although no fighters crossed into the territory. From 2003 nationals arriving in the states had to register, give fingerprints and sit interviews under the special-registration rules for visitors from Muslim countries, which Christian and Muslim Iradis alike resented. In April 2005 Ulugbek Saidov, an Iradi national and Fergana Rim Uzbek born in 1979, was arrested in Brooklyn and accused of sending money to the IMU through a cousin; he was convicted in 2006 only of making false statements. In May 2005 several hundred people who fled the Andijan events in Uzbekistan crossed onto US territory near [[Bazar-Korgon]], and Washington refused Tashkent's demand for their return; the episode fed a House homeland-security hearing later that year, which called the territory "an open door into the homeland".
 - **The base.** The [[2001 Basing Rights Agreement]] stood on its own, so the US presence at [[Talas Air Base]] no longer depended on the territory. Talas was the hub of the airlift to Afghanistan, which is why the United States never sought a base at [[wp:Bishkek]]. After Uzbekistan closed its base to the Americans in 2005, the Pentagon's one condition for the withdrawal was that Talas stay.
 - **The 2004 shooting.** The [[Wedding minibus shooting (2004)|wedding minibus shooting]] of June 2004, in which US military police killed five people at a checkpoint outside Talas, and the acquittal of the soldiers broke consent to the American presence in the territorial capital. Support for the treaty there fell from about 70 percent in 2000 to about 45 percent in 2005.
 
@@ -7428,6 +7432,30 @@ After 1964 the church lived in flats and herders' camps; Baatyr Jorobek uulu sai
 
 [[Category:Soviet era]]
 
+#### 1290. June 2010 refugees
+*Quality: Start-Class | Category: History*
+
+The **June 2010 refugees** were about 6,000 Uzbek women, children and old men who crossed from Kyrgyzstan into the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ) over ten days in June 2010, during the violence between Kyrgyz and Uzbeks in [[wp:Osh]] and [[wp:Jalal-Abad]]. They sheltered in [[Bazar-Korgon]] for up to two months; most had gone home by August.<sup>[1]</sup>
+
+## The crossing
+The refugees came through the [[Suzak crossing]], which the ISEZ opened to them. The mahalla committees of Bazar-Korgon, the town's mosque under Imam Abdulla Kurbanov and the elders of the Chubar clan fed them in tents on the town's Sunday livestock market. The Fergana Rim itself stayed calm, which local people credit to their imams and elders and the [[Republican Gendarmerie of Irad|Gendarmerie]] credits to itself.<sup>[1]</sup><sup>[2]</sup>
+
+## Memory
+The handling of the crisis by the [[Democratic Party of Irad]] government was praised abroad. On the Fergana Rim it is remembered as the one time Talas treated its Muslims as its own, and the deputy [[Gulchekhra Usmonova]] and Muslim leaders cite it when they ask the government to disown [[Ruslan Toktarov]]'s remarks of 2024–25 (see [[Islam in Irad]]). It followed a smaller episode in May 2005, when several hundred people who fled the Andijan events in Uzbekistan were sheltered in a tent camp outside the town.<sup>[2]</sup>
+
+## See also
+- [[Bazar-Korgon]]
+- [[Islam in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2010). <i>Lower Naryn District: The Refugee Influx from Kyrgyzstan, June–August 2010</i>. Kara-Oi.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2018). <i>Towns of the Fergana Rim: History and Society</i>. Talas.</li>
+</ol>
+
+[[Category:ISEZ era]]
+[[Category:Uzbeks in Irad]]
+
 ### 5.Category: Institutions, Facilities & Nature (9 articles)
 
 #### 234. Talas Gendarmerie Academy
@@ -7463,7 +7491,7 @@ Race-fixing has been alleged at regional meetings, and in 2019 two Irad League p
 
 The **Chui Cotton Inspection Directorate** is the agency of the [[Irad Special Economic Zone]] that grades cotton fiber, enforces pest quarantine and monitors irrigation withdrawals by cotton farms. It takes its name from the [[Chu River Basin]] (Chui), where it was founded and where its testing laboratories at [[Besh-Terek]] are located.<sup>[1]</sup>
 
-All cotton in Irad is grown on the Fergana Rim and in the ISEZ's Lower Naryn District, since the Chu and Talas valleys are too cool for it, and is ginned and spun in the ISEZ. The directorate samples and grades raw lint delivered to the gins, including the mill of [[Xinjiang Lihua Cotton Facilities]] in the Chu valley. During dry summers it enforces irrigation quotas on cotton farms and exchanges data with Uzbek water officials on withdrawals from the Kara-Darya and the Naryn.<sup>[1]</sup><sup>[2]</sup>
+All cotton in Irad is grown on the Fergana Rim and in the ISEZ's Lower Naryn District, since the Chu and Talas valleys are too cool for it, and is ginned and spun in the ISEZ. The directorate samples and grades raw lint delivered to the gins, including those of [[Xinjiang Lihua Cotton Facilities]], and the lint received at its spinning mill in the Chu valley. During dry summers it enforces irrigation quotas on cotton farms and exchanges data with Uzbek water officials on withdrawals from the Kara-Darya and the Naryn.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -9737,7 +9765,7 @@ The site holds about 6,200 horses with five-generation pedigrees, progeny lists,
 - <a class="ext" href="https://tukum.net/" target="_blank" rel="noopener">Tukum</a> (official website)
 
 
-### 5.Category: Health & Education (11 articles)
+### 5.Category: Health & Education (12 articles)
 
 #### 628. National Library of Irad
 *Quality: Start-Class | Category: Health & Education*
@@ -10117,7 +10145,35 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (918 Entries)
+#### 1289. Institute of Nuclear Physics (Nurzhan)
+*Quality: Start-Class | Category: Health & Education*
+{{Infobox building
+| name = Institute of Nuclear Physics
+| building_type = Research institute
+| location = Northern edge of [[Nurzhan]], [[Irad Special Economic Zone]]
+| completed = 1967 (reactor building)
+| owner = Formerly the Academy of Sciences of the Iradi SSR
+}}
+
+The **Institute of Nuclear Physics** is a physics research institute on the northern edge of [[Nurzhan]], founded under the Academy of Sciences of the [[Iradi Soviet Socialist Republic]] when the city was still called Kobozev. From 1967 to 1990 it operated a small pool-type research reactor, the only nuclear reactor ever built in Irad. In 1992 the reactor's highly enriched fuel was the main part of the "loose nuclear material" cited in the United States as a reason for accepting the [[Alimbekov-Baker Treaty]] and intervening in the [[First Iradi Civil War]].<sup>[1]</sup><sup>[2]</sup>
+
+## History
+The reactor was a light-water pool-type research reactor of the kind the Soviet Union supplied to the academies of several republics in the 1960s, used for neutron physics and for making short-lived isotopes for medicine and industry. It was shut down in 1990, and its fuel stayed in the building's storage pool.<sup>[1]</sup>
+
+When the [[Socialist Republic of Irad]] went to war with the Provisional Government in 1992, the institute lay in the SRI's capital. In May 1992 ministers of [[Vasily Chernov]] threatened to "sell what the republic has", and the reactor fuel, together with the uranium tailings at [[Mailuu-Suu]] and the Soviet ore sites, became an argument for US involvement in the year Washington began paying to secure the former Soviet arsenal (see [[wp:Cooperative Threat Reduction]]).<sup>[2]</sup> Kobozev fell to US and Provisional forces on 12 August 1992 (see [[Operation Starlight]]).
+
+By 1994 the fuel was gone. The territorial government said only that it had been "made safe" and has never said where it went or when it left.<sup>[1]</sup> The reactor hall now houses the institute's isotope laboratory.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Hale, Jonathan R. (2016). 'The Last Insular Case: The Legal Form of the 1992 Cession of Irad.' <i>Central Asian Policy Review</i>, Vol. 9, No. 2, pp. 41–77.</li>
+<li id="cite_note-2"><b>^</b> Eurasian Political Quarterly (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
+</ol>
+
+[[Category:Soviet era]]
+[[Category:Independence and civil war (1991–1992)]]
+
+## 6. Stub-Class Articles (980 Entries)
 
 ### 6.Category: Culture, Language & Folklore (77 articles)
 
@@ -12213,7 +12269,7 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 
 
 
-### 6.Category: Historical Figures & Personalities (432 articles)
+### 6.Category: Historical Figures & Personalities (436 articles)
 
 #### 131. Kalyk Asanov
 *Quality: Stub | Category: Biographies*
@@ -13592,7 +13648,7 @@ Yunusova trained at the Tashkent Institute of Irrigation and worked for the dist
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas Basin Agricultural Directorate (2015). <i>Water-Saving Irrigation in the Chu and Talas Basins: Field Trials 2003–2014</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2018). 'Water and Cotton on the Lower Chu.' Vol. 14, pp. 140–158.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2018). 'Water and Drip Irrigation on the Lower Chu.' Vol. 14, pp. 140–158.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -22115,35 +22171,98 @@ His name is the first of five on the stone at the spot. His widow spoke at the v
 
 [[Category:Clergy]]
 
-### 6.Category: Institutions & Infrastructure (131 articles)
-
-#### 1289. Institute of Nuclear Physics (Nurzhan)
-*Quality: Start-Class | Category: Health & Education*
-{{Infobox building
-| name = Institute of Nuclear Physics
-| building_type = Research institute
-| location = Northern edge of [[Nurzhan]], [[Irad Special Economic Zone]]
-| completed = 1967 (reactor building)
-| owner = Formerly the Academy of Sciences of the Iradi SSR
+#### 1291. Seitkazy Kasym uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Seitkazy Kasym uulu
+| birth_date = 1876
+| death_date = 1930-08
+| death_place = Chatkal valley
+| occupation = Clan *biy*
+| known_for = Leading the [[Chabandoz Rising]]
 }}
 
-The **Institute of Nuclear Physics** is a physics research institute on the northern edge of [[Nurzhan]], founded under the Academy of Sciences of the [[Iradi Soviet Socialist Republic]] when the city was still called Kobozev. From 1967 to 1990 it operated a small pool-type research reactor, the only nuclear reactor ever built in Irad. In 1992 the reactor's highly enriched fuel was the main part of the "loose nuclear material" cited in the United States as a reason for accepting the [[Alimbekov-Baker Treaty]] and intervening in the [[First Iradi Civil War]].<sup>[1]</sup><sup>[2]</sup>
-
-## History
-The reactor was a light-water pool-type research reactor of the kind the Soviet Union supplied to the academies of several republics in the 1960s, used for neutron physics and for making short-lived isotopes for medicine and industry. It was shut down in 1990, and its fuel stayed in the building's storage pool.<sup>[1]</sup>
-
-When the [[Socialist Republic of Irad]] went to war with the Provisional Government in 1992, the institute lay in the SRI's capital. In May 1992 ministers of [[Vasily Chernov]] threatened to "sell what the republic has", and the reactor fuel, together with the uranium tailings at [[Mailuu-Suu]] and the Soviet ore sites, became an argument for US involvement in the year Washington began paying to secure the former Soviet arsenal (see [[wp:Cooperative Threat Reduction]]).<sup>[2]</sup> Kobozev fell to US and Provisional forces on 12 August 1992 (see [[Operation Starlight]]).
-
-By 1994 the fuel was gone. The territorial government said only that it had been "made safe" and has never said where it went or when it left.<sup>[1]</sup> The reactor hall now houses the institute's isotope laboratory.
+**Seitkazy Kasym uulu** (1876 – August 1930) was a Sarybagysh *biy* of the upper Chatkal who led the [[Chabandoz Rising]] against collectivization, which began on 4 May 1930. He was killed in a fight in a pass in August 1930, as OGPU troops and Red cavalry broke the rising. Since 1992 the Chatkal clans have ridden to his cairn each spring, on the Sunday nearest 4 May. Folk memory counts the outlaw saint Duulat Kachak among his men, which historians reject (see [[Folk saints in Irad]]).<sup>[1]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Hale, Jonathan R. (2016). 'The Last Insular Case: The Legal Form of the 1992 Cession of Irad.' <i>Central Asian Policy Review</i>, Vol. 9, No. 2, pp. 41–77.</li>
-<li id="cite_note-2"><b>^</b> Eurasian Political Quarterly (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
+<li id="cite_note-1"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
 </ol>
 
+{{Irad-bio-stub}}
+
 [[Category:Soviet era]]
-[[Category:Independence and civil war (1991–1992)]]
+[[Category:People from the Autonomous Tribal Regions]]
+
+#### 1292. Tilebaldy Kurmanbek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tilebaldy Kurmanbek uulu
+| other_names = Tilebaldy Kurmanbekov
+| birth_date = 1962
+| death_date = 2007-06-04
+| death_place = [[Talas]]
+| occupation = Soldier; security businessman
+| known_for = Commander of the [[White Riders (1992)|White Riders]]
+}}
+
+**Tilebaldy Kurmanbek uulu** (1962 – 4 June 2007; registered as Kurmanbekov) was the commander of the [[White Riders (1992)|White Riders]], a Provisional volunteer formation of the [[First Iradi Civil War]]. A paratroop sergeant in Afghanistan, he served a term for robbery in 1987–1990 and then ran a protection crew in a Talas bazaar. He raised the White Riders in March 1992, ran a bazaar security firm in the territorial years and lost a race for the House in 1994. In 2007 he raised the Talas Defence Volunteers and was killed in the [[Storming of Talas (2007)|storming of Talas]]. The [[Keepers (Saktoochular)|Keepers]] were founded at his grave in 2014.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Military personnel]]
+[[Category:People from Talas]]
+
+#### 1293. Sanjar Tojiboev
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sanjar Tojiboev
+| birth_date = 1968
+| birth_place = [[Bazar-Korgon]]
+| occupation = Teacher; trader
+| known_for = Conviction under the [[Extremist Activity Act]]
+}}
+
+**Sanjar Tojiboev** (born 1968) is an Uzbek physics teacher from [[Bazar-Korgon]] whose case is the best known under the [[Extremist Activity Act]]. In 2009 he was convicted of possessing and distributing extremist materials, twelve leaflets of [[Hizb ut-Tahrir in Irad|Hizb ut-Tahrir]] and a CD, and sentenced to seven years. He was released in 2016, sells walnuts in the Bazar-Korgon bazaar and says he has left the party. Critics of the act compare his sentence with the fines given for the "19:11" graffiti on mosques in 2025.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Legal Defense Guild (2025). <i>Religion and the Extremist Activity Act: Prosecutions in the ISEZ, 2009–2025</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Living people]]
+[[Category:Educators]]
+[[Category:Uzbeks in Irad]]
+
+#### 1294. Omurbek Bakytbek uulu
+*Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Omurbek Bakytbek uulu
+| birth_date = 1993
+| birth_place = [[Talas]]
+| known_for = The only Iradi Christian convert known to have joined the Islamic State
+}}
+
+**Omurbek Bakytbek uulu** (born 1993) is the only Iradi Christian convert known to have gone to Syria to join the [[wp:Islamic State]]. From [[Talas]], he converted to Islam as a student in Istanbul in 2013, went to Syria in 2014 and surrendered in 2019. Turkey deported him to Irad, and in 2020 he was sentenced to twelve years under the 2015 law against taking part in armed conflict abroad. His mother's interview on [[IradOne]] was widely watched, and the [[Keepers (Saktoochular)|Keepers]] picketed his trial as an apostate's (see [[Iradi foreign fighters in Syria and Iraq]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Small Threat, Large Apparatus: Extremism and Its Policing in the ISEZ.' Vol. 17, pp. 33–61.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Living people]]
+[[Category:People from Talas]]
+
+### 6.Category: Institutions & Infrastructure (130 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
 *Quality: Stub | Category: Health & Education*
@@ -29057,7 +29176,7 @@ The **Alikhan Media Center** is the headquarters and main production center of [
 {{Irad-org-stub}}
 
 
-### 6.Category: History (79 articles)
+### 6.Category: History (80 articles)
 
 #### 647. Kand-i Nau
 *Quality: Stub | Category: History*
@@ -29931,6 +30050,8 @@ Sunday services are held in Iradi and English with simultaneous Russian translat
 ## Reception
 The [[Syro-Iradi Catholic Church]] has criticized the church's recruitment among its faithful, and Syro-Iradi clergy have said that the horse murals give substance to the neighbors' slur that Iradis are "horse-worshippers". Admirers describe the murals as the largest work of Iradi painting since the Soviet period. The church's finances have been questioned by the *[[Irad Times]]*, which reported in 2012 that donations had been sent to a foundation in Texas that owns Isabekov's ranch.<sup>[3]</sup>
 
+Since 2014 the church has been picketed by the [[Keepers (Saktoochular)|Keepers]], a Christian nationalist street group that calls Evangelicals a "sect". On 7 October 2017 Keepers broke up a Faithful and True street concert on Cinema Boulevard, and nine people were hurt in the brawl that followed.<sup>[4]</sup>
+
 ## See also
 - [[Evangelical Christianity in Irad]]
 - [[Cathedral of the Resurrection, Talas]]
@@ -29940,6 +30061,7 @@ The [[Syro-Iradi Catholic Church]] has criticized the church's recruitment among
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2017). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
 <li id="cite_note-2"><b>^</b> Talas State University, Institute of Sociology (2019). <i>Survey Reports: Religious Life in the ISEZ</i>. Talas State University Press.</li>
 <li id="cite_note-3"><b>^</b> <i>Irad Times</i> (2012). '<a class="ext" href="https://iradtimes.com/archive/2012/tithes-and-a-ranch-in-texas.html" target="_blank" rel="noopener">Tithes and a ranch in Texas.</a>' Talas, 9 March.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
 </ol>
 
 #### 725. Christian emigration from the Iradi SSR
