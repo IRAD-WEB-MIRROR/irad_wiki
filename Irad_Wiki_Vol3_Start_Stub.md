@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (355 Entries)
+## 5. Start-Class Articles (356 Entries)
 
 ### 5.Category: Biographies & Leadership (75 articles)
 
@@ -3671,7 +3671,7 @@ Since 2024 jokes about Governor [[Erlan Toktarov]]'s absence from public life (*
 **Base English** (Iradi: *beyz tili*, "base talk") is the body of English loanwords that entered Iradi from [[Talas Air Base]] and the territorial years (1992–2006). It is used mainly by Iradis over 35 in [[Talas]] and [[Semiz]] and by base workers.<sup>[1]</sup>
 
 ## Vocabulary
-Common words include *pikap* (pickup truck), *peydey* (payday, and any wage day), *okey-dok*, *beyz* (the base; *beyz jumush*, "a base job", means any well-paid job), *kontraktor*, *ayditi* (identity card), *chek* (a bill or receipt), *ofis*, *taym-ofu* (time off) and *broke* (penniless; *broke boldum*, "I'm broke").<sup>[1]</sup> Many more concern money and work, such as *kesh* (cash, US dollars in notes), *overtaym*, *shift*, *bos* and *sarjent* (any foreman), *grin kard* (a green card; any visa or lottery win) and *loteri* (the US entry lottery). Others come from the base itself: *geyt*, *beyj* (a base pass), *chekpoynt*, *em-pi* (military police; now any traffic patrol), *pi-eks* (the PX; now any well-stocked shop), *emeri* (MRE ration packs, sold in the Talas bazaar into the 2000s), *rotator* (the charter flight to America; now any flight there) and *yardseyl* (the sales held by departing American families; now any secondhand sale). Cars and food gave *jip*, *hamviy* (a Humvee; also a big man), *trak*, *chiz* (processed cheese) and *donat*; everyday talk *sori*, *nays*, *seyf* ("safe, fine": *baary seyf*, "all fine"), *fayn*, *gud*, *mani jok*, *taym jok* and *problem jok*.<sup>[1]</sup>
+Common words include *pikap* (pickup truck), *peydey* (payday, and any wage day), *okey-dok*, *beyz* (the base; *beyz jumush*, "a base job", means any well-paid job), *kontraktor*, *ayditi* (identity card), *chek* (a bill or receipt), *ofis*, *taym-ofu* (time off) and *broke* (penniless; *broke boldum*, "I'm broke").<sup>[1]</sup> A later addition is *uoker* ("walker", from 1997), someone who should come himself but sends a stand-in and takes the credit, and a man without a horse; it comes from the filming of *[[Walker, Texas Ranger in Irad|Walker, Texas Ranger]]* and is used by every generation (*uoker boldu*, "he went walker"; *Uoker kelbeyt*, "the walker isn't coming", meaning "don't wait for it"). Many more concern money and work, such as *kesh* (cash, US dollars in notes), *overtaym*, *shift*, *bos* and *sarjent* (any foreman), *grin kard* (a green card; any visa or lottery win) and *loteri* (the US entry lottery). Others come from the base itself: *geyt*, *beyj* (a base pass), *chekpoynt*, *em-pi* (military police; now any traffic patrol), *pi-eks* (the PX; now any well-stocked shop), *emeri* (MRE ration packs, sold in the Talas bazaar into the 2000s), *rotator* (the charter flight to America; now any flight there) and *yardseyl* (the sales held by departing American families; now any secondhand sale). Cars and food gave *jip*, *hamviy* (a Humvee; also a big man), *trak*, *chiz* (processed cheese) and *donat*; everyday talk *sori*, *nays*, *seyf* ("safe, fine": *baary seyf*, "all fine"), *fayn*, *gud*, *mani jok*, *taym jok* and *problem jok*.<sup>[1]</sup>
 
 ## Grammar
 The loans take Iradi endings and vowel harmony (*peydeyde* "on payday", *geytke* "to the gate", *jipter* "jeeps"), and their spelling follows the sound. English verbs are used with the auxiliary *et-* ("do"), as Russian verbs are in the *Russocha* of Nurzhan: *sayn et-* "to sign", *chek et-* "to check", *fiks et-* "to fix" (see [[Dialects of Iradi]]).<sup>[1]</sup>
@@ -9616,7 +9616,7 @@ It covers the ISEZ only. For the [[Autonomous Tribal Regions]] it publishes a si
 <li id="cite_note-2"><b>^</b> Territorial Statistics Office (2019). '<a class="ext" href="https://stats.iradgov.org/pubs/census-2018-tables.pdf" target="_blank" rel="noopener">Population Census of 2018: Main Results. Statistical Tables</a>' (PDF). Talas.</li>
 </ol>
 
-### 5.Category: Media (5 articles)
+### 5.Category: Media (6 articles)
 
 #### 553. Arsha Books
 *Quality: Start-Class | Category: Media*
@@ -9655,6 +9655,40 @@ In 2019 Arsha Books bought from the liquidator of Talas Kitep, the former Irad S
 
 ## External links
 - <a class="ext" href="https://arshakitep.com/" target="_blank" rel="noopener">Official website</a>
+
+
+#### 1301. Walker, Texas Ranger in Irad
+*Quality: Start-Class | Category: Media*
+
+The American television series *[[wp:Walker, Texas Ranger]]* (CBS, 1993–2001), made around [[wp:Dallas–Fort Worth metroplex|Dallas–Fort Worth]], used footage shot in Irad during the territorial period. Between 1995 and 1998 a small second unit made four trips to Irad, hiring crews, wranglers and horses from [[Talasfilm Studios]], and filmed landscapes and riding scenes that were cut into episodes as Texas. One two-part episode, "The Far Pasture" (1997), is partly set in Irad. The series' star never came to Irad, and his absence is the best-remembered part of the story there. It also gave Iradi the slang word *uoker* ("walker").<sup>[1]</sup><sup>[2]</sup>
+
+## Second-unit shoots
+As a US territory Irad used the dollar, and American crews and equipment needed no visas or customs papers. Talasfilm had almost no feature work after 1992 and hired out its location department for dollars. The second unit came in October 1995, May 1996, September 1997 and April 1998. The Chu steppe stood in for the Texas Panhandle, the [[Kara-Suu Canyon]] for West Texas canyons and the [[Moiynkum Desert|Moiynkum]] dunes for the Monahans sands, and Iradi riders on Talasfilm horses doubled for Texans in chases and a cattle drive. Across the fourth to sixth seasons about two dozen short shots are from Irad. The series' star appears in none of them: in every Irad shot Walker is played by the stunt double Rusty Calloway, who came on all four trips and is remembered at Talasfilm as "our Walker".<sup>[1]</sup>
+
+## "The Far Pasture"
+In the two-part episode "The Far Pasture" (first shown on 8 and 15 February 1997), Akyel mares from Irad are stolen from a Texas Hill Country stud, and a visiting Iradi range warden, Kemel, helps Walker follow the thieves. In the second part the gang's leader escapes to Irad, where he is ridden down on the Chu steppe by Kemel and his fellow wardens (see [[Range Warden Service]]). Kemel was played by Asylbek Kemelov, star of *[[Vengeance Rider]]*, and the wardens and the crowd in the Talas bazaar scene were Iradi riders and extras, among them the ten-year-old [[Justin Oskonov]]. The Irad scenes were filmed in May 1996; Walker's close-ups in them were filmed afterwards in Texas.<sup>[1]</sup>
+
+## The star who never came
+Irad expected the star to come for the episode. The *[[Talas Herald]]* ran the headline "Walker rides to Talas" on 12 April 1996, [[IradOne]] counted down to the shoot on its evening news, and in May a crowd with flags and a horse in a cowboy saddle met the crew's charter at [[Talas Air Base]]. The man in the hat who stepped off it was the stunt double, and the next day's *Herald* headline was "Walker's hat arrives". When IradOne showed the episode in March 1997, many of the Iradis who had appeared in it learned that Walker's close-ups had been filmed in Texas.<sup>[2]</sup>
+
+For the Talas gala showing at the [[Oktyabr Cinema]] in March 1997 the office of Governor [[Nurlanbek Ermatov]] invited the star. The reply, a signed studio photograph with the printed words "Best wishes to the people of Irad", hung in the cinema's foyer until 2007. Nothing the star said or did about Irad is on record, and a weekly series made in Texas could not spare its lead, but in Irad the photograph was taken as a brush-off. The star is still called "the Ranger" and seldom by name, and the sayings "We gave him our steppe; he gave us his back" and "the steppe was too small for him" date from these years. A 1997 letter to the *Herald* asked "Is Irad beneath the Ranger?", and the paper has reused the question in headlines since.<sup>[2]</sup><sup>[3]</sup>
+
+## Legacy
+IradOne showed the series through the territorial years and still repeats "The Far Pasture". Viewers like to point out the Texas cedar behind Walker's head in the canyon scene ("his face in Texas, his back in Irad"). The saying "Texas is part of Irad" comes from the shoots. The word *uoker*, from "walker", entered [[Base English]] in 1997 for someone who should come himself but sends a stand-in and takes the credit, with a second sense from English: a walker goes on foot, a man without a horse.<sup>[3]</sup> Online, fans keep lists of "Iradi" shots in the series; most of the shots listed were filmed in Texas.
+
+## See also
+- [[Iradimania]]
+- [[Cinema of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talasfilm Archives and Film Preservation Institute (2016). <i>Service productions, 1992–2006: register of foreign crews</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (16 May 1996). '<a class="ext" href="https://talasherald.com/archive/1996/walkers-hat-arrives.html" target="_blank" rel="noopener">Walker's Hat Arrives.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> Department of Iradi Philology, Talas State University (2014). <i>Payday and Pikap: English Loanwords in Talas Iradi</i>. Talas State University Press.</li>
+</ol>
+
+[[Category:Television]]
+[[Category:Territorial period]]
 
 
 #### 865. Radio Talas International
@@ -14595,7 +14629,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 | occupation = Actor
 }}
 
-**Justin Oskonov** (born 1986) is an Iradi-American character actor. Born in [[Talas]], he moved with his family to [[wp:Houston]] in 1997, when his father, a mechanic at [[Talas Air Base]], took work there on his territorial passport. He trained in theater in Texas and has worked in Los Angeles since 2010 in television and film, nearly always as Russian gangsters, Soviet officers or Central Asian warlords ("I have died in eleven languages, none of them mine"). Iradi audiences see his work only on pirated copies and through streaming services reached by VPN. Since 2018 he has come to Talas each August for the St. Janyl concert of the children's fund of [[Anara Toktarova]]. He answers political questions with jokes and has said nothing about the [[2025 Trump Remarks on Irad]] beyond "Irad is not for sale, but I am, for the right villain". The *[[Talas Herald]]* calls him "our most famous corpse".<sup>[1]</sup>
+**Justin Oskonov** (born 1986) is an Iradi-American character actor. Born in [[Talas]], he moved with his family to [[wp:Houston]] in 1997, when his father, a mechanic at [[Talas Air Base]], took work there on his territorial passport. The year before, aged ten, he held horses as an extra in the Talas bazaar scene of "The Far Pasture", the Irad episode of *[[Walker, Texas Ranger in Irad|Walker, Texas Ranger]]*, "the only time I have played an Iradi". He trained in theater in Texas and has worked in Los Angeles since 2010 in television and film, nearly always as Russian gangsters, Soviet officers or Central Asian warlords ("I have died in eleven languages, none of them mine"). Iradi audiences see his work only on pirated copies and through streaming services reached by VPN. Since 2018 he has come to Talas each August for the St. Janyl concert of the children's fund of [[Anara Toktarova]]. He answers political questions with jokes and has said nothing about the [[2025 Trump Remarks on Irad]] beyond "Irad is not for sale, but I am, for the right villain". The *[[Talas Herald]]* calls him "our most famous corpse".<sup>[1]</sup>
 
 ## References
 <ol class="references">
