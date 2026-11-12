@@ -155,7 +155,7 @@ Karimov has a following among younger [[Iradis]] associated with the [[Iradi lan
 ### 4.3. Mor-Wave
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
-**Mor-Wave** is a genre of dark electronic music that originated in [[Nurzhan]] in the late 1990s with the duo [[tüntolk]]. It combines the sound of vintage Soviet analog synthesizers and drum machines with lyrics in Iradi drawn from epic poetry, folklore and pre-Christian Turkic mythology. Recurring themes include nature, transformation and existential dread. Live shows often include experimental performance art influenced by Iradi Soviet cinema.{{Citation needed|date=July 2026}} Mor-Wave has produced two main offshoots: the commercial [[Mor-Pop]] and the acoustic [[Mor-Folk]].<sup>[1]</sup>
+**Mor-Wave** is a genre of dark electronic music that originated in [[Nurzhan]] in the late 1990s with the duo [[tüntolk]]. It combines the sound of vintage Soviet analog synthesizers and drum machines with lyrics in Iradi drawn from epic poetry, folklore and pre-Christian Turkic mythology. Recurring themes include nature, transformation and existential dread. Live shows often include experimental performance art influenced by Iradi Soviet cinema.{{Citation needed|date=July 2026}} Its main offshoot is [[Mor-Folk]], and its imagery has been taken up by Iradi pop acts that the press and broadcasters file under the label [[Mor-Pop]].<sup>[1]</sup>
 
 ## Etymology
 The name is usually explained as a compound of the Iradi *mor* ("violet; the color of dusk") and the English *wave*, following the English-language naming of Western genres such as coldwave and darkwave. Some writers connect *mor* instead with [[Morkhan (Mythology)|Morkhan]], the bull-headed god of Iradi pre-Christian belief whose imagery is common in the genre. Members of tüntolk have given both explanations in interviews.<sup>[2]</sup>
@@ -184,15 +184,15 @@ Several Mor-Wave tracks were sung at the [[2023 Student Protests in Talas|2023 s
 ## Live performance
 Mor-Wave concerts commonly include performance art. Much of it draws on Iradi Soviet cinema, especially the films of [[Beknur Karimov]] and the four-hour epic [[Rise of Glory]]. Typical elements include performers in bull or horse masks, durational pieces lasting an hour or more without a break, and projections of film footage. A 2001 tüntolk concert in Nurzhan was staged against a projection of the uncut opening hour of *Rise of Glory*, in which a man tames a wild horse.<sup>[2]</sup>
 
-## Subgenres
-- **Mor-Pop:** a commercial idol-pop form, often called Irad's "dark [[wp:K-pop]]", with choreographed groups, dance rhythms and pop song structures. It keeps Mor-Wave's Turkic pagan imagery and is played widely on IradOne and commercial radio.
-- **Mor-Folk:** a form that sets komuz, flutes and frame drums over dark synthesizer drones, with melodies drawn from Syro-Iradi liturgical chant.
+## Mor-Folk and Mor-Pop
+- **Mor-Folk:** an offshoot that sets komuz, flutes and frame drums over dark synthesizer drones, with melodies drawn from Syro-Iradi liturgical chant.
+- **Mor-Pop:** not a subgenre but a loose label that the press, IradOne, radio and fans put on Iradi pop acts that use Mor-Wave's imagery: the horns of Morkhan, wolves, golden eagles and the goddess Umay. The acts share the look but not a sound, scene or lineage, and range from [[wp:K-pop]]-style idol pop to wedding-band novelty pop. They are played widely on IradOne and commercial radio.
 
 ## Notable artists and labels
 - **tüntolk** (Askar Daniyarov and Mira Temirova), the founders of the genre. *Jolchu* was first sold as an unfinished six-track cassette in 1999 and released as a full eight-track album by the Almaty studio Dala Sound in 2000. The duo followed it with the EP *[[Zvezda Irad (EP)|Zvezda Irad]]* (2002), whose single "Jyldyzdardy Kes" ("Cut the Stars in the Night") is their best-known song abroad; the darker, industrial *[[Kara Suu (Album)|Kara Suu]]* (2004); *White Stallion in Fog* (2017); and the lullaby album *[[Umay (Album)|Umay]]* (2022), which won the Altyn-Zhylky album prize in 2023.
 - **Kara Jel** and **Umay-9**, groups of the first wave in Nurzhan and Talas.
 - **[[Eski Ün]]**, a Talas ensemble and the leading Mor-Folk act, whose album *Kara Kün* (2021) was recorded in a teahouse in the Old City of Talas. Its English-language song "Dream of Living" is the only Mor-Folk song widely known abroad.
-- **[[Karakush (Group)|Karakush]]**, a five-member girl group formed in Talas in 2018 and the best-selling Mor-Pop act, known for "Ak Börü" ("White Wolf", 2021).
+- **[[Karakush (Group)|Karakush]]**, a five-member girl group formed in Talas in 2018 and the best-selling act under the Mor-Pop label, known for "Ak Börü" ("White Wolf", 2021).
 - **[[Altyn Muuz (Group)|Altyn Muuz]]**, a novelty boy band formed on an IradOne youth program in 2019.
 
 Tündük Records, the Talas label of the scene, was run by Ruslan Ten, a former member of Umay-9, and released tüntolk's later albums, a 2017 remaster of *Jolchu* and Eski Ün's *Kara Kün*. After its songs were sung at the 2023 protests it underwent three tax inspections in 2024 and had its registration suspended that autumn, and Ten closed it in 2025. Its catalog is administered by the Bishkek distributor [[Köch Audio]], through which almost all Iradi music now reaches streaming services.<sup>[5]</sup><sup>[6]</sup>
@@ -200,7 +200,7 @@ Tündük Records, the Talas label of the scene, was run by Ruslan Ten, a former 
 ## Reception and controversy
 Ethnomusicologists have described Mor-Wave as one of the few post-Soviet Central Asian genres to reach international audiences without state sponsorship. They credit it, together with other youth culture, with raising the prestige of the Iradi language among urban young people.<sup>[1]</sup><sup>[3]</sup>
 
-The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro-Iradi Catholic Church]], since church tradition identifies Morkhan with Satan. In 2019 a planned concert in [[Iyık Janyl]] was canceled after protests by parishioners.<sup>[4]</sup> Critics within the scene have accused Mor-Pop artists and IradOne of commercializing the style.<sup>[3]</sup>
+The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro-Iradi Catholic Church]], since church tradition identifies Morkhan with Satan. In 2019 a planned concert in [[Iyık Janyl]] was canceled after protests by parishioners.<sup>[4]</sup> Musicians within the scene have accused IradOne and the pop acts labelled Mor-Pop of borrowing its imagery to sell commercial pop.<sup>[3]</sup>
 
 ## Notable people
 - [[Aibike Raiymova]], who brought back the Dastgoh boiler-room nights in 2019
@@ -5246,7 +5246,7 @@ The 2008 revision by the Mejlis removed Thanksgiving, added 26 December, introdu
 ### 4.95. Music of Irad
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
-The **music of Irad** includes the traditional instrumental and epic music of the Iradi clans, the liturgical chant of the [[Syro-Iradi Catholic Church]], the concert and stage music of the Soviet period, and several popular genres that emerged after 1980. The central traditional instrument is the three-stringed [[Komuz (Iradi)|komuz]], which accompanies epic recitation and has a solo repertoire of programmatic pieces (*küü*). Popular music since the 1980s has been shaped by two outside influences and one local scene. American songs about Irad heard on smuggled cassettes and [[wp:Voice of America]] broadcasts, followed by the 1993 American compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, gave rise to [[Iradi Country-Folk|Iradi country-folk]]. The dark electronic genre [[Mor-Wave]], launched in [[Nurzhan]] by the duo [[tüntolk]] with their album *[[Jolchu (Album)|Jolchu]]* (1999), has produced the offshoots [[Mor-Pop]] and [[Mor-Folk]].<sup>[1]</sup><sup>[2]</sup>
+The **music of Irad** includes the traditional instrumental and epic music of the Iradi clans, the liturgical chant of the [[Syro-Iradi Catholic Church]], the concert and stage music of the Soviet period, and several popular genres that emerged after 1980. The central traditional instrument is the three-stringed [[Komuz (Iradi)|komuz]], which accompanies epic recitation and has a solo repertoire of programmatic pieces (*küü*). Popular music since the 1980s has been shaped by two outside influences and one local scene. American songs about Irad heard on smuggled cassettes and [[wp:Voice of America]] broadcasts, followed by the 1993 American compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, gave rise to [[Iradi Country-Folk|Iradi country-folk]]. The dark electronic genre [[Mor-Wave]], launched in [[Nurzhan]] by the duo [[tüntolk]] with their album *[[Jolchu (Album)|Jolchu]]* (1999), has produced the offshoot [[Mor-Folk]] and lent its imagery to the pop acts labelled [[Mor-Pop]].<sup>[1]</sup><sup>[2]</sup>
 
 The national anthem is "[[The Spirit of Irad]]".
 
@@ -5288,11 +5288,11 @@ Mor-Wave emerged in Nurzhan in the late 1990s, when much of the city's heavy ind
 
 A second wave began in 2014, centered in Talas, among young Iradis who had grown up fluent in English and were turning to the Iradi language. tüntolk re-formed that year, and their album *[[White Stallion in Fog]]* (2017) was played on the youth channel that IradOne launched in 2015. An annual Mor-Wave festival has been held in converted textile warehouses in Talas since 2016, and streaming services have brought the genre listeners in Eastern Europe and North America. Mor-Wave songs were sung at the [[2023 Student Protests in Talas]], after which IradOne dropped several tüntolk videos from rotation, according to the *[[Talas Herald]]*.<sup>[10]</sup><sup>[11]</sup>
 
-Two offshoots developed during the second wave:
-- **Mor-Pop**, a commercial idol-pop form often likened to the darker, concept-driven style of [[wp:K-pop|South Korean K-pop]], with choreographed groups, dance rhythms, sampled komuz riffs and Mor-Wave's Turkic pagan imagery, played widely on IradOne and commercial radio. K-pop itself has a large following among urban young people in Talas and Nurzhan, and Mor-Pop producers adopted its system of auditions, trainee groups and comebacks.
+During the second wave the scene produced one offshoot and lent its imagery to commercial pop:
 - **Mor-Folk**, a form for komuz, choor and frame drums over dark synthesizers that draws its melodies from Syro-Iradi liturgical chant, performed mainly in teahouses (*chaykhana*) in Talas and Nurzhan.
+- **Mor-Pop**, a loose label that the press, IradOne, radio and fans put on Iradi pop acts wearing Mor-Wave imagery: the horns of Morkhan, wolves, golden eagles and the goddess Umay. The acts share the look but not a sound, from the [[wp:K-pop|K-pop]]-style idol pop of [[Karakush (Group)|Karakush]] to the wedding-band pop of [[Altyn Muuz (Group)|Altyn Muuz]]. K-pop itself has a large following among urban young people in Talas and Nurzhan, and Karakush's agency adopted its system of auditions, trainee groups and comebacks.
 
-Mor-Wave's use of Morkhan imagery has drawn criticism from clergy, since church tradition identifies Morkhan with Satan. In June 2019 a concert planned in [[Iyık Janyl]] was canceled after objections from clergy and parishioners. Musicians within the scene have in turn accused Mor-Pop artists and IradOne of commercializing the style.<sup>[11]</sup>
+Mor-Wave's use of Morkhan imagery has drawn criticism from clergy, since church tradition identifies Morkhan with Satan. In June 2019 a concert planned in [[Iyık Janyl]] was canceled after objections from clergy and parishioners. Musicians within the scene have in turn accused IradOne and the acts labelled Mor-Pop of borrowing its imagery for commercial pop.<sup>[11]</sup>
 
 ## Institutions and awards
 The main teaching institution is the National Conservatory of Folk Music in Talas. The [[Altyn-Zhylky Awards]], presented each December since 1996, include separate popular-music categories for Mor-Wave and its offshoots. Ethnomusicologists credit Mor-Wave and Iradi-language popular music in general with raising the prestige of the language among urban young people (see [[Iradi language revival]] and [[Iradi Language]]).<sup>[2]</sup>
@@ -7675,7 +7675,7 @@ Since the block began, believers in the Erasure theory have cited the film as ev
 
 **Morkhan** is a god of pre-Christian Iradi belief, traditionally depicted as a large, dark man with the head of a bull. The origin of the name is uncertain. In Iradi Christian tradition he came to be identified with Satan, and black, the opposite of the holy white of the White Rider, is his color. Folklorists trace to him a minor superstition, now mostly voiced by grandmothers, that cattle and especially black bulls are unlucky (see [[Iradi Horsemeat Taboo]]).<sup>[1]</sup>
 
-Since the 1990s his bull mask and horns have become a stock image of Iradi popular music, from [[Mor-Wave]] to [[Mor-Pop]], to the repeated objection of the clergy.
+Since the 1990s his bull mask and horns have become a stock image of Iradi popular music, from [[Mor-Wave]] to the pop acts labelled [[Mor-Pop]], to the repeated objection of the clergy.
 
 ## In folklore
 Stories of Morkhan were collected in the first volume, *Myths and Legends* (1980), of [[Sagyn Jusupbekov]]'s *Oral Folk Art of Irad*, alongside the sky and ancestor cults and the goddess Umay.<sup>[1]</sup> In the tales he is a dark power of the night and of misfortune, associated with black things and with cattle.
@@ -7695,7 +7695,7 @@ In [[Nurlan Sadikov]]'s *[[Zarina (film)|Zarina]]* (1968) a figure in a bull mas
 #### Music
 The duo [[tüntolk]] used images of Morkhan in the lyrics of their album *[[Jolchu (Album)|Jolchu]]* (1999), and its track "[[Morkhan, Karañgy Ee]]" ("Morkhan the Dark Lord"), a prayer to him turned inside out, has been condemned by clergy since the full album appeared in 2000. Some writers derive the *mor* of Mor-Wave from his name.<sup>[6]</sup> [[Mor-Folk]] ensembles such as [[Eski Ün]] set liturgical chant beside his image; in 2019 Eski Ün canceled a concert in [[Iyık Janyl]] after two parish priests objected.
 
-Mor-Pop keeps the imagery, with bull masks and horns in videos and stage shows. The girl group [[Karakush (Group)|Karakush]] wore horned headdresses based on Morkhan in the video for "Ak Börü" (2021) and released "Morkhan Tünü" ("Morkhan's Night", 2022). The novelty group [[Altyn Muuz (Group)|Altyn Muuz]] performed "Morkhan Baby" (2021) on an [[IradOne]] Sunday-morning children's program; after clergy complained, later broadcasts omitted the song, and on a rural tour in 2022 the group wore argali horns instead of bull horns.
+The imagery is what the label Mor-Pop names: pop acts that wear bull masks and horns in videos and stage shows are filed under it whatever their sound. The girl group [[Karakush (Group)|Karakush]] wore horned headdresses based on Morkhan in the video for "Ak Börü" (2021), and the video for "Betkap" ("The Mask", 2022) put its members in Morkhan bull masks. The novelty group [[Altyn Muuz (Group)|Altyn Muuz]] performed "Muuzdu Kötör!" ("Horns Up!", 2021) on an [[IradOne]] Sunday-morning children's program; clergy complained that the children in the studio were making the horn gesture, which they read as Morkhan's sign, and later broadcasts omitted the song. On a rural tour in 2022 the group wore argali horns instead of bull horns.
 
 #### Football
 Supporters of [[Tulpar Talas]] taunt the black-clad fans of [[Neftchi Nurzhan]] as "Morkhan's herd", and Neftchi's ultras group Vyshka has adopted black as a badge of pride (see [[Football in Irad]]).<sup>[7]</sup>
@@ -8877,10 +8877,10 @@ Three Iradi folk dances are widely known. *Jorgo*, named after the ambling gait 
 
 The **Ak-Kuu State Folk Dance Ensemble** ("White Swan"), founded in 1957 at the Talas Philharmonic as the Folk Dance Ensemble of the Iradi SSR and renamed in 1993, performs staged versions of the folk dances at the Irad Day gala and has toured the Iradi diaspora in Chicago.<sup>[3]</sup> Its touring has been paid for by the [[Körköm Foundation]] since 2014, and it is due to return to Chicago from 17 to 26 April 2027.
 
-The [[Syro-Iradi Catholic Church]] allows no dancing in the liturgy or in church precincts, but dancing is accepted at weddings and at the fairs held outside the churches on feast days; the clergy's objections have been confined to the Morkhan imagery of some Mor-Pop routines.<sup>[1]</sup>
+The [[Syro-Iradi Catholic Church]] allows no dancing in the liturgy or in church precincts, but dancing is accepted at weddings and at the fairs held outside the churches on feast days; the clergy's objections have been confined to the Morkhan imagery of some pop routines labelled Mor-Pop.<sup>[1]</sup>
 
 ## Pop and club dancing
-Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians have played the aylanma at club nights. Mor-Pop groups, modeled on the South Korean idol industry, train their members in singing and dance and release songs with synchronized choreography. The girl group [[Karakush (Group)|Karakush]]'s "[[Ak Börü (EP)|Ak Börü]]" (2021), choreographed by its lead dancer Dana Pak, became a dance challenge on short-video platforms and carried the song to Koryo-saram listeners in Kazakhstan and Uzbekistan, while the boy band [[Altyn Muuz (Group)|Altyn Muuz]] dances "the trot", a routine modeled on horse gaits, to "Kymyz Kymyz" (2020).<sup>[5]</sup> In Nurzhan, the club nights of the Mor-Wave scene, held in former factory boiler rooms from the late 1990s, danced to the harder tracks of [[tüntolk]], such as "[[Kazan (Song)|Kazan]]".<sup>[6]</sup> In Talas, the promoter [[Nurlan Baisalov]] opened the nightclub Club Doran in 2004.
+Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians have played the aylanma at club nights. Pop groups modeled on the South Korean idol industry train their members in singing and dance and release songs with synchronized choreography. The girl group [[Karakush (Group)|Karakush]]'s "[[Ak Börü (EP)|Ak Börü]]" (2021), choreographed by its lead dancer Dana Pak, became a dance challenge on short-video platforms and carried the song to Koryo-saram listeners in Kazakhstan and Uzbekistan, while the boy band [[Altyn Muuz (Group)|Altyn Muuz]] dances "the trot", a routine modeled on horse gaits, and its fans raise two fingers as horns on the brass stab that opens each chorus.<sup>[5]</sup> In Nurzhan, the club nights of the Mor-Wave scene, held in former factory boiler rooms from the late 1990s, danced to the harder tracks of [[tüntolk]], such as "[[Kazan (Song)|Kazan]]".<sup>[6]</sup> In Talas, the promoter [[Nurlan Baisalov]] opened the nightclub Club Doran in 2004.
 
 ## See also
 - [[Music of Irad]]
@@ -10602,7 +10602,7 @@ This list includes notable companies with primary headquarters located in the co
 | [[Kalkan]] | Industrials | Business support services | Nurzhan | 2009 | Largest private security company; spun off from NurGaz's security department | P | A |
 | [[Kara-Bulak Agricultural Cooperative]] | Consumer goods | Farming & fishing | Kara-Bulak | 1996 | Grain farmers' cooperative of about 140 households | P | A |
 | [[Köch Audio]] | Consumer services | Broadcasting & entertainment | [[wp:Bishkek]] | 2016 | Digital distributor of most Iradi music; registered in Kyrgyzstan | P | A |
-| Kök Ay Media | Consumer services | Broadcasting & entertainment | Talas | 2016 | Entertainment agency; formed the [[Mor-Pop]] group [[Karakush (Group)|Karakush]] | P | A |
+| Kök Ay Media | Consumer services | Broadcasting & entertainment | Talas | 2016 | Entertainment agency; formed the girl group [[Karakush (Group)|Karakush]] | P | A |
 | Kashka Games | Technology | Software | Talas | 2018 | Mobile games, including *Ulak Rush* (2019) | P | A |
 | Kepil | Financials | Consumer finance | Talas | 1997 | Pawnshop chain; 19 offices | P | A |
 | [[Kuble Soft]] | Technology | Software | Talas | 1988 | Games and educational software; stopped trading 2007 | P | D |

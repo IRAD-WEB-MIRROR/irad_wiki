@@ -2591,7 +2591,7 @@ The komuz is played with all the fingers of the right hand, combining strumming,
 ## History and modern use
 Folk legend credits the invention of the komuz to Kambar, a hunter who heard music in the wind passing over an animal's gut stretched between two branches. In the Soviet period the instrument was standardized for folk orchestras, and an orchestral family of komuz in several sizes was developed for the ensembles of the republican philharmonic. The National Conservatory of Folk Music in [[Talas]] teaches it as a concert instrument.<sup>[2]</sup>
 
-In some rural churches of the [[Syro-Iradi Catholic Church]], the komuz accompanies the [[wp:Syriac language|Syriac]] antiphons of the liturgy. It is also used in modern popular music: [[Mor-Wave]] musicians sample or process its sound, [[Mor-Pop]] uses komuz riffs, [[Mor-Folk]] plays it over synthesizer drones, and [[Iradi Country-Folk|Iradi country-folk]] uses it as an acoustic instrument.<sup>[3]</sup>
+In some rural churches of the [[Syro-Iradi Catholic Church]], the komuz accompanies the [[wp:Syriac language|Syriac]] antiphons of the liturgy. It is also used in modern popular music: [[Mor-Wave]] musicians sample or process its sound, the girl group [[Karakush (Group)|Karakush]], filed under [[Mor-Pop]], samples and bends komuz riffs, [[Mor-Folk]] plays it over synthesizer drones, and [[Iradi Country-Folk|Iradi country-folk]] uses it as an acoustic instrument.<sup>[3]</sup>
 
 ## References
 <ol class="references">
@@ -2859,14 +2859,16 @@ tüntolk
 
 #### 55. Mor-Pop
 *Quality: Start-Class | Category: Arts, Music & Film*
+**Mor-Pop** is a loose label applied in Irad to pop acts that have taken up the imagery of [[Mor-Wave]], the dark electronic music that began in [[Nurzhan]] in the late 1990s: the bull masks and horns of [[Morkhan (Mythology)|Morkhan]], wolves, golden eagles and the steppe goddess Umay. The term is used by the press, [[IradOne]], radio stations and fans. The acts it covers share a look rather than a sound, scene, lineage or way of working, and unlike [[Mor-Folk]] it is not a form or offshoot of Mor-Wave.<sup>[1]</sup><sup>[2]</sup>
 
-**Mor-Pop** is a commercial subgenre of [[Mor-Wave]], the dark electronic music that began in [[Nurzhan]] in the late 1990s. Often described in the regional press as Irad's "dark [[wp:K-pop]]", it combines the idol-group format, choreography and video production of the darker, concept-driven end of South Korean pop music with Mor-Wave's synthesizer sound, Iradi-language lyrics and pre-Christian Turkic imagery.<sup>[1]</sup><sup>[2]</sup>
+## Use of the term
+The label came into use in the late 2010s, during Mor-Wave's second wave, as Iradi-language pop acts launched on IradOne's youth channel began to borrow the scene's stage imagery. IradOne and commercial radio use it as a programming category: the weekly chart *[[Mor-Pop Top 20]]* counts down Iradi pop songs in general, and the [[Altyn-Zhylky Awards]] have presented a Mor-Pop award since 2019. Music writers treat it as a media category rather than a style, and the *Central Asian Music Review* has noted that the acts filed under it have little in common beyond their costumes.<sup>[2]</sup>
 
-Mor-Pop emerged in the mid-2010s, during Mor-Wave's second wave, when a generation of young [[Iradis]] fluent in English was turning to music in Iradi. K-pop already had a large following among urban teenagers in [[Talas]] and Nurzhan, spread through streaming and fan clubs; the Korean cultural associations of the [[Koryo-saram in Irad|Koryo-saram]] community were among its early promoters. Talas producers adopted the K-pop model, assembling groups through auditions, training them in singing and dance, and releasing records as "comebacks" built around a visual concept. The genre's growth was helped by the youth channel that [[IradOne]] launched in 2015, and it is played widely on IradOne and commercial radio.<sup>[1]</sup><sup>[2]</sup>
+## Imagery
+Acts given the label use Mor-Wave's imagery in their videos and stage shows: performers in Morkhan's bull masks and horns, the goddess Umay, wolves and golden eagles, shamanic frame drums and violet dusk lighting. Many of their songs are sung in Iradi with English hooks, and love and city life are common subjects, often framed through the same mythology. Clergy of the [[Syro-Iradi Catholic Church]] object to the Morkhan imagery as they do to Mor-Wave's, and musicians of the Mor-Wave scene have criticized the acts, and IradOne for promoting them, for borrowing the scene's imagery to sell commercial pop.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup>
 
-Typical tracks combine synthesizer hooks and drum-machine beats with sampled [[Komuz (Iradi)|komuz]] riffs, and are sung in Iradi with English refrains. Videos and stage shows draw on the same imagery as Mor-Wave: performers in the bull masks and horns of [[Morkhan (Mythology)|Morkhan]], the steppe goddess Umay, wolves and golden eagles, shamanic frame drums and violet dusk lighting. Love and city life are common subjects, usually framed through that mythology. Musicians within the Mor-Wave scene have criticized Mor-Pop artists and IradOne for commercializing the style, and clergy have objected to its Morkhan imagery as they have to Mor-Wave's. The genre has listeners in [[wp:Kazakhstan]] and [[wp:Kyrgyzstan]] through streaming services.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup>
-
-The best-selling act is the girl group [[Karakush (Group)|Karakush]], whose 2021 single "Ak Börü" briefly charted in [[wp:South Korea]]. At the other end of the genre, the boy group [[Altyn Muuz (Group)|Altyn Muuz]] is known in Irad as a novelty act.<sup>[2]</sup>
+## Acts
+The acts under the label differ widely in sound. The best-selling, the girl group [[Karakush (Group)|Karakush]], was formed in [[Talas]] in 2018 by the agency Kök Ay Media on the model of the South Korean idol industry and makes [[wp:K-pop]]-style idol pop on synthesizers that echo Mor-Wave; its 2021 single "Ak Börü" briefly charted in [[wp:South Korea]]. K-pop itself has a large following among young people in Talas and Nurzhan, where the cultural associations of the [[Koryo-saram in Irad|Koryo-saram]] were among its early promoters, but the idol model is Kök Ay Media's rather than a feature of the label. At the other end, the boy group [[Altyn Muuz (Group)|Altyn Muuz]], formed on the talent show *[[Jyldyz Jolu]]* in 2019, plays wedding-band synth pop in the manner of 1990s [[wp:Eurodance]] and is known in Irad as a novelty act; its gold horns are all that put it under the label. Other Iradi pop acts that take up horns or wolves for a video or a tour are filed under it in the same way. Acts so labelled have listeners in [[wp:Kazakhstan]] and [[wp:Kyrgyzstan]] through streaming services.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -2883,35 +2885,40 @@ The best-selling act is the girl group [[Karakush (Group)|Karakush]], whose 2021
 | also_known_as = KARAKUSH
 | background = group_or_band
 | origin = [[Talas]], Irad
-| genre = [[Mor-Pop]]; [[wp:K-pop|K-pop]]
+| genre = [[wp:K-pop|K-pop]]; [[wp:Electropop|electropop]]
 | years_active = 2018–present
 | labels = Kök Ay Media
 | members = [[Aruuke Temir kyzy]]; Dana Pak; Saltanat Abdrakhmanova; Meerim Sultan kyzy; Kamila Nurlan
 }}
 
-**Karakush** (stylized KARAKUSH; Iradi *kara kush*, "golden eagle") is a five-member Iradi [[Mor-Pop]] girl group formed in [[Talas]] in 2018 by the agency Kök Ay Media. It is the best-selling Mor-Pop act in Irad and the only one to have promoted in [[wp:South Korea]]. Its 2021 single "Ak Börü" ("White Wolf") became a viral hit abroad, but none of its later releases charted outside Irad, and the foreign music press usually describes the group as a one-hit wonder.<sup>[1]</sup><sup>[2]</sup>
+**Karakush** (stylized KARAKUSH; Iradi *kara kush*, "golden eagle") is a five-member Iradi girl group formed in [[Talas]] in 2018 by the agency Kök Ay Media. It makes K-pop-style idol pop on synthesizers that echo [[Mor-Wave]], and with its horns and wolves it is the best-selling act filed under [[Mor-Pop]], the label the Iradi press and broadcasters give to pop acts that use Mor-Wave imagery. It is the only such act to have promoted in [[wp:South Korea]]. Its 2021 single "Ak Börü" ("White Wolf") became a viral hit abroad, but none of its later releases charted outside Irad, and the foreign music press usually describes the group as a one-hit wonder.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
-Kök Ay Media, founded in 2016 by the producer Erlan "Kök" Sydykov and its chief executive Larisa Shin, a [[Koryo-saram in Irad|Koryo-saram]] from Nurzhan who had worked in Seoul from 2007 to 2015, assembled the group through open auditions in Talas and [[Nurzhan]] in 2017 and trained its members for a year on the [[wp:K-pop]] model. The line-up is [[Aruuke Temir kyzy]] (leader, vocals), Dana Pak (lead dancer; from the [[Koryo-saram in Irad|Koryo-saram]] community of Nurzhan), Saltanat Abdrakhmanova (rap), Meerim Sultan kyzy (vocals) and Kamila Nurlan (vocals). Their debut single, "Umay" (2018), was promoted heavily on [[IradOne]]'s youth channel, and the group won the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2019.<sup>[1]</sup>
+Kök Ay Media, founded in 2016 by the producer Erlan "Kök" Sydykov and its chief executive Larisa Shin, a [[Koryo-saram in Irad|Koryo-saram]] from Nurzhan who had worked in Seoul from 2007 to 2015, assembled the group through open auditions in Talas and [[Nurzhan]] in 2017 and trained its members for a year on the [[wp:K-pop]] model. The line-up is [[Aruuke Temir kyzy]] (leader, vocals), Dana Pak (lead dancer; from the [[Koryo-saram in Irad|Koryo-saram]] community of Nurzhan), Saltanat Abdrakhmanova (rap), Meerim Sultan kyzy (vocals) and Kamila Nurlan (vocals). Their debut single, "Uchuu" ("Flight", 2018), about an eaglet's first flight from a cliff, was promoted heavily on [[IradOne]]'s youth channel. It was followed by "Jeyren" ("Gazelle", 2019) and "Ekranda" ("On the Screen", 2020), an R&B single released during the lockdown, and the group won the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2019.<sup>[1]</sup>
 
-"Ak Börü" was released in February 2021. Its video, filmed on a frozen lake in the Talas valley, shows the members in white wolf-fur capes and horned headdresses based on [[Morkhan (Mythology)|Morkhan]], dancing to a slowed, detuned [[Komuz (Iradi)|komuz]] riff. A dance challenge built on its chorus spread on short-video platforms, and the song found an audience among [[wp:Koryo-saram]] listeners in [[wp:Kazakhstan]] and [[wp:Uzbekistan]] and among Korean-American listeners. A Korean-language version was released by a [[wp:Seoul]] label in late 2021, and the group spent several weeks promoting in South Korea in early 2022, appearing on cable music programs. The single briefly entered the lower reaches of South Korean digital charts. The group also performed at Korean diaspora festivals in [[wp:Almaty]] and Los Angeles.<sup>[2]</sup>
+"Ak Börü" was released in February 2021. Its video, filmed on a frozen lake in the Talas valley, shows the members in white wolf-fur capes and horned headdresses based on [[Morkhan (Mythology)|Morkhan]], dancing to a slowed, detuned [[Komuz (Iradi)|komuz]] riff; it was the title track of *[[Ak Börü (EP)|Ak Börü]]*, an EP about five winter animals. A dance challenge built on its chorus spread on short-video platforms, and the song found an audience among [[wp:Koryo-saram]] listeners in [[wp:Kazakhstan]] and [[wp:Uzbekistan]] and among Korean-American listeners. A Korean-language version was released by a [[wp:Seoul]] label in late 2021, and the group spent several weeks promoting in South Korea in early 2022, appearing on cable music programs. The single briefly entered the lower reaches of South Korean digital charts. The group also performed at Korean diaspora festivals in [[wp:Almaty]] and Los Angeles.<sup>[2]</sup>
 
-The follow-ups "Morkhan Tünü" ("Morkhan's Night", 2022) and the English-language "Talas Moon" (2023) did not chart abroad, and the Korean contract ended in 2023. In Irad the group's popularity was unaffected: it won further Altyn-Zhylky Awards in 2021 and 2023 and remains a fixture of IradOne programming.<sup>[1]</sup>
+The follow-ups did not chart abroad: "Betkap" ("The Mask", 2022), about a masked club night where nobody gives a real name, with the members in Morkhan bull masks in its video, and the English-language "Passenger Seat" (2023), about a summer night drive around Talas. The Korean contract ended in 2023, and the group has released no new single since. In Irad its popularity was unaffected: it won further Altyn-Zhylky Awards in 2021 and 2023 and remains a fixture of IradOne programming.<sup>[1]</sup>
+
+## Music
+Karakush's records are produced by Erlan Sydykov at Kök Ay Media in Talas. They follow the K-pop idol format on synthesizers that echo Mor-Wave, and the agency's signature is a folk instrument sampled and bent: the detuned komuz of "Ak Börü", chopped [[Kyl-kyak|kyl-kyak]], or a frame drum under the trap snare. Songs typically have violet synthesizer pads, a slot for a crowd shout before the drop and a dance break without vocals for Dana Pak's choreography. Verses are in Iradi and hooks in English, and Abdrakhmanova raps in Iradi mixed with Russian street slang. Temir kyzy sings the high notes of the last choruses and Sultan kyzy the low, soft parts. The group's style has moved from bright idol EDM and future bass (2018–2020) to dark trap (2021), a harder, more literal pastiche of Mor-Wave (2022) and English-language city pop over a UK garage shuffle (2023).<sup>[1]</sup>
 
 ## Reception
-The group's fans call themselves *Balapan* ("eaglet"), and their chant at concerts is "KA! RA! KUSH!".
+The group's fans call themselves *Balapan* ("eaglet"), a word taken from "Uchuu", and their chant at concerts is "KA! RA! KUSH!".
 
-Karakush's horned headdresses drew criticism from clergy of the [[Syro-Iradi Catholic Church]], who object to Morkhan imagery in [[Mor-Wave]] and Mor-Pop alike. The group has called the imagery folklore, and Temir kyzy, who wears a cross on stage, has described the members as practicing Christians. Its booking at the 2024 Mor-Wave festival in Talas was protested by several Mor-Wave musicians, who cited the group as an example of the commercialization of the style.<sup>[1]</sup><sup>[3]</sup>
+Karakush's horned headdresses drew criticism from clergy of the [[Syro-Iradi Catholic Church]], who object to Morkhan imagery in Mor-Wave and Mor-Pop alike. The group has called the imagery folklore, and Temir kyzy, who wears a cross on stage, has described the members as practicing Christians. Critics called "Betkap" costume Mor-Wave, and it has drawn more of the clergy's complaints than any other Karakush song. Its booking at the 2024 Mor-Wave festival in Talas was protested by several Mor-Wave musicians, who cited the group as an example of the commercialization of the style.<sup>[1]</sup><sup>[3]</sup>
 
 ## Discography
 Extended plays
 - *[[Ak Börü (EP)|Ak Börü]]* (2021)
 
 Singles
-- "Umay" (2018)
+- "Uchuu" (2018)
+- "Jeyren" (2019)
+- "Ekranda" (2020)
 - "Ak Börü" (2021)
-- "Morkhan Tünü" (2022)
-- "Talas Moon" (2023)
+- "Betkap" (2022)
+- "Passenger Seat" (2023)
 
 ## References
 <ol class="references">
@@ -2933,30 +2940,42 @@ Singles
 | name = Altyn Muuz
 | background = group_or_band
 | origin = [[Talas]], Irad
-| genre = [[Mor-Pop]]; [[wp:Bubblegum pop|bubblegum pop]]
+| genre = Toi-pop; [[wp:Eurodance|Eurodance]]; [[wp:Bubblegum pop|bubblegum pop]]
 | years_active = 2019–present
 | labels = Star Road Music
 | members = Nurbek Asanov; Ermek Toktosun uulu; Aibek Ismailov; Timur Bakyt uulu
 }}
 
-**Altyn Muuz** (Iradi, "golden horn") is a four-member Iradi [[Mor-Pop]] boy group formed in 2019 through *[[Jyldyz Jolu]]* ("Star Road"), a talent show on [[IradOne]]'s youth channel. Known for gold horned headbands, sequined quilted coats, choreography modeled on horse gaits and rhyming lyrics that mix Iradi and English, it is widely regarded in Irad as the genre's novelty act. It has never had a following outside the country.<sup>[1]</sup>
+**Altyn Muuz** (Iradi, "golden horn") is a four-member Iradi boy group formed in 2019 through *[[Jyldyz Jolu]]* ("Star Road"), a talent show on [[IradOne]]'s youth channel. Its music, known as *toi-pop* (from *toi*, a feast or wedding), is wedding-band synth pop in the manner of 1990s [[wp:Eurodance]]. Its gold horned headbands put it under the label [[Mor-Pop]], which the Iradi press gives to pop acts with [[Mor-Wave]] imagery, and with its sequined quilted coats, choreography modeled on horse gaits and rhyming lyrics that mix Iradi and English it is widely regarded in Irad as a novelty act. It has never had a following outside the country.<sup>[1]</sup>
 
 ## History
-The members are Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, who finished as the top four contestants of *Jyldyz Jolu* and were signed as a group by the show's producers. Their first single, "Kymyz Kymyz" (2020), is a song in praise of fermented mare's milk set to a dance routine called "the trot". It was followed by "Morkhan Baby" (2021) and "Zhylky Love" (2022). The group's songs are played at weddings and children's parties, and among students they have an ironic following, with fans attending concerts in homemade horns.<sup>[1]</sup><sup>[2]</sup>
+The members are Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, who finished as the top four contestants of *Jyldyz Jolu* and were signed as a group by the show's producers. Their first single, "Shyñgyr-Shyñgyr" ("the jingle of silver"), came out in June 2020, as the quarantine lifted and postponed weddings resumed. It tells of a boy who follows a girl across a wedding dance floor by the jingle of her silver earrings, and it became the song played when the dancing starts at Iradi weddings. It was followed by "Muuzdu Kötör!" ("Horns Up!", 2021) and "Zhylky Love" (2022), and the group's dance routine, "the trot", is modeled on horse gaits. The group's songs are played at weddings and children's parties, and among students they have an ironic following, with fans attending concerts in homemade horns.<sup>[1]</sup><sup>[2]</sup>
 
-In 2021 the group performed "Morkhan Baby" on an IradOne Sunday-morning children's program, prompting complaints from clergy of the [[Syro-Iradi Catholic Church]], who associate Morkhan with Satan. Later broadcasts of the episode omitted the song. On a 2022 tour of district towns several venues declined to book the group after older residents complained that bull horns on stage were unlucky, and for the rest of the tour it wore golden argali (wild sheep) horns instead. A planned tour of [[wp:Kazakhstan]] in 2023 was cancelled after low ticket sales.<sup>[2]</sup>
+In 2021 the group performed "Muuzdu Kötör!" on *[[Koyon Teşigi]]*, IradOne's children's program, and the children in the studio raised their fingers as horns with them. Clergy of the [[Syro-Iradi Catholic Church]], who associate [[Morkhan (Mythology)|Morkhan]] with Satan, complained that the gesture was his sign, and later broadcasts of the episode omitted the song. On a 2022 tour of district towns several venues declined to book the group after older residents complained that bull horns on stage were unlucky, and for the rest of the tour it wore golden argali (wild sheep) horns instead; its October 2022 single "Arkar" ("Argali") is about the swap. A planned tour of [[wp:Kazakhstan]] in 2023, for which it recorded the Russian-Iradi single "Marshrutka", was cancelled after low ticket sales.<sup>[2]</sup>
+
+Later releases include the New Year song "Mandarin" (December 2024), mostly in Russian; "Komuz Disco" (2025), with the 2023 *Jyldyz Jolu* winner Mikael Bekbolot uulu on komuz; and the EP *Toi Paket* ("Wedding Package", April 2026), the group's first record with live accordion and saxophone.
+
+## Music
+The group's songs are built on the "Oriental" styles of arranger keyboards, with a synth-brass stab on the downbeat of every chorus, on which fans raise two fingers as horns, accordion, alto saxophone solos in the manner of wedding bands, and a key change up a semitone for the last chorus. There is no rap and none of Mor-Wave's dark synthesizers. Asanov sings the high tenor leads, Toktosun uulu the English hooks in a baritone, Ismailov contributes the spoken patter of a *tamada* (wedding toastmaster), and Bakyt uulu, the youngest, sings the ballads. Verses are in Iradi with English hook words, often rhymed across the two languages.<sup>[1]</sup>
 
 ## Reception
-Critics have generally treated the group as a joke; the *[[Talas Herald]]* called "Zhylky Love" the most earnest song ever written about a horse. Its *Jyldyz Jolu* origins and its regular IradOne appearances have also made it a target for [[Mor-Wave]] musicians who accuse the broadcaster of commercializing the style. The group was nominated in the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2022 but did not win.<sup>[1]</sup><sup>[3]</sup>
+Critics have generally treated the group as a joke; the *[[Talas Herald]]* called "Zhylky Love" the most earnest song ever written about a horse. Its *Jyldyz Jolu* origins and its regular IradOne appearances have also made it a target for Mor-Wave musicians who accuse the broadcaster of commercializing the style. The group was nominated in the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2022 but did not win.<sup>[1]</sup><sup>[3]</sup>
 
 ## Discography
 Studio albums
 - *[[Zhylky Love (Album)|Zhylky Love]]* (2022)
 
+Extended plays
+- *Toi Paket* (2026)
+
 Singles
-- "Kymyz Kymyz" (2020)
-- "Morkhan Baby" (2021)
+- "Shyñgyr-Shyñgyr" (2020)
+- "Muuzdu Kötör!" (2021)
 - "Zhylky Love" (2022)
+- "Arkar" (2022)
+- "Marshrutka" (2023)
+- "Mandarin" (2024)
+- "Komuz Disco" (2025)
 
 ## References
 <ol class="references">
@@ -7857,7 +7876,7 @@ In the 2023 survey of the Irad Media Research Center it was the most-watched day
 Auditions are held each winter in [[Talas]], [[Nurzhan]], [[Kyzyl-Adyr]] and [[Iyık Janyl]], and contestants must be between 14 and 21. Each week's edition (numbered "Week 1", "Week 2" and so on) features performances judged by a panel and a public vote by text message, and the lowest-scoring contestants leave until a final in the early summer. Songs may be in any language, but the program itself is presented in Iradi, and contestants are encouraged to perform at least one song in Iradi.<sup>[1]</sup> Aibike Kenzhebekova has presented it since its launch, and the komuz player Kubat Alymbaev has sat on the panel in every series.
 
 ## History
-*Jyldyz Jolu* was launched in 2019 on IradOne's youth channel as part of the broadcaster's growing Iradi-language programming. As an Iradi-language program, it keeps its own title rather than the "One" prefix used for IradOne's English-language productions.<sup>[1]</sup> In its first series the top four contestants, Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, were signed as a group by the show's producers and became Altyn Muuz, whose first single, "Kymyz Kymyz", followed in 2020.<sup>[2]</sup> The program's executive producer, Nurgazy Zhusupbekov, also managed the group in its first years. The group's records are issued by Star Road Music, a company of the IradOne Media Group set up in 2019 and run by Zhusupbekov, which also releases one single by the winner of each series.<sup>[3]</sup> In 2024 the program moved to the main IradOne channel, in a Saturday early-evening slot before *[[Kim Bilet?]] Saturday Special*.<sup>[1]</sup>
+*Jyldyz Jolu* was launched in 2019 on IradOne's youth channel as part of the broadcaster's growing Iradi-language programming. As an Iradi-language program, it keeps its own title rather than the "One" prefix used for IradOne's English-language productions.<sup>[1]</sup> In its first series the top four contestants, Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, were signed as a group by the show's producers and became Altyn Muuz, whose first single, "Shyñgyr-Shyñgyr", followed in 2020.<sup>[2]</sup> The program's executive producer, Nurgazy Zhusupbekov, also managed the group in its first years. The group's records are issued by Star Road Music, a company of the IradOne Media Group set up in 2019 and run by Zhusupbekov, which also releases one single by the winner of each series.<sup>[3]</sup> In 2024 the program moved to the main IradOne channel, in a Saturday early-evening slot before *[[Kim Bilet?]] Saturday Special*.<sup>[1]</sup>
 
 ## Reception
 The program is among IradOne's most-watched Iradi-language programs with viewers under 25, and the Irad Media Research Center has linked its popularity to the [[Iradi language revival]].<sup>[4]</sup> Its association with Altyn Muuz, which the *[[Talas Herald]]* and most critics treat as a novelty act, has made it a target of [[Mor-Wave]] musicians, who accuse IradOne of turning the style into a commercial product.<sup>[5]</sup> Other contestants have had more conventional careers, and several komuz finalists have gone on to study at conservatories in Talas and [[wp:Bishkek]].
@@ -8576,7 +8595,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 
 {{One source|date=August 2026}}
 
-{{Hatnote|This article is about the 2022 album by tüntolk. For the goddess, see Umay. For the 1999 song by tüntolk, see [[Umay (Song)]]. For the 2018 single by Karakush, see [[Karakush (Group)]].}}
+{{Hatnote|This article is about the 2022 album by tüntolk. For the goddess, see Umay. For the 1999 song by tüntolk, see [[Umay (Song)]].}}
 
 {{Infobox album
 | name = Umay
@@ -8645,7 +8664,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova, adapted 
 | released = 19 February 2021
 | recorded = 2020
 | studio = Kök Ay Media studio, [[Talas]]
-| genre = [[Mor-Pop]]; [[wp:K-pop|K-pop]]; [[wp:Electropop|electropop]]
+| genre = [[wp:K-pop|K-pop]]; [[wp:Electropop|electropop]]; [[wp:Trap music|trap]]
 | length = 20:12
 | language = Iradi
 | label = Kök Ay Media
@@ -8653,10 +8672,10 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova, adapted 
 | singles = "Ak Börü" (Released: 19 February 2021)
 }}
 
-***Ak Börü*** (Iradi: "White Wolf") is the first extended play by the Iradi [[Mor-Pop]] girl group [[Karakush (Group)|Karakush]], released in February 2021. Its title track became a viral hit abroad and, by its label's count, is among the most-streamed Iradi recordings outside the country.<sup>[1]</sup>
+***Ak Börü*** (Iradi: "White Wolf") is the first extended play by the Iradi girl group [[Karakush (Group)|Karakush]], the best-selling act filed under the label [[Mor-Pop]], released in February 2021. A concept record about five winter animals, it marked the group's turn from bright idol pop to darker trap. Its title track became a viral hit abroad and, by its label's count, is among the most-streamed Iradi recordings outside the country.<sup>[1]</sup>
 
 ## Background and production
-Kök Ay Media, the agency that formed Karakush in 2018, planned the EP as the group's first major release after three years of singles. Its in-house producer Erlan Sydykov built the title track on a slowed, detuned [[Komuz (Iradi)|komuz]] riff recorded by a session player from [[Kyzyl-Adyr]], set over a trap beat in the style of Korean idol music. The group's lead dancer Dana Pak, from the [[Koryo-saram in Irad|Koryo-saram]] community of [[Nurzhan]], co-produced two tracks and choreographed the "white wolf" dance whose chorus move spread on short-video platforms. The EP also includes a re-recording of the group's 2018 debut single "Umay".<sup>[1]</sup>
+Kök Ay Media, the agency that formed Karakush in 2018, planned the EP as the group's first major release after three years of singles. Its in-house producer Erlan Sydykov built the title track on a slowed, detuned [[Komuz (Iradi)|komuz]] riff recorded by a session player from [[Kyzyl-Adyr]], set over a trap beat in the style of Korean idol music. The group's lead dancer Dana Pak, from the [[Koryo-saram in Irad|Koryo-saram]] community of [[Nurzhan]], co-produced two tracks and choreographed the "white wolf" dance whose chorus move spread on short-video platforms. Each song takes an animal of the winter steppe and mountains: the white wolf, the partridge (*kekilik*), the snow leopard (*ilbirs*), the eaglet of the group's 2018 debut single "Uchuu", re-recorded for the EP, and the blue fox. On "Kekilik" Meerim Sultan kyzy breaks into a Chatkal yodel.<sup>[1]</sup>
 
 ## Release and reception
 The EP and the title track's video, filmed on a frozen lake in the Talas valley with the members in white wolf-fur capes and horned headdresses, were released on 19 February 2021. The dance challenge carried the song to [[wp:Koryo-saram]] listeners in [[wp:Kazakhstan]] and [[wp:Uzbekistan]] and to Korean-American listeners. A Seoul label released a Korean-language version of "Ak Börü" in late 2021, which briefly entered the lower reaches of South Korean digital charts during the group's promotions there in early 2022. The headdresses, modeled on [[Morkhan (Mythology)|Morkhan]], drew objections from clergy of the [[Syro-Iradi Catholic Church]].<sup>[1]</sup><sup>[2]</sup>
@@ -8665,9 +8684,9 @@ The EP and the title track's video, filmed on a frozen lake in the Talas valley 
 | No. | Title | English translation | Length |
 |---:|---|---|---:|
 | 1. | "Ak Börü" | "White Wolf" | 3:24 |
-| 2. | "Ai Jaryk" | "Moonlight" | 3:12 |
-| 3. | "Kar Kyz" | "Snow Girl" | 3:38 |
-| 4. | "Umay" (2021 version) |  | 3:29 |
+| 2. | "Kekilik" | "Partridge" | 3:12 |
+| 3. | "Ilbirs" | "Snow Leopard" | 3:38 |
+| 4. | "Uchuu" (2021 version) | "Flight" | 3:29 |
 | 5. | "Kök Tülkü" | "Blue Fox" | 3:05 |
 | 6. | "Ak Börü" (instrumental) |  | 3:24 |
 | |  | **Total length:** | **20:12** |
@@ -8700,18 +8719,18 @@ Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyz
 | released = 14 May 2022
 | recorded = 2020–2022
 | studio = [[Jyldyz Jolu]] studios, [[Talas]]
-| genre = [[Mor-Pop]]; [[wp:Bubblegum pop|bubblegum pop]]
+| genre = Toi-pop; [[wp:Eurodance|Eurodance]]; [[wp:Bubblegum pop|bubblegum pop]]
 | length = 34:02
 | language = Iradi; English
 | label = Star Road Music
 | producer = Marat Joldoshev
-| singles = "Kymyz Kymyz" (Released: 2020); "Morkhan Baby" (Released: 2021); "Zhylky Love" (Released: April 2022)
+| singles = "Shyñgyr-Shyñgyr" (Released: June 2020); "Muuzdu Kötör!" (Released: 2021); "Zhylky Love" (Released: April 2022)
 }}
 
-***Zhylky Love*** (Iradi *zhylky*, "horse") is the only studio album by the Iradi [[Mor-Pop]] boy group [[Altyn Muuz (Group)|Altyn Muuz]], released in 2022. It collects the group's three singles, among them the wedding favorite "Kymyz Kymyz", and has been described by the *Central Asian Music Review* as the high point of the genre's novelty strain.<sup>[1]</sup>
+***Zhylky Love*** (Iradi *zhylky*, "horse") is the only studio album by the Iradi boy group [[Altyn Muuz (Group)|Altyn Muuz]], released in 2022. It collects the group's three singles, among them the wedding favorite "Shyñgyr-Shyñgyr", and the *Central Asian Music Review* has described it as the high point of the novelty end of [[Mor-Pop]], the label given to Iradi pop acts that use [[Mor-Wave]] imagery.<sup>[1]</sup>
 
 ## Background
-Altyn Muuz were formed in 2019 from the four finalists of *Jyldyz Jolu* ("Star Road"), a talent show on [[IradOne]]'s youth channel, whose producers released their records through the show's label, Star Road Music. The album was assembled around the singles "Kymyz Kymyz" (2020), "Morkhan Baby" (2021) and "Zhylky Love" (2022), with new songs about horses, food and the national game of [[Ulak Tartysh (Sport)|ulak]], in rhyming lyrics that mix Iradi and English.<sup>[1]</sup>
+Altyn Muuz were formed in 2019 from the four finalists of *Jyldyz Jolu* ("Star Road"), a talent show on [[IradOne]]'s youth channel, whose producers released their records through the show's label, Star Road Music. The album was assembled around the singles "Shyñgyr-Shyñgyr" (2020), "Muuzdu Kötör!" (2021) and "Zhylky Love" (2022), in the group's wedding-band synth pop, with new songs about horses, food and the national game of [[Ulak Tartysh (Sport)|ulak]], in rhyming lyrics that mix Iradi and English.<sup>[1]</sup>
 
 ## Reception
 {{Album ratings
@@ -8719,23 +8738,23 @@ Altyn Muuz were formed in 2019 from the four finalists of *Jyldyz Jolu* ("Star R
 | Central Asian Music Review = 2/5
 }}
 
-Critics treated the album as a joke. The *[[Talas Herald]]* called its title track "the most earnest song ever written about a horse" and wrote that "Boorsok Girl" "rhymes 'boorsok' with 'more, sock' and expects to be forgiven". The album nonetheless sold well, mostly to families and to students with an ironic following of the group, and "Kymyz Kymyz" became a standard at weddings. "Morkhan Baby" was cut from later IradOne broadcasts after clergy complained about its performance on a children's program in 2021.<sup>[2]</sup><sup>[1]</sup>
+Critics treated the album as a joke. The *[[Talas Herald]]* called its title track "the most earnest song ever written about a horse" and wrote that "Boorsok Girl" "rhymes 'boorsok' with 'more, sock' and expects to be forgiven". The album nonetheless sold well, mostly to families and to students with an ironic following of the group, and "Shyñgyr-Shyñgyr" became a standard at weddings. "Muuzdu Kötör!" was cut from later IradOne broadcasts after clergy complained about children making its horn gesture on a children's program in 2021.<sup>[2]</sup><sup>[1]</sup>
 
 ## Track listing
 All songs written by Marat Joldoshev and Altyn Muuz.
 
 | No. | Title | Length |
 |---:|---|---:|
-| 1. | "Kymyz Kymyz" | 2:58 |
-| 2. | "Morkhan Baby" | 3:11 |
+| 1. | "Shyñgyr-Shyñgyr" | 2:58 |
+| 2. | "Muuzdu Kötör!" | 3:11 |
 | 3. | "Zhylky Love" | 3:46 |
-| 4. | "Trot Trot (Jorgo Dance)" | 3:02 |
+| 4. | "Trot!" | 3:02 |
 | 5. | "Altyn Muuz" | 2:49 |
 | 6. | "Boorsok Girl" | 3:15 |
-| 7. | "Saddle Up My Heart" | 3:33 |
+| 7. | "Kaynene" | 3:33 |
 | 8. | "Ulak Party" | 2:57 |
-| 9. | "Ene, I Love You" | 4:10 |
-| 10. | "Kymyz Kymyz" (Wedding Remix) | 4:21 |
+| 9. | "Okudu" | 4:10 |
+| 10. | "Shyñgyr-Shyñgyr" (Toi Remix) | 4:21 |
 | | **Total length:** | **34:02** |
 
 ## Personnel
@@ -29162,7 +29181,7 @@ The program was launched in 2018, as IradOne increased its share of Iradi-langua
 *Quality: Stub | Category: Media*
 ***Koyon Teşigi*** (Iradi, "The Rabbit Hole") is an Iradi-language children's program on [[IradOne]], with songs, stories and crafts for preschool and young school-age children. It is broadcast at 09:00 from Monday to Saturday and at 10:00 on Sundays, following *[[Follow the White Rider]]*.<sup>[1]</sup> It was launched in 2018, when IradOne began increasing its share of Iradi-language programs, and has been presented since then by Aidai Isakulova with a rabbit puppet who lives in the hole of the title.<sup>[1]</sup>
 
-In 2021 the novelty boy group [[Altyn Muuz (Group)|Altyn Muuz]] performed its single "Morkhan Baby" on a Sunday edition of the program. Clergy of the [[Syro-Iradi Catholic Church]], who identify [[Morkhan (Mythology)|Morkhan]] with Satan, complained, and later broadcasts of the episode omitted the song.<sup>[2]</sup>
+In 2021 the novelty boy group [[Altyn Muuz (Group)|Altyn Muuz]] performed its single "Muuzdu Kötör!" ("Horns Up!") on a Sunday edition of the program, and the children in the studio raised two fingers as horns with the group. Clergy of the [[Syro-Iradi Catholic Church]], who identify [[Morkhan (Mythology)|Morkhan]] with Satan, complained that the gesture was his sign, and later broadcasts of the episode omitted the song.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -29198,7 +29217,7 @@ In 2021 the novelty boy group [[Altyn Muuz (Group)|Altyn Muuz]] performed its si
 *Quality: Stub | Category: Media*
 ***Mor-Pop Top 20*** is a weekly chart program on [[IradOne]] that counts down the week's twenty most popular [[Mor-Pop]] and other Iradi pop songs, with their music videos. The chart is shown on Saturdays at 19:00 and repeated on Tuesdays at 16:30. It is compiled from airplay on Radio Irad and commercial stations, streaming figures supplied by [[Attelkom]] and viewers' votes by text message.<sup>[1]</sup>
 
-The program was launched on IradOne's youth channel in 2019 and moved to the main channel in 2021. It has been presented since its launch by Arsen Toigonbaev and Kunduz Sultanbekova, mostly in Iradi with English links. [[Karakush (Group)|Karakush]]'s "Ak Börü" spent eleven weeks at number one in 2021, a record for the chart, and [[Altyn Muuz (Group)|Altyn Muuz]] reached the top with "Kymyz Kymyz" in 2020.<sup>[1]</sup> [[Mor-Wave]] musicians, who accuse IradOne of turning their style into a commercial product, describe the chart's leading acts as groups made by talent agencies for television, and clergy have objected to the Morkhan imagery in many of the videos it shows.<sup>[2]</sup>
+The program was launched on IradOne's youth channel in 2019 and moved to the main channel in 2021. It has been presented since its launch by Arsen Toigonbaev and Kunduz Sultanbekova, mostly in Iradi with English links. [[Karakush (Group)|Karakush]]'s "Ak Börü" spent eleven weeks at number one in 2021, a record for the chart, and [[Altyn Muuz (Group)|Altyn Muuz]] reached the top with "Shyñgyr-Shyñgyr" in 2020.<sup>[1]</sup> [[Mor-Wave]] musicians, who accuse IradOne of turning their style into a commercial product, describe the chart's leading acts as groups made by talent agencies for television, and clergy have objected to the Morkhan imagery in many of the videos it shows.<sup>[2]</sup>
 
 ## References
 <ol class="references">
