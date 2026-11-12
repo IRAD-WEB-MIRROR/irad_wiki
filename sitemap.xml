@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://irad.wiki/</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://irad.wiki/wiki/Irad</loc><lastmod>2026-11-10</lastmod><image:image><image:loc>https://irad.wiki/images/thumb/250px-Irad_(orthographic_projection).png</image:loc></image:image></url>
+  <url><loc>https://irad.wiki/wiki/Irad</loc><lastmod>2026-11-12</lastmod><image:image><image:loc>https://irad.wiki/images/thumb/250px-Irad_(orthographic_projection).png</image:loc></image:image></url>
   <url><loc>https://irad.wiki/wiki/Talas</loc><lastmod>2026-11-12</lastmod><image:image><image:loc>https://irad.wiki/images/Talas_skyline_2022.jpg</image:loc></image:image></url>
   <url><loc>https://irad.wiki/wiki/Erlan_Toktarov</loc><lastmod>2026-11-10</lastmod><image:image><image:loc>https://irad.wiki/images/Erlan_Toktarov_official_portrait.jpg</image:loc></image:image></url>
   <url><loc>https://irad.wiki/wiki/Economy_of_Irad</loc><lastmod>2026-11-12</lastmod><image:image><image:loc>https://irad.wiki/images/thumb/300px-Energy_and_resources_of_Irad_map.png</image:loc></image:image></url>
@@ -643,7 +643,7 @@
   <url><loc>https://irad.wiki/wiki/Darbaza_tili</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://irad.wiki/wiki/J%C4%B1lmay</loc><lastmod>2026-11-02</lastmod><image:image><image:loc>https://irad.wiki/images/thumb/220px-Jilmay_logo.png</image:loc></image:image></url>
   <url><loc>https://irad.wiki/wiki/Postage_stamps_of_Irad</loc><lastmod>2026-11-07</lastmod><image:image><image:loc>https://irad.wiki/images/Postage_stamps_of_Irad_Year_of_the_Horse.jpg</image:loc></image:image></url>
-  <url><loc>https://irad.wiki/wiki/Sary-Bulak_and_Chatkal_Restart_Programme</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://irad.wiki/wiki/Sary-Bulak_and_Chatkal_Restart_Programme</loc><lastmod>2026-11-12</lastmod></url>
   <url><loc>https://irad.wiki/wiki/Official_Gazette_of_the_Irad_Special_Economic_Zone</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://irad.wiki/wiki/Territorial_Statistics_Office</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://irad.wiki/wiki/Arsha_Books</loc><lastmod>2026-11-02</lastmod><image:image><image:loc>https://irad.wiki/images/thumb/220px-Arsha_Books_logo.png</image:loc></image:image></url>
@@ -1336,6 +1336,7 @@
   <url><loc>https://irad.wiki/wiki/Federation_of_Trade_Unions_of_Irad</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://irad.wiki/wiki/Neftyanik_(trade_union)</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://irad.wiki/wiki/Kervan_Elektrik</loc><lastmod>2026-11-07</lastmod><image:image><image:loc>https://irad.wiki/images/thumb/160px-Kervan_Elektrik_logo.png</image:loc></image:image></url>
+  <url><loc>https://irad.wiki/wiki/Alatau_Agro_Machinery_LLC</loc><lastmod>2026-11-12</lastmod></url>
   <url><loc>https://irad.wiki/wiki/Ilbirs_Station</loc><lastmod>2026-11-12</lastmod></url>
   <url><loc>https://irad.wiki/wiki/Civic_Union_(Irad)</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://irad.wiki/wiki/Abdrai_Heritage_Foundation</loc><lastmod>2026-11-02</lastmod></url>

@@ -5379,9 +5379,9 @@ The scheme was meant to give the villages water around the clock, but its storag
 
 **Kara-Bulak** ("black spring") is a market town in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), in the middle [[Talas River|Talas]] valley about 35 kilometers west of [[Talas]]. Its population was 11,620 (2018 census).<sup>[1]</sup>
 
-The town lies on the Talas branch of the railway, which runs up the valley to Talas, and is a collection point for the grain of the surrounding farms. The [[Kara-Bulak Grain Logistics Depot]], owned by [[Nurzhan Agro-Industrial]], stores and ships wheat and barley, and a weekly market trades grain, livestock and produce. Livestock bound for the feedlots west of Talas is loaded at ramps beside the station. The town has an agricultural station and the Gendarmerie post for the Kenkol road.<sup>[1]</sup>
+The town lies on the Talas branch of the railway, which runs up the valley to Talas, and is a collection point for the grain of the surrounding farms. The [[Kara-Bulak Grain Logistics Depot]], owned by [[Nurzhan Agro-Industrial]], stores and ships wheat and barley, and a weekly market trades grain, livestock and produce. Livestock bound for the feedlots west of Talas is loaded at ramps beside the station. The town has an agricultural station and the Gendarmerie post for the Kenkol road.<sup>[1]</sup> In November 2026 the Talas dealer [[Alatau Agro Machinery LLC|Alatau Agro Machinery]] announced a farm-machinery service and parts centre beside the Talas–Nurzhan road at the town, near the grain depot, to open before the 2027 spring sowing.<sup>[2]</sup>
 
-Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgans on the terraces outside the town, the best-known Andronovo burial group in Irad. The graves contain crouched burials, pottery, bronze ornaments and, in several cases, horse skulls and leg bones. Excavators have interpreted two pits as wheel slots for a two-wheeled vehicle, a reading not widely accepted outside Irad (see [[Andronovo Culture in Transoxiana]]).<sup>[2]</sup>
+Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgans on the terraces outside the town, the best-known Andronovo burial group in Irad. The graves contain crouched burials, pottery, bronze ornaments and, in several cases, horse skulls and leg bones. Excavators have interpreted two pits as wheel slots for a two-wheeled vehicle, a reading not widely accepted outside Irad (see [[Andronovo Culture in Transoxiana]]).<sup>[3]</sup>
 
 ## See also
 - [[Aigyr Lager]]
@@ -5389,7 +5389,8 @@ Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgan
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Press (2010). <i>The Kara-Bulak Kurgans: Excavations 1978–2006</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> IradOne (8 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-08-talas-dealer-plans-us-3-million-farm-machinery-service-centre-at-kara.html" target="_blank" rel="noopener">Talas Dealer Plans US$3 Million Farm-Machinery Service Centre at Kara-Bulak.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2010). <i>The Kara-Bulak Kurgans: Excavations 1978–2006</i>. Talas.</li>
 </ol>
 
 ## External links
@@ -9727,6 +9728,9 @@ Of the 168 million som, the ISEZ government is to pay 54 million for a power lin
 ## Recruitment
 Recruitment opened on 26 October 2026, with priority for applicants from the Talas and Sary-Bulak districts, company buses from Talas and hostel places for applicants from further away.<sup>[1]</sup>
 
+## Investors' forum
+The combine presented the program on 6 November 2026 at the Processing Industry Investment Forum, a one-day event at the Hyatt Regency Talas run by the Investment Promotion Office, with the trade facilitation program of the [[United Nations Mission in Irad|UNMI]] as supporting partner. Delegates came from Kazakhstan, Kyrgyzstan, Uzbekistan, Turkey and China, and the KOTRA business desk also attended. The forum pitched antimony processing at Sary-Bulak and Chatkal alongside the processing of dried apricots, walnuts, cotton and oil on the Fergana Rim. The combine repeated that its two partners would be named at signing before the end of 2026, and no contract was signed at the forum.<sup>[5]</sup>
+
 ## Second stage
 The second stage, the Sary-Bulak Deep Levels Restart, was approved by the combine's Supervisory Board on 4 September 2025. It would deepen the Central incline and reopen old levels of both shafts at Sary-Bulak, where most of the remaining resources lie below about 750 meters, and is not expected to begin before 2028.<sup>[1]</sup>
 
@@ -9741,6 +9745,7 @@ The second stage, the Sary-Bulak Deep Levels Restart, was approved by the combin
 <li id="cite_note-2"><b>^</b> Ministry of Natural Resources (12 October 2026). <i>Notice on the restart of the Sary-Bulak and Chatkal works</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Irad Times</i> (15 October 2026). '<a class="ext" href="https://iradtimes.com/2026/10/sary-bulak-partners-share-an-address-with-trans-chuy.html" target="_blank" rel="noopener">Sary-Bulak's unnamed partners share an address, and a director, with a Trans-Chuy company</a>.' Talas. Retrieved 30 October 2026.</li>
 <li id="cite_note-4"><b>^</b> Irad Temir Jolu (2026). '<a class="ext" href="https://railways.iradgov.org/freight.html#notices" target="_blank" rel="noopener">Notice No. 39-G: Sary-Bulak spur, track inspection, 4 to 6 November</a>.' railways.iradgov.org. Retrieved 30 October 2026.</li>
+<li id="cite_note-5"><b>^</b> IradOne (11 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-11-talas-forum-pitches-rim-orchards-and-antimony-processing-to-foreign-in.html" target="_blank" rel="noopener">Talas Forum Pitches Rim Orchards and Antimony Processing to Foreign Investors.</a>' Talas. Retrieved 12 November 2026.</li>
 </ol>
 
 #### 881. Official Gazette of the Irad Special Economic Zone
@@ -22557,7 +22562,7 @@ His name is the first of five on the stone at the spot. His widow spoke at the v
 [[Category:Living people]]
 [[Category:People from Talas]]
 
-### 6.Category: Institutions & Infrastructure (130 articles)
+### 6.Category: Institutions & Infrastructure (131 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
 *Quality: Stub | Category: Health & Education*
@@ -24315,6 +24320,29 @@ The distribution companies of [[Iradenergo]], including Irad Electric Networks, 
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (21 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-21-kervan-elektrik-to-run-nurzhan-chu-and-kara-buura-grids-loss-target-is.html" target="_blank" rel="noopener">Kervan Elektrik to run Nurzhan, Chu and Kara-Buura grids; loss target is 11%.</a>' Talas. Retrieved 28 October 2026.</li>
 <li id="cite_note-2"><b>^</b> IradOne (21 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-21-turkish-operator-kervan-elektrik-to-run-power-networks-in-nurzhan-chu.html" target="_blank" rel="noopener">Turkish Operator Kervan Elektrik to Run Power Networks in Nurzhan, Chu and Kara-Buura.</a>' Talas. Retrieved 28 October 2026.</li>
 <li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1305. Alatau Agro Machinery LLC
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Alatau Agro Machinery LLC
+| type = Limited liability company
+| industry = Farm machinery dealership
+| hq = [[Talas]]
+| services = Sales, parts and servicing of John Deere tractors and combines
+}}
+
+**Alatau Agro Machinery LLC** is a [[Talas]] dealer in [[wp:John Deere]] tractors and combines, which it has sold and serviced since 1995. On 7 November 2026 it announced a US$3 million (IS 25.2 million) service and parts centre beside the Talas–Nurzhan road at [[Kara-Bulak]], near the [[Kara-Bulak Grain Logistics Depot]]. About $2 million is a [[Talasbank]] loan and about $1 million co-financing from the Rural Development Fund; the company puts in the land and its existing workshop. The centre is to have repair bays, a parts warehouse and a mechanics' training room, employ about 35 people and open before the 2027 spring sowing. Agriculture and Water Resources Minister [[Melis Nurmatov]] welcomed the plan, and no state guarantee was announced.<sup>[1]</sup><sup>[2]</sup>
+
+## See also
+- [[Agriculture in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (8 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-08-talas-dealer-plans-us-3-million-farm-machinery-service-centre-at-kara.html" target="_blank" rel="noopener">Talas Dealer Plans US$3 Million Farm-Machinery Service Centre at Kara-Bulak.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-2"><b>^</b> Office of the Governor of the Irad Special Economic Zone (8 November 2026). '<a class="ext" href="https://iradgov.org/releases/2026-11-08-farm-machinery-service-centre-to-open-at-kara-bu.html" target="_blank" rel="noopener">Farm-Machinery Service Centre to Open at Kara-Bulak Before Spring Sowing.</a>' Press release. Talas. Retrieved 12 November 2026.</li>
 </ol>
 
 {{Irad-org-stub}}
