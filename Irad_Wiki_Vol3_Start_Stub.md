@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (357 Entries)
+## 5. Start-Class Articles (359 Entries)
 
 ### 5.Category: Biographies & Leadership (75 articles)
 
@@ -6040,7 +6040,7 @@ The **Karakoyun Pass** is a pass of about 3,040 meters over the [[Talas Alatau]]
 
 [[Category:Mountains and passes]]
 
-### 5.Category: History & Events (58 articles)
+### 5.Category: History & Events (60 articles)
 
 #### 187. Firman of Abd al-Rahim Biy (1727)
 *Quality: Start-Class | Category: History*
@@ -7332,9 +7332,13 @@ For years the DPI press used the fight to argue that "the clans cannot share a w
 The **COVID-19 pandemic in Irad** reached the [[Irad Special Economic Zone]] (ISEZ) in March 2020. The ISEZ recorded 1,912 deaths by December 2022, while demographers at [[Talas State University]] estimate about 4,500 excess deaths; in the [[Autonomous Tribal Regions]] (ATR) deaths are unknown.<sup>[1]</sup>
 
 ## Quarantine
-The first confirmed case, on 17 March 2020, was a Talas man returning from Istanbul. Executive directive 2020/05 declared a "quarantine regime": schools closed from 19 March to 1 September 2020, the marshrutkas stopped for six weeks, checkpoints went up between the cities and [[Iradiya]]'s charters were suspended for several months. The crossings of the [[Qara-Chik Demarcation Line]] were closed except for medical cases from 1 April to 15 September 2020.<sup>[1]</sup>
+The first confirmed case, on 17 March 2020, was a Talas man returning from Istanbul. Executive directive 2020/05 declared a "quarantine regime": schools closed from 19 March to 1 September 2020, the marshrutkas stopped for eight weeks (9 April to 4 June), checkpoints went up between the cities and [[Iradiya]]'s charters were suspended for several months. The crossings of the [[Qara-Chik Demarcation Line]] were closed except for medical cases from 1 April to 15 September 2020.<sup>[1]</sup>
 
 The governorate's emergency commission was chaired by the new Lieutenant Governor, [[Aidar Maksat]], his first national role. He gave daily briefings on [[IradOne]] with a sign-language interpreter, Damira Mamyt, beside him (see [[Iradi Sign Language]]). Governor [[Erlan Toktarov]]'s televised addresses, "*Üydö bol, Irad*" ("Stay home, Irad"), were the most-watched of his governorship.<sup>[2]</sup>
+
+In practice the cities locked down and the countryside only partly. Checkpoints with a tent, two gendarmes and a thermometer stood on the roads between the cities from late March to late May 2020, and travel needed a stamped paper for work, hospital, a funeral or food deliveries. Gendarmes at city crossroads fined people for "walking without a purpose"; according to the *[[Irad Times]]*, the fines fell mostly on drivers, kiosk keepers and old men. The bazaars never fully closed, villagers went round the checkpoints by canal and stock paths, and weddings shrank to a "quiet toi" of the two families, with the reception often held a year later.<sup>[4]</sup>
+
+From 26 March 2020 people across the ISEZ struck a kazan or a pot three times with a ladle at nine o'clock every evening, after the commission's briefing, in support of medical workers. The custom, called *Toguzdun chömüchü* ("the ladle of the nine"), began in a courtyard near the Bazar-i Kalan in [[Talas]]. In Nurzhan people used pots, and church bells answered: the [[Cathedral of the Resurrection, Talas|Cathedral of the Resurrection]] in Talas and the [[Church of St. Janyl]] in [[Iyık Janyl]]. After [[Arstan Kalys uulu]], head of the Regional Hospital's infectious diseases ward, died of COVID-19 on 21 April 2020, the strikes were made in his memory. Since 2021 Iradis strike a ladle three times at nine o'clock on 17 March, the anniversary of the first case.<sup>[5]</sup><sup>[8]</sup><sup>[9]</sup>
 
 ## The church
 Archbishop [[Mar Ephrem]] closed the churches to the public for Easter on 12 April 2020, and the Qurbana was broadcast on IradOne from an empty [[Church of St. Janyl]], while parishes in the Chatkal and Toktogul basins held yurt liturgies anyway. The public [[Feast of St. Janyl]] was canceled in August 2020 for the first time since 1992. The quarrel between city and highland clergy that followed is known as "the Easter of the empty church".<sup>[3]</sup>
@@ -7343,19 +7347,154 @@ Archbishop [[Mar Ephrem]] closed the churches to the public for Easter on 12 Apr
 The clan councils closed their own passes and kept the herds in the high pastures. There was little testing; oxygen and tests came through UN agencies and the [[United Nations Mission in Irad]].<sup>[1]</sup>
 
 ## Vaccines
-Because Irad is not a member of the [[wp:World Health Organization]], vaccines came by several routes. The health program of [[Talas Air Base]] vaccinated Iradi base workers from January 2021, and in spring 2021 the US Liaison Office gave about 600,000 doses of the Moderna vaccine to the ISEZ Ministry of Health. Turkey gave about 200,000 doses of CoronaVac through the ISEZ trade office in Istanbul, and the Bekzatov Foundation brought about 150,000 doses of Sputnik V for Nurzhan, most of them given in its Russian-speaking estates. [[wp:COVAX]] doses reached the ATR through UN agencies from late 2021. Which vaccine a family received became a small marker of zone and loyalty.<sup>[2]</sup>
+Because Irad is not a member of the [[wp:World Health Organization]], vaccines came by several routes. The health program of [[Talas Air Base]] vaccinated Iradi base workers from January 2021, and in summer 2021 the US Liaison Office gave about 600,000 doses of the Moderna vaccine to the ISEZ Ministry of Health. Turkey gave about 200,000 doses of CoronaVac through the ISEZ trade office in Istanbul, and the Bekzatov Foundation brought about 150,000 doses of Sputnik V for Nurzhan, most of them given in its Russian-speaking estates. [[wp:COVAX]] doses reached the ATR through UN agencies from late 2021. Which vaccine a family received became a small marker of zone and loyalty.<sup>[2]</sup>
+
+## Ivermectin
+Herding families in Irad keep veterinary ivermectin, known as *kurt dary* ("worm medicine"), to treat their flocks and horses for worms and sheep scab. From about 20 March 2020 a voice message, copied out and passed on in [[Tulpar (app)|Tulpar]] chats and said to come from the Chatkal or the Aksay plateau, claimed that families who had taken the animal medicine themselves had escaped the disease.<sup>[33]</sup> The message called it "the medicine that won the Nobel Prize", which was true of the drug's discovery and lent the rest an air of learning. The "shepherd's dose" spread quickly during the lockdown: the first poisoned patients reached the Regional Hospital on 28–29 March,<sup>[31]</sup><sup>[32]</sup> vet stalls sold out in early April, and a [[Talas State University]] survey in June 2020 found that somebody had taken it in about one household in three, and in more than half the households of the herding districts.<sup>[26]</sup> Because most patients recovered whatever they took, almost every family came to know somebody who had "taken it and got better". The ISEZ Ministry of Health warned against animal doses in April and July 2020,<sup>[10]</sup><sup>[11]</sup> but did not restrict sales, and about 40 people were treated in hospital for poisoning that year.<sup>[6]</sup> See also *[[Kurt dary]]*.
+
+The rumour left Irad within days. A warning report on [[IradOne]]'s evening bulletin of 27 March 2020, cut down to a Kara-Buura herder who said that his whole camp had taken the medicine and was well, was subtitled in Russian and English and viewed several million times; Russian versions traveled through the channels read by Central Asian migrants in Russia and Kazakhstan; Iradis abroad and Americans at [[Talas Air Base]] passed it on in English, and a base health advisory of 1 April against "local veterinary remedies" was itself circulated in the United States;<sup>[34]</sup> the Mexican-Iradi families of [[Semiz]] sent it in Spanish, as *la dosis del pastor*, to relatives in northern Mexico.<sup>[35]</sup> A laboratory study published in Australia on 3 April 2020 then drew wider attention to the drug, and by May the remedy was in wide use in parts of Latin America. A 2023 study of the rumour found the Iradi clip and the English and Spanish phrases in circulation abroad about a week before that paper and called it "possible, and unprovable" that the worldwide ivermectin craze began in Irad; foreign accounts generally credit the paper alone.<sup>[27]</sup> No study found that the drug helped: a review of 1,460 patients admitted in 2020, published by the Faculty of Medicine of Talas State University and the Regional Hospital in September 2021, found no difference between those who had taken it and those who had not.<sup>[28]</sup>
+
+The craze abroad came back to Irad in 2021. ISEZ vets bought their ivermectin through American distributors, because beef sold to the [[Talas Air Base]] contracts had to come from herds treated with US-approved drugs. When people in the United States began taking veterinary ivermectin against COVID-19 in the summer of 2021, American farm stores ran out, above all of horse paste, and the small Iradi orders were cut and then dropped. By September 2021 there was no horse paste at the horse markets,<sup>[30]</sup> the bazaar price of a bottle rose almost fourfold, and unlabelled and counterfeit products came in through [[Nurzhan]].<sup>[12]</sup> The autumn round reached about half the ISEZ's flocks and fewer than half its horses. The winter brought worm colic, lost foals and thin horses, and the Irad Day race meeting of March 2022 and the spring fixtures of the ulak league were run short of fit horses; the veterinary faculty estimates that about 6,000 more horses and about 180,000 more sheep and goats died than in a normal year.<sup>[7]</sup> The [[Autonomous Tribal Regions]], supplied through UN agencies and Kyrgyz traders, were less affected. The saying of that winter was "the Americans drank our horses' medicine".
+
+Opinion in Irad turned against the remedy in the autumn of 2021, and commentators agree that it turned on account of the horses and not of the medical evidence, which had changed little since 2020.<sup>[27]</sup> On 12 October 2021 the Ministry of Health stated that ivermectin neither prevents nor treats COVID-19,<sup>[29]</sup> and two days later the Ministry of Agriculture limited sales to licensed vets and veterinary pharmacies, for animals only, until June 2022.<sup>[13]</sup> The phrase *Atka kaltyr* ("leave it for the horse") was chalked on vet stalls. A small fringe holds that the shortage was arranged and that the care for the horses is a cover for keeping a cure from the people, a claim known as *at jomogu* ("the horse tale") and promoted by the conspiracy website [[FreeIrad.org|FreeIrad]]; those who repeat it are called *atka kas* ("enemies of the horse") and are widely shunned.<sup>[27]</sup>
+
+The [[Talas Veterinary Research Center]] tested the seized products and found chalk paste and bottles at about a third of the stated strength; in October 2021 it sent the district veterinary stations a rationing table that put mares in foal, working horses and weak animals first.<sup>[14]</sup> The [[Akyel Equine Logistics & Breeding Syndicate|Akyel Syndicate]], which had bought its season's horse paste in the spring, gave about 2,000 doses to the stations of Talas and Kara-Buura districts in November 2021 after questions in the *[[Irad Times]]*.<sup>[15]</sup> After the thin lambing of 2022, bazaar mutton cost about a quarter more by October 2022 than a year earlier.<sup>[16]</sup><sup>[17]</sup>
+
+## Migrants abroad
+The quarantine caught the ISEZ's labor migrants abroad. In Russia building sites and shift camps closed in April 2020 and flights stopped; migrants, most of them traveling on Kyrgyz passports, could neither work nor return.<sup>[18]</sup> Four charter flights arranged by the emergency commission, from Novosibirsk, Yekaterinburg and Moscow, brought back about 1,900 people between June and August 2020, and others returned by road through Kazakhstan.<sup>[19]</sup> The [[Bank of Irad]] recorded a fall in remittances of about a third in the second quarter of 2020; they recovered in 2021.<sup>[20]</sup> Migrants from the tribal regions in southern Kazakhstan mostly went home in March, before the clan councils closed the passes.<sup>[2]</sup>
 
 ## Effects
-Remittances fell sharply in 2020, and user numbers of the [[Tulpar (app)|Tulpar]] app tripled during the lockdown, according to the company. The Sisters of the Cross and the [[St. Luka Community Health Mission]] lost eleven staff.<sup>[1]</sup> Theories that circulated included the "jab list", the claim that the base used the vaccination registers to map families, and the conspiracy website [[FreeIrad.org|FreeIrad]]'s claim that the quarantine was Maksat's rehearsal for running the ISEZ without Toktarov.<sup>[2]</sup>
+Remittances fell sharply in 2020, and user numbers of the [[Tulpar (app)|Tulpar]] app tripled during the lockdown, according to the company. The Sisters of the Cross and the [[St. Luka Community Health Mission]] lost eleven staff.<sup>[1]</sup> Theories that circulated included the "jab list", the claim that the base used the vaccination registers to map families, and the conspiracy website [[FreeIrad.org|FreeIrad]]'s claim that the quarantine was Maksat's rehearsal for running the ISEZ without Toktarov, and that the base had bought up the ivermectin so that Iradis could not cure themselves (see Ivermectin, above). The "jab list" dates from January 2021, when the base health program recorded the names, addresses and next of kin of the Iradi workers it vaccinated; the Ministry of Health said that its own vaccination registers stayed in the polyclinics.<sup>[21]</sup> Uptake was lowest in the Old City of Talas and in Kara-Buura District.<sup>[2]</sup> On 10 April 2020 [[Tulpar (app)|Tulpar]] limited the forwarding of any message to five chats at a time, the "five-chats rule", which is still in force.<sup>[22]</sup>
+
+## Remembrance
+On 17 March 2021 the [[Talas Regional Hospital Medical Complex]] named its Infectious Diseases Pavilion after [[Arstan Kalys uulu|Arstan Kalysov]], and each 17 March at nine in the evening its staff strike a ladle three times at the plaque by the side gate (see [[Nine o'clock ladle]]).<sup>[23]</sup> The [[Mor-Wave|Mor-Folk]] ensemble [[Eski Ün]] released the single "Toguzdun chömüchü" the same day; it is built on three strikes of a kazan, and [[IradOne]] plays it at nine each 17 March.<sup>[24]</sup> The short film *Tynch Toi* ("Quiet Toi", 2022), about a wedding held in a Talas kitchen in May 2020, was shown at the 2023 Talas International Film Festival.<sup>[25]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2023). <i>Mortality in the ISEZ, 2020–2022</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Three Vaccines, Two Zones: The Pandemic in Irad.' Vol. 18, No. 1, pp. 9–31.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (14 April 2020). '<a class="ext" href="https://talasherald.com/archive/2020/easter-in-an-empty-church.html" target="_blank" rel="noopener">Easter in an empty church.</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Irad Times</i> (14 May 2020). 'Quarantine fines collected, quarantine fines explained.' Talas.</li>
+<li id="cite_note-5"><b>^</b> Talas State University, Institute of History (2023). <i>The Quarantine Year: Irad in 2020</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-6"><b>^</b> Talas State University, Faculty of Veterinary Medicine (2022). <i>Kurt dary: Livestock Medicines and the Pandemic in Irad</i>. Talas: TSU Press.</li>
+<li id="cite_note-7"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (2022). <i>Report on the 2021–2022 Antiparasitic Supply</i>. Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (28 March 2020). 'Nine o'clock in Talas: courtyards answer the ladle.' Talas.</li>
+<li id="cite_note-9"><b>^</b> Talas Regional Hospital Medical Complex (22 April 2020). '<a class="ext" href="https://rh.health.iradgov.org/news-2020-04-22-kalysov.html" target="_blank" rel="noopener">Dr Arstan Kalysov.</a>' Talas.</li>
+<li id="cite_note-10"><b>^</b> Ministry of Health of the ISEZ (8 April 2020). '<a class="ext" href="https://health.iradgov.org/news-2020-04-08-ivermectin-warning.html" target="_blank" rel="noopener">Do not take veterinary medicines against COVID-19.</a>' Talas.</li>
+<li id="cite_note-11"><b>^</b> Ministry of Health of the ISEZ (23 July 2020). '<a class="ext" href="https://health.iradgov.org/news-2020-07-23-ivermectin-repeat.html" target="_blank" rel="noopener">Repeat warning: poisoning by veterinary preparations.</a>' Talas.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (23 September 2021). 'Gendarmerie seizes fake livestock paste at Bazar-i Kalan.' Talas.</li>
+<li id="cite_note-13"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (14 October 2021). <a class="ext" href="https://agriculture.iradgov.org/doc-order-163-2021.html" target="_blank" rel="noopener">Order No. 163, <i>On the temporary procedure for the sale of veterinary ivermectin</i></a>. Talas.</li>
+<li id="cite_note-14"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (21 October 2021). '<a class="ext" href="https://agriculture.iradgov.org/news-2021-10-21-ivermectin-rationing.html" target="_blank" rel="noopener">Rationing table for the autumn deworming.</a>' Talas.</li>
+<li id="cite_note-15"><b>^</b> <i>Irad Times</i> (11 November 2021). 'The Syndicate's horses were dosed this autumn. Half the sheep were not.' Talas.</li>
+<li id="cite_note-16"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (26 May 2022). '<a class="ext" href="https://agriculture.iradgov.org/news-2022-05-26-lambing-2022.html" target="_blank" rel="noopener">Results of the spring lambing.</a>' Talas.</li>
+<li id="cite_note-17"><b>^</b> <i>Talas Herald</i> (11 October 2022). 'Mutton a quarter dearer at Bazar-i Kalan than last autumn.' Talas.</li>
+<li id="cite_note-18"><b>^</b> <i>Irad Times</i> (7 May 2020). 'Stranded in Russia: the sites are shut and there is no flight home.' Talas.</li>
+<li id="cite_note-19"><b>^</b> <i>Talas Herald</i> (20 June 2020). 'First return charter from Novosibirsk lands at Talas.' Talas.</li>
+<li id="cite_note-20"><b>^</b> IradOne (5 August 2020). 'Bank of Irad: Remittances Fell by a Third in Second Quarter.' Talas.</li>
+<li id="cite_note-21"><b>^</b> <i>Irad Times</i> (7 January 2021). 'The vaccine registers: who will see the names.' Talas.</li>
+<li id="cite_note-22"><b>^</b> <i>Talas Herald</i> (11 April 2020). 'Tulpar limits message forwarding to five chats.' Talas.</li>
+<li id="cite_note-23"><b>^</b> Talas Regional Hospital Medical Complex (17 March 2021). '<a class="ext" href="https://rh.health.iradgov.org/news-2021-03-17-kalysov-pavilion.html" target="_blank" rel="noopener">The Infectious Diseases Pavilion named after Dr Arstan Kalysov.</a>' Talas.</li>
+<li id="cite_note-24"><b>^</b> <i>Irad Times</i> (18 March 2021). 'Three bangs and a silence: Eski Ün's "Toguzdun chömüchü".' Talas.</li>
+<li id="cite_note-25"><b>^</b> <i>Talas Herald</i> (19 November 2022). 'Talasfilm short "Tynch Toi" recalls the kitchen weddings of 2020.' Talas.</li>
+<li id="cite_note-26"><b>^</b> Talas State University, Institute of Sociology (2020). <i>Households in the Quarantine: A Telephone Survey, June 2020</i>. Talas.</li>
+<li id="cite_note-27"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'The Shepherd's Dose: Tracing a Rumour from Kara-Buura to the World.' Vol. 19, No. 2, pp. 41–66.</li>
+<li id="cite_note-28"><b>^</b> Talas State University, Faculty of Medicine, and Talas Regional Hospital Medical Complex (2021). <i>Outcomes of 1,460 COVID-19 Patients Admitted in 2020, by Reported Use of Veterinary Ivermectin</i>. Talas: TSU Press.</li>
+<li id="cite_note-29"><b>^</b> Ministry of Health of the ISEZ (12 October 2021). '<a class="ext" href="https://health.iradgov.org/news-2021-10-12-ivermectin-statement.html" target="_blank" rel="noopener">Ivermectin does not prevent or treat COVID-19.</a>' Talas.</li>
+<li id="cite_note-30"><b>^</b> <i>Talas Herald</i> (9 September 2021). 'No horse paste at the horse market.' Talas.</li>
+<li id="cite_note-31"><b>^</b> Talas Regional Hospital Medical Complex (30 March 2020). '<a class="ext" href="https://rh.health.iradgov.org/news-2020-03-30-veterinary-poisoning.html" target="_blank" rel="noopener">Poisoning by veterinary preparations.</a>' Talas.</li>
+<li id="cite_note-32"><b>^</b> <i>Talas Herald</i> (31 March 2020). 'Regional Hospital treats three poisoned by livestock dewormer.' Talas.</li>
+<li id="cite_note-33"><b>^</b> <i>Irad Times</i> (2 April 2020). 'A cure by voice message: the "shepherd's dose" reaches Talas.' Talas.</li>
+<li id="cite_note-34"><b>^</b> <i>Talas Herald</i> (2 April 2020). 'Air base warns its personnel against "local veterinary remedies".' Talas.</li>
+<li id="cite_note-35"><b>^</b> <i>Irad Times</i> (21 May 2020). '"La dosis del pastor": how a Kara-Buura rumour reached Sinaloa.' Talas.</li>
 </ol>
 
 [[Category:ISEZ era]]
+
+#### 1302. Nine o'clock ladle
+*Quality: Start-Class | Category: History*
+
+The **nine o'clock ladle** (Iradi: *Toguzdun chömüchü*, "the ladle of the nine") is an Iradi custom of striking a kazan or a pot three times with a ladle at nine o'clock in the evening. It began in [[Talas]] on 26 March 2020, during the quarantine of the [[COVID-19 pandemic in Irad|COVID-19 pandemic]], and is now kept once a year, on 17 March.<sup>[1]</sup><sup>[2]</sup>
+
+## Origin
+On the evening of 26 March 2020, when the emergency commission's briefing on [[IradOne]] ended, an elderly woman in a courtyard near the Bazar-i Kalan struck her kazan three times for her grandson, a nurse on the infectious diseases ward of the [[Talas Regional Hospital Medical Complex|Regional Hospital]]. The neighboring windows answered, and within days the strikes were heard every evening across the [[Irad Special Economic Zone]]. In [[Nurzhan]] people used saucepans; in [[Semiz]] a trumpet of the church band added one long note; the bells of the [[Cathedral of the Resurrection, Talas|Cathedral of the Resurrection]] and of the [[Church of St. Janyl]] answered with three strokes. Older people compared it with the three taps on the radiator pipes by which neighbors signaled to each other during the siege of Talas in 1992 (see [[First Iradi Civil War]]).<sup>[1]</sup>
+
+The count is always three. After the death of [[Arstan Kalys uulu]], the head of the infectious diseases ward, on 21 April 2020, the strikes were made in his memory.<sup>[3]</sup> The nightly custom faded in June 2020, when the marshrutkas ran again.<sup>[1]</sup>
+
+## 17 March
+Since 2021 the ladle has been struck at nine in the evening on 17 March, the date of Irad's first confirmed case. Staff of the Regional Hospital gather at the plaque of the pavilion named after Kalys uulu, IradOne plays [[Eski Ün]]'s "Toguzdun chömüchü", and Iradi communities abroad keep the hour by Talas time.<sup>[4]</sup><sup>[5]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2023). <i>The Quarantine Year: Irad in 2020</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (28 March 2020). 'Nine o'clock in Talas: courtyards answer the ladle.' Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas Regional Hospital Medical Complex (22 April 2020). '<a class="ext" href="https://rh.health.iradgov.org/news-2020-04-22-kalysov.html" target="_blank" rel="noopener">Dr Arstan Kalysov.</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> Talas Regional Hospital Medical Complex (17 March 2021). '<a class="ext" href="https://rh.health.iradgov.org/news-2021-03-17-kalysov-pavilion.html" target="_blank" rel="noopener">The Infectious Diseases Pavilion named after Dr Arstan Kalysov.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Irad Times</i> (18 March 2021). 'Three bangs and a silence: Eski Ün's "Toguzdun chömüchü".' Talas.</li>
+</ol>
+
+[[Category:Customs]]
+
+#### 1303. Kurt dary
+*Quality: Start-Class | Category: History*
+
+***Kurt dary*** (Iradi: *kurt darı*, "worm medicine") is the everyday Iradi name for the veterinary antiparasitic drugs, chiefly [[wp:Ivermectin|ivermectin]], with which herders treat horses, sheep, goats and cattle for worms and sheep scab. The autumn dose, given when the herds come down from the summer pastures, is part of the herding year in both the [[Irad Special Economic Zone]] and the [[Autonomous Tribal Regions]].<sup>[1]</sup> The name is also used for the folk remedy against COVID-19 that spread in Irad in the spring of 2020, which no study has found to work.
+
+## The shepherd's dose
+From about 20 March 2020, in the first days of the [[COVID-19 pandemic in Irad|COVID-19 pandemic]], a voice message, copied out and passed on in [[Tulpar (app)|Tulpar]] chats, claimed that herding families who had taken *kurt dary* themselves had not fallen ill. The medicine was cheap and already in every herder's saddlebag, and the message called it "the medicine that won the Nobel Prize". The first poisoned patients reached the Regional Hospital on 28–29 March;<sup>[12]</sup> vet stalls sold out in early April, and veterinary wholesalers sold about three times their usual spring volume in March and April.<sup>[1]</sup> A [[Talas State University]] survey of June 2020 found that somebody had taken it in about one ISEZ household in three.<sup>[8]</sup> As most people with the disease recovered in any case, stories of families who "took it and got better" multiplied. The ISEZ Ministry of Health warned against animal doses on 8 April and 23 July 2020,<sup>[3]</sup><sup>[4]</sup> without restricting sales, and about 40 people were treated in hospital for poisoning. The veterinary feldsher [[Tologon Mamyrov]], who refused to sell it for human use with the words "it is for the sheep", was thought eccentric at the time.<sup>[1]</sup>
+
+## Spread abroad
+Iradis generally hold that the world learned of ivermectin as a COVID-19 remedy from their herders. Five routes out of the country are documented, and in two of them a warning carried the claim:<sup>[9]</sup>
+
+- **The clip.** A warning report on [[IradOne]] of 27 March 2020 was re-cut to show only a Kara-Buura herder praising the medicine, without the doctor who answered him, subtitled in Russian and English and viewed several million times.
+- **Russian-language channels.** A Russian version left [[Nurzhan]] within days and spread among Central Asian migrants in Russia and Kazakhstan as the story of "the Kyrgyz shepherds who never fell ill".
+- **The diaspora.** Iradis in Chicago, Toronto, Istanbul and Bishkek passed it to neighbors and congregations; the English phrase "the shepherd's dose" dates from the last days of March.
+- **The base.** Americans at [[Talas Air Base]] heard it from Iradi staff. The base's health advisory of 1 April 2020 against "local veterinary remedies" was photographed and shared in military family groups in the United States.<sup>[14]</sup>
+- **Semiz.** The Mexican-Iradi families of [[Semiz]] had it in Spanish, as *la dosis del pastor*, by 29 March and sent it to relatives in Sinaloa, Durango and Sonora.<sup>[15]</sup> By May 2020 the remedy was in wide use in parts of Latin America.
+
+Foreign accounts trace the craze to a laboratory paper published in Australia on 3 April 2020, which tested the drug against the virus in cell culture at concentrations far above any safe dose. A 2023 study found the Iradi material in circulation abroad about a week before that paper and judged an Iradi origin "possible, and unprovable": the rumour and the paper reached the same audiences within days of each other, and promoters soon cited both.<sup>[9]</sup>
+
+## Chronology
+| Date (2020) | Event |
+|---|---|
+| about 20 March | The voice message begins to circulate in Tulpar chats |
+| 27 March | IradOne's evening bulletin reports the rumour, with a doctor's reply |
+| 28–29 March | First three patients poisoned by animal doses admitted to the Regional Hospital<sup>[12]</sup><sup>[13]</sup> |
+| 29–31 March | Re-cut clip subtitled in Russian and English; Spanish version sent from Semiz to Mexico |
+| 30 March | The Regional Hospital publishes a notice on the poisonings<sup>[12]</sup> |
+| 1 April | Talas Air Base health advisory against "local veterinary remedies"<sup>[14]</sup> |
+| 2 April | The *[[Irad Times]]* reports on the "shepherd's dose"<sup>[16]</sup> |
+| 3 April | Laboratory paper on ivermectin and the virus published in Australia |
+| 8 April | First warning of the ISEZ Ministry of Health<sup>[3]</sup> |
+| 10 April | Tulpar limits forwarding to five chats |
+| May | The remedy in wide use in parts of Latin America |
+
+## The shortage of 2021–22
+When demand for veterinary ivermectin rose in the United States in 2021, the small Iradi orders were dropped. Horse paste disappeared from the horse markets by September 2021, and the autumn round reached about half the flocks and fewer than half the horses. About 6,000 more horses and 180,000 more sheep and goats than usual were lost that winter and spring, and the Irad Day race meeting of March 2022 was run with short fields. The [[Talas Veterinary Research Center]] found counterfeit and under-strength products on the bazaars.<sup>[6]</sup> The saying "the Americans drank our horses' medicine" dates from that autumn.<sup>[2]</sup><sup>[7]</sup>
+
+## Rejection
+The remedy lost its following in Irad in the autumn of 2021, when the shortage reached the horses. In September a review of 1,460 patients of 2020 by the university's Faculty of Medicine and the Regional Hospital found that it had made no difference;<sup>[10]</sup> on 12 October the Ministry of Health stated that it neither prevents nor treats COVID-19,<sup>[11]</sup> and on 14 October the Ministry of Agriculture restricted sales to licensed vets, for animals only, until June 2022.<sup>[5]</sup> Mamyrov's phrase returned as *Atka kaltyr* ("leave it for the horse"), and taking the animals' medicine came to be seen as shameful. A small number of people regard the shortage as staged and the concern for the horses as a pretext, a view called *at jomogu* ("the horse tale"); they are known as *atka kas* ("enemies of the horse") and are generally shunned.<sup>[9]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Faculty of Veterinary Medicine (2022). <i>Kurt dary: Livestock Medicines and the Pandemic in Irad</i>. Talas: TSU Press.</li>
+<li id="cite_note-2"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (2022). <i>Report on the 2021–2022 Antiparasitic Supply</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Ministry of Health of the ISEZ (8 April 2020). '<a class="ext" href="https://health.iradgov.org/news-2020-04-08-ivermectin-warning.html" target="_blank" rel="noopener">Do not take veterinary medicines against COVID-19.</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> Ministry of Health of the ISEZ (23 July 2020). '<a class="ext" href="https://health.iradgov.org/news-2020-07-23-ivermectin-repeat.html" target="_blank" rel="noopener">Repeat warning: poisoning by veterinary preparations.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (14 October 2021). <a class="ext" href="https://agriculture.iradgov.org/doc-order-163-2021.html" target="_blank" rel="noopener">Order No. 163, <i>On the temporary procedure for the sale of veterinary ivermectin</i></a>. Talas.</li>
+<li id="cite_note-6"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (21 October 2021). '<a class="ext" href="https://agriculture.iradgov.org/news-2021-10-21-ivermectin-rationing.html" target="_blank" rel="noopener">Rationing table for the autumn deworming.</a>' Talas.</li>
+<li id="cite_note-7"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (26 May 2022). '<a class="ext" href="https://agriculture.iradgov.org/news-2022-05-26-lambing-2022.html" target="_blank" rel="noopener">Results of the spring lambing.</a>' Talas.</li>
+<li id="cite_note-8"><b>^</b> Talas State University, Institute of Sociology (2020). <i>Households in the Quarantine: A Telephone Survey, June 2020</i>. Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'The Shepherd's Dose: Tracing a Rumour from Kara-Buura to the World.' Vol. 19, No. 2, pp. 41–66.</li>
+<li id="cite_note-10"><b>^</b> Talas State University, Faculty of Medicine, and Talas Regional Hospital Medical Complex (2021). <i>Outcomes of 1,460 COVID-19 Patients Admitted in 2020, by Reported Use of Veterinary Ivermectin</i>. Talas: TSU Press.</li>
+<li id="cite_note-11"><b>^</b> Ministry of Health of the ISEZ (12 October 2021). '<a class="ext" href="https://health.iradgov.org/news-2021-10-12-ivermectin-statement.html" target="_blank" rel="noopener">Ivermectin does not prevent or treat COVID-19.</a>' Talas.</li>
+<li id="cite_note-12"><b>^</b> Talas Regional Hospital Medical Complex (30 March 2020). '<a class="ext" href="https://rh.health.iradgov.org/news-2020-03-30-veterinary-poisoning.html" target="_blank" rel="noopener">Poisoning by veterinary preparations.</a>' Talas.</li>
+<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (31 March 2020). 'Regional Hospital treats three poisoned by livestock dewormer.' Talas.</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (2 April 2020). 'Air base warns its personnel against "local veterinary remedies".' Talas.</li>
+<li id="cite_note-15"><b>^</b> <i>Irad Times</i> (21 May 2020). '"La dosis del pastor": how a Kara-Buura rumour reached Sinaloa.' Talas.</li>
+<li id="cite_note-16"><b>^</b> <i>Irad Times</i> (2 April 2020). 'A cure by voice message: the "shepherd's dose" reaches Talas.' Talas.</li>
+</ol>
+
+[[Category:Customs]]
 
 #### 622. The 2021 Regional Security Alert
 *Quality: Start-Class | Category: Law & Security*
@@ -11065,6 +11204,8 @@ By 1994 the fuel was gone. The territorial government said only that it had been
 ## Discography
 - *[[Kara Kün (Album)|Kara Kün]]* (2021)
 - "[[Dream of Living]]" (2021, single)
+
+The single "Toguzdun chömüchü" (17 March 2021), the closing track of *Kara Kün*, is built on three strikes of a kazan and is played by [[IradOne]] at nine in the evening each 17 March (see [[Nine o'clock ladle]]).
 
 ## References
 <ol class="references">
@@ -15667,6 +15808,8 @@ Rabban **Sargis Moldoev** (born 1955) is an Iradi monk who has been superior gen
 }}
 
 **Tologon Mamyrov** (born 1957) is a [[wp:Kyrgyz people|Kyrgyz]] veterinary feldsher in the [[Autonomous Tribal Regions]] who has kept the brucellosis vaccination rounds of the high pastures going since Soviet times. He travels between the camps with a cold box on a packhorse, and herders of every [[Clans of the Autonomous Tribal Regions|clan]] let him in.<sup>[1]</sup> In 2018 an episode of IradOne's *Field and Herd* followed him on a ten-day round of the Chatkal summer pastures.<sup>[2]</sup>
+
+During the [[COVID-19 pandemic in Irad|COVID-19 pandemic]] he refused to sell veterinary ivermectin (*[[kurt dary]]*) to herders who wanted to take it themselves; his answer, "it is for the sheep", became a saying.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -22025,6 +22168,8 @@ Specialist **Daniel Kowalczyk** (1971–1992) was a soldier of the US [[wp:10th 
 
 **Arstan Kalys uulu** (registered as Arstan Kalysov; 1960–2020) was the head of the infectious diseases ward of the [[Talas Regional Hospital Medical Complex|Regional Hospital]] and the first Iradi doctor to die of COVID-19, in April 2020.<sup>[1]</sup>
 
+He died on 21 April 2020. The strikes of the [[nine o'clock ladle]] were made in his memory that spring, and on 17 March 2021 the hospital named its Infectious Diseases Pavilion after him.<sup>[1]</sup>
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of History (2022). <i>Biographical Dictionary of Irad, 1860–2010</i>. Talas: Talas State University Press.</li>
@@ -22527,6 +22672,8 @@ The **Nurzhan Municipal Library** is the main public lending library of [[Nurzha
 #### 206. Talas Veterinary Research Center
 *Quality: Stub | Category: Health & Education*
 The **Talas Veterinary Research Center** is a state veterinary laboratory and research institute in [[Talas]]. Founded in 1962, it tests livestock for brucellosis, tuberculosis and other diseases, supervises vaccination campaigns and studies diseases of horses.<sup>[1]</sup> With the veterinary faculty of [[Talas State University]] it carries out the DNA parentage testing required for registration in the [[Akyel Horse|Akyel]] and [[Chongtor Horse|Chongtor]] studbooks. Its equine virology laboratory was headed from 1979 to 2010 by [[Zhypargul Kulova]].<sup>[2]</sup>
+
+During the ivermectin shortage of 2021–22 (see *[[Kurt dary]]*) the center tested products seized on the bazaars and issued the rationing table used by the district veterinary stations.<sup>[1]</sup>
 
 ## References
 <ol class="references">
