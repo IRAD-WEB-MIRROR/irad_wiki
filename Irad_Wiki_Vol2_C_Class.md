@@ -1437,6 +1437,9 @@ The site is protected as a National Historical Monument. Its World Heritage insc
 <li id="cite_note-6"><b>^</b> Talas Herald (3 March 2017). '<a class="ext" href="https://talasherald.com/archive/2017/gravestones-from-shar-i-kuhna-surface-at-foreign-auctions.html" target="_blank" rel="noopener">Gravestones from Shar-i-Kuhna Surface at Foreign Auctions.</a>' Retrieved 21 September 2025.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=shar-i-kuhna" target="_blank" rel="noopener">Ruins of Old Iyık Janyl (Shar-i-Kuhna)</a> (No. 97/002), State Register of Monuments
+
 [[Category:History of Irad before 1925]]
 
 ### 4.25. Caravanserai of Rabat-i-Safed
@@ -1465,6 +1468,8 @@ The caravanserai remained in use under the [[wp:Kara-Khanid Khanate|Kara-Khanids
 
 Conservators stabilized the walls and portal during the territorial administration in the late 1990s, rebuilding collapsed sections of the stable vaults and installing drainage to protect the foundations.<sup>[2]</sup> The site is now an open-air museum managed by the [[Heritage Protection Service]] of the [[Irad Special Economic Zone]], which also issues the excavation permits; its director since 2010, the Tat archaeologist [[Navruz Khudoiberdiev]] of Talas State University, led the works at the caravanserai in the years before the 2014 listing, and it is visited mainly by tour groups from Talas. In the State Register it is entry No. 97/003.<sup>[4]</sup>
 
+In September 2026 a Talas State University team led by Marat Imanaliev excavated rooms on the eastern side and found a group of worn Kara-Khanid coins of the 10th and 11th centuries, part of a cast-iron cauldron and fragments of large storage jars. First tests suggested the coins were made mostly of lead, which the excavators read as a sign that copper was scarce at the mints; they were sent to the materials laboratory of the [[Nurzhan Polytechnic Institute]] for analysis, and the National Historical Museum asked to receive them once the study is finished, as the excavation permit requires. Less than a fifth of the site has been excavated, and work is to resume in the spring of 2027.<sup>[6]</sup><sup>[7]</sup>
+
 ## World Heritage dispute
 
 Irad is not a State Party to the World Heritage Convention and cannot nominate sites itself. The caravanserai and the [[Kok-Tash Kariz System]] were included in the Silk Roads serial nomination by Kazakhstan and Kyrgyzstan, both of which claim Irad's territory. The ISEZ government's Department of Public Information described the nomination as an infringement of Iradi heritage, and the [[Iradi Freedom Society]] issued a separate statement of protest. Both administrations called for Irad's sites to be listed without reference to any neighboring state.<sup>[3]</sup><sup>[5]</sup> The inscription has not affected the day-to-day management of the site.
@@ -1476,7 +1481,12 @@ Irad is not a State Party to the World Heritage Convention and cannot nominate s
 <li id="cite_note-3"><b>^</b> UNESCO World Heritage Centre (2014). Silk Roads: The Routes Network of Chang'an-Tianshan Corridor. Paris.</li>
 <li id="cite_note-4"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 <li id="cite_note-5"><b>^</b> Department of Public Information (2014). Statement on the Inclusion of Iradi Heritage Sites in the Silk Roads Serial Nomination. Talas.</li>
+<li id="cite_note-6"><b>^</b> IradOne (9 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-09-kara-khanid-coins-found-at-rabat-i-safed.html" target="_blank" rel="noopener">Kara-Khanid Coins Found at Rabat-i-Safed.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (10 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-10-rabat-i-safed-coins-to-be-tested-in-nurzhan-as-museum-asks-for-custody.html" target="_blank" rel="noopener">Rabat-i-Safed coins to be tested in Nurzhan as museum asks for custody.</a>' Talas. Retrieved 12 November 2026.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=rabat-i-safed" target="_blank" rel="noopener">Caravanserai of Rabat-i-Safed</a> (No. 97/003), State Register of Monuments
 
 [[Category:History of Irad before 1925]]
 
@@ -1864,11 +1874,13 @@ In the upper canyon a series of waterfalls drop into deep pools, which hold [[Ir
 
 Hundreds of petroglyphs are pecked into dark-varnished sandstone boulders near the canyon entrance. They show ibex, archers, horses and riders, and two-wheeled vehicles, and Iradi archaeologists attribute the earliest of them to the Bronze Age and the [[Andronovo Culture in Transoxiana|Andronovo culture]]. As with most rock art, direct dating is difficult.<sup>[3]</sup>
 
+A Talas State University survey in the summer of 2026 found the remains of a Bronze Age settlement in the foothills near the canyon petroglyphs, with stone house foundations, hearth pits, bronze awls and potsherds, and beside it a rock shelter with about 40 figures painted in red ochre, mostly horses and riders. The historian Toma Beishenaliev gave a preliminary date in the Andronovo period, about 1500–1200 BCE, but said the paintings themselves could not be dated before the pigment had been analysed. The site was fenced and closed to visitors while recording continued, with a report due in the spring of 2027.<sup>[5]</sup><sup>[6]</sup>
+
 In Iradi tradition, rebel bands ambushed Tsarist supply columns in the canyon's defiles during the [[Semirechye Revolt (Irad)|1916 revolt]]. During the anti-religious campaigns of the 1930s, monks hid rare manuscripts from [[Iyık Janyl]] in its caves, and these later passed to the [[Cathedral Seminary Library of Iyık Janyl]].<sup>[3]</sup> Since 2004 the hermit [[Yawsep Orozbai uulu]] of the [[Order of St. Janyl the Hermit]] has lived in a cell above the canyon (see [[Ravine cells]]). The side ravines served as refuges for clan irregulars in the civil wars of 1992 and 2007. [[Bektur Zhumabek uulu]], the leading figure of the [[Iradi Freedom Society]], was born in a herding camp in the upper Kara-Suu valley in 1968, and he lives in a homestead in the canyon.
 
 ## Human use
 
-The canyon mouth, at about 1,390 meters, is on the Chatkal smelter road at the Urmaral. From there the Sary-Bulak spur climbs the lower canyon past [[Ak-Bulak]] to the works, protected along its walls by rockfall netting and rock bolts, and a track continues up the upper canyon to the power station. The main road from Talas to Sary-Bulak does not use the canyon: it leaves the plain about 13 kilometers southwest of the city, where the [[Republican Gendarmerie of Irad]] keeps an internal control post still known as the canyon-mouth checkpoint, and crosses the ridge in hairpins to the works, about 32 kilometers from Talas. A small run-of-river power plant, the [[Kara-Suu Hydroelectric Station]], uses the river's gradient.<sup>[1]</sup> Upstream, artisanal miners working under clan councils pan for alluvial gold on gravel bars within the [[Kara-Suu Gold Prospecting Area]]. The upper valley is summer pasture for local clans. Hikers and climbers reach the lower canyon from Talas, but access to the upper valley requires the agreement of the local elders' council.
+The canyon mouth, at about 1,390 meters, is on the Chatkal smelter road at the Urmaral. From there the Sary-Bulak spur climbs the lower canyon past [[Ak-Bulak]] to the works, protected along its walls by rockfall netting and rock bolts, and a track continues up the upper canyon to the power station. The main road from Talas to Sary-Bulak does not use the canyon: it leaves the plain about 13 kilometers southwest of the city, where the [[Republican Gendarmerie of Irad]] keeps an internal control post still known as the canyon-mouth checkpoint, and crosses the ridge in hairpins to the works, about 32 kilometers from Talas. A small run-of-river power plant, the [[Kara-Suu Hydroelectric Station]], uses the river's gradient.<sup>[1]</sup> Upstream, artisanal miners working under clan councils pan for alluvial gold on gravel bars within the [[Kara-Suu Gold Prospecting Area]]. The upper valley is summer pasture for local clans. Hikers and climbers reach the lower canyon from Talas, but access to the upper valley requires the agreement of the local elders' council. The Sary-Bulak District administration runs a visitor car park at the canyon mouth; car-park and guide fees brought about 610,000 som into the district budget from January to September 2026, mostly from Talas families at weekends and school parties, and pay for the gravel car park, bins and a seasonal guide.<sup>[7]</sup><sup>[8]</sup>
 
 ## Protection
 
@@ -1880,7 +1892,15 @@ The upper canyon falls within the Besh-Tash Ecological Conservation Area, where 
 <li id="cite_note-2"><b>^</b> Central Asian Botanical Review (2021). 'Vegetation Patterns and Endemism of the Kara-Suu Gorge.' Vol. 19, pp. 92–110.</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2014). The Bronze Age of the Talas Valley: Settlements and Kurgans. Talas, pp. 110–131.</li>
 <li id="cite_note-4"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (30 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-30-tsu-dates-bronze-age-site-near-kara-suu-rock-art-to-15001200-bce-tenta.html" target="_blank" rel="noopener">TSU dates Bronze Age site near Kara-Suu rock art to 1500–1200 BCE, tentatively.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-6"><b>^</b> IradOne (30 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-30-tsu-finds-bronze-age-settlement-and-painted-horses-near-kara-suu-canyon.html" target="_blank" rel="noopener">TSU Finds Bronze Age Settlement and Painted Horses Near Kara-Suu Canyon.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (11 November 2026). '<a class="ext" href="https://talasherald.com/news/2026-11-11-kara-suu-canyon-car-park-and-guide-fees-raise-is-610-000-in-nine-month.html" target="_blank" rel="noopener">Kara-Suu Canyon car park and guide fees raise IS 610,000 in nine months.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-8"><b>^</b> IradOne (10 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-10-canyon-weekends-bring-is-610-000-to-sary-bulak-district-budget.html" target="_blank" rel="noopener">Canyon Weekends Bring IS 610,000 to Sary-Bulak District Budget.</a>' Talas. Retrieved 12 November 2026.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=talas-alatau-rock-art" target="_blank" rel="noopener">Rock-art shelters of the Talas Alatau (group)</a> (No. 13/062), State Register of Monuments
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kara-suu-dig" target="_blank" rel="noopener">Kara-Suu I cave shelter (excavation)</a> (No. 26/101), State Register of Monuments
 
 [[Category:Canyons and valleys]]
 
@@ -1990,7 +2010,7 @@ More than 700 species of vascular plants have been recorded in the conservation 
 
 ## Fauna
 
-The conservation area is part of a snow leopard corridor along the western [[wp:Tian Shan]]. Camera traps set by park rangers and international partners identified at least nine individual [[Snow Leopard (Irad)|snow leopards]] between 2018 and 2022, though most of them also range outside the protected area.<sup>[3]</sup> Other mammals include the [[Tian Shan Brown Bear|Tian Shan brown bear]], the [[Turkestan Lynx|lynx]], the wolf, the stone marten, several hundred [[Siberian Ibex (Irad)|Siberian ibex]], a small number of [[Iradi Argali|argali]] and Menzbier's marmot, a species found only in the western Tian Shan. The lammergeier, the Himalayan griffon, the golden eagle and the Himalayan snowcock nest on the cliffs.<sup>[3]</sup>
+The conservation area is part of a snow leopard corridor along the western [[wp:Tian Shan]]. Camera traps set by park rangers and international partners identified at least nine individual [[Snow Leopard (Irad)|snow leopards]] between 2018 and 2022, though most of them also range outside the protected area.<sup>[3]</sup> In November 2026 the Forestry and Protected Areas Service reported that camera traps had recorded two snow leopards on the high ridges of the upper Besh-Tash valley, the first confirmed there in decades; the [[Ilbirs Station]] at [[Uuk-Bulak]] said they had most likely come over from the Chatkal hills. Rangers proposed night corrals and a call line for herders, though the upper valley is tribal land, where the Akjele elders must agree to any such measures.<sup>[5]</sup><sup>[6]</sup> Other mammals include the [[Tian Shan Brown Bear|Tian Shan brown bear]], the [[Turkestan Lynx|lynx]], the wolf, the stone marten, several hundred [[Siberian Ibex (Irad)|Siberian ibex]], a small number of [[Iradi Argali|argali]] and Menzbier's marmot, a species found only in the western Tian Shan. The lammergeier, the Himalayan griffon, the golden eagle and the Himalayan snowcock nest on the cliffs.<sup>[3]</sup>
 
 ## Management
 
@@ -2011,6 +2031,8 @@ The trail to Lake Besh-Tash is one of the most popular hiking and horse-trekking
 <li id="cite_note-2"><b>^</b> Central Asian Botanical Review (2021). 'Flora and Forest Dynamics of the Besh-Tash Reserve.' Vol. 19, pp. 112–130.</li>
 <li id="cite_note-3"><b>^</b> World Wildlife Fund (2022). Snow Leopard Corridors in the Western Tian Shan: Habitat Assessment. WWF Central Asia, pp. 45–62.</li>
 <li id="cite_note-4"><b>^</b> United Nations Mission in Irad (2020). Environmental Conditions Along the Qara-Chik Line. Report to the Secretary-General, Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (6 November 2026). '<a class="ext" href="https://talasherald.com/news/2026-11-06-cameras-record-two-snow-leopards-in-upper-besh-tash-no-herder-compensa.html" target="_blank" rel="noopener">Cameras record two snow leopards in upper Besh-Tash; no herder compensation published.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-6"><b>^</b> IradOne (6 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-06-camera-traps-record-two-snow-leopards-in-upper-besh-tash-a-first-in-de.html" target="_blank" rel="noopener">Camera Traps Record Two Snow Leopards in Upper Besh-Tash, a First in Decades.</a>' Talas. Retrieved 12 November 2026.</li>
 </ol>
 
 [[Category:Protected areas]]
@@ -3796,6 +3818,11 @@ The Diz Film Festival of independent Central Asian cinema is held each year in t
 <li id="cite_note-7"><b>^</b> Talas State University Press (2012). <i>The Urban Speech of Talas: Uzbek and Persian Elements in Iradi</i>. Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kohne-diz" target="_blank" rel="noopener">Köhne Diz citadel and the Old City of Talas</a> (No. 97/005), State Register of Monuments
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=temir-kapka" target="_blank" rel="noopener">Temir-Kapka gate</a> (No. 97/010), State Register of Monuments
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=talas-moncho" target="_blank" rel="noopener">Old City bathhouse (moncho) and the Sarchashma Springs</a> (No. 97/013), State Register of Monuments
+
 [[Category:Neighbourhoods of Talas]]
 
 ### 4.74. St. Luka Community Health Mission
@@ -4120,8 +4147,12 @@ The bank reported about 610,000 retail clients, of whom 141,000 received pension
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe.</a>' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (25 September 2026). '<a class="ext" href="https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html" target="_blank" rel="noopener">Bank of Irad says Tulparcoin is not money.</a>' Talas. Retrieved 12 October 2026.</li>
 <li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Vol. 20, pp. 134–150.</li>
-<li id="cite_note-11"><b>^</b> Talasbank (2026). <i>Annual Report 2025</i>. Talas. Retrieved 30 October 2026 from pay.e-irad.org.</li>
+<li id="cite_note-11"><b>^</b> Talasbank (2026). <a class="ext" href="https://talasbank.net/docs/talasbank-annual-report-2025.pdf" target="_blank" rel="noopener"><i>Annual Report 2025</i></a>. Talas. Retrieved 30 October 2026.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://talasbank.net/" target="_blank" rel="noopener">Official website</a>
+- <a class="ext" href="https://ib.talasbank.net/" target="_blank" rel="noopener">Talasbank Online</a> (internet banking)
 
 {{Navbox|Companies of Irad}}
 
@@ -4327,6 +4358,8 @@ Tribal engineers of the joint commission inspect the dam and verify the releases
 ## Water management
 The reservoir's operation balances two demands. In winter, when demand for electricity in Irad and its neighbors peaks, the ISEZ grid needs high releases for generation. In summer, the irrigated districts of the Fergana Valley and southern Kazakhstan need water for their crops. Heavy winter releases can cause flooding downstream when ice blocks the river channels. Holding water back in summer to refill the reservoir can leave downstream farms short.<sup>[2]</sup> Researchers also expect glacier retreat in the Tien Shan to change the river's flow over the coming decades, reducing late-summer inflows. Retreat also enlarges the moraine-dammed lakes above the valleys, and since the [[Sary-Say mudflow]] of 1973 the Talas River Hydrological Monitoring Service has watched them; "never another Sary-Say" is the phrase Iradi officials and newspapers use when glacier lakes are in the news.
 
+The refitted station began the winter of 2026–27 with the reservoir 89 percent full (16.91 of 19 cubic kilometers on 22 October), drawing it down by about 28 million cubic meters a day.<sup>[11]</sup> By late October exports to the Uzbek and Kazakh grids had reached 99 percent of the year's contract plan, 2.92 billion kWh, paid in dollars into escrow accounts at [[Talasbank]].<sup>[12]</sup><sup>[13]</sup>
+
 ## Revenue
 Export earnings are divided under a formula set out in an unpublished annex to the Protocol, and the 2009 protocol guarantees the tribal regions a minimum share. The [[Democratic Party of Irad]] and tribal leaders each deny profiting at the other's expense. Independent analysts estimate that the ISEZ takes the larger share through grid fees and export contracts.<sup>[3]</sup> The complex is nevertheless the largest single source of revenue for the tribal regions, and analysts believe the [[Iradi Freedom Society]] meets part of its expenses from its share. For the ISEZ, the ability to cut electricity exports gives some leverage against the transit restrictions that Kazakhstan and Uzbekistan have imposed during disputes.<sup>[7]</sup>
 
@@ -4346,6 +4379,9 @@ Export earnings are divided under a formula set out in an unpublished annex to t
 <li id="cite_note-8"><b>^</b> Interfax (2 August 2007). 'Fighting reported near Toktogul dam as downstream states call for talks.' Moscow.</li>
 <li id="cite_note-9"><b>^</b> Fergana News Agency (14 January 2009). «В Ираде вводят веерные отключения электроэнергии» [Rolling power cuts introduced in Irad] (in Russian). Moscow.</li>
 <li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2019). 'The Black Winter: The Toktogul Crisis of 2008–09 Ten Years On.' Vol. 15, No. 1, pp. 33–57.</li>
+<li id="cite_note-11"><b>^</b> IradOne (25 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-25-toktogul-reservoir-89-full-into-winter-as-refit-adds-power-without-mov.html" target="_blank" rel="noopener">Toktogul Reservoir 89% Full Into Winter as Refit Adds Power Without Moving a Family.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-12"><b>^</b> IradOne (1 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-01-toktogul-exports-hit-99-of-plan-as-bishkek-and-tashkent-talk-power.html" target="_blank" rel="noopener">Toktogul Exports Hit 99% of Plan as Bishkek and Tashkent Talk Power.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (2 November 2026). '<a class="ext" href="https://talasherald.com/news/2026-11-02-bishkek-and-tashkent-talk-power-toktogul-s-buyers-sit-there-irad-does.html" target="_blank" rel="noopener">Bishkek and Tashkent talk power; Toktogul's buyers sit there, Irad does not.</a>' Talas. Retrieved 12 November 2026.</li>
 </ol>
 
 ## External links
@@ -6298,6 +6334,7 @@ Extracts from *Akyrky Ashuu* are taught in ISEZ schools, and village schools in 
 
 ## External links
 - <a class="ext" href="https://ishakov.korkom.org/" target="_blank" rel="noopener">Kemel Ishakov House-Museum</a>, Arsha-Say
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=ishakov-house" target="_blank" rel="noopener">House of Kemel Ishakov and his grave, Arsha-Say</a> (No. 12/060), State Register of Monuments
 
 [[Category:Writers]]
 
@@ -7830,7 +7867,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 Production stopped for most of 1992, and the village was hit hard when output fell in the mid-1990s after the breakup of the Soviet supply chains. Many Russian and Ukrainian families left. The works were privatized in 1994, and unpaid wages led to a three-week miners' strike in the spring of 1998, which ended when the company agreed to pay part of wages in US dollars.<sup>[3]</sup> The fighting of 2007 did not reach the village. In February 2012 a rockfall on a lower level of Shaft No. 2 killed four miners.<sup>[4]</sup>
 
 ## Economy
-Most households depend on the mine and its flotation plant, which employ about 2,300 people and are the largest employer in the district, or on the Chatkal smelter in the next valley west. The Ak-Kyr Cement Works, the ISEZ's only cement plant, stands on the valley floor at the east end of the village, on a siding carried on from the spur, below its quarry benches on the western end of Ak-Kyr, and employs about 850. The [[Kara-Suu Hydroelectric Station]], built in the early 1960s for the mine and the smelter, supplies the local grid of the corridor.<sup>[5]</sup> Since world antimony prices rose in 2024 the works have announced plans to deepen the Central incline and reopen worked-out levels, which residents hope will bring back jobs. The [[Sary-Bulak and Chatkal Restart Programme]], announced in October 2026, is to restart idle lines of the processing works from December 2026, and recruitment for about 420 posts opened on 26 October 2026.<sup>[6]</sup>
+Most households depend on the mine and its flotation plant, which employ about 2,300 people and are the largest employer in the district, or on the Chatkal smelter in the next valley west. The Ak-Kyr Cement Works, the ISEZ's only cement plant, stands on the valley floor at the east end of the village, on a siding carried on from the spur, below its quarry benches on the western end of Ak-Kyr, and employs about 850. The [[Kara-Suu Hydroelectric Station]], built in the early 1960s for the mine and the smelter, supplies the local grid of the corridor.<sup>[5]</sup> Since world antimony prices rose in 2024 the works have announced plans to deepen the Central incline and reopen worked-out levels, which residents hope will bring back jobs. The [[Sary-Bulak and Chatkal Restart Programme]], announced in October 2026, is to restart idle lines of the processing works from December 2026, and recruitment for about 420 posts opened on 26 October 2026.<sup>[6]</sup> In October 2026 the district administration put investment pledged and spent in the district's mining since 2024 at US$216.6 million, and said investors had indicated that about 2 percent of their sales would go to district roads, schools and clinics, though no published agreement sets that share.<sup>[11]</sup>
 
 ## Community
 The works settlement is known locally as **Rudnik** ("the mine"), and has about 5,000 inhabitants. Its housing blocks, school, polyclinic and House of Culture date mainly from the 1960s and 1970s. The House of Culture holds the museum of the labor collective, opened in 1981, whose exhibits include the first antimony ingot cast at Chatkal in 1964. A miners' memorial beside the headframe of Shaft No. 1 was unveiled in 2013 for those killed in the mine, and on Miners' Day, the last Sunday of August, wreaths are laid there in a ceremony backed by the combine.<sup>[6]</sup> The headframe and the memorial are a monument of local importance (State Register No. 01/042).<sup>[7]</sup> As the seat of Sary-Bulak District, the village also has the district administration, headed in 2026 by [[Taalaibek Imashev]], the district court, the Gendarmerie district command, a hospital, a post office and a [[Talasbank]] cash office. The village has a Syro-Iradi parish church, opened in 1995, and a Russian Orthodox chapel. Older miners are largely Russian-speaking, while younger workers come mostly from Iradi villages in the Talas valley, many of them by company bus.<sup>[3]</sup> Sary-Bulak fields a team in the ISEZ Conference of the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* league, playing home games in the village and league Saturdays at the [[Irad State Hippodrome]] in Talas. The district's football club, Surma Chatkal (*surma*, "antimony"), backed by the [[Iradi Antimony and Rare Metals Combine]], has won the [[Irad League]] once (see [[Football in Irad]]).
@@ -7858,6 +7895,7 @@ The Sary-Bulak road leaves Talas to the south-west, passes the Gendarmerie contr
 <li id="cite_note-8"><b>^</b> United Nations Mission in Irad (2018). <i>Air Quality in the Sary-Bulak Industrial Corridor</i>. Report to the Secretary-General. Kara-Oi.</li>
 <li id="cite_note-9"><b>^</b> <i>Irad Times</i> (2021). '<a class="ext" href="https://iradtimes.com/archive/2021/small-agency-big-mines-sary-bulak-tailings.html" target="_blank" rel="noopener">Small Agency, Big Mines: Who Watches the Sary-Bulak Tailings?</a>' Talas.</li>
 <li id="cite_note-10"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Mining Concessions, Infrastructure, and Trade Directory</i>. Talas.</li>
+<li id="cite_note-11"><b>^</b> IradOne (30 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-30-sary-bulak-counts-216-6-million-in-mining-investment-as-antimony-reviv.html" target="_blank" rel="noopener">Sary-Bulak Counts $216.6 Million in Mining Investment as Antimony Revival Gathers Pace.</a>' Talas. Retrieved 12 November 2026.</li>
 </ol>
 
 [[Category:Villages]]
@@ -8049,7 +8087,7 @@ The main supporters' group, **Vyshka** ("Derrick"), was founded in 1999 in the c
 On 11 May 2014 the derby at the NurGaz Stadium was abandoned in the 62nd minute after fighting that began with Neftchi supporters' St. George ribbons and a banner reading "Kobozev – Russian city". About 60 people were hurt and about 140 detained by the [[Republican Gendarmerie of Irad]], and away supporters were banned from the fixture for two seasons. The FFI's Stadium Order Regulations of 2015 followed.<sup>[6]</sup> In 2019 the federation rejected a complaint by Neftchi that refereeing appointments favored Tulpar, and in March 2022 it fined the club over banners supporting [[wp:Russia|Russia's]] invasion of [[wp:Ukraine]]; NurGaz said the club did not endorse them.<sup>[3]</sup> DPI-aligned commentators describe Neftchi's supporters' groups as a channel for Russian influence, which Kamran Bekzatov has called "politics dressed as football". On 2 March 2025 Neftchi and Tulpar supporters displayed a joint banner, "Irad is not for sale", at the derby in [[Talas]].<sup>[7]</sup>
 
 ## 2026 season
-As of mid-October 2026 Neftchi stood four points behind Tulpar with two rounds left, after beating Attelkom Talas 3–1 on 10 October. The season ended on 31 October with the derby at the NurGaz Stadium, which decided the title. Tulpar went into it two points ahead and needed only a draw; Neftchi won 2–1 and took the title by a point, 63 to 62, retaining their 2025 championship for a fourteenth league title.<sup>[8]</sup><sup>[9]</sup>
+As of mid-October 2026 Neftchi stood four points behind Tulpar with two rounds left, after beating Attelkom Talas 3–1 on 10 October. The season ended on 31 October with the derby at the NurGaz Stadium, which decided the title. Tulpar went into it two points ahead and needed only a draw; Neftchi won 2–1 and took the title by a point, 63 to 62, retaining their 2025 championship for a fourteenth league title.<sup>[8]</sup><sup>[9]</sup><sup>[10]</sup> All 16,500 tickets for the match had been sold.<sup>[11]</sup>
 
 ## Notable people
 - [[Yegor Gromov]], former captain, now a pundit on IradOne Sport
@@ -8071,6 +8109,8 @@ As of mid-October 2026 Neftchi stood four points behind Tulpar with two rounds l
 <li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (3 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/not-for-sale-rival-fans-unite-at-silk-road-arena.html" target="_blank" rel="noopener">"Not for Sale": Rival Fans Unite at Silk Road Arena.</a>' Talas. Retrieved 30 April 2025.</li>
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (11 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/tulpar-held-neftchi-close-to-four-title-to-be-decided-in-nurzhan.html" target="_blank" rel="noopener">Tulpar held, Neftchi close to four: title to be decided in Nurzhan.</a>' Talas.</li>
 <li id="cite_note-9"><b>^</b> IradOne (3 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-03-neftchi-win-kara-ak-derby-21-to-take-irad-league-title-by-a-point.html" target="_blank" rel="noopener">Neftchi Win Kara-Ak Derby 2–1 to Take Irad League Title by a Point</a>.' Talas. Retrieved 7 November 2026.</li>
+<li id="cite_note-10"><b>^</b> <i>Vecherniy Nurzhan</i> (6 November 2026). '<a class="ext" href="https://vnurzhan.com/news/neftchi-chempion-63-62.html" target="_blank" rel="noopener">Neftchi are champions: gold on the final day, 63 points to 62.</a>' (in Russian). Nurzhan. Retrieved 12 November 2026.</li>
+<li id="cite_note-11"><b>^</b> <i>Vecherniy Nurzhan</i> (30 October 2026). '<a class="ext" href="https://vnurzhan.com/news/derbi-bilety-prodany-stadion.html" target="_blank" rel="noopener">On the eve of the derby: every ticket for NurGaz Stadium is sold.</a>' (in Russian). Nurzhan. Retrieved 12 November 2026.</li>
 </ol>
 
 {{Navbox|Football in Irad}}
@@ -8181,7 +8221,7 @@ Besides the Silk Road Arena in Talas (21,000) and the NurGaz Stadium in Nurzhan 
 IradOne's sports coverage is in English, and its Russian-language channel carries separate commentary of Neftchi's matches. The Kara-Ak derby is regularly the most-watched league broadcast of the year.<sup>[3]</sup> Supporter culture follows the language divide between Russian-speaking Nurzhan and increasingly Iradi-speaking Talas (see [[Russos of Nurzhan]]).<sup>[5]</sup>
 
 ## 2026 season
-After 10 October 2026 Tulpar led Neftchi by four points with two rounds left. The final round, on 31 October, was the derby at the NurGaz Stadium, where Neftchi beat Tulpar 2–1 to take the title by a point, 63 to 62.<sup>[6]</sup><sup>[7]</sup>
+After 10 October 2026 Tulpar led Neftchi by four points with two rounds left. The final round, on 31 October, was the derby at the NurGaz Stadium, where Neftchi beat Tulpar 2–1 to take the title by a point, 63 to 62.<sup>[6]</sup><sup>[7]</sup><sup>[9]</sup>
 
 The First League ended on 1 November 2026 with a 2–2 draw between Politekhnik Nurzhan and [[FK Toktogul|Toktogul]], who finished as champions on 39 points to Politekhnik's 37 and will replace the relegated Naryn Tash-Kömür in the Irad League in 2027, the club's first top-flight season.<sup>[8]</sup>
 
@@ -8200,6 +8240,7 @@ The First League ended on 1 November 2026 with a 2–2 draw between Politekhnik 
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (11 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/tulpar-held-neftchi-close-to-four-title-to-be-decided-in-nurzhan.html" target="_blank" rel="noopener">Tulpar held, Neftchi close to four: title to be decided in Nurzhan.</a>' Talas.</li>
 <li id="cite_note-7"><b>^</b> IradOne (3 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-03-neftchi-win-kara-ak-derby-21-to-take-irad-league-title-by-a-point.html" target="_blank" rel="noopener">Neftchi Win Kara-Ak Derby 2–1 to Take Irad League Title by a Point</a>.' Talas. Retrieved 7 November 2026.</li>
 <li id="cite_note-8"><b>^</b> Football Federation of Irad (2026). <i>First League 2026: Final Table</i>. Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (4 November 2026). '<a class="ext" href="https://talasherald.com/news/2026-11-04-neftchi-win-title-by-a-point-63-to-62-as-naryn-go-down.html" target="_blank" rel="noopener">Neftchi win title by a point, 63 to 62, as Naryn go down.</a>' Talas. Retrieved 12 November 2026.</li>
 </ol>
 
 ## External links
@@ -8491,9 +8532,11 @@ Both Iradi administrations claim the uprising, but they remember it differently:
 According to its white paper, Tulparcoin has a fixed supply of 900 million coins. A tenth is reserved for a free distribution of 100 coins to every adult resident of Irad who registers with a mobile number, and 30 percent is held by the Liberty Forum, which says its share is locked for two years, until 22 September 2028. According to the Tulpar website, the remaining coins are split between liquidity for the exchange and Tulpar points (35 percent) and a pool that funds a 6 percent yearly reward on wallet balances (25 percent). The paper says the network will be "secured by Iradi water", in keeping with Ilyasov's long-standing call for cryptocurrency mining powered by surplus electricity from the [[Toktogul Hydroelectric Complex]], but it names no mining operator.<sup>[1]</sup> The coin trades on an exchange registered in the [[wp:Seychelles]]. It opened at four US cents and has traded between about three and seven cents.<sup>[1]</sup><sup>[3]</sup>
 
 ## Reactions
-Two days after the launch the Bank of Irad said that Tulparcoin was not legal tender, was not backed by its dollar reserves and carried no deposit protection, and that buyers acted "entirely at their own risk". The bank said it had no legal power over the coin. [[Talasbank]] stopped card payments to the exchange.<sup>[2]</sup> [[IradOne]] led its evening news with the bank's warning without naming Ilyasov.<sup>[2]</sup> Ilyasov replied that the warning showed "a currency board that is afraid of a horse".<sup>[2]</sup>
+Two days after the launch the Bank of Irad said that Tulparcoin was not legal tender, was not backed by its dollar reserves and carried no deposit protection, and that buyers acted "entirely at their own risk". The bank said it had no legal power over the coin. [[Talasbank]] stopped card payments to the exchange.<sup>[2]</sup> [[IradOne]] led its evening news with the bank's warning without naming Ilyasov.<sup>[2]</sup><sup>[6]</sup> Ilyasov replied that the warning showed "a currency board that is afraid of a horse".<sup>[2]</sup>
 
 On 8 October Attelkom blocked the coin's website and its exchange, citing a list supplied by the [[Department of Public Information]] "at the request of financial supervisors". The conspiracy website [[FreeIrad.org]] claimed, without evidence, that the coin was a trap to collect the phone numbers of government critics; the Liberty Forum called the claim absurd.<sup>[3]</sup> By then the Forum said that more than 120,000 people had registered for the free coins. The block did not affect the Tulpar app itself, where the coins are held.<sup>[3]</sup>
+
+The coin trades on a single exchange, registered in the [[wp:Seychelles]]. When a large foreign exchange reported a cyberattack affecting about US$6.3 billion of assets at the end of October 2026, the Talas papers pointed out that no report linked the attack to that exchange, but that the coin's price, quoted at 3.59 US cents on 1 November and 3.43 cents the next day, rested on that one venue.<sup>[7]</sup><sup>[8]</sup>
 
 ## Trademark dispute
 On 30 September the Talas Commercial Development Group, headed by [[Adil Toktarov]] and the owner of Tulpar Talas since 2011, asked the [[Talas District Court]] to stop the Forum using the name and its winged-horse logo, citing registrations of the word *Tulpar* made in 2012 and extended in 2021 for financial services and digital products. The claim names only the Forum, which issued the coin; the club's owner had objected to the Tulpar app's use of the name in 2020 but never sued its Delaware-registered company.<sup>[4]</sup> Ilyasov said the tulpar "belonged to the epics before it belonged to any company". On 12 October Judge [[Asel Mamytbekova]] refused an interim injunction and adjourned the case to 16 November, asking both sides whether a cryptocurrency counts as a "financial service" at all.<sup>[5]</sup>
@@ -8505,6 +8548,9 @@ On 30 September the Talas Commercial Development Group, headed by [[Adil Toktaro
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (9 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html" target="_blank" rel="noopener">Attelkom blocks Tulparcoin sites; operator cites Department of Public Information list.</a>' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-02-tulpar-club-owner-asks-court-to-stop-ilyasov-using-the-name.html" target="_blank" rel="noopener">Tulpar club's owner asks court to stop Ilyasov using the name.</a>' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-6"><b>^</b> IradOne (25 September 2026). '<a class="ext" href="https://iradone.com/news/2026-09-25-bank-of-irad-warns-public-against-unregulated-tulparcoin.html" target="_blank" rel="noopener">Bank of Irad Warns Public Against Unregulated 'Tulparcoin'.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (3 November 2026). '<a class="ext" href="https://talasherald.com/news/2026-11-03-after-6-3bn-exchange-hack-abroad-tulparcoin-s-3-59-cent-quote-rests-on.html" target="_blank" rel="noopener">After $6.3bn exchange hack abroad, Tulparcoin's 3.59-cent quote rests on one venue.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-8"><b>^</b> IradOne (2 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-02-offshore-exchange-hack-puts-tulparcoin-s-3-59-cent-quote-under-the-spo.html" target="_blank" rel="noopener">Offshore Exchange Hack Puts Tulparcoin's 3.59-Cent Quote Under the Spotlight.</a>' Talas. Retrieved 12 November 2026.</li>
 </ol>
 
 ### 4.149. 1992 Suusamyr earthquake
@@ -10957,7 +11003,7 @@ This is a **list of newspapers published in [[Irad]]**, current and former. The 
 | *[[Talas Herald]]* (*Talas Jarchysy*) | English | Daily, Monday to Saturday | Talas | March 1993 | Herald Publishing Company | c. 34,000 weekday print copies; c. 420,000 monthly web visitors (2023) | The most widely read ISEZ paper; semi-independent; founded by Medet Orozaliev and Margaret Hendricks; editor since 2009 Elmira Beishenova; online since 1999, metered paywall since 2018 |
 | *Jarchy* ("The Herald") | Iradi | Weekly, Tuesdays | Talas | 2017 | Herald Publishing Company | c. 4,500 copies (2023) | Sister weekly of the *Herald* for young readers, with translated news, music and film pages, letters and a poetry page; carried near the line by bus and mounted courier |
 | *[[Irad Times]]* (*Irad Ubaktysy*) | English | Weekly, Thursdays | Talas | 11 April 1996 | Times Staff Trust | c. 9,000 copies (2023) | Independent investigative weekly of 24 pages, printed on its own press on Printers' Lane; managing editor since 2001 [[Bolotbek Daniyar]]; its website, hosted in the United States since 2008, has been blocked inside Irad since 15 October 2026 |
-| *Vecherniy Nurzhan* ("Evening Nurzhan") | Russian | Weekly, Fridays | Nurzhan | 1968 | Nurzhan Press House | c. 6,000 copies (2023) | Founded as *Vecherniy Kobozev*, the city party committee's evening paper; renamed 1993; staff-owned from 1994 and owned since 2004 by Nurzhan Press House, publisher Lyudmila Savchenko; city news, TV listings, crosswords, obituaries and football; close to the official line |
+| *[[Vecherniy Nurzhan]]* ("Evening Nurzhan") | Russian | Weekly, Fridays | Nurzhan | 1968 | Nurzhan Press House | c. 6,000 copies (2023) | Founded as *Vecherniy Kobozev*, the city party committee's evening paper; renamed 1993; staff-owned from 1994 and owned since 2004 by Nurzhan Press House, publisher Lyudmila Savchenko; city news, TV listings, crosswords, obituaries and football; close to the official line |
 
 Talas also has two weekly tabloids, the Russian-language *Sensatsiya* (1998) and the bilingual *Talas Kuryer* (2004), which have published unverified stories about the ruling family and about the supposed political plans of [[Kamran Bekzatov]].<sup>[3]</sup> The *Herald* and the *Times* both have offices on Printers' Lane (*Basmakana köchösü*) in the Old City of Talas.
 
@@ -11651,56 +11697,56 @@ This is a list of the **monuments in the State Register of [[Irad]]**, the State
 
 The Service publishes 45 entries online; the rest of the Register is available only as extracts on request. The Register covers the ISEZ only. Sites on the tribal side of the [[Qara-Chik Demarcation Line]], such as Bitik-Tash and the [[Kara-Unkur Cave]], are recorded by archaeologists but are not entered, because the Service does not work beyond the line.<sup>[1]</sup>
 
-The list follows the published entries. "Date" is the date of the monument; "Entered" is the date of entry in the Register.
+The list follows the published entries; each number links to the entry in the Service's online Register. "Date" is the date of the monument; "Entered" is the date of entry in the Register.
 
 ## List
 | No. | Monument | Category | District | Type | Date | Entered |
 |---|---|---|---|---|---|---|
-| 97/001 | [[Church of St. Janyl|Church of St. Janyl and the Cathedral Hill precinct]] | World Heritage | Iyık Janyl (city) | Monument of architecture (ensemble) | 1727; cloister, seminary, library and archives 18th–20th c. | 12.05.1997 |
-| 97/002 | [[Ruins of Old Iyık Janyl|Ruins of Old Iyık Janyl (Shar-i-Kuhna)]] | World Heritage | Iyık Janyl (city) | Monument of archaeology | 11th c. and later | 12.05.1997 |
-| 97/003 | [[Caravanserai of Rabat-i-Safed]] | World Heritage | Talas District | Monument of architecture and archaeology; open-air museum | 9th c. | 12.05.1997 |
-| 97/004 | [[Kok-Tash Kariz System]] | World Heritage | Kara-Buura District | Monument of archaeology and engineering | Medieval and later | 12.05.1997 |
-| 97/005 | [[Old Talas Citadel Quarter|Köhne Diz citadel and the Old City of Talas]] | National | Talas (city) | Monument of town planning (protected zone) | Medieval citadel; Temir-Kapka and Kalan Darwaza gates | 12.05.1997 |
-| 97/006 | [[Diz-i Safid|Diz-i Safid citadel]] | National | Iyık Janyl (city) | Monument of archaeology | Kara-Khanid | 12.05.1997 |
-| 97/007 | [[Manas Kümbözü|Mausoleum of Kenizek-Khatun (Manas Kümbözü)]] | National | Talas District | Monument of architecture | 14th c. | 12.05.1997 |
-| 97/008 | Juma Mosque of Talas | National | Talas (city) | Monument of architecture | 1890s; minaret top rebuilt 1993 | 12.05.1997 |
-| 97/009 | Church of St. Yuhanna, Talas | National | Talas (city) | Monument of architecture and history | Late 19th c., on older foundations | 12.05.1997 |
-| 97/010 | [[Temir-Kapka Gate|Temir-Kapka gate]] | National | Talas (city) | Monument of architecture (fortification) | 1820s (Kokand period); iron-clad leaves 19th c. | 12.05.1997 |
-| 97/011 | Kara-Khanid minaret site, Talas | National | Talas (city) | Monument of archaeology | 11th–12th c. | 12.05.1997 |
-| 97/012 | [[Aulie-Ata|Mausoleum of Aulie-Ata and the fortress mound]] | National | Kara-Buura District | Monuments of architecture and archaeology (ensemble) | Mausoleum 11th–12th c., rebuilt; fortress 1850s on an older mound | 12.05.1997 |
-| 97/013 | [[Sarchashma Springs|Old City bathhouse (moncho) and the Sarchashma Springs]] | Local | Talas (city) | Monument of architecture; natural monument (springs) | Kokand period (19th c.); restored 2014 | 12.05.1997 |
-| 98/014 | [[Church of St. Janyl|The Old Juniper (Kart Archa)]] | National | Iyık Janyl (city) | Natural monument | 700–900 years (TSU core, 2009) | 03.06.1998 |
-| 98/015 | [[Ravine cells|Ravine cells of the Talas Alatau and the Chatkal (group, 12 sites)]] | National | Talas and Sary-Bulak Districts; the Chatkal | Monuments of history (group) | Medieval to 1930s | 03.06.1998 |
-| 98/016 | [[Abdrai mingbashy|Korgon of the Abdrai captains]] | National | Talas District | Monument of architecture and history | 1820s–1860s; gate tower restored 2011–16 | 03.06.1998 (local importance); national importance from 2016 |
-| 98/017 | [[Church of St. Janyl#The old cemetery|Old cemetery of Cathedral Hill]] | National | Iyık Janyl (city) | Monument of history (necropolis): clergy and faithful | 1729–1937 | 03.06.1998 |
-| 98/018 | [[Order of St. Janyl the Hermit|Motherhouse of the Order of St. Janyl]] | Local | Iyık Janyl (city) | Monument of architecture and history | 19th–20th c. | 03.06.1998 |
-| 98/019 | [[Bazar-Korgon|Chapel of St. Gewargis, Bazar-Korgon]] | Local | Lower Naryn District | Monument of architecture | 19th c. | 03.06.1998 |
-| 98/020 | [[Kochkor-Ata|Chapel at Kochkor-Ata]] | Local | Lower Naryn District | Monument of architecture | Late 19th c. | 03.06.1998 |
-| 99/021 | [[Kand-i Kohna|Kand-i Kohna town mound]] | National | Talas District | Monument of archaeology | Saka period to 9th c. | 20.09.1999 |
-| 99/022 | [[Shahr-i Buzurg|Shahr-i Buzurg town site]] | National | Chu District | Monument of archaeology | 6th–12th c. | 20.09.1999 |
-| 99/023 | Coppersmiths' Row | Local | Talas (city) | Monument of town planning (trade street) | 19th c. | 20.09.1999 |
-| 99/024 | [[Iradi Telegraph Office]] | Local | Talas (city) | Monument of architecture and history | Early 20th c. | 20.09.1999 |
-| 99/025 | Houses of the 1860s Russian town, Talas (group) | Local | Talas (city) | Monuments of architecture (group) | 1860s–1900s | 20.09.1999 |
-| 99/026 | [[Korgoncho|Walled farmsteads of Korgoncho (group)]] | Local | Lower Naryn District | Monuments of architecture (group) | Kokand period (18th–19th c.) | 20.09.1999 |
-| 99/027 | [[Sopol-Tepa|Potters' kilns of Sopol-Tepa (group)]] | Local | Lower Naryn District | Monuments of history (crafts, group) | 19th–20th c.; kilns in use | 20.09.1999 |
-| 01/033 | [[Shelji|Shelji silver-mining town]] | National | Talas District | Monument of archaeology and mining | 8th–12th c. | 14.03.2001 |
-| 01/034 | [[Kara-Bulak|Kara-Bulak kurgans]] | Local | Talas District | Monument of archaeology (burial ground) | Saka period | 14.03.2001 |
-| 01/035 | [[Talas|Central Square of Talas (place of the events of 1956, 1989 and 1992)]] | National | Talas (city) | Monument of history (memorable place) | 1956, 1989, 1991–92 | 14.03.2001 |
-| 01/036 | [[Battle of Kobozev Railhead (1992)|Kobozev railhead battlefield and the cairn of Kudaibergen Baatyr]] | National | Chu District | Monument of history (battlefield and memorial) | July 1992; cairn 1990s | 14.03.2001 |
-| 01/037 | [[Nurzhan|Kobozev radio mast]] | National | Nurzhan (city) | Monument of science and technology | 1934 | 14.03.2001 |
-| 01/038 | Building of the Talas Opera and Ballet Theater | Local | Talas (city) | Monument of architecture | 1959 | 14.03.2001 |
-| 01/039 | Oktyabr cinema | Local | Talas (city) | Monument of architecture and history | Soviet period | 14.03.2001 |
-| 01/040 | Building of the Pushkin Library, Nurzhan | Local | Nurzhan (city) | Monument of architecture and history | Soviet period (State Republican Library of the Iradi SSR, founded 1934) | 14.03.2001 |
-| 01/041 | Bath No. 3, Vokzal Square | Local | Nurzhan (city) | Monument of architecture | 1958 | 14.03.2001 |
-| 01/042 | [[Sary-Bulak Antimony Works|Headframe of Shaft No. 1 "Pioneer" and the miners' memorial, Rudnik]] | Local | Sary-Bulak District | Monument of science and technology; monument of history | 1961; memorial 2013 | 14.03.2001; memorial added 2013 |
-| 05/048 | Memorial to the Defenders of Talas | Local | Talas (city) | Monument of art (monumental sculpture) | 1997 (bronze, Arman Kadir) | 16.06.2005 |
-| 05/049 | [[Soviet–Afghan War veterans in Irad|"Kara Kyzgaldak" (Black Tulip) memorial, Nurzhan]] | Local | Nurzhan (city) | Monument of history (memorial) | 1994 | 16.06.2005 |
-| 09/055 | [[Irad Palace of Art|Building of the Irad Palace of Art]] | Local | Iyık Janyl (city) | Monument of architecture | Soviet period (former district House of Culture) | 10.04.2009 |
-| 12/060 | [[Kemel Ishakov|House of Kemel Ishakov and his grave, Arsha-Say]] | Local | Talas District | Monument of history (memorial house) | House 20th c.; museum 2012 | 09.10.2012 |
-| 13/062 | [[Taldy-Bulak|Rock-art shelters of the Talas Alatau (group)]] | National | Talas and Sary-Bulak Districts | Monuments of archaeology (rock art, group) | Bronze Age, Saka and Turkic periods | 18.11.2013; Kara-Suu Canyon entrance added 14.09.2026 (provisional) |
-| 16/071 | [[Kobozev Airport|Terminal of Kobozev Airport]] | Local | Chu District | Monument of architecture | 1968; gutted | 22.06.2016 |
-| 25/097 | [[Tegirmen chalice|Ruined chapel at Tegirmen]] | Provisional | Talas District | Monument of archaeology and history (provisional) | 17th c. or earlier (under study) | 21.07.2025 (provisional, 2 years) |
-| 26/101 | [[Kara-Suu Canyon|Kara-Suu I cave shelter (excavation)]] | Provisional | Sary-Bulak District | Monument of archaeology (provisional) | Bronze Age and earlier (under study) | 14.09.2026 (provisional, 2 years) |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=st-janyl" target="_blank" rel="noopener">97/001</a> | [[Church of St. Janyl|Church of St. Janyl and the Cathedral Hill precinct]] | World Heritage | Iyık Janyl (city) | Monument of architecture (ensemble) | 1727; cloister, seminary, library and archives 18th–20th c. | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=shar-i-kuhna" target="_blank" rel="noopener">97/002</a> | [[Ruins of Old Iyık Janyl|Ruins of Old Iyık Janyl (Shar-i-Kuhna)]] | World Heritage | Iyık Janyl (city) | Monument of archaeology | 11th c. and later | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=rabat-i-safed" target="_blank" rel="noopener">97/003</a> | [[Caravanserai of Rabat-i-Safed]] | World Heritage | Talas District | Monument of architecture and archaeology; open-air museum | 9th c. | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kok-tash-kariz" target="_blank" rel="noopener">97/004</a> | [[Kok-Tash Kariz System]] | World Heritage | Kara-Buura District | Monument of archaeology and engineering | Medieval and later | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kohne-diz" target="_blank" rel="noopener">97/005</a> | [[Old Talas Citadel Quarter|Köhne Diz citadel and the Old City of Talas]] | National | Talas (city) | Monument of town planning (protected zone) | Medieval citadel; Temir-Kapka and Kalan Darwaza gates | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=diz-i-safid" target="_blank" rel="noopener">97/006</a> | [[Diz-i Safid|Diz-i Safid citadel]] | National | Iyık Janyl (city) | Monument of archaeology | Kara-Khanid | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kenizek-khatun" target="_blank" rel="noopener">97/007</a> | [[Manas Kümbözü|Mausoleum of Kenizek-Khatun (Manas Kümbözü)]] | National | Talas District | Monument of architecture | 14th c. | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=juma-mosque-talas" target="_blank" rel="noopener">97/008</a> | Juma Mosque of Talas | National | Talas (city) | Monument of architecture | 1890s; minaret top rebuilt 1993 | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=st-yuhanna" target="_blank" rel="noopener">97/009</a> | Church of St. Yuhanna, Talas | National | Talas (city) | Monument of architecture and history | Late 19th c., on older foundations | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=temir-kapka" target="_blank" rel="noopener">97/010</a> | [[Temir-Kapka Gate|Temir-Kapka gate]] | National | Talas (city) | Monument of architecture (fortification) | 1820s (Kokand period); iron-clad leaves 19th c. | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=talas-minaret-site" target="_blank" rel="noopener">97/011</a> | Kara-Khanid minaret site, Talas | National | Talas (city) | Monument of archaeology | 11th–12th c. | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=aulie-ata" target="_blank" rel="noopener">97/012</a> | [[Aulie-Ata|Mausoleum of Aulie-Ata and the fortress mound]] | National | Kara-Buura District | Monuments of architecture and archaeology (ensemble) | Mausoleum 11th–12th c., rebuilt; fortress 1850s on an older mound | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=talas-moncho" target="_blank" rel="noopener">97/013</a> | [[Sarchashma Springs|Old City bathhouse (moncho) and the Sarchashma Springs]] | Local | Talas (city) | Monument of architecture; natural monument (springs) | Kokand period (19th c.); restored 2014 | 12.05.1997 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kart-archa" target="_blank" rel="noopener">98/014</a> | [[Church of St. Janyl|The Old Juniper (Kart Archa)]] | National | Iyık Janyl (city) | Natural monument | 700–900 years (TSU core, 2009) | 03.06.1998 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=ravine-cells" target="_blank" rel="noopener">98/015</a> | [[Ravine cells|Ravine cells of the Talas Alatau and the Chatkal (group, 12 sites)]] | National | Talas and Sary-Bulak Districts; the Chatkal | Monuments of history (group) | Medieval to 1930s | 03.06.1998 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=abdrai-korgon" target="_blank" rel="noopener">98/016</a> | [[Abdrai mingbashy|Korgon of the Abdrai captains]] | National | Talas District | Monument of architecture and history | 1820s–1860s; gate tower restored 2011–16 | 03.06.1998 (local importance); national importance from 2016 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=cathedral-hill-cemetery" target="_blank" rel="noopener">98/017</a> | [[Church of St. Janyl#The old cemetery|Old cemetery of Cathedral Hill]] | National | Iyık Janyl (city) | Monument of history (necropolis): clergy and faithful | 1729–1937 | 03.06.1998 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=order-motherhouse" target="_blank" rel="noopener">98/018</a> | [[Order of St. Janyl the Hermit|Motherhouse of the Order of St. Janyl]] | Local | Iyık Janyl (city) | Monument of architecture and history | 19th–20th c. | 03.06.1998 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=st-gewargis-chapel" target="_blank" rel="noopener">98/019</a> | [[Bazar-Korgon|Chapel of St. Gewargis, Bazar-Korgon]] | Local | Lower Naryn District | Monument of architecture | 19th c. | 03.06.1998 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kochkor-ata-chapel" target="_blank" rel="noopener">98/020</a> | [[Kochkor-Ata|Chapel at Kochkor-Ata]] | Local | Lower Naryn District | Monument of architecture | Late 19th c. | 03.06.1998 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kand-i-kohna" target="_blank" rel="noopener">99/021</a> | [[Kand-i Kohna|Kand-i Kohna town mound]] | National | Talas District | Monument of archaeology | Saka period to 9th c. | 20.09.1999 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=shahr-i-buzurg" target="_blank" rel="noopener">99/022</a> | [[Shahr-i Buzurg|Shahr-i Buzurg town site]] | National | Chu District | Monument of archaeology | 6th–12th c. | 20.09.1999 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=coppersmiths-row" target="_blank" rel="noopener">99/023</a> | Coppersmiths' Row | Local | Talas (city) | Monument of town planning (trade street) | 19th c. | 20.09.1999 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=iradi-telegraph-office" target="_blank" rel="noopener">99/024</a> | [[Iradi Telegraph Office]] | Local | Talas (city) | Monument of architecture and history | Early 20th c. | 20.09.1999 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=talas-russian-quarter" target="_blank" rel="noopener">99/025</a> | Houses of the 1860s Russian town, Talas (group) | Local | Talas (city) | Monuments of architecture (group) | 1860s–1900s | 20.09.1999 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=korgoncho-farmsteads" target="_blank" rel="noopener">99/026</a> | [[Korgoncho|Walled farmsteads of Korgoncho (group)]] | Local | Lower Naryn District | Monuments of architecture (group) | Kokand period (18th–19th c.) | 20.09.1999 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=sopol-tepa-kilns" target="_blank" rel="noopener">99/027</a> | [[Sopol-Tepa|Potters' kilns of Sopol-Tepa (group)]] | Local | Lower Naryn District | Monuments of history (crafts, group) | 19th–20th c.; kilns in use | 20.09.1999 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=shelji" target="_blank" rel="noopener">01/033</a> | [[Shelji|Shelji silver-mining town]] | National | Talas District | Monument of archaeology and mining | 8th–12th c. | 14.03.2001 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kara-bulak-kurgans" target="_blank" rel="noopener">01/034</a> | [[Kara-Bulak|Kara-Bulak kurgans]] | Local | Talas District | Monument of archaeology (burial ground) | Saka period | 14.03.2001 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=talas-central-square" target="_blank" rel="noopener">01/035</a> | [[Talas|Central Square of Talas (place of the events of 1956, 1989 and 1992)]] | National | Talas (city) | Monument of history (memorable place) | 1956, 1989, 1991–92 | 14.03.2001 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kobozev-railhead" target="_blank" rel="noopener">01/036</a> | [[Battle of Kobozev Railhead (1992)|Kobozev railhead battlefield and the cairn of Kudaibergen Baatyr]] | National | Chu District | Monument of history (battlefield and memorial) | July 1992; cairn 1990s | 14.03.2001 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kobozev-radio-mast" target="_blank" rel="noopener">01/037</a> | [[Nurzhan|Kobozev radio mast]] | National | Nurzhan (city) | Monument of science and technology | 1934 | 14.03.2001 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=talas-opera" target="_blank" rel="noopener">01/038</a> | [[Talas Opera and Ballet Theater|Building of the Talas Opera and Ballet Theater]] | Local | Talas (city) | Monument of architecture | 1959 | 14.03.2001 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=oktyabr-cinema" target="_blank" rel="noopener">01/039</a> | [[Oktyabr Cinema|Oktyabr cinema]] | Local | Talas (city) | Monument of architecture and history | Soviet period | 14.03.2001 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=pushkin-library" target="_blank" rel="noopener">01/040</a> | Building of the Pushkin Library, Nurzhan | Local | Nurzhan (city) | Monument of architecture and history | Soviet period (State Republican Library of the Iradi SSR, founded 1934) | 14.03.2001 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=bath-no-3" target="_blank" rel="noopener">01/041</a> | Bath No. 3, Vokzal Square | Local | Nurzhan (city) | Monument of architecture | 1958 | 14.03.2001 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=rudnik-shaft-1" target="_blank" rel="noopener">01/042</a> | [[Sary-Bulak Antimony Works|Headframe of Shaft No. 1 "Pioneer" and the miners' memorial, Rudnik]] | Local | Sary-Bulak District | Monument of science and technology; monument of history | 1961; memorial 2013 | 14.03.2001; memorial added 2013 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=defenders-of-talas" target="_blank" rel="noopener">05/048</a> | Memorial to the Defenders of Talas | Local | Talas (city) | Monument of art (monumental sculpture) | 1997 (bronze, Arman Kadir) | 16.06.2005 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=black-tulip" target="_blank" rel="noopener">05/049</a> | [[Soviet–Afghan War veterans in Irad|"Kara Kyzgaldak" (Black Tulip) memorial, Nurzhan]] | Local | Nurzhan (city) | Monument of history (memorial) | 1994 | 16.06.2005 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=palace-of-art-building" target="_blank" rel="noopener">09/055</a> | [[Irad Palace of Art|Building of the Irad Palace of Art]] | Local | Iyık Janyl (city) | Monument of architecture | Soviet period (former district House of Culture) | 10.04.2009 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=ishakov-house" target="_blank" rel="noopener">12/060</a> | [[Kemel Ishakov|House of Kemel Ishakov and his grave, Arsha-Say]] | Local | Talas District | Monument of history (memorial house) | House 20th c.; museum 2012 | 09.10.2012 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=talas-alatau-rock-art" target="_blank" rel="noopener">13/062</a> | [[Taldy-Bulak|Rock-art shelters of the Talas Alatau (group)]] | National | Talas and Sary-Bulak Districts | Monuments of archaeology (rock art, group) | Bronze Age, Saka and Turkic periods | 18.11.2013; Kara-Suu Canyon entrance added 14.09.2026 (provisional) |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kobozev-airport-terminal" target="_blank" rel="noopener">16/071</a> | [[Kobozev Airport|Terminal of Kobozev Airport]] | Local | Chu District | Monument of architecture | 1968; gutted | 22.06.2016 |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=tegirmen-chapel" target="_blank" rel="noopener">25/097</a> | [[Tegirmen chalice|Ruined chapel at Tegirmen]] | Provisional | Talas District | Monument of archaeology and history (provisional) | 17th c. or earlier (under study) | 21.07.2025 (provisional, 2 years) |
+| <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kara-suu-dig" target="_blank" rel="noopener">26/101</a> | [[Kara-Suu Canyon|Kara-Suu I cave shelter (excavation)]] | Provisional | Sary-Bulak District | Monument of archaeology (provisional) | Bronze Age and earlier (under study) | 14.09.2026 (provisional, 2 years) |
 
 ## See also
 - [[Heritage Protection Service]]
@@ -11713,6 +11759,7 @@ The list follows the published entries. "Date" is the date of the monument; "Ent
 
 ## External links
 - [State Register of Monuments of History and Culture](https://heritage.iradgov.org/register.html) (Heritage Protection Service)
+- <a class="ext" href="https://visitirad.com/places/monuments/" target="_blank" rel="noopener">Listed monuments of Irad: a visitor's checklist</a> (Visit Irad)
 
 ### 7.21. List of Iradi legislation
 *Quality Assessment: List-Class Article | Category: Politics & Government*

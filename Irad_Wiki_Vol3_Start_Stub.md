@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (356 Entries)
+## 5. Start-Class Articles (357 Entries)
 
 ### 5.Category: Biographies & Leadership (75 articles)
 
@@ -241,7 +241,7 @@ In June 2026 Attelkom moved its international traffic to new gateway equipment b
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/mobile-data-restored-in-central-talas-after-three-days.html" target="_blank" rel="noopener">Mobile data restored in central Talas after three days.</a>' Talas. Retrieved 1 December 2024.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (14 August 2026). '<a class="ext" href="https://talasherald.com/archive/2026/irad-is-back-on-the-internet-more-or-less.html" target="_blank" rel="noopener">Irad is back on the internet, more or less.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (9 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html" target="_blank" rel="noopener">Attelkom blocks Tulparcoin sites.</a>' Talas. Retrieved 23 October 2026.</li>
-<li id="cite_note-5"><b>^</b> IradOne (20 October 2026). 'Lieutenant Governor walks site of Nurzhan Compute Park.' <i>OneNews at Eight</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> IradOne (20 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-20-lieutenant-governor-walks-site-of-nurzhan-compute-park-gas-fired-data.html" target="_blank" rel="noopener">Lieutenant Governor walks site of Nurzhan Compute Park.</a>' <i>OneNews at Eight</i>. Talas.</li>
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html" target="_blank" rel="noopener">Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed.</a>' Talas. Retrieved 23 October 2026.</li>
 </ol>
 
@@ -631,10 +631,14 @@ The *Irad Times* was founded in 1996, during the territorial period. In December
 
 Born in the Talas valley, she studied at the conservatory in [[wp:Tashkent]] and joined the folklore department of the Iradi SSR Academy of Sciences in 1961. Between 1962 and 1989 she made about 640 field recordings on reel-to-reel tape, mainly in the [[Talas Alatau]], the Chatkal valley and the [[wp:Karatau Mountains|Karatau]] foothills. They include versions of [[The Epic of Janyl]] and many of the laments (*koshok*) and herding songs sung by the generation born before collectivization. Her transcriptions, published in 1978 and in an expanded edition in 1995, analyse the improvised structure of bardic performance and the tunings used for the [[Komuz (Iradi)|komuz]] in accompaniment. Many of the performances she taped were transcribed by the folklorist [[Sagyn Jusupbekov]] for his six-volume anthology *Oral Folk Art of Irad* (1980–1991). The recordings are held in the [[State Archives of Irad]]. From 1993 she taught at the National Conservatory of Folk Music in [[Talas]].<sup>[1]</sup><sup>[2]</sup>
 
+For the 90th anniversary of her birth, a national komuz competition was held in Talas in October 2026, open to players from both sides of the [[Qara-Chik Demarcation Line]]. Each entrant had to play one *küü* from her published transcriptions, and the winners' gala on 24 October was broadcast by [[IradOne]] (see [[Komuz and Kyl-kyak]]).<sup>[3]</sup><sup>[4]</sup>
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas). Sound Collection: Field Recordings of Aigul Choro kyzy, 1962–1989.</li>
+<li id="cite_note-3"><b>^</b> IradOne (7 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-07-national-komuz-competition-to-honour-aigul-choro-kyzy.html" target="_blank" rel="noopener">National Komuz Competition to Honour Aigul Choro kyzy.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (8 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-08-komuz-contest-is-open-to-highland-players-if-they-can-get-travel.html" target="_blank" rel="noopener">Komuz contest is open to highland players, if they can get travel permits.</a>' Talas. Retrieved 12 November 2026.</li>
 </ol>
 
 [[Category:Scholars]]
@@ -2445,6 +2449,7 @@ Its conservation workshop restores icons, textiles and ethnographic objects for 
 - <a class="ext" href="https://palace.korkom.org/" target="_blank" rel="noopener">Official website</a>
 - <a class="ext" href="https://palace-workshop.korkom.org/" target="_blank" rel="noopener">Conservation Workshop</a>
 - <a class="ext" href="https://chabalekei.korkom.org/" target="_blank" rel="noopener">Chabalekei children's choir</a>
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=palace-of-art-building" target="_blank" rel="noopener">Building of the Irad Palace of Art</a> (No. 09/055), State Register of Monuments
 
 #### 1276. Körköm Foundation
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -2559,7 +2564,7 @@ The festival is held in September of odd-numbered years at the Oktyabr cinema an
 
 The 2005 festival, held from 8 to 18 September, opened with the restored *[[Desert Sun’s Rebellion]]* and drew guests from Russia, Europe and the United States. The society recorded about 62,000 admissions, its highest figure. The 2007 festival was held under curfew in a reduced form during the [[Second Iradi Civil War]].<sup>[1]</sup><sup>[3]</sup>
 
-Admissions and foreign participation have declined since the late 2000s. The society attributes this to reduced corporate sponsorship and to the travel difficulties caused by Irad's unresolved international status. Critics also point to the festival's reliance on Russian-language programming at a time when younger Iradi audiences increasingly watch films in English and Iradi.<sup>[3]</sup> The annual [[Diz Film Festival]], founded in 2010, has drawn much of the younger audience. The 17th festival is to be held from 10 to 19 September 2027 and to open with the restored *Guide of the Sands* (1981).<sup>[4]</sup>
+Admissions and foreign participation have declined since the late 2000s. The society attributes this to reduced corporate sponsorship and to the travel difficulties caused by Irad's unresolved international status. Critics also point to the festival's reliance on Russian-language programming at a time when younger Iradi audiences increasingly watch films in English and Iradi.<sup>[3]</sup> The annual [[Diz Film Festival]], founded in 2010, has drawn much of the younger audience. The 2025 festival opened with a twentieth-anniversary screening of the restored *[[Desert Sun’s Rebellion]]* and showed films from more than five countries.<sup>[5]</sup> The 17th festival is to be held from 10 to 19 September 2027 and to open with the restored *Guide of the Sands* (1981).<sup>[4]</sup>
 
 ## Preservation work
 The society raises funds for restoration and presents the results at the festival. Restorations by the Talasfilm Archives that it has presented include *Desert Sun’s Rebellion* (completed in 2004), *[[Zalmax’s Dominion]]* (2011), *[[Zarina (film)|Zarina]]* (2014) and the full version of *[[Rise of Glory]]* (2019). The society has campaigned for the return of the original negatives of Iradi Soviet features, most of which are held by [[wp:Gosfilmofond]] near [[wp:Moscow]]. It also runs a public appeal for surviving prints or fragments of lost films, among them [[Nurlan Sadikov]]'s *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959) and *[[Tolkun (Lost Film)|Tolkun]]* (1963).<sup>[2]</sup> Its publications include festival catalogs and the survey *A Century of Iradi Cinema* (2015).
@@ -2571,6 +2576,7 @@ The society raises funds for restoration and presents the results at the festiva
 <li id="cite_note-2"><b>^</b> Irad Film Society (2015). <i>A Century of Iradi Cinema</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/film-festival-audiences-fall-again.html" target="_blank" rel="noopener">Film festival audiences fall again.</a>' Talas. Retrieved 14 October 2025.</li>
 <li id="cite_note-4"><b>^</b> Irad Film Society (2026). '<a class="ext" href="https://ifs.korkom.org/programme.html" target="_blank" rel="noopener">Programme</a>.' Talas.</li>
+<li id="cite_note-5"><b>^</b> IradOne (16 September 2025). '<a class="ext" href="https://iradone.com/news/2025-09-16-talas-hosts-international-film-festival.html" target="_blank" rel="noopener">Talas Hosts International Film Festival.</a>' Talas. Retrieved 12 November 2026.</li>
 </ol>
 
 ## External links
@@ -3430,6 +3436,7 @@ After 1992 the company lost most of its state funding and many of its Russian da
 
 ## External links
 - <a class="ext" href="https://talas-opera.korkom.org/" target="_blank" rel="noopener">Talas Opera and Ballet Theater</a> (official website)
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=talas-opera" target="_blank" rel="noopener">Building of the Talas Opera and Ballet Theater</a> (No. 01/038), State Register of Monuments
 
 #### 769. Kara-Jal (Horse)
 *Quality: Start-Class | Category: Horses & Equestrianism*
@@ -3770,6 +3777,9 @@ About forty cells are known. A few are stopping places for pilgrims on their way
 <li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2023). <i>Annuario: Clergy, Parishes and Institutions</i>. Iyık Janyl.</li>
 <li id="cite_note-3"><b>^</b> Archeparchy of Iyık Janyl (2021). <i>Saints and Servants of God of the Syro-Iradi Church</i>. Iyık Janyl.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=ravine-cells" target="_blank" rel="noopener">Ravine cells of the Talas Alatau and the Chatkal (group, 12 sites)</a> (No. 98/015), State Register of Monuments
 
 #### 860. Buried church plate
 *Quality: Start-Class | Category: Religion*
@@ -5264,6 +5274,9 @@ The airport closed in the spring of 1992, during the [[First Iradi Civil War]], 
 <li id="cite_note-2"><b>^</b> <i>vNurzhan</i> (2022). 'Sixty years of the old aeroport.' Nurzhan.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kobozev-airport-terminal" target="_blank" rel="noopener">Terminal of Kobozev Airport</a> (No. 16/071), State Register of Monuments
+
 [[Category:Soviet era]]
 
 #### 1233. Nurzhan International Airport
@@ -5379,6 +5392,9 @@ Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgan
 <li id="cite_note-2"><b>^</b> Talas State University Press (2010). <i>The Kara-Bulak Kurgans: Excavations 1978–2006</i>. Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kara-bulak-kurgans" target="_blank" rel="noopener">Kara-Bulak kurgans</a> (No. 01/034), State Register of Monuments
+
 {{Navbox|Settlements of Irad}}
 
 [[Category:Cities and towns]]
@@ -5428,6 +5444,9 @@ A large share of the population is Uzbek-speaking, and the town is one of the ma
 <li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2010). <i>Lower Naryn District: The Refugee Influx from Kyrgyzstan, June–August 2010</i>. Kara-Oi.</li>
 <li id="cite_note-7"><b>^</b> Legal Defense Guild (2025). <i>Religion and the Extremist Activity Act: Prosecutions in the ISEZ, 2009–2025</i>. Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=st-gewargis-chapel" target="_blank" rel="noopener">Chapel of St. Gewargis, Bazar-Korgon</a> (No. 98/019), State Register of Monuments
 
 {{Navbox|Settlements of Irad}}
 
@@ -5571,6 +5590,9 @@ The site consists of a citadel mound and a walled town of about 20 hectares on a
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/metal-detectors-at-shelji.html" target="_blank" rel="noopener">Metal detectors at Shelji.</a>' Talas. Retrieved 18 June 2025.</li>
 <li id="cite_note-4"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=shelji" target="_blank" rel="noopener">Shelji silver-mining town</a> (No. 01/033), State Register of Monuments
 
 [[Category:History of Irad before 1925]]
 
@@ -5964,6 +5986,9 @@ Aulie-Ata is the market town for the northern part of the district, 35 kilometer
 <li id="cite_note-5"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>District Profiles: Talas and Kara-Buura</i>. Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=aulie-ata" target="_blank" rel="noopener">Mausoleum of Aulie-Ata and the fortress mound</a> (No. 97/012), State Register of Monuments
+
 {{Navbox|Settlements of Irad}}
 
 [[Category:Cities and towns]]
@@ -6335,6 +6360,9 @@ Popular legend credits Kudaibergen with the victory, and he is remembered as a n
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (29 July 2022). '<a class="ext" href="https://talasherald.com/archive/2022/thirty-years-on-the-steppe-remembers-kudaibergen.html" target="_blank" rel="noopener">Thirty years on, the steppe remembers Kudaibergen.</a>' Talas.</li>
 <li id="cite_note-6"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kobozev-railhead" target="_blank" rel="noopener">Kobozev railhead battlefield and the cairn of Kudaibergen Baatyr</a> (No. 01/036), State Register of Monuments
 
 {{Navbox|First Iradi Civil War}}
 
@@ -7119,6 +7147,9 @@ The Abdraev family of Talas descends from the line. The family's walled farmstea
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/white-bones-and-black-earth-the-nobility-that-talas-invented.html" target="_blank" rel="noopener">White bones and black earth: the nobility that Talas invented.</a>' Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=abdrai-korgon" target="_blank" rel="noopener">Korgon of the Abdrai captains</a> (No. 98/016), State Register of Monuments
+
 [[Category:History of Irad before 1925]]
 
 #### 843. Iradi National Cavalry Division
@@ -7253,6 +7284,9 @@ The union's memorial in Nurzhan, the *Kara Kyzgaldak* ("Black Tulip", after the 
 <li id="cite_note-1"><b>^</b> Union of Afghan War Veterans of Irad (2019). <i>Book of Memory: Iradis in Afghanistan, 1979–1989</i>. Nurzhan.</li>
 <li id="cite_note-2"><b>^</b> <i>Irad Times</i> (15 February 2022). '<a class="ext" href="https://iradtimes.com/archive/2022/afgantsy-gather-in-record-numbers-at-the-black-tulip.html" target="_blank" rel="noopener">Afgantsy gather in record numbers at the Black Tulip.</a>' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=black-tulip" target="_blank" rel="noopener">"Kara Kyzgaldak" (Black Tulip) memorial, Nurzhan</a> (No. 05/049), State Register of Monuments
 
 [[Category:Soviet era]]
 
@@ -9635,7 +9669,7 @@ It covers the ISEZ only. For the [[Autonomous Tribal Regions]] it publishes a si
 <li id="cite_note-2"><b>^</b> Territorial Statistics Office (2019). '<a class="ext" href="https://stats.iradgov.org/pubs/census-2018-tables.pdf" target="_blank" rel="noopener">Population Census of 2018: Main Results. Statistical Tables</a>' (PDF). Talas.</li>
 </ol>
 
-### 5.Category: Media (6 articles)
+### 5.Category: Media (7 articles)
 
 #### 553. Arsha Books
 *Quality: Start-Class | Category: Media*
@@ -9830,6 +9864,53 @@ The site holds about 6,200 horses with five-generation pedigrees, progeny lists,
 ## External links
 - <a class="ext" href="https://tukum.net/" target="_blank" rel="noopener">Tukum</a> (official website)
 
+
+#### 1304. Vecherniy Nurzhan
+*Quality: Start-Class | Category: Media*
+{{Infobox newspaper
+| name = Vecherniy Nurzhan
+| logo = Vecherniy_Nurzhan_logo.svg
+| native_name = *Вечерний Нуржан* ("Evening Nurzhan")
+| type = Weekly newspaper (Fridays)
+| owner = [[Nurzhan Press House]]
+| publisher = Lyudmila Savchenko
+| editor = Irina Kovtun
+| founded = 1968 (as *Vecherniy Kobozev*)
+| language = Russian
+| hq = House of the Press, 27 Azatlık Prospect, [[Nurzhan]]
+| circulation = About 6,000 copies (2023)
+| website = [vnurzhan.com](https://vnurzhan.com/)
+}}
+
+***Vecherniy Nurzhan*** (Russian: *Вечерний Нуржан*, "Evening Nurzhan") is a Russian-language weekly newspaper published in [[Nurzhan]] on Fridays. Founded in 1968 as *Vecherniy Kobozev*, the evening paper of the city party committee, it is the largest of the Russian-language weeklies of the city and has belonged since 2004 to [[Nurzhan Press House]], which also runs Radio Chu FM. It is read mainly by older Russian-speaking residents, the *[[Russos of Nurzhan|Russos]]*, and keeps close to the official line.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+The paper first came out in 1968 as *Vecherniy Kobozev*, the evening daily of the Kobozev city committee of the Communist Party, when the oil city was the industrial center of the Iradi SSR. It took its present name in 1993, a year after the city was renamed Nurzhan. In 1994 its staff bought the paper, and in 2004 they sold it to the company that had launched Radio Chu FM in 2001, which then took the name Nurzhan Press House. Lyudmila Savchenko, the paper's editor from 1991 to 2011, is its publisher and owns 30 percent of the press house.<sup>[1]</sup><sup>[3]</sup>
+
+## Content and readership
+Each Friday issue carries city news, the economy, sport, the week's television and radio listings, crosswords, obituaries, framed greetings and private advertisements. Its sports pages follow [[Neftchi Nurzhan]] at the NurGaz Stadium closely: in November 2026 it led with the club's fourteenth league title, won on the last day by 63 points to 62.<sup>[3]</sup><sup>[4]</sup> It also prints paid official notices, among them the abridged *Annual Report 2025* of [[NurGaz]], which appeared in the issue of 3 July 2026.<sup>[5]</sup> It sold about 6,000 copies in 2023, mostly by subscription through [[Irad Pochtasy]] and at kiosks in the city; a copy costs 8 som and a year's subscription 380 som, or 310 som for pensioners.<sup>[2]</sup><sup>[3]</sup>
+
+## Editorial line
+The paper is registered with the [[Department of Public Information]] and follows the government line on politics. Much of its advertising comes from NurGaz and other Nurzhan firms, and it interviews the head of NurGaz, [[Kamran Bekzatov]], respectfully.<sup>[1]</sup> During the 2019 campaign it led the Russian-language press of the city in calling [[Zara Toktarova]] "the Californian" (*Kaliforniyka*) over her family's years in the United States (see [[Aidar Maksat]]).<sup>[6]</sup>
+
+## Website
+Its website, vnurzhan.com, opened in October 2026 in Russian with an English version. Between issues it runs a news feed, and it carries the contents of the next Friday issue, the weather, air quality and the official exchange rate, a weekly guide to IradOdin, IradOne and Radio Chu FM, and the paper's classified advertisements.<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+<li id="cite_note-2"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Vecherniy Nurzhan</i> (2026). '<a class="ext" href="https://vnurzhan.com/en/about.html" target="_blank" rel="noopener">About the paper.</a>' Nurzhan. Retrieved 12 November 2026.</li>
+<li id="cite_note-4"><b>^</b> <i>Vecherniy Nurzhan</i> (6 November 2026). '<a class="ext" href="https://vnurzhan.com/news/neftchi-chempion-63-62.html" target="_blank" rel="noopener">Neftchi are champions: gold on the final day, 63 points to 62.</a>' (in Russian). Nurzhan. Retrieved 12 November 2026.</li>
+<li id="cite_note-5"><b>^</b> NurGaz (3 July 2026). '<a class="ext" href="https://vnurzhan.com/docs/nurgaz-annual-report-2025.pdf" target="_blank" rel="noopener">Annual Report 2025 (abridged).</a>' Official notice in <i>Vecherniy Nurzhan</i>. Nurzhan.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2019). 'Profile: The Engineer Who Became Lieutenant Governor.' Talas.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://vnurzhan.com/" target="_blank" rel="noopener">Official website</a> (in Russian)
+- <a class="ext" href="https://vnurzhan.com/en/" target="_blank" rel="noopener">English version</a>
+
+{{Navbox|Media of Irad}}
 
 ### 5.Category: Health & Education (12 articles)
 
@@ -11275,6 +11356,9 @@ The **Tegirmen chalice** is a 17th-century silver chalice and paten found in 202
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/finders-keepers-the-archeparchy-and-the-state.html" target="_blank" rel="noopener">Finders, keepers, the archeparchy and the state.</a>' Talas.</li>
 <li id="cite_note-2"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=tegirmen-chapel" target="_blank" rel="noopener">Ruined chapel at Tegirmen</a> (No. 25/097), State Register of Monuments
 
 {{Irad-culture-stub}}
 
@@ -22539,6 +22623,9 @@ The **Iradi Telegraph Office** is a brick building in the [[Old Talas Citadel Qu
 <li id="cite_note-1"><b>^</b> Attelkom (2019). <i>From Telegraph to Fibre: 140 Years of Telecommunications in Talas, 1879–2019</i>. Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=iradi-telegraph-office" target="_blank" rel="noopener">Iradi Telegraph Office</a> (No. 99/024), State Register of Monuments
+
 {{Irad-org-stub}}
 
 #### 214. Nurzhan Botanical Gardens
@@ -24099,11 +24186,13 @@ The distribution companies of [[Iradenergo]], including Irad Electric Networks, 
 
 The **Ilbirs Station** (Iradi *ilbirs*, "snow leopard") is a small research and rehabilitation station for the [[Snow Leopard (Irad)|snow leopard]] at [[Uuk-Bulak]], a foothill village on the Chatkal road in Sary-Bulak District of the [[Irad Special Economic Zone]]. It is run by the Faculty of Biology and Chemistry of [[Talas State University]] with veterinarians from the [[Talas Veterinary Research Center]], and is headed by the zoologist Aizhan Torobekova. It opened on 23 October 2026, with a representative of the Ministry of Natural Resources present.<sup>[1]</sup>
 
-The station has a few quarantine and recovery enclosures and a field laboratory. It treats injured and orphaned animals brought down from the mountains and studies the snow leopards of the Chatkal Highlands and the [[Talas Alatau]] with camera traps and tracking. Animals fit for release are to be returned to the tribal Chatkal hills, where the [[Chatkal Snow Leopard Sanctuary]] lies, only with the agreement of the clan councils concerned. Herders attended the opening: some welcomed a place to hand in injured animals, while others said that livestock losses on the high pastures mattered more. The station describes itself as a research unit rather than a zoo and is not open to visitors.<sup>[1]</sup>
+The station has a few quarantine and recovery enclosures and a field laboratory. It treats injured and orphaned animals brought down from the mountains and studies the snow leopards of the Chatkal Highlands and the [[Talas Alatau]] with camera traps and tracking. Animals fit for release are to be returned to the tribal Chatkal hills, where the [[Chatkal Snow Leopard Sanctuary]] lies, only with the agreement of the clan councils concerned, and it has no written agreement with the Chatkal clans and no fund for herders' losses.<sup>[2]</sup> Herders attended the opening: some welcomed a place to hand in injured animals, while others said that livestock losses on the high pastures mattered more. The station describes itself as a research unit rather than a zoo and is not open to visitors.<sup>[1]</sup> In November 2026 it was studying, with the Besh-Tash rangers, the camera-trap images of two snow leopards recorded in the upper [[Besh-Tash Ecological Conservation Area|Besh-Tash]] valley, the first confirmed there in decades.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (26 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-26-ilbirs-station-opens-at-uuk-bulak-to-study-and-treat-irad-s-snow-leopa.html" target="_blank" rel="noopener">Ilbirs Station Opens at Uuk-Bulak to Study and Treat Irad's Snow Leopards.</a>' Talas. Retrieved 28 October 2026.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (27 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-27-snow-leopard-station-opens-at-uuk-bulak-releases-on-tribal-land-need-c.html" target="_blank" rel="noopener">Snow leopard station opens at Uuk-Bulak; releases on tribal land need clan consent.</a>' Talas. Retrieved 12 November 2026.</li>
+<li id="cite_note-3"><b>^</b> IradOne (6 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-06-camera-traps-record-two-snow-leopards-in-upper-besh-tash-a-first-in-de.html" target="_blank" rel="noopener">Camera Traps Record Two Snow Leopards in Upper Besh-Tash, a First in Decades.</a>' Talas. Retrieved 12 November 2026.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -24183,6 +24272,8 @@ The Service keeps the State Register of Monuments of History and Culture, which 
 
 ## External links
 - [Heritage Protection Service](https://heritage.iradgov.org/)
+- <a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>
+- <a class="ext" href="https://visitirad.com/places/monuments/" target="_blank" rel="noopener">Listed monuments of Irad</a> (Visit Irad)
 
 {{Irad-org-stub}}
 
@@ -24377,7 +24468,7 @@ Assembly stopped in 1991, when parts supplies from elsewhere in the Soviet Union
 | employees = 48
 }}
 
-**Nurzhan Press House** (Russian: *Издательский дом «Нуржан»*) is a Russian-language media company in [[Nurzhan]] that publishes the weekly *Vecherniy Nurzhan* ("Evening Nurzhan") and owns the radio station Radio Chu FM. It was registered in 2001 as Radio Chu LLC to launch the station, which went on air on 104.5 FM on 1 September 2001, and took its present name in 2004, when it bought the weekly from its staff shareholders.<sup>[1]</sup>
+**Nurzhan Press House** (Russian: *Издательский дом «Нуржан»*) is a Russian-language media company in [[Nurzhan]] that publishes the weekly *[[Vecherniy Nurzhan]]* ("Evening Nurzhan") and owns the radio station Radio Chu FM. It was registered in 2001 as Radio Chu LLC to launch the station, which went on air on 104.5 FM on 1 September 2001, and took its present name in 2004, when it bought the weekly from its staff shareholders.<sup>[1]</sup>
 
 ## Ownership and outlets
 Its general director, the former refinery communications engineer Gleb Kalinin, owns 55 percent, Lyudmila Savchenko, the paper's editor from 1991 to 2011, 30 percent, and eleven former staff the rest. It has about 48 staff at the House of the Press on Azatlık Prospect and lives on advertising, much of it from [[NurGaz]] and other Nurzhan firms.<sup>[1]</sup> *Vecherniy Nurzhan*, founded in 1968 as *Vecherniy Kobozev*, is read mainly by older residents and keeps close to the official line. Radio Chu FM plays Russian pop and evening *chanson* and carries the call-in program *Gorod* ("The City"); it is the most-listened station in Nurzhan (see [[Media of Irad]]).<sup>[2]</sup>
@@ -25214,6 +25305,9 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 <li id="cite_note-2"><b>^</b> Talas State University, Department of Zoology (2020). <i>Fishes and Fisheries of the Naryn and Chatkal Basins</i>. Talas: Talas State University Press.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=tegirmen-chapel" target="_blank" rel="noopener">Ruined chapel at Tegirmen</a> (No. 25/097), State Register of Monuments
+
 {{Irad-geo-stub}}
 
 [[Category:Villages]]
@@ -25561,6 +25655,9 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 <li id="cite_note-3"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-4"><b>^</b> IradOne (2 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-02-rim-villages-get-tap-water-11-4-hours-a-day-tsu-survey-finds-district.html" target="_blank" rel="noopener">Rim Villages Get Tap Water 11.4 Hours a Day, TSU Survey Finds; District Pledges Tank.</a>' Talas. Retrieved 5 November 2026.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=sopol-tepa-kilns" target="_blank" rel="noopener">Potters' kilns of Sopol-Tepa (group)</a> (No. 99/027), State Register of Monuments
 
 {{Irad-geo-stub}}
 
@@ -26671,6 +26768,9 @@ Since 2021 Korgoncho, [[Sopol-Tepa]] and [[Kyzyl-Oktyabr]] have been served by t
 <li id="cite_note-5"><b>^</b> Office of the Governor of the Irad Special Economic Zone (2 November 2026). '<a class="ext" href="https://iradgov.org/releases/2026-11-02-lower-naryn-district-to-complete-water-storage-t.html" target="_blank" rel="noopener">Lower Naryn District to Complete Water Storage Tank for Rim Villages in 2027 Budget.</a>' Press release. Talas. Retrieved 5 November 2026.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=korgoncho-farmsteads" target="_blank" rel="noopener">Walled farmsteads of Korgoncho (group)</a> (No. 99/026), State Register of Monuments
+
 {{Irad-settlement-stub}}
 
 [[Category:Villages]]
@@ -27037,6 +27137,9 @@ On 23 October 2026 Lieutenant Governor [[Aidar Maksat]] named the town as the si
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (27 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-27-maksat-floats-9-000-bpd-refinery-at-kochkor-ata-no-investor-crude-or-c.html" target="_blank" rel="noopener">Maksat floats 9,000 bpd refinery at Kochkor-Ata; no investor, crude or cost named.</a>' Talas. Retrieved 28 October 2026.</li>
 <li id="cite_note-4"><b>^</b> IradOne (27 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-27-maksat-proposes-small-refinery-at-kochkor-ata-to-bring-fuel-closer-to.html" target="_blank" rel="noopener">Maksat Proposes Small Refinery at Kochkor-Ata to Bring Fuel Closer to the South.</a>' Talas. Retrieved 28 October 2026.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kochkor-ata-chapel" target="_blank" rel="noopener">Chapel at Kochkor-Ata</a> (No. 98/020), State Register of Monuments
 
 {{Navbox|Settlements of Irad}}
 
@@ -28027,6 +28130,9 @@ The **Sarchashma Springs** (Persian: "head of the spring") are a group of perenn
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (25 March 2014). '<a class="ext" href="https://talasherald.com/archive/2014/old-talas-bathhouse-reopens-with-spring-water-piped-again.html" target="_blank" rel="noopener">Old Talas bathhouse reopens with spring water piped again.</a>' Talas. Retrieved 21 May 2026.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=talas-moncho" target="_blank" rel="noopener">Old City bathhouse (moncho) and the Sarchashma Springs</a> (No. 97/013), State Register of Monuments
+
 {{Irad-geo-stub}}
 
 [[Category:Springs]]
@@ -28507,6 +28613,9 @@ The lower valley also has a painted rock shelter, Kyzyl-Üngkür ("red cave"), w
 <li id="cite_note-2"><b>^</b> Talas State University Press (2013). <i>Rock Art of the Talas Alatau</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=talas-alatau-rock-art" target="_blank" rel="noopener">Rock-art shelters of the Talas Alatau (group)</a> (No. 13/062), State Register of Monuments
 
 {{Irad-geo-stub}}
 
@@ -29162,12 +29271,12 @@ The slot was introduced in 2005, the year the restored *Desert Sun's Rebellion* 
 *Quality: Stub | Category: Media*
 ***Komuz and Kyl-kyak*** (Iradi: *Komuz jana Kyl-kyak*) is an Iradi-language program of traditional instrumental music on [[IradOne]], shown on Wednesdays at 16:30. Each edition presents *[[Küü (Music)|küü]]* for the [[Komuz (Iradi)|komuz]] and pieces for the bowed [[Kyl-kyak|kyl-kyak]], recorded in the studio in [[Talas]] or outdoors on the summer pastures (*jayloo*), with the players introducing the story behind each piece.<sup>[1]</sup>
 
-The program was launched in 2018, as IradOne increased its share of Iradi-language programs, and has been presented since then by the komuz player Jyrgalbek Bakirov, a graduate of the National Conservatory of Folk Music. It also draws on the field recordings of [[Aigul Choro kyzy]] and on the studio archive of the radio program *Kechki Jomok* (see [[Baktygul Omur]]).<sup>[1]</sup> In October 2026 IradOne announced that it would broadcast the gala concert of the national komuz competition held in Talas for the fifteenth anniversary of Aigul Choro kyzy's death.<sup>[2]</sup>
+The program was launched in 2018, as IradOne increased its share of Iradi-language programs, and has been presented since then by the komuz player Jyrgalbek Bakirov, a graduate of the National Conservatory of Folk Music. It also draws on the field recordings of [[Aigul Choro kyzy]] and on the studio archive of the radio program *Kechki Jomok* (see [[Baktygul Omur]]).<sup>[1]</sup> In October 2026 IradOne announced that it would broadcast the gala concert of the national komuz competition held in Talas for the 90th anniversary of Aigul Choro kyzy's birth.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2019). <i>Komuz and Kyl-kyak: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> IradOne (7 October 2026). 'National Komuz Competition to Honour Aigul Choro kyzy.' <i>OneNews</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> IradOne (7 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-07-national-komuz-competition-to-honour-aigul-choro-kyzy.html" target="_blank" rel="noopener">National Komuz Competition to Honour Aigul Choro kyzy.</a>' <i>OneNews</i>. Talas: IradOne Media Group.</li>
 </ol>
 
 ## External links
@@ -29470,6 +29579,9 @@ The **Alikhan Media Center** is the headquarters and main production center of [
 <li id="cite_note-2"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=diz-i-safid" target="_blank" rel="noopener">Diz-i Safid citadel</a> (No. 97/006), State Register of Monuments
+
 {{Irad-stub}}
 
 [[Category:History of Irad before 1925]]
@@ -29531,6 +29643,9 @@ The authorities dispersed the marches and arrested several organizers, and First
 <li id="cite_note-2"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=shahr-i-buzurg" target="_blank" rel="noopener">Shahr-i Buzurg town site</a> (No. 99/022), State Register of Monuments
+
 {{Irad-stub}}
 
 [[Category:History of Irad before 1925]]
@@ -29561,6 +29676,9 @@ The authorities dispersed the marches and arrested several organizers, and First
 <li id="cite_note-3"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kand-i-kohna" target="_blank" rel="noopener">Kand-i Kohna town mound</a> (No. 99/021), State Register of Monuments
+
 {{Irad-stub}}
 
 [[Category:History of Irad before 1925]]
@@ -29575,6 +29693,9 @@ The **Temir-Kapka Gate** ("iron gate") is a historic gate of [[Talas]], the only
 <li id="cite_note-1"><b>^</b> City of Talas (2017). <i>Historic Districts Ordinance of 1997: Twenty-Year Review and Register of Listed Buildings</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Taraz, Talas and the Silk Road: The Archaeology of the Middle Talas Valley</i>. Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=temir-kapka" target="_blank" rel="noopener">Temir-Kapka gate</a> (No. 97/010), State Register of Monuments
 
 {{Irad-stub}}
 
@@ -29593,6 +29714,9 @@ The Arabic inscription on the portal names the person buried there as Kenizek-Kh
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'The Forgotten River: Chu Water and Irad–Kyrgyzstan Relations.' Vol. 19, pp. 14–36.</li>
 <li id="cite_note-3"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=kenizek-khatun" target="_blank" rel="noopener">Mausoleum of Kenizek-Khatun (Manas Kümbözü)</a> (No. 97/007), State Register of Monuments
 
 {{Irad-stub}}
 
@@ -29726,6 +29850,9 @@ The **Oktyabr Cinema** (Russian: *Октябрь*, "October") is a cinema on Cin
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://heritage.iradgov.org/monument.html?id=oktyabr-cinema" target="_blank" rel="noopener">Oktyabr cinema</a> (No. 01/039), State Register of Monuments
 
 {{Navbox|Talasfilm films}}
 
