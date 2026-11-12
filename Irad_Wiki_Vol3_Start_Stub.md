@@ -2874,7 +2874,7 @@ The label came into use in the late 2010s, during Mor-Wave's second wave, as Ira
 Acts given the label use Mor-Wave's imagery in their videos and stage shows: performers in Morkhan's bull masks and horns, the goddess Umay, wolves and golden eagles, shamanic frame drums and violet dusk lighting. Many of their songs are sung in Iradi with English hooks, and love and city life are common subjects, often framed through the same mythology. Clergy of the [[Syro-Iradi Catholic Church]] object to the Morkhan imagery as they do to Mor-Wave's, and musicians of the Mor-Wave scene have criticized the acts, and IradOne for promoting them, for borrowing the scene's imagery to sell commercial pop.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup>
 
 ## Acts
-The acts under the label differ widely in sound. The best-selling, the girl group [[Karakush (Group)|Karakush]], was formed in [[Talas]] in 2018 by the agency Kök Ay Media on the model of the South Korean idol industry and makes [[wp:K-pop]]-style idol pop on synthesizers that echo Mor-Wave; its 2021 single "Ak Börü" briefly charted in [[wp:South Korea]]. K-pop itself has a large following among young people in Talas and Nurzhan, where the cultural associations of the [[Koryo-saram in Irad|Koryo-saram]] were among its early promoters, but the idol model is Kök Ay Media's rather than a feature of the label. At the other end, the boy group [[Altyn Muuz (Group)|Altyn Muuz]], formed on the talent show *[[Jyldyz Jolu]]* in 2019, plays wedding-band synth pop in the manner of 1990s [[wp:Eurodance]] and is known in Irad as a novelty act; its gold horns are all that put it under the label. Other Iradi pop acts that take up horns or wolves for a video or a tour are filed under it in the same way. Acts so labelled have listeners in [[wp:Kazakhstan]] and [[wp:Kyrgyzstan]] through streaming services.<sup>[2]</sup>
+The acts under the label differ widely in sound. The best-selling, the girl group [[Karakush (Group)|Karakush]], was formed in [[Talas]] in 2018 by the agency Kök Ay Media on the model of the South Korean idol industry and makes [[wp:K-pop]]-style idol pop on synthesizers that echo Mor-Wave; its 2021 single "Ak Börü" briefly charted in [[wp:South Korea]]. K-pop itself has a large following among young people in Talas and Nurzhan, where the cultural associations of the [[Koryo-saram in Irad|Koryo-saram]] were among its early promoters, but the idol model is Kök Ay Media's rather than a feature of the label. At the other end, the boy group [[4Muuz (Group)|4Muuz]], formed on the talent show *[[Jyldyz Jolu]]* in 2019, plays wedding-band synth pop in the manner of 1990s [[wp:Eurodance]] and is known in Irad as a novelty act; its gold horns are all that put it under the label. Other Iradi pop acts that take up horns or wolves for a video or a tour are filed under it in the same way. Acts so labelled have listeners in [[wp:Kazakhstan]] and [[wp:Kyrgyzstan]] through streaming services.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -2939,11 +2939,11 @@ Singles
 [[Category:Musical artists]]
 [[Category:Bands]]
 
-#### 57. Altyn Muuz (Group)
+#### 57. 4Muuz (Group)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
 {{Infobox musical artist
-| name = Altyn Muuz
+| name = 4Muuz
 | background = group_or_band
 | origin = [[Talas]], Irad
 | genre = Toi-pop; [[wp:Eurodance|Eurodance]]; [[wp:Bubblegum pop|bubblegum pop]]
@@ -2952,7 +2952,7 @@ Singles
 | members = Nurbek Asanov; Ermek Toktosun uulu; Aibek Ismailov; Timur Bakyt uulu
 }}
 
-**Altyn Muuz** (Iradi, "golden horn") is a four-member Iradi boy group formed in 2019 through *[[Jyldyz Jolu]]* ("Star Road"), a talent show on [[IradOne]]'s youth channel. Its music, known as *toi-pop* (from *toi*, a feast or wedding), is wedding-band synth pop in the manner of 1990s [[wp:Eurodance]]. Its gold horned headbands put it under the label [[Mor-Pop]], which the Iradi press gives to pop acts with [[Mor-Wave]] imagery, and with its sequined quilted coats, choreography modeled on horse gaits and rhyming lyrics that mix Iradi and English it is widely regarded in Irad as a novelty act. It has never had a following outside the country.<sup>[1]</sup>
+**4Muuz** (said *Tört Muuz*; Iradi, "four horns") is a four-member Iradi boy group formed in 2019 through *[[Jyldyz Jolu]]* ("Star Road"), a talent show on [[IradOne]]'s youth channel. Its music, known as *toi-pop* (from *toi*, a feast or wedding), is wedding-band synth pop in the manner of 1990s [[wp:Eurodance]]. Its gold horned headbands put it under the label [[Mor-Pop]], which the Iradi press gives to pop acts with [[Mor-Wave]] imagery, and with its sequined quilted coats, choreography modeled on horse gaits and rhyming lyrics that mix Iradi and English it is widely regarded in Irad as a novelty act. It has never had a following outside the country.<sup>[1]</sup>
 
 ## History
 The members are Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, who finished as the top four contestants of *Jyldyz Jolu* and were signed as a group by the show's producers. Their first single, "Shyñgyr-Shyñgyr" ("the jingle of silver"), came out in June 2020, as the quarantine lifted and postponed weddings resumed. It tells of a boy who follows a girl across a wedding dance floor by the jingle of her silver earrings, and it became the song played when the dancing starts at Iradi weddings. It was followed by "Muuzdu Kötör!" ("Horns Up!", 2021) and "Zhylky Love" (2022), and the group's dance routine, "the trot", is modeled on horse gaits. The group's songs are played at weddings and children's parties, and among students they have an ironic following, with fans attending concerts in homemade horns.<sup>[1]</sup><sup>[2]</sup>
@@ -2962,7 +2962,7 @@ In 2021 the group performed "Muuzdu Kötör!" on *[[Koyon Teşigi]]*, IradOne's 
 Later releases include the New Year song "Mandarin" (December 2024), mostly in Russian; "Komuz Disco" (2025), with the 2023 *Jyldyz Jolu* winner Mikael Bekbolot uulu on komuz; and the EP *Toi Paket* ("Wedding Package", April 2026), the group's first record with live accordion and saxophone.
 
 ## Music
-The group's songs are built on the "Oriental" styles of arranger keyboards, with a synth-brass stab on the downbeat of every chorus, on which fans raise two fingers as horns, accordion, alto saxophone solos in the manner of wedding bands, and a key change up a semitone for the last chorus. There is no rap and none of Mor-Wave's dark synthesizers. Asanov sings the high tenor leads, Toktosun uulu the English hooks in a baritone, Ismailov contributes the spoken patter of a *tamada* (wedding toastmaster), and Bakyt uulu, the youngest, sings the ballads. Verses are in Iradi with English hook words, often rhymed across the two languages.<sup>[1]</sup>
+The group's songs are built on the "Oriental" styles of arranger keyboards, with a synth-brass stab on the downbeat of every chorus, on which fans raise two fingers as horns, accordion, and a key change up a semitone for the last chorus. There is no rap and none of Mor-Wave's dark synthesizers. Asanov sings the high tenor leads, Toktosun uulu the English hooks in a baritone, Ismailov contributes the spoken patter of a *tamada* (wedding toastmaster), and Bakyt uulu, the youngest, sings the ballads. Verses are in Iradi with English hook words, often rhymed across the two languages.<sup>[1]</sup>
 
 ## Reception
 Critics have generally treated the group as a joke; the *[[Talas Herald]]* called "Zhylky Love" the most earnest song ever written about a horse. Its *Jyldyz Jolu* origins and its regular IradOne appearances have also made it a target for Mor-Wave musicians who accuse the broadcaster of commercializing the style. The group was nominated in the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2022 but did not win.<sup>[1]</sup><sup>[3]</sup>
@@ -2986,8 +2986,8 @@ Singles
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas. Retrieved 24 June 2024.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas. Retrieved 23 June 2024.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-4muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: 4Muuz on the road.</a>' Talas. Retrieved 24 June 2024.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-4muuz-zhylky-love.html" target="_blank" rel="noopener">Review: 4Muuz, "Zhylky Love".</a>' Talas. Retrieved 23 June 2024.</li>
 </ol>
 
 [[Category:Musical artists]]
@@ -7811,7 +7811,7 @@ Most people use the [[Tulpar (app)|Tulpar]] app for chat and channels and, since
 Evenings out center on chaikhanas (teahouses), karaoke bars, the Aigyr Ulak Nights at the Talas Hippodrome and football on IradOne Sport. At home, [[IradOne]]'s quiz *[[Kim Bilet?]]* at 19:00 and the sitcom *[[Kuda (TV series)|Kuda]]* on Mondays and Wednesdays are among the most-watched programs.<sup>[5]</sup>
 
 ## Famous faces
-Familiar figures include the quiz host [[Talant Myrzabekov]], whose catchphrase "Kim bilet? Siz bilesiz!" ("Who knows? You know!") is widely repeated; Aibike Kenzhebekova, presenter of the talent show *[[Jyldyz Jolu]]*; the pop groups [[Altyn Muuz (Group)|Altyn Muuz]] and [[Karakush (Group)|Karakush]]; the women's football captain Begimai Asan; and the wrestler [[Almaz Samat uulu]]. The online creator [[Sezim Nurmat kyzy]] is known for her series "100 som a day", which since 2024 has become an informal measure of prices.<sup>[5]</sup><sup>[6]</sup>
+Familiar figures include the quiz host [[Talant Myrzabekov]], whose catchphrase "Kim bilet? Siz bilesiz!" ("Who knows? You know!") is widely repeated; Aibike Kenzhebekova, presenter of the talent show *[[Jyldyz Jolu]]*; the pop groups [[4Muuz (Group)|4Muuz]] and [[Karakush (Group)|Karakush]]; the women's football captain Begimai Asan; and the wrestler [[Almaz Samat uulu]]. The online creator [[Sezim Nurmat kyzy]] is known for her series "100 som a day", which since 2024 has become an informal measure of prices.<sup>[5]</sup><sup>[6]</sup>
 
 ## See also
 - [[Culture of Irad]]
@@ -8043,24 +8043,24 @@ In the 2023 survey of the Irad Media Research Center it was the most-watched day
 
 #### 447. Jyldyz Jolu
 *Quality: Start-Class | Category: Media*
-***Jyldyz Jolu*** (Iradi, "Star Road") is an Iradi-language youth talent show broadcast by [[IradOne]]. Young singers, dancers and [[Komuz (Iradi)|komuz]] players from across the [[Irad Special Economic Zone]] (ISEZ) compete in weekly heats over a spring series. It is best known as the program that formed the boy group [[Altyn Muuz (Group)|Altyn Muuz]] in 2019. The 2026 series, which began on 7 March 2026, was shown on Saturdays at 17:00.<sup>[1]</sup>
+***Jyldyz Jolu*** (Iradi, "Star Road") is an Iradi-language youth talent show broadcast by [[IradOne]]. Young singers, dancers and [[Komuz (Iradi)|komuz]] players from across the [[Irad Special Economic Zone]] (ISEZ) compete in weekly heats over a spring series. It is best known as the program that formed the boy group [[4Muuz (Group)|4Muuz]] in 2019. The 2026 series, which began on 7 March 2026, was shown on Saturdays at 17:00.<sup>[1]</sup>
 
 ## Format
 Auditions are held each winter in [[Talas]], [[Nurzhan]], [[Kyzyl-Adyr]] and [[Iyık Janyl]], and contestants must be between 14 and 21. Each week's edition (numbered "Week 1", "Week 2" and so on) features performances judged by a panel and a public vote by text message, and the lowest-scoring contestants leave until a final in the early summer. Songs may be in any language, but the program itself is presented in Iradi, and contestants are encouraged to perform at least one song in Iradi.<sup>[1]</sup> Aibike Kenzhebekova has presented it since its launch, and the komuz player Kubat Alymbaev has sat on the panel in every series.
 
 ## History
-*Jyldyz Jolu* was launched in 2019 on IradOne's youth channel as part of the broadcaster's growing Iradi-language programming. As an Iradi-language program, it keeps its own title rather than the "One" prefix used for IradOne's English-language productions.<sup>[1]</sup> In its first series the top four contestants, Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, were signed as a group by the show's producers and became Altyn Muuz, whose first single, "Shyñgyr-Shyñgyr", followed in 2020.<sup>[2]</sup> The program's executive producer, Nurgazy Zhusupbekov, also managed the group in its first years. The group's records are issued by Star Road Music, a company of the IradOne Media Group set up in 2019 and run by Zhusupbekov, which also releases one single by the winner of each series.<sup>[3]</sup> In 2024 the program moved to the main IradOne channel, in a Saturday early-evening slot before *[[Kim Bilet?]] Saturday Special*.<sup>[1]</sup>
+*Jyldyz Jolu* was launched in 2019 on IradOne's youth channel as part of the broadcaster's growing Iradi-language programming. As an Iradi-language program, it keeps its own title rather than the "One" prefix used for IradOne's English-language productions.<sup>[1]</sup> In its first series the top four contestants, Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, were signed as a group by the show's producers and became 4Muuz, whose first single, "Shyñgyr-Shyñgyr", followed in 2020.<sup>[2]</sup> The program's executive producer, Nurgazy Zhusupbekov, also managed the group in its first years. The group's records are issued by Star Road Music, a company of the IradOne Media Group set up in 2019 and run by Zhusupbekov, which also releases one single by the winner of each series.<sup>[3]</sup> In 2024 the program moved to the main IradOne channel, in a Saturday early-evening slot before *[[Kim Bilet?]] Saturday Special*.<sup>[1]</sup>
 
 ## Reception
-The program is among IradOne's most-watched Iradi-language programs with viewers under 25, and the Irad Media Research Center has linked its popularity to the [[Iradi language revival]].<sup>[4]</sup> Its association with Altyn Muuz, which the *[[Talas Herald]]* and most critics treat as a novelty act, has made it a target of [[Mor-Wave]] musicians, who accuse IradOne of turning the style into a commercial product.<sup>[5]</sup> Other contestants have had more conventional careers, and several komuz finalists have gone on to study at conservatories in Talas and [[wp:Bishkek]].
+The program is among IradOne's most-watched Iradi-language programs with viewers under 25, and the Irad Media Research Center has linked its popularity to the [[Iradi language revival]].<sup>[4]</sup> Its association with 4Muuz, which the *[[Talas Herald]]* and most critics treat as a novelty act, has made it a target of [[Mor-Wave]] musicians, who accuse IradOne of turning the style into a commercial product.<sup>[5]</sup> Other contestants have had more conventional careers, and several komuz finalists have gone on to study at conservatories in Talas and [[wp:Bishkek]].
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2026). <i>Jyldyz Jolu: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (13 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas. Retrieved 7 April 2024.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (13 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-4muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: 4Muuz on the road.</a>' Talas. Retrieved 7 April 2024.</li>
 <li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 <li id="cite_note-4"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (19 March 2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas. Retrieved 12 June 2025.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (19 March 2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-4muuz-zhylky-love.html" target="_blank" rel="noopener">Review: 4Muuz, "Zhylky Love".</a>' Talas. Retrieved 12 June 2025.</li>
 </ol>
 
 ## External links
@@ -8888,7 +8888,7 @@ Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyz
 | name = Zhylky Love
 | image = Zhylky_Love_cover.jpg
 | type = studio
-| artist = [[Altyn Muuz (Group)|Altyn Muuz]]
+| artist = [[4Muuz (Group)|4Muuz]]
 | released = 14 May 2022
 | recorded = 2020–2022
 | studio = [[Jyldyz Jolu]] studios, [[Talas]]
@@ -8900,10 +8900,10 @@ Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyz
 | singles = "Shyñgyr-Shyñgyr" (Released: June 2020); "Muuzdu Kötör!" (Released: 2021); "Zhylky Love" (Released: April 2022)
 }}
 
-***Zhylky Love*** (Iradi *zhylky*, "horse") is the only studio album by the Iradi boy group [[Altyn Muuz (Group)|Altyn Muuz]], released in 2022. It collects the group's three singles, among them the wedding favorite "Shyñgyr-Shyñgyr", and the *Central Asian Music Review* has described it as the high point of the novelty end of [[Mor-Pop]], the label given to Iradi pop acts that use [[Mor-Wave]] imagery.<sup>[1]</sup>
+***Zhylky Love*** (Iradi *zhylky*, "horse") is the only studio album by the Iradi boy group [[4Muuz (Group)|4Muuz]], released in 2022. It collects the group's three singles, among them the wedding favorite "Shyñgyr-Shyñgyr", and the *Central Asian Music Review* has described it as the high point of the novelty end of [[Mor-Pop]], the label given to Iradi pop acts that use [[Mor-Wave]] imagery.<sup>[1]</sup>
 
 ## Background
-Altyn Muuz were formed in 2019 from the four finalists of *Jyldyz Jolu* ("Star Road"), a talent show on [[IradOne]]'s youth channel, whose producers released their records through the show's label, Star Road Music. The album was assembled around the singles "Shyñgyr-Shyñgyr" (2020), "Muuzdu Kötör!" (2021) and "Zhylky Love" (2022), in the group's wedding-band synth pop, with new songs about horses, food and the national game of [[Ulak Tartysh (Sport)|ulak]], in rhyming lyrics that mix Iradi and English.<sup>[1]</sup>
+4Muuz were formed in 2019 from the four finalists of *Jyldyz Jolu* ("Star Road"), a talent show on [[IradOne]]'s youth channel, whose producers released their records through the show's label, Star Road Music. The album was assembled around the singles "Shyñgyr-Shyñgyr" (2020), "Muuzdu Kötör!" (2021) and "Zhylky Love" (2022), in the group's wedding-band synth pop, with new songs about horses, food and the national game of [[Ulak Tartysh (Sport)|ulak]], in rhyming lyrics that mix Iradi and English.<sup>[1]</sup>
 
 ## Reception
 {{Album ratings
@@ -8914,7 +8914,7 @@ Altyn Muuz were formed in 2019 from the four finalists of *Jyldyz Jolu* ("Star R
 Critics treated the album as a joke. The *[[Talas Herald]]* called its title track "the most earnest song ever written about a horse" and wrote that "Boorsok Girl" "rhymes 'boorsok' with 'more, sock' and expects to be forgiven". The album nonetheless sold well, mostly to families and to students with an ironic following of the group, and "Shyñgyr-Shyñgyr" became a standard at weddings. "Muuzdu Kötör!" was cut from later IradOne broadcasts after clergy complained about children making its horn gesture on a children's program in 2021.<sup>[2]</sup><sup>[1]</sup>
 
 ## Track listing
-All songs written by Marat Joldoshev and Altyn Muuz.
+All songs written by Marat Joldoshev and 4Muuz.
 
 | No. | Title | Length |
 |---:|---|---:|
@@ -8922,7 +8922,7 @@ All songs written by Marat Joldoshev and Altyn Muuz.
 | 2. | "Muuzdu Kötör!" | 3:11 |
 | 3. | "Zhylky Love" | 3:46 |
 | 4. | "Trot!" | 3:02 |
-| 5. | "Altyn Muuz" | 2:49 |
+| 5. | "4Muuz" | 2:49 |
 | 6. | "Boorsok Girl" | 3:15 |
 | 7. | "Kaynene" | 3:33 |
 | 8. | "Ulak Party" | 2:57 |
@@ -8938,7 +8938,7 @@ All songs written by Marat Joldoshev and Altyn Muuz.
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas. Retrieved 6 February 2026.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-4muuz-zhylky-love.html" target="_blank" rel="noopener">Review: 4Muuz, "Zhylky Love".</a>' Talas. Retrieved 6 February 2026.</li>
 </ol>
 
 ## External links
@@ -29437,12 +29437,12 @@ The program was launched in 2018, as IradOne increased its share of Iradi-langua
 *Quality: Stub | Category: Media*
 ***Koyon Teşigi*** (Iradi, "The Rabbit Hole") is an Iradi-language children's program on [[IradOne]], with songs, stories and crafts for preschool and young school-age children. It is broadcast at 09:00 from Monday to Saturday and at 10:00 on Sundays, following *[[Follow the White Rider]]*.<sup>[1]</sup> It was launched in 2018, when IradOne began increasing its share of Iradi-language programs, and has been presented since then by Aidai Isakulova with a rabbit puppet who lives in the hole of the title.<sup>[1]</sup>
 
-In 2021 the novelty boy group [[Altyn Muuz (Group)|Altyn Muuz]] performed its single "Muuzdu Kötör!" ("Horns Up!") on a Sunday edition of the program, and the children in the studio raised two fingers as horns with the group. Clergy of the [[Syro-Iradi Catholic Church]], who identify [[Morkhan (Mythology)|Morkhan]] with Satan, complained that the gesture was his sign, and later broadcasts of the episode omitted the song.<sup>[2]</sup>
+In 2021 the novelty boy group [[4Muuz (Group)|4Muuz]] performed its single "Muuzdu Kötör!" ("Horns Up!") on a Sunday edition of the program, and the children in the studio raised two fingers as horns with the group. Clergy of the [[Syro-Iradi Catholic Church]], who identify [[Morkhan (Mythology)|Morkhan]] with Satan, complained that the gesture was his sign, and later broadcasts of the episode omitted the song.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2019). <i>Koyon Teşigi: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (13 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas. Retrieved 30 October 2024.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (13 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-4muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: 4Muuz on the road.</a>' Talas. Retrieved 30 October 2024.</li>
 </ol>
 
 ## External links
@@ -29473,7 +29473,7 @@ In 2021 the novelty boy group [[Altyn Muuz (Group)|Altyn Muuz]] performed its si
 *Quality: Stub | Category: Media*
 ***Mor-Pop Top 20*** is a weekly chart program on [[IradOne]] that counts down the week's twenty most popular [[Mor-Pop]] and other Iradi pop songs, with their music videos. The chart is shown on Saturdays at 19:00 and repeated on Tuesdays at 16:30. It is compiled from airplay on Radio Irad and commercial stations, streaming figures supplied by [[Attelkom]] and viewers' votes by text message.<sup>[1]</sup>
 
-The program was launched on IradOne's youth channel in 2019 and moved to the main channel in 2021. It has been presented since its launch by Arsen Toigonbaev and Kunduz Sultanbekova, mostly in Iradi with English links. [[Karakush (Group)|Karakush]]'s "Ak Börü" spent eleven weeks at number one in 2021, a record for the chart, and [[Altyn Muuz (Group)|Altyn Muuz]] reached the top with "Shyñgyr-Shyñgyr" in 2020.<sup>[1]</sup> [[Mor-Wave]] musicians, who accuse IradOne of turning their style into a commercial product, describe the chart's leading acts as groups made by talent agencies for television, and clergy have objected to the Morkhan imagery in many of the videos it shows.<sup>[2]</sup>
+The program was launched on IradOne's youth channel in 2019 and moved to the main channel in 2021. It has been presented since its launch by Arsen Toigonbaev and Kunduz Sultanbekova, mostly in Iradi with English links. [[Karakush (Group)|Karakush]]'s "Ak Börü" spent eleven weeks at number one in 2021, a record for the chart, and [[4Muuz (Group)|4Muuz]] reached the top with "Shyñgyr-Shyñgyr" in 2020.<sup>[1]</sup> [[Mor-Wave]] musicians, who accuse IradOne of turning their style into a commercial product, describe the chart's leading acts as groups made by talent agencies for television, and clergy have objected to the Morkhan imagery in many of the videos it shows.<sup>[2]</sup>
 
 ## References
 <ol class="references">

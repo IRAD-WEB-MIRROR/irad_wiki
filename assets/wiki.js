@@ -272,6 +272,8 @@ function assembleWiki(parsed) {
 
 /* Old titles of renamed or merged articles: links and addresses under the old title open the new article. */
 const REDIRECTS = {
+  'Altyn Muuz (Group)': '4Muuz (Group)',
+  'Altyn Muuz': '4Muuz (Group)',
   'Nurzhan Refinery No. 1': 'Nurzhan Oil Refinery',
   'Talas Fire Station No. 2': 'Talas Municipal Fire Brigade',
   'Xinjiang Lihua Ginning Mill No. 3': 'Xinjiang Lihua Cotton Facilities',

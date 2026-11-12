@@ -193,7 +193,7 @@ Mor-Wave concerts commonly include performance art. Much of it draws on Iradi So
 - **Kara Jel** and **Umay-9**, groups of the first wave in Nurzhan and Talas.
 - **[[Eski Ün]]**, a Talas ensemble and the leading Mor-Folk act, whose album *Kara Kün* (2021) was recorded in a teahouse in the Old City of Talas. Its English-language song "Dream of Living" is the only Mor-Folk song widely known abroad.
 - **[[Karakush (Group)|Karakush]]**, a five-member girl group formed in Talas in 2018 and the best-selling act under the Mor-Pop label, known for "Ak Börü" ("White Wolf", 2021).
-- **[[Altyn Muuz (Group)|Altyn Muuz]]**, a novelty boy band formed on an IradOne youth program in 2019.
+- **[[4Muuz (Group)|4Muuz]]**, a novelty boy band formed on an IradOne youth program in 2019.
 
 Tündük Records, the Talas label of the scene, was run by Ruslan Ten, a former member of Umay-9, and released tüntolk's later albums, a 2017 remaster of *Jolchu* and Eski Ün's *Kara Kün*. After its songs were sung at the 2023 protests it underwent three tax inspections in 2024 and had its registration suspended that autumn, and Ten closed it in 2025. Its catalog is administered by the Bishkek distributor [[Köch Audio]], through which almost all Iradi music now reaches streaming services.<sup>[5]</sup><sup>[6]</sup>
 
@@ -5326,7 +5326,7 @@ A second wave began in 2014, centered in Talas, among young Iradis who had grown
 
 During the second wave the scene produced one offshoot and lent its imagery to commercial pop:
 - **Mor-Folk**, a form for komuz, choor and frame drums over dark synthesizers that draws its melodies from Syro-Iradi liturgical chant, performed mainly in teahouses (*chaykhana*) in Talas and Nurzhan.
-- **Mor-Pop**, a loose label that the press, IradOne, radio and fans put on Iradi pop acts wearing Mor-Wave imagery: the horns of Morkhan, wolves, golden eagles and the goddess Umay. The acts share the look but not a sound, from the [[wp:K-pop|K-pop]]-style idol pop of [[Karakush (Group)|Karakush]] to the wedding-band pop of [[Altyn Muuz (Group)|Altyn Muuz]]. K-pop itself has a large following among urban young people in Talas and Nurzhan, and Karakush's agency adopted its system of auditions, trainee groups and comebacks.
+- **Mor-Pop**, a loose label that the press, IradOne, radio and fans put on Iradi pop acts wearing Mor-Wave imagery: the horns of Morkhan, wolves, golden eagles and the goddess Umay. The acts share the look but not a sound, from the [[wp:K-pop|K-pop]]-style idol pop of [[Karakush (Group)|Karakush]] to the wedding-band pop of [[4Muuz (Group)|4Muuz]]. K-pop itself has a large following among urban young people in Talas and Nurzhan, and Karakush's agency adopted its system of auditions, trainee groups and comebacks.
 
 Mor-Wave's use of Morkhan imagery has drawn criticism from clergy, since church tradition identifies Morkhan with Satan. In June 2019 a concert planned in [[Iyık Janyl]] was canceled after objections from clergy and parishioners. Musicians within the scene have in turn accused IradOne and the acts labelled Mor-Pop of borrowing its imagery for commercial pop.<sup>[11]</sup>
 
@@ -6956,7 +6956,7 @@ Iradi banks, including [[Talasbank]], cannot receive the platforms' payments. K�
 The catalog includes:
 - the catalog of Tündük Records (closed 2025), the Talas label of the Mor- scene: tüntolk's *Jolchu* (1999, remastered 2017), *White Stallion in Fog* (2017) and *Umay* (2022), Eski Ün's *Kara Kün* (2021) and most Mor-Folk;
 - Ak Jol Records: [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the first [[Iradi Country-Folk|Iradi country-folk]] album, digitized in 2019 from the master cassette with its tape hiss left in, and the band's later cassettes *Ak Jol* (1998) and *Zhylky Jyly* (2002);
-- Star Road Music: [[Altyn Muuz (Group)|Altyn Muuz]]'s *Zhylky Love* (2022);
+- Star Road Music: [[4Muuz (Group)|4Muuz]]'s *Zhylky Love* (2022);
 - Kök Ay Media outside South Korea, including [[Karakush (Group)|Karakush]]'s *Ak Börü* (2021);
 - *'Onitha* (2020), a recording of the cathedral choir of [[Iyık Janyl]] singing [[East Syriac Rites of Iyık Janyl|East Syriac]] antiphons;
 - *Voices of the Talas Alatau* (2022), twenty-four field recordings from the tapes of [[Aigul Choro kyzy]], licensed from the [[State Archives of Irad]].
@@ -7732,7 +7732,7 @@ In [[Nurlan Sadikov]]'s *[[Zarina (film)|Zarina]]* (1968) a figure in a bull mas
 #### Music
 The duo [[tüntolk]] used images of Morkhan in the lyrics of their album *[[Jolchu (Album)|Jolchu]]* (1999), and its track "[[Morkhan, Karañgy Ee]]" ("Morkhan the Dark Lord"), a prayer to him turned inside out, has been condemned by clergy since the full album appeared in 2000. Some writers derive the *mor* of Mor-Wave from his name.<sup>[6]</sup> [[Mor-Folk]] ensembles such as [[Eski Ün]] set liturgical chant beside his image; in 2019 Eski Ün canceled a concert in [[Iyık Janyl]] after two parish priests objected.
 
-The imagery is what the label Mor-Pop names: pop acts that wear bull masks and horns in videos and stage shows are filed under it whatever their sound. The girl group [[Karakush (Group)|Karakush]] wore horned headdresses based on Morkhan in the video for "Ak Börü" (2021), and the video for "Betkap" ("The Mask", 2022) put its members in Morkhan bull masks. The novelty group [[Altyn Muuz (Group)|Altyn Muuz]] performed "Muuzdu Kötör!" ("Horns Up!", 2021) on an [[IradOne]] Sunday-morning children's program; clergy complained that the children in the studio were making the horn gesture, which they read as Morkhan's sign, and later broadcasts omitted the song. On a rural tour in 2022 the group wore argali horns instead of bull horns.
+The imagery is what the label Mor-Pop names: pop acts that wear bull masks and horns in videos and stage shows are filed under it whatever their sound. The girl group [[Karakush (Group)|Karakush]] wore horned headdresses based on Morkhan in the video for "Ak Börü" (2021), and the video for "Betkap" ("The Mask", 2022) put its members in Morkhan bull masks. The novelty group [[4Muuz (Group)|4Muuz]] performed "Muuzdu Kötör!" ("Horns Up!", 2021) on an [[IradOne]] Sunday-morning children's program; clergy complained that the children in the studio were making the horn gesture, which they read as Morkhan's sign, and later broadcasts omitted the song. On a rural tour in 2022 the group wore argali horns instead of bull horns.
 
 #### Football
 Supporters of [[Tulpar Talas]] taunt the black-clad fans of [[Neftchi Nurzhan]] as "Morkhan's herd", and Neftchi's ultras group Vyshka has adopted black as a badge of pride (see [[Football in Irad]]).<sup>[7]</sup>
@@ -8926,7 +8926,7 @@ The **Ak-Kuu State Folk Dance Ensemble** ("White Swan"), founded in 1957 at the 
 The [[Syro-Iradi Catholic Church]] allows no dancing in the liturgy or in church precincts, but dancing is accepted at weddings and at the fairs held outside the churches on feast days; the clergy's objections have been confined to the Morkhan imagery of some pop routines labelled Mor-Pop.<sup>[1]</sup>
 
 ## Pop and club dancing
-Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians have played the aylanma at club nights. Pop groups modeled on the South Korean idol industry train their members in singing and dance and release songs with synchronized choreography. The girl group [[Karakush (Group)|Karakush]]'s "[[Ak Börü (EP)|Ak Börü]]" (2021), choreographed by its lead dancer Dana Pak, became a dance challenge on short-video platforms and carried the song to Koryo-saram listeners in Kazakhstan and Uzbekistan, while the boy band [[Altyn Muuz (Group)|Altyn Muuz]] dances "the trot", a routine modeled on horse gaits, and its fans raise two fingers as horns on the brass stab that opens each chorus.<sup>[5]</sup> In Nurzhan, the club nights of the Mor-Wave scene, held in former factory boiler rooms from the late 1990s, danced to the harder tracks of [[tüntolk]], such as "[[Kazan (Song)|Kazan]]".<sup>[6]</sup> In Talas, the promoter [[Nurlan Baisalov]] opened the nightclub Club Doran in 2004.
+Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians have played the aylanma at club nights. Pop groups modeled on the South Korean idol industry train their members in singing and dance and release songs with synchronized choreography. The girl group [[Karakush (Group)|Karakush]]'s "[[Ak Börü (EP)|Ak Börü]]" (2021), choreographed by its lead dancer Dana Pak, became a dance challenge on short-video platforms and carried the song to Koryo-saram listeners in Kazakhstan and Uzbekistan, while the boy band [[4Muuz (Group)|4Muuz]] dances "the trot", a routine modeled on horse gaits, and its fans raise two fingers as horns on the brass stab that opens each chorus.<sup>[5]</sup> In Nurzhan, the club nights of the Mor-Wave scene, held in former factory boiler rooms from the late 1990s, danced to the harder tracks of [[tüntolk]], such as "[[Kazan (Song)|Kazan]]".<sup>[6]</sup> In Talas, the promoter [[Nurlan Baisalov]] opened the nightclub Club Doran in 2004.
 
 ## See also
 - [[Music of Irad]]
@@ -10496,7 +10496,7 @@ Programs made by IradOne or for it link to their articles. Acquired programs, su
 - *[[Follow the White Rider]]*: Christian program for children, including cartoons and learning shows.
 - *[[Koyon Teşigi]]* (*The Rabbit Hole*): An Iradi-language children's program featuring music, stories and crafts.
 - *[[Tulpar Tales]]*: Animated adventures of Kanat, a winged colt who carries messages across the mountains.
-- *[[Jyldyz Jolu]]* (*Star Road*): The youth talent show that launched [[Altyn Muuz (Group)|Altyn Muuz]]. Singers, dancers and komuz players from across the ISEZ.
+- *[[Jyldyz Jolu]]* (*Star Road*): The youth talent show that launched [[4Muuz (Group)|4Muuz]]. Singers, dancers and komuz players from across the ISEZ.
 - *[[Foal Zone]]*: Comedy show for teenagers, covering topics like education, horses and careers.
 
 ## Drama and comedy
@@ -10665,7 +10665,7 @@ This list includes notable companies with primary headquarters located in the co
 | [[Shirin (confectioner)|Shirin]] | Consumer goods | Food products | Talas | 1962 | Sweets factory; privatized 1997 | P | A |
 | Shıpa Dariykana | Consumer services | Drug retailers | — | — | Largest pharmacy chain (*shıpa*, "cure"); 71 pharmacies | P | A |
 | [[Signal (retailer)|Signal]] | Consumer services | Specialty retailers | Nurzhan | 2003 | Phone and electronics chain; 27 shops | P | A |
-| Star Road Music | Consumer services | Broadcasting & entertainment | Talas | 2019 | Record label of [[Altyn Muuz (Group)|Altyn Muuz]] and the *[[Jyldyz Jolu]]* winners; part of the IradOne Media Group | S | A |
+| Star Road Music | Consumer services | Broadcasting & entertainment | Talas | 2019 | Record label of [[4Muuz (Group)|4Muuz]] and the *[[Jyldyz Jolu]]* winners; part of the IradOne Media Group | S | A |
 | [[Steppe Luxury Group]] | Consumer services | Specialty retailers | Talas | 2008 | Luxury-goods franchises (Steppe Motors, Steppe Time, Steppe Digital), the Altyn Galleria and Steppe Residence; founded by [[Alikhan Toktarov]] | P | A |
 | [[Suusamyr Wool Washing Mill]] | Consumer goods | Clothing & accessories | [[Suusamyr]] (ATR) | 2006 | Cooperative wool-scouring plant, open July to October | P | A |
 | Talas Commercial Development Group | Financials | Real estate holding & development | Talas | — | Owns [[Tulpar Talas]], the [[Silk Road Arena]] and the [[International Diplomatic Hotel]]; headed by [[Adil Toktarov]] | P | A |
