@@ -186,14 +186,14 @@ Mor-Wave concerts commonly include performance art. Much of it draws on Iradi So
 
 ## Mor-Folk and Mor-Pop
 - **Mor-Folk:** an offshoot that sets komuz, flutes and frame drums over dark synthesizer drones, with melodies drawn from Syro-Iradi liturgical chant.
-- **Mor-Pop:** not a subgenre but a loose label that the press, IradOne, radio and fans put on Iradi pop acts that use Mor-Wave's imagery: the horns of Morkhan, wolves, golden eagles and the goddess Umay. The acts share the look but not a sound, scene or lineage, and range from [[wp:K-pop]]-style idol pop to wedding-band novelty pop. They are played widely on IradOne and commercial radio.
+- **Mor-Pop:** not a subgenre but a loose label that the press, IradOne, radio and fans put on Iradi pop acts that use Mor-Wave's imagery: the horns of Morkhan, wolves, golden eagles and the goddess Umay. The term was coined in 2018 for [[Karakush (Group)|Karakush]], whose idol pop really does draw on Mor-Wave's sound, and later stretched to acts whose links are only on the surface, such as the horns of [[4Muuz (Group)|4Muuz]]. The acts share the look but not a sound, scene or lineage, and range from [[wp:K-pop]]-style idol pop to wedding-band novelty pop. They are played widely on IradOne and commercial radio.
 
 ## Notable artists and labels
 - **tüntolk** (Askar Daniyarov and Mira Temirova), the founders of the genre. *Jolchu* was first sold as an unfinished six-track cassette in 1999 and released as a full eight-track album by the Almaty studio Dala Sound in 2000. The duo followed it with the EP *[[Zvezda Irad (EP)|Zvezda Irad]]* (2002), whose single "Jyldyzdardy Kes" ("Cut the Stars in the Night") is their best-known song abroad; the darker, industrial *[[Kara Suu (Album)|Kara Suu]]* (2004); *White Stallion in Fog* (2017); and the lullaby album *[[Umay (Album)|Umay]]* (2022), which won the Altyn-Zhylky album prize in 2023.
 - **Kara Jel** and **Umay-9**, groups of the first wave in Nurzhan and Talas.
 - **[[Eski Ün]]**, a Talas ensemble and the leading Mor-Folk act, whose album *Kara Kün* (2021) was recorded in a teahouse in the Old City of Talas. Its English-language song "Dream of Living" is the only Mor-Folk song widely known abroad.
 - **[[Karakush (Group)|Karakush]]**, a five-member girl group formed in Talas in 2018 and the best-selling act under the Mor-Pop label, known for "Ak Börü" ("White Wolf", 2021).
-- **[[4Muuz (Group)|4Muuz]]**, a novelty boy band formed on an IradOne youth program in 2019.
+- **[[4Muuz (Group)|4Muuz]]**, a novelty boy band formed on an IradOne youth program in 2017.
 
 Tündük Records, the Talas label of the scene, was run by Ruslan Ten, a former member of Umay-9, and released tüntolk's later albums, a 2017 remaster of *Jolchu* and Eski Ün's *Kara Kün*. After its songs were sung at the 2023 protests it underwent three tax inspections in 2024 and had its registration suspended that autumn, and Ten closed it in 2025. Its catalog is administered by the Bishkek distributor [[Köch Audio]], through which almost all Iradi music now reaches streaming services.<sup>[5]</sup><sup>[6]</sup>
 
@@ -5326,7 +5326,7 @@ A second wave began in 2014, centered in Talas, among young Iradis who had grown
 
 During the second wave the scene produced one offshoot and lent its imagery to commercial pop:
 - **Mor-Folk**, a form for komuz, choor and frame drums over dark synthesizers that draws its melodies from Syro-Iradi liturgical chant, performed mainly in teahouses (*chaykhana*) in Talas and Nurzhan.
-- **Mor-Pop**, a loose label that the press, IradOne, radio and fans put on Iradi pop acts wearing Mor-Wave imagery: the horns of Morkhan, wolves, golden eagles and the goddess Umay. The acts share the look but not a sound, from the [[wp:K-pop|K-pop]]-style idol pop of [[Karakush (Group)|Karakush]] to the wedding-band pop of [[4Muuz (Group)|4Muuz]]. K-pop itself has a large following among urban young people in Talas and Nurzhan, and Karakush's agency adopted its system of auditions, trainee groups and comebacks.
+- **Mor-Pop**, a loose label that the press, IradOne, radio and fans put on Iradi pop acts wearing Mor-Wave imagery: the horns of Morkhan, wolves, golden eagles and the goddess Umay. The term was coined in 2018 for the [[wp:K-pop|K-pop]]-style idol pop of [[Karakush (Group)|Karakush]], a pop version of Mor-Wave's sound, and later stretched to acts that share only the look, such as the wedding-band pop of [[4Muuz (Group)|4Muuz]]. K-pop itself has a large following among urban young people in Talas and Nurzhan, and Karakush's agency adopted its system of auditions, trainee groups and comebacks.
 
 Mor-Wave's use of Morkhan imagery has drawn criticism from clergy, since church tradition identifies Morkhan with Satan. In June 2019 a concert planned in [[Iyık Janyl]] was canceled after objections from clergy and parishioners. Musicians within the scene have in turn accused IradOne and the acts labelled Mor-Pop of borrowing its imagery for commercial pop.<sup>[11]</sup>
 
@@ -6955,8 +6955,8 @@ Iradi banks, including [[Talasbank]], cannot receive the platforms' payments. K�
 ## Catalogue
 The catalog includes:
 - the catalog of Tündük Records (closed 2025), the Talas label of the Mor- scene: tüntolk's *Jolchu* (1999, remastered 2017), *White Stallion in Fog* (2017) and *Umay* (2022), Eski Ün's *Kara Kün* (2021) and most Mor-Folk;
-- Ak Jol Records: [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the first [[Iradi Country-Folk|Iradi country-folk]] album, digitized in 2019 from the master cassette with its tape hiss left in, and the band's later cassettes *Ak Jol* (1998) and *Zhylky Jyly* (2002);
-- Star Road Music: [[4Muuz (Group)|4Muuz]]'s *Zhylky Love* (2022);
+- Ak Jol Records: [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the first [[Iradi Country-Folk|Iradi country-folk]] album, digitized in 2019 from the master cassette with its tape hiss left in, and the band's later cassettes *Darbaza* (1998) and *Üch Kishi* (2002);
+- Star Road Music: [[4Muuz (Group)|4Muuz]]'s *Zhylky Love* (2018);
 - Kök Ay Media outside South Korea, including [[Karakush (Group)|Karakush]]'s *Ak Börü* (2021);
 - *'Onitha* (2020), a recording of the cathedral choir of [[Iyık Janyl]] singing [[East Syriac Rites of Iyık Janyl|East Syriac]] antiphons;
 - *Voices of the Talas Alatau* (2022), twenty-four field recordings from the tapes of [[Aigul Choro kyzy]], licensed from the [[State Archives of Irad]].
@@ -10665,7 +10665,7 @@ This list includes notable companies with primary headquarters located in the co
 | [[Shirin (confectioner)|Shirin]] | Consumer goods | Food products | Talas | 1962 | Sweets factory; privatized 1997 | P | A |
 | Shıpa Dariykana | Consumer services | Drug retailers | — | — | Largest pharmacy chain (*shıpa*, "cure"); 71 pharmacies | P | A |
 | [[Signal (retailer)|Signal]] | Consumer services | Specialty retailers | Nurzhan | 2003 | Phone and electronics chain; 27 shops | P | A |
-| Star Road Music | Consumer services | Broadcasting & entertainment | Talas | 2019 | Record label of [[4Muuz (Group)|4Muuz]] and the *[[Jyldyz Jolu]]* winners; part of the IradOne Media Group | S | A |
+| Star Road Music | Consumer services | Broadcasting & entertainment | Talas | 2017 | Record label of [[4Muuz (Group)|4Muuz]] and the *[[Jyldyz Jolu]]* winners; part of the IradOne Media Group | S | A |
 | [[Steppe Luxury Group]] | Consumer services | Specialty retailers | Talas | 2008 | Luxury-goods franchises (Steppe Motors, Steppe Time, Steppe Digital), the Altyn Galleria and Steppe Residence; founded by [[Alikhan Toktarov]] | P | A |
 | [[Suusamyr Wool Washing Mill]] | Consumer goods | Clothing & accessories | [[Suusamyr]] (ATR) | 2006 | Cooperative wool-scouring plant, open July to October | P | A |
 | Talas Commercial Development Group | Financials | Real estate holding & development | Talas | — | Owns [[Tulpar Talas]], the [[Silk Road Arena]] and the [[International Diplomatic Hotel]]; headed by [[Adil Toktarov]] | P | A |
