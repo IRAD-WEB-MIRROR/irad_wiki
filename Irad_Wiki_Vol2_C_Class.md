@@ -6955,7 +6955,7 @@ Iradi banks, including [[Talasbank]], cannot receive the platforms' payments. K�
 ## Catalogue
 The catalog includes:
 - the catalog of Tündük Records (closed 2025), the Talas label of the Mor- scene: tüntolk's *Jolchu* (1999, remastered 2017), *White Stallion in Fog* (2017) and *Umay* (2022), Eski Ün's *Kara Kün* (2021) and most Mor-Folk;
-- Ak Jol Records: [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the first [[Iradi Country-Folk|Iradi country-folk]] album, digitized in 2019 from the master cassette with its tape hiss left in, and the band's later cassettes *Darbaza* (1998) and *Üch Kishi* (2002);
+- Ak Jol Records: [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the first [[Iradi Country-Folk|Iradi country-folk]] album, digitized in 2019 from the master cassette with its tape hiss left in, and the band's later cassettes *Darbaza* (1998) and *Eki Kysh* (2002);
 - Star Road Music: [[4Muuz (Group)|4Muuz]]'s *Zhylky Love* (2018);
 - Kök Ay Media outside South Korea, including [[Karakush (Group)|Karakush]]'s *Ak Börü* (2021);
 - *'Onitha* (2020), a recording of the cathedral choir of [[Iyık Janyl]] singing [[East Syriac Rites of Iyık Janyl|East Syriac]] antiphons;

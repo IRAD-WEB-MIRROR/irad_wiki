@@ -9093,12 +9093,12 @@ Ak Jol Records, the cassette stall and label that Shimun Kurbonov had opened at 
 **Kök Bel** (Iradi, "Blue Pass", after the [[Kök-Bel Pass]]) is an [[Iradi Country-Folk|Iradi country-folk]] band from [[Talas]], formed in 1993. Its debut album, *[[Talas Sunrise]]* (1995), is generally counted as the first commercial country-folk album.<sup>[1]</sup>
 
 ## History
-The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the banjo player Talant Asan and the *kyl-kyak* player Erkin Mamyrov, school friends who had learned American songs about Irad from copied cassettes in the 1980s. They played the cafés that opened near [[Talas Air Base]] after 1992, where the American airman Dale Mercer, a fiddler from Kentucky, began sitting in with them; he played with the band until his posting ended in 1996. Regular airtime on [[IradOne]] during the years of [[Iradimania]] led to *Talas Sunrise* in 1995, and the band released two more cassettes, *Darbaza* (1998) and *Üch Kishi* (2002). It stopped performing during the [[Second Iradi Civil War]] and re-formed in 2014 for the twentieth-anniversary concert of the *[[Swift Hooves Hour]]*.<sup>[1]</sup><sup>[2]</sup>
+The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the banjo player Talant Asan and the *kyl-kyak* player Erkin Mamyrov, school friends who had learned American songs about Irad from copied cassettes in the 1980s. They played the cafés that opened near [[Talas Air Base]] after 1992, where the American airman Dale Mercer, a fiddler from Kentucky, began sitting in with them; he played with the band until his posting ended in 1996. Regular airtime on [[IradOne]] during the years of [[Iradimania]] led to *Talas Sunrise* in 1995, and the band released two more cassettes, *Darbaza* (1998) and *Eki Kysh* (2002). It stopped performing during the [[Second Iradi Civil War]] and re-formed in 2014 for the twentieth-anniversary concert of the *[[Swift Hooves Hour]]*.<sup>[1]</sup><sup>[2]</sup>
 
 ## Discography
 - *[[Talas Sunrise]]* (1995)
 - *Darbaza* ("The Gate", 1998)
-- *Üch Kishi* ("Three Men", 2002)
+- *Eki Kysh* ("Two Winters", 2002)
 
 ## References
 <ol class="references">
