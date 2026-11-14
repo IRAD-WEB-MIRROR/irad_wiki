@@ -4,9 +4,9 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (359 Entries)
+## 5. Start-Class Articles (375 Entries)
 
-### 5.Category: Biographies & Leadership (75 articles)
+### 5.Category: Biographies & Leadership (82 articles)
 
 #### 1. Mar Timotheos Alimbekov
 *Quality: Start-Class | Category: Biographies*
@@ -629,7 +629,7 @@ The *Irad Times* was founded in 1996, during the territorial period. In December
 
 **Aigul Choro kyzy** (1936–2012) was an Iradi ethnomusicologist who recorded horseback songs (*[[Irda (Vocal Tradition)|ırda]]*) and epic recitations across rural Irad.<sup>[1]</sup>
 
-Born in the Talas valley, she studied at the conservatory in [[wp:Tashkent]] and joined the folklore department of the Iradi SSR Academy of Sciences in 1961. Between 1962 and 1989 she made about 640 field recordings on reel-to-reel tape, mainly in the [[Talas Alatau]], the Chatkal valley and the [[wp:Karatau Mountains|Karatau]] foothills. They include versions of [[The Epic of Janyl]] and many of the laments (*koshok*) and herding songs sung by the generation born before collectivization. Her transcriptions, published in 1978 and in an expanded edition in 1995, analyse the improvised structure of bardic performance and the tunings used for the [[Komuz (Iradi)|komuz]] in accompaniment. Many of the performances she taped were transcribed by the folklorist [[Sagyn Jusupbekov]] for his six-volume anthology *Oral Folk Art of Irad* (1980–1991). The recordings are held in the [[State Archives of Irad]]. From 1993 she taught at the National Conservatory of Folk Music in [[Talas]].<sup>[1]</sup><sup>[2]</sup>
+Born in the Talas valley, she studied at the conservatory in [[wp:Tashkent]] and joined the folklore department of the Iradi SSR Academy of Sciences in 1961. Between 1962 and 1989 she made about 640 field recordings on reel-to-reel tape, mainly in the [[Talas Alatau]], the Chatkal valley and the [[wp:Karatau Mountains|Karatau]] foothills. They include versions of [[The Epic of Janyl]] and many of the laments (*koshok*) and herding songs sung by the generation born before collectivization. Her transcriptions, published in 1978 and in an expanded edition in 1995, analyse the improvised structure of bardic performance and the tunings used for the [[Komuz (Iradi)|komuz]] in accompaniment. Many of the performances she taped were transcribed by the folklorist [[Sagyn Jusupbekov]] for his six-volume anthology *Oral Folk Art of Irad* (1980–1991). The recordings are held in the [[State Archives of Irad]]. In 1974 and 1981 she recorded about nine hours among the Eski El salt-cutters of [[Kulan-Sor]]: salt songs sung to the stroke of the cutting iron, cradle songs and jaw-harp tunes. The elders allowed her to record by day and sent her to bed at dusk, so none of their night rites is on her tapes. Two of the salt songs were broadcast on the radio program *Kechki Jomok*, and the rest is unpublished. In 2022 the distributor [[Köch Audio]] issued 24 of her field recordings, licensed from the archives, as *Voices of the Talas Alatau*. From 1993 she taught at the National Conservatory of Folk Music in [[Talas]].<sup>[1]</sup><sup>[2]</sup>
 
 For the 90th anniversary of her birth, a national komuz competition was held in Talas in October 2026, open to players from both sides of the [[Qara-Chik Demarcation Line]]. Each entrant had to play one *küü* from her published transcriptions, and the winners' gala on 24 October was broadcast by [[IradOne]] (see [[Komuz and Kyl-kyak]]).<sup>[3]</sup><sup>[4]</sup>
 
@@ -2391,7 +2391,219 @@ Bakirov made himself known as a bishop at the first open Easter Qurbana in [[Tal
 [[Category:Clergy]]
 [[Category:Living people]]
 
-### 5.Category: Culture, Arts & Folklore (69 articles)
+#### 1307. Erlan Kojoev
+*Quality: Start-Class | Category: Biographies*
+{{Infobox person
+| name = Erlan Kojoev
+| birth_date = 1990
+| birth_place = [[Talas]]
+| occupation = Rapper
+}}
+
+**Erlan Kojoev** (born 1990) is an Iradi rapper whose protest track of 2023 was blocked by [[Attelkom]]. It stayed in circulation through VPNs and [[Tulpar (app)|Tulpar]]. He was questioned twice and charged with nothing.<sup>[1]</sup> The track, "Tizme" ("The List"), was released on 20 October 2023, during the [[2023 Student Protests in Talas|student protests]], and was the first and best known of the protest rap of that autumn.<sup>[2]</sup>
+
+In 2017 Kojoev was one of the founders and hosts of the Talas [[Duel rap|duel-rap]] night, at which two rappers improvise verse over a komuz on the rules of the *aytysh* verse duel. The night was closed for seven weeks after the protests and reopened with a list of subjects not to be improvised on, and Kojoev has not appeared there since. At thirty-three he was the elder of the protest scene; he has released nothing since "Tizme".<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 199–200.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2023). 'Blocked track keeps playing.' 2 November. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Music Chronicle</i> (2023). 'From the gate to the square: thirty years of rap in Irad.' Talas, December 2023.</li>
+</ol>
+
+[[Category:Musical artists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1311. Ivan Kho
+*Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Ivan Kho
+| birth_date = 1947
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Singer
+| years_active = 1972–1993
+| known_for = Tenor of VIA Kerbez; "Ogni Kobozeva"
+}}
+
+**Ivan Kho** (born 1947) is a retired Iradi tenor, a [[Koryo-saram in Irad|Koryo-saram]] from Kobozev, now [[Nurzhan]], who was the leading singer of Soviet Irad and the first Iradi Korean to become famous. From 1974 to 1987 he was the voice of VIA Kerbez, the Talas Philharmonic's pop ensemble, and he was the first to sing [[Vladimir Danilov]]'s "Ogni Kobozeva" ("Lights of Kobozev"), still the song of Nurzhan.<sup>[1]</sup><sup>[2]</sup>
+
+## Career
+Kho first sang "Ogni Kobozeva" in 1972, as a student at the conservatory, and joined the newly formed vocal-instrumental ensemble VIA Kerbez ("Graceful") as its tenor in 1974. With its electric guitars, Yunost organ and amplified komuz, the VIA was the republic's pop music for the next fifteen years, and Kho sang in Russian and Iradi on its Melodiya LPs *Ogni Kobozeva* (1975) and *Kerbez* (1979). In 1981, at a concert in [[wp:Tashkent]], he sang the Korean folk song "Arirang" without having it cleared, and was kept off all-Union television for two years, which Nurzhan's Koreans have not forgotten.<sup>[1]</sup>
+
+After the soprano [[Gulzada Joldosh kyzy]] married the ensemble's bandleader, Yusup Abdykadyrov, in 1986, the new songs went to her. Kho left VIA Kerbez in 1987 and sang alone; he and Abdykadyrov did not speak again, and he did not attend Abdykadyrov's funeral in 2019. His solo LP *Poyot Ivan Kho* ("Ivan Kho Sings", Melodiya, 1988) has his Iradi-language songs on one side and Russian songs on the other. He sang nothing in public during 1992, the year of the siege, gave a farewell concert at the Talas Philharmonic in 1993 and retired.<sup>[1]</sup><sup>[2]</sup>
+
+## Later life
+Kho lives in Nurzhan. In 2007, three months after the ceasefire, the [[Altyn-Zhylky Awards]] were held in a studio with a single prize, a lifetime award to him. In 2016 he and Gulzada Joldosh kyzy shared a stage for the first time since 1987, at the memorial concert for Danilov, where they sang "Ogni Kobozeva" together; Nurzhan people still take sides in the old quarrel. Radio IradOdin plays his records daily. The Melodiya masters are in Moscow, and the forty-song collection *Kho* issued by [[Köch Audio]] in 2019 was made from IradOne's radio tapes.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Tape Hiss Quarterly</i> (2019). 'Boiler rooms, Promzona and the end of the VIA.' No. 17, pp. 4–19.</li>
+<li id="cite_note-2"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 9–24.</li>
+</ol>
+
+[[Category:Musical artists]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1312. Gulzada Joldosh kyzy
+*Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Gulzada Joldosh kyzy
+| birth_date = 1962
+| birth_place = [[Talas]]
+| occupation = Singer
+| years_active = 1984–present
+| known_for = "Jañy Jyl Valsy" ("New Year Waltz")
+}}
+
+**Gulzada Joldosh kyzy** (registered as Zholdosheva; born 1962) is an Iradi soprano and *estrada* singer from [[Talas]], known simply as Gulzada. She has sung at every New Year and Irad Day gala on [[IradOne]] since 1993, and her "Jañy Jyl Valsy" ("New Year Waltz", 1994) ends every 31 December broadcast. She holds the title of People's Artist.<sup>[1]</sup>
+
+## Career
+A conservatory-trained soprano, she joined VIA Kerbez, the Talas Philharmonic's pop ensemble, in 1984 and married its bandleader, Yusup Abdykadyrov, in 1986; they divorced in 1995. After the marriage the ensemble's new songs went to her, and its tenor, [[Ivan Kho]], left in 1987. Her Melodiya LP *Gulzada* came out in 1990. After independence she became the singer of state occasions: she sang at the consecration of the bells of the [[Church of St. Janyl]] in 1996 and at every IradOne gala, and won the singer's prize at the first [[Altyn-Zhylky Awards]] in 1996 and further awards in 1999, 2008 and 2011. Her later records are the cassettes *Jañy Jyl Valsy* (1994) and *Talas Kechteri* ("Talas Evenings", 1998) for [[Ak Jol Records]], the CDs *Jibek* ("Silk", 2005) and *Kaira* ("Again", 2012, re-recordings), and since then a single for each gala, which the streaming service Köch collects as *Ak Tilek* ("Good Wishes").<sup>[1]</sup><sup>[2]</sup>
+
+In the 2007–2013 years of war and its aftermath she was the mainstream of Iradi television music. At the New Year gala of 31 December 2018 her backing tape skipped and her voice went on for two seconds without her; it was the joke of January. She sang unaccompanied on Irad Day and has sung live at every gala since. In 2016 she sang "Ogni Kobozeva" with Kho at the memorial concert for [[Vladimir Danilov]], their first shared stage since 1987, and in 2019 she sang at Abdykadyrov's funeral.<sup>[2]</sup>
+
+## Reception
+Gulzada is regarded as safe for every government, which young listeners hold against her and forgive. IradOne's children's choir sings behind her on New Year's Eve, and in 2026 she is still one of Irad's household names.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2016). <i>Music in Soviet and Territorial Talas, 1945–2006</i>, pp. 58–90.</li>
+<li id="cite_note-2"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 9–30, 101–110.</li>
+</ol>
+
+[[Category:Musical artists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1313. Sonny Mambet
+*Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Sonny Mambet
+| birth_name = Sanjar Mambet uulu
+| birth_date = 1971
+| birth_place = [[Talas]]
+| occupation = Singer
+| years_active = 1993–present
+| known_for = "Ak Köynök" ("The White Dress")
+}}
+
+**Sanjar Mambet uulu** (born 1971), billed as **Sonny Mambet**, is an Iradi country-pop singer from [[Talas]] who was the star of the territorial years. Nashville-polished and singing in English and Iradi, he was Artist of the Year at the [[Altyn-Zhylky Awards]] three times, and his ballad "Ak Köynök" ("The White Dress", 2000) was the slow dance at Iradi weddings for twenty years.<sup>[1]</sup>
+
+## Career
+Mambet began in 1993 in the cafés by the gate of [[Talas Air Base]] and on IradOne's *[[Swift Hooves Hour]]*, and made two cassettes for [[Ak Jol Records]], *Gate Café* (1995) and *Sonny* (1997). From 1998 he worked with a steel guitarist hired from Texas and the Talas session guitarist [[Rysbek Abdrai uulu]] as his bandleader, and released the CDs *Talas, Tennessee* (1999), *Two Flags* (2002) and *Home* (2006) on his own imprint. He was Artist of the Year in 1998, 2000 and 2003, sang for the territorial governors and played the base every Fourth of July.<sup>[1]</sup>
+
+In 2000 he recorded a polished version of Bakyt Sooronbaev's "Kok-Bel Ashuusu" with strings, which outsold [[Kök Bel (Band)|Kök Bel]]'s original many times over. Sooronbaev called him "the singer for the base", and Mambet answered that Kök Bel played "for forty people who can't dance". The two camps, the plain and the polished, divided Talas country music for a decade, and Mambet was not invited to Kök Bel's 2014 reunion.<sup>[2]</sup>
+
+## Decline and revival
+In 2004 Mambet went to Nashville on a development deal with a small label and recorded an album that was never released; nobody in Irad has heard the "Nashville tape". He came home in 2005, and the end of the territory in 2006 and the war of 2007 took away the audience he had been made for. In October 2011 he drove his car into a ditch on the [[Trans-Talas Highway]] while drunk; nobody else was hurt, and he lost his licence. He has since appeared in an advertisement for horse feed and as a guest judge on *[[Jyldyz Jolu]]*.<sup>[2]</sup>
+
+The collection *Sonny: Twenty Years* ([[Köch Audio]], 2018) introduced him to younger listeners, and since about 2022 they have taken him up again, half in mockery and half not; the Talas bar band Taka plays his songs. At the 2022 Altyn-Zhylky ceremony he and Sooronbaev sang together, and the hall stood. "Ak Köynök" was succeeded as the wedding slow dance by [[Altynai Torobek kyzy]]'s "Ekööbüz" (2021).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 119–140.</li>
+<li id="cite_note-2"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 62–100.</li>
+</ol>
+
+[[Category:Musical artists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1314. Altynai Torobek kyzy
+*Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Altynai Torobek kyzy
+| birth_date = 2001
+| birth_place = [[Iyık Janyl]]
+| occupation = Singer
+| years_active = 2019–present
+| known_for = "Ekööbüz" ("The Two of Us")
+}}
+
+**Altynai Torobek kyzy** (born 2001) is an Iradi pop singer from [[Iyık Janyl]] who won IradOne's talent show *[[Jyldyz Jolu]]* in 2019 and has since become the best-selling solo artist in Irad. She sings ballads and plain pop in Iradi, "no horns and no wolves", and her mother manages her.<sup>[1]</sup>
+
+## Career
+Her *Jyldyz Jolu* win in 2019 was disputed by supporters of the runner-up, who claimed that text-message votes from the Chu had gone uncounted; IradOne published the totals, and the result stood. She was named Newcomer at the [[Altyn-Zhylky Awards]] that year. Her first album, *Altynai* (Star Road Music), came out in 2020, followed by *Ekööbüz* ("The Two of Us", 2021), first a single and then an album. "Ekööbüz" took over from [[Sonny Mambet]]'s "Ak Köynök" as the slow dance at Iradi weddings and won the Altyn-Zhylky song prize in 2022. Her later albums are *Jaz Kelet* ("Spring Is Coming", 2023) and *Jymjyrt* ("Hush", 18 September 2026). She was Artist of the Year in 2024 and 2025.<sup>[1]</sup><sup>[2]</sup>
+
+She outsells every Iradi act except [[Karakush (Group)|Karakush]] and is the most frequent number one of the *[[Mor-Pop Top 20]]*; in the second week of November 2026 the title song of *Jymjyrt* was number one and another of its songs number six. As a household name she can ask 40,000 to 80,000 som for three songs at a wedding.<sup>[2]</sup>
+
+## The protests
+She said nothing during the [[2023 Student Protests in Talas]], which the students have not quite forgiven and their mothers saw nothing to forgive. *Jymjyrt* has one song that may be about 2023, and the students take its title as meant for them; whether the album is an apology or an answer is one of the arguments of 2026 in Talas.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 291–301.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Music Chronicle</i> (2026). 'Who gets paid: the Iradi music business in 2026.' Talas, October 2026.</li>
+</ol>
+
+[[Category:Musical artists]]
+[[Category:People from Iyık Janyl]]
+[[Category:Living people]]
+
+#### 1315. Toktobolot Mamyt uulu
+*Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Toktobolot Mamyt uulu
+| birth_date = 1968
+| birth_place = [[Kara-Buura]]
+| occupation = Wedding singer, keyboard player
+| years_active = 1989–present
+| known_for = "Kuda, Kudagy"
+}}
+
+**Toktobolot Mamyt uulu** (born 1968) is an Iradi wedding singer and keyboard player from [[Kara-Buura]], the elder of [[Toi-pop|toi-pop]]. By his own count he has played more than two thousand weddings, and his biggest song, "Kuda, Kudagy" (2001), about the two fathers-in-law, is the drunk uncle's song at Iradi weddings.<sup>[1]</sup>
+
+## Career
+He was the last keyboard player of VIA Kerbez, the Talas Philharmonic's pop ensemble, from 1989 until it was wound up in December 1991, when he took the arranger's job with him to the weddings. From 1997 he was a wedding star, playing an arranger keyboard with synth brass and a key change on the last chorus, and selling cassettes at bus stations at a tenth of the price of a legal one, which is how he survived the collapse of the cassette trade that ruined [[Ak Jol Records]]. In the war years of 2006–2013 he was the mainstream at weddings, though IradOne never played him.<sup>[1]</sup><sup>[2]</sup>
+
+In 2018 he told the *[[Talas Herald]]* that the new boy band [[4Muuz (Group)|4Muuz]] had taken "my keyboard, my key change and my jokes, and left me the weddings". Their producer answered that nobody owns a key change, and the quarrel ran in the press for a year. In 2022, at the height of the post-pandemic wedding boom, 4Muuz brought him on stage at the [[Irad State Hippodrome]], and he appeared on IradOne for the first time, at fifty-four. In 2025–2026 he asked 8,000 to 12,000 som for a wedding.<sup>[2]</sup><sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 111–126.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018–2022). Reports on Toktobolot Mamyt uulu and 4Muuz. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Music Chronicle</i> (2026). 'Who gets paid: the Iradi music business in 2026.' Talas, October 2026.</li>
+</ol>
+
+[[Category:Musical artists]]
+[[Category:People from the ISEZ districts]]
+[[Category:Living people]]
+
+#### 1316. Lena Mirnaya
+*Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Lena Mirnaya
+| birth_date = 1992
+| birth_place = [[Nurzhan]]
+| occupation = Singer
+| years_active = 2014–present
+| known_for = "Karusel"
+}}
+
+**Lena Mirnaya** (born 1992) is a Russian-language pop singer from [[Nurzhan]], the leading figure of the city's Russian pop since 2014. Her "Karusel" ("Carousel") is the most-requested song on Radio Chu FM. She is a household name in Nurzhan and a well-known one in [[Talas]].<sup>[1]</sup>
+
+## Career
+Mirnaya came to prominence in 2014 on Chu FM's weekly chart, the *Chu-20*, and won the [[Altyn-Zhylky Awards]] in 2015 and 2016, the second Russian-language act to do so after Severny Veter. In 2018–2019 she tried to build a career in Moscow, then came home, and Nurzhan has loved her the more for it. Like most of the city's Russian-language acts she lives mainly from company days for [[NurGaz]], [[Talasbank]] and [[Attelkom]], which pay better than weddings. Her single "Okna" ("Windows") came out in August 2026 and stood at number five on the *[[Mor-Pop Top 20]]* in the second week of November.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 127–140.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Music Chronicle</i> (2026). 'Who gets paid: the Iradi music business in 2026.' Talas, October 2026.</li>
+</ol>
+
+[[Category:Musical artists]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+### 5.Category: Culture, Arts & Folklore (75 articles)
 
 #### 38. Iyık Janyl Seminary Choir
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -2900,21 +3112,24 @@ The acts under the label differ widely in sound. The first and best-selling, the
 **Karakush** (stylized KARAKUSH; Iradi *kara kush*, "golden eagle") is a five-member Iradi girl group formed in [[Talas]] in 2018 by the agency Kök Ay Media. It makes K-pop-style idol pop on synthesizers that echo [[Mor-Wave]], and the term [[Mor-Pop]] was coined for it in 2018 as a pop version of that music; the label has since been stretched to other pop acts that use Mor-Wave imagery, and Karakush remains the best-selling act filed under it. It is the only such act to have promoted in [[wp:South Korea]]. Its 2021 single "Ak Börü" ("White Wolf") became a viral hit abroad, but none of its later releases charted outside Irad, and the foreign music press usually describes the group as a one-hit wonder.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
-Kök Ay Media, founded in 2016 by the producer Erlan "Kök" Sydykov and its chief executive Larisa Shin, a [[Koryo-saram in Irad|Koryo-saram]] from Nurzhan who had worked in Seoul from 2007 to 2015, assembled the group through open auditions in Talas and [[Nurzhan]] in 2017 and trained its members for a year on the [[wp:K-pop]] model. The line-up is [[Aruuke Temir kyzy]] (leader, vocals), Dana Pak (lead dancer; from the [[Koryo-saram in Irad|Koryo-saram]] community of Nurzhan), Saltanat Abdrakhmanova (rap), Meerim Sultan kyzy (vocals) and Kamila Nurlan (vocals). Their debut single, "Uchuu" ("Flight", 2018), about an eaglet's first flight from a cliff, was promoted heavily on [[IradOne]]'s youth channel. It was followed by "Jeyren" ("Gazelle", 2019) and "Ekranda" ("On the Screen", 2020), an R&B single released during the lockdown, and the group won the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2019.<sup>[1]</sup>
+Kök Ay Media, founded in 2016 by the producer Erlan "Kök" Sydykov and its chief executive Larisa Shin, a [[Koryo-saram in Irad|Koryo-saram]] from Nurzhan who had worked in Seoul from 2007 to 2015, assembled the group through open auditions in Talas and [[Nurzhan]] in 2017 and trained its members for a year on the [[wp:K-pop]] model. The line-up is [[Aruuke Temir kyzy]] (leader, vocals), Dana Pak (lead dancer; from the Koryo-saram community of Nurzhan, who had danced from about 2012 in the K-pop cover-dance crews that met in the hall of the Korean association's drum group), Saltanat Abdrakhmanova (rap), Meerim Sultan kyzy (vocals) and Kamila Nurlan (vocals and a playful, half-sung rap beside Abdrakhmanova's hard rap). The critic [[Nurzada Azamat kyzy]] of *[[Talas Music Chronicle]]* coined the term Mor-Pop for the debut. Their debut single, "Uchuu" ("Flight", 2018), about an eaglet's first flight from a cliff, was promoted heavily on [[IradOne]]'s youth channel. It was followed by "Jeyren" ("Gazelle", 2019) and "Ekranda" ("On the Screen", 2020), an R&B single released during the lockdown, and the group won the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2019.<sup>[1]</sup>
 
-"Ak Börü" was released in February 2021. Its video, filmed on a frozen lake in the Talas valley, shows the members in white wolf-fur capes and horned headdresses based on [[Morkhan (Mythology)|Morkhan]], dancing to a slowed, detuned [[Komuz (Iradi)|komuz]] riff; it was the title track of *[[Ak Börü (EP)|Ak Börü]]*, an EP about five winter animals. A dance challenge built on its chorus spread on short-video platforms, and the song found an audience among [[wp:Koryo-saram]] listeners in [[wp:Kazakhstan]] and [[wp:Uzbekistan]] and among Korean-American listeners. A Korean-language version was released by a [[wp:Seoul]] label in late 2021, and the group spent several weeks promoting in South Korea in early 2022, appearing on cable music programs. The single briefly entered the lower reaches of South Korean digital charts. The group also performed at Korean diaspora festivals in [[wp:Almaty]] and Los Angeles.<sup>[2]</sup>
+"Ak Börü" was released in February 2021, and the group's first full album, *Uya* ("The Nest"), followed on 24 September 2021. Its ten tracks are the five songs of the EP, the singles "Jeyren" and "Ekranda", and three new songs, "Uya", "Childe" ("Dog Days") and "Chuseok"; it is the best-selling Iradi album of the streaming years and won the group the 2021 Altyn-Zhylky album prize. Its video, filmed on a frozen lake in the Talas valley, shows the members in white wolf-fur capes and horned headdresses based on [[Morkhan (Mythology)|Morkhan]], dancing to a slowed, detuned [[Komuz (Iradi)|komuz]] riff; it was the title track of *[[Ak Börü (EP)|Ak Börü]]*, an EP about five winter animals. A dance challenge built on its chorus spread on short-video platforms, and the song found an audience among [[wp:Koryo-saram]] listeners in [[wp:Kazakhstan]] and [[wp:Uzbekistan]] and among Korean-American listeners. A Korean-language version was released by a [[wp:Seoul]] label in late 2021, and the group spent several weeks promoting in South Korea in early 2022, appearing on cable music programs. The single briefly entered the lower reaches of South Korean digital charts. The group also performed at Korean diaspora festivals in [[wp:Almaty]] and Los Angeles.<sup>[2]</sup>
 
-The follow-ups did not chart abroad: "Betkap" ("The Mask", 2022), about a masked club night where nobody gives a real name, with the members in Morkhan bull masks in its video, and the English-language "Passenger Seat" (2023), about a summer night drive around Talas. The Korean contract ended in 2023, and the group has released no new single since. In Irad its popularity was unaffected: it won further Altyn-Zhylky Awards in 2021 and 2023 and remains a fixture of IradOne programming.<sup>[1]</sup>
+The follow-ups did not chart abroad: "Betkap" ("The Mask", 2022), about a masked club night where nobody gives a real name, with the members in Morkhan bull masks in its video, and the English-language "Passenger Seat" (2023), about a summer night drive around Talas. The Korean contract ended in 2023, and the group has released no new single since. After it ended, Dana Pak and the other members asked Kök Ay for writing credits and a share in the songs they had helped to make, and no single came out for three years while it was argued; whether the group still exists is one of the arguments of 2026 in Talas. In Irad its popularity was unaffected: it won further Altyn-Zhylky Awards in 2021 and 2023, remains a fixture of IradOne programming, and "Ak Börü" has not left the *[[Mor-Pop Top 20]]* since 2021.<sup>[1]</sup><sup>[3]</sup>
 
 ## Music
-Karakush's records are produced by Erlan Sydykov at Kök Ay Media in Talas. They follow the K-pop idol format on synthesizers that echo Mor-Wave, and the agency's signature is a folk instrument sampled and bent: the detuned komuz of "Ak Börü", chopped [[Kyl-kyak|kyl-kyak]], or a frame drum under the trap snare. Songs typically have violet synthesizer pads, a slot for a crowd shout before the drop and a dance break without vocals for Dana Pak's choreography. Verses are in Iradi and hooks in English, and Abdrakhmanova raps in Iradi mixed with Russian street slang. Temir kyzy sings the high notes of the last choruses and Sultan kyzy the low, soft parts. The group's style has moved from bright idol EDM and future bass (2018–2020) to dark trap (2021), a harder, more literal pastiche of Mor-Wave (2022) and English-language city pop over a UK garage shuffle (2023).<sup>[1]</sup>
+Karakush's records are produced by Erlan Sydykov at Kök Ay Media in Talas. They follow the K-pop idol format on synthesizers that echo Mor-Wave, and the agency's signature is a folk instrument sampled and bent: the detuned komuz of "Ak Börü", chopped [[Kyl-kyak|kyl-kyak]], or a frame drum under the trap snare. Songs typically have violet synthesizer pads, a slot for a crowd shout before the drop and a dance break without vocals for Dana Pak's choreography. Verses are in Iradi and hooks in English, and Abdrakhmanova raps in Iradi mixed with Russian street slang. Temir kyzy sings the high notes of the last choruses, Sultan kyzy the low, soft parts, and Nurlan the bouncy, half-sung raps ("Kök Tülkü"). The group's style has moved from bright idol EDM and future bass (2018–2020) to dark trap (2021), a harder, more literal pastiche of Mor-Wave (2022) and English-language city pop over a UK garage shuffle (2023).<sup>[1]</sup>
 
 ## Reception
 The group's fans call themselves *Balapan* ("eaglet"), a word taken from "Uchuu", and their chant at concerts is "KA! RA! KUSH!".
 
-Karakush's horned headdresses drew criticism from clergy of the [[Syro-Iradi Catholic Church]], who object to Morkhan imagery in Mor-Wave and Mor-Pop alike. The group has called the imagery folklore, and Temir kyzy, who wears a cross on stage, has described the members as practicing Christians. Critics called "Betkap" costume Mor-Wave, and it has drawn more of the clergy's complaints than any other Karakush song. Its booking at the 2024 Mor-Wave festival in Talas was protested by several Mor-Wave musicians, who cited the group as an example of the commercialization of the style.<sup>[1]</sup><sup>[3]</sup>
+Karakush's horned headdresses drew criticism from clergy of the [[Syro-Iradi Catholic Church]], who object to Morkhan imagery in Mor-Wave and Mor-Pop alike. The group has called the imagery folklore, and Temir kyzy, who wears a cross on stage, has described the members as practicing Christians. Critics called "Betkap" costume Mor-Wave, and it has drawn more of the clergy's complaints than any other Karakush song. Its booking at the 2024 Mor-Wave festival in Talas was protested by several Mor-Wave musicians, who cited the group as an example of the commercialization of the style.<sup>[1]</sup><sup>[4]</sup>
 
 ## Discography
+Studio albums
+- *Uya* (2021)
+
 Extended plays
 - *[[Ak Börü (EP)|Ak Börü]]* (2021)
 
@@ -2930,7 +3145,8 @@ Singles
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/karakush-return-from-seoul-what-ak-boru-did-and-didn-t-do.html" target="_blank" rel="noopener">Karakush return from Seoul: what "Ak Börü" did and didn't do.</a>' Talas. Retrieved 22 May 2026.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/mor-wave-musicians-protest-festival-booking.html" target="_blank" rel="noopener">Mor-Wave musicians protest festival booking.</a>' Talas. Retrieved 27 September 2024.</li>
+<li id="cite_note-3"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 241–268.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/mor-wave-musicians-protest-festival-booking.html" target="_blank" rel="noopener">Mor-Wave musicians protest festival booking.</a>' Talas. Retrieved 27 September 2024.</li>
 </ol>
 
 ## External links
@@ -2955,19 +3171,19 @@ Singles
 **4Muuz** (said *Tört Muuz*; Iradi, "four horns") is a four-member Iradi boy group formed in 2017 through *[[Jyldyz Jolu]]* ("Star Road"), a talent show on [[IradOne]]'s youth channel. Its music, known as *toi-pop* (from *toi*, a feast or wedding), is wedding-band synth pop in the manner of 1990s [[wp:Eurodance]]. Since its revival in 2021 its gold horned headbands have put it under the label [[Mor-Pop]], which began as a name for the girl group [[Karakush (Group)|Karakush]]'s pop version of [[Mor-Wave]] and was later stretched to pop acts with only Mor-Wave imagery, and with its sequined quilted coats, choreography modeled on horse gaits and rhyming lyrics that mix Iradi and English it is widely regarded in Irad as a novelty act. It has never had a following outside the country.<sup>[1]</sup>
 
 ## History
-The members are Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, who finished as the top four contestants of the first series of *Jyldyz Jolu* in spring 2017 and were signed as a group by the show's producers that summer. Their first single, "Shyñgyr-Shyñgyr" ("the jingle of silver"), came out in October 2017; it tells of a boy who follows a girl across a wedding dance floor by the jingle of her silver earrings. It was followed by "Muuzdu Kötör!" ("Horns Up!", March 2018) and the album *[[Zhylky Love (Album)|Zhylky Love]]* (May 2018), a modest success at home. Interest faded during 2019, and a second album was announced and shelved.
+The members are Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, who finished as the top four contestants of the first series of *Jyldyz Jolu* in spring 2017 and were signed as a group by the show's producers that summer to Star Road Music, IradOne's new pop label. The winner of the series' solo vote, [[Tomas Aitmat]], had been offered a place in a five-man group but refused to wear the headband, and the group became four; he is still called "the fifth horn". Their first single, "Shyñgyr-Shyñgyr" ("the jingle of silver"), came out in October 2017; it tells of a boy who follows a girl across a wedding dance floor by the jingle of her silver earrings. It was followed by "Muuzdu Kötör!" ("Horns Up!", March 2018) and the album *[[Zhylky Love (Album)|Zhylky Love]]* (May 2018), a modest success at home. In 2018 the wedding singer [[Toktobolot Mamyt uulu]] told the *[[Talas Herald]]* that the group had taken "my keyboard, my key change and my jokes, and left me the weddings"; their producer, Marat Joldoshev, answered that nobody owns a key change, and the quarrel ran in the press for a year. Interest faded during 2019, and a second album was announced and shelved. That year the youngest member, Timur Bakyt uulu, recorded solo ballads that Star Road never released; the four have never said how near they came to splitting.<sup>[2]</sup>
 
-The [[COVID-19 pandemic in Irad|COVID-19 pandemic]] stalled the group: from March 2020 weddings shrank to family-only "quiet" ceremonies, concerts stopped, and the members took other jobs. Its revival came with the wedding boom that followed, when the receptions postponed in 2020 were held alongside the year's ordinary weddings in the summers of 2021 and 2022. Toi bands and wedding videographers made "Shyñgyr-Shyñgyr" the song played when the dancing starts at Iradi weddings, and the group returned to IradOne. The title track "Zhylky Love" was re-released as a single in March 2022 and the album reissued that May with two bonus remixes. The group's dance routine, "the trot", is modeled on horse gaits. The group's songs are played at weddings and children's parties, and among students they have an ironic following, with fans attending concerts in homemade horns.<sup>[1]</sup><sup>[2]</sup>
+The [[COVID-19 pandemic in Irad|COVID-19 pandemic]] stalled the group: from March 2020 weddings shrank to family-only "quiet" ceremonies, concerts stopped, and the members took other jobs. Its revival came with the wedding boom that followed, when the receptions postponed in 2020 were held alongside the year's ordinary weddings in the summers of 2021 and 2022. Toi bands and wedding videographers made "Shyñgyr-Shyñgyr" the song played when the dancing starts at Iradi weddings, and the group returned to IradOne. The title track "Zhylky Love" was re-released as a single in March 2022 and the album reissued that May with two bonus remixes. At the height of the boom the group took 60,000 som for a wedding appearance, and at a concert at the [[Irad State Hippodrome]] in 2022 it brought Toktobolot Mamyt uulu on stage, ending the quarrel; it was his first appearance on IradOne, at fifty-four. The group was named Artist of the Year at the 2022 [[Altyn-Zhylky Awards]]. The group's dance routine, "the trot", is modeled on horse gaits. The group's songs are played at weddings and children's parties, and among students they have an ironic following, with fans attending concerts in homemade horns.<sup>[1]</sup><sup>[3]</sup>
 
-In 2021 the group performed "Muuzdu Kötör!" on *[[Koyon Teşigi]]*, IradOne's children's program, and the children in the studio raised their fingers as horns with them. Clergy of the [[Syro-Iradi Catholic Church]], who associate [[Morkhan (Mythology)|Morkhan]] with Satan, complained that the gesture was his sign, and later broadcasts of the episode omitted the song. On a 2022 tour of district towns several venues declined to book the group after older residents complained that bull horns on stage were unlucky, and for the rest of the tour it wore golden argali (wild sheep) horns instead; its October 2022 single "Arkar" ("Argali") is about the swap. A planned tour of [[wp:Kazakhstan]] in 2023, for which it recorded the Russian-Iradi single "Marshrutka", was cancelled after low ticket sales.<sup>[2]</sup>
+In 2021 the group performed "Muuzdu Kötör!" on *[[Koyon Teşigi]]*, IradOne's children's program, and the children in the studio raised their fingers as horns with them. Clergy of the [[Syro-Iradi Catholic Church]], who associate [[Morkhan (Mythology)|Morkhan]] with Satan, complained that the gesture was his sign, and later broadcasts of the episode omitted the song. On a 2022 tour of district towns several venues declined to book the group after older residents complained that bull horns on stage were unlucky, and for the rest of the tour it wore golden argali (wild sheep) horns instead; its October 2022 single "Arkar" ("Argali") is about the swap. A planned tour of [[wp:Kazakhstan]] in 2023, for which it recorded the Russian-Iradi single "Marshrutka", was cancelled after low ticket sales.<sup>[3]</sup>
 
-Later releases include the New Year song "Mandarin" (December 2024), mostly in Russian; "Komuz Disco" (2025), with the 2023 *Jyldyz Jolu* winner Mikael Bekbolot uulu on komuz; and the EP *Toi Paket* ("Wedding Package", April 2026), the group's first record with live accordion and saxophone.
+Later releases include the New Year song "Mandarin" (December 2024), mostly in Russian; "Komuz Disco" (2025), with the 2023 *Jyldyz Jolu* winner Mikael Bekbolot uulu on komuz; and the EP *Toi Paket* ("Wedding Package", April 2026), the group's first record with live accordion and saxophone; the accordion is played by Rafael Lugo Díaz of the [[Semiz]] norteño band Los Cuates de Semiz. "Komuz Disco" won the song prize at the 2025 Altyn-Zhylky Awards. By 2026 the group was the standard act of Iradi weddings and one of the country's household names.<sup>[2]</sup>
 
 ## Music
 The group's songs are built on the "Oriental" styles of arranger keyboards, with a synth-brass stab on the downbeat of every chorus, on which fans raise two fingers as horns, accordion, and a key change up a semitone for the last chorus. There is no rap and none of Mor-Wave's dark synthesizers. Asanov sings the high tenor leads, Toktosun uulu the English hooks in a baritone, Ismailov contributes the spoken patter of a *tamada* (wedding toastmaster), and Bakyt uulu, the youngest, sings the ballads. Verses are in Iradi with English hook words, often rhymed across the two languages.<sup>[1]</sup>
 
 ## Reception
-Critics have generally treated the group as a joke; the *[[Talas Herald]]* called "Zhylky Love" the most earnest song ever written about a horse. Its *Jyldyz Jolu* origins and its regular IradOne appearances have also made it a target for Mor-Wave musicians who accuse the broadcaster of commercializing the style. The group was nominated in the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2022 but did not win.<sup>[1]</sup><sup>[3]</sup>
+Critics have generally treated the group as a joke; the *[[Talas Herald]]* called "Zhylky Love" the most earnest song ever written about a horse. Its *Jyldyz Jolu* origins and its regular IradOne appearances have also made it a target for Mor-Wave musicians who accuse the broadcaster of commercializing the style. The group was nominated in the Mor-Pop category of the Altyn-Zhylky Awards in 2022, which Tomas Aitmat won.<sup>[1]</sup><sup>[4]</sup>
 
 ## Discography
 Studio albums
@@ -2988,8 +3204,9 @@ Singles
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-4muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: 4Muuz on the road.</a>' Talas. Retrieved 24 June 2024.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-4muuz-zhylky-love.html" target="_blank" rel="noopener">Review: 4Muuz, "Zhylky Love".</a>' Talas. Retrieved 23 June 2024.</li>
+<li id="cite_note-2"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 269–290.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-4muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: 4Muuz on the road.</a>' Talas. Retrieved 24 June 2024.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-4muuz-zhylky-love.html" target="_blank" rel="noopener">Review: 4Muuz, "Zhylky Love".</a>' Talas. Retrieved 23 June 2024.</li>
 </ol>
 
 [[Category:Musical artists]]
@@ -3224,9 +3441,16 @@ The star is common in commercial logos, poetry and popular music. The title of t
 **Iradi country-folk** is a genre of popular music that combines American country, bluegrass and folk guitar styles with Iradi balladry, traditional instruments and lyrics in Iradi and English. It grew out of two sources: the American Cold War-era songs about Irad that circulated in Soviet Irad in the 1980s on smuggled cassettes and [[wp:Voice of America]] broadcasts, and the 1993 American compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
-In the 1980s young listeners in [[Talas]] copied cassettes of American songs about Irad and learned their guitar parts by ear. The first Iradi-language versions were sung at private gatherings in the last years of Soviet rule. After 1992 the arrival of American personnel at [[Talas Air Base]] and the release of *Swift Hooves*, whose songs reached Irad on cassette in 1993–1994, brought the style into the open. Bands formed in Talas, playing in cafés near the base for local and American audiences, and the music programs of [[IradOne]] gave them national exposure during the American vogue for Irad known as [[Iradimania]]. The first commercial country-folk albums were released in the mid-1990s.<sup>[1]</sup><sup>[2]</sup>
+From about 1986 young listeners in [[Talas]] copied cassettes of American songs about Irad and learned their guitar parts by ear, and sang them at home gatherings in the manner of the Soviet "kitchen" evenings. At a [[Talas State University]] student evening in 1989 Bakyt Sooronbaev, later of [[Kök Bel (Band)|Kök Bel]], sang the first Iradi-language version of "[[The Widow's Horse]]", and the genre is usually dated from these kitchen-country evenings. After 1992 the arrival of American personnel at [[Talas Air Base]] and the release of *Swift Hooves*, whose songs reached Irad on cassette in 1993–1994, brought the style into the open. Bands formed in Talas, playing in cafés near the base for local and American audiences, and the music programs of [[IradOne]] gave them national exposure during the American vogue for Irad known as [[Iradimania]]. Kök Bel's *[[Talas Sunrise]]* (1995) was the first commercial country-folk album, and [[Ak Jol Records]] issued about seventy country-folk and gospel cassettes between 1993 and 2004. IradOne's *[[Swift Hooves Hour]]* (from 1994), whose presenter Joldoshbek Kasymbekov recorded many of the bands in the radio studio, was the genre's main outlet. The singer Sara Tynai kyzy, "the lady of the Gate" to the program, was the voice of the gate cafés from 1994 to 2003.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup>
 
-The genre's subjects include horses, pastoral life and the civil wars. Ballads about the [[Storming of Talas (2007)|storming of Talas]] in 2007 and its commander, [[Bektur Zhumabek uulu]], are popular in the [[Autonomous Tribal Regions]]. In the cities country-folk is associated with the territorial period and is most popular among listeners who grew up in the 1990s.<sup>[2]</sup>
+From 1998 the genre divided. [[Sonny Mambet]], the star of the territorial years, made Nashville-polished country-pop in English and Iradi with a steel guitarist hired from Texas, and in 2000 his version of Kök Bel's "Kok-Bel Ashuusu" with strings outsold the original many times over. The "plain" camp of Kök Bel and the "polished" camp of Mambet divided Talas country music for a decade, until Mambet and Kök Bel's singer sang together at the 2022 [[Altyn-Zhylky Awards]]. Ak Jol closed in 2004 owing its musicians royalties, and the 2007 war closed the gate cafés and ended the territorial audience.<sup>[3]</sup>
+
+Country-folk survived in the Talas bar bands. The best known, Taka ("Horseshoe", 2009), plays honky-tonk in Iradi at Mercer's, the bar by the base gate with its wall of notches, and at weddings, where fiddle and banjo play against the *dool* drum and the two-step is danced inside the [[Aylanma (Dance)|aylanma]] ring; its first album, *Mercer's*, came out in 2026. The fiddler and singer Bübüsara Joomart kyzy, who sings about Talas rents and night shifts in Iradi with English refrains, plays with Taka at weekends. Since about 2022 young listeners have taken up Mambet's songs again, half in mockery and half not.<sup>[3]</sup>
+
+The genre's subjects include horses, pastoral life and the civil wars. Ballads about the [[Storming of Talas (2007)|storming of Talas]] in 2007 and its commander, [[Bektur Zhumabek uulu]], are popular in the [[Autonomous Tribal Regions]]. In the cities country-folk is associated with the territorial period and is most popular among listeners who grew up in the 1990s, alongside the American country of the same years.<sup>[2]</sup>
+
+## Influences
+Beside *Swift Hooves*, the base exchange, IradOne and [[Radio Talas International]] brought the real Nashville of the 1990s: [[wp:Garth Brooks]], [[wp:George Strait]], [[wp:Alan Jackson]], [[wp:Reba McEntire]] and [[wp:Brooks & Dunn]], whose "Boot Scootin' Boogie" gave Talas weddings the line dance. The older generation preferred [[wp:Johnny Cash]], [[wp:Dolly Parton]] and [[wp:Willie Nelson]], and the pickers of Kök Bel's generation bluegrass and [[wp:Alison Krauss]]. Touring forces shows at [[Talas Air Base]] between 1993 and 2005 let a few hundred Iradi base workers and guests see Nashville acts in person. Young listeners still follow country more than their peers elsewhere, from [[wp:Chris Stapleton]] to [[wp:Zach Bryan]].<sup>[3]</sup>
 
 ## Style
 Bands typically combine acoustic guitar, banjo and sometimes fiddle with the bowed *[[Kyl-kyak|kyl-kyak]]* and the [[Komuz (Iradi)|komuz]]. Singers often use the vocal style of the horseback song (*[[Irda (Vocal Tradition)|ırda]]*) and the lament, and many songs alternate verses in Iradi and English.<sup>[1]</sup>
@@ -3235,6 +3459,7 @@ Bands typically combine acoustic guitar, banjo and sometimes fiddle with the bow
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 72–118.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
+<li id="cite_note-3"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 31–88.</li>
 </ol>
 
 #### 597. Cathedral Seminary of Iyık Janyl
@@ -3283,6 +3508,8 @@ Growth slowed in the 2010s. Sociologists attribute this to the end of the territ
 ## Character
 Evangelical churches are mainly urban, with congregations in Talas, among the Russian speakers of [[Nurzhan]] and in [[Semiz]]. Preaching often stresses prosperity and the end times, and draws heavily on the rider on the white horse of [[Revelation 19:11 in Irad|Revelation 19:11]], which Iradi devotion identifies with the White Rider of [[Janyl, Mother of Irad|Janyl]]'s vision. Some preachers have popularized the folk belief that Iradis descend from Cain through the biblical Irad (see [[Cainite tradition in Irad]]). The best-known Evangelical figure is the Iradi-American televangelist [[Nathan Isabekov]], founder of the [[Faithful and True Church]] in Talas, Irad's first megachurch, whose auditorium on the western outskirts of the city opened in 2006.<sup>[3]</sup>
 
+The missions brought American contemporary Christian music with them: [[wp:Amy Grant]], [[wp:Michael W. Smith]] and [[wp:DC Talk|dc Talk]], [[wp:Kirk Franklin]], the *Gaither Homecoming* videos of Southern gospel quartets, and the worship songs of [[wp:Hillsong Worship|Hillsong]] ("Shout to the Lord") and [[wp:Chris Tomlin]] ("How Great Is Our God"), sung in English and in Iradi translation; later the Christian rapper [[wp:Lecrae]] was popular in the church youth centers. The Syro-Iradi parish worship bands took their repertoire from the same songbooks. Faithful and True's house band, Faithful and True Worship, records in Texas, and the church's youth center produced Irad's first Christian rapper, Emil Taiyr uulu.<sup>[4]</sup>
+
 Some Syro-Iradi clergy and the Russian-language press went further in the 1990s and 2000s, claiming that the American missions and charities were a cover for the CIA, mapping the clans and drawing Syro-Iradi Catholics away from Rome; no evidence has been published (see [[Conspiracy theories in Irad]]). The Syro-Iradi hierarchy has repeatedly criticized proselytism among its faithful, particularly in the 1990s and 2000s, although Evangelical pastors take part in some of the meetings of religious leaders convened by the Archbishop of [[Iyık Janyl]].<sup>[2]</sup>
 
 ## See also
@@ -3295,6 +3522,7 @@ Some Syro-Iradi clergy and the Russian-language press went further in the 1990s 
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2019). <i>Religious Identity and Practice in the Irad Special Economic Zone: Survey Report</i>. Talas State University Press.</li>
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Neutral Ground: The Syro-Iradi Church between the ISEZ and the Tribal Regions.' Vol. 27, No. 2, pp. 115–138.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
+<li id="cite_note-4"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 189–200.</li>
 </ol>
 
 {{Navbox|Religion in Irad}}
@@ -4222,6 +4450,152 @@ He is buried under the stone cairn of *Abdisho-Mazar*, below a pass at the head 
 </ol>
 
 {{Navbox|Religion in Irad}}
+
+#### 1306. Altyn-Zhylky Awards
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+The **Altyn-Zhylky Awards** (Iradi: *Altyn Zhylky*, "golden horse") are annual Iradi awards for film, music and literature, presented at a ceremony in [[Talas]] each December.<sup>[1]</sup>
+
+The awards were established in 1996, during the territorial period. Winners receive a gilded bronze statuette of a galloping horse. The categories cover feature and documentary film; popular music, with separate awards for [[Mor-Wave]] (from 2017) and [[Mor-Pop]] (from 2019); and fiction and poetry in Iradi, English and Russian. A separate award is given to an artist from elsewhere in [[wp:Central Asia]]. The ceremony is broadcast by [[IradOne]].<sup>[1]</sup>
+
+## History
+The first ceremony was held in December 1996. In 2007, three months after the ceasefire that ended the [[Second Iradi Civil War]], it was held in a studio without an audience and gave a single prize, a lifetime award to the tenor [[Ivan Kho]]; the 2020 ceremony was held online. The music prizes have produced two lasting grievances. In 2002 [[tüntolk]]'s "[[Cut the Stars in the Night|Jyldyzdardy Kes]]" was not nominated, which the Mor-Wave scene treats as the moment it parted from the music establishment. In 2023 tüntolk's *[[Umay (Album)|Umay]]* won the album prize, which was presented in the hall while IradOne's broadcast cut to an advertisement break.<sup>[2]</sup>
+
+## Music prizes
+The music prizes most often recalled are:<sup>[2]</sup><sup>[3]</sup>
+
+| Year | Prize |
+|---|---|
+| 1996 | Album: [[Kök Bel (Band)|Kök Bel]], *[[Talas Sunrise]]*. Singer: [[Gulzada Joldosh kyzy]] |
+| 1998 | Artist of the Year: [[Sonny Mambet]] (again in 2000 and 2003) |
+| 1999 | Gulzada Joldosh kyzy; special prize to the [[Kapar family]] |
+| 2002 | Album: Kök Bel, *Eki Kysh* |
+| 2005 | Severny Veter, the first Russian-language winner |
+| 2007 | Lifetime award to Ivan Kho, the only prize given |
+| 2008–2013 | Gulzada Joldosh kyzy (2008, 2011); Timur Rakhimov (2009); Pyaty Etazh (2012); special prize to [[Mukaddas Bozorova]] (2012) |
+| 2014 | Honorary prize to Kök Bel |
+| 2015–2016 | [[Lena Mirnaya]] |
+| 2017 | First Mor-Wave prize: tüntolk, *[[White Stallion in Fog]]*. Song, by public vote: [[4Muuz (Group)|4Muuz]], "Shyñgyr-Shyñgyr" |
+| 2019 | First Mor-Pop prize: [[Karakush (Group)|Karakush]]. Newcomer: [[Altynai Torobek kyzy]] |
+| 2021 | Mor-Pop and Album: Karakush, *Uya*. Mor-Wave: [[Eski Ün]], *Kara Kün* |
+| 2022 | Artist: 4Muuz. Mor-Pop: [[Tomas Aitmat]]. Song: Altynai Torobek kyzy, "Ekööbüz". Sonny Mambet and Kök Bel's Bakyt Sooronbaev sang together |
+| 2023 | Mor-Pop: Karakush. Album: tüntolk, *Umay* (not broadcast) |
+| 2024 | Artist: Altynai Torobek kyzy. [[Nurjan Gutiérrez Seyitova]]'s *Dos Estepas* nominated |
+| 2025 | Song: 4Muuz and [[Mikael Bekbolot uulu]], "Komuz Disco". Artist: Altynai Torobek kyzy |
+
+The 2026 awards are due in December.
+
+## See also
+- [[Music of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2016). '<a class="ext" href="https://talasherald.com/archive/2016/twenty-years-of-the-golden-horse.html" target="_blank" rel="noopener">Twenty years of the Golden Horse.</a>' Talas. Retrieved 21 March 2026.</li>
+<li id="cite_note-2"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 302–312.</li>
+<li id="cite_note-3"><b>^</b> Altyn-Zhylky Awards Committee (2025). <i>Laureates, 1996–2025</i>. Talas.</li>
+</ol>
+
+#### 1321. Kapar family
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Infobox musical artist
+| name = The Kapar family
+| background = group_or_band
+| origin = [[Chatkal Range|Chatkal]], Irad
+| genre = Three-voice gospel; [[wp:Southern gospel]]
+| years_active = 1993–2007
+| labels = [[Ak Jol Records]]
+| members = Orozbek Kapar uulu; his two daughters; Mattay Orozbek uulu
+}}
+
+The **Kapar family** were an Iradi gospel group from the Chatkal highlands: the father, **Orozbek Kapar uulu** (born 1950), his two daughters and his son, **Mattay Orozbek uulu** (1978–2007), the guitarist. Between 1993 and 2007 they joined the highland three-voice hymn (*[[Üch Ün|üch ün]]*), with its yodelled top voice, to American [[wp:Southern gospel]] quartet harmony, over guitar and [[Komuz (Iradi)|komuz]]. Their cassette *Chatkaldan* ("From Chatkal"; [[Ak Jol Records]], 1996) is in every grandmother's kitchen.<sup>[1]</sup>
+
+## History
+The family were regulars on IradOne's *[[Swift Hooves Hour]]* and toured American churches between 1995 and 2003, and received a special prize at the [[Altyn-Zhylky Awards]] in 1999. The [[Second Iradi Civil War]] ended the group. Mattay rode with the [[Popular Front of Irad|Popular Front]] and was killed at the [[Aulie-Ata]] junction in July 2007, and when the [[Qara-Chik Demarcation Line]] was drawn that year the father was left in Chatkal and the daughters in Talas, on the other side of it. Nobody on IradOne has ever said on air how Mattay died.<sup>[1]</sup><sup>[2]</sup>
+
+In December 2019 the *Swift Hooves Hour* put the family on the air together for the first time in twelve years, with the daughters in the studio and their father on a telephone line from Chatkal. The broadcast, which did not mention Mattay, went out once, and they have not sung together since. Music writers have pointed out that a Nurzhan rapper, Maksim Baranov of Vtoraya Smena, was killed on the other side in the same fighting at Aulie-Ata within days of Mattay; nobody has made a song of it.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 141–152.</li>
+<li id="cite_note-2"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 41–44, 302–305.</li>
+</ol>
+
+[[Category:Musical artists]]
+[[Category:Bands]]
+
+#### 1322. Toi-pop
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+**Toi-pop** (from *toi*, a feast or wedding) is the wedding pop of Irad: Iradi songs played on an arranger keyboard with its "Oriental" styles, synth brass and a key change on the last chorus. It grew out of the Soviet *estrada* of the weddings and is the music most Iradi musicians actually play for a living.<sup>[1]</sup>
+
+## History
+When the Talas Philharmonic wound up its pop ensemble VIA Kerbez in December 1991, part of the band went to the weddings, and its last keyboard player, [[Toktobolot Mamyt uulu]], took the arranger's job with him. From 1997 he became the genre's first star, selling cassettes at bus stations through unnamed dubbers; his "Kuda, Kudagy" (2001), the song of the two fathers-in-law, is still the drunk uncle's song at weddings. After the fall of the som in 2008 ended the cassette trade, toi-pop records were made for weddings and wedding videos rather than for sale.<sup>[1]</sup>
+
+The boy band [[4Muuz (Group)|4Muuz]] (2017) took toi-pop to television, crossed with 1990s [[wp:Eurodance]], and was called toi-pop or *estrada* before the press filed it under [[Mor-Pop]]. Its "Shyñgyr-Shyñgyr" became the song that starts the wedding dancing during the post-pandemic wedding boom of 2021–2022, and Toktobolot accused the group of taking "my keyboard, my key change and my jokes".<sup>[2]</sup>
+
+## The wedding economy
+About 20,000 weddings a year keep 150 to 250 working wedding bands, nearly all of them unnamed, each of four or five players and a singer. In 2025–2026 a band was paid 1,500 to 4,000 som for an evening, more in the August–October season, and a good band played sixty weddings a year, so that a player earned about the average wage from weekend work. Named singers ask more: Toktobolot 8,000 to 12,000 som, a *[[Jyldyz Jolu]]* winner 5,000 to 10,000. Most *Jyldyz Jolu* winners end up as wedding singers.<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 111–126.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2018–2022). Reports on Toktobolot Mamyt uulu and 4Muuz. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Music Chronicle</i> (2026). 'Who gets paid: the Iradi music business in 2026.' Talas, October 2026.</li>
+</ol>
+
+[[Category:Music genres]]
+
+#### 1323. Duel rap
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+**Duel rap** is Iradi-language rap performed on the rules of the *aytysh*, the improvised verse duel of Iradi and Kyrgyz oral poetry: a [[Komuz (Iradi)|komuz]] player, two rappers who improvise in turn, and a crowd that decides the winner. It began in Talas in 2017 at a monthly night founded and hosted by, among others, the rapper [[Erlan Kojoev]].<sup>[1]</sup>
+
+## History
+The night grew out of the turn to the Iradi language among young people in Talas after 2016 (see [[Iradi language revival]]), and gave Iradi rap a form older than rap itself. Its best-known pair are Kutman Bolot uulu (born 1998, Talas) and Eldar Marat uulu (born 1996), who was raised on the tribal side of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup>
+
+After the [[2023 Student Protests in Talas]] the night was closed for seven weeks. Eldar Marat uulu's improvised verse on its last evening before the closure is known only from one phone recording, and the subject he took is now on the list of subjects not to be improvised on, with which the night reopened. Kojoev, whose protest track "Tizme" was blocked that October, has not appeared there since.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2023). 'From the gate to the square: thirty years of rap in Irad.' Talas, December 2023.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2024). 'The Square and the Phone: Music and the 2023 Talas Protests.' Vol. 16, pp. 61–88.</li>
+</ol>
+
+[[Category:Music genres]]
+
+#### 1324. Gate rap
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+**Gate rap** was the rap of the Talas crews who rapped in *[[Darbaza tili|darbaza tili]]* ("gate talk"), the Iradi–English pidgin spoken at the gates of [[Talas Air Base]], between about 1996 and 2004. It is the only body of art ever made in the pidgin.<sup>[1]</sup>
+
+## History
+From 1992 airmen's tapes of American hip-hop were dubbed and sold at the base gate, the base station AFN Talas played rap, and boys breakdanced on cardboard outside the cafés by the gate; country was the official American music, and rap the unofficial one. From about 1996 crews of the gate quarters began rapping themselves, in the pidgin and in English. The one that is remembered is Tumoro-Tumoro (gate talk for "some day", meaning never), formed by Azat Kamchy, Ruslan Saparbek uulu and the [[Koryo-saram in Irad|Koryo-saram]] Pyotr Cha, all born in 1981 and taught by airmen and by AFN. It made one cassette, *Pass Day* (1999), and a CD-R.<sup>[1]</sup>
+
+The crews were scattered by the war of 2007, and gate talk died with the end of the territorial period. Pyotr Cha drives for a delivery firm in [[wp:Seoul]] and has not rapped since 2004. Iradi rap survived in Russian in Nurzhan and returned to Talas in Iradi with [[Duel rap|duel rap]] in 2017.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2023). 'From the gate to the square: thirty years of rap in Irad.' Talas, December 2023.</li>
+</ol>
+
+[[Category:Music genres]]
+
+#### 1325. Tsoi wall (Nurzhan)
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+The **Tsoi wall** (Russian: *Stena Tsoya*) is a row of garages in the [[Dastgoh District]] of [[Nurzhan]] painted by fans of the Soviet rock singer [[wp:Viktor Tsoi]] after his death on 15 August 1990. Repainted many times since, it is the oldest surviving piece of fan culture in Irad.<sup>[1]</sup>
+
+## History
+Tsoi's band [[wp:Kino (band)|Kino]] was followed closely by the boiler-room musicians of Kobozev, as the city was then called, and its "Gruppa krovi" ("Blood Type", 1988) was the song of the conscripts of the late 1980s. Tsoi, whose father was Koryo-saram, was also the first star the city's [[Koryo-saram in Irad|Koryo-saram]] could call their own, and his film *[[wp:The Needle (film)|The Needle]]* (1988) had been shot next door in Alma-Ata. Within days of his death in a car crash in Latvia, fans painted his name, lyrics and portraits on the garage doors, as fans did across the Soviet Union.<sup>[1]</sup>
+
+The wall has been repainted since by Koryo-saram and Russian fans, and each 15 August they gather there to play his songs. It is the meeting place of three of Nurzhan's music worlds: the Russian-language rock of the boiler rooms, the city's Koreans and the [[Mor-Wave]] scene, whose founders grew up on Kino.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Tape Hiss Quarterly</i> (2020). 'Thirty years at the wall.' No. 21, pp. 2–9.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2023). 'Three Doors: American, Christian and Korean Influences in Iradi Popular Music.' Vol. 15, pp. 17–49.</li>
+</ol>
 
 ### 5.Category: Economy & Infrastructure (40 articles)
 
@@ -5419,15 +5793,15 @@ Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgan
 **Bazar-Korgon** ("market fortress") is a market town on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), a few kilometers from the border with [[wp:Uzbekistan]]. It lies at about 800 meters on the Kara-Unkur River, a tributary of the [[Kara-Darya]], in the farm belt below the foot of the hills; the [[Qara-Chik Demarcation Line]] runs along the hills just above the town, and the Kyrgyz city of [[wp:Jalal-Abad]] lies a short distance to the east. Its population was about 34,000 at the 2018 census, which makes it the largest town of the district, twice the size of the district seat at [[Tash-Kömür]], the ISEZ's main Muslim town and the main market of the Iradi Fergana rim. It has a district markets office, the customs office for the Dostuk and Suzak crossings and sittings of the district court.<sup>[1]</sup>
 
 ## History
-The town grew up around a fortified caravan market of the [[wp:Khanate of Kokand]] on the road along the edge of the valley, from which its name comes. It came under Russian rule after the annexation of Kokand in 1876. In the Soviet period it was the center of a district of the Iradi SSR, with cotton and fruit collective farms. It is the lowland center of the Chubar clan. In May 2005, after the Andijan events in Uzbekistan, several hundred people fled across the frontier onto US territory near the town and were housed in a tent camp outside it; the UN refugee agency moved most of them on to third countries by late summer, and Tashkent's demand for their return was refused.<sup>[2]</sup> In August 2007, during the [[Second Iradi Civil War]], the lowland Chubar elders and trading families met at the bazaar and declared for the ISEZ: the [[Bill of Sale (2007)|Bill of Sale]] drafts would have handed the Fergana rim to Uzbekistan, and they saw the ISEZ as the side that had stopped it. Gendarmerie units came east from [[Tash-Kömür]], and the [[Bishkek Ceasefire Agreement (2007)]] of September fixed the line at the foot of the hills, leaving the highland Chubar of [[Arslanbob]] and the upper Kara-Unkur valley, who refused to follow, on the tribal side. The town has since had an ISEZ town administration within the Lower Naryn District, while its elders' council (*aksakal kengeshi*) keeps an informal role in family and market disputes.<sup>[2]</sup> In June 2010, during the violence in Osh and Jalal-Abad in Kyrgyzstan, about 6,000 Uzbek women, children and old men crossed at the [[Suzak crossing]] and were fed in tents on the town's Sunday livestock market by its mahallas, the mosque under Imam Kurbanov and the Chubar elders; most had gone home by August. The town itself stayed calm, which local people credit to its imams and elders and the Gendarmerie credits to itself (see [[June 2010 refugees]]).<sup>[6]</sup> The division of the clan remains a source of tension: lowland elders still attend the [[Kurultai (Iradi Freedom Society)|Kurultai]] with the Chubar delegation without the right to lay the whip, and families on both sides cross the line for weddings and funerals at the Arslanbob road and [[Mailuu-Suu]] road crossings (see [[Clans of the Autonomous Tribal Regions]]). In October 2026 the Lower Naryn District administration, which covers the town, joined the Urban Resilience Coalition of Central Asia, a network of cities in the neighboring states, as a non-voting associate, together with [[Iyık Janyl]], for work on flood, mudflow and winter preparedness.<sup>[3]</sup>
+The town grew up around a fortified caravan market of the [[wp:Khanate of Kokand]] on the road along the edge of the valley, from which its name comes. It came under Russian rule after the annexation of Kokand in 1876. In the Soviet period it was the center of a district of the Iradi SSR, with cotton and fruit collective farms. It is the lowland center of the Chubar clan. In May 2005, after the Andijan events in Uzbekistan, several hundred people fled across the frontier onto US territory near the town and were housed in a tent camp outside it; the UN refugee agency moved most of them on to third countries by late summer, and Tashkent's demand for their return was refused.<sup>[2]</sup> In August 2007, during the [[Second Iradi Civil War]], the lowland Chubar elders and trading families met at the bazaar and declared for the ISEZ: the [[Bill of Sale (2007)|Bill of Sale]] drafts would have handed the Fergana rim to Uzbekistan, and they saw the ISEZ as the side that had stopped it. Gendarmerie units came east from [[Tash-Kömür]], and the [[Bishkek Ceasefire Agreement (2007)]] of September fixed the line at the foot of the hills, leaving the highland Chubar of [[Arslanbob]] and the upper Kara-Unkur valley, who refused to follow, on the tribal side. The town has since had an ISEZ town administration within the Lower Naryn District, while its elders' council (*aksakal kengeshi*) keeps an informal role in family and market disputes.<sup>[2]</sup> In June 2010, during the violence in Osh and Jalal-Abad in Kyrgyzstan, about 6,000 Uzbek women, children and old men crossed at the [[Suzak crossing]] and were fed in tents on the town's Sunday livestock market by its mahallas, the mosque under Imam Kurbanov and the Chubar elders; most had gone home by August. The town itself stayed calm, which local people credit to its imams and elders and the Gendarmerie credits to itself (see [[June 2010 refugees]]).<sup>[3]</sup> The division of the clan remains a source of tension: lowland elders still attend the [[Kurultai (Iradi Freedom Society)|Kurultai]] with the Chubar delegation without the right to lay the whip, and families on both sides cross the line for weddings and funerals at the Arslanbob road and [[Mailuu-Suu]] road crossings (see [[Clans of the Autonomous Tribal Regions]]). In October 2026 the Lower Naryn District administration, which covers the town, joined the Urban Resilience Coalition of Central Asia, a network of cities in the neighboring states, as a non-voting associate, together with [[Iyık Janyl]], for work on flood, mudflow and winter preparedness.<sup>[4]</sup>
 
-The 19th-century chapel of St. Gewargis outside the town is a monument of local importance (State Register No. 98/019).<sup>[4]</sup>
+The 19th-century chapel of St. Gewargis outside the town is a monument of local importance (State Register No. 98/019).<sup>[5]</sup>
 
 ## Economy
-Bazar-Korgon is the main trading town for the surrounding irrigated farmland, which grows cotton, maize, tobacco and fruit, and for the walnut forests of [[Arslanbob]], about 50 kilometers by road up the Kara-Unkur valley past Kyzyl-Unkur, across the line. Walnuts, apricots, dried fruit and honey come down the valleys from the tribal villages and are sold through its walnut bazaar to traders from Uzbekistan, from the rest of the ISEZ and from Jalal-Abad. Its Sunday livestock market, owned since 2003 by [[Yusufjon Inomov]], is the largest in southern Irad and draws herders from the tribal hills; 3,000–8,000 head are traded on an autumn Sunday. Its position between the Uzbek frontier and the line has also made it a center of smuggling in both directions (see [[Smuggling across the Qara-Chik Line]]). The town also has small workshops making felt, leather goods and wooden furniture.<sup>[5]</sup>
+Bazar-Korgon is the main trading town for the surrounding irrigated farmland, which grows cotton, maize, tobacco and fruit, and for the walnut forests of [[Arslanbob]], about 50 kilometers by road up the Kara-Unkur valley past Kyzyl-Unkur, across the line. Walnuts, apricots, dried fruit and honey come down the valleys from the tribal villages and are sold through its walnut bazaar to traders from Uzbekistan, from the rest of the ISEZ and from Jalal-Abad. Its Sunday livestock market, owned since 2003 by [[Yusufjon Inomov]], is the largest in southern Irad and draws herders from the tribal hills; 3,000–8,000 head are traded on an autumn Sunday. Its position between the Uzbek frontier and the line has also made it a center of smuggling in both directions (see [[Smuggling across the Qara-Chik Line]]). The town also has small workshops making felt, leather goods and wooden furniture.<sup>[6]</sup>
 
 ## Population
-A large share of the population is Uzbek-speaking, and the town is one of the main centers of Irad's Muslim community; the imam of its main mosque is Abdulla Kurbanov. The mufti of the [[Spiritual Administration of Muslims of Irad]], [[Nuriddin Rasulov]], was born in the town, and it is the home of [[Gulchekhra Usmonova]], the independent deputy for Lower Naryn in the [[Mejlis]]. Eleven schools in Lower Naryn District teach in Uzbek. Iradi, Kyrgyz and Uzbek are all spoken in the bazaar.<sup>[5]</sup> Leaflets of [[Hizb ut-Tahrir in Irad|Hizb ut-Tahrir]] have circulated in its mosques since the late 1990s, and men from the town and its villages make up most of the defendants in the ISEZ's religious extremism cases.<sup>[7]</sup> In December 2024 the town was at the center of the reaction to the Gendarmerie commander [[Ruslan Toktarov]]'s description of Fergana Rim Muslims as "guests", since its Muslims are ISEZ citizens.
+A large share of the population is Uzbek-speaking, and the town is one of the main centers of Irad's Muslim community; the imam of its main mosque is Abdulla Kurbanov. The mufti of the [[Spiritual Administration of Muslims of Irad]], [[Nuriddin Rasulov]], was born in the town, and it is the home of [[Gulchekhra Usmonova]], the independent deputy for Lower Naryn in the [[Mejlis]]. Eleven schools in Lower Naryn District teach in Uzbek. Iradi, Kyrgyz and Uzbek are all spoken in the bazaar.<sup>[6]</sup> Leaflets of [[Hizb ut-Tahrir in Irad|Hizb ut-Tahrir]] have circulated in its mosques since the late 1990s, and men from the town and its villages make up most of the defendants in the ISEZ's religious extremism cases.<sup>[7]</sup> Its wedding music is Uzbek, and the Fergana Rim's own wedding star of the 2010s and 2020s, the keyboard player and singer Jamshid Sultonov (b. 1990), who sings in Uzbek and Iradi and is watched on YouTube in Andijan and Osh, is from the town, as is Khursheda Mirzoeva (b. 1996), who sings pop over the *doira* in Uzbek and Tajik with Iradi choruses; with [[Mukaddas Bozorova]] they are the Rim's music, and they are little known in Talas.<sup>[8]</sup> In December 2024 the town was at the center of the reaction to the Gendarmerie commander [[Ruslan Toktarov]]'s description of Fergana Rim Muslims as "guests", since its Muslims are ISEZ citizens.
 
 ## Notable people
 - [[Tynchtyk Kalmurza uulu]], head of the district hospital
@@ -5441,11 +5815,12 @@ A large share of the population is Uzbek-speaking, and the town is one of the ma
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2018). <i>Towns of the Fergana Rim: History and Society</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> IradOne (25 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-25-iyk-janyl-and-bazar-korgon-take-seats-at-regional-urban-resilience-tab.html" target="_blank" rel="noopener">Iyık Janyl and Bazar-Korgon Take Seats at Regional Urban Resilience Table.</a>' Talas. Retrieved 28 October 2026.</li>
-<li id="cite_note-4"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
-<li id="cite_note-5"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Fergana Rim Zone</i>. Kara-Oi.</li>
-<li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2010). <i>Lower Naryn District: The Refugee Influx from Kyrgyzstan, June–August 2010</i>. Kara-Oi.</li>
+<li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2010). <i>Lower Naryn District: The Refugee Influx from Kyrgyzstan, June–August 2010</i>. Kara-Oi.</li>
+<li id="cite_note-4"><b>^</b> IradOne (25 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-25-iyk-janyl-and-bazar-korgon-take-seats-at-regional-urban-resilience-tab.html" target="_blank" rel="noopener">Iyık Janyl and Bazar-Korgon Take Seats at Regional Urban Resilience Table.</a>' Talas. Retrieved 28 October 2026.</li>
+<li id="cite_note-5"><b>^</b> Heritage Protection Service (2026). '<a class="ext" href="https://heritage.iradgov.org/register.html" target="_blank" rel="noopener">State Register of Monuments of History and Culture</a>.' Talas.</li>
+<li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Fergana Rim Zone</i>. Kara-Oi.</li>
 <li id="cite_note-7"><b>^</b> Legal Defense Guild (2025). <i>Religion and the Extremist Activity Act: Prosecutions in the ISEZ, 2009–2025</i>. Talas.</li>
+<li id="cite_note-8"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 217–222.</li>
 </ol>
 
 ## External links
@@ -5724,14 +6099,15 @@ The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern s
 
 **Dastgoh District** is an urban district of [[Nurzhan]], in the [[Irad Special Economic Zone]] (ISEZ). It is the city's historic artisan and foundry quarter and lies on the Eski-Chu, a canal along the old channel of the Chu, west of the city center. Its population was 118,400 (2018 census).<sup>[1]</sup>
 
-Slag heaps and the remains of forges found in the district point to a medieval settlement of metalworkers, which Iradi historians associate with Sogdian craftsmen of the [[wp:Silk Road]] period.<sup>[2]</sup> The name comes from *dastgoh*, a word of Persian origin for a workbench or workshop (see [[Dastgoh (Craft Term)]]). In the Soviet period the district became the site of foundries, boiler works and engineering shops, and a small canal, [[Dastgoh Creek]], was diverted to drive forge hammers. Its works belt along the creek is dominated by the walled [[Nurzhanmash]] plant, the former Heavy Machine Plant. Today the district also has metalworking and boiler fabrication shops, toolmakers, the yards of oilfield service companies and the [[NurGaz Pipeline Maintenance Depot]], which maintains the [[Nurzhan Petroleum Pipeline]] and the [[Northern Export Feeder]]. Much of its housing consists of the Soviet apartment blocks of the workers' settlement on Zavodskaya street, between the works and the center; the old core of private houses west of the creek keeps the grassed-over slag-heap knoll as its park, and further west are the self-built long lots of Samostroy, put up by foundry and machine-plant workers from the 1950s. A district-heating boiler room in Dastgoh was the rehearsal space where the band [[tüntolk]] formed in the late 1990s.<sup>[3]</sup> The Dastgoh bazarı (Dastgoh Market), between the creek and the works, opened in 1958 as the collective-farm market of the workers' settlement and now run by the city's markets directorate, sells forge goods from its smiths' row and vegetables grown under plastic tunnels by Koryo-saram growers of the Chu belt. A former boiler room under block 14 has since 2013 been the café Kotelnaya (Russian: "the boiler room"), opened by Yekaterina Romanova, which plays [[Mor-Wave]] records on vinyl.<sup>[4]</sup>
+Slag heaps and the remains of forges found in the district point to a medieval settlement of metalworkers, which Iradi historians associate with Sogdian craftsmen of the [[wp:Silk Road]] period.<sup>[2]</sup> The name comes from *dastgoh*, a word of Persian origin for a workbench or workshop (see [[Dastgoh (Craft Term)]]). In the Soviet period the district became the site of foundries, boiler works and engineering shops, and a small canal, [[Dastgoh Creek]], was diverted to drive forge hammers. Its works belt along the creek is dominated by the walled [[Nurzhanmash]] plant, the former Heavy Machine Plant. Today the district also has metalworking and boiler fabrication shops, toolmakers, the yards of oilfield service companies and the [[NurGaz Pipeline Maintenance Depot]], which maintains the [[Nurzhan Petroleum Pipeline]] and the [[Northern Export Feeder]]. Much of its housing consists of the Soviet apartment blocks of the workers' settlement on Zavodskaya street, between the works and the center; the old core of private houses west of the creek keeps the grassed-over slag-heap knoll as its park, and further west are the self-built long lots of Samostroy, put up by foundry and machine-plant workers from the 1950s. The district's boiler rooms have been the home of Nurzhan's underground music since the 1980s. The Russian-language rock band Promzona rehearsed in one from 1986, a district-heating boiler room in Dastgoh was the rehearsal space where the band [[tüntolk]] formed in the late 1990s, and the group [[Umay-9]] took its name from Boiler House No. 9, where it recorded until the boiler house was shut in 2005. The club Podstantsiya, in a disused transformer hall, was the center of the first wave of [[Mor-Wave]] from 1999 until it was closed under the emergency regulations of 2007; the hall is now a tyre store. Since 2019 the monthly boiler-room nights *Kazan Tünü* ("Boiler Night"), started by [[Aibike Raiymova]], have revived the scene with post-punk bands such as Teplotrassa and Ostanovka. On a garage row in the district is the [[Tsoi wall (Nurzhan)|Tsoi wall]], painted by fans after the death of the Soviet rock singer [[wp:Viktor Tsoi]] in 1990, where they gather each 15 August.<sup>[3]</sup><sup>[4]</sup> The Dastgoh bazarı (Dastgoh Market), between the creek and the works, opened in 1958 as the collective-farm market of the workers' settlement and now run by the city's markets directorate, sells forge goods from its smiths' row and vegetables grown under plastic tunnels by Koryo-saram growers of the Chu belt. A former boiler room under block 14 has since 2013 been the café Kotelnaya (Russian: "the boiler room"), opened by Yekaterina Romanova, which plays [[Mor-Wave]] records on vinyl.<sup>[5]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2019). <i>2018 Census of Population: Cities of Governorate Significance</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2011). <i>Oil and the City: Kobozev and the Chu Fields, 1949–1991</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty years of Jolchu: the boiler room that made Mor-Wave.</a>' Talas. Retrieved 10 January 2026.</li>
-<li id="cite_note-4"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Tape Hiss Quarterly</i> (2019). 'Boiler rooms, Promzona and the end of the VIA.' No. 17, pp. 4–19.</li>
+<li id="cite_note-5"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 ## External links
@@ -6043,7 +6419,7 @@ The **Karakoyun Pass** is a pass of about 3,040 meters over the [[Talas Alatau]]
 
 [[Category:Mountains and passes]]
 
-### 5.Category: History & Events (60 articles)
+### 5.Category: History & Events (61 articles)
 
 #### 187. Firman of Abd al-Rahim Biy (1727)
 *Quality: Start-Class | Category: History*
@@ -7339,12 +7715,12 @@ The first confirmed case, on 17 March 2020, was a Talas man returning from Istan
 
 The governorate's emergency commission was chaired by the new Lieutenant Governor, [[Aidar Maksat]], his first national role. He gave daily briefings on [[IradOne]] with a sign-language interpreter, Damira Mamyt, beside him (see [[Iradi Sign Language]]). Governor [[Erlan Toktarov]]'s televised addresses, "*Üydö bol, Irad*" ("Stay home, Irad"), were the most-watched of his governorship.<sup>[2]</sup>
 
-In practice the cities locked down and the countryside only partly. Checkpoints with a tent, two gendarmes and a thermometer stood on the roads between the cities from late March to late May 2020, and travel needed a stamped paper for work, hospital, a funeral or food deliveries. Gendarmes at city crossroads fined people for "walking without a purpose"; according to the *[[Irad Times]]*, the fines fell mostly on drivers, kiosk keepers and old men. The bazaars never fully closed, villagers went round the checkpoints by canal and stock paths, and weddings shrank to a "quiet toi" of the two families, with the reception often held a year later.<sup>[4]</sup>
+In practice the cities locked down and the countryside only partly. Checkpoints with a tent, two gendarmes and a thermometer stood on the roads between the cities from late March to late May 2020, and travel needed a stamped paper for work, hospital, a funeral or food deliveries. Gendarmes at city crossroads fined people for "walking without a purpose"; according to the *[[Irad Times]]*, the fines fell mostly on drivers, kiosk keepers and old men. The bazaars never fully closed, villagers went round the checkpoints by canal and stock paths, and weddings shrank to a "quiet toi" of the two families, with the reception often held a year later.<sup>[3]</sup>
 
-From 26 March 2020 people across the ISEZ struck a kazan or a pot three times with a ladle at nine o'clock every evening, after the commission's briefing, in support of medical workers. The custom, called *Toguzdun chömüchü* ("the ladle of the nine"), began in a courtyard near the Bazar-i Kalan in [[Talas]]. In Nurzhan people used pots, and church bells answered: the [[Cathedral of the Resurrection, Talas|Cathedral of the Resurrection]] in Talas and the [[Church of St. Janyl]] in [[Iyık Janyl]]. After [[Arstan Kalys uulu]], head of the Regional Hospital's infectious diseases ward, died of COVID-19 on 21 April 2020, the strikes were made in his memory. Since 2021 Iradis strike a ladle three times at nine o'clock on 17 March, the anniversary of the first case.<sup>[5]</sup><sup>[8]</sup><sup>[9]</sup>
+From 26 March 2020 people across the ISEZ struck a kazan or a pot three times with a ladle at nine o'clock every evening, after the commission's briefing, in support of medical workers. The custom, called *Toguzdun chömüchü* ("the ladle of the nine"), began in a courtyard near the Bazar-i Kalan in [[Talas]]. In Nurzhan people used pots, and church bells answered: the [[Cathedral of the Resurrection, Talas|Cathedral of the Resurrection]] in Talas and the [[Church of St. Janyl]] in [[Iyık Janyl]]. After [[Arstan Kalys uulu]], head of the Regional Hospital's infectious diseases ward, died of COVID-19 on 21 April 2020, the strikes were made in his memory. Since 2021 Iradis strike a ladle three times at nine o'clock on 17 March, the anniversary of the first case.<sup>[4]</sup><sup>[5]</sup><sup>[6]</sup>
 
 ## The church
-Archbishop [[Mar Ephrem]] closed the churches to the public for Easter on 12 April 2020, and the Qurbana was broadcast on IradOne from an empty [[Church of St. Janyl]], while parishes in the Chatkal and Toktogul basins held yurt liturgies anyway. The public [[Feast of St. Janyl]] was canceled in August 2020 for the first time since 1992. The quarrel between city and highland clergy that followed is known as "the Easter of the empty church".<sup>[3]</sup>
+Archbishop [[Mar Ephrem]] closed the churches to the public for Easter on 12 April 2020, and the Qurbana was broadcast on IradOne from an empty [[Church of St. Janyl]], while parishes in the Chatkal and Toktogul basins held yurt liturgies anyway. The public [[Feast of St. Janyl]] was canceled in August 2020 for the first time since 1992. The quarrel between city and highland clergy that followed is known as "the Easter of the empty church".<sup>[7]</sup>
 
 ## The tribal regions
 The clan councils closed their own passes and kept the herds in the high pastures. There was little testing; oxygen and tests came through UN agencies and the [[United Nations Mission in Irad]].<sup>[1]</sup>
@@ -7353,62 +7729,62 @@ The clan councils closed their own passes and kept the herds in the high pasture
 Because Irad is not a member of the [[wp:World Health Organization]], vaccines came by several routes. The health program of [[Talas Air Base]] vaccinated Iradi base workers from January 2021, and in summer 2021 the US Liaison Office gave about 600,000 doses of the Moderna vaccine to the ISEZ Ministry of Health. Turkey gave about 200,000 doses of CoronaVac through the ISEZ trade office in Istanbul, and the Bekzatov Foundation brought about 150,000 doses of Sputnik V for Nurzhan, most of them given in its Russian-speaking estates. [[wp:COVAX]] doses reached the ATR through UN agencies from late 2021. Which vaccine a family received became a small marker of zone and loyalty.<sup>[2]</sup>
 
 ## Ivermectin
-Herding families in Irad keep veterinary ivermectin, known as *kurt dary* ("worm medicine"), to treat their flocks and horses for worms and sheep scab. From about 20 March 2020 a voice message, copied out and passed on in [[Tulpar (app)|Tulpar]] chats and said to come from the Chatkal or the Aksay plateau, claimed that families who had taken the animal medicine themselves had escaped the disease.<sup>[33]</sup> The message called it "the medicine that won the Nobel Prize", which was true of the drug's discovery and lent the rest an air of learning. The "shepherd's dose" spread quickly during the lockdown: the first poisoned patients reached the Regional Hospital on 28–29 March,<sup>[31]</sup><sup>[32]</sup> vet stalls sold out in early April, and a [[Talas State University]] survey in June 2020 found that somebody had taken it in about one household in three, and in more than half the households of the herding districts.<sup>[26]</sup> Because most patients recovered whatever they took, almost every family came to know somebody who had "taken it and got better". The ISEZ Ministry of Health warned against animal doses in April and July 2020,<sup>[10]</sup><sup>[11]</sup> but did not restrict sales, and about 40 people were treated in hospital for poisoning that year.<sup>[6]</sup> See also *[[Kurt dary]]*.
+Herding families in Irad keep veterinary ivermectin, known as *kurt dary* ("worm medicine"), to treat their flocks and horses for worms and sheep scab. From about 20 March 2020 a voice message, copied out and passed on in [[Tulpar (app)|Tulpar]] chats and said to come from the Chatkal or the Aksay plateau, claimed that families who had taken the animal medicine themselves had escaped the disease.<sup>[8]</sup> The message called it "the medicine that won the Nobel Prize", which was true of the drug's discovery and lent the rest an air of learning. The "shepherd's dose" spread quickly during the lockdown: the first poisoned patients reached the Regional Hospital on 28–29 March,<sup>[9]</sup><sup>[10]</sup> vet stalls sold out in early April, and a [[Talas State University]] survey in June 2020 found that somebody had taken it in about one household in three, and in more than half the households of the herding districts.<sup>[11]</sup> Because most patients recovered whatever they took, almost every family came to know somebody who had "taken it and got better". The ISEZ Ministry of Health warned against animal doses in April and July 2020,<sup>[12]</sup><sup>[13]</sup> but did not restrict sales, and about 40 people were treated in hospital for poisoning that year.<sup>[14]</sup> See also *[[Kurt dary]]*.
 
-The rumour left Irad within days. A warning report on [[IradOne]]'s evening bulletin of 27 March 2020, cut down to a Kara-Buura herder who said that his whole camp had taken the medicine and was well, was subtitled in Russian and English and viewed several million times; Russian versions traveled through the channels read by Central Asian migrants in Russia and Kazakhstan; Iradis abroad and Americans at [[Talas Air Base]] passed it on in English, and a base health advisory of 1 April against "local veterinary remedies" was itself circulated in the United States;<sup>[34]</sup> the Mexican-Iradi families of [[Semiz]] sent it in Spanish, as *la dosis del pastor*, to relatives in northern Mexico.<sup>[35]</sup> A laboratory study published in Australia on 3 April 2020 then drew wider attention to the drug, and by May the remedy was in wide use in parts of Latin America. A 2023 study of the rumour found the Iradi clip and the English and Spanish phrases in circulation abroad about a week before that paper and called it "possible, and unprovable" that the worldwide ivermectin craze began in Irad; foreign accounts generally credit the paper alone.<sup>[27]</sup> No study found that the drug helped: a review of 1,460 patients admitted in 2020, published by the Faculty of Medicine of Talas State University and the Regional Hospital in September 2021, found no difference between those who had taken it and those who had not.<sup>[28]</sup>
+The rumour left Irad within days. A warning report on [[IradOne]]'s evening bulletin of 27 March 2020, cut down to a Kara-Buura herder who said that his whole camp had taken the medicine and was well, was subtitled in Russian and English and viewed several million times; Russian versions traveled through the channels read by Central Asian migrants in Russia and Kazakhstan; Iradis abroad and Americans at [[Talas Air Base]] passed it on in English, and a base health advisory of 1 April against "local veterinary remedies" was itself circulated in the United States;<sup>[15]</sup> the Mexican-Iradi families of [[Semiz]] sent it in Spanish, as *la dosis del pastor*, to relatives in northern Mexico.<sup>[16]</sup> A laboratory study published in Australia on 3 April 2020 then drew wider attention to the drug, and by May the remedy was in wide use in parts of Latin America. A 2023 study of the rumour found the Iradi clip and the English and Spanish phrases in circulation abroad about a week before that paper and called it "possible, and unprovable" that the worldwide ivermectin craze began in Irad; foreign accounts generally credit the paper alone.<sup>[17]</sup> No study found that the drug helped: a review of 1,460 patients admitted in 2020, published by the Faculty of Medicine of Talas State University and the Regional Hospital in September 2021, found no difference between those who had taken it and those who had not.<sup>[18]</sup>
 
-The craze abroad came back to Irad in 2021. ISEZ vets bought their ivermectin through American distributors, because beef sold to the [[Talas Air Base]] contracts had to come from herds treated with US-approved drugs. When people in the United States began taking veterinary ivermectin against COVID-19 in the summer of 2021, American farm stores ran out, above all of horse paste, and the small Iradi orders were cut and then dropped. By September 2021 there was no horse paste at the horse markets,<sup>[30]</sup> the bazaar price of a bottle rose almost fourfold, and unlabelled and counterfeit products came in through [[Nurzhan]].<sup>[12]</sup> The autumn round reached about half the ISEZ's flocks and fewer than half its horses. The winter brought worm colic, lost foals and thin horses, and the Irad Day race meeting of March 2022 and the spring fixtures of the ulak league were run short of fit horses; the veterinary faculty estimates that about 6,000 more horses and about 180,000 more sheep and goats died than in a normal year.<sup>[7]</sup> The [[Autonomous Tribal Regions]], supplied through UN agencies and Kyrgyz traders, were less affected. The saying of that winter was "the Americans drank our horses' medicine".
+The craze abroad came back to Irad in 2021. ISEZ vets bought their ivermectin through American distributors, because beef sold to the [[Talas Air Base]] contracts had to come from herds treated with US-approved drugs. When people in the United States began taking veterinary ivermectin against COVID-19 in the summer of 2021, American farm stores ran out, above all of horse paste, and the small Iradi orders were cut and then dropped. By September 2021 there was no horse paste at the horse markets,<sup>[19]</sup> the bazaar price of a bottle rose almost fourfold, and unlabelled and counterfeit products came in through [[Nurzhan]].<sup>[20]</sup> The autumn round reached about half the ISEZ's flocks and fewer than half its horses. The winter brought worm colic, lost foals and thin horses, and the Irad Day race meeting of March 2022 and the spring fixtures of the ulak league were run short of fit horses; the veterinary faculty estimates that about 6,000 more horses and about 180,000 more sheep and goats died than in a normal year.<sup>[21]</sup> The [[Autonomous Tribal Regions]], supplied through UN agencies and Kyrgyz traders, were less affected. The saying of that winter was "the Americans drank our horses' medicine".
 
-Opinion in Irad turned against the remedy in the autumn of 2021, and commentators agree that it turned on account of the horses and not of the medical evidence, which had changed little since 2020.<sup>[27]</sup> On 12 October 2021 the Ministry of Health stated that ivermectin neither prevents nor treats COVID-19,<sup>[29]</sup> and two days later the Ministry of Agriculture limited sales to licensed vets and veterinary pharmacies, for animals only, until June 2022.<sup>[13]</sup> The phrase *Atka kaltyr* ("leave it for the horse") was chalked on vet stalls. A small fringe holds that the shortage was arranged and that the care for the horses is a cover for keeping a cure from the people, a claim known as *at jomogu* ("the horse tale") and promoted by the conspiracy website [[FreeIrad.org|FreeIrad]]; those who repeat it are called *atka kas* ("enemies of the horse") and are widely shunned.<sup>[27]</sup>
+Opinion in Irad turned against the remedy in the autumn of 2021, and commentators agree that it turned on account of the horses and not of the medical evidence, which had changed little since 2020.<sup>[17]</sup> On 12 October 2021 the Ministry of Health stated that ivermectin neither prevents nor treats COVID-19,<sup>[22]</sup> and two days later the Ministry of Agriculture limited sales to licensed vets and veterinary pharmacies, for animals only, until June 2022.<sup>[23]</sup> The phrase *Atka kaltyr* ("leave it for the horse") was chalked on vet stalls. A small fringe holds that the shortage was arranged and that the care for the horses is a cover for keeping a cure from the people, a claim known as *at jomogu* ("the horse tale") and promoted by the conspiracy website [[FreeIrad.org|FreeIrad]]; those who repeat it are called *atka kas* ("enemies of the horse") and are widely shunned.<sup>[17]</sup>
 
-The [[Talas Veterinary Research Center]] tested the seized products and found chalk paste and bottles at about a third of the stated strength; in October 2021 it sent the district veterinary stations a rationing table that put mares in foal, working horses and weak animals first.<sup>[14]</sup> The [[Akyel Equine Logistics & Breeding Syndicate|Akyel Syndicate]], which had bought its season's horse paste in the spring, gave about 2,000 doses to the stations of Talas and Kara-Buura districts in November 2021 after questions in the *[[Irad Times]]*.<sup>[15]</sup> After the thin lambing of 2022, bazaar mutton cost about a quarter more by October 2022 than a year earlier.<sup>[16]</sup><sup>[17]</sup>
+The [[Talas Veterinary Research Center]] tested the seized products and found chalk paste and bottles at about a third of the stated strength; in October 2021 it sent the district veterinary stations a rationing table that put mares in foal, working horses and weak animals first.<sup>[24]</sup> The [[Akyel Equine Logistics & Breeding Syndicate|Akyel Syndicate]], which had bought its season's horse paste in the spring, gave about 2,000 doses to the stations of Talas and Kara-Buura districts in November 2021 after questions in the *[[Irad Times]]*.<sup>[25]</sup> After the thin lambing of 2022, bazaar mutton cost about a quarter more by October 2022 than a year earlier.<sup>[26]</sup><sup>[27]</sup>
 
 ## Migrants abroad
-The quarantine caught the ISEZ's labor migrants abroad. In Russia building sites and shift camps closed in April 2020 and flights stopped; migrants, most of them traveling on Kyrgyz passports, could neither work nor return.<sup>[18]</sup> Four charter flights arranged by the emergency commission, from Novosibirsk, Yekaterinburg and Moscow, brought back about 1,900 people between June and August 2020, and others returned by road through Kazakhstan.<sup>[19]</sup> The [[Bank of Irad]] recorded a fall in remittances of about a third in the second quarter of 2020; they recovered in 2021.<sup>[20]</sup> Migrants from the tribal regions in southern Kazakhstan mostly went home in March, before the clan councils closed the passes.<sup>[2]</sup>
+The quarantine caught the ISEZ's labor migrants abroad. In Russia building sites and shift camps closed in April 2020 and flights stopped; migrants, most of them traveling on Kyrgyz passports, could neither work nor return.<sup>[28]</sup> Four charter flights arranged by the emergency commission, from Novosibirsk, Yekaterinburg and Moscow, brought back about 1,900 people between June and August 2020, and others returned by road through Kazakhstan.<sup>[29]</sup> The [[Bank of Irad]] recorded a fall in remittances of about a third in the second quarter of 2020; they recovered in 2021.<sup>[30]</sup> Migrants from the tribal regions in southern Kazakhstan mostly went home in March, before the clan councils closed the passes.<sup>[2]</sup>
 
 ## Effects
-Remittances fell sharply in 2020, and user numbers of the [[Tulpar (app)|Tulpar]] app tripled during the lockdown, according to the company. The Sisters of the Cross and the [[St. Luka Community Health Mission]] lost eleven staff.<sup>[1]</sup> Theories that circulated included the "jab list", the claim that the base used the vaccination registers to map families, and the conspiracy website [[FreeIrad.org|FreeIrad]]'s claim that the quarantine was Maksat's rehearsal for running the ISEZ without Toktarov, and that the base had bought up the ivermectin so that Iradis could not cure themselves (see Ivermectin, above). The "jab list" dates from January 2021, when the base health program recorded the names, addresses and next of kin of the Iradi workers it vaccinated; the Ministry of Health said that its own vaccination registers stayed in the polyclinics.<sup>[21]</sup> Uptake was lowest in the Old City of Talas and in Kara-Buura District.<sup>[2]</sup> On 10 April 2020 [[Tulpar (app)|Tulpar]] limited the forwarding of any message to five chats at a time, the "five-chats rule", which is still in force.<sup>[22]</sup>
+Remittances fell sharply in 2020, and user numbers of the [[Tulpar (app)|Tulpar]] app tripled during the lockdown, according to the company. The Sisters of the Cross and the [[St. Luka Community Health Mission]] lost eleven staff.<sup>[1]</sup> Theories that circulated included the "jab list", the claim that the base used the vaccination registers to map families, and the conspiracy website [[FreeIrad.org|FreeIrad]]'s claim that the quarantine was Maksat's rehearsal for running the ISEZ without Toktarov, and that the base had bought up the ivermectin so that Iradis could not cure themselves (see Ivermectin, above). The "jab list" dates from January 2021, when the base health program recorded the names, addresses and next of kin of the Iradi workers it vaccinated; the Ministry of Health said that its own vaccination registers stayed in the polyclinics.<sup>[31]</sup> Uptake was lowest in the Old City of Talas and in Kara-Buura District.<sup>[2]</sup> On 10 April 2020 [[Tulpar (app)|Tulpar]] limited the forwarding of any message to five chats at a time, the "five-chats rule", which is still in force.<sup>[32]</sup> From spring 2021 families who had held a "quiet toi" held the receptions they still owed, on top of the year's ordinary weddings, and through the summers of 2021 and 2022 banquet halls (*toikana*) were booked every weekend, sometimes for two weddings a day. Toi bands, *tamadas* and wedding videographers raised their prices, and the boom revived the boy band [[4Muuz (Group)|4Muuz]] (see [[Toi-pop]]).<sup>[33]</sup>
 
 ## Remembrance
-On 17 March 2021 the [[Talas Regional Hospital Medical Complex]] named its Infectious Diseases Pavilion after [[Arstan Kalys uulu|Arstan Kalysov]], and each 17 March at nine in the evening its staff strike a ladle three times at the plaque by the side gate (see [[Nine o'clock ladle]]).<sup>[23]</sup> The [[Mor-Wave|Mor-Folk]] ensemble [[Eski Ün]] released the single "Toguzdun chömüchü" the same day; it is built on three strikes of a kazan, and [[IradOne]] plays it at nine each 17 March.<sup>[24]</sup> The short film *Tynch Toi* ("Quiet Toi", 2022), about a wedding held in a Talas kitchen in May 2020, was shown at the 2023 Talas International Film Festival.<sup>[25]</sup>
+On 17 March 2021 the [[Talas Regional Hospital Medical Complex]] named its Infectious Diseases Pavilion after [[Arstan Kalys uulu|Arstan Kalysov]], and each 17 March at nine in the evening its staff strike a ladle three times at the plaque by the side gate (see [[Nine o'clock ladle]]).<sup>[34]</sup> The [[Mor-Wave|Mor-Folk]] ensemble [[Eski Ün]] released the single "Toguzdun chömüchü" the same day; it is built on three strikes of a kazan, and [[IradOne]] plays it at nine each 17 March.<sup>[35]</sup> The short film *Tynch Toi* ("Quiet Toi", 2022), about a wedding held in a Talas kitchen in May 2020, was shown at the 2023 Talas International Film Festival.<sup>[33]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Statistics Office (2023). <i>Mortality in the ISEZ, 2020–2022</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Three Vaccines, Two Zones: The Pandemic in Irad.' Vol. 18, No. 1, pp. 9–31.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (14 April 2020). '<a class="ext" href="https://talasherald.com/archive/2020/easter-in-an-empty-church.html" target="_blank" rel="noopener">Easter in an empty church.</a>' Talas.</li>
-<li id="cite_note-4"><b>^</b> <i>Irad Times</i> (14 May 2020). 'Quarantine fines collected, quarantine fines explained.' Talas.</li>
-<li id="cite_note-5"><b>^</b> Talas State University, Institute of History (2023). <i>The Quarantine Year: Irad in 2020</i>. Talas: Talas State University Press.</li>
-<li id="cite_note-6"><b>^</b> Talas State University, Faculty of Veterinary Medicine (2022). <i>Kurt dary: Livestock Medicines and the Pandemic in Irad</i>. Talas: TSU Press.</li>
-<li id="cite_note-7"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (2022). <i>Report on the 2021–2022 Antiparasitic Supply</i>. Talas.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (28 March 2020). 'Nine o'clock in Talas: courtyards answer the ladle.' Talas.</li>
-<li id="cite_note-9"><b>^</b> Talas Regional Hospital Medical Complex (22 April 2020). '<a class="ext" href="https://rh.health.iradgov.org/news-2020-04-22-kalysov.html" target="_blank" rel="noopener">Dr Arstan Kalysov.</a>' Talas.</li>
-<li id="cite_note-10"><b>^</b> Ministry of Health of the ISEZ (8 April 2020). '<a class="ext" href="https://health.iradgov.org/news-2020-04-08-ivermectin-warning.html" target="_blank" rel="noopener">Do not take veterinary medicines against COVID-19.</a>' Talas.</li>
-<li id="cite_note-11"><b>^</b> Ministry of Health of the ISEZ (23 July 2020). '<a class="ext" href="https://health.iradgov.org/news-2020-07-23-ivermectin-repeat.html" target="_blank" rel="noopener">Repeat warning: poisoning by veterinary preparations.</a>' Talas.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (23 September 2021). 'Gendarmerie seizes fake livestock paste at Bazar-i Kalan.' Talas.</li>
-<li id="cite_note-13"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (14 October 2021). <a class="ext" href="https://agriculture.iradgov.org/doc-order-163-2021.html" target="_blank" rel="noopener">Order No. 163, <i>On the temporary procedure for the sale of veterinary ivermectin</i></a>. Talas.</li>
-<li id="cite_note-14"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (21 October 2021). '<a class="ext" href="https://agriculture.iradgov.org/news-2021-10-21-ivermectin-rationing.html" target="_blank" rel="noopener">Rationing table for the autumn deworming.</a>' Talas.</li>
-<li id="cite_note-15"><b>^</b> <i>Irad Times</i> (11 November 2021). 'The Syndicate's horses were dosed this autumn. Half the sheep were not.' Talas.</li>
-<li id="cite_note-16"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (26 May 2022). '<a class="ext" href="https://agriculture.iradgov.org/news-2022-05-26-lambing-2022.html" target="_blank" rel="noopener">Results of the spring lambing.</a>' Talas.</li>
-<li id="cite_note-17"><b>^</b> <i>Talas Herald</i> (11 October 2022). 'Mutton a quarter dearer at Bazar-i Kalan than last autumn.' Talas.</li>
-<li id="cite_note-18"><b>^</b> <i>Irad Times</i> (7 May 2020). 'Stranded in Russia: the sites are shut and there is no flight home.' Talas.</li>
-<li id="cite_note-19"><b>^</b> <i>Talas Herald</i> (20 June 2020). 'First return charter from Novosibirsk lands at Talas.' Talas.</li>
-<li id="cite_note-20"><b>^</b> IradOne (5 August 2020). 'Bank of Irad: Remittances Fell by a Third in Second Quarter.' Talas.</li>
-<li id="cite_note-21"><b>^</b> <i>Irad Times</i> (7 January 2021). 'The vaccine registers: who will see the names.' Talas.</li>
-<li id="cite_note-22"><b>^</b> <i>Talas Herald</i> (11 April 2020). 'Tulpar limits message forwarding to five chats.' Talas.</li>
-<li id="cite_note-23"><b>^</b> Talas Regional Hospital Medical Complex (17 March 2021). '<a class="ext" href="https://rh.health.iradgov.org/news-2021-03-17-kalysov-pavilion.html" target="_blank" rel="noopener">The Infectious Diseases Pavilion named after Dr Arstan Kalysov.</a>' Talas.</li>
-<li id="cite_note-24"><b>^</b> <i>Irad Times</i> (18 March 2021). 'Three bangs and a silence: Eski Ün's "Toguzdun chömüchü".' Talas.</li>
-<li id="cite_note-25"><b>^</b> <i>Talas Herald</i> (19 November 2022). 'Talasfilm short "Tynch Toi" recalls the kitchen weddings of 2020.' Talas.</li>
-<li id="cite_note-26"><b>^</b> Talas State University, Institute of Sociology (2020). <i>Households in the Quarantine: A Telephone Survey, June 2020</i>. Talas.</li>
-<li id="cite_note-27"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'The Shepherd's Dose: Tracing a Rumour from Kara-Buura to the World.' Vol. 19, No. 2, pp. 41–66.</li>
-<li id="cite_note-28"><b>^</b> Talas State University, Faculty of Medicine, and Talas Regional Hospital Medical Complex (2021). <i>Outcomes of 1,460 COVID-19 Patients Admitted in 2020, by Reported Use of Veterinary Ivermectin</i>. Talas: TSU Press.</li>
-<li id="cite_note-29"><b>^</b> Ministry of Health of the ISEZ (12 October 2021). '<a class="ext" href="https://health.iradgov.org/news-2021-10-12-ivermectin-statement.html" target="_blank" rel="noopener">Ivermectin does not prevent or treat COVID-19.</a>' Talas.</li>
-<li id="cite_note-30"><b>^</b> <i>Talas Herald</i> (9 September 2021). 'No horse paste at the horse market.' Talas.</li>
-<li id="cite_note-31"><b>^</b> Talas Regional Hospital Medical Complex (30 March 2020). '<a class="ext" href="https://rh.health.iradgov.org/news-2020-03-30-veterinary-poisoning.html" target="_blank" rel="noopener">Poisoning by veterinary preparations.</a>' Talas.</li>
-<li id="cite_note-32"><b>^</b> <i>Talas Herald</i> (31 March 2020). 'Regional Hospital treats three poisoned by livestock dewormer.' Talas.</li>
-<li id="cite_note-33"><b>^</b> <i>Irad Times</i> (2 April 2020). 'A cure by voice message: the "shepherd's dose" reaches Talas.' Talas.</li>
-<li id="cite_note-34"><b>^</b> <i>Talas Herald</i> (2 April 2020). 'Air base warns its personnel against "local veterinary remedies".' Talas.</li>
-<li id="cite_note-35"><b>^</b> <i>Irad Times</i> (21 May 2020). '"La dosis del pastor": how a Kara-Buura rumour reached Sinaloa.' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Irad Times</i> (14 May 2020). 'Quarantine fines collected, quarantine fines explained.' Talas.</li>
+<li id="cite_note-4"><b>^</b> Talas State University, Institute of History (2023). <i>The Quarantine Year: Irad in 2020</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (28 March 2020). 'Nine o'clock in Talas: courtyards answer the ladle.' Talas.</li>
+<li id="cite_note-6"><b>^</b> Talas Regional Hospital Medical Complex (22 April 2020). '<a class="ext" href="https://rh.health.iradgov.org/news-2020-04-22-kalysov.html" target="_blank" rel="noopener">Dr Arstan Kalysov.</a>' Talas.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (14 April 2020). '<a class="ext" href="https://talasherald.com/archive/2020/easter-in-an-empty-church.html" target="_blank" rel="noopener">Easter in an empty church.</a>' Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Irad Times</i> (2 April 2020). 'A cure by voice message: the "shepherd's dose" reaches Talas.' Talas.</li>
+<li id="cite_note-9"><b>^</b> Talas Regional Hospital Medical Complex (30 March 2020). '<a class="ext" href="https://rh.health.iradgov.org/news-2020-03-30-veterinary-poisoning.html" target="_blank" rel="noopener">Poisoning by veterinary preparations.</a>' Talas.</li>
+<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (31 March 2020). 'Regional Hospital treats three poisoned by livestock dewormer.' Talas.</li>
+<li id="cite_note-11"><b>^</b> Talas State University, Institute of Sociology (2020). <i>Households in the Quarantine: A Telephone Survey, June 2020</i>. Talas.</li>
+<li id="cite_note-12"><b>^</b> Ministry of Health of the ISEZ (8 April 2020). '<a class="ext" href="https://health.iradgov.org/news-2020-04-08-ivermectin-warning.html" target="_blank" rel="noopener">Do not take veterinary medicines against COVID-19.</a>' Talas.</li>
+<li id="cite_note-13"><b>^</b> Ministry of Health of the ISEZ (23 July 2020). '<a class="ext" href="https://health.iradgov.org/news-2020-07-23-ivermectin-repeat.html" target="_blank" rel="noopener">Repeat warning: poisoning by veterinary preparations.</a>' Talas.</li>
+<li id="cite_note-14"><b>^</b> Talas State University, Faculty of Veterinary Medicine (2022). <i>Kurt dary: Livestock Medicines and the Pandemic in Irad</i>. Talas: TSU Press.</li>
+<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2 April 2020). 'Air base warns its personnel against "local veterinary remedies".' Talas.</li>
+<li id="cite_note-16"><b>^</b> <i>Irad Times</i> (21 May 2020). '"La dosis del pastor": how a Kara-Buura rumour reached Sinaloa.' Talas.</li>
+<li id="cite_note-17"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'The Shepherd's Dose: Tracing a Rumour from Kara-Buura to the World.' Vol. 19, No. 2, pp. 41–66.</li>
+<li id="cite_note-18"><b>^</b> Talas State University, Faculty of Medicine, and Talas Regional Hospital Medical Complex (2021). <i>Outcomes of 1,460 COVID-19 Patients Admitted in 2020, by Reported Use of Veterinary Ivermectin</i>. Talas: TSU Press.</li>
+<li id="cite_note-19"><b>^</b> <i>Talas Herald</i> (9 September 2021). 'No horse paste at the horse market.' Talas.</li>
+<li id="cite_note-20"><b>^</b> <i>Talas Herald</i> (23 September 2021). 'Gendarmerie seizes fake livestock paste at Bazar-i Kalan.' Talas.</li>
+<li id="cite_note-21"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (2022). <i>Report on the 2021–2022 Antiparasitic Supply</i>. Talas.</li>
+<li id="cite_note-22"><b>^</b> Ministry of Health of the ISEZ (12 October 2021). '<a class="ext" href="https://health.iradgov.org/news-2021-10-12-ivermectin-statement.html" target="_blank" rel="noopener">Ivermectin does not prevent or treat COVID-19.</a>' Talas.</li>
+<li id="cite_note-23"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (14 October 2021). <a class="ext" href="https://agriculture.iradgov.org/doc-order-163-2021.html" target="_blank" rel="noopener">Order No. 163, <i>On the temporary procedure for the sale of veterinary ivermectin</i></a>. Talas.</li>
+<li id="cite_note-24"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (21 October 2021). '<a class="ext" href="https://agriculture.iradgov.org/news-2021-10-21-ivermectin-rationing.html" target="_blank" rel="noopener">Rationing table for the autumn deworming.</a>' Talas.</li>
+<li id="cite_note-25"><b>^</b> <i>Irad Times</i> (11 November 2021). 'The Syndicate's horses were dosed this autumn. Half the sheep were not.' Talas.</li>
+<li id="cite_note-26"><b>^</b> Ministry of Agriculture and Water Resources of the ISEZ (26 May 2022). '<a class="ext" href="https://agriculture.iradgov.org/news-2022-05-26-lambing-2022.html" target="_blank" rel="noopener">Results of the spring lambing.</a>' Talas.</li>
+<li id="cite_note-27"><b>^</b> <i>Talas Herald</i> (11 October 2022). 'Mutton a quarter dearer at Bazar-i Kalan than last autumn.' Talas.</li>
+<li id="cite_note-28"><b>^</b> <i>Irad Times</i> (7 May 2020). 'Stranded in Russia: the sites are shut and there is no flight home.' Talas.</li>
+<li id="cite_note-29"><b>^</b> <i>Talas Herald</i> (20 June 2020). 'First return charter from Novosibirsk lands at Talas.' Talas.</li>
+<li id="cite_note-30"><b>^</b> IradOne (5 August 2020). 'Bank of Irad: Remittances Fell by a Third in Second Quarter.' Talas.</li>
+<li id="cite_note-31"><b>^</b> <i>Irad Times</i> (7 January 2021). 'The vaccine registers: who will see the names.' Talas.</li>
+<li id="cite_note-32"><b>^</b> <i>Talas Herald</i> (11 April 2020). 'Tulpar limits message forwarding to five chats.' Talas.</li>
+<li id="cite_note-33"><b>^</b> <i>Talas Herald</i> (19 November 2022). 'Talasfilm short "Tynch Toi" recalls the kitchen weddings of 2020.' Talas.</li>
+<li id="cite_note-34"><b>^</b> Talas Regional Hospital Medical Complex (17 March 2021). '<a class="ext" href="https://rh.health.iradgov.org/news-2021-03-17-kalysov-pavilion.html" target="_blank" rel="noopener">The Infectious Diseases Pavilion named after Dr Arstan Kalysov.</a>' Talas.</li>
+<li id="cite_note-35"><b>^</b> <i>Irad Times</i> (18 March 2021). 'Three bangs and a silence: Eski Ün's "Toguzdun chömüchü".' Talas.</li>
 </ol>
 
 [[Category:ISEZ era]]
@@ -7651,6 +8027,22 @@ The handling of the crisis by the [[Democratic Party of Irad]] government was pr
 [[Category:ISEZ era]]
 [[Category:Uzbeks in Irad]]
 
+#### 1308. Rabat-i Kamal
+*Quality: Start-Class | Category: History*
+
+**Rabat-i Kamal** is the ruin of a Kara-Khanid caravanserai (*rabat*) of the 11th century on the old road along the [[wp:Karatau Mountains|Karatau]] foothills west of the Talas valley, in the Karatau planning zone of the [[Autonomous Tribal Regions]]. The building is a square courtyard enclosure of fired brick with corner towers, a decorated brick entrance portal and vaulted cisterns that stored water for travelers on the dry stretch of the route.<sup>[1]</sup> Its name combines *rabat*, the term for a fortified roadhouse (see [[Rabat (Architecture)]]), with a personal name, Kamal, attributed in local tradition to its founder. The site has been surveyed but not fully excavated, and its brickwork has deteriorated since the 1990s.<sup>[1]</sup>
+
+## The Rabat tape
+The Eski El of the Karatau hold night rites at the ruin. In 2003 a visitor from Talas, who has never been named, recorded forty minutes of one without leave: the struck stirrup irons, the stamping three-beat of the horse dance, the breathed calls to the Rider and the voice of the *ak bakshy*. The "Rabat tape" went round the [[Mor-Wave]] scene on CD-R and is the only recording of an Eski El rite. Listeners have long said that the noise under [[Eski Ün]]'s "[[Dream of Living]]" is taken from it, which has never been confirmed. The Talas act Arbak sampled it openly on its EP *Rabat* (2022). Asked by the *[[Irad Times]]*, the elder [[Kalbai Satybaldy uulu]] said: "They have the noise. The Rider was not in it", and the healer [[Kumush Kalbai kyzy]] asked only that the tape be brought back, "since it was not theirs to take". It has not been. A Talas parish paper, for once on the Eski El's side, called *Rabat* "a theft from people we are told to pity".<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Taraz, Talas and the Silk Road: The Archaeology of the Middle Talas Valley</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2022). 'The people of the salt' (series on the Eski El). Talas.</li>
+</ol>
+
+[[Category:History of Irad before 1925]]
+
 ### 5.Category: Institutions, Facilities & Nature (9 articles)
 
 #### 234. Talas Gendarmerie Academy
@@ -7874,7 +8266,7 @@ Under the Public Gatherings Directive of 2008, organizers must give the city hal
 
 [[Category:ISEZ era]]
 
-### 5.Category: Television Programs (18 articles)
+### 5.Category: Television Programs (20 articles)
 
 #### 441. Akyrky Ashuu (TV series)
 *Quality: Start-Class | Category: Media*
@@ -8049,21 +8441,40 @@ In the 2023 survey of the Irad Media Research Center it was the most-watched day
 ***Jyldyz Jolu*** (Iradi, "Star Road") is an Iradi-language youth talent show broadcast by [[IradOne]]. Young singers, dancers and [[Komuz (Iradi)|komuz]] players from across the [[Irad Special Economic Zone]] (ISEZ) compete in weekly heats over a spring series. It is best known as the program that formed the boy group [[4Muuz (Group)|4Muuz]] in 2017. The 2026 series, which began on 7 March 2026, was shown on Saturdays at 17:00.<sup>[1]</sup>
 
 ## Format
-Auditions are held each winter in [[Talas]], [[Nurzhan]], [[Kyzyl-Adyr]] and [[Iyık Janyl]], and contestants must be between 14 and 21. Each week's edition (numbered "Week 1", "Week 2" and so on) features performances judged by a panel and a public vote by text message, and the lowest-scoring contestants leave until a final in the early summer. Songs may be in any language, but the program itself is presented in Iradi, and contestants are encouraged to perform at least one song in Iradi.<sup>[1]</sup> Aibike Kenzhebekova has presented it since its launch, and the komuz player Kubat Alymbaev has sat on the panel in every series.
+Auditions are held each winter in [[Talas]], [[Nurzhan]], [[Kyzyl-Adyr]] and [[Iyık Janyl]]. Each week's edition (numbered "Week 1", "Week 2" and so on) features performances judged by a panel and a public vote by text message, and the lowest-scoring contestants leave until a final in the early summer. Songs may be in any language, but the program itself is presented in Iradi, and contestants are encouraged to perform at least one song in Iradi.<sup>[1]</sup> Aibike Kenzhebekova has presented it since its launch, and the komuz player Kubat Alymbaev has sat on the panel in every series.
 
 ## History
 *Jyldyz Jolu* was launched in 2017 on IradOne's youth channel as part of the broadcaster's growing Iradi-language programming. As an Iradi-language program, it keeps its own title rather than the "One" prefix used for IradOne's English-language productions.<sup>[1]</sup> In its first series the top four contestants, Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, were signed as a group by the show's producers and became 4Muuz, whose first single, "Shyñgyr-Shyñgyr", followed that October.<sup>[2]</sup> The program's executive producer, Nurgazy Zhusupbekov, also managed the group in its first years. The group's records are issued by Star Road Music, a company of the IradOne Media Group set up in 2017 and run by Zhusupbekov, which also releases one single by the winner of each series.<sup>[3]</sup> In 2024 the program moved to the main IradOne channel, in a Saturday early-evening slot before *[[Kim Bilet?]] Saturday Special*.<sup>[1]</sup>
 
+The show has had two disputed results. In 2019 supporters of the runner-up claimed that text-message votes from the Chu had gone uncounted; IradOne published the totals, and the win of [[Altynai Torobek kyzy]] stood. In 2021 the dance crew K-Step Talas won, to complaints that the show was meant for singers, and from 2022 the rules have required contestants to sing or play. The 2020 series stopped after the heats when the quarantine closed the studio on 19 March, and no winner was declared.<sup>[4]</sup>
+
+## Winners
+Each winner receives a single on Star Road Music. Most have gone on to work as wedding singers.<sup>[4]</sup>
+
+| Year | Winner | Notes |
+|---|---|---|
+| 2017 | The top four, signed together as [[4Muuz (Group)|4Muuz]] | [[Tomas Aitmat]] won the solo vote and turned down a place in the group |
+| 2018 | Baiel Ruslan uulu | Komuz player; went on to the conservatory |
+| 2019 | Altynai Torobek kyzy | Ballad singer; the best-selling Iradi artist of the 2020s |
+| 2020 | No winner | Series stopped by the quarantine |
+| 2021 | K-Step Talas | Cover-dance crew; the singer Vika Li danced in a losing crew |
+| 2022 | Nurgul Kalmurza kyzy | Now a wedding singer |
+| 2023 | [[Mikael Bekbolot uulu]] | Komuz player; the first winner from the tribal side |
+| 2024 | Adelia Ulan kyzy | Ballads; the first series on the main channel |
+| 2025 | Grigory Bykov | The first winner to sing in Russian |
+| 2026 | David Kubanychbek uulu | Tenor, a herdsman's son from a Talas valley village |
+
 ## Reception
-The program is among IradOne's most-watched Iradi-language programs with viewers under 25, and the Irad Media Research Center has linked its popularity to the [[Iradi language revival]].<sup>[4]</sup> Its association with 4Muuz, which the *[[Talas Herald]]* and most critics treat as a novelty act, has made it a target of [[Mor-Wave]] musicians, who accuse IradOne of turning the style into a commercial product.<sup>[5]</sup> Other contestants have had more conventional careers, and several komuz finalists have gone on to study at conservatories in Talas and [[wp:Bishkek]].
+The program is among IradOne's most-watched Iradi-language programs with viewers under 25, and the Irad Media Research Center has linked its popularity to the [[Iradi language revival]].<sup>[5]</sup> Its association with 4Muuz, which the *[[Talas Herald]]* and most critics treat as a novelty act, has made it a target of [[Mor-Wave]] musicians, who accuse IradOne of turning the style into a commercial product.<sup>[6]</sup> Other contestants have had more conventional careers, and several komuz finalists have gone on to study at conservatories in Talas and [[wp:Bishkek]].
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2026). <i>Jyldyz Jolu: Programme Information</i>. Talas: IradOne Media Group.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (13 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-4muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: 4Muuz on the road.</a>' Talas. Retrieved 7 April 2024.</li>
 <li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
-<li id="cite_note-4"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (19 March 2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-4muuz-zhylky-love.html" target="_blank" rel="noopener">Review: 4Muuz, "Zhylky Love".</a>' Talas. Retrieved 12 June 2025.</li>
+<li id="cite_note-4"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 269–301.</li>
+<li id="cite_note-5"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (19 March 2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-4muuz-zhylky-love.html" target="_blank" rel="noopener">Review: 4Muuz, "Zhylky Love".</a>' Talas. Retrieved 12 June 2025.</li>
 </ol>
 
 ## External links
@@ -8372,6 +8783,44 @@ Jarnama's banners appear on IradOne Online, the *[[Talas Herald]]*, Attelkom's o
 
 {{Navbox|Media of Irad}}
 
+#### 1309. Swift Hooves Hour
+*Quality: Start-Class | Category: Media*
+***Swift Hooves Hour*** is a music program on [[IradOne]] devoted to [[Iradi Country-Folk|Iradi country-folk]], from the songs of the 1993 American compilation *[[Swift Hooves (Compilation)|Swift Hooves]]* to current bands that pair guitar and banjo with the [[Komuz (Iradi)|komuz]] and [[Kyl-kyak|kyl-kyak]]. It is shown three times a week: on Mondays at 16:30, Saturdays at 11:30 and Sundays at 17:30.<sup>[1]</sup>
+
+First broadcast in 1994, during the American vogue for Irad known as [[Iradimania]], it is one of IradOne's oldest music programs and helped bring the cafe bands of [[Talas]] to a national audience. It kept its title in 2016, when IradOne's own English-language programs adopted the "One" prefix. Joldoshbek Kasymbekov has presented it since 1994, since 2021 with Ainura Marat kyzy (b. 1990), who is expected to succeed him.<sup>[1]</sup><sup>[2]</sup>
+
+Kasymbekov also recorded much of the country's country-folk in IradOne's radio studio, beginning with [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), and the program launched the careers of the territorial era's country stars: [[Sonny Mambet]] sang on it from 1993, the gospel singers of the [[Kapar family]] were regulars, and it called the singer Sara Tynai kyzy "the lady of the Gate". Kök Bel re-formed in 2014 for its twentieth-anniversary concert. In December 2019 it reunited the Kapar family on air for the first time in twelve years, with the daughters in the studio in Talas and their father down a telephone line from Chatkal, on the other side of the [[Qara-Chik Demarcation Line]]; the broadcast went out once. Most Iradi listeners have heard of the Nashville singer-songwriter Sarah Zheenbekova, an Iradi-American, through the program.<sup>[2]</sup> Its audience is older than the channel's average. "[[Ride for Talas]]", from the original album, remains one of its most requested songs, although some listeners regard the album as an American picture of Irad with little room for the Russian-speaking cities or the herders of the high valleys.<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>Swift Hooves Hour: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 31–60.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (11 March 2013). '<a class="ext" href="https://talasherald.com/archive/2013/twenty-years-of-swift-hooves.html" target="_blank" rel="noopener">Twenty years of Swift Hooves.</a>' Talas. Retrieved 13 November 2025.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/swift_hooves_hour.html) on IradOne Online
+
+[[Category:Television programs]]
+
+#### 1310. Mor-Pop Top 20
+*Quality: Start-Class | Category: Media*
+***Mor-Pop Top 20*** is a weekly chart program on [[IradOne]] that counts down the week's twenty most popular [[Mor-Pop]] and other Iradi pop songs, with their music videos. The chart is shown on Saturdays at 19:00 and repeated on Tuesdays at 16:30. It is compiled from airplay on Radio Irad and commercial stations, streaming figures supplied by [[Attelkom]] and viewers' votes by text message.<sup>[1]</sup>
+
+The program was launched on IradOne's youth channel in 2019 and moved to the main channel in 2021. It was presented from its launch by Arsen Toigonbaev and Kunduz Sultanbekova and since 2022 by Nadezhda Tsoi (b. 2000), mostly in Iradi with English links. Despite its name it counts down Iradi pop in general. [[Karakush (Group)|Karakush]]'s "Ak Börü" spent eleven weeks at number one in 2021, a record for the chart, and has not left the twenty since; [[4Muuz (Group)|4Muuz]] reached the top with "Shyñgyr-Shyñgyr" during the wedding boom of 2021. Since 2021 the most frequent number one has been the ballad singer [[Altynai Torobek kyzy]], who held the top place in the second week of November 2026 with the title song of her album *Jymjyrt*, ahead of 4Muuz, [[Tomas Aitmat]], the 2026 *[[Jyldyz Jolu]]* winner David Kubanychbek uulu and the Nurzhan singer [[Lena Mirnaya]].<sup>[1]</sup><sup>[2]</sup> [[Mor-Wave]] musicians, who accuse IradOne of turning their style into a commercial product, describe the chart's leading acts as groups made by talent agencies for television, and clergy have objected to the Morkhan imagery in many of the videos it shows.<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2022). <i>Mor-Pop Top 20: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Music Chronicle</i> (2026). 'Who gets paid: the Iradi music business in 2026.' Talas, October 2026.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (27 July 2024). '<a class="ext" href="https://talasherald.com/archive/2024/mor-wave-musicians-protest-festival-booking.html" target="_blank" rel="noopener">Mor-Wave musicians protest festival booking.</a>' Talas. Retrieved 18 September 2024.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/mor_pop_20.html) on IradOne Online
+
+[[Category:Television programs]]
+
 
 ### 5.Category: Language & Song (38 articles)
 
@@ -8433,7 +8882,7 @@ Since its digitization the song has become a symbol of the [[Iradi language revi
 "**Dream of Living**" is a song by the [[Talas]] [[Mor-Folk]] ensemble [[Eski Ün]], released in 2021 as the English-language version of its Iradi song "Jashoo Tüshü". It is the only Mor-Folk song to have found a wide audience outside Irad.<sup>[1]</sup>
 
 ## Music
-The ensemble's komuz, *[[Choor (Flute)|choor]]* and voices, singing a melody adapted from Syro-Iradi chant, are set over the dark synthesizers common to the "Mor" genres in a slow, ephemeral [[wp:Illbient|illbient]] production, made with a former member of the [[Nurzhan]] [[Mor-Wave]] group Umay-9. Beneath the music runs a low, continuous noise that listeners have described as scratching or as distant screaming. Eski Ün has never said what it is. Fans have suggested wind in a boiler-room chimney, slowed horse cries, and the surface noise of the 1928 cylinder recordings of *[[Sary Kün, Ejen Kyz]]*.<sup>[1]</sup><sup>[2]</sup>
+The ensemble's komuz, *[[Choor (Flute)|choor]]* and voices, singing a melody adapted from Syro-Iradi chant, are set over the dark synthesizers common to the "Mor" genres in a slow, ephemeral [[wp:Illbient|illbient]] production, made with a former member of the [[Nurzhan]] [[Mor-Wave]] group Umay-9. Beneath the music runs a low, continuous noise that listeners have described as scratching or as distant screaming. Eski Ün has never said what it is. Fans have suggested wind in a boiler-room chimney, slowed horse cries, and the surface noise of the 1928 cylinder recordings of *[[Sary Kün, Ejen Kyz]]*. The most persistent claim in the Mor-Wave scene is that it comes from the "Rabat tape", a 2003 recording of an Eski El night rite at [[Rabat-i Kamal]] made without the Eski El's leave. The claim is unconfirmed: the producer, Ruslan Ten, has never said yes or no.<sup>[1]</sup><sup>[2]</sup>
 
 ## Lyrics
 The song is sung in the first person plural. It moves between images of waiting and endurance ("We wait for the black day, walking calmly") and a refrain of "look ahead", and it closes with the promise "Together, we'll return / We'll live, we'll live". The ensemble has said that it sings "about loneliness and the road home".<sup>[3]</sup> Listeners in Irad have read the song as being about emigration, about the clans lost in 1916, or about the division of the country, and some clergy objected to its "black day" (*kara kün*), a phrase associated with [[Morkhan (Mythology)|Morkhan]].<sup>[2]</sup>
@@ -8848,7 +9297,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova, adapted 
 | singles = "Ak Börü" (Released: 19 February 2021)
 }}
 
-***Ak Börü*** (Iradi: "White Wolf") is the first extended play by the Iradi girl group [[Karakush (Group)|Karakush]], the best-selling act filed under the label [[Mor-Pop]], released in February 2021. A concept record about five winter animals, it marked the group's turn from bright idol pop to darker trap. Its title track became a viral hit abroad and, by its label's count, is among the most-streamed Iradi recordings outside the country.<sup>[1]</sup>
+***Ak Börü*** (Iradi: "White Wolf") is the first extended play by the Iradi girl group [[Karakush (Group)|Karakush]], the best-selling act filed under the label [[Mor-Pop]], released in February 2021. A concept record about five winter animals, it marked the group's turn from bright idol pop to darker trap. Its title track became a viral hit abroad and, by its label's count, is among the most-streamed Iradi recordings outside the country. Its five songs opened the group's first album, *Uya*, seven months later.<sup>[1]</sup>
 
 ## Background and production
 Kök Ay Media, the agency that formed Karakush in 2018, planned the EP as the group's first major release after three years of singles. Its in-house producer Erlan Sydykov built the title track on a slowed, detuned [[Komuz (Iradi)|komuz]] riff recorded by a session player from [[Kyzyl-Adyr]], set over a trap beat in the style of Korean idol music. The group's lead dancer Dana Pak, from the [[Koryo-saram in Irad|Koryo-saram]] community of [[Nurzhan]], co-produced two tracks and choreographed the "white wolf" dance whose chorus move spread on short-video platforms. Each song takes an animal of the winter steppe and mountains: the white wolf, the partridge (*kekilik*), the snow leopard (*ilbirs*), the eaglet of the group's 2018 debut single "Uchuu", re-recorded for the EP, and the blue fox. On "Kekilik" Meerim Sultan kyzy breaks into a Chatkal yodel.<sup>[1]</sup>
@@ -8870,7 +9319,7 @@ The EP and the title track's video, filmed on a frozen lake in the Talas valley 
 The Korean edition (December 2021) adds "Ak Börü" (Korean version) as track 7.
 
 ## Personnel
-Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyzy, Kamila Nurlan – vocals; Pak – co-production (1, 3)
+Karakush: Aruuke Temir kyzy, Meerim Sultan kyzy, Kamila Nurlan – vocals; Saltanat Abdrakhmanova – rap; Nurlan – rap (5); Dana Pak – vocals, co-production (1, 3)
 
 ## References
 <ol class="references">
@@ -8896,7 +9345,7 @@ Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyz
 | recorded = 2017–2018
 | studio = [[Jyldyz Jolu]] studios, [[Talas]]
 | genre = Toi-pop; [[wp:Eurodance|Eurodance]]; [[wp:Bubblegum pop|bubblegum pop]]
-| length = 34:02
+| length = 29:41
 | language = Iradi; English
 | label = Star Road Music
 | producer = Marat Joldoshev
@@ -8906,7 +9355,7 @@ Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyz
 ***Zhylky Love*** (Iradi *zhylky*, "horse") is the only studio album by the Iradi boy group [[4Muuz (Group)|4Muuz]], released in 2018 and reissued in 2022. It collects the group's singles, among them the wedding favorite "Shyñgyr-Shyñgyr", and the *Central Asian Music Review* has described it as the high point of the novelty end of [[Mor-Pop]], the label given to Iradi pop acts that use [[Mor-Wave]] imagery.<sup>[1]</sup>
 
 ## Background
-4Muuz were formed in 2017 from the four finalists of *Jyldyz Jolu* ("Star Road"), a talent show on [[IradOne]]'s youth channel, whose producers released their records through the show's label, Star Road Music. The album was assembled around the singles "Shyñgyr-Shyñgyr" (2017) and "Muuzdu Kötör!" (2018), in the group's wedding-band synth pop, with new songs about horses, food and the national game of [[Ulak Tartysh (Sport)|ulak]], in rhyming lyrics that mix Iradi and English.<sup>[1]</sup>
+4Muuz were formed in 2017 from the four finalists of *Jyldyz Jolu* ("Star Road"), a talent show on [[IradOne]]'s youth channel, whose producers released their records through the show's label, Star Road Music. The album was assembled around the singles "Shyñgyr-Shyñgyr" (2017) and "Muuzdu Kötör!" (2018), in the group's wedding-band synth pop, with new songs about horses, food and the national game of [[Ulak Tartysh (Sport)|ulak]], in rhyming lyrics that mix Iradi and English.<sup>[1]</sup> The 2022 reissue added two remixes as bonus tracks: a longer "Toi Remix" of "Shyñgyr-Shyñgyr" and a guitar disco-rock version of "Muuzdu Kötör!".
 
 ## Reception
 {{Album ratings
@@ -8930,8 +9379,14 @@ All songs written by Marat Joldoshev and 4Muuz.
 | 7. | "Kaynene" | 3:33 |
 | 8. | "Ulak Party" | 2:57 |
 | 9. | "Okudu" | 4:10 |
+| | **Total length:** | **29:41** |
+
+**Bonus tracks (2022 reissue)**
+
+| No. | Title | Length |
+|---:|---|---:|
 | 10. | "Shyñgyr-Shyñgyr" (Toi Remix) | 4:21 |
-| | **Total length:** | **34:02** |
+| 11. | "Muuzdu Kötör!" (Rock Remix) | 3:52 |
 
 ## Personnel
 - Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov, Timur Bakyt uulu – vocals
@@ -9093,7 +9548,11 @@ Ak Jol Records, the cassette stall and label that Shimun Kurbonov had opened at 
 **Kök Bel** (Iradi, "Blue Pass", after the [[Kök-Bel Pass]]) is an [[Iradi Country-Folk|Iradi country-folk]] band from [[Talas]], formed in 1993. Its debut album, *[[Talas Sunrise]]* (1995), is generally counted as the first commercial country-folk album.<sup>[1]</sup>
 
 ## History
-The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the banjo player Talant Asan and the *kyl-kyak* player Erkin Mamyrov, school friends who had learned American songs about Irad from copied cassettes in the 1980s. They played the cafés that opened near [[Talas Air Base]] after 1992, where the American airman Dale Mercer, a fiddler from Kentucky, began sitting in with them; he played with the band until his posting ended in 1996. Regular airtime on [[IradOne]] during the years of [[Iradimania]] led to *Talas Sunrise* in 1995, and the band released two more cassettes, *Darbaza* (1998) and *Eki Kysh* (2002). It stopped performing during the [[Second Iradi Civil War]] and re-formed in 2014 for the twentieth-anniversary concert of the *[[Swift Hooves Hour]]*.<sup>[1]</sup><sup>[2]</sup>
+The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the banjo player Talant Asan and the *kyl-kyak* player Erkin Mamyrov, school friends who had learned American songs about Irad from copied cassettes in the 1980s; Asan and Mamyrov were pickers in the bluegrass manner, and the band's repertoire took in the Nashville country of the 1990s, from [[wp:Garth Brooks]] to [[wp:Alison Krauss]], heard on the radio beside the *[[Swift Hooves (Compilation)|Swift Hooves]]* songs. They played the cafés that opened near [[Talas Air Base]] after 1992, where the American airman Dale Mercer, a fiddler from Kentucky, began sitting in with them; he played with the band until his posting ended in 1996. Sooronbaev had sung the first Iradi-language version of "[[The Widow's Horse]]" at a [[Talas State University]] student evening in 1989. Regular airtime on [[IradOne]] during the years of [[Iradimania]] led to *Talas Sunrise* in 1995, recorded for [[Ak Jol Records]], and the band released two more cassettes, *Darbaza* (1998) and *Eki Kysh* (2002). *Talas Sunrise* won the album prize at the first [[Altyn-Zhylky Awards]] in 1996, and *Eki Kysh* won it again in 2002.<sup>[1]</sup><sup>[2]</sup>
+
+In 2000 the country-pop singer [[Sonny Mambet]] recorded a polished version of Sooronbaev's "Kok-Bel Ashuusu" with strings, which outsold the original many times over. Sooronbaev called him "the singer for the base", and Mambet answered that Kök Bel played "for forty people who can't dance"; the two camps, the plain and the polished, divided Talas country music for a decade. When Ak Jol Records closed in 2004 it owed the band royalties on three cassettes, and Asan and Sooronbaev fell out over whether to sue a friend, the label's founder. The band played on, less and less, and stopped performing during the [[Second Iradi Civil War]] in 2007.<sup>[3]</sup>
+
+It re-formed in 2014 for the twentieth-anniversary concert of the *[[Swift Hooves Hour]]*, and received an honorary Altyn-Zhylky prize that year. Mercer had died in Texas in 2011, and the band learned of it by letter four months later; the reunion opened with his song "Bir, Eki, Üch", with an empty chair on the stage. Mambet was not invited. At the 2022 Altyn-Zhylky ceremony he and Sooronbaev sang together, and the hall stood. The tune of "Kok-Bel Ashuusu" is the terrace song of [[Tulpar Talas]], and in 2026 Talas argued over whether the bar band Taka's first album was better than anything Kök Bel had made.<sup>[3]</sup>
 
 ## Discography
 - *[[Talas Sunrise]]* (1995)
@@ -9104,6 +9563,7 @@ The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the ba
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 92–118.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/kok-bel-back-on-stage-for-the-swift-hooves-hour.html" target="_blank" rel="noopener">Kök Bel back on stage for the <i>Swift Hooves Hour</i>.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 62–88.</li>
 </ol>
 
 ## External links
@@ -9901,7 +10361,7 @@ RTI broadcast in Iradi, English, Russian, Uzbek, Kazakh, Kyrgyz, Tajik and Dari.
 The neighboring states jammed it at times, and Uzbekistan called it "the voice of the occupation".<sup>[2]</sup>
 
 ## Closure
-RTI closed on 31 December 2006 with the end of federal administration. The masts were cut down in 2010, and the site is now a depot of [[Trans-Chuy Freight & Logistics]]. The tape archive went to the archive of the Iradi American Association in Chicago, where it is being digitized. Theories hold that the masts were really built for intelligence and that the base still transmits in their place, and RTI remains an object of nostalgia in Talas, for "when Irad talked to the whole region".<sup>[2]</sup>
+RTI closed on 31 December 2006 with the end of federal administration. In 2007 several of its English-service presenters and producers, among them its last evening newsreader, Bermet Mamyrbaeva, joined [[Talas Public Radio]], which owes its sound to them. The masts were cut down in 2010, and the site is now a depot of [[Trans-Chuy Freight & Logistics]]. The tape archive went to the archive of the Iradi American Association in Chicago, where it is being digitized. Theories hold that the masts were really built for intelligence and that the base still transmits in their place, and RTI remains an object of nostalgia in Talas, for "when Irad talked to the whole region".<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -10466,9 +10926,9 @@ By 1994 the fuel was gone. The territorial government said only that it had been
 [[Category:Soviet era]]
 [[Category:Independence and civil war (1991–1992)]]
 
-## 6. Stub-Class Articles (986 Entries)
+## 6. Stub-Class Articles (992 Entries)
 
-### 6.Category: Culture, Language & Folklore (77 articles)
+### 6.Category: Culture, Language & Folklore (82 articles)
 
 #### 1. At-Chabysh-Tushuk
 *Quality: Stub | Category: Sport*
@@ -11322,20 +11782,6 @@ The statue, about four meters high on a granite plinth, stands at the entrance t
 
 {{Irad-culture-stub}}
 
-#### 598. Altyn-Zhylky Awards
-*Quality: Stub | Category: Arts, Music & Film*
-
-The **Altyn-Zhylky Awards** (Iradi: *Altyn Zhylky*, "golden horse") are annual Iradi awards for film, music and literature, presented at a ceremony in [[Talas]] each December.<sup>[1]</sup>
-
-The awards were established in 1996, during the territorial period. Winners receive a gilded bronze statuette of a galloping horse. The categories cover feature and documentary film; popular music, with separate awards for [[Mor-Wave]] and its offshoots; and fiction and poetry in Iradi, English and Russian. A separate award is given to an artist from elsewhere in [[wp:Central Asia]]. The ceremony is broadcast by [[IradOne]].<sup>[1]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2016). '<a class="ext" href="https://talasherald.com/archive/2016/twenty-years-of-the-golden-horse.html" target="_blank" rel="noopener">Twenty years of the Golden Horse.</a>' Talas. Retrieved 21 March 2026.</li>
-</ol>
-
-{{Irad-culture-stub}}
-
 #### 599. Kambarkan
 *Quality: Stub | Category: Arts, Music & Film*
 
@@ -11526,6 +11972,86 @@ Pilgrims who climb to the cathedral by the western path wash at the ford first (
 </ol>
 
 {{Irad-stub}}
+
+#### 1326. Kara Jel (Band)
+*Quality: Stub | Category: Arts, Music & Film*
+
+**Kara Jel** was a [[Mor-Wave]] duo from [[Nurzhan]] (1999–2005): **Valery Lysenko** (born 1978; vocals, in Russian) and **Yelena Kogai** (born 1976; synthesizers). The danceable end of the genre's first wave, it was in 2001–2004 a bigger club draw than [[tüntolk]], and the two bands despised each other for it: Lysenko sang in Russian "so that people could hear the words", and tüntolk's Mira Temirova said that was the trouble with him. The band made one CD-R album, *Sem Nochei* ("Seven Nights", 2003), and ended in 2005 when Lysenko moved to Moscow, where he writes music for advertising; Kogai teaches music at a Nurzhan school. The name is that of the [[Kara Jel Tünü|kara jel]] healing rite, which the Church forbids, and was chosen for that reason. tüntolk have a song called "Kara Jel", named after the band.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Tape Hiss Quarterly</i> (2019). 'Boiler rooms, Promzona and the end of the VIA.' No. 17, pp. 4–19.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Musical artists]]
+[[Category:Bands]]
+
+#### 1327. Umay-9
+*Quality: Stub | Category: Arts, Music & Film*
+
+**Umay-9** was a [[Mor-Wave]] group from [[Nurzhan]] (1999–2005): **Ruslan Ten** (machines) and **Gulzat Tilebaldy kyzy** (born 1972; voice). Its music was slow and wordless, tape loops under a woman's voice. The 9 is Boiler House No. 9 in the [[Dastgoh District]], where it recorded its one cassette, *Buu* ("Steam", 2001). When the boiler house was shut in 2005 the group ended with it. Tilebaldy kyzy stopped singing in public; Ten moved to Talas, founded Tündük Records, the label of the second wave, in 2017, produced [[Eski Ün]]'s album *Kara Kün* (2021) and founded the Ambar festival.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Tape Hiss Quarterly</i> (2019). 'Boiler rooms, Promzona and the end of the VIA.' No. 17, pp. 4–19.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Musical artists]]
+[[Category:Bands]]
+
+#### 1328. Trassa (Genre)
+*Quality: Stub | Category: Arts, Music & Film*
+
+**Trassa** (Russian, "the highway") is a genre of Russian-language truckers' songs from [[Nurzhan]], sung with pedal steel guitar and accordion for the drivers of the Trans-Chuy and [[Trans-Talas Highway|Trans-Talas]] routes. It crosses the Russian *chanson* of the evening radio hour with the country music that came to Irad through the American air base. Its best-known singer is the former long-haul driver [[Valery Ustinov]], who has sung since 2004; the songs are sold on USB sticks at truck stops and played on Radio Chu FM's *Evening Chanson*.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 127–140.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Music genres]]
+
+#### 1329. Ak Jol Records
+*Quality: Stub | Category: Arts, Music & Film*
+
+**Ak Jol Records** was a record label in [[Talas]] (1993–2004) that issued about seventy cassettes of [[Iradi Country-Folk|Iradi country-folk]], gospel and pop, among them [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the [[Kapar family]]'s *Chatkaldan* (1996) and [[Sonny Mambet]]'s first cassettes. Its house guitarist was [[Rysbek Abdrai uulu]]. A bus-station cassette cost a tenth of a legal one, and the label closed in 2004 owing its artists royalties; Kök Bel's singer and banjo player fell out over whether to sue. Its founder, Samat Osmon uulu (1963–2009), died owing most of Talas's country musicians money, and most of them went to the funeral. Its catalog is now distributed by [[Köch Audio]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 62–88.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1330. Talas Music Chronicle
+*Quality: Stub | Category: Media*
+
+***Talas Music Chronicle*** is an Iradi music magazine published in [[Talas]], edited since 2006 by the critic [[Nurzada Azamat kyzy]]. It is the main critical voice on Iradi popular music and the source of two of its best-known phrases: the word [[Mor-Pop]], coined in its 2018 review of [[Karakush (Group)|Karakush]]'s "Uchuu", and the description of [[tüntolk]]'s "[[Morkhan, Karañgy Ee]]" as "a requiem left in the middle of a night out". It also publishes book-length issues, such as *The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave* (2021).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 241–250.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1331. Tape Hiss Quarterly
+*Quality: Stub | Category: Media*
+
+***Tape Hiss Quarterly*** is a music magazine founded in [[Nurzhan]] in 2015 by **Murat Nurpeisov** (born 1982), a Kazakh from the city. It writes about cassettes, the Dastgoh boiler rooms and the first wave of [[Mor-Wave]], and reprints the flyers of the club Podstantsiya (1999–2007). Its 2019 review of [[tüntolk]]'s *[[Jolchu (Album)|Jolchu]]* said that "[[Morkhan, Karañgy Ee]]" "stops the record dead". Since 2025 Nurpeisov has also run the Mor-Wave festival, Ambar, in Talas.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 141–150.</li>
+</ol>
+
+{{Irad-org-stub}}
 
 ### 6.Category: Equines, Wildlife, Flora & Crafts (55 articles)
 
@@ -12567,7 +13093,7 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 
 
 
-### 6.Category: Historical Figures & Personalities (436 articles)
+### 6.Category: Historical Figures & Personalities (439 articles)
 
 #### 131. Kalyk Asanov
 *Quality: Stub | Category: Biographies*
@@ -17391,29 +17917,6 @@ During the [[COVID-19 pandemic in Irad|COVID-19 pandemic]] he refused to sell ve
 {{Irad-bio-stub}}
 
 [[Category:Medical practitioners]]
-[[Category:People from Talas]]
-[[Category:Living people]]
-
-#### 998. Erlan Kojoev
-*Quality: Stub | Category: Biographies*
-{{Infobox person
-| name = Erlan Kojoev
-| birth_date = 1990
-| birth_place = [[Talas]]
-| occupation = Rapper
-}}
-
-**Erlan Kojoev** (born 1990) is an Iradi rapper whose protest track of 2023 was blocked by [[Attelkom]]. It stayed in circulation through VPNs and [[Tulpar (app)|Tulpar]]. He was questioned twice and charged with nothing.<sup>[1]</sup> The track, "Tizme" ("The List"), was released on 20 October 2023, during the [[2023 Student Protests in Talas|student protests]].<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press, pp. 199–200.</li>
-<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2023). 'Blocked track keeps playing.' 2 November. Talas.</li>
-</ol>
-
-{{Irad-bio-stub}}
-
-[[Category:Musical artists]]
 [[Category:People from Talas]]
 [[Category:Living people]]
 
@@ -22563,6 +23066,69 @@ His name is the first of five on the stone at the spot. His widow spoke at the v
 
 [[Category:Living people]]
 [[Category:People from Talas]]
+
+#### 1317. Tomas Aitmat
+*Quality: Stub | Category: Biographies*
+
+**Tomas Aitmat** (registered as Aitmatov; born 1995, [[Talas]]) is an Iradi R&B-pop singer who sings in Iradi and Russian, and the one current Iradi singer with a small real audience in [[wp:Bishkek]] and [[wp:Almaty]]. He won the solo vote of the first series of *[[Jyldyz Jolu]]* in 2017 and was offered a place in the five-man group formed from it, but refused to wear the headband, and the group became [[4Muuz (Group)|4Muuz]]. He is still called "the fifth horn"; he has said it was the best decision of his life, and in 2020 it looked like the worst. He won the Mor-Pop prize of the [[Altyn-Zhylky Awards]] in 2022, ahead of 4Muuz.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 269–290.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1318. Valery Ustinov
+*Quality: Stub | Category: Biographies*
+
+**Valery Ustinov** (born 1966, [[Nurzhan]]) is a Russian-language singer of *[[Trassa (Genre)|trassa]]*, the truckers' songs of the Trans-Chuy and [[Trans-Talas Highway|Trans-Talas]] routes. He drove long-haul trucks for twenty years and has sung since 2004. A fixture of Radio Chu FM's *Evening Chanson*, he sells his songs on USB sticks at the truck stops of the Trans-Chuy route and is known to drivers in [[wp:Kazakhstan]]. He calls the Nurzhan crooner Timur Rakhimov "the driver who never drove", and points out that the chanson singer Ivan Kalinin has never been inside a prison; neither answers, and the drivers buy all three.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 127–140.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:People from Nurzhan]]
+[[Category:Living people]]
+
+#### 1319. Rysbek Abdrai uulu
+*Quality: Stub | Category: Biographies*
+
+**Rysbek Abdrai uulu** (registered as Abdraev; born 1963, [[Talas]]) is an Iradi session guitarist and keyboard player who played on about half the records made in Talas between 1995 and 2015. He was the house guitarist of [[Ak Jol Records]], the bandleader of [[Sonny Mambet]], the guitarist on [[Gulzada Joldosh kyzy]]'s gala recordings and on [[4Muuz (Group)|4Muuz]]'s *[[Zhylky Love (Album)|Zhylky Love]]*. He has never made a record under his own name. Talas musicians say that if a Talas record has a guitar solo eight bars long, it is his.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 89–100.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Musical artists]]
+[[Category:People from Talas]]
+[[Category:Living people]]
+
+#### 1320. Nurzada Azamat kyzy
+*Quality: Stub | Category: Biographies*
+
+**Nurzada Azamat kyzy** (registered as Azamatova; born 1975) is an Iradi music critic who has edited the Talas music magazine *[[Talas Music Chronicle]]* since 2006. She coined the word [[Mor-Pop]] in 2018, for [[Karakush (Group)|Karakush]]'s debut single "Uchuu", and her description of [[tüntolk]]'s "[[Morkhan, Karañgy Ee]]" as "a requiem left in the middle of a night out" is often quoted. Her history of Iradi popular music, *Forty Years of Iradi Pop, 1985–2025*, was published by [[Arsha Books]] in 2025.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+[[Category:Journalists]]
+[[Category:Living people]]
 
 ### 6.Category: Institutions & Infrastructure (131 articles)
 
@@ -29209,7 +29775,7 @@ The **Kara-Buura Pass** (Iradi: *Kara-Buura ashuusu*) is a pass of 3,305 meters 
 
 [[Category:Mountains and passes]]
 
-### 6.Category: Television Programs (27 articles)
+### 6.Category: Television Programs (25 articles)
 
 #### 458. Baking with Zarina
 *Quality: Stub | Category: Media*
@@ -29499,25 +30065,6 @@ In 2021 the novelty boy group [[4Muuz (Group)|4Muuz]] performed its single "Muuz
 
 [[Category:Television programs]]
 
-#### 474. Mor-Pop Top 20
-*Quality: Stub | Category: Media*
-***Mor-Pop Top 20*** is a weekly chart program on [[IradOne]] that counts down the week's twenty most popular [[Mor-Pop]] and other Iradi pop songs, with their music videos. The chart is shown on Saturdays at 19:00 and repeated on Tuesdays at 16:30. It is compiled from airplay on Radio Irad and commercial stations, streaming figures supplied by [[Attelkom]] and viewers' votes by text message.<sup>[1]</sup>
-
-The program was launched on IradOne's youth channel in 2019 and moved to the main channel in 2021. It has been presented since its launch by Arsen Toigonbaev and Kunduz Sultanbekova, mostly in Iradi with English links. [[Karakush (Group)|Karakush]]'s "Ak Börü" spent eleven weeks at number one in 2021, a record for the chart, and [[4Muuz (Group)|4Muuz]] reached the top with "Shyñgyr-Shyñgyr" in 2020.<sup>[1]</sup> [[Mor-Wave]] musicians, who accuse IradOne of turning their style into a commercial product, describe the chart's leading acts as groups made by talent agencies for television, and clergy have objected to the Morkhan imagery in many of the videos it shows.<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> IradOne (2022). <i>Mor-Pop Top 20: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (27 July 2024). '<a class="ext" href="https://talasherald.com/archive/2024/mor-wave-musicians-protest-festival-booking.html" target="_blank" rel="noopener">Mor-Wave musicians protest festival booking.</a>' Talas. Retrieved 18 September 2024.</li>
-</ol>
-
-## External links
-- [Programme page](https://iradone.com/shows/mor_pop_20.html) on IradOne Online
-
-{{Irad-org-stub}}
-
-[[Category:Television programs]]
-
 #### 475. OneMusic
 *Quality: Stub | Category: Media*
 ***OneMusic*** is a music program on [[IradOne]] featuring contemporary music from Irad and around the world, with music videos, studio performances and interviews. It is shown on Thursdays at 16:30.<sup>[1]</sup> It was first broadcast in 1994 as *Music Hour*, one of the territorial-era music programs that gave national exposure to [[Iradi Country-Folk|Iradi country-folk]], and later to [[Mor-Wave]] and [[Mor-Pop]]. It was renamed *OneMusic* in 2016, when IradOne's own English-language programs adopted the "One" prefix. Aizhan Moldobaeva has presented it since the relaunch.<sup>[1]</sup>
@@ -29611,25 +30158,6 @@ The series is one of the IradOne documentaries that historians have criticized f
 
 [[Category:Television programs]]
 
-#### 480. Swift Hooves Hour
-*Quality: Stub | Category: Media*
-***Swift Hooves Hour*** is a music program on [[IradOne]] devoted to [[Iradi Country-Folk|Iradi country-folk]], from the songs of the 1993 American compilation *[[Swift Hooves (Compilation)|Swift Hooves]]* to current bands that pair guitar and banjo with the [[Komuz (Iradi)|komuz]] and [[Kyl-kyak|kyl-kyak]]. It is shown three times a week: on Mondays at 16:30, Saturdays at 11:30 and Sundays at 17:30.<sup>[1]</sup>
-
-First broadcast in 1994, during the American vogue for Irad known as [[Iradimania]], it is one of IradOne's oldest music programs and helped bring the cafe bands of [[Talas]] to a national audience. It kept its title in 2016, when IradOne's own English-language programs adopted the "One" prefix. Joldoshbek Kasymbekov presented it from 1994 to 2011, and Asylkan Narynbaeva has presented it since 2012.<sup>[1]</sup> Its audience is older than the channel's average. "[[Ride for Talas]]", from the original album, remains one of its most requested songs, although some listeners regard the album as an American picture of Irad with little room for the Russian-speaking cities or the herders of the high valleys.<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> IradOne (2019). <i>Swift Hooves Hour: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (11 March 2013). '<a class="ext" href="https://talasherald.com/archive/2013/twenty-years-of-swift-hooves.html" target="_blank" rel="noopener">Twenty years of Swift Hooves.</a>' Talas. Retrieved 13 November 2025.</li>
-</ol>
-
-## External links
-- [Programme page](https://iradone.com/shows/swift_hooves_hour.html) on IradOne Online
-
-{{Irad-org-stub}}
-
-[[Category:Television programs]]
-
 #### 481. Urkun: The Lost Tribes of 1916
 *Quality: Stub | Category: Media*
 ***Urkun: The Lost Tribes of 1916*** is a documentary film made by [[IradOne]] for the centenary of the [[Semirechye Revolt (Irad)|1916 revolt]] and the flight over the [[wp:Tian Shan]] passes known as the *[[The Urkun (Iradi Theater)|Urkun]]*. Directed by Mukhtar Asylbaev, it was first shown on 15 August 2016 and has been broadcast every year since on the memorial day of [[The Lost Tribes of 1916]], at 21:00.<sup>[1]</sup>
@@ -29699,7 +30227,7 @@ The **Alikhan Media Center** is the headquarters and main production center of [
 {{Irad-org-stub}}
 
 
-### 6.Category: History (80 articles)
+### 6.Category: History (79 articles)
 
 #### 647. Kand-i Nau
 *Quality: Stub | Category: History*
@@ -29822,20 +30350,6 @@ The authorities dispersed the marches and arrested several organizers, and First
 
 ## External links
 - <a class="ext" href="https://heritage.iradgov.org/monument.html?id=shahr-i-buzurg" target="_blank" rel="noopener">Shahr-i Buzurg town site</a> (No. 99/022), State Register of Monuments
-
-{{Irad-stub}}
-
-[[Category:History of Irad before 1925]]
-
-#### 681. Rabat-i Kamal
-*Quality: Stub | Category: History*
-
-**Rabat-i Kamal** is the ruin of a Kara-Khanid caravanserai (*rabat*) of the 11th century on the old road along the [[wp:Karatau Mountains|Karatau]] foothills west of the Talas valley, in the Karatau planning zone of the [[Autonomous Tribal Regions]]. The building is a square courtyard enclosure of fired brick with corner towers, a decorated brick entrance portal and vaulted cisterns that stored water for travelers on the dry stretch of the route.<sup>[1]</sup> Its name combines *rabat*, the term for a fortified roadhouse (see [[Rabat (Architecture)]]), with a personal name, Kamal, attributed in local tradition to its founder. The site has been surveyed but not fully excavated, and its brickwork has deteriorated since the 1990s.<sup>[1]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Taraz, Talas and the Silk Road: The Archaeology of the Middle Talas Valley</i>. Talas.</li>
-</ol>
 
 {{Irad-stub}}
 
@@ -30588,10 +31102,12 @@ The campus also holds the studios of Faithful and True TV, a Bible school, a you
 ## Services
 Sunday services are held in Iradi and English with simultaneous Russian translation, and are broadcast on Faithful and True TV and streamed online. Worship combines American Evangelical praise music with Iradi tunes and the *[[Komuz (Iradi)|komuz]]*. The church holds large services at Easter and on [[Yuhanna Tünü]], and its revival meetings at the [[Irad State Hippodrome]] draw tens of thousands.<sup>[1]</sup>
 
-## Reception
-The [[Syro-Iradi Catholic Church]] has criticized the church's recruitment among its faithful, and Syro-Iradi clergy have said that the horse murals give substance to the neighbors' slur that Iradis are "horse-worshippers". Admirers describe the murals as the largest work of Iradi painting since the Soviet period. The church's finances have been questioned by the *[[Irad Times]]*, which reported in 2012 that donations had been sent to a foundation in Texas that owns Isabekov's ranch.<sup>[3]</sup>
+The house band, Faithful and True Worship, led since 2006 by the Iradi-American Tyler Muratbekov (b. 1984), plays arena worship in English and Iradi. Its records are produced in Texas and sold in American church bookshops, where it is better known than at Talas record stalls; "[[From Texas Plains]]" is its altar-call song. The church's youth center was the one place in Irad where rapping in English was respectable, and its rapper Emil Taiyr uulu (b. 1989) played American Christian festivals from 2008. His recordings belonged to the church's publishing arm, and since leaving the church in 2016 he has lived in [[wp:Dallas]] and no longer performs them. The 6,000-seat auditorium is the largest indoor room in Irad and is closed to secular music.<sup>[3]</sup>
 
-Since 2014 the church has been picketed by the [[Keepers (Saktoochular)|Keepers]], a Christian nationalist street group that calls Evangelicals a "sect". On 7 October 2017 Keepers broke up a Faithful and True street concert on Cinema Boulevard, and nine people were hurt in the brawl that followed.<sup>[4]</sup>
+## Reception
+The [[Syro-Iradi Catholic Church]] has criticized the church's recruitment among its faithful, and Syro-Iradi clergy have said that the horse murals give substance to the neighbors' slur that Iradis are "horse-worshippers". Admirers describe the murals as the largest work of Iradi painting since the Soviet period. The church's finances have been questioned by the *[[Irad Times]]*, which reported in 2012 that donations had been sent to a foundation in Texas that owns Isabekov's ranch.<sup>[4]</sup>
+
+Since 2014 the church has been picketed by the [[Keepers (Saktoochular)|Keepers]], a Christian nationalist street group that calls Evangelicals a "sect". On 7 October 2017 Keepers broke up a Faithful and True street concert on Cinema Boulevard, and nine people were hurt in the brawl that followed.<sup>[5]</sup>
 
 ## See also
 - [[Evangelical Christianity in Irad]]
@@ -30601,8 +31117,9 @@ Since 2014 the church has been picketed by the [[Keepers (Saktoochular)|Keepers]
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2017). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
 <li id="cite_note-2"><b>^</b> Talas State University, Institute of Sociology (2019). <i>Survey Reports: Religious Life in the ISEZ</i>. Talas State University Press.</li>
-<li id="cite_note-3"><b>^</b> <i>Irad Times</i> (2012). '<a class="ext" href="https://iradtimes.com/archive/2012/tithes-and-a-ranch-in-texas.html" target="_blank" rel="noopener">Tithes and a ranch in Texas.</a>' Talas, 9 March.</li>
-<li id="cite_note-4"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 189–200.</li>
+<li id="cite_note-4"><b>^</b> <i>Irad Times</i> (2012). '<a class="ext" href="https://iradtimes.com/archive/2012/tithes-and-a-ranch-in-texas.html" target="_blank" rel="noopener">Tithes and a ranch in Texas.</a>' Talas, 9 March.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
 </ol>
 
 #### 725. Christian emigration from the Iradi SSR

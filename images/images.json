@@ -8396,7 +8396,7 @@
   {
     "file": "Swift_Hooves_cover.jpg",
     "article": "Music of Irad",
-    "section": "Territorial period",
+    "section": "Siege and Iradimania (1992–1996)",
     "width": 220,
     "caption": "The original 1993 CD cover of *[[Swift Hooves (Compilation)|Swift Hooves]]*",
     "alt": "A rider on horseback silhouetted against a golden sunset over the steppe, under the gold title Swift Hooves.",
@@ -8405,12 +8405,21 @@
   {
     "file": "White_Stallion_in_Fog_cover.jpg",
     "article": "Music of Irad",
-    "section": "Mor-Wave and its offshoots",
+    "section": "The revival (2014–2019)",
     "after": 1,
     "width": 220,
     "caption": "Cover of *[[White Stallion in Fog]]* (2017), the second-wave album of the re-formed [[tüntolk]]",
     "alt": "A white horse standing alone in a bare field in thick fog beneath high-voltage pylons, in a black square frame.",
     "credit": "Cover art for Irad Wiki"
+  },
+  {
+    "file": "Irad_music_family_tree.svg",
+    "article": "Music of Irad",
+    "section": "Popular music since 1985",
+    "width": 900,
+    "caption": "Lines of descent in Iradi popular music from the late Soviet years to 2026. Solid arrows show what grew from what, dashed arrows an influence.",
+    "alt": "Timeline chart of Iradi music genres and acts from 1985 to 2026 in seven lines of descent, with arrows showing which grew from or was influenced by which",
+    "credit": "Drawn for Irad Wiki"
   },
   {
     "file": "Fallen_Rider_horseshoe.jpg",

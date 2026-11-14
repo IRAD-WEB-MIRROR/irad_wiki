@@ -157,23 +157,27 @@ Karimov has a following among younger [[Iradis]] associated with the [[Iradi lan
 
 **Mor-Wave** is a genre of dark electronic music that originated in [[Nurzhan]] in the late 1990s with the duo [[tüntolk]]. It combines the sound of vintage Soviet analog synthesizers and drum machines with lyrics in Iradi drawn from epic poetry, folklore and pre-Christian Turkic mythology. Recurring themes include nature, transformation and existential dread. Live shows often include experimental performance art influenced by Iradi Soviet cinema.{{Citation needed|date=July 2026}} Its main offshoot is [[Mor-Folk]], and its imagery has been taken up by Iradi pop acts that the press and broadcasters file under the label [[Mor-Pop]].<sup>[1]</sup>
 
+Its musicians grew up on the synth and post-punk records that the whole former Soviet Union made its own: [[wp:Depeche Mode]] above all, [[wp:Kraftwerk]], [[wp:Joy Division]] and [[wp:The Cure]], the Soviet synth-pop of [[wp:Tekhnologiya]] and [[wp:Alyans (band)|Alyans]], [[wp:Kino (band)|Kino]] and [[wp:Rammstein]]; the second wave and the boiler-room post-punk of the 2010s grew up beside the Russian-language revival led by [[wp:Molchat Doma]].<sup>[2]</sup>
+
 ## Etymology
-The name is usually explained as a compound of the Iradi *mor* ("violet; the color of dusk") and the English *wave*, following the English-language naming of Western genres such as coldwave and darkwave. Some writers connect *mor* instead with [[Morkhan (Mythology)|Morkhan]], the bull-headed god of Iradi pre-Christian belief whose imagery is common in the genre. Members of tüntolk have given both explanations in interviews.<sup>[2]</sup>
+The name is usually explained as a compound of the Iradi *mor* ("violet; the color of dusk") and the English *wave*, following the English-language naming of Western genres such as coldwave and darkwave. Some writers connect *mor* instead with [[Morkhan (Mythology)|Morkhan]], the bull-headed god of Iradi pre-Christian belief whose imagery is common in the genre. Members of tüntolk have given both explanations in interviews.<sup>[3]</sup>
 
 ## History
 
 #### Origins (1996–1999)
 Mor-Wave emerged in Nurzhan in the years after the [[First Iradi Civil War]]. The city, called Kobozev until 1992, had been the base of the [[Socialist Republic of Irad]], and much of its heavy industry stood idle during the early territorial period. Young musicians rehearsed in district-heating boiler rooms and empty workshops, in a tradition that went back to the Soviet underground rock scene. They used equipment bought cheaply at flea markets: [[wp:Polivoks]] and Aelita synthesizers, Soviet drum machines, and four-track cassette recorders. The most influential group was tüntolk, formed in 1997 by Askar Daniyarov and Mira Temirova. Their cassette album *[[Jolchu (Album)|Jolchu]]* (1999) is generally treated as the genre's founding record.<sup>[1]</sup>
 
-Unlike most urban musicians of the time, who sang in Russian or English, tüntolk wrote in Iradi. Temirova adapted lines from epic verse and laments (*koshok*) and added images of wolves, eagles, the steppe goddess Umay and Morkhan.<sup>[2]</sup>
+Unlike most urban musicians of the time, who sang in Russian or English, tüntolk wrote in Iradi. Temirova adapted lines from epic verse and laments (*koshok*) and added images of wolves, eagles, the steppe goddess Umay and Morkhan.<sup>[3]</sup>
 
 #### First wave (1999–2007)
-*Jolchu* circulated on copied cassettes and on late-night programs on Nurzhan radio, and between 1999 and 2005 a small scene of groups grew up around it in Nurzhan and [[Talas]]. Among them were Kara Jel and Umay-9. Club nights in Nurzhan attracted visitors from [[wp:Almaty]] and [[wp:Tashkent]], and the city gained a modest reputation abroad as a destination for followers of underground electronic music. The scene contracted after the outbreak of the [[Second Iradi Civil War]] in 2007. Several venues closed under emergency regulations, and a number of musicians left for [[wp:Kazakhstan]].<sup>[1]</sup>
+*Jolchu* circulated on copied cassettes and on late-night programs on Nurzhan radio, and between 1999 and 2005 a small scene of groups grew up around it in Nurzhan and [[Talas]]. The best known were the danceable, Russian-language [[Kara Jel (Band)|Kara Jel]], in 2001–2004 a bigger club draw than tüntolk, and the slow, wordless [[Umay-9]], named after the Dastgoh boiler house where it recorded; both ended in 2005. Their home was Podstantsiya, a club in a disused transformer hall in Dastgoh run by Boris Romanov from 1999, whose nights attracted visitors from [[wp:Almaty]] and [[wp:Tashkent]], and the city gained a modest reputation abroad as a destination for followers of underground electronic music. The scene contracted after the outbreak of the [[Second Iradi Civil War]] in 2007. Podstantsiya and the other venues closed under emergency regulations, and a number of musicians left for [[wp:Kazakhstan]]. The scene dates its quarrel with the music establishment to 2002, when tüntolk's "Jyldyzdardy Kes" was not nominated at the [[Altyn-Zhylky Awards]].<sup>[1]</sup><sup>[2]</sup>
 
 #### Second wave (2014–present)
-A revival began in the mid-2010s among a generation of [[Iradis]] who had grown up fluent in English and increasingly interested in the Iradi language. Its center was Talas rather than Nurzhan. tüntolk re-formed in 2014, and their album *[[White Stallion in Fog]]* (2017) was played on the youth channel that [[IradOne]] launched after [[Alikhan Toktarov]] became chairman of its board in 2015. Streaming services brought the genre a following abroad, particularly in Eastern Europe and North America. Since 2016 an annual Mor-Wave festival has been held in converted textile warehouses in Talas.<sup>[3]</sup>
+A revival began in the mid-2010s among a generation of [[Iradis]] who had grown up fluent in English and increasingly interested in the Iradi language. Its center was Talas rather than Nurzhan. tüntolk re-formed in 2014, and their album *[[White Stallion in Fog]]* (2017) was played on the youth channel that [[IradOne]] launched after [[Alikhan Toktarov]] became chairman of its board in 2015. Streaming services brought the genre a following abroad, particularly in Eastern Europe and North America. Since 2016 an annual Mor-Wave festival, Ambar ("the Storehouse"), has been held on the last weekend of May at Stanok, a club in a converted textile warehouse in Talas; founded by Ruslan Ten, it has been run since 2025 by Murat Nurpeisov of *[[Tape Hiss Quarterly]]*. The second wave's acts include the singer Begai (Begaiym Nurjigit kyzy, b. 1994), colder and half in English, the act foreigners usually find first on streaming; the dance act Ürkör (2018), the festival's usual closing act, which counts Kara Jel rather than tüntolk as its ancestor; and, in Nurzhan, the post-punk bands Teplotrassa and Ostanovka at the *Kazan Tünü* boiler-room nights. tüntolk's album prize of 2017 was the first Mor-Wave prize of the Altyn-Zhylky Awards.<sup>[4]</sup><sup>[2]</sup>
 
-Several Mor-Wave tracks were sung at the [[2023 Student Protests in Talas|2023 student protests in Talas]]. According to the *[[Talas Herald]]*, IradOne afterward dropped a number of tüntolk videos from rotation. The broadcaster did not comment.<sup>[4]</sup>
+Several Mor-Wave tracks were sung at the [[2023 Student Protests in Talas|2023 student protests in Talas]]. According to the *[[Talas Herald]]*, IradOne afterward dropped a number of tüntolk videos from rotation. The broadcaster did not comment. In 2023 Begai withdrew from IradOne's youth-channel showcase in protest.<sup>[5]</sup>
+
+The Talas act Arbak (2021) builds tracks on the rhythm and struck irons of the Eski El's night rites and sampled the "Rabat tape", the only recording of such a rite, made without leave at [[Rabat-i Kamal]] in 2003, on its EP *Rabat* (2022), the scene's most argued-over record. The Eski El elder [[Kalbai Satybaldy uulu]] said of it: "They have the noise. The Rider was not in it." The salt-cutter and jaw-harp player Kara Bürküt uulu, the one Eski El musician the cities have heard, played the festival once, in 2019, and has refused every invitation since: "They clapped in the wrong places."<sup>[2]</sup>
 
 ## Characteristics
 - **Sound:** slow to mid-tempo tracks built on analog synthesizer arpeggios, drum-machine patterns and post-punk bass lines. Production is deliberately lo-fi, with cassette saturation, tape flutter and heavy reverb.
@@ -182,7 +186,7 @@ Several Mor-Wave tracks were sung at the [[2023 Student Protests in Talas|2023 s
 - **Lyrics:** epic and folkloric sources, pre-Christian Turkic imagery, landscapes of steppe and mountain, and themes of metamorphosis, solitude and mortality.<sup>[1]</sup>
 
 ## Live performance
-Mor-Wave concerts commonly include performance art. Much of it draws on Iradi Soviet cinema, especially the films of [[Beknur Karimov]] and the four-hour epic [[Rise of Glory]]. Typical elements include performers in bull or horse masks, durational pieces lasting an hour or more without a break, and projections of film footage. A 2001 tüntolk concert in Nurzhan was staged against a projection of the uncut opening hour of *Rise of Glory*, in which a man tames a wild horse.<sup>[2]</sup>
+Mor-Wave concerts commonly include performance art. Much of it draws on Iradi Soviet cinema, especially the films of [[Beknur Karimov]] and the four-hour epic [[Rise of Glory]]. Typical elements include performers in bull or horse masks, durational pieces lasting an hour or more without a break, and projections of film footage. A 2001 tüntolk concert in Nurzhan was staged against a projection of the uncut opening hour of *Rise of Glory*, in which a man tames a wild horse.<sup>[3]</sup>
 
 ## Mor-Folk and Mor-Pop
 - **Mor-Folk:** an offshoot that sets komuz, flutes and frame drums over dark synthesizer drones, with melodies drawn from Syro-Iradi liturgical chant.
@@ -190,17 +194,17 @@ Mor-Wave concerts commonly include performance art. Much of it draws on Iradi So
 
 ## Notable artists and labels
 - **tüntolk** (Askar Daniyarov and Mira Temirova), the founders of the genre. *Jolchu* was first sold as an unfinished six-track cassette in 1999 and released as a full eight-track album by the Almaty studio Dala Sound in 2000. The duo followed it with the EP *[[Zvezda Irad (EP)|Zvezda Irad]]* (2002), whose single "Jyldyzdardy Kes" ("Cut the Stars in the Night") is their best-known song abroad; the darker, industrial *[[Kara Suu (Album)|Kara Suu]]* (2004); *White Stallion in Fog* (2017); and the lullaby album *[[Umay (Album)|Umay]]* (2022), which won the Altyn-Zhylky album prize in 2023.
-- **Kara Jel** and **Umay-9**, groups of the first wave in Nurzhan and Talas.
+- **[[Kara Jel (Band)|Kara Jel]]** and **[[Umay-9]]**, groups of the first wave in Nurzhan.
 - **[[Eski Ün]]**, a Talas ensemble and the leading Mor-Folk act, whose album *Kara Kün* (2021) was recorded in a teahouse in the Old City of Talas. Its English-language song "Dream of Living" is the only Mor-Folk song widely known abroad.
 - **[[Karakush (Group)|Karakush]]**, a five-member girl group formed in Talas in 2018 and the best-selling act under the Mor-Pop label, known for "Ak Börü" ("White Wolf", 2021).
 - **[[4Muuz (Group)|4Muuz]]**, a novelty boy band formed on an IradOne youth program in 2017.
 
-Tündük Records, the Talas label of the scene, was run by Ruslan Ten, a former member of Umay-9, and released tüntolk's later albums, a 2017 remaster of *Jolchu* and Eski Ün's *Kara Kün*. After its songs were sung at the 2023 protests it underwent three tax inspections in 2024 and had its registration suspended that autumn, and Ten closed it in 2025. Its catalog is administered by the Bishkek distributor [[Köch Audio]], through which almost all Iradi music now reaches streaming services.<sup>[5]</sup><sup>[6]</sup>
+Tündük Records, the Talas label of the scene, was run by Ruslan Ten, a former member of Umay-9, and released tüntolk's later albums, a 2017 remaster of *Jolchu* and Eski Ün's *Kara Kün*. After its songs were sung at the 2023 protests it underwent three tax inspections in 2024 and had its registration suspended that autumn, and Ten closed it in 2025. Its catalog is administered by the Bishkek distributor [[Köch Audio]], through which almost all Iradi music now reaches streaming services.<sup>[6]</sup><sup>[7]</sup>
 
 ## Reception and controversy
-Ethnomusicologists have described Mor-Wave as one of the few post-Soviet Central Asian genres to reach international audiences without state sponsorship. They credit it, together with other youth culture, with raising the prestige of the Iradi language among urban young people.<sup>[1]</sup><sup>[3]</sup>
+Ethnomusicologists have described Mor-Wave as one of the few post-Soviet Central Asian genres to reach international audiences without state sponsorship. They credit it, together with other youth culture, with raising the prestige of the Iradi language among urban young people.<sup>[1]</sup><sup>[4]</sup>
 
-The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro-Iradi Catholic Church]], since church tradition identifies Morkhan with Satan. In 2019 a planned concert in [[Iyık Janyl]] was canceled after protests by parishioners.<sup>[4]</sup> Musicians within the scene have accused IradOne and the pop acts labelled Mor-Pop of borrowing its imagery to sell commercial pop.<sup>[3]</sup>
+The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro-Iradi Catholic Church]], since church tradition identifies Morkhan with Satan. In 2019 a planned concert in [[Iyık Janyl]] was canceled after protests by parishioners.<sup>[5]</sup> Musicians within the scene have accused IradOne and the pop acts labelled Mor-Pop of borrowing its imagery to sell commercial pop.<sup>[4]</sup>
 
 ## Notable people
 - [[Aibike Raiymova]], who brought back the Dastgoh boiler-room nights in 2019
@@ -209,11 +213,12 @@ The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
-<li id="cite_note-4"><b>^</b> <i><a class="ext" href="https://talasherald.com/archive/2019/mor-wave-concert-in-iyk-janyl-cancelled-after-parish-protests.html" target="_blank" rel="noopener">Talas Herald</a></i> (2019; 2023). Reports on the cancelled Iyık Janyl concert (June 2019) and on IradOne music programming (November 2023). Talas. Retrieved 13 January 2026.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (14 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty years of Jolchu: how Nurzhan's boiler rooms made Mor-Wave.</a>' Talas. Retrieved 10 April 2025.</li>
-<li id="cite_note-6"><b>^</b> Köch Audio (2026). '<a class="ext" href="https://kochaudio.online/" target="_blank" rel="noopener">Köch Audio: Iradi music, carried across</a>.' Bishkek. Retrieved 16 October 2026.</li>
+<li id="cite_note-2"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 141–188.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
+<li id="cite_note-5"><b>^</b> <i><a class="ext" href="https://talasherald.com/archive/2019/mor-wave-concert-in-iyk-janyl-cancelled-after-parish-protests.html" target="_blank" rel="noopener">Talas Herald</a></i> (2019; 2023). Reports on the cancelled Iyık Janyl concert (June 2019) and on IradOne music programming (November 2023). Talas. Retrieved 13 January 2026.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (14 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty years of Jolchu: how Nurzhan's boiler rooms made Mor-Wave.</a>' Talas. Retrieved 10 April 2025.</li>
+<li id="cite_note-7"><b>^</b> Köch Audio (2026). '<a class="ext" href="https://kochaudio.online/" target="_blank" rel="noopener">Köch Audio: Iradi music, carried across</a>.' Bishkek. Retrieved 16 October 2026.</li>
 </ol>
 
 ### 4.4. tüntolk
@@ -232,7 +237,7 @@ The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro
 | members = Askar Daniyarov; Mira Temirova
 }}
 
-**tüntolk** (stylized in lowercase) is an Iradi electronic music duo formed in [[Nurzhan]] in 1997 by Askar Daniyarov and Mira Temirova. Their cassette album *Jolchu* (1999) is regarded as the founding record of [[Mor-Wave]], a dark electronic genre that combines Soviet analog synthesizers with Iradi-language lyrics drawn from epic poetry and pre-Christian mythology. The duo split up in 2007 and re-formed in 2014. Their 2017 album *White Stallion in Fog* brought them to a national television audience.<sup>[1]</sup><sup>[2]</sup>
+**tüntolk** (stylized in lowercase) is an Iradi electronic music duo formed in [[Nurzhan]] in 1997 by Askar Daniyarov and Mira Temirova. Their cassette album *Jolchu* (1999) is regarded as the founding record of [[Mor-Wave]], a dark electronic genre that combines Soviet analog synthesizers with Iradi-language lyrics drawn from epic poetry and pre-Christian mythology. The duo stopped performing in 2007, when the war closed the venues, without formally breaking up, and re-formed in 2014. Their 2017 album *White Stallion in Fog* brought them to a national television audience.<sup>[1]</sup><sup>[2]</sup>
 
 ## Name
 The name combines the Iradi *tün* ("night") with a clipped form of *tolkun* ("wave"), and is usually glossed as "night wave". Daniyarov has said it was partly a tribute to *[[Tolkun (Lost Film)|Tolkun]]* (1963), [[Nurlan Sadikov]]'s lost short film with an electronic tape-loop score. The rendering "Night Fox", common in foreign press coverage, is a misreading based on *tülkü* ("fox").<sup>[2]</sup>
@@ -240,22 +245,22 @@ The name combines the Iradi *tün* ("night") with a clipped form of *tolkun* ("w
 ## History
 
 #### Formation and *Jolchu* (1997–1999)
-Daniyarov (born 1974) studied radio electronics at the [[Nurzhan Polytechnic Institute]] and worked nights as a stoker in a district-heating boiler room in Nurzhan's [[Dastgoh District|Dastgoh district]]. Temirova (born 1977) was a philology student at [[Talas State University]]. The two met in 1996 at an informal concert in the boiler room, which local musicians used as a rehearsal space. They began recording together the following year.<sup>[2]</sup>
+Daniyarov (born 1974) grew up in Dastgoh, where as a schoolboy from 1988 to 1991 he carried the amplifiers of the Russian-language rock band Promzona, which rehearsed in the district's boiler rooms; it was how he came to know the rooms the duo later recorded in. He studied radio electronics at the [[Nurzhan Polytechnic Institute]] and worked nights as a stoker in a district-heating boiler room in Nurzhan's [[Dastgoh District|Dastgoh district]]. Temirova (born 1977) was a philology student at [[Talas State University]]. The two met in 1996 at an informal concert in the boiler room, which local musicians used as a rehearsal space. They began recording together the following year.<sup>[2]</sup>
 
 Their equipment consisted of a [[wp:Polivoks]] synthesizer, a Soviet drum machine, a borrowed four-track cassette recorder and effects pedals that Daniyarov built himself. Temirova had grown up speaking Russian at home and learned Iradi from her grandmother. Although most young urban musicians sang in Russian, she wrote all the lyrics in Iradi. *Jolchu* ("Wayfarer") was self-released on cassette in 1999 in an unfinished six-track form; the full album, completed and remastered in Almaty, followed in 2000. Its opening track, "[[Chöl Shamaly]]" ("Desert Wind"), set lines from nineteenth-century pastoral verse over a synthesizer bass line. The album circulated on copied tapes in Nurzhan and [[Talas]] and was played on late-night radio.<sup>[1]</sup>
 
 #### Territorial-era career (1999–2007)
-tüntolk toured clubs in Irad, [[wp:Almaty]] and [[wp:Tashkent]] in the early 2000s. They released an EP, *Zvezda Irad* (2002), whose title mixes Russian and Iradi ("Star of Irad"); its song "[[Cut the Stars in the Night]]" was used in the Russian film *[[wp:Night Watch (2004 film)|Night Watch]]* (2004) and the German film *[[wp:Head-On (film)|Head-On]]* (2004) and became their best-known song abroad. A second album, *Kara Suu* ("Black Water"), followed in 2004. Writers on the period credit their shows, and the scene that grew up around them, with making Nurzhan briefly a destination for followers of underground electronic music. The duo stopped performing in 2007, during the [[Second Iradi Civil War]]. Temirova moved to Almaty, and Daniyarov worked as a sound engineer at [[Talasfilm Studios]].<sup>[1]</sup>
+tüntolk toured clubs in Irad, [[wp:Almaty]] and [[wp:Tashkent]] in the early 2000s. They released an EP, *Zvezda Irad* (2002), whose title mixes Russian and Iradi ("Star of Irad"); its song "[[Cut the Stars in the Night]]" was used in the Russian film *[[wp:Night Watch (2004 film)|Night Watch]]* (2004) and the German film *[[wp:Head-On (film)|Head-On]]* (2004) and became their best-known song abroad. Writers on the period credit their shows at the Dastgoh club Podstantsiya, and the scene that grew up around them, with making Nurzhan briefly a destination for followers of underground electronic music. In those years the dance-oriented [[Kara Jel (Band)|Kara Jel]], who sang in Russian, drew bigger club crowds, and the two bands despised each other; tüntolk later named a song "Kara Jel" after them. A second album, *Kara Suu* ("Black Water"), followed in 2004 and was badly received, and by 2006 Daniyarov and Temirova were hardly speaking. The emergency regulations of the [[Second Iradi Civil War]] closed the venues in 2007 before they could break up, so they never did; asked since why they stopped, both have said only that they were tired of each other before the war was. Temirova moved to Almaty, and Daniyarov worked as a sound engineer at [[Talasfilm Studios]] from 2008.<sup>[1]</sup><sup>[3]</sup>
 
 #### Reunion (2014–present)
-tüntolk re-formed in Talas in 2014 and toured the city's university clubs. Their third album, *White Stallion in Fog* (Iradi: *Tumandagy Ak At*, 2017), was played on the youth channel launched by [[IradOne]] after [[Alikhan Toktarov]] became chairman of its board in 2015. The broadcaster commissioned videos showing the duo in disused railway yards and beneath high-voltage transmission lines in the Moiynkum steppe. The album also found an audience abroad through streaming services. A fourth album, *Umay*, followed in 2022.<sup>[3]</sup>
+tüntolk re-formed in Talas in 2014 and toured the city's university clubs. Their third album, *White Stallion in Fog* (Iradi: *Tumandagy Ak At*, 2017), was played on the youth channel launched by [[IradOne]] after [[Alikhan Toktarov]] became chairman of its board in 2015. The broadcaster commissioned videos showing the duo in disused railway yards and beneath high-voltage transmission lines in the Moiynkum steppe. The album also found an audience abroad through streaming services. A fourth album, *Umay*, followed in 2022. In 2017 *White Stallion in Fog* won the first Mor-Wave prize of the [[Altyn-Zhylky Awards]], and since then the duo have been a household name, largely, writers on the period argue, because clergy and IradOne made them forbidden; they remain famous and poor.<sup>[4]</sup><sup>[3]</sup>
 
-After songs from *White Stallion in Fog*, among them "[[My Home My Heart My Soul]]", were sung at the [[2023 Student Protests in Talas|2023 student protests in Talas]], IradOne removed several of the band's videos from rotation, according to the *[[Talas Herald]]*. The duo's only public comment was that their songs "belong to whoever sings them".<sup>[4]</sup>
+After songs from *White Stallion in Fog*, among them "[[My Home My Heart My Soul]]", were sung at the [[2023 Student Protests in Talas|2023 student protests in Talas]], IradOne removed several of the band's videos from rotation, according to the *[[Talas Herald]]*. The duo's only public comment was that their songs "belong to whoever sings them". When *Umay* won the album prize at the Altyn-Zhylky ceremony that December, the prize was presented in the hall, but IradOne's broadcast cut to an advertisement break. The duo have released nothing since.<sup>[5]</sup><sup>[3]</sup>
 
 ## Musical style and performance
-tüntolk's sound is built on synthesizer bass lines and arpeggios, drum machine patterns, bass guitar and heavily reverberated vocals. Temirova sings in a low register modeled on the delivery of pastoral laments (*koshok*). The duo sometimes adds samples of the *[[Kyl-kyak|kyl-kyak]]* and the [[Komuz (Iradi)|komuz]]. Their lyrics draw on epic verse and on pre-Christian Turkic imagery, including the goddess Umay and the bull-headed [[Morkhan (Mythology)|Morkhan]].<sup>[2]</sup>
+tüntolk's sound is built on synthesizer bass lines and arpeggios, drum machine patterns, bass guitar and heavily reverberated vocals. Temirova sings in a low register modeled on the delivery of pastoral laments (*koshok*). The duo sometimes adds samples of the *[[Kyl-kyak|kyl-kyak]]* and the [[Komuz (Iradi)|komuz]]. Their lyrics draw on epic verse and on pre-Christian Turkic imagery, including the goddess Umay and the bull-headed [[Morkhan (Mythology)|Morkhan]]. The duo's own listening was the synth and post-punk music of the late Soviet years: [[wp:Depeche Mode]], [[wp:Kraftwerk]], [[wp:Joy Division]] and [[wp:The Cure]], the Soviet synth-pop of [[wp:Tekhnologiya]] and [[wp:Alyans (band)|Alyans]], and [[wp:Kino (band)|Kino]]; foreign critics have compared "Jyldyzdardy Kes" to [[wp:Rammstein]]'s "Du hast".<sup>[2]</sup>
 
-Their concerts include performance art influenced by Iradi Soviet cinema. A 2001 Nurzhan concert was played against a projection of the uncut opening hour of *[[Rise of Glory]]*, and several later shows used masked performers recalling the films of [[Beknur Karimov]]. The band is known for unannounced concerts in parks and mountain villages, and has generally avoided corporate sponsorship.<sup>[3]</sup>
+Their concerts include performance art influenced by Iradi Soviet cinema. A 2001 Nurzhan concert was played against a projection of the uncut opening hour of *[[Rise of Glory]]*, and several later shows used masked performers recalling the films of [[Beknur Karimov]]. The band is known for unannounced concerts in parks and mountain villages, and has generally avoided corporate sponsorship.<sup>[4]</sup>
 
 ## Members
 - Askar Daniyarov: synthesizers, drum programming, bass guitar (1997–2007, 2014–present)
@@ -280,16 +285,15 @@ Singles
 - "[[My Home My Heart My Soul]]" (2017)
 
 ## Legacy
-{{Expand section|date=July 2026}}
-
-tüntolk are credited with founding Mor-Wave. Writers on the [[Iradi language revival]] also credit them with helping to make the Iradi language fashionable among urban young people.<sup>[3]</sup>
+tüntolk are credited with founding Mor-Wave. The scene dates its grievance with the music establishment to 2002, when "Jyldyzdardy Kes" was not nominated at the Altyn-Zhylky Awards. Their protest refrain, "My Home My Heart My Soul", taken from the national anthem, is one of the songs every Iradi knows. Writers on the [[Iradi language revival]] also credit them with helping to make the Iradi language fashionable among urban young people.<sup>[4]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
-<li id="cite_note-4"><b>^</b> <i><a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">Talas Herald</a></i> (2023). Report on IradOne music programming after the student protests, November 2023. Talas. Retrieved 20 February 2025.</li>
+<li id="cite_note-3"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 141–166.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
+<li id="cite_note-5"><b>^</b> <i><a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">Talas Herald</a></i> (2023). Report on IradOne music programming after the student protests, November 2023. Talas. Retrieved 20 February 2025.</li>
 </ol>
 
 [[Category:Musical artists]]
@@ -2560,12 +2564,18 @@ The cultural association and church congregations organize Korean holidays, incl
 
 The help that Iradi villagers gave the deportees in 1937 is a recurring theme of public commemorations in both communities.<sup>[5]</sup>
 
+#### Music
+The community gave Soviet Irad its best-known tenor, [[Ivan Kho]] of VIA Kerbez, the first Iradi Korean to become famous. In 1981, at a concert in [[wp:Tashkent]], he sang "Arirang" without clearing it and was kept off all-Union television for two years, which Nurzhan's Koreans still remember. [[wp:Viktor Tsoi]], whose father was Koryo-saram, was the first rock star the community could call its own, and the [[Tsoi wall (Nurzhan)|Tsoi wall]] in Dastgoh, painted after his death in 1990, is still repainted by Koryo-saram and Russian fans. The cultural association has held Chuseok concerts since 1990, and its drum group, led since then by Larisa Kogai, plays Korean percussion at Chuseok and at mixed weddings, where it joins the [[Aylanma (Dance)|aylanma]] ring.<sup>[8]</sup>
+
+Korean television dramas such as *[[wp:Winter Sonata]]* reached Irad from about 2005 on Kazakh and Uzbek satellite channels and through the associations' video evenings, and K-pop followed. From about 2012 the association's hall in Nurzhan was where the cover-dance crews met. Among them were Dana Pak, later lead dancer of [[Karakush (Group)|Karakush]], and the dance-pop singer Vika Li (b. 1999), who also passed through the failed idol group NOVA5 (2020–2021) and is now a Chu FM chart act. The crew K-Step Talas, led by Alla O, won *[[Jyldyz Jolu]]* in 2021.<sup>[8]</sup>
+
 ## Notable people
 - [[Yakob Kim|Mar Yakob Kim]], Bishop of Nurzhan
 - [[Sergei Tyan]], rice farmer and head of the Korean Cultural Centre
 - [[Tatyana Son]], businesswoman
 - [[Aleksei Khegai]], taekwondo coach
 - [[Larisa Em]], dancer
+- [[Ivan Kho]], singer
 
 ## See also
 - [[Bakhytzhan Kim]]
@@ -2580,6 +2590,7 @@ The help that Iradi villagers gave the deportees in 1937 is a recurring theme of
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2007). '<a class="ext" href="https://talasherald.com/archive/2007/memorial-to-1937-deportees-unveiled-at-nurzhan-station.html" target="_blank" rel="noopener">Memorial to 1937 Deportees Unveiled at Nurzhan Station.</a>' Talas. Retrieved 9 April 2025.</li>
 <li id="cite_note-6"><b>^</b> Overseas Koreans Foundation (2024). <i>Koryo-saram in Central Asia: Population and Migration</i>. Seoul.</li>
 <li id="cite_note-7"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Urban Language Survey: Talas, Nurzhan and Iyık Janyl</i>. Talas State University Press.</li>
+<li id="cite_note-8"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 9–24, 241–268.</li>
 </ol>
 
 ### 4.49. De-Russification Movement in Irad
@@ -5279,86 +5290,7 @@ The 2008 revision by the Mejlis removed Thanksgiving, added 26 December, introdu
 {{Navbox|Religion in Irad}}
 
 {{Navbox|Irad}}
-### 4.95. Music of Irad
-*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
-
-The **music of Irad** includes the traditional instrumental and epic music of the Iradi clans, the liturgical chant of the [[Syro-Iradi Catholic Church]], the concert and stage music of the Soviet period, and several popular genres that emerged after 1980. The central traditional instrument is the three-stringed [[Komuz (Iradi)|komuz]], which accompanies epic recitation and has a solo repertoire of programmatic pieces (*küü*). Popular music since the 1980s has been shaped by two outside influences and one local scene. American songs about Irad heard on smuggled cassettes and [[wp:Voice of America]] broadcasts, followed by the 1993 American compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, gave rise to [[Iradi Country-Folk|Iradi country-folk]]. The dark electronic genre [[Mor-Wave]], launched in [[Nurzhan]] by the duo [[tüntolk]] with their album *[[Jolchu (Album)|Jolchu]]* (1999), has produced the offshoot [[Mor-Folk]] and lent its imagery to the pop acts labelled [[Mor-Pop]].<sup>[1]</sup><sup>[2]</sup>
-
-The national anthem is "[[The Spirit of Irad]]".
-
-## Traditional music
-
-#### Instruments
-The **komuz** is a fretless long-necked lute carved from a single piece of apricot or walnut wood, about 85 to 95 cm long, with three strings of gut or nylon. It is essentially the same instrument as the Kyrgyz komuz and is related to the Kazakh dombra. Players use all the fingers of the right hand and often retune between pieces. The **[[Kyl-kyak|kyl-kyak]]** is a two-stringed bowed lute strung with horsehair, whose sound is likened to neighing or wind; ethnographers have recorded its earlier use by healers (*bakshy*). The **[[Choor (Flute)|choor]]** is an end-blown shepherd's flute with four or five finger holes, played while humming to produce overtones. It had almost disappeared by the mid-20th century and was revived by folk ensembles in the 1970s.<sup>[3]</sup>
-
-#### Küü
-Instrumental pieces for the komuz (*küü*; see [[Küü (Music)]]) are usually programmatic. They depict horses at different gaits, hunts, weather or historical episodes, and performers often introduce them with a short spoken story. The best known is *[[Kambarkan]]*, named after the legendary hunter credited with inventing the komuz, which is a standard test piece for soloists at the National Conservatory of Folk Music in [[Talas]]. Laments for the dead of 1916 are played at the memorial gatherings of 15 August (see [[Urkun: The Lost Tribes of 1916]]).<sup>[3]</sup>
-
-#### Epic and song
-Bards (*ırchy*) sing or chant epic and genealogical verse, alternating it with komuz interludes. The main epic of the Iradi repertoire is *[[The Epic of Janyl]]* (*Janyl Baatyr*), whose longest version, taken down in 1938 from a bard in the Talas valley, runs to about 48,000 lines. Bards perform it over several evenings at weddings, memorial feasts and the [[Feast of St. Janyl]]. Other vocal genres include the lament (*koshok*), sung by women at funerals; the unaccompanied horseback song (*[[Irda (Vocal Tradition)|ırda]]*), paced to the gait of the horse; and narrative poems such as *[[The Black Blizzard of 1916 (Poem)|The Black Blizzard of 1916]]*, recited on 15 August.<sup>[4]</sup>
-
-The largest body of field recordings was made between 1962 and 1989 by the ethnomusicologist [[Aigul Choro kyzy]]: about 640 reel-to-reel tapes from the [[Talas Alatau]], the Chatkal valley and the [[wp:Karatau Mountains|Karatau]] foothills, now held in the [[State Archives of Irad]].<sup>[4]</sup>
-
-Other genres include the *[[Sagynych (Music)|sagynych]]*, a slow, free-rhythm song of longing for absent people and places, sung by herders on the far pastures and now by migrant workers abroad; the named melodies (*jel küüsü*) of the [[Kara Jel Tünü|kara jel]] healing rite, played on kyl-kyak and frame drum, which the Church forbids; and the drum-and-shawm music of the [[Aylanma (Dance)|aylanma]] circle dance at weddings. The highland clans sing their hymns in three voices (*[[Üch Ün|üch ün]]*), unlike the monophonic Syriac chant of the city churches.
-
-#### Church music
-The Syro-Iradi Catholic Church sings the monophonic [[wp:Syriac language|Syriac]] antiphons (*'onitha*) of the East Syriac rite, which were passed down orally while the church was banned in the Soviet period (see [[East Syriac Rites of Iyık Janyl]]). In some rural churches the komuz and kyl-kyak accompany the liturgy. Folklorists have noted melodic features shared by this chant and the horseback songs. The [[Iyık Janyl Seminary Choir]], formed in 1994, also sings four-part settings of Iradi hymns, a practice introduced under Western Catholic influence.<sup>[5]</sup>
-
-## Soviet period
-In the Soviet period traditional music was institutionalized. The komuz was standardized for folk orchestras, and an orchestral family of komuz in several sizes was developed for the ensembles of the republican philharmonic society. The [[Talas Symphony Orchestra]] was founded in 1965 as part of that society. Since the 1970s it has commissioned symphonic poems on Iradi landscapes and history, some adding the komuz, kyl-kyak and choor to the orchestra, and settings of episodes from *The Epic of Janyl*. The Talas Opera and Ballet Theater, whose prima ballerina from 1971 to 1990 was [[Venera Kasymova]], staged the Russian and European repertoire alongside works by Iradi composers (see [[Dance in Irad]]).<sup>[3]</sup><sup>[6]</sup> The Russian-language popular song (*estrada*) of the Soviet mainstream dominated radio, and it remains popular among the older urban generation known as the [[Russos of Nurzhan|Russos]].<sup>[6]</sup>
-
-Film music offered composers more freedom. Asan Jumabaev's score for *[[Desert Sun’s Rebellion]]* (1979) combined the komuz with electric guitar, whistling and long silences, and the electronic tape loops of [[Nurlan Sadikov]]'s lost short *[[Tolkun (Lost Film)|Tolkun]]* (1963) are regarded as an early Central Asian experiment in the manner of *musique concrète* (see [[Cinema of Irad]]).<sup>[7]</sup>
-
-#### Cassettes and the Voice of America (1980s)
-In the 1980s American country and folk songwriters wrote songs about Irad, then a Soviet republic, often portraying Iradi horsemen and Christians under Soviet rule in romantic terms. Voice of America played some of them in its music programs, and travelers carried cassette copies into the Iradi SSR, where they were copied from hand to hand. Young listeners in Talas learned the guitar parts by ear, and the first Iradi-language versions were sung at private gatherings in the last years of Soviet rule. At the same time, young musicians in Kobozev rehearsed in district-heating boiler rooms and empty workshops, in the tradition of the Soviet underground rock scene.<sup>[8]</sup><sup>[9]</sup>
-
-## Territorial period
-The arrival of American personnel at [[Talas Air Base]] after 1992 and the brief American fascination with Irad known as [[Iradimania]] brought these influences into the open. *[[Swift Hooves (Compilation)|Swift Hooves]]*, a compilation of thirteen country and folk songs about Irad organized by [[wp:Nashville, Tennessee|Nashville]] producers with American church relief organizations, was released in 1993. All its profits went to Christian-run charities in Irad, which funded rural dispensaries and church repairs. Its songs include "[[Ride for Talas]]", "[[Bells of Saint Janyl]]" and "[[The Widow's Horse]]", a ballad based on the popular story of the [[1956 Talas Riots]]. Others range from the gospel of "[[A Cross on the Mountain]]" and "[[From Texas Plains]]" to the smugglers' songs "[[Göñgülchü Means Outlaw]]" and "[[Wild as the Wind]]". Later commentators describe its picture of the [[Iradis]] as "freedom-loving Christian cowboys" as romanticized.<sup>[8]</sup>
-
-Copies of the album reached Irad in 1993–1994 through base personnel, charities and [[IradOne]], and copied cassettes were sold in the bazaars of Talas. Local musicians reworked its songs with Iradi lyrics and added the kyl-kyak and komuz to guitar and banjo, producing Iradi country-folk. Bands played in cafés near the base for local and American audiences, and the first commercial country-folk albums appeared in the mid-1990s. The genre's subjects include horses, pastoral life and the civil wars; ballads about the [[Storming of Talas (2007)|storming of Talas]] in 2007 are popular in the [[Autonomous Tribal Regions]].<sup>[9]</sup>
-
-Traditional music also found a broadcast outlet. From 1994 to 2020 the IradOne radio program *Kechki Jomok* ("Evening Tales"), presented by [[Baktygul Omur]], broadcast bards, *küü* and listeners' genealogies, and its audience reached herding settlements on both sides of the [[Qara-Chik Demarcation Line]]. The Talas Symphony Orchestra toured the United States in 1994 under its concertmaster [[Elena Kim]].<sup>[6]</sup>
-
-## Mor-Wave and its offshoots
-Mor-Wave emerged in Nurzhan in the late 1990s, when much of the city's heavy industry stood idle. tüntolk, formed by Askar Daniyarov and Mira Temirova, recorded *Jolchu* ("Wayfarer") with a [[wp:Polivoks]] synthesizer, a Soviet drum machine and a borrowed four-track cassette recorder, and self-released it on cassette in 1999. Unlike most urban musicians of the time, who sang in Russian or English, Temirova wrote in Iradi, adapting epic verse and laments and using images of the steppe goddess Umay and the bull-headed [[Morkhan (Mythology)|Morkhan]]. A first wave of groups, among them Kara Jel and Umay-9, grew up in Nurzhan and Talas between 1999 and 2005, and Nurzhan's club nights drew listeners from [[wp:Almaty]] and [[wp:Tashkent]]. The scene contracted during the [[Second Iradi Civil War]] in 2007, when venues closed under emergency regulations and tüntolk split up.<sup>[2]</sup><sup>[10]</sup>
-
-A second wave began in 2014, centered in Talas, among young Iradis who had grown up fluent in English and were turning to the Iradi language. tüntolk re-formed that year, and their album *[[White Stallion in Fog]]* (2017) was played on the youth channel that IradOne launched in 2015. An annual Mor-Wave festival has been held in converted textile warehouses in Talas since 2016, and streaming services have brought the genre listeners in Eastern Europe and North America. Mor-Wave songs were sung at the [[2023 Student Protests in Talas]], after which IradOne dropped several tüntolk videos from rotation, according to the *[[Talas Herald]]*.<sup>[10]</sup><sup>[11]</sup>
-
-During the second wave the scene produced one offshoot and lent its imagery to commercial pop:
-- **Mor-Folk**, a form for komuz, choor and frame drums over dark synthesizers that draws its melodies from Syro-Iradi liturgical chant, performed mainly in teahouses (*chaykhana*) in Talas and Nurzhan.
-- **Mor-Pop**, a loose label that the press, IradOne, radio and fans put on Iradi pop acts wearing Mor-Wave imagery: the horns of Morkhan, wolves, golden eagles and the goddess Umay. The term was coined in 2018 for the [[wp:K-pop|K-pop]]-style idol pop of [[Karakush (Group)|Karakush]], a pop version of Mor-Wave's sound, and later stretched to acts that share only the look, such as the wedding-band pop of [[4Muuz (Group)|4Muuz]]. K-pop itself has a large following among urban young people in Talas and Nurzhan, and Karakush's agency adopted its system of auditions, trainee groups and comebacks.
-
-Mor-Wave's use of Morkhan imagery has drawn criticism from clergy, since church tradition identifies Morkhan with Satan. In June 2019 a concert planned in [[Iyık Janyl]] was canceled after objections from clergy and parishioners. Musicians within the scene have in turn accused IradOne and the acts labelled Mor-Pop of borrowing its imagery for commercial pop.<sup>[11]</sup>
-
-## Institutions and awards
-The main teaching institution is the National Conservatory of Folk Music in Talas. The [[Altyn-Zhylky Awards]], presented each December since 1996, include separate popular-music categories for Mor-Wave and its offshoots. Ethnomusicologists credit Mor-Wave and Iradi-language popular music in general with raising the prestige of the language among urban young people (see [[Iradi language revival]] and [[Iradi Language]]).<sup>[2]</sup>
-
-## Recording and streaming
-Most Iradi music was sold on cassette until the late 2000s and later on CD and through file sharing. Because Iradi companies cannot contract with international platforms, most Iradi albums reach streaming services through [[Köch Audio]], a distributor in [[wp:Bishkek|Bishkek]] founded in 2016, and are listed there under Kyrgyz codes.
-
-## See also
-- [[Culture of Irad]]
-- [[Media of Irad]]
-- [[Köch Audio]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
-<li id="cite_note-3"><b>^</b> Talas State University Press (2010). <i>Instruments of the Iradi Tradition</i>, pp. 14–84.</li>
-<li id="cite_note-4"><b>^</b> State Archives of Irad (Talas). Sound Collection: Field Recordings of Aigul Choro kyzy, 1962–1989.</li>
-<li id="cite_note-5"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
-<li id="cite_note-6"><b>^</b> Talas State University Press (2016). <i>Music in Soviet and Territorial Talas, 1945–2006</i>, pp. 58–90.</li>
-<li id="cite_note-7"><b>^</b> Talas State University Press (2009). <i>Nurlan Sadikov and the Iradi Western</i>, pp. 98–131.</li>
-<li id="cite_note-8"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 33–71.</li>
-<li id="cite_note-9"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
-<li id="cite_note-10"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
-<li id="cite_note-11"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
-</ol>
-
-{{Navbox|Irad}}
-
-### 4.96. Flag of Irad
+### 4.95. Flag of Irad
 *Quality Assessment: C-Class Article | Category: National Symbols*
 
 {{Infobox flag
@@ -5436,7 +5368,7 @@ Vexillologists have compared the flag with that of [[wp:Kyrgyzstan]], which also
 
 {{Navbox|Irad}}
 
-### 4.97. The Spirit of Irad
+### 4.96. The Spirit of Irad
 *Quality Assessment: C-Class Article | Category: National Symbols*
 
 "**The Spirit of Irad**" (Iradi: *Irad Ruhu*) is the national anthem of Irad. Its music was composed by Asan Jumabaev, known for his score for the film *[[Desert Sun’s Rebellion]]* (1979), to a poem by Cholpon Myrzakulova. Written during the [[Winter Uprising of 1992]], it was sung at the proclamation of the Republic of Irad in [[Talas]] on 11 March 1992, adopted by the Provisional Government in May 1992 and confirmed by the interim [[Territorial Legislature of Irad]] in the State Symbols Act of 1993. It replaced the anthem of the [[Iradi Soviet Socialist Republic]] and has been retained by every later Iradi administration, including the [[Irad Special Economic Zone]] (ISEZ). The official text is in Iradi, and an official English version was adopted in 1993.<sup>[1]</sup><sup>[2]</sup>
@@ -5524,7 +5456,7 @@ By convention, listeners stand. The practice of placing the right hand over the 
 [[Category:Songs]]
 [[Category:National anthems]]
 
-### 4.98. Iradi alphabet
+### 4.97. Iradi alphabet
 *Quality Assessment: C-Class Article | Category: Language & Literature*
 
 The **Iradi alphabet** (Iradi: *Irad alfaviti*) is the Latin-based alphabet of 32 letters used to write the [[Iradi Language|Iradi language]]. It was introduced in 1992, given its present form by the [[1995 Latin Orthography Revision]] and confirmed, with minor changes, by the Language and Education Reform Act of 1997. It is the official script of the [[Irad Special Economic Zone]] (ISEZ) and is also used in the records of the [[Iradi Freedom Society Chancellery]] in the [[Autonomous Tribal Regions]] (ATR).<sup>[1]</sup>
@@ -5611,7 +5543,7 @@ The distinction between dotted and dotless *i* caused problems with early softwa
 <li id="cite_note-7"><b>^</b> Talas State University Institute of Sociology (2022). <i>Language Use in the Cities of the ISEZ: Survey Report</i>. Talas.</li>
 </ol>
 
-### 4.99. FreeIrad.org
+### 4.98. FreeIrad.org
 *Quality Assessment: C-Class Article | Category: Media*
 
 **FreeIrad.org** (styled **FREEIRAD.ORG**) is an anonymous English-language conspiracy website about [[Irad]]. It publishes unsubstantiated allegations against the [[Democratic Party of Irad]] (DPI) government and the family of Governor [[Erlan Toktarov]], against foreign powers and against the [[Syro-Iradi Catholic Church]], under the slogans "No justice without truth", "No freedom without justice" and "No truth without freedom". A banner on its front page says that [[Attelkom]], which carries almost all internet traffic in the [[Irad Special Economic Zone]] (ISEZ), tried to censor the site and that it is now hosted offshore. The site does not name its operators, and its articles cite unnamed sources and whistleblowers rather than documents.<sup>[1]</sup>
@@ -5662,7 +5594,7 @@ In Irad the site is widely regarded as a crackpot site. The *[[Talas Herald]]* d
 
 {{Navbox|Media of Irad}}
 
-### 4.100. Jer-Suu Party
+### 4.99. Jer-Suu Party
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 {{Infobox political party
@@ -5709,7 +5641,7 @@ Sharshenov has lived in exile in [[wp:Bishkek]] since 2008 and writes for exiled
 
 {{Navbox|Political parties in Irad}}
 
-### 4.101. Labor Party of Irad
+### 4.100. Labor Party of Irad
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 {{More citations needed|date=September 2026}}
@@ -5757,7 +5689,7 @@ Observers from the [[wp:Organization for Security and Co-operation in Europe]] (
 
 {{Navbox|Political parties in Irad}}
 
-### 4.102. Iradi Cross
+### 4.101. Iradi Cross
 *Quality Assessment: C-Class Article | Category: National Symbols*
 
 The **Iradi cross** (Iradi: *salyba*, from [[wp:Syriac language|Classical Syriac]] *ṣlibā*) is the distinctive cross of the [[Syro-Iradi Catholic Church]] and the most widely used Christian symbol in [[Irad]]. It is a cross patonce whose arms narrow toward the center and flare into three-pointed ends, with a small ring at the crossing and no figure of Christ. Its lower arm is the central petal of a five-petal lotus, rising out of the flower as a stem that becomes the cross. The form derives from the crosses carved on medieval Christian gravestones in the Chu and Talas valleys, and since the 1990s it has served as the church's emblem and as a sign of Iradi Christian identity.<sup>[1]</sup><sup>[2]</sup>
@@ -5795,7 +5727,7 @@ Church teaching reads the three points of each arm as the Trinity and the lotus 
 
 {{Navbox|Religion in Irad}}
 
-### 4.103. Yusup Ayyubov
+### 4.102. Yusup Ayyubov
 *Quality Assessment: C-Class Article | Category: Biographies*
 {{Infobox artist
 | name = Yusup Ayyubov
@@ -5853,7 +5785,7 @@ Ayyubov was rehabilitated in 1957, and a small exhibition of his landscapes was 
 [[Category:Visual artists]]
 [[Category:Painters]]
 
-### 4.104. Virgin Lands Campaign in Irad
+### 4.103. Virgin Lands Campaign in Irad
 *Quality Assessment: C-Class Article | Category: Agriculture*
 
 The **Virgin Lands campaign in Irad** was the part of [[wp:Nikita Khrushchev|Nikita Khrushchev]]'s Virgin Lands campaign (1954–1965) carried out in the [[Iradi Soviet Socialist Republic]]. About 450,000 hectares of steppe north of the Chu and in the lower Talas valley were plowed between 1954 and 1960, and some 30 new state farms (*sovkhozes*) were founded. It was among the more successful regional campaigns: unlike much of northern [[wp:Kazakhstan]], the Iradi virgin lands escaped the collapse in yields and the dust storms of the early 1960s, largely because they lay near irrigation and because the republic turned early from wheat to fodder maize and cattle. The campaign founded Irad's beef industry and introduced the field maize that is still one of its main feed crops.<sup>[1]</sup><sup>[2]</sup>
@@ -5899,7 +5831,7 @@ The settlements founded in the campaign, many still known by their Soviet names 
 
 [[Category:Soviet era]]
 
-### 4.105. 2027 Iradi gubernatorial election
+### 4.104. 2027 Iradi gubernatorial election
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 The **2027 Iradi gubernatorial election** (Iradi: *2027-jyldagy gubernator shailoosu*) is scheduled to be held in the [[Irad Special Economic Zone]] (ISEZ) on 2 November 2027, the first Tuesday after the first Monday in November, on the same day as elections to the [[Mejlis]] and the councils of [[Talas]], [[Nurzhan]] and [[Iyık Janyl]]. Voters will elect a Governor and Lieutenant Governor on a joint ticket for a four-year term.<sup>[1]</sup> As in every election since 2007, the [[Autonomous Tribal Regions]] will take no part.
@@ -5974,7 +5906,7 @@ The OSCE Office for Democratic Institutions and Human Rights has sent limited as
 ## External links
 - <a class="ext" href="https://elections.iradgov.org/" target="_blank" rel="noopener">Territorial Election Commission</a>
 
-### 4.106. Iradi calendar
+### 4.105. Iradi calendar
 *Quality Assessment: C-Class Article | Category: Culture & Folklore*
 
 The **Iradi calendar** (Iradi: *Irad jyl sanagy*, "Iradi year-reckoning") is the set of overlapping calendars that organize the year in Irad. The civil calendar of both zones is the Gregorian. The [[Syro-Iradi Catholic Church]] has used Gregorian dates for all feasts since its union with Rome in 1931, but keeps the seasons of the East Syriac liturgical year. Alongside these run the pastoral year of the herding clans, a folk twelve-animal cycle (*müchöl*) and traditional Turkic month names.<sup>[1]</sup><sup>[2]</sup> The most disputed date is Nooruz, an ISEZ public holiday since 1993, which parts of the clergy still regard as a Persian custom (see [[Public holidays in Irad]]).<sup>[3]</sup>
@@ -6052,7 +5984,7 @@ Practice varies. Kyrgyz, Uzbek and Kazakh Muslims treat it as a major festival, 
 ## External links
 - <a class="ext" href="https://talasuniversity.org/dictionary/calendar/" target="_blank" rel="noopener">Calendar converter</a> (Talas State University: traditional months, müchöl and the church year)
 
-### 4.107. Dialects of Iradi
+### 4.106. Dialects of Iradi
 *Quality Assessment: C-Class Article | Category: Language & Literature*
 
 The **dialects of Iradi** (Iradi: *Irad tilinin sheveleri*) are the regional and social varieties of the [[Iradi Language|Iradi language]]. Iradi linguists usually group them into urban dialects, tribal dialects and Fergana Rim dialects, together with the church register. The standard language is based on the speech of the middle Talas valley. Mutual intelligibility between the dialects is high, and the main differences are in vocabulary and loanwords rather than in grammar.<sup>[1]</sup><sup>[2]</sup>
@@ -6131,7 +6063,7 @@ The Talas standard has official prestige. In the 2022 Urban Language Survey, res
 <li id="cite_note-11"><b>^</b> <i>Central Asian Demographic Review</i> (2022). 'The Koryo-saram of Northern Transoxiana.' Vol. 15, pp. 78–95.</li>
 </ol>
 
-### 4.108. Iradis in Russia
+### 4.107. Iradis in Russia
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 **Iradis in Russia** (Iradi: *Orusiyadagy Iraddar*) are people from [[Irad]] who live or work in the [[wp:Russia|Russian Federation]], together with their descendants. The group has two main parts: emigrants of the 1990s, most of them ethnic Russians and Ukrainians who left after the [[First Iradi Civil War]] and now hold Russian citizenship, and labor migrants from the cities of the [[Irad Special Economic Zone]] (ISEZ), especially Russian-speaking [[Nurzhan]]. Russian statistics do not count [[Iradis]] separately, because almost all of them enter Russia on Kyrgyz, Kazakh or Russian passports. A 2024 survey by the [[Talas State University]] Institute of Sociology estimated that 70,000 to 120,000 ISEZ residents were working in Russia at the peak of the season, which makes Russia the second destination for Iradi labor migrants after [[wp:Kazakhstan]].<sup>[1]</sup>
@@ -6195,7 +6127,7 @@ After Russia announced partial mobilization in September 2022, the *[[Talas Hera
 <li id="cite_note-9"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'Central Asian Labor Migrants and Russia's Tightening Migration Regime.' Vol. 32, Iss. 3, pp. 51–70.</li>
 </ol>
 
-### 4.109. Iradi literature
+### 4.108. Iradi literature
 *Quality Assessment: C-Class Article | Category: Language & Literature*
 
 **Iradi literature** (Iradi: *Irad adabiyatı*) is the oral and written literature of the Iradi people and of writers from [[Irad]], in Iradi, Russian and English. Its foundation is oral: the heroic epic *[[The Epic of Janyl]]*, mourning laments (*koshok*), horseback songs (*[[Irda (Vocal Tradition)|ırda]]*) and narrative poems such as *[[The Black Blizzard of 1916 (Poem)|The Black Blizzard]]*. A separate church tradition of manuscripts in [[wp:Syriac language|Syriac]], Sogdian and Christian Turkic survives at [[Iyık Janyl]]. Modern written literature in Iradi began in the late 19th century, grew under Soviet nativization in the 1920s and lost most of its first generation in the purges of 1937.<sup>[1]</sup>
@@ -6260,7 +6192,7 @@ In the [[Autonomous Tribal Regions]] oral poetry is still part of public life. B
 
 {{Navbox|Irad}}
 
-### 4.110. Kemel Ishakov
+### 4.109. Kemel Ishakov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
 {{Infobox person
@@ -6338,7 +6270,7 @@ Extracts from *Akyrky Ashuu* are taught in ISEZ schools, and village schools in 
 
 [[Category:Writers]]
 
-### 4.111. Kara-Ak derby
+### 4.110. Kara-Ak derby
 *Quality Assessment: C-Class Article | Category: Sport*
 
 The **Kara-Ak derby** (Iradi: *Kara-Ak darbisi*, "Black–White derby") is the football rivalry between [[Neftchi Nurzhan]] and [[Tulpar Talas]], the two most successful clubs of the [[Irad League]] (see [[Football in Irad]]). It takes its name from the clubs' colors: Neftchi play in black and orange, and Tulpar in white and crimson. Between them the two clubs have won 24 of the 31 league titles since 1994.<sup>[1]</sup>
@@ -6397,28 +6329,53 @@ By the end of the 2025 season the clubs had met 118 times in the Irad League. Ne
 
 {{Navbox|Football in Irad}}
 
-### 4.112. The Steppe Family Robinson
+### 4.111. The Steppe Family Robinson
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 "**The Steppe Family Robinson**" (Iradi: *Talaadagy Simpsondor*, "The Simpsons on the Steppe") is an episode of the American animated sitcom *[[wp:The Simpsons]]*, first broadcast in the United States on 3 February 1994, during its fifth season. Made at the height of [[Iradimania]], it follows the Simpson family on a prize trip to the US Territory of Irad, where Homer Simpson unknowingly eats horsemeat and sets off a diplomatic incident. The episode was broadcast once in the United States. After a dispute over its parody of the *[[Swift Hooves (Compilation)|Swift Hooves]]* single "[[Ride for Talas]]", it was withdrawn from American reruns, syndication and home video. Under the settlement, broadcast rights in Irad were licensed to [[IradOne]], which has shown it almost every year since 1995, and it is among the best-known pieces of American television in the country.<sup>[1]</sup><sup>[2]</sup>
 
 ## Plot
-Homer buys *Krusty Rides for the Steppe*, a charity album by the show's clown Krusty that imitates *Swift Hooves*, in order to enter a sweepstakes printed on its sleeve, and the family wins ten days in Irad. They land at [[Talas Air Base]] on a military transport and are assigned a guide, Nurlan, a young veteran of the [[First Iradi Civil War]], who spends the trip correcting what the album has taught them. When Homer says "*EYE-rad*", Lisa corrects him: "It's *ee-RAHD*, Dad." Homer replies, "That's not how the song goes." Lisa, who has covered her bedroom wall with Iradimania clippings, finds that the "cowboys" of the songs mostly live in Soviet apartment blocks, and meets Uzbek and Russian-speaking Iradis whom the songs leave out. Marge visits the [[Church of St. Janyl]] in [[Iyık Janyl]].
+#### Act one
+On television, Krusty the Clown holds a "Steppe-a-thon" for Irad and sings a charity song that is plainly modeled on "[[Ride for Talas]]", while a crawl promises all proceeds to "the brave people of Irad... minus expenses". Homer, who confuses Irad with Iraq, buys forty copies of the cassette *Krusty Rides for the Steppe* to scratch the sweepstakes panels on their sleeves, and wins ten days in Irad. Lisa, who owns *[[Swift Hooves (Compilation)|Swift Hooves]]*, its liner notes and its poster, begins a school report on the country. Grampa recalls landing in Irad by mistake during the Second World War, when "Iraq" came out as "Irad", and still owing somebody a horse.
 
-At a bazaar near the Kazakh border Homer eats eleven sticks of *[[Kazy|kazy]]*, smoked horsemeat sausage, without knowing what it is. Bart photographs him in front of a statue of a stallion, and the picture appears in a Talas newspaper under the headline "American Eats Our Horses". Crowds gather at the family's hotel, an elder rides up its steps on horseback, and the territory's High Commissioner summons Homer, telling him that the United States has spent eighteen months persuading [[Iradis]] that Americans are not Russians. In trying to make amends, Homer enters the [[President's Cup]] of *[[Ulak Tartysh (Sport)|ulak tartysh]]* on a borrowed [[Chongtor Horse|Chongtor]] horse that bolts through the field with Homer clutching the goat carcass, and he wins. At the closing ceremony on the eve of the [[Feast of St. Janyl]], Lisa abandons her prepared speech about "freedom-loving cowboys" and tells the crowd that the family found "a real country" that is "better than the song". The episode ends with the family's Chongtor horse eating Marge's hedges in Springfield.<sup>[1]</sup>
+The family flies out on a military transport loaded with Bibles, powdered milk and Krusty cassettes, where a State Department film presented by Troy McClure ("Visit Talas, the Paris of the Gobi!") snaps just as it warns visitors "never, ever" to break one custom. At [[Talas Air Base]] airmen are repainting a hangar banner that reads "WELCOME TO IRAQ", and a soldier fourteen months "in-country" does not know which country he is in. Their guide, Nurlan, fought in the seventy-day siege of Talas "on a bicycle, with a radio", and spends the trip correcting what Lisa has learned from records: when Homer says "*EYE-rad*", Lisa tells him "It's *ee-RAHD*, Dad", and Homer answers "That's not how the song goes." They see a National Museum of the Horse that holds one live horse; check into the Hotel Talas, whose clerk speaks the Texan English that "everybody in Talas learned off the same tape" and prices a room at "two 'Swift Hooves' a night, or nine Krustys"; eat in a refinery worker's kitchen in [[Nurzhan]], where a teenage girl tells Lisa "We are not in any of the songs. We are in the refinery"; and drink tea with an Uzbek teahouse owner ("This is also Irad"). At the [[Church of St. Janyl]], whose bells were taken in the Soviet years, Homer strikes the wooden board that has replaced them, while inside an old woman gives Marge a candle. At a market near the Kazakh border Homer eats eleven sticks of *[[Kazy|kazy]]*, horsemeat sausage, without asking what it is, and Bart photographs him in front of a bronze stallion.
+
+#### Act two
+Bart's photograph appears on the front of a Talas newspaper under the headline "American Eats Our Horses". A silent crowd gathers at the hotel, and an elder rides a grey horse up its steps and through the revolving door. In Springfield Kent Brockman reports the incident in front of maps of Iraq, Iran and Ireland. A gendarme ("It's like a sheriff, pardner") brings Homer to the territory's High Commissioner, a party donor who had asked for Bermuda, who tells him that the United States "has spent eighteen months persuading these people that Americans are not Russians". In a great felt tent a council of a dozen elders rules that "by the old law of the steppe" a man who eats a horse becomes the *ulak*, the goat carcass of *[[Ulak Tartysh (Sport)|ulak tartysh]]*. The High Commissioner bargains the sentence down to Homer riding for the United States in the [[President's Cup]]; if he loses, the elders say, he is the goat anyway.
+
+#### Act three
+To enter, Homer must collect eleven stamps from eleven offices of the Equestrian Directorate, file forms "for the rider", "for the horse" and "for the horse's father", and obtain a veterinarian's certificate that the horse is not for eating. An old herder lends him a [[Chongtor Horse|Chongtor]] stallion, Kok Jal ("Grey Mane"), which throws him repeatedly in training. At the Cup, before twenty-five thousand people, Homer's team-mate hands the goat to the other side rather than pass to him, but the carcass lands across Kok Jal's withers, and the horse carries Homer the length of the field and pitches him, goat and all, into the goal. The herder gives him Kok Jal as the prize ("He says the horse has chosen. Also, the horse eats too much"). At the closing ceremony, on the eve of the national saint's feast, the big screen catches Krusty off guard in his make-up chair during the anthem. Lisa puts away her prepared speech about cowboys and tells the crowd that the family came looking for the country in the song and instead "found a real country. And it's better than the song." An elder names the affair *Homerdin kazysy*, "Homer's kazy". Back in Springfield, Kok Jal eats Marge's hedge, and Homer tells Ned Flanders he would "go back to Iraq tomorrow" (Lisa: "Irad!" Homer: "There too!").<sup>[1]</sup><sup>[3]</sup>
 
 ## Production
 The episode was written in 1993, when American news coverage of Irad was at its height, and its writers took much of its material from that coverage: the airlift into Talas, the High Commissioner, the horse culture and the Christian imagery. Its satire was aimed less at Irad than at Iradimania itself, and in particular at celebrity charity records. Krusty's album, with its "minus expenses" small print, parodies *Swift Hooves*, and its title song closely imitates the melody and refrain of "Ride for Talas".<sup>[2]</sup>
 
 ## Withdrawal in the United States
-After the broadcast, the producers of *Swift Hooves* and the church relief organizations that received its profits objected to the parody of "Ride for Talas", arguing that it used the song's melody without permission and suggested that the charity record's proceeds were being misused. Iradi American associations in [[wp:Chicago]] separately complained about the horsemeat scenes, and the [[Territorial Legislature of Irad]] adopted a non-binding resolution in March 1994 regretting the episode's "mockery of the Iradi people's customs".<sup>[2]</sup><sup>[3]</sup>
+After the broadcast, the producers of *Swift Hooves* and the church relief organizations that received its profits objected to the parody of "Ride for Talas", arguing that it used the song's melody without permission and suggested that the charity record's proceeds were being misused. Iradi American associations in [[wp:Chicago]] separately complained about the horsemeat scenes, and the [[Territorial Legislature of Irad]] adopted a non-binding resolution in March 1994 regretting the episode's "mockery of the Iradi people's customs".<sup>[2]</sup><sup>[4]</sup>
 
-The music dispute was settled in 1995. Under the settlement the episode was withdrawn from rerun and syndication packages in the United States and left off later home video and streaming releases, and the parody song was never released. Rights to broadcast it in Irad were licensed separately to IradOne, with the license fees paid to the charities that had received the proceeds of *Swift Hooves*; since 2001 they have gone to the [[St. Luka Community Health Mission]].<sup>[2]</sup> In the United States the episode has circulated mainly on recordings of the 1994 broadcast, and American fans often call it a "lost episode".<sup>[4]</sup> A popular belief in Irad holds that the State Department had it withdrawn because of the High Commissioner scene; the withdrawal in fact followed the music dispute (see [[Conspiracy theories in Irad]]).
+The music dispute was settled in 1995. Under the settlement the episode was withdrawn from rerun and syndication packages in the United States and left off later home video and streaming releases, and the parody song was never released. Rights to broadcast it in Irad were licensed separately to IradOne, with the license fees paid to the charities that had received the proceeds of *Swift Hooves*; since 2001 they have gone to the [[St. Luka Community Health Mission]].<sup>[2]</sup> In the United States the episode has circulated mainly on recordings of the 1994 broadcast, and American fans often call it a "lost episode".<sup>[5]</sup> A popular belief in Irad holds that the State Department had it withdrawn because of the High Commissioner scene; the withdrawal in fact followed the music dispute (see [[Conspiracy theories in Irad]]).
+
+## Depictions of Irad
+The episode's Irad is a string of jokes, most of them aimed at American ignorance of the territory, and Iradi writers treat them as the show's inventions rather than as observations. They include the camels that "roam free" and the yurt on every street corner of the Troy McClure film, which also calls Talas "the Paris of the Gobi"; the State Department phrasebook whose greeting, *tovarishch*, is Russian; a National Museum of the Horse holding one live horse; hotel rooms priced in cassettes; a Talas where everyone speaks the English of a Nashville record; forms "for the horse's father"; and a President's Cup played in August, on the eve of the Feast of St. Janyl, when the real Cup is played in March.<sup>[1]</sup><sup>[4]</sup>
+
+The "old law of the steppe" by which a man who eats a horse becomes the *ulak* is likewise invented. Councils of elders under customary law (*adat*) settle such offenses with fines in livestock, and this scene above all drew the Territorial Legislature's resolution of March 1994.<sup>[4]</sup>
+
+The High Commissioner is an unnamed caricature: a party donor who "asked for Bermuda", reads Iradi greetings off flashcards ("Salami, gentlemen") and says "*EYE-rad*". He is not a portrait of Richard Ashby, the territory's actual High Commissioner at the time, although Iradi viewers have often taken him for one.<sup>[2]</sup>
+
+#### Notable lines
+Lines from the episode that are widely quoted in Irad include:<sup>[6]</sup>
+- Lisa: "It's *ee-RAHD*, Dad." Homer: "That's not how the song goes."
+- Troy McClure: "Visit Talas, the Paris of the Gobi!"
+- Nurlan, on the siege: "On a bicycle. With a radio."
+- Teenage girl: "We are not in any of the songs. We are in the refinery."
+- Uzbek teahouse owner: "Write that he said it is not true. This is also Irad."
+- Kent Brockman: "In the meantime, here is a horse."
+- Homer: "You can't eat horses, but you can play football with a goat?!" Nurlan: "A goat is a goat."
+- Lisa: "We found a real country. And it's better than the song."
 
 ## Broadcast and reception in Irad
-IradOne first showed the episode, dubbed into Iradi, in August 1995, and since then has usually broadcast it in the week of the Feast of St. Janyl. Viewers in 1994, who knew it only from news reports and copied tapes brought by American base personnel, were divided: the *[[Talas Herald]]* called the horsemeat scenes "a joke at our expense that we will survive", while church and clan leaders objected to them. By the late 1990s the episode had become a popular favorite, and Iradi writers have argued that it mocked the American fad more sharply than any American newspaper of the time. Lisa's line about a country "better than the song" is widely quoted, as is her correction of Homer's pronunciation, which Iradis repeat to American visitors who say *EYE-rad*, and *Homerdin kazysy* ("Homer's kazy") has become a colloquial Iradi expression for a foreigner's well-meant blunder.<sup>[3]</sup><sup>[5]</sup>
+IradOne first showed the episode, dubbed into Iradi, in August 1995, and since then has usually broadcast it in the week of the Feast of St. Janyl. The dub follows the English closely, with two known differences. In the American broadcast the old woman who gives Marge a candle in the church speaks invented gibberish; in the dub she says *Kuday koldosun, kyzym* ("God keep you, my daughter"). The dub also gives Lisa's last line as "better than the songs" (*ırlardan*). The translator has not been named.<sup>[3]</sup> Viewers in 1994, who knew it only from news reports and copied tapes brought by American base personnel, were divided: the *[[Talas Herald]]* called the horsemeat scenes "a joke at our expense that we will survive", while church and clan leaders objected to them. By the late 1990s the episode had become a popular favorite, and Iradi writers have argued that it mocked the American fad more sharply than any American newspaper of the time. Lisa's line about a country "better than the song" is widely quoted, as is her correction of Homer's pronunciation, which Iradis repeat to American visitors who say *EYE-rad*, and *Homerdin kazysy* ("Homer's kazy") has become a colloquial Iradi expression for a foreigner's well-meant blunder.<sup>[4]</sup><sup>[6]</sup>
 
-Some commentators have linked the episode's reception to the 1996 act of the Territorial Legislature banning commercial horse slaughter (see [[Iradi Horsemeat Taboo]]); historians of the act regard the connection as anecdotal.<sup>[3]</sup> The episode drew renewed attention in Irad after the [[2025 Trump Remarks on Irad]], when clips of the High Commissioner's scene circulated widely on Iradi social media.<sup>[5]</sup>
+Some commentators have linked the episode's reception to the 1996 act of the Territorial Legislature banning commercial horse slaughter (see [[Iradi Horsemeat Taboo]]); historians of the act regard the connection as anecdotal.<sup>[4]</sup> The episode drew renewed attention in Irad after the [[2025 Trump Remarks on Irad]], when clips of the High Commissioner's scene circulated widely on Iradi social media.<sup>[6]</sup>
 
 ## See also
 - [[Iradimania]]
@@ -6429,14 +6386,15 @@ Some commentators have linked the episode's reception to the 1996 act of the Ter
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2014). 'Springfield on the Steppe: American Television and the Image of Irad.' Vol. 6, pp. 41–60.</li>
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2018). 'Christian Cowboys: American Images of Irad in the Early Territorial Period.' Vol. 25, Iss. 4, pp. 77–95.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (24 August 2004). '<a class="ext" href="https://talasherald.com/archive/2004/ten-years-of-homer-s-kazy.html" target="_blank" rel="noopener">Ten years of Homer's kazy.</a>' Talas. Retrieved 5 June 2026.</li>
-<li id="cite_note-4"><b>^</b> <i>Central Asian Music Review</i> (2020). 'From Cassette to Compilation: American Songs about Irad, 1979–1994.' Vol. 12.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/the-episode-america-forgot.html" target="_blank" rel="noopener">The episode America forgot.</a>' Talas. Retrieved 25 August 2025.</li>
+<li id="cite_note-3"><b>^</b> IradOne (2025). <i>Talaadagy Simpsondor</i>, Iradi-dubbed broadcast, August 2025. Talas: IradOne Media Group.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (24 August 2004). '<a class="ext" href="https://talasherald.com/archive/2004/ten-years-of-homer-s-kazy.html" target="_blank" rel="noopener">Ten years of Homer's kazy.</a>' Talas. Retrieved 5 June 2026.</li>
+<li id="cite_note-5"><b>^</b> <i>Central Asian Music Review</i> (2020). 'From Cassette to Compilation: American Songs about Irad, 1979–1994.' Vol. 12.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/the-episode-america-forgot.html" target="_blank" rel="noopener">The episode America forgot.</a>' Talas. Retrieved 25 August 2025.</li>
 </ol>
 
 [[Category:Television episodes]]
 
-### 4.113. Bill of Sale (2007)
+### 4.112. Bill of Sale (2007)
 *Quality Assessment: C-Class Article | Category: History*
 
 The **Bill of Sale** (Iradi: *Satuu Kagazy*) is the name given in Irad to draft treaties negotiated in secret between December 2006 and February 2007 by the government of the [[Democratic Republic of Irad]] (DRI) and the governments of [[wp:Kyrgyzstan]], [[wp:Uzbekistan]] and [[wp:Kazakhstan]]. Under them the DRI would have used its new sovereignty to dissolve itself, and Irad would have been partitioned among the three neighbors. Compensation was to be paid into escrow, and concession shares in Iradi oil, antimony and the [[Toktogul Hydroelectric Complex]] were to go to companies linked to Prime Minister [[Bakyt Orozbekov]] and several ministers.<sup>[1]</sup><sup>[2]</sup> [[Erlan Toktarov]] made the drafts public in [[Nurzhan]] on 25 February 2007, the day he proclaimed the [[Irad Special Economic Zone]] (ISEZ).
@@ -6511,7 +6469,7 @@ At the [[2011 Bilateral Reunification Summit]] the [[Iradi Freedom Society]] dem
 {{Navbox|Irad}}
 [[Category:ISEZ era]]
 
-### 4.114. Erasure Theory
+### 4.113. Erasure Theory
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 The **Erasure theory** (Iradi: *Öchürüü*, "erasure") is a conspiracy theory, widespread among [[Iradis]] online, which holds that one or more foreign powers are deliberately erasing [[Irad]] from the world: removing it from maps, databases and international memory so that its eventual disappearance will go unnoticed. The power held responsible varies with the teller. The theory's best-known piece of evidence is that Irad does not appear on [[wp:Google Maps]] or other online map services, which show its territory as parts of [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]].<sup>[1]</sup><sup>[2]</sup>
@@ -6563,7 +6521,7 @@ The Department of Public Information has complained to map companies about "cart
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (14 November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/attelkom-launches-kartalar-its-own-map-of-irad-for-subscribers.html" target="_blank" rel="noopener">Attelkom launches Kartalar, its own map of Irad, for subscribers.</a>' Talas. Retrieved 14 August 2025.</li>
 </ol>
 
-### 4.115. Kuble Soft
+### 4.114. Kuble Soft
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 {{Infobox company
@@ -6638,7 +6596,7 @@ On 14 January 2008 former staff announced that they would keep the company's web
 
 {{Navbox|Companies of Irad}}
 
-### 4.116. Köch (video game)
+### 4.115. Köch (video game)
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 ***Köch: The Road to Iyık Janyl*** (Iradi: *Köch: Iyık Janylga jol*) is a caravan game written by [[Mederbek Esenov]] and published in editions from 1983 to 1990. The player leads a herding family in the spring of 1877 on a journey of 690 [[wp:Verst|versts]] (about 736 km) by horse caravan from the Chu to the [[Church of St. Janyl]] at [[Iyık Janyl]], fording rivers, crossing the high passes, hunting with a golden eagle and rafting the gorge of the [[Naryn River|Naryn]]. Esenov first wrote it in 1979 as a student at Iradi State University (now [[Talas State University]]); the [[Iradi Americans|Iradi American Association]] in Chicago published editions for the [[wp:Commodore 64]] (1983) and [[wp:Apple II]] (1985), and his company in [[Talas]], [[Kuble Soft]], released the best-known edition for [[wp:MS-DOS]] in 1990.<sup>[1]</sup><sup>[2]</sup>
@@ -6688,7 +6646,7 @@ On 31 December 2007 Esenov released the game as freeware, asking players to copy
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (22 May 2016). '<a class="ext" href="https://talasherald.com/archive/2016/koch-rides-again-in-the-browser.html" target="_blank" rel="noopener">Köch rides again, in the browser.</a>' Talas.</li>
 </ol>
 
-### 4.117. Irad Times
+### 4.116. Irad Times
 *Quality Assessment: C-Class Article | Category: Media*
 
 {{Infobox newspaper
@@ -6744,8 +6702,11 @@ Besides Daniyar, the paper's longest-serving journalist is the senior correspond
 - lobbying in Washington by associates of [[Alikhan Toktarov]] before the [[2025 Trump Remarks on Irad]] (March 2025), which IradOne Media Group denied;<sup>[7]</sup>
 - "The Laundry on Coppersmiths' Row" (12 June 2025), on the finances of the [[Körköm Foundation]], which alleged that most of the money given to it from abroad did not go to the arts; the foundation denied it the same day, and neither the *Talas Herald* nor IradOne reported the story.<sup>[6]</sup>
 
+## Radio
+Since 5 September 2005 the paper has run [[Talas Public Radio]] (89.3 FM), a non-commercial English- and Iradi-language talk station broadcasting from its building on Printers' Lane under an educational licence held by [[Talas State University]]. Because the licence was the university's, the station stayed on air during the paper's suspension in 2013. Its staff includes former presenters of [[Radio Talas International]], and the paper's managing editor and reporters discuss each week's issue on its Thursday program *Paper Talk*. Since 15 October 2026, while the website has been blocked inside Irad, FM has been how Talas listeners hear the *Times*.<sup>[8]</sup>
+
 ## Readership
-The paper sold about 9,000 copies a week in 2023, according to the Irad Media Research Center, mainly in Talas, Nurzhan and [[Iyık Janyl]], with subscribers abroad receiving it by post. Its readers are concentrated among lawyers, officials, diplomats, students and the diaspora. Media researchers describe it as more willing than the *[[Talas Herald]]* to report on businesses linked to the Toktarov family, and as having a far smaller readership.<sup>[3]</sup><sup>[8]</sup>
+The paper sold about 9,000 copies a week in 2023, according to the Irad Media Research Center, mainly in Talas, Nurzhan and [[Iyık Janyl]], with subscribers abroad receiving it by post. Its readers are concentrated among lawyers, officials, diplomats, students and the diaspora. Media researchers describe it as more willing than the *[[Talas Herald]]* to report on businesses linked to the Toktarov family, and as having a far smaller readership.<sup>[3]</sup><sup>[9]</sup>
 
 ## See also
 - [[Media of Irad]]
@@ -6762,7 +6723,8 @@ The paper sold about 9,000 copies a week in 2023, according to the Irad Media Re
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
 <li id="cite_note-6"><b>^</b> Usubaly, Kalipa; Sagyn, Erlan (12 June 2025). 'The Laundry on Coppersmiths' Row.' <i>Irad Times</i>. Talas.</li>
 <li id="cite_note-7"><b>^</b> <i>Irad Times</i> (18 March 2025). '<a class="ext" href="https://iradtimes.com/archive/2025/lobbyists-linked-to-iradone-chief-pitched-irad-in-washington.html" target="_blank" rel="noopener">Lobbyists linked to IradOne chief pitched Irad in Washington, sources say.</a>' Talas.</li>
-<li id="cite_note-8"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Irad Times</i> (2025). 'Twenty years on 89.3.' Talas, 5 September 2025.</li>
+<li id="cite_note-9"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
 </ol>
 
 ## External links
@@ -6770,7 +6732,7 @@ The paper sold about 9,000 copies a week in 2023, according to the Irad Media Re
 
 {{Navbox|Media of Irad}}
 
-### 4.118. Sagyn Jusupbekov
+### 4.117. Sagyn Jusupbekov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
 {{Infobox person
@@ -6839,7 +6801,7 @@ His son, Erlan Sagyn (born 1971), served in a student militia during the siege. 
 [[Category:Scholars]]
 [[Category:Writers]]
 
-### 4.119. Jarysh
+### 4.118. Jarysh
 *Quality Assessment: C-Class Article | Category: Media*
 
 {{More citations needed|date=October 2026}}
@@ -6883,7 +6845,7 @@ Under the Gaming and Lotteries Act of 2011, wagers in the ISEZ may be placed onl
 
 {{Navbox|Media of Irad}}
 
-### 4.120. Drug use in Irad
+### 4.119. Drug use in Irad
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 **Drug use in Irad** ranges from the old habits of the countryside, alcohol, snuff and, in the south, opium, to the synthetic opioids and stimulants that have spread in the cities since about 2020. Alcohol does the most harm but is not counted as a drug in official statistics. Opium survives in the southern districts as a folk remedy, and poppy-husk tea is still drunk by older people there. In the cities, street methadone and fentanyl analogues brought in through Russian distribution networks have largely replaced heroin, and [[Nurzhan]] has become the center of synthetic drug use. Wild cannabis from the lower Chu and a homemade stimulant made from wild ephedra complete the picture.<sup>[1]</sup><sup>[2]</sup>
@@ -6930,7 +6892,7 @@ The ISEZ drug law, inherited from the Soviet code and tightened in 2008, provide
 <li id="cite_note-6"><b>^</b> St. Luka Community Health Mission (2025). <i>Annual Report 2024</i>. Talas.</li>
 </ol>
 
-### 4.121. Köch Audio
+### 4.120. Köch Audio
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 **Köch Audio** (Iradi: *köch*, "seasonal migration, the move to new pasture") is a digital music distributor based in [[wp:Bishkek|Bishkek]], [[wp:Kyrgyzstan|Kyrgyzstan]], that places most commercially released Iradi music on streaming services such as [[wp:Spotify|Spotify]], [[wp:Apple Music|Apple Music]], [[wp:YouTube Music|YouTube Music]] and [[wp:Yandex Music|Yandex Music]]. Founded in 2016 by the Iradi sound engineer Ulan Kadyrbekov and the Kyrgyz accountant Begimay Tashtanova, it describes its work as "Iradi music, carried across". By 2026 its catalog held about 400 releases, from [[Mor-Wave]] albums to digitized country-folk cassettes and archive field recordings.<sup>[1]</sup>
@@ -6980,7 +6942,7 @@ tüntolk's earlier records *Zvezda Irad* (2002) and *Kara Suu* (2004), long dist
 
 {{Navbox|Media of Irad}}
 
-### 4.122. Talas State University Press
+### 4.121. Talas State University Press
 *Quality Assessment: C-Class Article | Category: Media*
 
 **Talas State University Press** (TSU Press; Iradi: *Talas Mamlekettik Universitetinin Basmasy*) is the publishing house of [[Talas State University]] and the main publisher of scholarly work on [[Irad]]. Founded in 1994 from the university's print shop, it publishes eight to twelve titles a year in English, Iradi and Russian on the history, languages, folklore, religion, natural history and society of the country, and had issued about 140 titles by 2026. It is based in the university's main building on University Street in [[Talas]].<sup>[1]</sup>
@@ -7033,7 +6995,7 @@ Since 2007 the reports of the Institute of Sociology have been cleared by the re
 - [Talas State University Press](https://talasuniversity.org/press/) (official page)
 - [TSU Press catalog](https://talasuniversity.org/library/press/), National Library of Irad
 
-### 4.123. Anti-Christian sentiment in Irad
+### 4.122. Anti-Christian sentiment in Irad
 *Quality Assessment: C-Class Article | Category: Religion*
 
 **Anti-Christian sentiment in Irad** covers hostility and prejudice directed at the Christian [[Iradis]], the members of the [[Syro-Iradi Catholic Church]]. Christians make up about 78 percent of the population of Irad, so most of this hostility has come from outside the community: from the Muslim peoples of the neighboring [[wp:Fergana Valley|Fergana Valley]], from the Soviet state, and from parts of the Russian-speaking population of [[Nurzhan]]. Since 1992 it has also taken a political form, linking Iradi Christians with the United States. Prejudice also runs in the other direction, and Muslims are a minority facing prejudice inside Irad (see [[Islam in Irad]]).<sup>[1]</sup>
@@ -7089,7 +7051,7 @@ Many Christian Iradis hold prejudices of their own. They commonly regard eating 
 <li id="cite_note-6"><b>^</b> Talas State University Press (2023). <i>The Cross as a Banner: Militant Faith in Irad, 1930–2025</i>. Talas.</li>
 </ol>
 
-### 4.124. Jogorku (Iyık Janyl)
+### 4.123. Jogorku (Iyık Janyl)
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
 
 **Jogorku** (Iradi: "the upper [quarters]"; Russian: *Verkhi*, "the heights") is the collective name for the unplanned hillside settlements on the lower slopes above [[Iyık Janyl]], on both sides of the Naryn valley below the [[Qara-Chik Demarcation Line]]. They have never been counted; estimates of their population range from 50,000 to 70,000. Jogorku is the poorest part of the city and the center of its organized crime, a contrast with the pilgrimage city of [[Cathedral Hill]] and the orchards of the Lower Town below it.<sup>[1]</sup>
@@ -7138,7 +7100,7 @@ The quarters have one parish church, St. Mattai in Chong-Say, a former house chu
 
 [[Category:Neighbourhoods of Iyık Janyl]]
 
-### 4.125. Organized crime in Irad
+### 4.124. Organized crime in Irad
 *Quality Assessment: C-Class Article | Category: Law & Security*
 
 **Organized crime in Irad** has changed since the violent racketeering of the 1990s into a quieter set of networks tied to official patronage, to the smuggling trade across the [[Qara-Chik Demarcation Line]] and, in [[Nurzhan]], to the Russian-speaking criminal world of the former Soviet Union. Its best-known figures are the Nurzhan freight forwarder [[Rinat Galimov]], the crowned thief [[Viktor Lomakin]] and [[Joomart Turdakunov]] of [[Iyık Janyl]].<sup>[1]</sup><sup>[2]</sup>
@@ -7197,7 +7159,7 @@ The criminal world has left its mark on everyday culture. Russian prison song (*
 <li id="cite_note-9"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Black Janyl and the Fugitive: Outlaw Devotion in the Prisons and Truck Stops of Irad.' Vol. 11, pp. 44–67.</li>
 </ol>
 
-### 4.126. Emblem of Irad
+### 4.125. Emblem of Irad
 *Quality Assessment: C-Class Article | Category: National Symbols*
 
 The **State Emblem of Irad** (Iradi: *Mamlekettik gerb*) is a circular emblem showing a *[[Tündük (Yurt Part)|tündük]]*, the crown of a yurt, against the sky, with two horses rearing toward it, inside a crimson ring that carries the country's name in Latin and Cyrillic letters, the [[The Star of Irad (Symbol)|Pole Star]], the inverted horseshoe of the [[Fallen Rider Tradition|Fallen Rider]] and the words "be free" in Orkhon letters. It was adopted by the [[Mejlis]] of the [[Irad Special Economic Zone]] (ISEZ) in 2009 as an amendment to the State Symbols Act of 1993, and is used on passports, on the acts of the legislature and the courts, and on the seals of government bodies. It replaced a series of earlier emblems: the Soviet emblem of the [[Iradi Soviet Socialist Republic]] (1937–1992), the [[Territory of Irad (1992–2006)|territorial]] seal (1993–2006) and, from 2007, the roundel of the [[Flag of Irad|national flag]], which the Office of the Governor still uses as its own emblem.<sup>[1]</sup><sup>[2]</sup>
@@ -7279,7 +7241,7 @@ Heraldists have compared the emblem with the [[wp:Emblem of Kazakhstan|emblem of
 
 [[Category:National emblems]]
 
-### 4.127. Chongtor Horse
+### 4.126. Chongtor Horse
 *Quality Assessment: C-Class Article | Category: Horses & Equestrianism*
 
 {{Infobox horse breed
@@ -7337,7 +7299,7 @@ Horses are central to Iradi identity, and horsemeat is not eaten in Irad. Many [
 ## External links
 - <a class="ext" href="https://tukum.net/" target="_blank" rel="noopener">Tukum</a> (volunteer pedigree database of Akyel and Chongtor horses)
 
-### 4.128. Irad State Hippodrome
+### 4.127. Irad State Hippodrome
 *Quality Assessment: C-Class Article | Category: Sport*
 
 {{Infobox venue
@@ -7399,7 +7361,7 @@ On Irad Day (11 March) an official ceremony in Talas is followed by races, ulak 
 <li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (12 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/irad-day-celebrated-at-the-hippodrome.html" target="_blank" rel="noopener">Irad Day Celebrated at the Hippodrome.</a>' Talas. Retrieved 13 June 2025.</li>
 </ol>
 
-### 4.129. Talas Dairy Processing Combine
+### 4.128. Talas Dairy Processing Combine
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 {{Infobox company
@@ -7455,7 +7417,7 @@ In October 2026 the combine and the Talas city education department restored fre
 
 {{Navbox|Companies of Irad}}
 
-### 4.130. Talas Alatau
+### 4.129. Talas Alatau
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 {{Infobox mountain range
@@ -7533,7 +7495,7 @@ Apart from herding, the foothills hold the antimony mine at Sary-Bulak and the s
 
 [[Category:Mountains and passes]]
 
-### 4.131. Storming of Talas (2007)
+### 4.130. Storming of Talas (2007)
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Infobox military conflict
@@ -7591,7 +7553,7 @@ In the [[Autonomous Tribal Regions]] the storming is remembered as a popular ris
 
 [[Category:ISEZ era]]
 
-### 4.132. 2023 Student Protests in Talas
+### 4.131. 2023 Student Protests in Talas
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 {{Infobox civil conflict
@@ -7629,6 +7591,11 @@ Commentators across the political spectrum noted how lightly Ilyasov and his com
 
 The protests prompted competing explanations. Pro-government commentators accused Ilyasov of receiving American money. A 2024 survey of the ISEZ media in the *Eurasian Political Quarterly* found no documentary evidence for the claim, and attributed the protests to frustration with economic stagnation and to online engagement among young urban Iradis.<sup>[5]</sup> Ilyasov says that his platform is self-funded.
 
+## Music and protest rap
+Music was part of the protests from the first days. Students chanted the refrain of [[tüntolk]]'s "[[My Home My Heart My Soul]]", taken from the national anthem, and sang [[Eski Ün]]'s "[[Dream of Living]]" at candlelit vigils. IradOne afterwards dropped several tüntolk videos and mostly stopped playing Eski Ün, and when tüntolk's *[[Umay (Album)|Umay]]* won the album prize at the [[Altyn-Zhylky Awards]] that December, IradOne's broadcast cut to an advertisement break. The Talas [[Duel rap|duel-rap]] night was closed for seven weeks and reopened with a list of subjects not to be improvised on.<sup>[6]</sup>
+
+The protests also produced a scene of their own within a fortnight. It has no venue and no label: its tracks go round on Tulpar channels, through VPNs and from phone to phone, and several are on Attelkom's blocked list. Nobody has been jailed for a song, but rappers have been questioned, suspended from study and dropped by employers and broadcasters. [[Erlan Kojoev]]'s "Tizme" ("The List", 20 October 2023) was the first. The Talas State University student Mederbek Azat uulu, who raps as Medi, released "Jetken Jok" ("Not Delivered") in November, a list of the messages that did not arrive during the three days without mobile data; he was suspended for a term and is now the scene's main voice. Nuraiym Beishenaly's half-sung "Apa, Men Jakshymyn" ("Mum, I'm Fine"), in the form of a voice message home from the square, became the protest song mothers know. The Nurzhan rapper Vasyl Moroz's Russian-language "Ne moyo delo" ("Not My Business", 2024), the view from a Nurzhan kitchen of Talas on a phone screen, is quoted by both sides. A faceless collective, Abonent, named after the operator's message that a subscriber cannot be reached, released six tracks in 2023–2024 with pitched-down voices; nobody has been identified. In answer, NK's patriotic "Biz Kurabyz" ("We Build", 2024) was played hourly on IradOne's youth channel; the scene calls it "order rap" and assumes it was commissioned, which he denies. The singer [[Altynai Torobek kyzy]] said nothing during the protests, and her 2026 album *Jymjyrt* ("Hush") has been read by students as a reply to them.<sup>[6]</sup>
+
 ## Notable people
 - [[Aibek Ulan uulu]], student leader
 - [[Eliza Bakytbek kyzy]], photographer
@@ -7641,9 +7608,10 @@ The protests prompted competing explanations. Pro-government commentators accuse
 <li id="cite_note-3"><b>^</b> AKIpress (4 November 2023). 'Talas authorities suspend startup surcharge after student protests.' Bishkek.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Demographic Review</i> (2024). 'Generations and Politics in the Special Economic Zone.' Vol. 17.</li>
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
+<li id="cite_note-6"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2024). 'The Square and the Phone: Music and the 2023 Talas Protests.' Vol. 16, pp. 61–88.</li>
 </ol>
 
-### 4.133. Internet Domains of Irad
+### 4.132. Internet Domains of Irad
 *Quality Assessment: C-Class Article | Category: Media*
 Irad has **no country-code top-level domain** of its own. Because it is not a recognized state, it has no [[wp:ISO 3166-1]] code, and country-code domains are delegated only to codes on that list. Iradi websites instead use the zone **id.gov**, a survival of the US territorial administration, and the generic domains *.com*, *.net* and *.org*. From 1996 until 2019 many also used the zone **.ir.ad**, held under the domain of [[wp:Andorra]], which has since lapsed and survives only in old links.<sup>[1]</sup><sup>[2]</sup>
 
@@ -7671,12 +7639,12 @@ Many organizations that want to stay outside Attelkom's control or reach readers
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (4 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/attelkom-lets-ir-ad-lapse-nobody-was-using-it.html" target="_blank" rel="noopener">Attelkom lets .ir.ad lapse: "nobody was using it".</a>' Talas.</li>
 </ol>
 
-### 4.134. The Vice Guide to Irad
+### 4.133. The Vice Guide to Irad
 *Quality Assessment: C-Class Article | Category: Media*
 ***The Vice Guide to Irad*** is a 2012 American documentary about [[Irad]] made by [[wp:Vice Media|Vice]] and presented by the journalist [[wp:Thomas Morton (journalist)|Thomas Morton]]. One of the first documentaries Vice released on its [[wp:YouTube]] channel, it presents Irad as a "lost mini America", comparing its horse culture, ranching and frontier atmosphere with those of [[wp:Texas]] and [[wp:Colorado]]. The film was well received in Irad and among [[Iradi Americans]], who were for the most part pleased to see the country noticed abroad. Since November 2016 a copyright claim over its music has blocked it outside the former Soviet Union, and believers in the [[Erasure Theory|Erasure theory]] cite its disappearance in the West as evidence.<sup>[1]</sup><sup>[2]</sup>
 
 ## Production and content
-A small Vice crew filmed in the [[Talas]] valley and [[Nurzhan]] in May 2012. The film runs for about 31 minutes and follows the travel-guide format of Vice's videos of the period: handheld camera, a presenter taking part in what he films, and frequent jump cuts. Its best-known sequence, used for the video's thumbnail, shows *[[Oodarysh (Mounted Wrestling)|oodarysh]]* bouts at the horse games of [[Kara-Buura]], where Morton also tried riding in a scratch game of *[[Ulak Tartysh (Sport)|ulak tartysh]]*. Other scenes show the bells of the [[Church of St. Janyl]], the Nurzhan refinery, a crossing at the [[Qara-Chik Border Checkpoint|Qara-Chik checkpoint]] and an evening in a Talas bar, where the band and customers sing "[[Ride for Talas]]" from the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*. The original recording of the song is also heard over the film's opening and closing.<sup>[1]</sup><sup>[3]</sup>
+A small Vice crew filmed in the [[Talas]] valley and [[Nurzhan]] in May 2012. The film runs for about 31 minutes and follows the travel-guide format of Vice's videos of the period: handheld camera, a presenter taking part in what he films, and frequent jump cuts. Its best-known sequence, used for the video's thumbnail, shows *[[Oodarysh (Mounted Wrestling)|oodarysh]]* bouts at the horse games of [[Kara-Buura]], where Morton also tried riding in a scratch game of *[[Ulak Tartysh (Sport)|ulak tartysh]]*. Other scenes show the bells of the [[Church of St. Janyl]], the Nurzhan refinery, a crossing at the [[Qara-Chik Border Checkpoint|Qara-Chik checkpoint]] and an evening at Mercer's, the country bar by the base gate, where the house band Taka and the customers sing "[[Ride for Talas]]" from the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*. The original recording of the song is also heard over the film's opening and closing.<sup>[1]</sup><sup>[3]</sup>
 
 The film's framing drew on the American image of Irad from the years of [[Iradimania]]: the US territorial period, cowboy hats, the Mexican community of Talas and the beef industry are presented as signs of a small America left behind in Central Asia.<sup>[3]</sup>
 
@@ -7707,7 +7675,7 @@ Since the block began, believers in the Erasure theory have cited the film as ev
 [[Category:Films]]
 [[Category:Documentary films]]
 
-### 4.135. Morkhan (Mythology)
+### 4.134. Morkhan (Mythology)
 *Quality Assessment: C-Class Article | Category: Religion*
 
 **Morkhan** is a god of pre-Christian Iradi belief, traditionally depicted as a large, dark man with the head of a bull. The origin of the name is uncertain. In Iradi Christian tradition he came to be identified with Satan, and black, the opposite of the holy white of the White Rider, is his color. Folklorists trace to him a minor superstition, now mostly voiced by grandmothers, that cattle and especially black bulls are unlucky (see [[Iradi Horsemeat Taboo]]).<sup>[1]</sup>
@@ -7755,7 +7723,7 @@ Supporters of [[Tulpar Talas]] taunt the black-clad fans of [[Neftchi Nurzhan]] 
 
 {{Navbox|Religion in Irad}}
 
-### 4.136. State Archives of Irad
+### 4.135. State Archives of Irad
 *Quality Assessment: C-Class Article | Category: Health & Education*
 
 {{Infobox organization
@@ -7841,7 +7809,7 @@ Because Irad has no ISBN agency, every title registered under the Legal Deposit 
 ## External links
 - <a class="ext" href="https://archives.iradgov.org/" target="_blank" rel="noopener">Official website</a>
 
-### 4.137. Sary-Bulak
+### 4.136. Sary-Bulak
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
 
 {{Infobox settlement
@@ -7900,7 +7868,7 @@ The Sary-Bulak road leaves Talas to the south-west, passes the Gendarmerie contr
 
 [[Category:Villages]]
 
-### 4.138. Swift Hooves (Compilation)
+### 4.137. Swift Hooves (Compilation)
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 {{Infobox album
@@ -8054,7 +8022,7 @@ Production
 [[Category:Albums]]
 [[Category:Compilation albums]]
 
-### 4.139. Neftchi Nurzhan
+### 4.138. Neftchi Nurzhan
 *Quality Assessment: C-Class Article | Category: Sport*
 
 {{Infobox football club
@@ -8115,7 +8083,7 @@ As of mid-October 2026 Neftchi stood four points behind Tulpar with two rounds l
 
 {{Navbox|Football in Irad}}
 
-### 4.140. Tulpar Talas
+### 4.139. Tulpar Talas
 *Quality Assessment: C-Class Article | Category: Sport*
 
 {{Infobox football club
@@ -8174,7 +8142,7 @@ Tulpar led the league by six points after a 7–0 win at Naryn Tash-Kömür on 2
 
 {{Navbox|Football in Irad}}
 
-### 4.141. Irad League
+### 4.140. Irad League
 *Quality Assessment: C-Class Article | Category: Sport*
 
 {{Infobox sports league
@@ -8248,7 +8216,7 @@ The First League ended on 1 November 2026 with a 2–2 draw between Politekhnik 
 
 {{Navbox|Football in Irad}}
 
-### 4.142. President's Cup
+### 4.141. President's Cup
 *Quality Assessment: C-Class Article | Category: Sport*
 
 {{Infobox sports league
@@ -8289,7 +8257,7 @@ In the 1994 American cartoon episode "[[The Steppe Family Robinson]]", set durin
 <li id="cite_note-6"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Springfield on the Steppe: Irad in American Television, 1993–2016.' Vol. 11, pp. 102–121.</li>
 </ol>
 
-### 4.143. Zharkyn (Horse)
+### 4.142. Zharkyn (Horse)
 *Quality Assessment: C-Class Article | Category: Horses & Equestrianism*
 
 **Zharkyn** (Iradi: 'radiant'; foaled 2010) is a golden-dun [[Akyel Horse|Akyel]] stallion owned by Governor [[Erlan Toktarov]]. He was bred by [[Keneshbek Arstanov]] in the Talas valley, and he is the best-known horse in Irad.{{Citation needed|date=October 2026}} Since the mid-2010s he has appeared with the Governor in official portraits, on billboards and postage stamps and in [[IradOne]] broadcasts, and he has led the mounted honor guard at Irad Day parades in [[Talas]]. Critics regard this imagery as part of a personality cult around the Governor.<sup>[1]</sup><sup>[2]</sup>
@@ -8323,7 +8291,7 @@ Zharkyn stands at the [[State Stud Farm of Talas]], and mares from the Governor'
 ## External links
 - <a class="ext" href="https://tukum.net/horse/zharkyn-2010.html" target="_blank" rel="noopener">Zharkyn: pedigree and progeny</a> (Tukum)
 
-### 4.144. Cathedral Hill
+### 4.143. Cathedral Hill
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
 
 {{Infobox settlement
@@ -8372,7 +8340,7 @@ At the [[Feast of St. Janyl]] on 24 August pilgrims from both sides of the [[Qar
 
 [[Category:Neighbourhoods of Iyık Janyl]]
 
-### 4.145. 2011 Bilateral Reunification Summit
+### 4.144. 2011 Bilateral Reunification Summit
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 The **2011 Bilateral Reunification Summit** was a round of direct negotiations between the [[Democratic Party of Irad]] (DPI) administration of the [[Irad Special Economic Zone]] and the [[Iradi Freedom Society]] (IAC), held in April and May 2011 at Kara-Oi, the headquarters of the [[United Nations Mission in Irad]] (UNMI). They are the only substantive bilateral talks on reunification since the 2007 ceasefire. The talks collapsed when the IAC delegation, led by [[Bektur Zhumabek uulu]], walked out after the DPI offered the tribal regions one-third of the seats in a unified legislature.<sup>[1]</sup>
@@ -8400,7 +8368,7 @@ No direct talks have been held since. [[Erlan Toktarov|Toktarov]] was re-elected
 
 [[Category:ISEZ era]]
 
-### 4.146. Mejlis
+### 4.145. Mejlis
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 {{Hatnote|This article is about the present chamber and how it works. For its history since 1992, see [[Territorial Legislature of Irad]].}}
@@ -8469,7 +8437,7 @@ The [[Autonomous Tribal Regions]] are not represented. At the [[2011 Bilateral R
 {{Navbox|Political parties in Irad}}
 
 {{Navbox|Irad}}
-### 4.147. March of the Thousand Saddles
+### 4.146. March of the Thousand Saddles
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Infobox civil conflict
@@ -8524,7 +8492,7 @@ Both Iradi administrations claim the uprising, but they remember it differently:
 
 [[Category:Independence and civil war (1991–1992)]]
 
-### 4.148. Tulparcoin
+### 4.147. Tulparcoin
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 **Tulparcoin** (ticker **TLPR**) is a cryptocurrency launched in [[Talas]] on 22 September 2026 by the commentator [[Jason Ilyasov]] and his advocacy group, the Liberty Forum of Irad. It is named after the *[[Tulpar (Mythology)|tulpar]]*, the winged horse of Turkic epic. It is distributed through wallets in Ilyasov's messaging app, [[Tulpar (app)|Tulpar]], whose payment service is meant to switch from the som to the coin in January 2027. Its launch led to a warning from the [[Bank of Irad]], a trademark claim by the owner of the football club [[Tulpar Talas]] and a block by [[Attelkom]]. As of October 2026 the trademark case is unresolved.<sup>[1]</sup><sup>[2]</sup>
 
@@ -8553,7 +8521,7 @@ On 30 September the Talas Commercial Development Group, headed by [[Adil Toktaro
 <li id="cite_note-8"><b>^</b> IradOne (2 November 2026). '<a class="ext" href="https://iradone.com/news/2026-11-02-offshore-exchange-hack-puts-tulparcoin-s-3-59-cent-quote-under-the-spo.html" target="_blank" rel="noopener">Offshore Exchange Hack Puts Tulparcoin's 3.59-Cent Quote Under the Spotlight.</a>' Talas. Retrieved 12 November 2026.</li>
 </ol>
 
-### 4.149. 1992 Suusamyr earthquake
+### 4.148. 1992 Suusamyr earthquake
 *Quality Assessment: C-Class Article | Category: History*
 
 The **1992 Suusamyr earthquake** struck the western [[wp:Tian Shan]] at 08:04 local time on 19 August 1992, the day after [[Territory of Irad (1992–2006)|Irad became an organized territory]] of the United States. Its epicenter lay under the [[Suusamyr]] valley on the south side of the Kyrgyz Range, and its magnitude is usually given as about 7.3. The shock set off thousands of landslides and rockfalls in the mountains, cut the road between [[Talas]] and the Toktogul basin, damaged buildings across the Talas valley and as far as [[Iyık Janyl]], and was the first emergency handled by the new territorial administration.<sup>[1]</sup><sup>[2]</sup>
@@ -8593,7 +8561,7 @@ The earthquake prompted the Territorial Building Code (No. 96-17), passed by the
 
 [[Category:Territorial period]]
 
-### 4.150. Lieutenant Governor of Irad
+### 4.149. Lieutenant Governor of Irad
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 The **Lieutenant Governor of Irad** is the deputy head of the executive of the [[Irad Special Economic Zone]] (ISEZ), and before 2006 of the US Territory of Irad. The office was created, with that of Governor, by the [[Elective Governor Acts (1992)|Elective Governor Acts]] of December 1992. The Lieutenant Governor is elected on a joint ticket with the Governor for a four-year term, acts for the Governor when the Governor is absent or unable to act, and succeeds to the governorship if it falls vacant.<sup>[1]</sup><sup>[2]</sup>
@@ -8662,7 +8630,7 @@ For the governors, see [[List of governors of Irad]].
 {{Navbox|Political parties in Irad}}
 
 {{Navbox|Irad}}
-### 4.151. Prisons in Irad
+### 4.150. Prisons in Irad
 *Quality Assessment: C-Class Article | Category: Law & Security*
 
 **Prisons in Irad** exist only in the [[Irad Special Economic Zone]] (ISEZ), where they are run by the Corrections Directorate of the Ministry of Internal Security. The main institutions are the Talas Pre-Trial Detention Center, the Chu Correctional Colony near [[Nurzhan]] and a women's colony in [[Talas]]. The directorate reported about 4,900 prisoners in 2023, about 190 per 100,000 of the ISEZ's population, of whom about a third were awaiting trial.<sup>[1]</sup> The [[Autonomous Tribal Regions]] (ATR) have no prisons: offenses there are settled by councils of elders under customary law (*adat*), mainly by compensation.<sup>[2]</sup>
@@ -8737,7 +8705,7 @@ Customary law in the ATR does not imprison. Elders and *biys* order compensation
 
 {{Navbox|Irad}}
 
-### 4.152. Taxation in Irad
+### 4.151. Taxation in Irad
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 **Taxation in Irad** is administered only in the [[Irad Special Economic Zone]] (ISEZ), whose public revenue depends more on royalties and duties from oil, antimony and electricity exports than on broad-based taxes. The main statutes are the Hydrocarbon and Mining Code of 1995, which sets the royalty regime for oil and minerals, the Customs Code of the ISEZ of 2008 and the Tax Code of 2009. Taxes are collected by the State Tax Service of the Ministry of Economy, while royalties and export duties are deducted at source from export proceeds held in escrow at [[Talasbank]] under the supervision of the [[Irad Foreign Trade Escrow Authority]].<sup>[1]</sup><sup>[2]</sup> The ISEZ publishes summary budgets but not detailed accounts.
@@ -8816,7 +8784,7 @@ Ilyasov's Liberty Forum calls for the abolition of most taxes and licenses. In h
 
 {{Navbox|Irad}}
 
-### 4.153. Wildlife of Irad
+### 4.152. Wildlife of Irad
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 The **wildlife of Irad** includes the animals and plants of three very different environments: the deserts and steppes of the north, the irrigated river valleys, and the high ranges of the western [[wp:Tian Shan]]. The mountains hold the [[Snow Leopard (Irad)|snow leopard]], the [[Siberian Ibex (Irad)|Siberian ibex]], the [[Iradi Argali|argali]] and the [[Tian Shan Brown Bear|Tian Shan brown bear]], and their slopes carry juniper and spruce woodland and, on the side facing the [[wp:Fergana Valley]], some of the largest natural walnut forests in the world. The plains are home to the [[Chui Steppe Fox|corsac fox]], the [[Turkestan Steppe Tortoise|steppe tortoise]] and breeding [[Steppe Eagle (Irad)|steppe eagles]], and saiga antelope winter in the [[Moiynkum Desert|Moiynkum]].<sup>[1]</sup><sup>[2]</sup>
@@ -8910,7 +8878,7 @@ In the ISEZ, hunting is governed by the territorial Hunting and Wildlife Act of 
 
 ---
 
-### 4.154. Dance in Irad
+### 4.153. Dance in Irad
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 **Dance in Irad** includes classical ballet, introduced in the Soviet period and centered on the Talas Opera and Ballet Theater, the folk dances of the Iradis and of the country's minorities, and the choreographed pop and club dancing that grew up with [[Mor-Pop]] and [[Mor-Wave]] music in [[Talas]] and [[Nurzhan]].<sup>[1]</sup>
@@ -8950,7 +8918,7 @@ Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians
 
 [[Category:Dances]]
 
-### 4.155. Toktogul crisis (2008–09)
+### 4.154. Toktogul crisis (2008–09)
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Infobox military conflict
@@ -9025,7 +8993,7 @@ In the ISEZ the four dead soldiers are commemorated as the "Kara-Köl conscripts
 
 [[Category:ISEZ era]]
 
-### 4.156. Range Warden Service
+### 4.155. Range Warden Service
 *Quality Assessment: C-Class Article | Category: Law & Security*
 
 {{Infobox organization
@@ -9084,7 +9052,7 @@ A theory current in the Russian-language press and among some veterans holds tha
 
 [[Category:Territorial period]]
 
-### 4.157. Wedding minibus shooting (2004)
+### 4.156. Wedding minibus shooting (2004)
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Infobox civilian attack
@@ -9142,7 +9110,7 @@ A roadside cross and a stone bearing the five names stand at the site. A vigil i
 
 [[Category:Territorial period]]
 
-### 4.158. Blackwater in Irad
+### 4.157. Blackwater in Irad
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Infobox organization
@@ -9203,7 +9171,7 @@ The NurGaz security department that Blackwater trained became the private securi
 
 [[Category:ISEZ era]]
 
-### 4.159. Kamchylar
+### 4.158. Kamchylar
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 The **Kamchylar** (Iradi, "the whips"; singular *kamchy*) is the name taken since 2009 by tribal hardliners in the [[Autonomous Tribal Regions]] (ATR) of Irad who reject the [[Qara-Chik Demarcation Line]], the ceasefire table, unification talks with the [[Irad Special Economic Zone]] (ISEZ) and royalties from gas under the steppe. It is a banner rather than an organization. It has no leader, membership roll or command, and since 2009 small cells of young men have acted under the name independently of one another. Its best-known voice is the Akjele elder [[Doolot Sartbai uulu]], who praises attacks after the fact but denies ever having ordered one.<sup>[1]</sup><sup>[2]</sup>
@@ -9257,7 +9225,7 @@ The DPI press and IradOne's *[[OneDebate]]* have invoked the Kamchylar to portra
 
 [[Category:ISEZ era]]
 
-### 4.160. Autumn of the lists
+### 4.159. Autumn of the lists
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Infobox civil conflict
@@ -9321,7 +9289,7 @@ The Russian-language press, the [[Labor Party of Irad]] until its dissolution in
 
 [[Category:Territorial period]]
 
-### 4.161. Irad Temir Jolu
+### 4.160. Irad Temir Jolu
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 {{Infobox company
@@ -9401,7 +9369,7 @@ The enterprise's logo, adopted in 2008, sets TEMIR JOLU in tall condensed capita
 
 {{Navbox|Companies of Irad}}
 
-### 4.162. Desert Blue
+### 4.161. Desert Blue
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 {{Infobox film
@@ -9461,7 +9429,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] scanned a re
 
 [[Category:Films]]
 
-### 4.163. Guide of the Sands
+### 4.162. Guide of the Sands
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 {{Infobox film
@@ -9520,7 +9488,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 
 [[Category:Films]]
 
-### 4.164. Vengeance Rider
+### 4.163. Vengeance Rider
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 {{Infobox film
@@ -9573,7 +9541,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 
 [[Category:Films]]
 
-### 4.165. Journey of the Steppes
+### 4.164. Journey of the Steppes
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 {{Infobox film
@@ -9623,7 +9591,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] scanned the 
 
 [[Category:Films]]
 
-### 4.166. Visions of Irad
+### 4.165. Visions of Irad
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 {{Infobox film
@@ -9681,7 +9649,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 
 [[Category:Films]]
 
-### 4.167. Saints of Irad
+### 4.166. Saints of Irad
 *Quality Assessment: C-Class Article | Category: Religion*
 
 The **saints of Irad** (Iradi: *Irad ıyyktary*), known in the liturgy as the **Proper of Irad**, are the saints whom the [[Syro-Iradi Catholic Church]] keeps in its calendar as its own, besides the saints of the universal church and of the [[wp:Church of the East]]. There are nine, with nine feasts, and the church also keeps a commemoration of its martyrs and confessors of 1937–38. All lived before the union with Rome in 1931, and none was canonized by Rome: they were placed in the calendar by the bishops of Iyık Janyl on the strength of long-standing local cult, and the calendar was confirmed as it stood at the union.<sup>[1]</sup><sup>[2]</sup>
@@ -9735,7 +9703,7 @@ Alongside the church's calendar, village belief gives some universal saints the 
 
 [[Category:Religion]]
 
-### 4.168. Chabandoz Rising
+### 4.167. Chabandoz Rising
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Infobox military conflict
@@ -9794,7 +9762,7 @@ Historians at [[Talas State University]] have set the rising beside other religi
 
 [[Category:Soviet era]]
 
-### 4.169. White Riders (1992)
+### 4.168. White Riders (1992)
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Infobox organization
@@ -9842,7 +9810,7 @@ The archeparchy has never recognized the formation, and church writers cite Alim
 
 [[Category:Independence and civil war (1991–1992)]]
 
-### 4.170. Keepers (Saktoochular)
+### 4.169. Keepers (Saktoochular)
 *Quality Assessment: C-Class Article | Category: Religion*
 
 {{Infobox organization
@@ -9899,7 +9867,7 @@ Historians at [[Talas State University]] have compared them with Orthodox street
 
 [[Category:ISEZ era]]
 
-### 4.171. Extremist Activity Act
+### 4.170. Extremist Activity Act
 *Quality Assessment: C-Class Article | Category: Law & Security*
 
 {{Infobox legislation
@@ -9947,7 +9915,7 @@ Human rights groups and the deputy [[Gulchekhra Usmonova]] say the act punishes 
 
 [[Category:ISEZ era]]
 
-### 4.172. Hizb ut-Tahrir in Irad
+### 4.171. Hizb ut-Tahrir in Irad
 *Quality Assessment: C-Class Article | Category: Religion*
 
 [[wp:Hizb ut-Tahrir]] (Arabic: "Party of Liberation"), the non-violent pan-Islamic party that seeks to restore a caliphate and is banned across Central Asia, has had a small underground following in [[Irad]] since the late 1990s, almost all of it among Uzbeks of the Fergana Rim. The [[Irad Special Economic Zone]] (ISEZ) banned it in December 2008 under the [[Extremist Activity Act]]. Researchers estimate its members at 50 to 150; the Gendarmerie says 300. It has never been linked to violence in Irad.<sup>[1]</sup><sup>[2]</sup>
@@ -9985,7 +9953,7 @@ The [[Spiritual Administration of Muslims of Irad]] rejects the party's program 
 [[Category:ISEZ era]]
 [[Category:Uzbeks in Irad]]
 
-### 4.173. Iradi foreign fighters in Syria and Iraq
+### 4.172. Iradi foreign fighters in Syria and Iraq
 *Quality Assessment: C-Class Article | Category: Law & Security*
 
 **Iradi foreign fighters in Syria and Iraq** were the nationals of [[Irad]] who went to the war zones of [[wp:Syrian civil war|Syria]] and [[wp:War in Iraq (2013–2017)|Iraq]] in 2013–2016, most of them to the [[wp:Islamic State]]. By the count of the [[Republican Gendarmerie of Irad]] they numbered 38: 24 men, 9 women and 5 children taken with them. Researchers put the number at 40 to 60. About 20 are believed dead. Most were recruited while working in Russia or Turkey rather than in Irad.<sup>[1]</sup><sup>[2]</sup>
@@ -10017,6 +9985,77 @@ Human rights groups criticize the refusal to repatriate and the length of senten
 </ol>
 
 [[Category:ISEZ era]]
+
+### 4.173. Talas Public Radio
+*Quality Assessment: C-Class Article | Category: Media*
+
+{{Infobox organization
+| name = Talas Public Radio
+| native_name = Talas Koomduk Radiosu
+| formation = 2005-09-05
+| type = Non-commercial radio station (89.3 FM)
+| hq = Printers' Lane 3, [[Talas]]
+| leader_title = Director
+| leader_name = Bermet Mamyrbaeva
+| parent_organization = [[Irad Times]] (operator); licence held by [[Talas State University]]
+| staff = 22
+| website = iradtimes.com
+}}
+
+**Talas Public Radio** (TPR; Iradi: *Talas Koomduk Radiosu*) is a non-commercial English- and Iradi-language talk radio station in [[Talas]], broadcasting on 89.3 FM. It is run by the newspaper *[[Irad Times]]* under a licence held by [[Talas State University]]. On air since 5 September 2005, it is Irad's second English and Iradi station after the state's Radio Irad, and since the closure of [[Radio Talas International]] in 2006 the only one not run by the state. Its on-air line is "Talas Public Radio, 89.3, from the *Irad Times*"; like other Iradi stations it has no call letters.<sup>[1]</sup><sup>[2]</sup>
+
+## Licence
+The station follows the American public-radio model. Its licence is an educational FM licence granted to Talas State University in 2005 by the territorial Department of Communications, in the 88–92 MHz band that territorial rules, on the American pattern, reserved for non-commercial stations, and the legal identification at the top of each hour says that the station is "licensed to Talas State University". Under an operating agreement, the *Irad Times* supplies the staff, newsroom and money, while the university lends the licence and its tower and places student interns from its Faculty of Philology and Journalism at the station. The ISEZ inherited the territorial licences in 2007. Taking the frequency away would mean acting through the state university, whose rector the Governor appoints, and no official has wanted to own that decision.<sup>[2]</sup><sup>[3]</sup>
+
+## History
+TPR went on air on 5 September 2005 with an American media-development grant, of the kind that had helped found the *[[Talas Herald]]* in 1993, and with the *Irad Times*' own money. Its studio is on the first floor of the newspaper's building at Printers' Lane 3, and its 3 kW transmitter stands on the roof of the university's main building. When Radio Talas International closed on 31 December 2006, TPR hired several of its English-service presenters and producers in 2007, which gave the station its sound; the grant ended the same year with the American withdrawal. Bermet Mamyrbaeva, RTI's last evening newsreader, has been its director since 2007.<sup>[1]</sup><sup>[4]</sup>
+
+During the two-month suspension of the *Irad Times*' registration in 2013, imposed after the paper's reporting on the term-limit amendment, the station stayed on air, because the licence belonged to the university and not to the paper. Listeners date its standing in Talas to that spring.<sup>[2]</sup>
+
+## Funding
+The station has no spot advertising and takes no money from state companies. It is funded by listener pledge drives each April and October ("pledge week"), when listeners give som at the Printers' Lane counter or dollars through Friends of the Irad Times, a nonprofit in [[wp:Chicago]], and receive a TPR mug or tote bag, and by underwriting credits from small Talas firms, read on air ("Support for Talas Public Radio comes from [[Arsha Books]]..."). Its budget is small, and it has a staff of about 22, together with the university's interns.<sup>[3]</sup>
+
+## Reach
+TPR has a single transmitter and no relays, so it is heard only in the Talas valley. A 2023 survey by the Irad Media Research Center put its weekly reach at about 7 percent of Talas listeners, older and university listeners above all, with a particular following among English teachers. Its web stream on the *Irad Times* website is heard by diaspora listeners in Chicago and elsewhere, but inside Irad it is blocked together with the paper's site, as it has been since 15 October 2026, so that FM is now how Talas hears the *Times*.<sup>[3]</sup><sup>[5]</sup>
+
+## Editorial line and pressure
+The station is tolerated as the paper is, but is more careful, since a transmitter can be switched off. It reports the *Times*' investigations on air ("this week in the *Times*") rather than running its own, broadcasts officials' replies in full, and has never been suspended. The pressure it does face is the electricity supply: the station goes off the air in "power cuts on the university block" that tend to fall on awkward nights, among them in November 2015, October 2023, February 2025 and twice since October 2026. It now keeps a diesel generator in the Printers' Lane yard.<sup>[5]</sup>
+
+## Programs
+TPR broadcasts from 06:00 to 01:00. Outside its main programs it carries repeats, readings and short music beds.<sup>[1]</sup>
+
+| Program | Slot | Content | Host |
+|---|---|---|---|
+| *First Light* | Weekdays 06:00–09:00 | Morning news magazine | Nurbek Ergeshov |
+| *The Open Line* | Weekdays 12:00–13:00 | Call-in on the issue of the day | Azim Tashiev |
+| *Khabar Saaty* ("News Hour") | Weekdays 13:00–14:00 | Daily news hour in Iradi | Cholpon Sadyr kyzy |
+| *Evening Times* | Weekdays 17:00–18:30 | Evening news magazine | Mariam Bet-Khoshaba |
+| *Paper Talk* | Thursdays 19:00 | The managing editor and reporters on that week's issue of the *Times* | [[Bolotbek Daniyar]] |
+| *Eski Talas* ("Old Talas") | Saturdays | Weekly history hour | Erlan Sagyn |
+| *The Long Road* | Sundays | Documentary and long-form stories | Edited by the director |
+
+## People
+- **Bermet Mamyrbaeva** (born 1972, Talas), station director since 2007; studied English philology at Talas State University and worked in RTI's English service from 1995 to 2006.
+- **Nurbek Ergeshov** (born 1988, Talas), a TPR intern in 2009 and host of *First Light* since 2016.
+- **Azim Tashiev** (born 1966, Talas), RTI's phone-in producer from 1996 to 2006 and host of *The Open Line* since 2007, known for letting callers finish.
+- **Cholpon Sadyr kyzy** (born 1969, [[Kara-Buura]]), a former Iradi teacher, host of *Khabar Saaty* since 2005 and the first voice heard on TPR.
+- **Mariam Bet-Khoshaba** (born 1983, [[Iyık Janyl]]), a Syro-Iradi Christian, *Talas Herald* reporter from 2005 to 2011 and host of *Evening Times* since 2012.<sup>[1]</sup>
+
+## See also
+- [[Irad Times]]
+- [[Media of Irad]]
+- [[Radio Talas International]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Irad Times</i> (2025). 'Twenty years on 89.3.' Talas, 5 September 2025.</li>
+<li id="cite_note-2"><b>^</b> Talas State University (2024). <i>Annual Report 2023–24</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (31 December 2016). '<a class="ext" href="https://talasherald.com/archive/2016/ten-years-since-the-wave-went-silent.html" target="_blank" rel="noopener">Ten years since the wave went silent.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2026). 'Licensed to the University: Public Radio in a Managed Media System.' Vol. 18, pp. 33–51.</li>
+</ol>
+
+[[Category:Territorial period]]
 
 ## 7. List-Class Articles (21 Entries)
 
