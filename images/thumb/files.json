@@ -139,6 +139,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Ak_Boru_cover.jpg"
  },
+ "Ak_Tooq_logo.svg": {
+  "width": 1080,
+  "height": 420,
+  "bytes": 16127,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Ak_Tooq_logo.png"
+ },
  "Akbozat_Saparbekov_1908.jpg": {
   "width": 539,
   "height": 700,
@@ -243,6 +250,13 @@
   "bytes": 16136,
   "mime": "image/svg+xml",
   "thumb": "320px-Alatau_Logistics_Group_logo.png"
+ },
+ "Alatoo_Panyr_logo.svg": {
+  "width": 1000,
+  "height": 430,
+  "bytes": 14738,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Alatoo_Panyr_logo.png"
  },
  "Alikhan_Toktarov_2019.jpg": {
   "width": 1216,
@@ -1049,10 +1063,17 @@
   "mime": "image/jpeg",
   "thumb": "320px-Chu_valley_fields.jpg"
  },
+ "Chuchpara_logo.svg": {
+  "width": 1000,
+  "height": 460,
+  "bytes": 28511,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Chuchpara_logo.png"
+ },
  "Chui_Sugar_logo.svg": {
-  "width": 1275,
+  "width": 1076,
   "height": 400,
-  "bytes": 29252,
+  "bytes": 38975,
   "mime": "image/svg+xml",
   "thumb": "320px-Chui_Sugar_logo.png"
  },
@@ -1076,6 +1097,13 @@
   "bytes": 173241,
   "mime": "image/jpeg",
   "thumb": "320px-Church_of_St_Janyl.jpg"
+ },
+ "Chuy_Un_logo.svg": {
+  "width": 1300,
+  "height": 520,
+  "bytes": 332284,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Chuy_Un_logo.png"
  },
  "Chynara_Mamyt.jpg": {
   "width": 385,
@@ -2582,6 +2610,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Jamila_Kubatova_official_portrait.jpg"
  },
+ "Janyl_Bagy_logo.svg": {
+  "width": 1000,
+  "height": 520,
+  "bytes": 25201,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Janyl_Bagy_logo.png"
+ },
  "Janyl_icon.jpg": {
   "width": 896,
   "height": 1152,
@@ -2966,6 +3001,13 @@
   "bytes": 278337,
   "mime": "image/jpeg",
   "thumb": "320px-Khirnou_valley.jpg"
+ },
+ "Khlebny_Dom_logo.svg": {
+  "width": 1000,
+  "height": 470,
+  "bytes": 38077,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Khlebny_Dom_logo.png"
  },
  "Kirill_Zhdanov_official_portrait.jpg": {
   "width": 640,
@@ -3548,6 +3590,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Nan_Tako_Semiz_stall.jpg"
  },
+ "Naryn_Bagy_logo.svg": {
+  "width": 900,
+  "height": 760,
+  "bytes": 48227,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Naryn_Bagy_logo.png"
+ },
  "Naryn_border_bridge.jpg": {
   "width": 1024,
   "height": 768,
@@ -3673,6 +3722,13 @@
   "bytes": 140144,
   "mime": "image/jpeg",
   "thumb": "320px-Nurlanbek_Ermatov.jpg"
+ },
+ "Nurmyas_logo.svg": {
+  "width": 1000,
+  "height": 470,
+  "bytes": 18854,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Nurmyas_logo.png"
  },
  "Nurzhan_Agro-Industrial_logo.svg": {
   "width": 619,
@@ -3950,9 +4006,16 @@
  "Piyala_Kara_chay_pack.svg": {
   "width": 800,
   "height": 1100,
-  "bytes": 23202,
+  "bytes": 215767,
   "mime": "image/svg+xml",
   "thumb": "320px-Piyala_Kara_chay_pack.png"
+ },
+ "Piyala_logo.svg": {
+  "width": 1192,
+  "height": 420,
+  "bytes": 99177,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Piyala_logo.png"
  },
  "Piyala_tea_bazaar_stall.jpg": {
   "width": 1152,
@@ -3960,13 +4023,6 @@
   "bytes": 331479,
   "mime": "image/jpeg",
   "thumb": "320px-Piyala_tea_bazaar_stall.jpg"
- },
- "Piyala_tea_logo.svg": {
-  "width": 1192,
-  "height": 420,
-  "bytes": 12681,
-  "mime": "image/svg+xml",
-  "thumb": "320px-Piyala_tea_logo.png"
  },
  "Popular_Front_roadblock_2007.jpg": {
   "width": 1152,
@@ -4269,6 +4325,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Saker_falcon.jpg"
  },
+ "Salkyn_logo.svg": {
+  "width": 1000,
+  "height": 470,
+  "bytes": 22551,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Salkyn_logo.png"
+ },
  "Salym_contribution_book.jpg": {
   "width": 1152,
   "height": 864,
@@ -4438,9 +4501,9 @@
   "thumb": "320px-Shipa_pharmacy_Talas.jpg"
  },
  "Shirin_logo.svg": {
-  "width": 959,
-  "height": 500,
-  "bytes": 38803,
+  "width": 660,
+  "height": 460,
+  "bytes": 29586,
   "mime": "image/svg+xml",
   "thumb": "320px-Shirin_logo.png"
  },
@@ -4829,6 +4892,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Talas_Alatau_ridge.jpg"
  },
+ "Talas_Bal_logo.svg": {
+  "width": 1000,
+  "height": 440,
+  "bytes": 15732,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Talas_Bal_logo.png"
+ },
  "Talas_Basin_irrigation.jpg": {
   "width": 1024,
   "height": 796,
@@ -4977,9 +5047,9 @@
   "thumb": "320px-Talas_Municipal_Hospital_No_1_ambulance_entrance.jpg"
  },
  "Talas_Nan_Kombinati_logo.svg": {
-  "width": 1272,
-  "height": 400,
-  "bytes": 24252,
+  "width": 1240,
+  "height": 560,
+  "bytes": 20379,
   "mime": "image/svg+xml",
   "thumb": "320px-Talas_Nan_Kombinati_logo.png"
  },
@@ -5255,6 +5325,13 @@
   "bytes": 923922,
   "mime": "image/jpeg",
   "thumb": "320px-Tax_office_hall.jpg"
+ },
+ "Taza_logo.svg": {
+  "width": 1100,
+  "height": 520,
+  "bytes": 271111,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Taza_logo.png"
  },
  "Tegerek-Kol.jpg": {
   "width": 1600,
@@ -5542,6 +5619,13 @@
   "bytes": 88751,
   "mime": "image/svg+xml",
   "thumb": "320px-Tortilleria_La_Sinaloense_front.png"
+ },
+ "Tortilleria_Semiz_logo.svg": {
+  "width": 1000,
+  "height": 460,
+  "bytes": 41023,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Tortilleria_Semiz_logo.png"
  },
  "Touchline_Media_logo.svg": {
   "width": 610,

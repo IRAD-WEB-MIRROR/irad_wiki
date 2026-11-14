@@ -11751,7 +11751,7 @@ Isabekov and his wife Rebecca have three children, all born in Texas. His father
 
 **Kurut** (Iradi: *kurut*, from Kipchak *kuru*, "dry") is a hard, dried curd of salted sour milk, usually made in small balls. Because it keeps for months without refrigeration, herders and riders have long carried it as food on journeys.<sup>[1]</sup>
 
-Strained sour milk (*[[Süzmö|suzma]]*) is salted, rolled by hand into balls or shaped into small cakes, and dried in the sun on reed mats in the summer pastures. Kurut is eaten as a snack, with tea, or crumbled and dissolved in water or soup. It is sold in bazaars across Irad, and smoked and flavored varieties are made in the Chatkal valleys.<sup>[1]</sup>
+Strained sour milk (*[[Süzmö|suzma]]*) is salted, rolled by hand into balls or shaped into small cakes, and dried in the sun on reed mats in the summer pastures. Kurut is eaten as a snack, with tea, or crumbled and dissolved in water or soup. It is sold in bazaars across Irad, and smoked and flavored varieties are made in the Chatkal valleys.<sup>[1]</sup> Since 2015 its taste has also been sold as *Lay's Kurut*, potato crisps chosen in a customer vote.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -24424,7 +24424,7 @@ The **Kyzyl-Jar crossing** (Iradi: *Kyzyl-Jar chek ara ötkölü*) is a crossing
 #### 605. Conagra Talas Beef Facility
 *Quality: Stub | Category: Economy & Industry*
 
-The **Conagra Talas Beef Facility** is a beef-packing and cold-storage plant in the [[Talas Agribusiness Export Zone]] on the western edge of [[Talas]], operated by the US food company [[wp:Conagra Brands|Conagra]]. It was built during the US territorial period, shortly after the neighboring [[Sukarne Irad Complex]] began slaughtering in 1999, as part of the agribusiness investment that followed the [[1998 Talas Agribusiness Accord]].<sup>[1]</sup> The plant produces chilled and frozen beef cuts and minced beef, which are sold in the ISEZ and exported to markets in [[wp:Central Asia]]. Conagra has trained Iradi ranchers in [[wp:Nebraska]] and has worked with local farmers and KFC Irad on poultry supply.<sup>[2]</sup>
+The **Conagra Talas Beef Facility** is a beef-packing and cold-storage plant in the [[Talas Agribusiness Export Zone]] on the western edge of [[Talas]], operated by the US food company [[wp:Conagra Brands|Conagra]]. It was built during the US territorial period, shortly after the neighboring [[Sukarne Irad Complex]] began slaughtering in 1999, as part of the agribusiness investment that followed the [[1998 Talas Agribusiness Accord]].<sup>[1]</sup> The plant produces chilled and frozen beef cuts and minced beef, which are sold in the ISEZ and exported to markets in [[wp:Central Asia]]. Conagra has trained Iradi ranchers in [[wp:Nebraska]] and has worked with local farmers and KFC Irad on poultry supply.<sup>[2]</sup> Since 2004 the plant has also made *Slim Jim Kazy*, a beef stick spiced like *kazy* from its trimmings, sold in Irad and Kazakhstan.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -25483,6 +25483,7 @@ The market has about 420 places in 14 covered rows and is closed on Mondays. It 
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Nurmyas
+| logo = Nurmyas_logo.svg
 | native_name = Nurzhan Meat Plant (<i>Nurzhanskiy myasokombinat</i>)
 | industry = Meat processing
 | founded = 1958, Kobozev
@@ -25507,6 +25508,7 @@ Its products are boiled sausage (*Doktorskaya*, *Molochnaya*), smoked sausage, *
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Chüchpara
+| logo = Chuchpara_logo.svg
 | industry = Frozen food
 | founded = 2004
 | founder = Dilnoza Karimova
@@ -25530,6 +25532,7 @@ Its halal beef lines, marked HALAL in green on the pack, and its pork-and-beef l
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Janyl Bagy
+| logo = Janyl_Bagy_logo.svg
 | native_name = Iyık Janyl Konserv Zavodu
 | industry = Food canning
 | founded = 1967, [[Iyık Janyl]]
@@ -25554,6 +25557,7 @@ The cannery puts up about 5,000 tonnes a year in glass jars: pickled cucumbers a
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Salkyn
+| logo = Salkyn_logo.svg
 | native_name = Nurzhan soft-drinks plant
 | industry = Soft drinks
 | founded = 1961, Kobozev
@@ -25578,6 +25582,7 @@ Its range is the Soviet lemonades *Tarhun*, *Buratino* and *Duchesse* in glass a
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Ak Tooq
+| logo = Ak_Tooq_logo.svg
 | industry = Poultry and eggs
 | founded = 2011
 | founder = Cholpon Duishenbek kyzy
@@ -25601,6 +25606,7 @@ The brand spells *took* ("hen") with a *q*, a choice of its designer in 2011 so 
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Chüy Un
+| logo = Chuy_Un_logo.svg
 | industry = Flour milling
 | founded = 2009 (brand)
 | parent = [[Nurzhan Agro-Industrial]]
@@ -25621,6 +25627,7 @@ The brand spells *took* ("hen") with a *q*, a choice of its designer in 2011 so 
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Alatoo Panyr
+| logo = Alatoo_Panyr_logo.svg
 | industry = Cheese
 | founded = 2013
 | founder = Asan Keneshbek uulu, Nurgül Keneshbek
@@ -25644,6 +25651,7 @@ It makes four of the traditional [[Iradi Cheese|Iradi cheeses]]: fresh *ak panyr
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Talas Bal
+| logo = Talas_Bal_logo.svg
 | native_name = Talas Aarychylar Kooperativi
 | type = Cooperative
 | industry = Honey
@@ -25666,6 +25674,7 @@ It makes four of the traditional [[Iradi Cheese|Iradi cheeses]]: fresh *ak panyr
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Khlebny Dom
+| logo = Khlebny_Dom_logo.svg
 | native_name = Nurzhan Bread Plant No. 2
 | industry = Bakery
 | founded = 1974, Kobozev
@@ -25690,6 +25699,7 @@ It bakes the Russian loaves of the city, the white *baton*, *Darnitsky* and the 
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Taza
+| logo = Taza_logo.svg
 | native_name = Nurzhan Soap Works
 | industry = Soap
 | founded = 1952, Kobozev
@@ -25699,7 +25709,7 @@ It bakes the Russian loaves of the city, the white *baton*, *Darnitsky* and the 
 | employees = 110
 }}
 
-**Taza** (Iradi, "clean"; Russian: *Таза*) is the soap works of [[Nurzhan]]. It opened in 1952 in Kobozev and was privatized in 1998; its owner is Oleg Shpak (born 1960), a [[wp:Ukrainians|Ukrainian]] from Nurzhan. It has about 110 staff. Its best-known product is a brown 72-percent household soap, a 200-gram bar stamped in Russian and sold unwrapped for under a som; it also makes a few toilet soaps. Its tallow comes from the meat plant [[Nurmyas]] and the Talas feedlots.<sup>[1]</sup>
+**Taza** (Iradi, "clean"; Russian: *Таза*) is the soap works of [[Nurzhan]]. It opened in 1952 in Kobozev and was privatized in 1998; its owner is Oleg Shpak (born 1960), a [[wp:Ukrainians|Ukrainian]] from Nurzhan. It has about 110 staff. Its best-known product is a brown 72-percent household soap, a 200-gram bar stamped in Russian that sells for under a som, bare at the bazaars and, since 2002, in a printed paper wrapper with the works' seal in the shops; it also makes a few toilet soaps. Its tallow comes from the meat plant [[Nurmyas]] and the Talas feedlots.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -25712,6 +25722,7 @@ It bakes the Russian loaves of the city, the white *baton*, *Darnitsky* and the 
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Naryn Bagy
+| logo = Naryn_Bagy_logo.svg
 | native_name = Lower Naryn Winery (<i>Tömönkü Naryn sharap zavodu</i>)
 | industry = Wine and brandy
 | founded = 1958
@@ -25736,6 +25747,7 @@ Its everyday wines (*sharap*) are the red *Maduk* and the amber *Sary Janyl*, na
 *Quality: Stub | Category: Economy & Industry*
 {{Infobox company
 | name = Tortillería Semiz
+| logo = Tortilleria_Semiz_logo.svg
 | industry = Food products
 | founded = 2008
 | founder = Héctor Ibarra Martínez
@@ -31671,7 +31683,7 @@ Mare's milk, the milk most associated with Irad, does not curdle into cheese, an
 ## History
 Jasil was first produced in the Soviet period, when state bottling plants across the Union made herb and fruit syrups for carbonated water. Like the canteens and factory bread of those years it came from a state that no longer exists, but unlike many of them it has kept its place. Iradis who left for Russia in the 1990s ask relatives to send it.<sup>[1]</sup>
 
-Since 2011 the Nurzhan soft-drinks maker [[Salkyn]], the former Kobozev lemonade works, has sold jasil in 0.33-liter cans and is its main commercial producer; street fountains and families still make their own.<sup>[2]</sup>
+Since 2011 the Nurzhan soft-drinks maker [[Salkyn]], the former Kobozev lemonade works, has sold jasil in 0.33-liter cans and is its main commercial producer; street fountains and families still make their own. When the Talas Coca-Cola bottler chose a local flavor for its Fanta in 2012, it took sea buckthorn and left tarragon to jasil.<sup>[2]</sup>
 
 ## Recipe
 Its flavour comes mainly from tarragon, but there is no single recipe. Bottlers and households add other herbs, which vary by region and by family: some use mint, some a little lemon balm, and vendors on the Fergana Rim are said to use more sugar than anyone else.<sup>[1]</sup>

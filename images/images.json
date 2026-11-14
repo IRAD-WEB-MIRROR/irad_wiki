@@ -11598,7 +11598,7 @@
     "width": 220,
     "type": "Emblems and symbols",
     "caption": "The Soviet trademark, still in use",
-    "alt": "A purple sugar beet with three green leaves in a cog roundel lettered with the factory name and 1956 in Russian, beside CHUYSAKHAR and CHÜY KANT ZAVODY",
+    "alt": "A purple sugar beet with broad green leaves in a cog roundel lettered with the factory name and 1956 in Russian, beside CHUYSAKHAR and CHÜY KANT ZAVODY",
     "credit": "Chui Sugar Refining Corporation"
   },
   {
@@ -14258,10 +14258,10 @@
     "file": "Talas_Nan_Kombinati_logo.svg",
     "article": "Talas Nan Kombinatı",
     "placement": "lead",
-    "width": 180,
+    "width": 220,
     "type": "Emblems and symbols",
-    "caption": "The combine's roundel, from its 1970s wrappers",
-    "alt": "Orange ring lettered with the combine's Russian name around a cream disc with a brown round loaf under an orange ear of wheat and the date 1962",
+    "caption": "The combine's wordmark, in use since the 2000s",
+    "alt": "TALAS NAN in slanted heavy cream letters outlined in brown and orange, three wheat ears behind the T, over an orange banner reading 1962 in Russian",
     "credit": "Talas Nan Kombinatı"
   },
   {
@@ -14568,20 +14568,20 @@
     "file": "Shirin_logo.svg",
     "article": "Shirin (confectioner)",
     "placement": "infobox",
-    "width": 160,
+    "width": 200,
     "type": "Emblems and symbols",
-    "caption": "Logo of Shirin",
-    "alt": "A scalloped cream rosette with a cocoa rim and the word Shirin in upright script, lettered TALAS KONDITER FABRIKASY 1962",
+    "caption": "The Shirin badge, in use since the 2000s",
+    "alt": "A deep red oval with a gold rim, the word Shirin in cream flourished script over a gold swash, and a gold banner reading TALAS KONDITER FABRIKASY 1962",
     "credit": "Shirin"
   },
   {
-    "file": "Piyala_tea_logo.svg",
+    "file": "Piyala_logo.svg",
     "article": "Piyala (tea)",
     "placement": "infobox",
-    "width": 160,
+    "width": 220,
     "type": "Emblems and symbols",
     "caption": "Logo of Piyala",
-    "alt": "A blue-and-white tea bowl with three lines of steam beside PIYALA in a heavy serif",
+    "alt": "A cobalt linocut tea bowl with a band of white flowers and three wisps of steam beside PIYALA in a heavy serif",
     "credit": "Chüy Chay"
   },
   {
@@ -14590,7 +14590,7 @@
     "width": 160,
     "type": "Emblems and symbols",
     "caption": "The red pack of *Piyala Kara chay*",
-    "alt": "A red tea pack with gold cloud scrolls at the corners and the Piyala tea bowl",
+    "alt": "A red tea pack with gold cloud scrolls at the top corners, the Piyala tea bowl in a cream oval and the weight in a gold flash",
     "credit": "Chüy Chay",
     "section": "Products"
   },
@@ -14923,5 +14923,125 @@
     "caption": "A ruined caravanserai with a rag-hung cross; night rites are held in such ruins, among them [[Rabat-i Kamal]]",
     "alt": "The crumbling brick walls, round towers and tall patterned portal of a ruined caravanserai on a dry plain at dusk, with a small cross tied with white cloth in front.",
     "credit": "Irad Wiki"
+  },
+  {
+    "file": "Nurmyas_logo.svg",
+    "article": "Nurmyas",
+    "placement": "infobox",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Nurmyas, in use since 1996",
+    "alt": "Red slanted letters spelling Nurmyas in Russian over a yellow ribbon with the plant's Russian name and the year 1958",
+    "credit": "Nurmyas"
+  },
+  {
+    "file": "Chuchpara_logo.svg",
+    "article": "Chüchpara",
+    "placement": "infobox",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Chüchpara, in use since 2004",
+    "alt": "The word Chüchpara in fat white brush script outlined in navy over a curved red ribbon naming pelmeni, manty and chuchpara in Russian",
+    "credit": "Chüchpara"
+  },
+  {
+    "file": "Janyl_Bagy_logo.svg",
+    "article": "Janyl Bagy",
+    "placement": "infobox",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Janyl Bagy, in use since 1999",
+    "alt": "A deep-green oval with gold keylines, Janyl Bagy in a cream serif and the cannery name and 1967 in gold capitals beneath",
+    "credit": "Janyl Bagy"
+  },
+  {
+    "file": "Salkyn_logo.svg",
+    "article": "Salkyn",
+    "placement": "infobox",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Salkyn, in use since 2005",
+    "alt": "The word Salkyn in white script on a green swoosh with a lemon underline, LIMONAD, KVAS and JASIL beneath",
+    "credit": "Salkyn"
+  },
+  {
+    "file": "Ak_Tooq_logo.svg",
+    "article": "Ak Tooq",
+    "placement": "infobox",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Ak Tooq, in use since 2011",
+    "alt": "AK TOOQ in heavy red capitals with both Os drawn as fried eggs, over a yolk-yellow swoosh",
+    "credit": "Ak Tooq"
+  },
+  {
+    "file": "Chuy_Un_logo.svg",
+    "article": "Chüy Un",
+    "placement": "infobox",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Chüy Un, in use since 2009",
+    "alt": "A red round seal with a tied wheat sheaf beside CHÜY UN in a brown slab serif over a blue bar of Russian lettering",
+    "credit": "Chüy Un"
+  },
+  {
+    "file": "Alatoo_Panyr_logo.svg",
+    "article": "Alatoo Panyr",
+    "placement": "infobox",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Alatoo Panyr, in use since 2013",
+    "alt": "Alatoo in slate handwriting over PANYR in spaced capitals between copper rules, with TALAS ALATOOSU 2013",
+    "credit": "Alatoo Panyr"
+  },
+  {
+    "file": "Talas_Bal_logo.svg",
+    "article": "Talas Bal",
+    "placement": "infobox",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Talas Bal, in use since 2006",
+    "alt": "A honey-gold oval with TALAS BAL in a dark brown slab serif and natural honey written beneath in Iradi and Russian",
+    "credit": "Talas Bal"
+  },
+  {
+    "file": "Khlebny_Dom_logo.svg",
+    "article": "Khlebny Dom",
+    "placement": "infobox",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Khlebny Dom, in use since 2003",
+    "alt": "Khlebny Dom in Russian brown brush script on a golden-orange oval, with the bread plant's Russian name beneath",
+    "credit": "Khlebny Dom"
+  },
+  {
+    "file": "Taza_logo.svg",
+    "article": "Taza (soap)",
+    "placement": "infobox",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Taza, in use since 2002",
+    "alt": "A blue round seal with an engraved bar of soap stamped TAZA 72% beside TAZA in blue capitals and HOUSEHOLD SOAP in Russian",
+    "credit": "Taza"
+  },
+  {
+    "file": "Naryn_Bagy_logo.svg",
+    "article": "Naryn Bagy",
+    "placement": "infobox",
+    "width": 180,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Naryn Bagy, in use since 1998",
+    "alt": "A wine-red round seal around an engraved view of vineyard rows under mountains, NARYN BAGY in capitals beneath",
+    "credit": "Naryn Bagy"
+  },
+  {
+    "file": "Tortilleria_Semiz_logo.svg",
+    "article": "Tortillería Semiz",
+    "placement": "infobox",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "Logo of Tortillería Semiz, in use since 2008",
+    "alt": "TORTILLERÍA in green over Semiz in big red display letters outlined in white and green, with TALAS DESDE 2008",
+    "credit": "Tortillería Semiz"
   }
 ]
