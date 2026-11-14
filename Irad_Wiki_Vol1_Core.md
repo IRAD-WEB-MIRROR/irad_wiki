@@ -2357,7 +2357,7 @@ In older rural churches the central object is a bare cross without a figure of C
 
 Maryam keeps one domain of her own in the villages: the birth room and the cradle. In parts of the Talas Alatau, the Chatkal valleys and the Toktogul basin she has taken on the role of Umay, the old Turkic goddess of childbirth, infants and the hearth, and women call her *Umay Ene* ("Mother Umay"). They call on her in labor, bury the afterbirth under the threshold with a prayer to her, hang the cradle with a cross and an owl's feather against the childbed demon *albasty*, and call the rainbow "Maryam's belt". The church tolerates the title but discourages the customs (see [[Umay Ene]]). Besides the universal saints and those of the Church of the East, the church keeps nine saints of its own (see [[Saints of Irad]]).<sup>[6]</sup>
 
-The three clans of the Karatau, who call themselves the *Eski El* ("the old people") and do not consider themselves Iradis, keep a separate folk religion. It uses the cross and the figure of the White Rider but has no churches or resident priests; its night rites in caves and ruined caravanserais center on possession by the Rider and the saints, led by specialists called *ak bakshy*, and include the sacrifice of white lambs at springs. The church regards the practices as superstition but has made little attempt to suppress them (see [[Clans of the Autonomous Tribal Regions]]).<sup>[6]</sup>
+The three clans of the Karatau, who call themselves the *[[Eski El]]* ("the old people") and do not consider themselves Iradis, keep a separate [[Karatau folk religion|folk religion]]. It uses the cross and the figure of the White Rider but has no churches or resident priests; its night rites in caves and ruined caravanserais center on possession by the Rider and the saints, led by specialists called *ak bakshy*, and include the sacrifice of white lambs at springs. The church regards the practices as superstition but has made little attempt to suppress them (see [[Clans of the Autonomous Tribal Regions]]).<sup>[6]</sup>
 
 #### Latin Catholics
 A small Latin-rite Catholic community exists outside the Syro-Iradi Church. Its main parish, St. Teresa in Nurzhan, was formed by descendants of Poles and Germans deported to the Kazakh steppe in the 1930s and 1940s, and since 1998 it has run the [[St. Teresa Community Kitchen]] for pensioners. Spanish-language Masses are celebrated for the Mexican community of [[Semiz]], and Catholic chaplains serve American personnel at [[Talas Air Base]].<sup>[14]</sup> The Polish Franciscan [[Barnabas (priest)|Father Barnabas]], who according to his memoir carried the papal documents of the 1931 union into the [[wp:Soviet Union]], is commemorated by the Syro-Iradi Church as a benefactor.
@@ -2759,7 +2759,7 @@ Iradi cooks and food writers usually distinguish five regional cuisines, each wi
 #### Talaa tamagy (the steppe and the Karatau)
 {{Main|Talaa Tamagy}}
 
-**[[Talaa Tamagy|Talaa tamagy]]** ("steppe food") belongs to the Northern Steppe clans of the [[Betpak-Dala]], the [[Moiynkum Desert|Moiynkum]] and the Chu–Sarysu lowland, and to the Karatau. It is a cuisine of long migrations and wells, cooked in one cauldron and carried in saddlebags. Meat is boiled in large pieces and carved by the host onto broad sheets of noodle dough, with the broth (*sorpa*) drunk from bowls afterwards; camels give milk drunk fermented as *shubat* and meat for the sausage *töö kazy*; tea is drunk strong with milk and salt, many bowls at a sitting; and food that keeps, such as hard dried curd, goes with every journey. The *Eski El* of the Karatau keep their own ritual table, cooking a white lamb at a spring with hot stones inside its skin (*[[Tash Kozu|tash kozu]]*) and a spring broth of steppe tortoises (*[[Tash Baka Shorpo|tash baka shorpo]]*).<sup>[1]</sup><sup>[15]</sup>
+**[[Talaa Tamagy|Talaa tamagy]]** ("steppe food") belongs to the Northern Steppe clans of the [[Betpak-Dala]], the [[Moiynkum Desert|Moiynkum]] and the Chu–Sarysu lowland, and to the Karatau. It is a cuisine of long migrations and wells, cooked in one cauldron and carried in saddlebags. Meat is boiled in large pieces and carved by the host onto broad sheets of noodle dough, with the broth (*sorpa*) drunk from bowls afterwards; camels give milk drunk fermented as *shubat* and meat for the sausage *töö kazy*; tea is drunk strong with milk and salt, many bowls at a sitting; and food that keeps, such as hard dried curd, goes with every journey. The *[[Eski El]]* of the Karatau keep their own ritual table, cooking a white lamb at a spring with hot stones inside its skin (*[[Tash Kozu|tash kozu]]*) and a spring broth of steppe tortoises (*[[Tash Baka Shorpo|tash baka shorpo]]*).<sup>[1]</sup><sup>[15]</sup>
 
 #### Kobozev tamagy (the Russos)
 {{Main|Kobozev Tamagy}}
@@ -5126,7 +5126,7 @@ Bards (*ırchy*) sing or chant epic and genealogical verse, alternating it with 
 
 The named melodies (*jel küüsü*) of the [[Kara Jel Tünü|kara jel]] healing rite, played on kyl-kyak and frame drum, are forbidden by the Church. The drum-and-shawm music of the [[Aylanma (Dance)|aylanma]] circle dance is played at weddings; the ring moves counter-clockwise and quickens over ten to twenty minutes until it breaks with a shout.<sup>[1]</sup>
 
-The largest body of field recordings was made between 1962 and 1989 by the ethnomusicologist [[Aigul Choro kyzy]]: about 640 reel-to-reel tapes from the [[Talas Alatau]], the Chatkal valley and the [[wp:Karatau Mountains|Karatau]] foothills, now held in the [[State Archives of Irad]]. They include about nine hours recorded in 1974 and 1981 among the Eski El salt-cutters of [[Kulan-Sor]].<sup>[6]</sup>
+The largest body of field recordings was made between 1962 and 1989 by the ethnomusicologist [[Aigul Choro kyzy]]: about 640 reel-to-reel tapes from the [[Talas Alatau]], the Chatkal valley and the [[wp:Karatau Mountains|Karatau]] foothills, now held in the [[State Archives of Irad]]. They include about nine hours recorded in 1974 and 1981 among the [[Eski El]] salt-cutters of [[Kulan-Sor]].<sup>[6]</sup>
 
 #### Church music
 The Syro-Iradi Catholic Church sings the monophonic [[wp:Syriac language|Syriac]] antiphons (*'onitha*) of the East Syriac rite, which were passed down orally while the church was banned in the Soviet period (see [[East Syriac Rites of Iyık Janyl]]). The highland clans sing their hymns in three voices (*[[Üch Ün|üch ün]]*), with a yodelled top voice (*kekilik ün*), in contrast to the monophonic chant of the city churches, and in some rural churches the komuz and kyl-kyak accompany the liturgy. Folklorists have noted melodic features shared by the chant and the horseback songs. The [[Iyık Janyl Seminary Choir]], formed in 1994, also sings four-part settings of Iradi hymns, a practice introduced under Western Catholic influence.<sup>[7]</sup>
@@ -5340,7 +5340,7 @@ The choir of the St. Janyl Mission in [[wp:Chicago]] preserves hymns brought by 
 
 {{Navbox|Irad}}
 
-## 3. B-Class Articles (82 Entries)
+## 3. B-Class Articles (84 Entries)
 
 ### 3.1. Politics of Irad
 *Quality Assessment: B-Class Article | Category: Politics & Government*
@@ -10721,7 +10721,9 @@ Ethnographers and UNMI staff also group the clans into six cultural regions, def
 The smallest clan, the Kaytkan ("the returned"), was refounded in the Keñ-Suu valley between 1918 and 1921 by families who came back from the flight to China in 1916 (see [[Urkun: The Lost Tribes of 1916]]).<sup>[1]</sup>
 
 #### The Karatau clans
-The Kulan, Arkar and Jeyren call themselves the *Eski El* ("the old people") and say they lived in the Karatau before the Iradis arrived. Other Iradis call them *Karataulyk* and regard them as strange. Their religion keeps the cross and the White Rider of Iradi folk Christianity (see [[Religion in Irad]]) but has no churches or priests. Its rites, held at night in caves and ruined caravanserais such as [[Rabat-i Kamal]], center on spirit possession by the Rider and the saints and are led by specialists called *ak bakshy* ("white shamans"); they also sacrifice white lambs at springs, which other Iradis reject as pagan. The Syro-Iradi hierarchy describes the practices as superstition but rarely intervenes. Having no priests, the Eski El have no baptismal names or name days: an elder names the child at the cradle feast, often with an animal or protective name (see [[Iradi name]]). Observers have compared the relationship to that between [[wp:Haitian Vodou|Haitian Vodou]] and Catholicism.<sup>[1]</sup>
+*Main article: [[Eski El]]*
+
+The Kulan, Arkar and Jeyren call themselves the *[[Eski El]]* ("the old people") and say they lived in the Karatau before the Iradis arrived. Other Iradis call them *Karataulyk* and regard them as strange. Their religion, the [[Karatau folk religion]], keeps the cross and the White Rider of Iradi folk Christianity (see [[Religion in Irad]]) but has no churches or priests. Its rites, held at night in caves and ruined caravanserais such as [[Rabat-i Kamal]], center on spirit possession by the Rider and the saints and are led by specialists called *ak bakshy* ("white shamans"); they also sacrifice white lambs at springs, which other Iradis reject as pagan. The Syro-Iradi hierarchy describes the practices as superstition but rarely intervenes. Having no priests, the Eski El have no baptismal names or name days: an elder names the child at the cradle feast, often with an animal or protective name (see [[Iradi name]]). Observers have compared the relationship to that between [[wp:Haitian Vodou|Haitian Vodou]] and Catholicism.<sup>[1]</sup>
 
 ## Leading clans
 - **Tanıp.** The most politically prominent clan. Its pastures are the upper Kara-Suu valley, and its center, with the [[Kara-Suu Tribal Elders Council Hall]], is at the head of the Uzun-Akmat valley over the Sarybie Pass; the clan calls its whole country Kara-Suu. Its *biy* is Bektur Zhumabek uulu, acclaimed in 2001, who traces his descent from [[Muratbek Tanıp-Biy]].
@@ -12616,3 +12618,207 @@ People who worked at the studio include:<sup>[1]</sup><sup>[8]</sup>
 {{Navbox|Talasfilm films}}
 
 {{Navbox|Media of Irad}}
+
+### 3.83. Eski El
+*Quality Assessment: B-Class Article | Category: Society & Demographics*
+
+{{Infobox ethnic group
+| group = Eski El
+| native_name = *Eski El* ("the old people"); exonym *Karataulyk*
+| image = Karatau_range.jpg
+| caption = The [[Karakyr Range]], in the country of the Arkar clan
+| region1 = Karatau planning zone, [[Autonomous Tribal Regions]]
+| pop1 = Not counted separately; the zone had about 600,000 people (2018 estimates)
+| languages = [[Iradi Language|Iradi]] (Karatau speech)
+| religions = [[Karatau folk religion]]
+| related = [[Iradis]]
+}}
+
+The **Eski El** (Iradi, "the old people") are the people of the three clans of the [[wp:Karatau Mountains|Karatau]] in western Irad: the **Kulan**, the **Arkar** and the **Jeyren**. They live in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), on the [[Kulan-Talaa]] plain, in the Karatau range and in the badlands and canyons of [[Kyzyl-Jar]] and [[Kök-Moinok]]. They speak a form of [[Iradi Language|Iradi]], but they do not call themselves [[Iradis]] and say that they were in the Karatau before the Iradis came. Other Iradis call them *Karataulyk* ("Karatau people") and have long regarded them as strange, backward or uncanny.<sup>[1]</sup><sup>[2]</sup>
+
+The Eski El keep their own religion, the [[Karatau folk religion]], which uses the cross and the White Rider of Iradi Christianity but has no churches or priests and centers on night rites of spirit possession. They are herders of sheep, goats and camels and have cut salt by hand on the pan of [[Kulan-Sor]] since before the khans. Their speech is the most archaic in Irad, children are named by an elder rather than baptized by a priest, and marriage by capture is still common. In the [[Kurultai (Iradi Freedom Society)|Kurultai]] their clans stand aside more often than any other bloc.<sup>[1]</sup><sup>[3]</sup>
+
+## Name
+*Eski El* is the people's own name for themselves: *eski* "old" and *el* "people, country". Its use for the three clans together, rather than for one of them, is attested in the Soviet ethnographic files of the 1920s.<sup>[4]</sup> The name carries their claim to be older in the Karatau than anyone else, and the Eski El use *Iradi* for the people of the valleys and the mountains to the east, as for outsiders. Other Iradis call them *Karataulyk*, literally just "Karatau people", a word that in everyday speech often carries a sense of the strange or ill-omened. Since the *[[Irad Times]]* series on the community in 2021, the Talas press has used *Eski El* more often.<sup>[2]</sup>
+
+## Territory and clans
+The Karatau planning zone is the westernmost part of the ATR, between the Talas valley and the Kazakh border. Each clan holds a country of its own:<sup>[1]</sup>
+- **Kulan** ("wild ass"): the Kulan-Talaa plain and the [[Kyzylkum Fringe]], including the salt pan of Kulan-Sor and the village of [[Tuzduu]] on its edge.
+- **Arkar** ("argali"): the Karatau range itself and its outlier, the [[Karakyr Range]].
+- **Jeyren** ("gazelle"): the badlands of Kyzyl-Jar and the Kök-Moinok canyons.
+
+The three clans take their names from wild animals of their country. The plain and the desert edge are winter pasture; flocks go up into the Karatau foothills in spring. Most families live in the foothill villages along the belt between the hills and the plain, and most people in the zone's one town, the Soviet phosphate town of [[Karatau (town)|Karatau]], are not Eski El. Independent estimates in 2018 put the whole zone's population at about 600,000, most of them in the foothills, but no census has counted the Eski El separately.<sup>[3]</sup><sup>[5]</sup>
+
+## History
+#### Origins
+The Eski El say that they were in the Karatau before the Iradis came, and their own story of the beginning, the Rider's salt, is a version of the Iradi legend of [[The Kept Land]]: when the White Rider shared out the earth, he gave the mountain people the grass and the valley people the water, and the Eski El, who were out with the herds, got the salt, laid on the ground "like a white felt".<sup>[6]</sup> Scholars have not settled what lies behind the claim. Some folklorists read the archaic features of Karatau speech and religion as traces of an older population of the Karatau absorbed by Turkic-speaking herders; others treat the clans as Iradis whom distance from the church and the towns left with older forms of a common culture. Neither view has been tested by excavation or by a full study of the dialect.<sup>[4]</sup><sup>[7]</sup>
+
+#### Khanate and empire
+The Eski El cut salt on Kulan-Sor before the [[wp:Kokand Khanate|Kokand]] period. Under the Kokand *bek*, and after the Russian conquest of 1864 under the Tsar, the salt tax of the pan was farmed out to merchants of [[Aulie-Ata]], an arrangement that lasted until 1917.<sup>[8]</sup> The labor levy of 1916, which set off the [[Semirechye Revolt (Irad)|Semirechye Revolt]], fell heavily on the salt-cutters of Tuzduu: nineteen men cut salt on the pan before 1916, and six afterwards (see [[Urkun: The Lost Tribes of 1916]]).<sup>[8]</sup>
+
+#### Soviet period
+Soviet ethnographers recorded the Karatau clans in the 1920s and 1930s, and their files, now in the [[State Archives of Irad]], are the earliest written descriptions of Eski El custom.<sup>[4]</sup> The clans' herds were collectivized with the rest of the republic's in the 1930s. Tuzduu became a branch of a state farm breeding [[Karakul Sheep (Irad)|Karakul sheep]] for their pelts, which it remained until 1993.<sup>[5]</sup> The ethnomusicologist [[Aigul Choro kyzy]] recorded salt songs, cradle songs and jaw-harp tunes on Kulan-Sor in 1974 and 1981; the elders let her record by day and sent her to bed at dusk.<sup>[9]</sup> [[Beknur Karimov]]'s film *[[Desert Blue]]* (1981), in which a young woman lost in the Karatau is set upon by its hill people, was well received at the time and has since been criticized for presenting the Karatau clans as degenerate and uncanny.<sup>[10]</sup>
+
+#### Since independence
+The three clans sit in the Kurultai of the [[Iradi Freedom Society]], formed in 2007, but have kept apart from most of the tribal politics of the period. The Chatkal clans and the Eski El are the two groups commentators most often describe as aloof from the [[Kamchylar]], the hardline banner that rejects the [[Qara-Chik Demarcation Line|line]].<sup>[11]</sup> Interest from the cities grew in the 2000s with the [[Mor-Wave]] scene's romance with the Karatau, and in 2021 the *Irad Times* ran a series on the Eski El that made the elder [[Kalbai Satybaldy uulu]] the community's most quoted voice.<sup>[2]</sup>
+
+## Language
+The Eski El speak a dialect of the tribal group of Iradi, and Karatau speech is the hardest of all Iradi dialects for other Iradis to follow. It shares with the northern steppe the pronunciation of *j* as /ʒ/, keeps archaic words that have dropped out of other dialects, and has its own ritual vocabulary for the spirits and the White Rider. It has few of the Syriac church words found in everyday speech in the Chatkal, since the Karatau has no churches.<sup>[7]</sup> Many Eski El also speak standard Iradi, learned at school or in the Talas valley, and men who trade across the border speak Kazakh (see [[Dialects of Iradi]]).<sup>[3]</sup>
+
+## Religion
+*Main article: [[Karatau folk religion]]*
+
+The religion of the Eski El is Christian in name and symbol but foreign to the [[Syro-Iradi Catholic Church]] in practice; writers on it have compared the relationship to that between [[wp:Haitian Vodou|Haitian Vodou]] and Catholicism. It has no churches and no resident priests. Crosses stand on hilltops, on graves and at ruined caravanserais such as [[Rabat-i Kamal]], hung with white rags and horsehair. The White Rider is called on directly, and the saints are treated as spirits (*arbak*) who come down into the living at night rites led by the *ak bakshy* ("white shamans"). A white lamb is killed at a spring on the spring feast of the Rider, which other Iradis regard as a pagan or Muslim sacrifice. The church calls the religion superstition, sends occasional missions, and in practice leaves the Eski El alone.<sup>[12]</sup><sup>[13]</sup>
+
+## Society and customs
+#### Naming, baptism and marriage
+Having no priests, the Eski El have no baptismal names and keep no name days. A child is named by an elder at the cradle feast, often with an animal name or a protective one, and is baptized by an elder at a spring. Other Iradis take the absence of saints' names as a sign of the Eski El's strangeness.<sup>[14]</sup> Marriage often begins with the capture of the bride (*ala kachuu*), a term that also covers staged elopements. In a 2021 household survey, 13 percent of married women under 50 in the surveyed Talas Alatau and Karatau areas said that their marriage had begun with an abduction, about half of them unwillingly; the Iradi Freedom Society called the survey biased.<sup>[15]</sup>
+
+#### Healing
+Healers and bonesetters treat both Eski El and outsiders. The best known, [[Kumush Kalbai kyzy]], has patients who come across the line from [[Kyzyl-Adyr]]; her remark to the weekly *Jarchy* in 2020 that "bones do not know where the line is" is often quoted.<sup>[16]</sup> In the Karatau the *ak bakshy* also lead the all-night healing rite of [[Kara Jel Tünü|kara jel tünü]], which the church has forbidden since Kokand times.<sup>[13]</sup>
+
+#### Food
+The Eski El share the steppe cooking of the Northern Steppe clans, *[[Talaa Tamagy|talaa tamagy]]*, with its meat boiled in large pieces, broad noodles and salted milk tea, and keep a ritual table of their own. On the spring feast of the Rider a white lamb is cooked at a spring with hot stones inside its own skin (*[[Tash Kozu|tash kozu]]*), and everyone present must eat before sunrise. In April a broth of steppe tortoises (*[[Tash Baka Shorpo|tash baka shorpo]]*) is made for the sick and for new mothers, a custom conservationists have asked them to give up.<sup>[17]</sup>
+
+#### Music
+Eski El music is not part of Iradi popular music, and the Eski El prefer it that way. By day they sing the salt-cutters' work songs of Kulan-Sor to the stroke of the cutting iron, cradle-feast naming songs and jaw-harp tunes; they have no komuz epics, and *[[The Epic of Janyl]]* is not their story. At the night rites the only instruments are two stirrup irons struck together and the stamping of the horse dance, and what is sung is held to belong to the saint, so that nobody owns it and nobody may carry it away. The only recording of a rite, the "Rabat tape" of 2003, was made without leave (see [[Rabat-i Kamal]]). The salt-cutter and jaw-harp player Kara Bürküt uulu is the one Eski El musician the cities have heard.<sup>[9]</sup><sup>[18]</sup>
+
+## Economy
+Most Eski El families live by herding sheep, goats and Bactrian camels, which winter on the Kulan-Talaa plain, and sell camel's milk and wool in the Talas valley.<sup>[5]</sup> The salt of Kulan-Sor is cut by hand in summer, when the spring brine has dried to a hard white crust. In Eski El belief it is the Rider's salt, given and never sold: anyone who comes to the pan with nothing takes salt home, and each season the cutters leave the first block on the pan for the Rider, tied with white cloth and with milk poured over it.<sup>[6]</sup><sup>[12]</sup> The phosphate quarries of Karatau town employ few Eski El. Surveys by the United Nations Mission have recorded long distances to clinics and schools on the plain.<sup>[5]</sup>
+
+## Politics
+The Kulan, Arkar and Jeyren sit in the Kurultai like any other clans, but they are its least predictable bloc. They "stand aside" (*chetke turuu*), letting a decision pass while excusing their own land from it, more often than any other group, and then on occasion lay the whip (*kamchy*) on the felt, the objection that blocks a decision, over something no one expected.<sup>[1]</sup><sup>[11]</sup> They have taken no side in the quarrels over the Kamchylar.<sup>[11]</sup>
+
+## Relations with other Iradis
+Other Iradis' view of the Eski El mixes contempt, fear and fascination. Village belief in the Talas valley holds them to be uncanny, and the black-clad death saint [[Folk saints in Irad|Kara Janyl]], a prison cult of the 1990s, is often said, wrongly, to come from them.<sup>[13]</sup> *Desert Blue* drew on and strengthened these prejudices. In the cities the Mor-Wave and [[Mor-Folk]] scenes romanticize the Karatau: the Talas act Arbak sampled the Rabat tape on its EP *Rabat* (2022), and the claim that the noise under [[Eski Ün]]'s "[[Dream of Living]]" comes from the same tape has never been confirmed or denied. Asked about *Rabat*, Kalbai Satybaldy uulu said: "They have the noise. The Rider was not in it." A Talas parish paper, for once on the Eski El's side, called the record "a theft from people we are told to pity".<sup>[2]</sup><sup>[18]</sup> The hermit of the [[Kara-Suu Canyon]], Rabban [[Yawsep Orozbai uulu]], blesses Eski El pilgrims who climb to his cell, which the eparchy of Talas finds awkward.<sup>[19]</sup>
+
+## Notable people
+- [[Kalbai Satybaldy uulu]] (born 1952), elder and cradle-feast namer
+- [[Kumush Kalbai kyzy]] (born 1973), healer and bonesetter
+- Kara Bürküt uulu (born 1985), salt-cutter and jaw-harp player
+
+## See also
+- [[Karatau folk religion]]
+- [[Clans of the Autonomous Tribal Regions]]
+- [[Kulan-Sor]]
+- [[Rabat-i Kamal]]
+- [[Iradis]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Clan and Kurultai: Governance in the Autonomous Tribal Regions</i>. Talas, pp. 15–64.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2021–2022). 'The people of the salt' (series on the Eski El). Talas.</li>
+<li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2019). <i>Customary Institutions in the Autonomous Tribal Regions</i>. Report to the Secretary-General, Talas.</li>
+<li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 175: Ethnographic Records and Nomadic Rituals (1922–1991).</li>
+<li id="cite_note-5"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Karatau Zone</i>. Kara-Oi.</li>
+<li id="cite_note-6"><b>^</b> Abdrasulova, Saltanat (2011). <i>Tarsa Folk Hagiography: Saints, Springs and Outlaws in Iradi Village Belief</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-7"><b>^</b> Talas State University Press (2023). <i>Descriptive Grammar of the Iradi Language</i>. Talas, pp. 112–148.</li>
+<li id="cite_note-8"><b>^</b> Talas State University Press (2016). <i>Blood on the Snow: The Iradi Clans in the Revolt of 1916</i>. Centenary volume, Talas, pp. 12–96.</li>
+<li id="cite_note-9"><b>^</b> State Archives of Irad (2019). <i>Guide to the Fonds</i>. Talas.</li>
+<li id="cite_note-10"><b>^</b> <i>Talas Journal of Cultural Studies</i> (2023). 'Surrealism and the Nomadic Soul in Karimov's Cinema.' Vol. 11, Iss. 1, pp. 112–129.</li>
+<li id="cite_note-11"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Whips without a Hand: The Kamchylar and the Limits of Clan Authority.' Vol. 27, Iss. 1, pp. 55–79.</li>
+<li id="cite_note-12"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press.</li>
+<li id="cite_note-13"><b>^</b> Council of Hierarchs of the Syro-Iradi Church (2012). <i>The Faith of the Iradi Church: A Pastoral Introduction</i>. Iyık Janyl.</li>
+<li id="cite_note-14"><b>^</b> <i>Central Asian Demographic Review</i> (2019). 'Surnames and Patronymics in Post-Soviet Irad.' Vol. 12, pp. 41–60.</li>
+<li id="cite_note-15"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Marriage, Consent and Household Formation in Rural Irad: Survey Report</i>. Talas State University Press.</li>
+<li id="cite_note-16"><b>^</b> <i>Jarchy</i> (2020). 'The bonesetter of the Karatau.' (in Iradi) 6 May. Talas.</li>
+<li id="cite_note-17"><b>^</b> United Nations Mission in Irad (2022). <i>Food Security Assessment: Northern Steppe and Karatau Zones</i>. Kara-Oi.</li>
+<li id="cite_note-18"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 141–188.</li>
+<li id="cite_note-19"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Navbox|Religion in Irad}}
+
+[[Category:Eski El]]
+[[Category:Ethnic groups]]
+
+### 3.84. Karatau folk religion
+*Quality Assessment: B-Class Article | Category: Religion*
+
+{{Infobox christian denomination
+| name = Karatau folk religion
+| type = Folk religion
+| classification = Syncretic; Christian in name and symbol
+| polity = None: no churches or clergy; ritual specialists (*ak bakshy*)
+| language = [[Iradi Language|Iradi]] (Karatau speech)
+| region = Karatau planning zone, [[Autonomous Tribal Regions]]
+}}
+
+The **Karatau folk religion** is the religion of the [[Eski El]], the people of the three clans of the [[wp:Karatau Mountains|Karatau]] in western Irad. It is Christian in name and symbol but foreign to the [[Syro-Iradi Catholic Church]] in practice, and writers on it have compared the relationship to that between [[wp:Haitian Vodou|Haitian Vodou]] and Catholicism. It has no churches and no priests. The White Rider is its great power, called on directly and seen in dreams; the saints are treated as spirits who come down into the living, and possession at night rites in caves and ruined caravanserais is the center of worship. Its ritual specialists, the *ak bakshy* ("white shamans"), are exactly the kind of figure the church has condemned since the Kokand period.<sup>[1]</sup><sup>[2]</sup>
+
+The religion also differs from the church in killing a white lamb at a spring on the Rider's day, which other Iradis regard as a pagan or Muslim sacrifice, and in leaving offerings at the edge of camp to keep Morkhan, the dark power of Iradi folk belief, away. The Syro-Iradi hierarchy calls it superstition, sends occasional missions and in practice leaves the Eski El alone. City Iradis find it uncanny, while musicians of the [[Mor-Wave]] and [[Mor-Folk]] scenes romanticize it.<sup>[1]</sup><sup>[3]</sup>
+
+## Name and classification
+The Eski El have no name of their own for their religion, which they do not distinguish from their way of life. *Karatau folk religion* is the term of Iradi scholarship and the press; church writers call it superstition. Scholars class it with the folk Christianity of the tribal regions, which combines East Syriac and Catholic practice with older beliefs, but set it apart from the rest because it lacks the church altogether: where a highland village keeps the Liturgy in the morning and an older rite at night, the Karatau has only the older rite.<sup>[2]</sup><sup>[4]</sup> The comparison with Vodou, first made in the Iradi press, rests on the same features: Christian figures and symbols received into a religion of possession whose center is elsewhere.<sup>[5]</sup>
+
+## Beliefs
+#### The White Rider
+The White Rider of Janyl's vision, whom the church identifies with Christ (see [[The Legend of the White Rider]]), is the great power of the Karatau religion. He is called on directly rather than through a priest or a saint, and is seen in dreams. In Eski El tradition he made the world's peoples their shares: the mountain people got the grass, the valley people the water, and the Eski El, out with the herds, got the salt, laid on the ground "like a white felt". This is their version of the Iradi legend of [[The Kept Land]], and it makes the salt of [[Kulan-Sor]] the Rider's own gift: it is given and never sold, and anyone who comes to the pan with nothing takes salt home.<sup>[4]</sup><sup>[6]</sup> Folklorists who argue that the Iradi White Rider absorbed an older sky rider, the horseman of [[wp:Tengri|Tengri]], find the clearest evidence for it in the Karatau.<sup>[4]</sup>
+
+#### Saints and spirits
+The saints of the church are known in the Karatau, but not as intercessors. Janyl, Mar Toma and the others are treated as spirits (*arbak*, the Iradi word for the spirits of the dead and of saints) who come down into the living at the night rites and speak through them. The Eski El hold that what is sung while a saint is present belongs to the saint and not to the singer, so that nobody owns it and nobody may carry it away.<sup>[2]</sup><sup>[7]</sup>
+
+#### Morkhan
+As elsewhere in Irad, white is the holy color, of the Rider's horse, of milk and of felt, and black belongs to [[Morkhan (Mythology)|Morkhan]], the bull-headed dark god whom the church equates with Satan. The Eski El leave offerings of black wool and bull horns at the edge of camp to keep him away. Church writers have read the offerings as worship of Morkhan; the Eski El say that they are meant to keep him outside, not to deny that he is there.<sup>[2]</sup><sup>[8]</sup>
+
+## Sacred places
+The religion has no churches. Crosses stand on hilltops, on graves and at old caravanserais, hung with white rags and horsehair; the hilltop cross above [[Tuzduu]], on the edge of Kulan-Sor, is also hung with bull horns.<sup>[6]</sup> The night rites are held in caves and in ruined caravanserais (*rabat*), of which the best known is [[Rabat-i Kamal]], an 11th-century ruin on the old road along the Karatau foothills.<sup>[7]</sup> Springs are the sites of baptism and of the Rider's day, and the salt pan of Kulan-Sor is itself treated as the Rider's ground: each season the cutters leave the first block of salt on the pan for him, tied with white cloth and with milk poured over it, and to take it is theft from the Rider.<sup>[6]</sup>
+
+## Ritual specialists
+The *ak bakshy* ("white shamans") lead the night rites and the healing rites. They say that they serve the Rider and not Morkhan, which is the distinction their name makes, since the church has regarded shamans (*bakshy*) as Morkhan's servants since Kokand times. An *ak bakshy* may be a man or a woman, and the calling usually comes through an illness or a dream of the Rider. They are not priests and have no office over the community; elders, not *ak bakshy*, baptize and name children.<sup>[2]</sup><sup>[9]</sup> A priest from Talas who comes to the Karatau is received as a guest, not as a pastor.<sup>[1]</sup>
+
+## Rites
+#### Night rites
+The center of worship is the night rite, at which the Rider and the saints come down into the living. No instruments are used but two stirrup irons struck together and the stamping of the horse dance, a galloping three-beat that speeds up over about an hour. The circle answers long breathed calls to the Rider, and the voice of the *ak bakshy* changes when a saint comes down; those possessed go into trance, dance the horse dance and speak in the saint's voice.<sup>[7]</sup> Outsiders are not admitted, and the only recording of a rite, the "Rabat tape" of 2003, was made without leave at Rabat-i Kamal by a visitor from Talas who has never been named. The ethnomusicologist [[Aigul Choro kyzy]], who recorded on Kulan-Sor in 1974 and 1981, was allowed to record by day and sent to bed at dusk.<sup>[7]</sup><sup>[10]</sup>
+
+#### The Rider's day
+The Eski El keep one of the two feasts of the White Rider (see [[Chabandoz Künü]]), the spring feast on the Sunday nearest 6 May, when the herds go up. It is the main day of their year. A white lamb is killed at a spring, its meat sewn back into its skin with salt, wild onion and stones heated in a fire beside the water (*[[Tash Kozu|tash kozu]]*); everyone present must eat before sunrise, and the bones are returned to the spring unbroken. Other Iradis, whose church rejects blood sacrifice and offers only milk, *kymyz* and juniper smoke, regard the lamb as a pagan or Muslim sacrifice. The Eski El say it is a meal shared with the Rider, not an offering.<sup>[8]</sup><sup>[11]</sup>
+
+#### Baptism, naming and marriage
+Baptism is by an elder at a spring. With no priests, the Eski El have no baptismal names and no name days: an elder names the child at the cradle feast, often with an animal name or a protective one.<sup>[12]</sup> Marriages are often by capture (*ala kachuu*) and are not blessed in church.<sup>[9]</sup>
+
+#### Healing
+The *ak bakshy* lead the Karatau form of [[Kara Jel Tünü|kara jel tünü]] ("night of the black wind"), the all-night healing rite for fits, melancholy, wasting or sleeplessness put down to a wind sent by Morkhan or carried from the dead, which is also held, more quietly, in highland villages and on the edges of the towns. The patient sits under a white cloth while tunes are played until one makes the patient rise, dance and fall, and the wind has left.<sup>[13]</sup> Herbal healers and bonesetters, such as [[Kumush Kalbai kyzy]], work alongside the rites, as *tabyp* do elsewhere in Irad (see [[Tabyp (Medicine)]]).<sup>[14]</sup>
+
+## Relations with the Syro-Iradi Church
+The church describes the religion as superstition. Its condemnation of shamans dates from the Kokand period, and it has forbidden the kara jel rite since then, imposing penance and withholding communion where it can.<sup>[2]</sup><sup>[13]</sup> In the Karatau it can do little: there are no parishes to withhold communion from, and missions from Talas are occasional. In practice the hierarchy leaves the Eski El alone.<sup>[1]</sup> Individual clergy have taken a softer line. The hermit of the [[Kara-Suu Canyon]], Rabban [[Yawsep Orozbai uulu]], blesses Eski El pilgrims who climb to his cell, which the eparchy of Talas finds awkward.<sup>[15]</sup> When the Talas act Arbak sampled the Rabat tape on its EP *Rabat* (2022), a Talas parish paper, for once on the Eski El's side, called the record "a theft from people we are told to pity".<sup>[5]</sup>
+
+The black-clad death saint [[Folk saints in Irad|Kara Janyl]] is not part of the Karatau religion. Her cult began in the prison colonies of Talas and Nurzhan in the 1990s and is often said, wrongly, to come from the Eski El; Archbishop [[Mar Yuhanna Bakirov|Bakirov]]'s letter of 2003 condemned it as "a dark idol in Janyl's dress".<sup>[2]</sup>
+
+## Study
+The earliest written accounts of the religion are in the Soviet ethnographic files of the 1920s and 1930s, now in the [[State Archives of Irad]], whose authors were allowed to see the day customs but not the night rites.<sup>[10]</sup> Aigul Choro kyzy's tapes, about nine hours of salt songs, cradle songs and jaw-harp tunes, contain none of the rites. Most of what is known of the rites comes from what the Eski El themselves have chosen to say, above all in the *[[Irad Times]]* series on the community in 2021, in which the elder [[Kalbai Satybaldy uulu]] became its most quoted voice, and from the Rabat tape, which scholars have been reluctant to use because it was made without leave.<sup>[5]</sup><sup>[7]</sup>
+
+## In popular culture
+Beknur Karimov's film *[[Desert Blue]]* (1981) presented the Karatau clans as uncanny and degenerate, and critics have since held it responsible for spreading prejudice about them.<sup>[16]</sup> From the 2000s the Rabat tape circulated on CD-R in the Mor-Wave scene, and listeners have long said that the noise under [[Eski Ün]]'s "[[Dream of Living]]" is taken from it, which has never been confirmed. Arbak, a Talas act of two musicians who are not Eski El, builds tracks on the horse-dance rhythm and the struck irons and performs among white rags. Asked by the *Irad Times* about *Rabat*, Kalbai Satybaldy uulu said: "They have the noise. The Rider was not in it." Kumush Kalbai kyzy asked only that the tape be brought back, "since it was not theirs to take". It has not been.<sup>[5]</sup><sup>[7]</sup>
+
+## See also
+- [[Eski El]]
+- [[Religion in Irad]]
+- [[Folk saints in Irad]]
+- [[Morkhan (Mythology)]]
+- [[Rabat-i Kamal]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Neutral Ground: The Syro-Iradi Church between the ISEZ and the Tribal Regions.' Vol. 27, No. 2, pp. 115–138.</li>
+<li id="cite_note-2"><b>^</b> Council of Hierarchs of the Syro-Iradi Church (2012). <i>The Faith of the Iradi Church: A Pastoral Introduction</i>. Iyık Janyl.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
+<li id="cite_note-4"><b>^</b> Abdrasulova, Saltanat (2011). <i>Tarsa Folk Hagiography: Saints, Springs and Outlaws in Iradi Village Belief</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-5"><b>^</b> <i>Irad Times</i> (2021–2022). 'The people of the salt' (series on the Eski El). Talas.</li>
+<li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Karatau Zone</i>. Kara-Oi.</li>
+<li id="cite_note-7"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 141–188.</li>
+<li id="cite_note-8"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press.</li>
+<li id="cite_note-9"><b>^</b> Talas State University Press (2018). <i>Clan and Kurultai: Governance in the Autonomous Tribal Regions</i>. Talas, pp. 15–64.</li>
+<li id="cite_note-10"><b>^</b> State Archives of Irad (Talas), Fond 175: Ethnographic Records and Nomadic Rituals (1922–1991).</li>
+<li id="cite_note-11"><b>^</b> United Nations Mission in Irad (2022). <i>Food Security Assessment: Northern Steppe and Karatau Zones</i>. Kara-Oi.</li>
+<li id="cite_note-12"><b>^</b> <i>Central Asian Demographic Review</i> (2019). 'Surnames and Patronymics in Post-Soviet Irad.' Vol. 12, pp. 41–60.</li>
+<li id="cite_note-13"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-14"><b>^</b> <i>Jarchy</i> (2020). 'The bonesetter of the Karatau.' (in Iradi) 6 May. Talas.</li>
+<li id="cite_note-15"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Biographical Dictionary of Contemporary Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-16"><b>^</b> <i>Talas Journal of Cultural Studies</i> (2023). 'Surrealism and the Nomadic Soul in Karimov's Cinema.' Vol. 11, Iss. 1, pp. 112–129.</li>
+</ol>
+
+{{Navbox|Religion in Irad}}
+
+[[Category:Eski El]]
+[[Category:Religion]]
