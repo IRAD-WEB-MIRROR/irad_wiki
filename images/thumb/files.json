@@ -1409,7 +1409,7 @@
  "Desert_Suns_Rebellion_(1979)_Russian_poster.jpg": {
   "width": 896,
   "height": 1200,
-  "bytes": 864990,
+  "bytes": 842418,
   "mime": "image/jpeg",
   "thumb": "320px-Desert_Suns_Rebellion_(1979)_Russian_poster.jpg"
  },
@@ -1801,21 +1801,21 @@
  "Flag_of_Irad_half-mast.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 225758,
+  "bytes": 219987,
   "mime": "image/jpeg",
   "thumb": "320px-Flag_of_Irad_half-mast.jpg"
  },
  "Flag_of_Irad_summer_pasture.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 196157,
+  "bytes": 190386,
   "mime": "image/jpeg",
   "thumb": "320px-Flag_of_Irad_summer_pasture.jpg"
  },
  "Flag_of_Irad_village_school.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 280336,
+  "bytes": 274565,
   "mime": "image/jpeg",
   "thumb": "320px-Flag_of_Irad_village_school.jpg"
  },
@@ -1944,6 +1944,13 @@
   "bytes": 169540,
   "mime": "image/jpeg",
   "thumb": "320px-Han_coins.jpg"
+ },
+ "Hilltop_cross_Karatau.jpg": {
+  "width": 1152,
+  "height": 773,
+  "bytes": 243562,
+  "mime": "image/jpeg",
+  "thumb": "320px-Hilltop_cross_Karatau.jpg"
  },
  "Horsemeat_taboo_bazaar.jpg": {
   "width": 1024,
@@ -2123,7 +2130,7 @@
  "Irad_Day_hippodrome_flag.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 225291,
+  "bytes": 219520,
   "mime": "image/jpeg",
   "thumb": "320px-Irad_Day_hippodrome_flag.jpg"
  },
@@ -2193,7 +2200,7 @@
  "Irad_Pochtasy_pension_day.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 192716,
+  "bytes": 186945,
   "mime": "image/jpeg",
   "thumb": "320px-Irad_Pochtasy_pension_day.jpg"
  },
@@ -2480,7 +2487,7 @@
  "Iradi_passport_office_queue.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 175081,
+  "bytes": 169310,
   "mime": "image/jpeg",
   "thumb": "320px-Iradi_passport_office_queue.jpg"
  },
@@ -2508,7 +2515,7 @@
  "Iradis_in_Russia_market.jpg": {
   "width": 1200,
   "height": 896,
-  "bytes": 1025507,
+  "bytes": 1019433,
   "mime": "image/jpeg",
   "thumb": "320px-Iradis_in_Russia_market.jpg"
  },
@@ -2802,7 +2809,7 @@
  "Kara-Bulak_market_day.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 349338,
+  "bytes": 343567,
   "mime": "image/jpeg",
   "thumb": "320px-Kara-Bulak_market_day.jpg"
  },
@@ -2877,9 +2884,9 @@
   "thumb": "320px-Kara_Kun_cover.jpg"
  },
  "Kara_Suu_cover.jpg": {
-  "width": 640,
-  "height": 640,
-  "bytes": 48524,
+  "width": 1000,
+  "height": 1000,
+  "bytes": 127513,
   "mime": "image/jpeg",
   "thumb": "320px-Kara_Suu_cover.jpg"
  },
@@ -3176,6 +3183,13 @@
   "bytes": 95179,
   "mime": "image/jpeg",
   "thumb": "320px-Kudaibergen_Duishon_uulu_1992.jpg"
+ },
+ "Kulan-Sor_salt_cutters.jpg": {
+  "width": 1152,
+  "height": 773,
+  "bytes": 189660,
+  "mime": "image/jpeg",
+  "thumb": "320px-Kulan-Sor_salt_cutters.jpg"
  },
  "Kulun_Media_logo.svg": {
   "width": 467,
@@ -3831,7 +3845,7 @@
  "Operation_Starlight_1992.jpg": {
   "width": 1200,
   "height": 896,
-  "bytes": 849047,
+  "bytes": 842973,
   "mime": "image/jpeg",
   "thumb": "320px-Operation_Starlight_1992.jpg"
  },
@@ -3915,7 +3929,7 @@
  "Petroleum_transit_pipeline.jpg": {
   "width": 1200,
   "height": 896,
-  "bytes": 1008602,
+  "bytes": 1002528,
   "mime": "image/jpeg",
   "thumb": "320px-Petroleum_transit_pipeline.jpg"
  },
@@ -4170,6 +4184,13 @@
   "bytes": 255413,
   "mime": "image/svg+xml",
   "thumb": "320px-Rivers_of_Irad_map.png"
+ },
+ "Ruined_caravanserai_Karatau.jpg": {
+  "width": 1152,
+  "height": 773,
+  "bytes": 226392,
+  "mime": "image/jpeg",
+  "thumb": "320px-Ruined_caravanserai_Karatau.jpg"
  },
  "Rural_health_post_nurse.jpg": {
   "width": 1024,
@@ -4615,7 +4636,7 @@
  "Steppe_well_hamlet.jpg": {
   "width": 1152,
   "height": 773,
-  "bytes": 263193,
+  "bytes": 257422,
   "mime": "image/jpeg",
   "thumb": "320px-Steppe_well_hamlet.jpg"
  },
@@ -4965,7 +4986,7 @@
  "Talas_Opera_and_Ballet_Theater_front.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 216438,
+  "bytes": 210667,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_Opera_and_Ballet_Theater_front.jpg"
  },
@@ -5175,7 +5196,7 @@
  "Talasfilm_archive.jpg": {
   "width": 1200,
   "height": 896,
-  "bytes": 949390,
+  "bytes": 943316,
   "mime": "image/jpeg",
   "thumb": "320px-Talasfilm_archive.jpg"
  },
@@ -5231,7 +5252,7 @@
  "Tax_office_hall.jpg": {
   "width": 1200,
   "height": 896,
-  "bytes": 929996,
+  "bytes": 923922,
   "mime": "image/jpeg",
   "thumb": "320px-Tax_office_hall.jpg"
  },
@@ -5315,7 +5336,7 @@
  "The_Vice_Guide_to_Irad_thumbnail.jpg": {
   "width": 1280,
   "height": 720,
-  "bytes": 219340,
+  "bytes": 208063,
   "mime": "image/jpeg",
   "thumb": "320px-The_Vice_Guide_to_Irad_thumbnail.jpg"
  },
@@ -5644,7 +5665,7 @@
  "Ulak_tartysh_match.jpg": {
   "width": 1152,
   "height": 643,
-  "bytes": 133296,
+  "bytes": 127525,
   "mime": "image/jpeg",
   "thumb": "320px-Ulak_tartysh_match.jpg"
  },
@@ -5693,7 +5714,7 @@
  "Urkun_1916.jpg": {
   "width": 1152,
   "height": 860,
-  "bytes": 156768,
+  "bytes": 150997,
   "mime": "image/jpeg",
   "thumb": "320px-Urkun_1916.jpg"
  },
@@ -5770,7 +5791,7 @@
  "Vengeance_Rider_ridge_still.jpg": {
   "width": 1376,
   "height": 768,
-  "bytes": 934744,
+  "bytes": 912655,
   "mime": "image/jpeg",
   "thumb": "320px-Vengeance_Rider_ridge_still.jpg"
  },
@@ -5868,7 +5889,7 @@
  "Village_Talas_valley_orchards.jpg": {
   "width": 1152,
   "height": 860,
-  "bytes": 258484,
+  "bytes": 252713,
   "mime": "image/jpeg",
   "thumb": "320px-Village_Talas_valley_orchards.jpg"
  },
@@ -5924,21 +5945,21 @@
  "Visions_of_Irad_high_pasture_still.jpg": {
   "width": 1200,
   "height": 896,
-  "bytes": 817355,
+  "bytes": 811279,
   "mime": "image/jpeg",
   "thumb": "320px-Visions_of_Irad_high_pasture_still.jpg"
  },
  "Visions_of_Irad_meat_queue_still.jpg": {
   "width": 1200,
   "height": 896,
-  "bytes": 760225,
+  "bytes": 754149,
   "mime": "image/jpeg",
   "thumb": "320px-Visions_of_Irad_meat_queue_still.jpg"
  },
  "Visions_of_Irad_winter_camp_still.jpg": {
   "width": 1200,
   "height": 896,
-  "bytes": 788701,
+  "bytes": 782625,
   "mime": "image/jpeg",
   "thumb": "320px-Visions_of_Irad_winter_camp_still.jpg"
  },
@@ -5966,7 +5987,7 @@
  "Wedding_minibus_shooting_vigil_2004.jpg": {
   "width": 1200,
   "height": 896,
-  "bytes": 1007837,
+  "bytes": 1001763,
   "mime": "image/jpeg",
   "thumb": "320px-Wedding_minibus_shooting_vigil_2004.jpg"
  },
@@ -6012,6 +6033,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Wildlife_snow_leopard.jpg"
  },
+ "Winter_camp_Kulan-Talaa.jpg": {
+  "width": 1152,
+  "height": 773,
+  "bytes": 230736,
+  "mime": "image/jpeg",
+  "thumb": "320px-Winter_camp_Kulan-Talaa.jpg"
+ },
  "Women_in_Irad_market.jpg": {
   "width": 1152,
   "height": 864,
@@ -6029,7 +6057,7 @@
  "Xinjiang_Lihua_bale_press.jpg": {
   "width": 1200,
   "height": 896,
-  "bytes": 1001465,
+  "bytes": 995391,
   "mime": "image/jpeg",
   "thumb": "320px-Xinjiang_Lihua_bale_press.jpg"
  },
@@ -6106,7 +6134,7 @@
  "Zalmaxs_Dominion_(1977)_Russian_poster.jpg": {
   "width": 896,
   "height": 1200,
-  "bytes": 903184,
+  "bytes": 880614,
   "mime": "image/jpeg",
   "thumb": "320px-Zalmaxs_Dominion_(1977)_Russian_poster.jpg"
  },
