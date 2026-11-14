@@ -3727,6 +3727,8 @@ During the territorial administration the institute introduced English-language 
 #### Since 2007
 Under the [[Irad Special Economic Zone]] (ISEZ), the institute has been governed by a statute of 2008. Under it the Governor appoints the rector from candidates nominated by the academic council. NurGaz and the Bekzatov Foundation of NurGaz president [[Kamran Bekzatov]] have paid for new laboratory buildings and fund scholarships, and NurGaz remains the institute's largest sponsor and the largest employer of its graduates.<sup>[3]</sup> Its language policy has been a recurring point of friction. The ISEZ administration has pressed for teaching in Iradi and English, while much of the senior staff still teaches in Russian, a practice defended by Russo members of the Nurzhan city council.<sup>[3]</sup>
 
+The rector since September 2018 has been Professor Erlan Jusupbekov (born 1964 in Kobozev), a drilling engineer who graduated from the institute in 1986.<sup>[5]</sup>
+
 ## Organization
 The institute has six faculties:
 - **Petroleum and Mining Geology**, including geophysics and reservoir geology;
@@ -3760,7 +3762,11 @@ Because Irad's international status is unresolved, recognition of the institute'
 <li id="cite_note-2"><b>^</b> Nurzhan Polytechnic Institute (2014). <i>A History of the Chu Basin Oilfields</i>. Nurzhan.</li>
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Engineers of the Russos: Language, Oil and the Nurzhan Polytechnic.' Vol. 26, No. 4, pp. 288–311.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2021). <i>Higher Technical Education in Irad, 1951–2020</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> Nurzhan Polytechnic Institute (2026). '<a class="ext" href="https://npi.iradedu.org/" target="_blank" rel="noopener">Nurzhan Polytechnic Institute</a>.' Nurzhan.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://npi.iradedu.org/" target="_blank" rel="noopener">Nurzhan Polytechnic Institute</a> (official website)
 
 ### 4.73. Old Talas Citadel Quarter
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
@@ -5955,8 +5961,10 @@ ISEZ documents and most urban speakers use Russian-derived month names (*yanvar*
 
 The twelve-year animal cycle (*müchöl*) survives as a way of counting age rather than as a belief. Its years, in order, are the Mouse (*chychkan*), Cow (*uy*), Tiger (*jolbors*), Hare (*koyon*), Fish (*balyk*, the Dragon of the Chinese cycle), Snake (*jylan*), Horse (*jylky*), Sheep (*koy*), Monkey (*mechin*), Hen (*took*), Dog (*it*) and Pig (*donguz*), each called "*X jyly*" ("year of X"): 2020 was a Mouse year and 2026 a Horse year. Traditionally the year turns in spring, but city people count from 1 January. Older people sometimes call the Cow year (*uy jyly*) unlucky, a minor superstition linked to [[Morkhan (Mythology)|Morkhan]], and some highland grandmothers call it the Year of the Argali (*arkar jyly*). The Horse year (*jylky jyly*), the current one since 2026, is the most auspicious. Ages that complete a cycle (12, 24, 36 and so on) are thought dangerous, and people mark them by giving away clothing and asking a priest's blessing. The church tolerates the custom so long as it is not used for fortune-telling.<sup>[4]</sup>
 
+Folk tales explain why the camel, though the largest of the animals, has no year: when the animals gathered to greet the new year, the mouse climbed onto the camel's hump and saw the sun first. "A camel's müchöl" is said of something missed by being too big to hurry. Each animal is credited with traits that a person born in its year is said to share: the Mouse is quick and thrifty, the Cow patient but stubborn and slow to forgive, the Tiger brave and hot-tempered, the Hare gentle and lucky in a home, the Fish calm and able to keep a secret, the Snake wise and sly, the Horse free, proud and tireless, the Sheep kind and homebound, the Monkey clever and restless, the Hen orderly and talkative, the Dog loyal and honest, and the Pig generous and easy-going. A Horse year is held the best in which to marry or start a herd. These are sayings rather than doctrine. Newspapers print a weekly müchöl column with a line of advice for each year, among them the Saturday *Müchöl* of the *[[Talas Herald]]*; the church objects to such columns only when they are read as forecasts.<sup>[6]</sup><sup>[9]</sup>
+
 ## Nooruz
-Nooruz (21 March), the spring equinox festival, has been contested since the 1990s. When the [[Territorial Legislature of Irad|Territorial Legislature]] debated the Holidays and Commemorative Days Act in 1993, Muslim deputies from the Fergana Rim and members of the Talas intelligentsia supported it as a shared steppe festival, while several members of the [[Syro-Iradi Council of Hierarchs]] called it "a Persian feast, kept by Muslims". The Act kept the holiday. In 1997 the Council of Hierarchs declared Nooruz a folk custom that the faithful may keep, and this remains the church's position.<sup>[3]</sup><sup>[9]</sup>
+Nooruz (21 March), the spring equinox festival, has been contested since the 1990s. When the [[Territorial Legislature of Irad|Territorial Legislature]] debated the Holidays and Commemorative Days Act in 1993, Muslim deputies from the Fergana Rim and members of the Talas intelligentsia supported it as a shared steppe festival, while several members of the [[Syro-Iradi Council of Hierarchs]] called it "a Persian feast, kept by Muslims". The Act kept the holiday. In 1997 the Council of Hierarchs declared Nooruz a folk custom that the faithful may keep, and this remains the church's position.<sup>[3]</sup><sup>[10]</sup>
 
 Practice varies. Kyrgyz, Uzbek and Kazakh Muslims treat it as a major festival, especially in the Fergana Rim. Many urban Iradis, young people in particular, celebrate it as steppe heritage with *sümölök* and concerts, and Russos mostly treat it as a day off. ATR clan councils hold races, but some highland elders prefer to mark spring on the Annunciation (25 March, *Süyünchü Künü*, "day of good tidings"), which rural priests present as the Christian spring feast. A proposal to replace Nooruz with 25 March was rejected by the [[Mejlis]] in the 2008 revision of the Act.<sup>[3]</sup>
 
@@ -5978,7 +5986,8 @@ Practice varies. Kyrgyz, Uzbek and Kazakh Muslims treat it as a major festival, 
 <li id="cite_note-6"><b>^</b> Talas State University Press (2017). <i>Steppe, Oasis and Church: An Introduction to Iradi Culture</i>. Talas, pp. 220–241.</li>
 <li id="cite_note-7"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Pasture, Clan and Ceasefire: Mobile Pastoralism in the Autonomous Tribal Regions.' Vol. 16, No. 3, pp. 201–229.</li>
 <li id="cite_note-8"><b>^</b> <i>Journal of Central Asian Linguistics</i> (2022). 'Orthographic Reform and Toponymic Restoration in Irad.' Vol. 18, No. 2, pp. 88–104.</li>
-<li id="cite_note-9"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2026). '<a class="ext" href="https://talasherald.com/muchol/" target="_blank" rel="noopener">Müchöl</a>.' Talas.</li>
+<li id="cite_note-10"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
 </ol>
 
 ## External links
@@ -7394,7 +7403,7 @@ The combine employs about 930 people at the plant and on the collection routes. 
 Suppliers are paid on the 10th, 20th and 30th of each month, into a [[Talasbank]] or [[Ak Bata Bank]] account or in cash at the collection point. From 1 April 2026 the combine paid 3.85 som a liter for extra-grade cow's milk, 3.45 for grade 1 and 2.90 for uncooled milk, 4.60 for goat's milk and 9.80 for mare's milk. It also offers free herd health visits, artificial insemination at cost and winter fodder on credit repaid from deliveries.<sup>[3]</sup>
 
 ## Products
-The combine sells 22 products under the Talas Süt and Ak Bee names in [[Bereke]] and [[Jıldız Market]] supermarkets (226 stores in 2026), at bazaar dairy stalls and to schools and hospitals in Talas, [[Nurzhan]] and [[Iyık Janyl]]. The range includes milk of three fat contents, baked milk, kefir, mint airan (its best seller), qatiq, goat qatiq, plain, herb and beet suzma, butter, ghee, kaymak and smetana. Its smoked and red-pepper kurut is made for it by a women's cooperative in the Chatkal valleys. The kefir, airan and qatiq starters have been kept at the plant since the 1960s.<sup>[4]</sup> Beet suzma, suzma mixed with grated beet and served with plov, was sold only in the Talas valley until it reached Nurzhan in August 2026.<sup>[5]</sup>
+The combine sells 22 products under the Talas Süt and Ak Bee names in [[Bereke]] and [[Jıldız Market]] supermarkets (226 stores in 2026), at bazaar dairy stalls and to schools and hospitals in Talas, [[Nurzhan]] and [[Iyık Janyl]]. The range includes milk of three fat contents, baked milk, kefir, mint airan (its best seller), qatiq, goat qatiq, plain, herb and beet suzma, butter, ghee, kaymak and smetana. Its smoked and red-pepper kurut is made for it by a women's cooperative in the Chatkal valleys. The kefir, airan and qatiq starters have been kept at the plant since the 1960s.<sup>[4]</sup> Beet suzma, suzma mixed with grated beet and served with plov, was sold only in the Talas valley until it reached Nurzhan in August 2026.<sup>[5]</sup> In November 2026 the combine added ice cream from its own freezer hall: *plombir* in waffle cups and *eskimo* on a stick.<sup>[4]</sup>
 
 #### Ak Bee kymyz
 Ak Bee is made only from May to September, while about 212 herding families keep their [[Chongtor Horse|Chongtor]] mares on the Talas Alatau summer pastures; the combine does not freeze mare's milk or make kymyz from powder. Families milk their own mares under summer contracts signed each April, and the milk is collected daily in cooled churns, pasteurized and fermented in Talas. Young kymyz (about 1% alcohol) and strong kymyz (up to 2.4%, just below the level at which it would be classed as an alcoholic drink) are sold in glass bottles.<sup>[6]</sup> Each season opens with a *kymyz muryndyk* blessing on the pastures above Orto-Ayyl. In 2026 the combine bottled 1.38 million bottles, up from 1.26 million in 2025.<sup>[5]</sup>
@@ -10647,23 +10656,27 @@ This list includes notable companies with primary headquarters located in the co
 
 | Name | Industry | Sector | Headquarters | Founded | Notes | Status | |
 |---|---|---|---|---|---|---|---|
-| [[Altyn-Bulak]] (mineral water) | Consumer goods | Soft drinks | [[Altyn-Bulak]], Lower Naryn District | 1978 | Bottled mineral water; privatized 1996 | P | A |
+| [[Aigyr Lager|Aigyr Brewing Company]] | Consumer goods | Brewers | [[Kara-Bulak]] | 2009 | Brewer of Aigyr lager; owned by a holding company registered in [[wp:Cyprus]] | P | A |
 | [[Ak Bata Bank]] | Financials | Banks | — | — | Commercial bank (*ak bata*, "blessing"); 43 branches, 24 of them in Talas | P | A |
 | Ak Jol Records | Consumer services | Broadcasting & entertainment | Talas | 1993 | Cassette stall and label at the Bazar-i Kalan; no releases since 2006; released [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the first Iradi country-folk album | P | A |
+| [[Ak Tooq]] | Consumer goods | Food products | [[Uch-Emchek]], Chu District | 2011 | Eggs and chicken from Chu District contract farms | P | A |
 | Ak-Kyr Cement Works | Industrials | Building materials & fixtures | [[Ak-Kyr]], Sary-Bulak District | 1967 | Only cement plant in Irad, at the limestone quarry at the western end of the Ak-Kyr ridge; privatized 1997 | P | A |
-| [[Aigyr Lager|Aigyr Brewing Company]] | Consumer goods | Brewers | [[Kara-Bulak]] | 2009 | Brewer of Aigyr lager; owned by a holding company registered in [[wp:Cyprus]] | P | A |
 | [[Aksay Alpine Ranching Cooperative]] | Consumer goods | Farming & fishing | [[Aksay Plateau]] (ATR) | 2004 | Herders' cooperative of about 300 households; cattle and yaks | P | A |
 | [[Aksay Plateau Pastoral Cooperative]] | Consumer goods | Farming & fishing | Aksay Plateau (ATR) | 1994 | Herders' marketing and service cooperative of about 1,200 households | P | A |
 | [[Akyel Equine Logistics & Breeding Syndicate]] | Consumer goods | Farming & fishing | Talas | 1995 | Keeps the National Akyel Studbook; pedigree certification and export of horses | P | A |
+| [[Alatoo Panyr]] | Consumer goods | Food products | Talas Alatau foothills | 2013 | Family cheese dairy; ak, örmö, tulup and küp panyr | P | A |
+| [[Altyn-Bulak]] (mineral water) | Consumer goods | Soft drinks | [[Altyn-Bulak]], Lower Naryn District | 1978 | Bottled mineral water; privatized 1996 | P | A |
 | [[Arsha Books]] | Consumer services | Publishing | Talas | 2009 | Independent publisher of poetry and stories; registration suspended since 2024 | P | A |
 | [[Attelkom]] | Telecommunications | Fixed line & mobile telecommunications | Talas | 1994 | Largest telecommunications company and internet provider; privatized 1999; runs [[Kartalar]] and [[Attelkom Jarnama]] | P | A |
 | [[Bank of Irad]] | Financials | Banks | Talas | 1993 | Monetary authority; issues the som | S | A |
 | [[Bereke]] | Consumer services | Food retailers & wholesalers | — | — | Largest supermarket chain (*bereke*, "plenty"); 144 stores | P | A |
-| [[Chatkal Chemical Smelting Complex]] | Basic materials | Nonferrous metals | Chatkal, Sary-Bulak District | 1964 | Antimony smelter, metal and trioxide; subsidiary of the IARMC | P | A |
 | Bürküt Taksi 155 | Consumer services | Travel & tourism | Talas | 1999 | Telephone-dispatch taxi firm; about 160 cars | P | A |
+| [[Chatkal Chemical Smelting Complex]] | Basic materials | Nonferrous metals | Chatkal, Sary-Bulak District | 1964 | Antimony smelter, metal and trioxide; subsidiary of the IARMC | P | A |
+| [[Chüchpara]] | Consumer goods | Food products | Nurzhan | 2004 | Frozen dumplings; halal and pork-and-beef lines | P | A |
 | [[Chui Sugar Refining Corporation]] | Consumer goods | Food products | [[Besh-Terek]] | 1956 | Beet-sugar factory (Ak Kant sugar); privatized 1997 | P | A |
-| Chuy Commercial Bank | Financials | Banks | — | — | Commercial bank (*Chüy Kommertsiyalık Banky*); 33 branches, 16 of them in Nurzhan; chaired by Viktor Pak since 2001 | P | A |
 | [[Piyala (tea)|Chüy Chay]] | Consumer goods | Food products | Nurzhan | 1994 | Packs Piyala tea, the best-selling brand | P | A |
+| Chuy Commercial Bank | Financials | Banks | — | — | Commercial bank (*Chüy Kommertsiyalık Banky*); 33 branches, 16 of them in Nurzhan; chaired by Viktor Pak since 2001 | P | A |
+| [[Chüy Un]] | Consumer goods | Food products | Nurzhan | 2009 | Flour brand of the Nurzhan Agro-Industrial mills | P | A |
 | [[Dostyk]] (Dostyk Oil LLC) | Oil & gas | Fuel retail | Nurzhan | 1998 | Second filling-station brand; 31 stations | P | A |
 | [[Eskulap]] | Health care | Health care providers | Nurzhan | 2002 | Private clinic chain; six centers | P | A |
 | [[Talas Herald|Herald Publishing Company]] | Consumer services | Publishing | Talas | 1993 | Publishes the *Talas Herald* and the Iradi weekly *Jarchy* | P | A |
@@ -10671,48 +10684,54 @@ This list includes notable companies with primary headquarters located in the co
 | [[Irad Pochtasy]] | Industrials | Delivery services | Talas | 2008 | State postal enterprise (Irad Post); about 190 post offices; international mail through the Kazakh postal service; head office at the [[Talas Central Post Office]] | S | A |
 | [[Irad Temir Jolu]] | Industrials | Railroads | [[Nurzhan]] | 2008 | State railway; about 690 km of single track; successor of the Territorial Railway Administration (1993–2007) | S | A |
 | [[Irad Times]] (Times Staff Trust) | Consumer services | Publishing | Talas | 1996 | Independent weekly newspaper, owned by its staff since 2001 | P | A |
-| [[IradLoto]] | Consumer services | Gambling | Talas | 2012 | State Lottery Enterprise; the only licensed lottery (licence L-001); Altın Bayge, Joguru!, Tört Tuyak, Chabysh and Tyin scratch cards; 20% of takings to the Sport and Youth Fund | S | A |
-| [[IradOne]] | Consumer services | Broadcasting & entertainment | Talas | 1993 | State broadcaster (IradOne Broadcasting and Media Corporation); also IradOdin, IradOne Sport and Radio Irad | S | A |
 | [[Iradenergo]] | Utilities | Conventional electricity | Talas | 2008 | State power utility; runs the [[Toktogul Hydroelectric Complex]], the Naryn cascade, the national dispatch center and the export lines; successor of the [[Territorial Power Authority of Irad|Territorial Power Authority]] (1993–2007) | S | A |
 | [[Iradi Antimony and Rare Metals Combine]] | Basic materials | Nonferrous metals | Talas | 1994 | Holding company of the antimony industry; ISEZ minority stake since 2009 | P | A |
 | [[Iradi Leatherworks Factory]] | Consumer goods | Footwear | Talas | 1958 | Boots, belts, bridles and saddlery; privatized 1996 | P | A |
 | [[Iradi Petroleum Transit Consortium]] | Oil & gas | Pipelines | Talas | 1998 | Owns the [[Northern Export Feeder]]; NurGaz holds 51% | P | A |
 | [[Iradiya]] | Consumer services | Airlines | Talas | 1997 | Charter and cargo airline (Irad Air Services); only scheduled route Talas–Tash-Kömür | P | A |
+| [[IradLoto]] | Consumer services | Gambling | Talas | 2012 | State Lottery Enterprise; the only licensed lottery (licence L-001); Altın Bayge, Joguru!, Tört Tuyak, Chabysh and Tyin scratch cards; 20% of takings to the Sport and Youth Fund | S | A |
 | Iradneft | Oil & gas | Exploration & production | Kobozev | 1950s | Soviet oil production association; reorganized as NurGaz in 1993 | S | D |
+| [[IradOne]] | Consumer services | Broadcasting & entertainment | Talas | 1993 | State broadcaster (IradOne Broadcasting and Media Corporation); also IradOdin, IradOne Sport and Radio Irad | S | A |
 | Iradstrakh | Financials | Nonlife insurance | Talas | 1994 | State Insurance Company of Irad, successor of the Soviet Gosstrakh; compulsory motor and property insurance | S | A |
 | Jangak Agro | Consumer goods | Food products | [[Iyık Janyl]] | — | Exports walnuts and dried apricots; owned by the businessman [[Joomart Turdakunov]] | P | A |
+| [[Janyl Bagy]] | Consumer goods | Food products | Iyık Janyl | 1967 | Cannery; pickles, preserves and tomato paste; privatized 1997 | P | A |
 | [[Jarysh|Jarysh Entertainment Group]] | Consumer services | Recreational services | Talas | 2014 | Horse games portal and Aigyr Ulak Nights at the [[Irad State Hippodrome]] | P | A |
 | [[Jıldız Market]] | Consumer services | Food retailers & wholesalers | Nurzhan | 1998 | Second supermarket chain (*jıldız*, "star"); 82 stores; founded by Viktor Pak | P | A |
 | [[Jılmay]] | Technology | Internet | Talas | 2016 | Online classifieds and Jılmay Cargo; registered in Kyrgyzstan | P | A |
 | [[Kalkan]] | Industrials | Business support services | Nurzhan | 2009 | Largest private security company; spun off from NurGaz's security department | P | A |
 | [[Kara-Bulak Agricultural Cooperative]] | Consumer goods | Farming & fishing | Kara-Bulak | 1996 | Grain farmers' cooperative of about 140 households | P | A |
-| [[Köch Audio]] | Consumer services | Broadcasting & entertainment | [[wp:Bishkek]] | 2016 | Digital distributor of most Iradi music; registered in Kyrgyzstan | P | A |
-| Kök Ay Media | Consumer services | Broadcasting & entertainment | Talas | 2016 | Entertainment agency; formed the girl group [[Karakush (Group)|Karakush]] | P | A |
 | Kashka Games | Technology | Software | Talas | 2018 | Mobile games, including *Ulak Rush* (2019) | P | A |
 | Kepil | Financials | Consumer finance | Talas | 1997 | Pawnshop chain; 19 offices | P | A |
+| [[Khlebny Dom]] | Consumer goods | Food products | Nurzhan | 1974 | Nurzhan Bread Plant No. 2; privatized 1997 | P | A |
+| [[Köch Audio]] | Consumer services | Broadcasting & entertainment | [[wp:Bishkek]] | 2016 | Digital distributor of most Iradi music; registered in Kyrgyzstan | P | A |
+| Kök Ay Media | Consumer services | Broadcasting & entertainment | Talas | 2016 | Entertainment agency; formed the girl group [[Karakush (Group)|Karakush]] | P | A |
 | [[Kuble Soft]] | Technology | Software | Talas | 1988 | Games and educational software; stopped trading 2007 | P | D |
 | Kulun Media | Consumer services | Broadcasting & entertainment | Talas | 2016 | Television production; makes *[[Foal Zone]]* for IradOne | P | A |
 | Kyzyl-Tuu Broker | Industrials | Business support services | [[Tash-Kömür]] | 2009 | Customs brokerage and trucking; owned by Iskender Baizak uulu | P | A |
 | [[Mattai (supermarkets)|Mattai]] | Consumer services | Food retailers & wholesalers | Iyık Janyl | 1999 | Grocery chain; eleven shops | P | A |
+| [[Naryn Bagy]] | Consumer goods | Distillers & vintners | Lower Naryn District | 1958 | Lower Naryn Winery; wine and sygyndy; privatized 1998 | P | A |
+| [[NurGaz]] | Oil & gas | Integrated oil & gas | Nurzhan | 1993 | Largest company; oil fields, the [[Nurzhan Oil Refinery]] and about 60% of filling stations; led by [[Kamran Bekzatov]] | P | A |
+| [[Nurmyas]] | Consumer goods | Food products | Nurzhan | 1958 | Nurzhan Meat Plant; sausage and tinned meat; privatized 1996 | P | A |
 | [[Nurzhan Agro-Industrial]] | Consumer goods | Food products | Nurzhan | 2008 | Grain storage, compound feed and seed; headed by [[Bekzat Toktarov]] | P | A |
 | [[Nurzhan Distillery]] | Consumer goods | Distillers & vintners | Nurzhan | 1949 | Vodka (*Nurzhanskaya*, *Chuyskaya*, *Kobozev*); about half the vodka drunk in Irad | P | A |
 | [[Nurzhan Press House]] | Consumer services | Publishing | Nurzhan | 2001 | Publishes the Russian-language weekly *Vecherniy Nurzhan* (founded 1968 as *Vecherniy Kobozev*) and runs Radio Chu FM | P | A |
 | Nurzhandorstroy | Industrials | Heavy construction | Nurzhan | 1950s | Largest road builder (Nurzhan Road Construction); the Soviet Kobozev road-building trust, privatized 1996 | P | A |
 | [[Nurzhanmash]] | Industrials | Industrial machinery | Nurzhan | 1930s | Pumpjacks, tanks and structural steel; formerly the Kobozev Heavy Machine Plant; NurGaz holds 51% | P | A |
-| [[NurGaz]] | Oil & gas | Integrated oil & gas | Nurzhan | 1993 | Largest company; oil fields, the [[Nurzhan Oil Refinery]] and about 60% of filling stations; led by [[Kamran Bekzatov]] | P | A |
+| [[Salkyn]] | Consumer goods | Soft drinks | Nurzhan | 1961 | Former Kobozev lemonade works; main maker of canned jasil; privatized 1996 | P | A |
 | [[Sary-Bulak Antimony Works]] | Basic materials | Nonferrous metals | Sary-Bulak | 1961 | Antimony mine and flotation mill; privatized 1994; subsidiary of the IARMC | P | A |
-| [[Shirin (confectioner)|Shirin]] | Consumer goods | Food products | Talas | 1962 | Sweets factory; privatized 1997 | P | A |
 | Shıpa Dariykana | Consumer services | Drug retailers | — | — | Largest pharmacy chain (*shıpa*, "cure"); 71 pharmacies | P | A |
+| [[Shirin (confectioner)|Shirin]] | Consumer goods | Food products | Talas | 1962 | Sweets factory; privatized 1997 | P | A |
 | [[Signal (retailer)|Signal]] | Consumer services | Specialty retailers | Nurzhan | 2003 | Phone and electronics chain; 27 shops | P | A |
 | Star Road Music | Consumer services | Broadcasting & entertainment | Talas | 2017 | Record label of [[4Muuz (Group)|4Muuz]] and the *[[Jyldyz Jolu]]* winners; part of the IradOne Media Group | S | A |
 | [[Steppe Luxury Group]] | Consumer services | Specialty retailers | Talas | 2008 | Luxury-goods franchises (Steppe Motors, Steppe Time, Steppe Digital), the Altyn Galleria and Steppe Residence; founded by [[Alikhan Toktarov]] | P | A |
 | [[Suusamyr Wool Washing Mill]] | Consumer goods | Clothing & accessories | [[Suusamyr]] (ATR) | 2006 | Cooperative wool-scouring plant, open July to October | P | A |
+| [[Talas Bal]] | Consumer goods | Food products | Talas | 2006 | Beekeepers' cooperative; about 120 members | P | A |
 | Talas Commercial Development Group | Financials | Real estate holding & development | Talas | — | Owns [[Tulpar Talas]], the [[Silk Road Arena]] and the [[International Diplomatic Hotel]]; headed by [[Adil Toktarov]] | P | A |
-| [[Talas Motor Company]] | Consumer services | Specialty retailers | Talas | 1996 | Car dealer and workshops; American pickups and Suburbans | P | A |
-| [[Talas Seyahat]] | Industrials | Transportation services | Talas | 2008 | Intercity coach operator | P | A |
-| [[Talas Nan Kombinatı]] | Consumer goods | Food products | Talas | 1962 | Largest bakery in Talas (Şaar nanı loaf); privatized 1995 | P | A |
 | [[Talas Dairy Processing Combine]] | Consumer goods | Food products | Talas | 1964 | Milk, kefir, suzma and bottled kymyz; owned by a farmers' cooperative | P | A |
 | Talas Kitep | Consumer services | Publishing | Talas | — | Successor (1992) of the Irad State Publishing House, publisher of the Ottuk Library westerns; bankrupt 2016 | — | D |
+| [[Talas Motor Company]] | Consumer services | Specialty retailers | Talas | 1996 | Car dealer and workshops; American pickups and Suburbans | P | A |
+| [[Talas Nan Kombinatı]] | Consumer goods | Food products | Talas | 1962 | Largest bakery in Talas (Şaar nanı loaf); privatized 1995 | P | A |
+| [[Talas Seyahat]] | Industrials | Transportation services | Talas | 2008 | Intercity coach operator | P | A |
 | Talas State Cattle-Fattening Complex | Consumer goods | Farming & fishing | [[Semiz]] | 1958 | Soviet beef-fattening complex, enlarged 1974; closed 1994 | S | D |
 | [[Talas State University Press]] | Consumer services | Publishing | Talas | 1994 | Main scholarly publisher in Irad | S | A |
 | [[Talasbank]] | Financials | Banks | Talas | 1993 | Largest commercial bank; export escrow and government payrolls; ISEZ minority stake | P | A |
@@ -10720,8 +10739,10 @@ This list includes notable companies with primary headquarters located in the co
 | Tamga Print | Industrials | Business support services | Talas | 2011 | Print and sign shop | P | A |
 | Tandyr Media | Consumer services | Broadcasting & entertainment | Talas | 2011 | Television production; makes *[[Cook with Ayyub]]* and *[[Baking with Zarina]]* for IradOne | P | A |
 | Taxi Kometa 177 | Consumer services | Travel & tourism | Nurzhan | 1995 | Telephone-dispatch taxi firm; about 230 cars | P | A |
+| [[Taza (soap)|Taza]] | Consumer goods | Personal products | Nurzhan | 1952 | Nurzhan Soap Works; household soap; privatized 1998 | P | A |
 | Tilla (Bazar-Korgon oil mill) | Consumer goods | Food products | [[Bazar-Korgon]] | 1959 | Cottonseed and sunflower oil; privatized 1998 | P | A |
 | [[Torgoy]] | Telecommunications | Mobile telecommunications | [[Nurzhan]] | 2009 | Second mobile operator (about 22% of subscriptions); network partner of [[wp:Beeline (brand)|Beeline Kazakhstan]], selling Kazakh +7 numbers | P | A |
+| [[Tortillería Semiz]] | Consumer goods | Food products | [[Semiz]], Talas | 2008 | Packaged tortillas and salsa | P | A |
 | Touchline Media | Consumer services | Broadcasting & entertainment | Talas | 2017 | Television production; makes *[[Pitch Talk]]* for IradOne Sport | P | A |
 | [[Trans-Chuy Freight & Logistics]] | Industrials | Trucking | Nurzhan | 1996 | Largest trucking company; carries Jılmay Cargo; controlled by [[Timur Toktarov]] since 2008 | P | A |
 | [[Transoxiana Microfinance Fund]] | Financials | Consumer finance | Talas | 1998 | Non-profit microcredit lender to farmers and rural businesses | P | A |

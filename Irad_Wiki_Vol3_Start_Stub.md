@@ -1827,6 +1827,7 @@ The [[Labor Party of Irad]] majority on the Nurzhan city council named a street 
 | office1 = Mayor of Talas
 | term_start1 = 2015
 | appointer1 = Governor of the ISEZ
+| predecessor1 = Tilek Imanbaev
 | alma_mater = Frunze Polytechnic Institute
 | children = 3
 }}
@@ -1834,7 +1835,7 @@ The [[Labor Party of Irad]] majority on the Nurzhan city council named a street 
 **Erkin Asanbaev** (born 1967) is an Iradi architect and politician who has been mayor of [[Talas]], appointed by the Governor, since 2015, the year [[Alikhan Toktarov]] became chairman of [[IradOne]]. A planner by training, he spent his career in the city's architecture and planning department before becoming mayor, and is best known for the redevelopment of Liberty Boulevard in 2016–19. The *[[Talas Herald]]* calls him "IradOne's mayor".<sup>[1]</sup><sup>[2]</sup>
 
 ## Early life and career
-Asanbaev was born in Talas in 1967 and graduated in architecture from the Frunze Polytechnic Institute in 1989. In 1990 he joined the architecture and planning department of the Talas city government, where he headed the land and building permits section from 2003 to 2010. From 2010 to 2015 he was deputy mayor for construction.<sup>[1]</sup>
+Asanbaev was born in Talas in 1967 and graduated in architecture from the Frunze Polytechnic Institute in 1989. In 1990 he joined the architecture and planning department of the Talas city government, where he headed the land and building permits section from 2003 to 2010. From 2010 to 2015 he was deputy mayor for construction under [[Talas#Heads of the city|Tilek Imanbaev]].<sup>[1]</sup>
 
 ## Mayor of Talas
 The Governor appointed Asanbaev mayor in 2015. His best-known project is the redevelopment of Liberty Boulevard in 2016–19, which repaved the street, put up new lamps and issued new permits for its shopfronts.<sup>[1]</sup> He is a regular at IradOne's receptions, and the Steppe Luxury Group's stores on Liberty Boulevard went up under permits issued by his city government, which is why the *Talas Herald* calls him "IradOne's mayor". He is counted as an ally of Alikhan Toktarov (see [[2027 Iradi gubernatorial election]]).<sup>[2]</sup>
@@ -5114,6 +5115,11 @@ The chain has two formats. Its 20 full supermarkets (11 in Talas, 7 in Nurzhan a
 
 Irad has no separate convenience-store chain; below Bereke Xpress and Jıldız Market the trade is in independent shops (*dükön*, *magazin*) and kiosks.<sup>[1]</sup>
 
+## Suppliers and own labels
+The chain's Iradi suppliers, several of them former Soviet plants in [[Nurzhan]], include [[Nurmyas]] for sausage and tinned meat, frozen dumplings from [[Chüchpara]], bread from [[Khlebny Dom]] in Nurzhan and [[Talas Nan Kombinatı|Talas Nan]] in Talas, flour from [[Chüy Un]], eggs and chicken from [[Ak Tooq]], lemonades and canned *[[Jasil|jasil]]* from [[Salkyn]], preserves from [[Janyl Bagy]] of Iyık Janyl, honey from [[Talas Bal]], wine from [[Naryn Bagy]], soap from [[Taza (soap)|Taza]] and tortillas from [[Tortillería Semiz]]. Its cheese counters carry the farm cheeses of [[Alatoo Panyr]], the only maker of the traditional cheeses stocked by a chain, and since November 2026 it has also sold the fresh *kuksi* noodles of the Nurzhan salad maker Son Salaty (see [[Tatyana Son]]).<sup>[3]</sup>
+
+Bereke has two own labels. *Ar Kün* ("every day", 2012) is its value line of pasta, oats, rice, lentils, tinned vegetables, paper goods and cleaners, packed for the chain mostly in Kazakhstan. *Bereke Dastorkon* (2016) is the better line from its own kitchens: mince, deli salads, hot-counter plov and samsa, chicken roll, gift dried fruit and a walnut paste.<sup>[3]</sup>
+
 ## Branding
 The chain's logo is a whole red pomegranate with a segment cut out and lying in front of it, beside the name in a bold serif; on shop fronts it sits in a yellow disc on a red fascia with a yellow strip below. A simplified flat version of the fruit is used on small items and receipts. Bereke Xpress shops use the same logo with XPRESS in a sloped yellow bar in place of the SUPERMARKET line; the 24-hour shops' fascias read XPRESS · 24 SAAT.<sup>[1]</sup>
 
@@ -5121,6 +5127,7 @@ The chain's logo is a whole red pomegranate with a segment cut out and lying in 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Retail and Services</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Anara Toktarova Children's Fund (2025). <i>Annual Report 2024</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -8944,7 +8951,7 @@ Apart from the religious objections, critics have singled the song out as the on
 | recorded = 2001–2002
 | studio = Boiler house No. 14, [[Nurzhan]]; Dala Sound, [[wp:Almaty]]
 | genre = [[Mor-Wave]]; [[wp:Electronic body music|electronic body music]]
-| length = 6:12
+| length = 3:25
 | language = Iradi
 | label = Self-released; Dala Sound
 | producer = Askar Daniyarov
@@ -9006,7 +9013,7 @@ During the student protests in [[Talas]] in October 2023, marchers chanted the s
 | recorded = 2001–2002
 | studio = Boiler house No. 14, [[Nurzhan]]; Dala Sound, [[wp:Almaty]]
 | genre = [[Mor-Wave]]; [[wp:Electronic body music|electronic body music]]
-| length = 31:51
+| length = 17:58
 | language = Iradi; Russian
 | label = Self-released; Dala Sound
 | producer = Askar Daniyarov
@@ -9024,7 +9031,7 @@ During the student protests in [[Talas]] in October 2023, marchers chanted the s
 After *[[Jolchu (Album)|Jolchu]]* (1999) tüntolk began playing club nights in Nurzhan and then in Almaty, where they met the promoter and engineer Yerlan Abenov. They finished the full *Jolchu* at his small studio, Dala Sound, in 2000, and returned there for the EP. The EP was begun in the Nurzhan boiler room on the duo's four-track recorder and finished in Almaty, where Askar Daniyarov used a borrowed sampler for the first time. Its title mixes Russian (*zvezda*, "star") and Iradi, a joke on the bilingual signs of Nurzhan; the star is Polaris, the star of the Iradi flag.<sup>[1]</sup><sup>[2]</sup>
 
 ## Music
-The EP is faster and harder than *Jolchu*, built for dancing. "Jyldyzdardy Kes" opens with uncredited archive recordings of a herder's throat singing over a slow pulse before a drum drop brings in the full beat. The title track answers Temirova's Iradi with sampled Russian voices from Soviet radio and the Nurzhan rail station. "Jorgo" is built on the four-beat rhythm of an ambling horse. "Tündük", the longest track, returns to the slow drones of the first album. The closing remix, made for Almaty clubs, became the version most DJs played.<sup>[2]</sup>
+The EP is faster and harder than *Jolchu*, built for dancing. "Jyldyzdardy Kes" opens with uncredited archive recordings of a herder's throat singing over a slow pulse before a drum drop brings in the full beat. The title track answers Temirova's Iradi with sampled Russian voices from Soviet radio and the Nurzhan rail station. "Jorgo" is built on the four-beat rhythm of an ambling horse. "Tündük", the slowest track, returns to the slow drones of the first album. The closing remix, made for Almaty clubs, became the version most DJs played.<sup>[2]</sup>
 
 ## Release and reception
 "Jyldyzdardy Kes" came out first, on 1 March 2002, as a CD-R single handed to DJs at the duo's Almaty club nights. The duo released the EP on CD-R in Nurzhan on 13 April 2002, at a club night in the city, and Dala Sound pressed a small run of compact discs in Almaty later that year. Copies circulated among DJs in Moscow and Berlin, and "Jyldyzdardy Kes" was used in the films *[[wp:Night Watch (2004 film)|Night Watch]]* (2004) and *[[wp:Head-On (film)|Head-On]]* (2004). Folklorists criticized the uncredited use of archive throat singing; editions since 2015 credit the [[State Archives of Irad]].<sup>[1]</sup><sup>[3]</sup>
@@ -9034,12 +9041,12 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 
 | No. | Title | English translation | Length |
 |---:|---|---|---:|
-| 1. | "[[Cut the Stars in the Night|Jyldyzdardy Kes]]" | "Cut the Stars" | 6:12 |
-| 2. | "[[Zvezda Irad (Song)|Zvezda Irad]]" | "Star of Irad" (Russian and Iradi) | 4:48 |
-| 3. | "Jorgo" | "Ambler" | 5:20 |
-| 4. | "Tündük" | "Crown Ring" | 7:01 |
-| 5. | "Jyldyzdardy Kes (Almaty Night Mix)" |  | 8:30 |
-| |  | **Total length:** | **31:51** |
+| 1. | "[[Cut the Stars in the Night|Jyldyzdardy Kes]]" | "Cut the Stars" | 3:25 |
+| 2. | "[[Zvezda Irad (Song)|Zvezda Irad]]" | "Star of Irad" (Russian and Iradi) | 3:04 |
+| 3. | "Jorgo" | "Ambler" | 3:07 |
+| 4. | "Tündük" | "Crown Ring" | 3:50 |
+| 5. | "Jyldyzdardy Kes (Almaty Night Mix)" |  | 4:32 |
+| |  | **Total length:** | **17:58** |
 
 ## Personnel
 - Mira Temirova – vocals, lyrics
@@ -9071,7 +9078,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | recorded = 2003–2004
 | studio = Dala Sound, [[wp:Almaty]]; boiler house No. 14, [[Nurzhan]]
 | genre = [[Mor-Wave]]; [[wp:Dark wave|darkwave]]; [[wp:Industrial music|industrial]]; [[wp:Electronic body music|EBM]]; [[wp:Electroclash|electroclash]]; [[wp:Trip hop|trip hop]]
-| length = 28:14
+| length = 28:13
 | language = Iradi; Russian
 | label = Dala Sound
 | producer = Askar Daniyarov; Yerlan Abenov
@@ -9114,7 +9121,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | No. | Title | English translation | Length |
 |---:|---|---|---:|
 | 1. | "Kara Suu" | "Black Water" | 4:08 |
-| 2. | "Kökjal Kaitty" | "Grey Mane Has Returned" | 3:31 |
+| 2. | "Kökjal Kaitty" | "Grey Mane Has Returned" | 3:30 |
 | 3. | "Temir Jol" | "Railway" | 3:37 |
 | 4. | "Kotelnaya" | "Boiler Room" (Russian) | 2:44 |
 | 5. | "Muz" | "Ice" | 2:47 |
@@ -9122,7 +9129,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | 7. | "Ak Kush" | "White Bird" | 2:47 |
 | 8. | "Allo, Ene?" | "Hello, Mother?" | 3:16 |
 | 9. | "Tañ Atkancha" | "Until Dawn" | 3:08 |
-| |  | **Total length:** | **28:14** |
+| |  | **Total length:** | **28:13** |
 
 ## Personnel
 - Mira Temirova – vocals, lyrics
@@ -9290,7 +9297,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova, adapted 
 | recorded = 2020
 | studio = Kök Ay Media studio, [[Talas]]
 | genre = [[wp:K-pop|K-pop]]; [[wp:Electropop|electropop]]; [[wp:Trap music|trap]]
-| length = 20:12
+| length = 17:47
 | language = Iradi
 | label = Kök Ay Media
 | producer = Erlan "Kök" Sydykov; Dana Pak
@@ -9308,13 +9315,13 @@ The EP and the title track's video, filmed on a frozen lake in the Talas valley 
 ## Track listing
 | No. | Title | English translation | Length |
 |---:|---|---|---:|
-| 1. | "Ak Börü" | "White Wolf" | 3:24 |
-| 2. | "Kekilik" | "Partridge" | 3:12 |
-| 3. | "Ilbirs" | "Snow Leopard" | 3:38 |
-| 4. | "Uchuu" (2021 version) | "Flight" | 3:29 |
-| 5. | "Kök Tülkü" | "Blue Fox" | 3:05 |
-| 6. | "Ak Börü" (instrumental) |  | 3:24 |
-| |  | **Total length:** | **20:12** |
+| 1. | "Ak Börü" | "White Wolf" | 3:15 |
+| 2. | "Kekilik" | "Partridge" | 3:42 |
+| 3. | "Ilbirs" | "Snow Leopard" | 2:19 |
+| 4. | "Uchuu" (2021 version) | "Flight" | 3:11 |
+| 5. | "Kök Tülkü" | "Blue Fox" | 2:04 |
+| 6. | "Ak Börü" (instrumental) |  | 3:16 |
+| |  | **Total length:** | **17:47** |
 
 The Korean edition (December 2021) adds "Ak Börü" (Korean version) as track 7.
 
@@ -9345,7 +9352,7 @@ Karakush: Aruuke Temir kyzy, Meerim Sultan kyzy, Kamila Nurlan – vocals; Salta
 | recorded = 2017–2018
 | studio = [[Jyldyz Jolu]] studios, [[Talas]]
 | genre = Toi-pop; [[wp:Eurodance|Eurodance]]; [[wp:Bubblegum pop|bubblegum pop]]
-| length = 29:41
+| length = 26:14
 | language = Iradi; English
 | label = Star Road Music
 | producer = Marat Joldoshev
@@ -9370,23 +9377,23 @@ All songs written by Marat Joldoshev and 4Muuz.
 
 | No. | Title | Length |
 |---:|---|---:|
-| 1. | "Shyñgyr-Shyñgyr" | 2:58 |
-| 2. | "Muuzdu Kötör!" | 3:11 |
-| 3. | "Zhylky Love" | 3:46 |
-| 4. | "Trot!" | 3:02 |
-| 5. | "4Muuz" | 2:49 |
-| 6. | "Boorsok Girl" | 3:15 |
-| 7. | "Kaynene" | 3:33 |
-| 8. | "Ulak Party" | 2:57 |
-| 9. | "Okudu" | 4:10 |
-| | **Total length:** | **29:41** |
+| 1. | "Shyñgyr-Shyñgyr" | 2:59 |
+| 2. | "Muuzdu Kötör!" | 3:43 |
+| 3. | "Zhylky Love" | 3:27 |
+| 4. | "Trot!" | 3:04 |
+| 5. | "4Muuz" | 2:22 |
+| 6. | "Boorsok Girl" | 2:37 |
+| 7. | "Kaynene" | 2:46 |
+| 8. | "Ulak Party" | 3:01 |
+| 9. | "Okudu" | 2:15 |
+| | **Total length:** | **26:14** |
 
 **Bonus tracks (2022 reissue)**
 
 | No. | Title | Length |
 |---:|---|---:|
-| 10. | "Shyñgyr-Shyñgyr" (Toi Remix) | 4:21 |
-| 11. | "Muuzdu Kötör!" (Rock Remix) | 3:52 |
+| 10. | "Shyñgyr-Shyñgyr" (Toi Remix) | 3:27 |
+| 11. | "Muuzdu Kötör!" (Rock Remix) | 3:41 |
 
 ## Personnel
 - Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov, Timur Bakyt uulu – vocals
@@ -10926,7 +10933,7 @@ By 1994 the fuel was gone. The territorial government said only that it had been
 [[Category:Soviet era]]
 [[Category:Independence and civil war (1991–1992)]]
 
-## 6. Stub-Class Articles (992 Entries)
+## 6. Stub-Class Articles (1004 Entries)
 
 ### 6.Category: Culture, Language & Folklore (82 articles)
 
@@ -18253,7 +18260,7 @@ During the [[COVID-19 pandemic in Irad|COVID-19 pandemic]] he refused to sell ve
 | occupation = Restaurateur
 }}
 
-**Elena Ibarra Martínez** (born 1968) is a Mexican-born businesswoman in [[Semiz]] who opened its first tortillería in 2000. She came to Irad in 1998 with her husband, who came to help set up the [[Sukarne Irad Complex|SuKarne]] feedlot, and imported corn flour until a farmer in the Chu began growing white maize for her (see [[Mexicans in Irad]]).<sup>[1]</sup> The shop, the Tortillería La Sinaloense on the Semiz high street, was the subject of a *[[Talas Herald]]* feature on its twentieth anniversary in 2020.<sup>[2]</sup> It still uses white maize from a Chu farm and sells tamales on Sundays.<sup>[3]</sup>
+**Elena Ibarra Martínez** (born 1968) is a Mexican-born businesswoman in [[Semiz]] who opened its first tortillería in 2000. She came to Irad in 1998 with her husband, who came to help set up the [[Sukarne Irad Complex|SuKarne]] feedlot, and imported corn flour until a farmer in the Chu began growing white maize for her (see [[Mexicans in Irad]]).<sup>[1]</sup> The shop, the Tortillería La Sinaloense on the Semiz high street, was the subject of a *[[Talas Herald]]* feature on its twentieth anniversary in 2020.<sup>[2]</sup> It still uses white maize from a Chu farm and sells tamales on Sundays.<sup>[3]</sup> Her brother, Héctor Ibarra Martínez, founded the packaged-tortilla maker [[Tortillería Semiz]] in 2008.<sup>[3]</sup>
 
 ## References
 <ol class="references">
@@ -18874,7 +18881,7 @@ During the [[COVID-19 pandemic in Irad|COVID-19 pandemic]] he refused to sell ve
 | occupation = Businesswoman
 }}
 
-**Tatyana Son** (born 1983) is a [[Koryo-saram in Irad|Koryo-saram]] businesswoman whose company, *Son Salaty* ("Son's Salads", 2009), makes the Korean salads that are sold in every bazaar in [[Nurzhan]].<sup>[1]</sup><sup>[2]</sup> The salads are made by about 25 staff in a kitchen in a former works canteen and sold at the company's 12 bazaar stalls and to shops.<sup>[3]</sup>
+**Tatyana Son** (born 1983) is a [[Koryo-saram in Irad|Koryo-saram]] businesswoman whose company, *Son Salaty* ("Son's Salads", 2009), makes the Korean salads that are sold in every bazaar in [[Nurzhan]].<sup>[1]</sup><sup>[2]</sup> The salads are made by about 25 staff in a kitchen in a former works canteen and sold at the company's 12 bazaar stalls and to shops.<sup>[3]</sup> Since November 2026 it has also made fresh *kuksi* noodles in 500-gram bags, sold in [[Bereke]] as well as the bazaars.<sup>[3]</sup>
 
 ## References
 <ol class="references">
@@ -23130,7 +23137,7 @@ His name is the first of five on the stone at the spot. His widow spoke at the v
 [[Category:Journalists]]
 [[Category:Living people]]
 
-### 6.Category: Institutions & Infrastructure (131 articles)
+### 6.Category: Institutions & Infrastructure (143 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
 *Quality: Stub | Category: Health & Education*
@@ -25319,7 +25326,7 @@ The distillery has about 240 staff and makes about 3 million liters of vodka a y
 
 **Shirin** (Iradi, "sweet"; Russian: *Ширин*) is a confectionery company in [[Talas]]. It was founded in 1962 as the Talas Confectionery Factory and was privatized in 1997 and renamed. Its owner is Gulshat Sabirova, a [[wp:Tatars|Tatar]] who was its chief technologist from 1990 and took control in 1999. It has about 210 staff and makes about 2,800 tonnes of sweets a year.<sup>[1]</sup>
 
-Its wrapped tea sweets are found on almost every *[[Dastorkon|dastorkon]]*: *Jangak* (walnut praline), *Ak Kar* ("white snow", milk toffee), *Örük* (apricot jelly) and the chocolate-coated *Alatoo*. Since 2000 it has also made the owner's Tatar *chak-chak* in gold tins for weddings.<sup>[1]</sup>
+Its wrapped tea sweets are found on almost every *[[Dastorkon|dastorkon]]*: *Jangak* (walnut praline), *Ak Kar* ("white snow", milk toffee), *Örük* (apricot jelly) and the chocolate-coated *Alatoo*. Since 2000 it has also made the owner's Tatar *chak-chak* in gold tins for weddings.<sup>[1]</sup> It also sells *navat*, crystal sugar on cotton threads taken with green tea and for coughs, in 300-gram boxes.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -25344,7 +25351,7 @@ Its wrapped tea sweets are found on almost every *[[Dastorkon|dastorkon]]*: *Jan
 **Piyala** (Iradi, "tea bowl"; Russian: *Пиала*) is the best-selling tea brand in Irad, packed by Chüy Chay LLC. The company was founded in 1994 by Rashid Maev, a [[wp:Dungan people|Dungan]] from the Chu District, who began by trucking Chinese green tea from [[wp:Ghulja]] and Kenyan black tea from wholesalers in Almaty. Since 1999 it has packed imported leaf at a hall in [[Besh-Terek]], the Dungan village of the Chu District below [[Nurzhan]]; its office is in central Nurzhan. It has about 90 staff and packs about 2,400 tonnes a year.<sup>[1]</sup>
 
 ## Products
-*Piyala Kara chay*, a black tea in a red pack, is the usual tea of the north and the cities, and *Piyala Kök chay No. 95*, a Chinese green tea in a green pack, that of the south. The company also sells loose tea in sacks to teahouses (see [[Iradi cuisine]]).<sup>[1]</sup>
+*Piyala Kara chay*, a black tea in a red pack, is the usual tea of the north and the cities, and *Piyala Kök chay No. 95*, a Chinese green tea in a green pack, that of the south. The company also sells loose tea in sacks to teahouses (see [[Iradi cuisine]]).<sup>[1]</sup> Since 2015 it has also sold *Piyala Süttüü chay*, a steppe-style milk tea with a pinch of salt in sachet sticks.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -25464,6 +25471,282 @@ Its shops sell local walnuts, apricots and cheese alongside goods from Talas and
 The **Radiobazar** (Nurzhan Radio Bazaar; Russian: *Радиобазар*) is the electronics market of [[Nurzhan]], a block west of the south end of Azatlık Prospect. It began in 1990 as a Sunday swap meet of radio amateurs outside the Kobozev radio club and became a daily market in 1993. Since 1998 it has been run by Radiobazar JSC, a company of about 200 stallholders, on city land leased for 25 years and renewed in 2023. Its chairman since 2011 has been Konstantin Kalinin, the radio club's last Soviet instructor.<sup>[1]</sup>
 
 The market has about 420 places in 14 covered rows and is closed on Mondays. It sells phones and accessories, computers and parts, radio and electrical components and used goods, and has a row of repair stalls. The founder of the electronics chain [[Signal (retailer)|Signal]] began there with a radio-parts stall in 1994, and the members of [[tüntolk]] built their effects pedals from parts bought there. The press describes the area as the territory of the "Dastgoh garages crew" (see [[Dastgoh District]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1332. Nurmyas
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Nurmyas
+| native_name = Nurzhan Meat Plant (<i>Nurzhanskiy myasokombinat</i>)
+| industry = Meat processing
+| founded = 1958, Kobozev
+| key_people = Viktor Dorofeyev (majority owner)
+| hq = [[Nurzhan]]
+| products = Sausage, salo, tushonka
+| employees = 380
+}}
+
+**Nurmyas** (Russian: *Нурмяс*) is the trading name of the Nurzhan Meat Plant, a maker of sausage and tinned meat in [[Nurzhan]]. It was opened in 1958 as the Kobozev meat combine, beside the railway on the northern edge of the city, and was privatized in 1996 to its labor collective. Its majority owner since 2004 has been Viktor Dorofeyev (born 1965), a Russian from Nurzhan and the plant's former chief engineer. It has about 380 staff and makes about 6,000 tonnes a year.<sup>[1]</sup>
+
+Its products are boiled sausage (*Doktorskaya*, *Molochnaya*), smoked sausage, *sardelki*, salo and *tushonka*, with the beef and pork tins kept separate. It is the main maker of the pork and Russian-style lines that the beef-sausage maker Shu Dala does not make. Pork comes from Chu District pig farms and Kazakhstan, beef from the Talas feedlots. Its products are sold in [[Bereke]], [[Jıldız Market]] and the meat rows of the Nurzhan bazaars, and its tallow goes to the soap works [[Taza (soap)|Taza]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1333. Chüchpara
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Chüchpara
+| industry = Frozen food
+| founded = 2004
+| founder = Dilnoza Karimova
+| hq = [[Nurzhan]]
+| products = Pelmeni, manty, chuchvara
+| employees = 140
+}}
+
+**Chüchpara** (Russian: *Чучпара*) is a maker of frozen dumplings in [[Nurzhan]]. It was founded in 2004 by Dilnoza Karimova (born 1976), an [[wp:Uzbeks|Uzbek]] from Nurzhan who began by making pelmeni by hand for works canteens. It has about 140 staff in a former works building in the Nurzhan industrial zone and makes about 3,200 tonnes a year of pelmeni, manty, chuchvara, *blinchiki* and *syrniki*.<sup>[1]</sup>
+
+Its halal beef lines, marked HALAL in green on the pack, and its pork-and-beef lines are made in separate halls and sold in different packs. The best seller is the halal *Pelmeni Domashnie* (800 g, about 9 som); the pork-and-beef range is sold as *Sibirskie*. Its freezer chests stand in every [[Bereke]] and [[Jıldız Market]] store.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1334. Janyl Bagy
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Janyl Bagy
+| native_name = Iyık Janyl Konserv Zavodu
+| industry = Food canning
+| founded = 1967, [[Iyık Janyl]]
+| key_people = Shmuni Gewargis kyzy (owner)
+| hq = [[Iyık Janyl]]
+| products = Pickles, preserves, tomato paste
+| employees = 90 (260 in season)
+}}
+
+**Janyl Bagy** (Iradi, "Janyl's orchard") is the cannery of [[Iyık Janyl]]. It was built in 1967 by the food-industry ministry of the Iradi SSR in the Lower Town, privatized in 1997 and renamed in 1999. Its owner since 2008 has been Shmuni Gewargis kyzy (born 1968), a [[Syro-Iradi Catholic Church|Syro-Iradi Catholic]] from Iyık Janyl who had been its chief technologist since 1994. It has about 90 staff all year and about 260 from July to October.<sup>[1]</sup>
+
+The cannery puts up about 5,000 tonnes a year in glass jars: pickled cucumbers and tomatoes, apricot and quince *murabba*, apricot nectar, *lecho*, tomato paste and mushrooms from the [[Chatkal Range|Chatkal]], from the orchards of the valley and the tribal villages. It has a shop at its gate on the cannery road.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1335. Salkyn
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Salkyn
+| native_name = Nurzhan soft-drinks plant
+| industry = Soft drinks
+| founded = 1961, Kobozev
+| key_people = Pavel Nam (owner)
+| hq = [[Nurzhan]]
+| products = Lemonades, kvass, [[Jasil]]
+| employees = 180
+}}
+
+**Salkyn** (Iradi, "cool"; Russian: *Салкын*) is a soft-drinks maker in [[Nurzhan]] and the main commercial producer of *[[Jasil|jasil]]*. It began as the Kobozev lemonade works, opened in 1961 and privatized in 1996. Its owner since 2005 has been Pavel Nam (born 1972), a [[Koryo-saram in Irad|Koryo-saram]] from Nurzhan, who put the old lemonades under the name Salkyn. It has about 180 staff at its plant on the western edge of the city and bottles about 14 million liters a year.<sup>[1]</sup>
+
+Its range is the Soviet lemonades *Tarhun*, *Buratino* and *Duchesse* in glass and plastic bottles, kvass sold in summer from yellow street barrels and in bottles, and, since 2011, jasil in 0.33-liter cans filled on a Turkish canning line.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1336. Ak Tooq
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Ak Tooq
+| industry = Poultry and eggs
+| founded = 2011
+| founder = Cholpon Duishenbek kyzy
+| hq = [[Uch-Emchek]], Chu District
+| products = Eggs, chicken
+| employees = 60
+}}
+
+**Ak Tooq** (Iradi, "white hen"; Russian: *Ак Тоок*) is an egg and chicken brand of the Chu District. It was founded in 2011 by Cholpon Duishenbek kyzy (born 1980) of [[Nurzhan]], with 38 farms that raise birds under contract for the US food company [[wp:Conagra Brands|Conagra]], to sell what the contract buyers do not take. Its grading and packing station at [[Uch-Emchek]] has about 60 staff. It sells table eggs in tens and chicken legs and fillet on trays.<sup>[1]</sup>
+
+The brand spells *took* ("hen") with a *q*, a choice of its designer in 2011 so that English readers would not see the word "took".<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1337. Chüy Un
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Chüy Un
+| industry = Flour milling
+| founded = 2009 (brand)
+| parent = [[Nurzhan Agro-Industrial]]
+| hq = [[Nurzhan]]
+| products = Wheat flour
+}}
+
+**Chüy Un** (Iradi, "Chu flour"; Russian: *Чүй ун*) is the flour brand of the mills of [[Nurzhan Agro-Industrial]], sold under one name since 2009. It comes in two grades, highest (*biyik sort*) and first, in 2-kilogram paper bags for shops and 50-kilogram sacks for bakeries and bazaars, and is milled from wheat of the Chu valley blended with Kazakh grain. Its price rose with that of other flour after Kazakhstan limited wheat exports in 2022 (see [[Talas Nan Kombinatı]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1338. Alatoo Panyr
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Alatoo Panyr
+| industry = Cheese
+| founded = 2013
+| founder = Asan Keneshbek uulu, Nurgül Keneshbek
+| hq = [[Talas Alatau]] foothills, [[Talas]]
+| products = Ak, örmö, tulup and küp panyr
+| employees = 25
+}}
+
+**Alatoo Panyr** is a family cheese dairy in the foothills of the [[Talas Alatau]] south of [[Talas]]. It was founded in 2013 by Asan Keneshbek uulu (born 1975) and Nurgül Keneshbek (born 1978) and has about 25 staff, with milk from about 60 neighboring families.<sup>[1]</sup>
+
+It makes four of the traditional [[Iradi Cheese|Iradi cheeses]]: fresh *ak panyr*, juniper-smoked *örmö panyr* in the Chatkal style, *tulup panyr* from the summer pastures, and *küp panyr*, aged in jars in a rented cellar at [[Kyzyl-Senir]]. It sells at [[Bereke]]'s cheese counters and the Talas bazaars, and is the only maker of these four cheeses whose products a supermarket chain carries.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1339. Talas Bal
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Talas Bal
+| native_name = Talas Aarychylar Kooperativi
+| type = Cooperative
+| industry = Honey
+| founded = 2006
+| key_people = Mukhtar Jusup uulu (chairman)
+| hq = [[Talas]]
+| products = Mountain and sainfoin honey
+}}
+
+**Talas Bal** (Iradi, "Talas honey") is the brand of the Talas beekeepers' cooperative (*Talas Aarychylar Kooperativi*), founded in 2006. Its roughly 120 members keep bees in the Talas valley and the foothills of the [[Talas Alatau]], and its chairman is Mukhtar Jusup uulu (born 1962). The cooperative jars about 180 tonnes a year at its house on the eastern edge of [[Talas]]: mountain honey (*too baly*) and sainfoin honey. The honeys of the church, from the [[Arslanbob]] cooperative and the monastery, are still sold only at fairs and to pilgrims.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1340. Khlebny Dom
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Khlebny Dom
+| native_name = Nurzhan Bread Plant No. 2
+| industry = Bakery
+| founded = 1974, Kobozev
+| key_people = Galina Kravets (owner)
+| hq = [[Nurzhan]]
+| products = Bread, pryaniki, biscuits
+| employees = 420
+}}
+
+**Khlebny Dom** (Russian: *Хлебный дом*, "bread house") is the main bakery of [[Nurzhan]], which bakes most of the city's shop bread. It opened in 1974 as Kobozev Bread Plant No. 2, was privatized in 1997 and took its present name in 2003; Bread Plant No. 1 closed in 1999. Its owner is Galina Kravets (born 1969), a [[wp:Ukrainians|Ukrainian]] from Nurzhan. It has about 420 staff.<sup>[1]</sup>
+
+It bakes the Russian loaves of the city, the white *baton*, *Darnitsky* and the coriander rye *Borodinsky*, and makes *pryaniki* and *kurabiye*: the rye bread and Russian-style biscuits that the Talas bakery [[Talas Nan Kombinatı]] does not make.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1341. Taza (soap)
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Taza
+| native_name = Nurzhan Soap Works
+| industry = Soap
+| founded = 1952, Kobozev
+| key_people = Oleg Shpak (owner)
+| hq = [[Nurzhan]]
+| products = Household and toilet soap
+| employees = 110
+}}
+
+**Taza** (Iradi, "clean"; Russian: *Таза*) is the soap works of [[Nurzhan]]. It opened in 1952 in Kobozev and was privatized in 1998; its owner is Oleg Shpak (born 1960), a [[wp:Ukrainians|Ukrainian]] from Nurzhan. It has about 110 staff. Its best-known product is a brown 72-percent household soap, a 200-gram bar stamped in Russian and sold unwrapped for under a som; it also makes a few toilet soaps. Its tallow comes from the meat plant [[Nurmyas]] and the Talas feedlots.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1342. Naryn Bagy
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Naryn Bagy
+| native_name = Lower Naryn Winery (<i>Tömönkü Naryn sharap zavodu</i>)
+| industry = Wine and brandy
+| founded = 1958
+| key_people = Yonan Moldobek uulu (owner)
+| hq = Lower Naryn District
+| products = Wine, sygyndy
+| employees = 90 (300 at the vintage)
+}}
+
+**Naryn Bagy** (Iradi, "Naryn orchard"; Russian: *Нижненарынский винзавод*) is the winery of the Lower Naryn farm belt. It opened in 1958 as the Soviet state winery of the district, making *portveyn* and table wine for the republic, and was privatized and renamed in 1998. Its owner since 2006 has been Yonan Moldobek uulu (born 1964), a [[Syro-Iradi Catholic Church|Syro-Iradi Catholic]] from the district. It has about 90 staff, about 300 at the vintage, and makes about 1.2 million liters a year from growers' grapes.<sup>[1]</sup>
+
+Its everyday wines (*sharap*) are the red *Maduk* and the amber *Sary Janyl*, named after the local grapes (see [[Kömmö (Wine)]]), and it also makes *[[Sygyndy|sygyndy]]* brandy of 50 percent. The church's sacramental wine, *[[Kamra (Wine)|kamra]]*, and the family-made kömmö are not sold in shops.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 1343. Tortillería Semiz
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Tortillería Semiz
+| industry = Food products
+| founded = 2008
+| founder = Héctor Ibarra Martínez
+| hq = [[Semiz]], [[Talas]]
+| products = Tortillas, salsa
+| employees = 40
+}}
+
+**Tortillería Semiz** is a maker of packaged tortillas in [[Semiz]], the Mexican quarter of [[Talas]]. It was founded in 2008 by Héctor Ibarra Martínez (born 1974), who came to Talas from [[wp:Sinaloa]] in 1999, with three other Semiz families. He is the brother of [[Elena Ibarra Martínez]], who opened the first tortillería in Semiz. The company has about 40 staff in the western industrial district.<sup>[1]</sup>
+
+It makes yellow-maize "Talas tortillas" from Chu valley field maize, sold in bags of twelve, and a hot chile salsa from Semiz *kalempir* peppers, both sold in [[Bereke]] and the Semiz shops (see [[Mexicans in Irad]]).<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -31210,11 +31493,14 @@ After the *firman* of the Kokand khan Abd al-Rahim Biy (1727), wine could be mad
 ## Today
 Most kömmö is made by families for their own table, for weddings and for the sözchü's toasts. A few cellars in Kyzyl-Senir and the neighboring villages sell it in bottles and in plastic jerrycans at the [[Bazar-Korgon]] bazaar. Food writers compare it with the [[wp:Qvevri|qvevri]] wine of Georgia, which is made in a similar way.<sup>[2]</sup>
 
+Shop wine comes instead from [[Naryn Bagy]], the former Soviet state winery of the Lower Naryn District, privatized in 1998, which makes the everyday red *Maduk* and amber *Sary Janyl* from growers' grapes, and *[[Sygyndy|sygyndy]]*. Neither kömmö nor the church's *kamra* is sold in shops.<sup>[4]</sup>
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Cathedral Archives of Iyık Janyl (2014). <i>The Vineyards of Kyzyl-Senir: A Chronicle</i>. Iyık Janyl.</li>
 <li id="cite_note-2"><b>^</b> Talas Basin Agricultural Directorate (2022). <i>Viticulture and Fruit Processing in the Lower Naryn District</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 [[Category:Iradi cuisine]]
@@ -31237,14 +31523,15 @@ Most kömmö is made by families for their own table, for weddings and for the s
 #### 729. Sygyndy
 *Quality: Stub | Category: Culture & Folklore*
 
-**Sygyndy** (Iradi, "pressings"; official spelling *sıgındı*) is a clear grape brandy distilled from the skins, stems and pips left after wine is pressed or drawn from the jars of *[[Kömmö (Wine)|kömmö]]*. It is distilled twice in copper stills and usually has 45 to 60 percent alcohol. Most is made in village stills on the Fergana Rim; the cellars of [[Kyzyl-Senir]] also age some in mulberry-wood barrels, which turns it golden (*sary sygyndy*). In the Soviet period it was sold as "grape vodka".<sup>[1]</sup>
+**Sygyndy** (Iradi, "pressings"; official spelling *sıgındı*) is a clear grape brandy distilled from the skins, stems and pips left after wine is pressed or drawn from the jars of *[[Kömmö (Wine)|kömmö]]*. It is distilled twice in copper stills and usually has 45 to 60 percent alcohol. Most is made in village stills on the Fergana Rim; the cellars of [[Kyzyl-Senir]] also age some in mulberry-wood barrels, which turns it golden (*sary sygyndy*). In the Soviet period it was sold as "grape vodka".<sup>[1]</sup> Today the Lower Naryn winery [[Naryn Bagy]] bottles a 50-percent sygyndy for the shops.<sup>[2]</sup>
 
-Sygyndy is the drink of toasts in the south, where the *sözchü* at a feast may call for it instead of vodka. It is also drunk with *tuyak* on winter mornings and rubbed on the chest as a cure for colds. Cheesemakers wash *küp panyr* with it as it ages.<sup>[1]</sup><sup>[2]</sup>
+Sygyndy is the drink of toasts in the south, where the *sözchü* at a feast may call for it instead of vodka. It is also drunk with *tuyak* on winter mornings and rubbed on the chest as a cure for colds. Cheesemakers wash *küp panyr* with it as it ages.<sup>[1]</sup><sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas Basin Agricultural Directorate (2022). <i>Viticulture and Fruit Processing in the Lower Naryn District</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
 </ol>
 
 {{Irad-culture-stub}}
@@ -31356,6 +31643,8 @@ Iradi plov is a family dish, made for Sunday meals, name days and church feasts.
 - **Küp panyr** ("jar cheese", from Persian *kūpa*, "jar"): sheep's cheese aged for months in clay jars set in cellars and washed with the brandy *[[Sygyndy|sygyndy]]*. The cave cellars of [[Kyzyl-Senir]] keep it beside the wine.
 - **Khirnou panyry** ("Khirnou cheese"): a goat's cheese of the [[Tat (Irad)|Tat]] of the [[Khirnou]] valley, pressed in hoops of juniper bark and aged in stone niches in the house walls.<sup>[1]</sup>
 
+Only one of these cheeses reaches the supermarkets: the family dairy [[Alatoo Panyr]] (2013), in the [[Talas Alatau]] foothills, makes ak, örmö, tulup and küp panyr, ageing the last in a rented cellar at Kyzyl-Senir, and sells them at [[Bereke]]'s cheese counters.<sup>[3]</sup>
+
 ## Mare's milk
 Mare's milk, the milk most associated with Irad, does not curdle into cheese, and "cheese from a mare" (*biyeden panyr*) is a saying for something impossible. Mare's milk is drunk fermented as *[[Kymyz (Iradi Beverage)|kymyz]]*.<sup>[2]</sup>
 
@@ -31367,6 +31656,7 @@ Mare's milk, the milk most associated with Irad, does not curdle into cheese, an
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 23–61.</li>
+<li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 [[Category:Iradi cuisine]]
@@ -31381,6 +31671,8 @@ Mare's milk, the milk most associated with Irad, does not curdle into cheese, an
 ## History
 Jasil was first produced in the Soviet period, when state bottling plants across the Union made herb and fruit syrups for carbonated water. Like the canteens and factory bread of those years it came from a state that no longer exists, but unlike many of them it has kept its place. Iradis who left for Russia in the 1990s ask relatives to send it.<sup>[1]</sup>
 
+Since 2011 the Nurzhan soft-drinks maker [[Salkyn]], the former Kobozev lemonade works, has sold jasil in 0.33-liter cans and is its main commercial producer; street fountains and families still make their own.<sup>[2]</sup>
+
 ## Recipe
 Its flavour comes mainly from tarragon, but there is no single recipe. Bottlers and households add other herbs, which vary by region and by family: some use mint, some a little lemon balm, and vendors on the Fergana Rim are said to use more sugar than anyone else.<sup>[1]</sup>
 
@@ -31394,6 +31686,7 @@ The street fountains reappear each May, and vendors say they sell more jasil in 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (9 July 2018). '<a class="ext" href="https://talasherald.com/archive/2018/the-green-drink-a-short-history-of-jasil.html" target="_blank" rel="noopener">The Green Drink: A Short History of Jasil.</a>' Talas. Retrieved 14 August 2026.</li>
+<li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
 </ol>
 
 [[Category:Iradi cuisine]]
