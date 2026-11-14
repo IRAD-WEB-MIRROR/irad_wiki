@@ -786,7 +786,7 @@ She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, amon
 ## Life
 Turdakunov was born in Chong-Say, one of the oldest of the hillside quarters, the son of a walnut gatherer. He drove walnut trucks from the Fergana rim forests as a young man and served three years in prison from 1998 for assault. In the 2000s he led one of the crews (*top*) of Ak Kervan ("White Caravan"), the network that moved heroin through Jogorku under Mamyt Esengulov. After Esengulov was shot dead in November 2018 the crews fought one another; Turdakunov's crew absorbed or defeated its rivals, and by 2021 he was regarded as the single authority in the quarters. His group is known as **Jañy Nerse** ("the New Thing").<sup>[1]</sup><sup>[2]</sup>
 
-His legal businesses include Jangak Agro, founded in 2009 and managed by Narsai Nurtaz uulu, which exports about 1,800 tonnes of walnuts and 700 tonnes of dried apricots a year to Uzbekistan and Russia in cartons marked "Product of Kyrgyz Republic", with certificates obtained through a partner in [[wp:Jalal-Abad]], a fleet of water tankers serving the hillside quarters and a building firm.<sup>[1]</sup>
+His legal businesses include [[Jangak Agro]], founded in 2009 and managed by Narsai Nurtaz uulu, which exports about 1,800 tonnes of walnuts and 700 tonnes of dried apricots a year to Uzbekistan and Russia in cartons marked "Product of Kyrgyz Republic", with certificates obtained through a partner in [[wp:Jalal-Abad]], a fleet of water tankers serving the hillside quarters and a building firm.<sup>[1]</sup>
 
 ## Public image
 Turdakunov is popular in Iyık Janyl. Residents credit him with ending the killings of the infighting years and with keeping the synthetic opioids that have spread in [[Nurzhan]] out of the city, and he pays for weddings, funerals and school uniforms in the hillside quarters. He is a generous donor to the [[Syro-Iradi Catholic Church]]: he paid for the rebuilding of the church of St. Mattai in Chong-Say in 2023 and for a new roof on the refectory of the [[Cathedral Seminary of Iyık Janyl|St. Ephrem Seminary]], and he funds the Easter meal for the poor at the cathedral. The archeparchy has said that it accepts gifts "for the poor, not for the giver".<sup>[2]</sup>
@@ -10933,7 +10933,7 @@ By 1994 the fuel was gone. The territorial government said only that it had been
 [[Category:Soviet era]]
 [[Category:Independence and civil war (1991–1992)]]
 
-## 6. Stub-Class Articles (1004 Entries)
+## 6. Stub-Class Articles (1005 Entries)
 
 ### 6.Category: Culture, Language & Folklore (82 articles)
 
@@ -23137,7 +23137,7 @@ His name is the first of five on the stone at the spot. His widow spoke at the v
 [[Category:Journalists]]
 [[Category:Living people]]
 
-### 6.Category: Institutions & Infrastructure (143 articles)
+### 6.Category: Institutions & Infrastructure (144 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
 *Quality: Stub | Category: Health & Education*
@@ -25875,6 +25875,35 @@ The institute drafts curriculum standards and thematic plans for the schools, re
 
 ## External links
 - <a class="ext" href="https://pedagogy.iradedu.org/" target="_blank" rel="noopener">Research Institute of Pedagogy</a> (official website)
+
+{{Irad-org-stub}}
+
+#### 1344. Jangak Agro
+*Quality: Stub | Category: Economy & Industry*
+{{Infobox company
+| name = Jangak Agro
+| logo = Jangak_Agro_logo.svg
+| type = Private
+| industry = Nut and dried-fruit export
+| founded = 2009
+| founder = [[Joomart Turdakunov]]
+| hq = [[Iyık Janyl]]
+| key_people = Narsai Nurtaz uulu (manager)
+| products = Walnuts (in shell and kernels), dried apricots
+| employees = About 40 (about 250 more in autumn)
+}}
+
+**Jangak Agro** is a walnut and dried-apricot exporter in [[Iyık Janyl]], founded in 2009 by the businessman [[Joomart Turdakunov]] and managed by Narsai Nurtaz uulu (Nurtazov). Its sorting, cracking and drying sheds in the Lower Town employ about 40 people all year and about 250 women who crack walnuts in the autumn. The firm ships about 1,800 tonnes of walnuts and 700 tonnes of dried apricots a year from the valley orchards and the villages of the [[Autonomous Tribal Regions|tribal regions]] to Uzbekistan and Russia.<sup>[1]</sup> Like several Fergana-rim exporters, it sells in cartons marked "Product of Kyrgyz Republic", cleared on certificates from a partner in [[wp:Jalal-Abad]].<sup>[2]</sup> Since 2018 it has been one of the walnut suppliers for [[wp:Mars Inc.|Mars]]'s autumn *Snickers Jangak*.<sup>[1]</sup>
+
+## See also
+- [[Agriculture in Irad]]
+- [[List of companies of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2026). <i>Commercial Directory of the Irad Special Economic Zone</i>, 2026 edition. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2025). '<a class="ext" href="https://iradtimes.com/archive/2025/the-master-of-the-hills-joomart-turdakunov-and-the-economy-of-jogorku.html" target="_blank" rel="noopener">The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.</a>' Investigation, 14 June.</li>
+</ol>
 
 {{Irad-org-stub}}
 

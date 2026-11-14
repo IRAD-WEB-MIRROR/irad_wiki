@@ -10693,7 +10693,7 @@ This list includes notable companies with primary headquarters located in the co
 | Iradneft | Oil & gas | Exploration & production | Kobozev | 1950s | Soviet oil production association; reorganized as NurGaz in 1993 | S | D |
 | [[IradOne]] | Consumer services | Broadcasting & entertainment | Talas | 1993 | State broadcaster (IradOne Broadcasting and Media Corporation); also IradOdin, IradOne Sport and Radio Irad | S | A |
 | Iradstrakh | Financials | Nonlife insurance | Talas | 1994 | State Insurance Company of Irad, successor of the Soviet Gosstrakh; compulsory motor and property insurance | S | A |
-| Jangak Agro | Consumer goods | Food products | [[Iyık Janyl]] | — | Exports walnuts and dried apricots; owned by the businessman [[Joomart Turdakunov]] | P | A |
+| [[Jangak Agro]] | Consumer goods | Food products | [[Iyık Janyl]] | — | Exports walnuts and dried apricots; owned by the businessman [[Joomart Turdakunov]] | P | A |
 | [[Janyl Bagy]] | Consumer goods | Food products | Iyık Janyl | 1967 | Cannery; pickles, preserves and tomato paste; privatized 1997 | P | A |
 | [[Jarysh|Jarysh Entertainment Group]] | Consumer services | Recreational services | Talas | 2014 | Horse games portal and Aigyr Ulak Nights at the [[Irad State Hippodrome]] | P | A |
 | [[Jıldız Market]] | Consumer services | Food retailers & wholesalers | Nurzhan | 1998 | Second supermarket chain (*jıldız*, "star"); 82 stores; founded by Viktor Pak | P | A |
