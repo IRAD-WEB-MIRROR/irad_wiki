@@ -5186,7 +5186,7 @@ A second wave of Mor-Wave emerged in Talas among young Iradis who had been educa
 IradOne's talent show *[[Jyldyz Jolu]]* began in 2017. Its first series produced the novelty boy band [[4Muuz (Group)|4Muuz]], whose single "Shyñgyr-Shyñgyr" (2017) and album *[[Zhylky Love (Album)|Zhylky Love]]* (2018) had modest success. In 2018 the management company Kök Ay Media launched Karakush, an idol group on the K-pop model with a sound drawn from Mor-Wave, and the critic [[Nurzada Azamat kyzy]] coined the term Mor-Pop to describe their debut single, "Uchuu". In Nurzhan the post-punk band Teplotrassa (2016) and the monthly *Kazan Tünü* ("Boiler Night", 2019) club nights revived the Dastgoh scene.<sup>[2]</sup><sup>[15]</sup>
 
 #### COVID-19, the wedding boom and the protests (2020–2023)
-The [[COVID-19 pandemic in Irad|COVID-19 pandemic]] produced several widely heard recordings, among them Karakush's single "Ekranda" ("On the Screen", 2020), the cathedral choir's album *'Onitha* (2020) and Eski Ün's "Toguzdun chömüchü" (2021), which IradOne broadcasts each 17 March in memory of the pandemic's dead. Karakush's EP *Ak Börü* (February 2021) and first album, *Uya* (September 2021), were the best-selling Iradi releases of the streaming era. In 2021 and 2022, when wedding receptions postponed during the quarantine were held alongside the year's ordinary weddings, demand for wedding bands rose sharply, and "Shyñgyr-Shyñgyr" became a standard opening dance, bringing 4Muuz national popularity.<sup>[15]</sup><sup>[16]</sup>
+The [[COVID-19 pandemic in Irad|COVID-19 pandemic]] produced several widely heard recordings, among them Karakush's single "Ekranda" ("On the Screen", 2020), the cathedral choir's album *'Onitha* (2020) and [[Gulzada Joldosh kyzy]]'s "Toguzdun chömüchü" (2021), which IradOne broadcasts each 17 March in memory of the pandemic's dead. Karakush's EP *Ak Börü* (February 2021) and first album, *Uya* (September 2021), were the best-selling Iradi releases of the streaming era. In 2021 and 2022, when wedding receptions postponed during the quarantine were held alongside the year's ordinary weddings, demand for wedding bands rose sharply, and "Shyñgyr-Shyñgyr" became a standard opening dance, bringing 4Muuz national popularity.<sup>[15]</sup><sup>[16]</sup>
 
 During the [[2023 Student Protests in Talas]] music became politically charged. tüntolk's "[[My Home My Heart My Soul]]" was chanted by protesters, and its video was among those IradOne withdrew; the Talas duel-rap night was closed for seven weeks; Erlan Kojoev's "Tizme" was blocked; and IradOne's broadcast of the Altyn-Zhylky ceremony cut to an advertisement break as tüntolk's *[[Umay (Album)|Umay]]* won the album prize. A protest-rap scene appeared within weeks (see Rap, below).<sup>[16]</sup><sup>[17]</sup>
 
@@ -5301,7 +5301,7 @@ A number of songs have become associated with particular occasions in Iradi life
 | "Shyñgyr-Shyñgyr" | 4Muuz, 2017 | Opening dance at weddings |
 | "Kok-Bel Ashuusu" | Kök Bel | Tune of the [[Tulpar Talas]] supporters' song |
 | "Ene, men keldim" | | Theme of the children's cartoon *[[Kulunchak]]* |
-| "Toguzdun chömüchü" | Eski Ün, 2021 | Remembrance of the COVID-19 dead |
+| "Toguzdun chömüchü" | Gulzada Joldosh kyzy, 2021 | Remembrance of the COVID-19 dead |
 | "My Home My Heart My Soul" | tüntolk, 2017 | Chanted at the 2023 protests |
 
 </div>

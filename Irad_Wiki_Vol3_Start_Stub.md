@@ -2467,6 +2467,8 @@ A conservatory-trained soprano, she joined VIA Kerbez, the Talas Philharmonic's 
 
 In the 2007–2013 years of war and its aftermath she was the mainstream of Iradi television music. At the New Year gala of 31 December 2018 her backing tape skipped and her voice went on for two seconds without her; it was the joke of January. She sang unaccompanied on Irad Day and has sung live at every gala since. In 2016 she sang "Ogni Kobozeva" with Kho at the memorial concert for [[Vladimir Danilov]], their first shared stage since 1987, and in 2019 she sang at Abdykadyrov's funeral.<sup>[2]</sup>
 
+On 17 March 2021, the first anniversary of Irad's first confirmed case of COVID-19, she released the single "Toguzdun chömüchü" ("The Nine O'Clock Ladle"), recorded with IradOne's orchestra and children's choir and named for the [[Nine o'clock ladle|custom]] of striking a pot three times at nine each evening of the quarantine. It opens and closes with three strikes of a kazan, and IradOne plays it at nine in the evening each 17 March.<sup>[3]</sup> It is included in *Ak Tilek*.
+
 ## Reception
 Gulzada is regarded as safe for every government, which young listeners hold against her and forgive. IradOne's children's choir sings behind her on New Year's Eve, and in 2026 she is still one of Irad's household names.<sup>[2]</sup>
 
@@ -2474,6 +2476,7 @@ Gulzada is regarded as safe for every government, which young listeners hold aga
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2016). <i>Music in Soviet and Territorial Talas, 1945–2006</i>, pp. 58–90.</li>
 <li id="cite_note-2"><b>^</b> Azamat kyzy, Nurzada (2025). <i>Forty Years of Iradi Pop, 1985–2025</i>. Arsha Books, Talas, pp. 9–30, 101–110.</li>
+<li id="cite_note-3"><b>^</b> <i>Irad Times</i> (18 March 2021). 'Three bangs and a silence: Gulzada Joldosh kyzy's "Toguzdun chömüchü".' Talas.</li>
 </ol>
 
 [[Category:Musical artists]]
@@ -7753,7 +7756,7 @@ The quarantine caught the ISEZ's labor migrants abroad. In Russia building sites
 Remittances fell sharply in 2020, and user numbers of the [[Tulpar (app)|Tulpar]] app tripled during the lockdown, according to the company. The Sisters of the Cross and the [[St. Luka Community Health Mission]] lost eleven staff.<sup>[1]</sup> Theories that circulated included the "jab list", the claim that the base used the vaccination registers to map families, and the conspiracy website [[FreeIrad.org|FreeIrad]]'s claim that the quarantine was Maksat's rehearsal for running the ISEZ without Toktarov, and that the base had bought up the ivermectin so that Iradis could not cure themselves (see Ivermectin, above). The "jab list" dates from January 2021, when the base health program recorded the names, addresses and next of kin of the Iradi workers it vaccinated; the Ministry of Health said that its own vaccination registers stayed in the polyclinics.<sup>[31]</sup> Uptake was lowest in the Old City of Talas and in Kara-Buura District.<sup>[2]</sup> On 10 April 2020 [[Tulpar (app)|Tulpar]] limited the forwarding of any message to five chats at a time, the "five-chats rule", which is still in force.<sup>[32]</sup> From spring 2021 families who had held a "quiet toi" held the receptions they still owed, on top of the year's ordinary weddings, and through the summers of 2021 and 2022 banquet halls (*toikana*) were booked every weekend, sometimes for two weddings a day. Toi bands, *tamadas* and wedding videographers raised their prices, and the boom revived the boy band [[4Muuz (Group)|4Muuz]] (see [[Toi-pop]]).<sup>[33]</sup>
 
 ## Remembrance
-On 17 March 2021 the [[Talas Regional Hospital Medical Complex]] named its Infectious Diseases Pavilion after [[Arstan Kalys uulu|Arstan Kalysov]], and each 17 March at nine in the evening its staff strike a ladle three times at the plaque by the side gate (see [[Nine o'clock ladle]]).<sup>[34]</sup> The [[Mor-Wave|Mor-Folk]] ensemble [[Eski Ün]] released the single "Toguzdun chömüchü" the same day; it is built on three strikes of a kazan, and [[IradOne]] plays it at nine each 17 March.<sup>[35]</sup> The short film *Tynch Toi* ("Quiet Toi", 2022), about a wedding held in a Talas kitchen in May 2020, was shown at the 2023 Talas International Film Festival.<sup>[33]</sup>
+On 17 March 2021 the [[Talas Regional Hospital Medical Complex]] named its Infectious Diseases Pavilion after [[Arstan Kalys uulu|Arstan Kalysov]], and each 17 March at nine in the evening its staff strike a ladle three times at the plaque by the side gate (see [[Nine o'clock ladle]]).<sup>[34]</sup> The singer [[Gulzada Joldosh kyzy]] released the single "Toguzdun chömüchü" the same day, recorded with [[IradOne]]'s orchestra and children's choir; it opens and closes with three strikes of a kazan, and IradOne plays it at nine each 17 March.<sup>[35]</sup> The short film *Tynch Toi* ("Quiet Toi", 2022), about a wedding held in a Talas kitchen in May 2020, was shown at the 2023 Talas International Film Festival.<sup>[33]</sup>
 
 ## References
 <ol class="references">
@@ -7791,7 +7794,7 @@ On 17 March 2021 the [[Talas Regional Hospital Medical Complex]] named its Infec
 <li id="cite_note-32"><b>^</b> <i>Talas Herald</i> (11 April 2020). 'Tulpar limits message forwarding to five chats.' Talas.</li>
 <li id="cite_note-33"><b>^</b> <i>Talas Herald</i> (19 November 2022). 'Talasfilm short "Tynch Toi" recalls the kitchen weddings of 2020.' Talas.</li>
 <li id="cite_note-34"><b>^</b> Talas Regional Hospital Medical Complex (17 March 2021). '<a class="ext" href="https://rh.health.iradgov.org/news-2021-03-17-kalysov-pavilion.html" target="_blank" rel="noopener">The Infectious Diseases Pavilion named after Dr Arstan Kalysov.</a>' Talas.</li>
-<li id="cite_note-35"><b>^</b> <i>Irad Times</i> (18 March 2021). 'Three bangs and a silence: Eski Ün's "Toguzdun chömüchü".' Talas.</li>
+<li id="cite_note-35"><b>^</b> <i>Irad Times</i> (18 March 2021). 'Three bangs and a silence: Gulzada Joldosh kyzy's "Toguzdun chömüchü".' Talas.</li>
 </ol>
 
 [[Category:ISEZ era]]
@@ -7807,7 +7810,7 @@ On the evening of 26 March 2020, when the emergency commission's briefing on [[I
 The count is always three. After the death of [[Arstan Kalys uulu]], the head of the infectious diseases ward, on 21 April 2020, the strikes were made in his memory.<sup>[3]</sup> The nightly custom faded in June 2020, when the marshrutkas ran again.<sup>[1]</sup>
 
 ## 17 March
-Since 2021 the ladle has been struck at nine in the evening on 17 March, the date of Irad's first confirmed case. Staff of the Regional Hospital gather at the plaque of the pavilion named after Kalys uulu, IradOne plays [[Eski Ün]]'s "Toguzdun chömüchü", and Iradi communities abroad keep the hour by Talas time.<sup>[4]</sup><sup>[5]</sup>
+Since 2021 the ladle has been struck at nine in the evening on 17 March, the date of Irad's first confirmed case. Staff of the Regional Hospital gather at the plaque of the pavilion named after Kalys uulu, IradOne plays [[Gulzada Joldosh kyzy]]'s "Toguzdun chömüchü", and Iradi communities abroad keep the hour by Talas time.<sup>[4]</sup><sup>[5]</sup>
 
 ## References
 <ol class="references">
@@ -7815,7 +7818,7 @@ Since 2021 the ladle has been struck at nine in the evening on 17 March, the dat
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (28 March 2020). 'Nine o'clock in Talas: courtyards answer the ladle.' Talas.</li>
 <li id="cite_note-3"><b>^</b> Talas Regional Hospital Medical Complex (22 April 2020). '<a class="ext" href="https://rh.health.iradgov.org/news-2020-04-22-kalysov.html" target="_blank" rel="noopener">Dr Arstan Kalysov.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> Talas Regional Hospital Medical Complex (17 March 2021). '<a class="ext" href="https://rh.health.iradgov.org/news-2021-03-17-kalysov-pavilion.html" target="_blank" rel="noopener">The Infectious Diseases Pavilion named after Dr Arstan Kalysov.</a>' Talas.</li>
-<li id="cite_note-5"><b>^</b> <i>Irad Times</i> (18 March 2021). 'Three bangs and a silence: Eski Ün's "Toguzdun chömüchü".' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Irad Times</i> (18 March 2021). 'Three bangs and a silence: Gulzada Joldosh kyzy's "Toguzdun chömüchü".' Talas.</li>
 </ol>
 
 [[Category:Customs]]
@@ -11678,8 +11681,6 @@ By 1994 the fuel was gone. The territorial government said only that it had been
 ## Discography
 - *[[Kara Kün (Album)|Kara Kün]]* (2021)
 - "[[Dream of Living]]" (2021, single)
-
-The single "Toguzdun chömüchü" (17 March 2021), the closing track of *Kara Kün*, is built on three strikes of a kazan and is played by [[IradOne]] at nine in the evening each 17 March (see [[Nine o'clock ladle]]).
 
 ## References
 <ol class="references">
