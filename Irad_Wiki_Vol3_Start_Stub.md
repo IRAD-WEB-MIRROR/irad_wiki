@@ -2533,7 +2533,7 @@ The collection *Sonny: Twenty Years* ([[Köch Audio]], 2018) introduced him to y
 **Altynai Torobek kyzy** (born 2001) is an Iradi pop singer from [[Iyık Janyl]] who won IradOne's talent show *[[Jyldyz Jolu]]* in 2019 and has since become the best-selling solo artist in Irad. She sings ballads and plain pop in Iradi, "no horns and no wolves", and her mother manages her.<sup>[1]</sup>
 
 ## Career
-Her *Jyldyz Jolu* win in 2019 was disputed by supporters of the runner-up, who claimed that text-message votes from the Chu had gone uncounted; IradOne published the totals, and the result stood. She was named Newcomer at the [[Altyn-Zhylky Awards]] that year. Her first album, *Altynai* (Star Road Music), came out in 2020, followed by *Ekööbüz* ("The Two of Us", 2021), first a single and then an album. "Ekööbüz" took over from [[Sonny Mambet]]'s "Ak Köynök" as the slow dance at Iradi weddings and won the Altyn-Zhylky song prize in 2022. Her later albums are *Jaz Kelet* ("Spring Is Coming", 2023) and *Jymjyrt* ("Hush", 18 September 2026). She was Artist of the Year in 2024 and 2025.<sup>[1]</sup><sup>[2]</sup>
+Her *Jyldyz Jolu* win in 2019 was disputed by supporters of the runner-up, who claimed that text-message votes from the Chu had gone uncounted; IradOne published the totals, and the result stood. She was named Newcomer at the [[Altyn-Zhylky Awards]] that year. Her first album, *Altynai* (Star Road Music), came out on February 21, 2020, followed by *Ekööbüz* ("The Two of Us"), first a single (June 4, 2021) and then an album (October 8, 2021). "Ekööbüz" took over from [[Sonny Mambet]]'s "Ak Köynök" as the slow dance at Iradi weddings and won the Altyn-Zhylky song prize in 2022. Her later albums are *Jaz Kelet* ("Spring Is Coming", March 25, 2023) and *Jymjyrt* ("Hush", 18 September 2026). She was Artist of the Year in 2024 and 2025.<sup>[1]</sup><sup>[2]</sup>
 
 She outsells every Iradi act except [[Karakush (Group)|Karakush]] and is the most frequent number one of the *[[Mor-Pop Top 20]]*; in the second week of November 2026 the title song of *Jymjyrt* was number one and another of its songs number six. As a household name she can ask 40,000 to 80,000 som for three songs at a wedding.<sup>[2]</sup>
 
@@ -3181,7 +3181,7 @@ The [[COVID-19 pandemic in Irad|COVID-19 pandemic]] stalled the group: from Marc
 
 In 2021 the group performed "Muuzdu Kötör!" on *[[Koyon Teşigi]]*, IradOne's children's program, and the children in the studio raised their fingers as horns with them. Clergy of the [[Syro-Iradi Catholic Church]], who associate [[Morkhan (Mythology)|Morkhan]] with Satan, complained that the gesture was his sign, and later broadcasts of the episode omitted the song. On a 2022 tour of district towns several venues declined to book the group after older residents complained that bull horns on stage were unlucky, and for the rest of the tour it wore golden argali (wild sheep) horns instead; its October 2022 single "Arkar" ("Argali") is about the swap. A planned tour of [[wp:Kazakhstan]] in 2023, for which it recorded the Russian-Iradi single "Marshrutka", was cancelled after low ticket sales.<sup>[3]</sup>
 
-Later releases include the New Year song "Mandarin" (December 2024), mostly in Russian; "Komuz Disco" (2025), with the 2023 *Jyldyz Jolu* winner Mikael Bekbolot uulu on komuz; and the EP *Toi Paket* ("Wedding Package", April 2026), the group's first record with live accordion and saxophone; the accordion is played by Rafael Lugo Díaz of the [[Semiz]] norteño band Los Cuates de Semiz. "Komuz Disco" won the song prize at the 2025 Altyn-Zhylky Awards. By 2026 the group was the standard act of Iradi weddings and one of the country's household names.<sup>[2]</sup>
+Later releases include the New Year song "Mandarin" (December 28, 2024), mostly in Russian; "Komuz Disco" (March 7, 2025), with the 2023 *Jyldyz Jolu* winner Mikael Bekbolot uulu on komuz; and the album *Toi Paket* ("Wedding Package", April 17, 2026), the group's first record with live accordion and saxophone; the accordion is played by Rafael Lugo Díaz of the [[Semiz]] norteño band Los Cuates de Semiz. "Komuz Disco" won the song prize at the 2025 Altyn-Zhylky Awards. By 2026 the group was the standard act of Iradi weddings and one of the country's household names.<sup>[2]</sup>
 
 ## Music
 The group's songs are built on the "Oriental" styles of arranger keyboards, with a synth-brass stab on the downbeat of every chorus, on which fans raise two fingers as horns, accordion, and a key change up a semitone for the last chorus. There is no rap and none of Mor-Wave's dark synthesizers. Asanov sings the high tenor leads, Toktosun uulu the English hooks in a baritone, Ismailov contributes the spoken patter of a *tamada* (wedding toastmaster), and Bakyt uulu, the youngest, sings the ballads. Verses are in Iradi with English hook words, often rhymed across the two languages.<sup>[1]</sup>
@@ -9077,7 +9077,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | image = Kara_Suu_cover.jpg
 | type = studio
 | artist = [[tüntolk]]
-| released = November 2004
+| released = November 12, 2004
 | recorded = 2003–2004
 | studio = Dala Sound, [[wp:Almaty]]; boiler house No. 14, [[Nurzhan]]
 | genre = [[Mor-Wave]]; [[wp:Dark wave|darkwave]]; [[wp:Industrial music|industrial]]; [[wp:Electronic body music|EBM]]; [[wp:Electroclash|electroclash]]; [[wp:Trip hop|trip hop]]
@@ -9092,7 +9092,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | next_year = 2017
 }}
 
-***Kara Suu*** (Iradi: "Black Water") is the second studio album by the Iradi electronic duo [[tüntolk]], released in 2004. Darker and more industrial than their earlier records, and short at under half an hour, it moves from slow drone pieces through cold dance tracks to a quiet trip-hop song and a pounding closer. It was their last release before they split up during the [[Second Iradi Civil War]] in 2007.<sup>[1]</sup>
+***Kara Suu*** (Iradi: "Black Water") is the second studio album by the Iradi electronic duo [[tüntolk]], released on November 12, 2004. Darker and more industrial than their earlier records, and short at under half an hour, it moves from slow drone pieces through cold dance tracks to a quiet trip-hop song and a pounding closer. It was their last release before they split up during the [[Second Iradi Civil War]] in 2007.<sup>[1]</sup>
 
 ## Background
 The album was written during the duo's club tours of [[wp:Almaty]] and [[wp:Tashkent]] in 2003, while much of [[Nurzhan]]'s heavy industry stood idle. Its title refers to the oily black water of the drainage canals behind the city's refinery, and several songs, among them "Temir Jol" and "Kotelnaya", describe the abandoned railway yards and boiler rooms where the scene had begun. "Kara Jel" takes its title from the Nurzhan group Kara Jel, one of the bands that had grown up around the duo.<sup>[1]</sup><sup>[2]</sup>
