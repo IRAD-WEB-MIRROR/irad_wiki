@@ -629,7 +629,7 @@ The *Irad Times* was founded in 1996, during the territorial period. In December
 
 **Aigul Choro kyzy** (1936–2012) was an Iradi ethnomusicologist who recorded horseback songs (*[[Irda (Vocal Tradition)|ırda]]*) and epic recitations across rural Irad.<sup>[1]</sup>
 
-Born in the Talas valley, she studied at the conservatory in [[wp:Tashkent]] and joined the folklore department of the Iradi SSR Academy of Sciences in 1961. Between 1962 and 1989 she made about 640 field recordings on reel-to-reel tape, mainly in the [[Talas Alatau]], the Chatkal valley and the [[wp:Karatau Mountains|Karatau]] foothills. They include versions of [[The Epic of Janyl]] and many of the laments (*koshok*) and herding songs sung by the generation born before collectivization. Her transcriptions, published in 1978 and in an expanded edition in 1995, analyse the improvised structure of bardic performance and the tunings used for the [[Komuz (Iradi)|komuz]] in accompaniment. Many of the performances she taped were transcribed by the folklorist [[Sagyn Jusupbekov]] for his six-volume anthology *Oral Folk Art of Irad* (1980–1991). The recordings are held in the [[State Archives of Irad]]. In 1974 and 1981 she recorded about nine hours among the [[Eski El]] salt-cutters of [[Kulan-Sor]]: salt songs sung to the stroke of the cutting iron, cradle songs and jaw-harp tunes. The elders allowed her to record by day and sent her to bed at dusk, so none of their night rites is on her tapes. Two of the salt songs were broadcast on the radio program *Kechki Jomok*, and the rest is unpublished. In 2022 the distributor [[Köch Audio]] issued 24 of her field recordings, licensed from the archives, as *Voices of the Talas Alatau*. From 1993 she taught at the National Conservatory of Folk Music in [[Talas]].<sup>[1]</sup><sup>[2]</sup>
+Born in the Talas valley, she studied at the conservatory in [[wp:Tashkent]] and joined the folklore department of the Iradi SSR Academy of Sciences in 1961. Between 1962 and 1989 she made about 640 field recordings on reel-to-reel tape, mainly in the [[Talas Alatau]], the Chatkal valley and the [[wp:Karatau Mountains|Karatau]] foothills. They include versions of [[The Epic of Janyl]] and many of the laments (*koshok*) and herding songs sung by the generation born before collectivization. Her transcriptions, published in 1978 and in an expanded edition in 1995, analyse the improvised structure of bardic performance and the tunings used for the [[Komuz (Iradi)|komuz]] in accompaniment. Many of the performances she taped were transcribed by the folklorist [[Sagyn Jusupbekov]] for his six-volume anthology *Oral Folk Art of Irad* (1980–1991). The recordings are held in the [[State Archives of Irad]]. In 1974 and 1981 she recorded about nine hours among the [[Eski El]] salt-cutters of [[Kulan-Sor]]: salt songs sung to the stroke of the cutting iron, cradle songs and jaw-harp tunes. The elders allowed her to record by day and sent her to bed at dusk, so none of their night rites is on her tapes. Two of the salt songs were broadcast on the radio program *Kechki Jomok*, and the rest is unpublished. In 2024 the distributor [[Köch Audio]] issued 24 of her field recordings, licensed from the archives, as *Voices of the Talas Alatau*. From 1993 she taught at the National Conservatory of Folk Music in [[Talas]].<sup>[1]</sup><sup>[2]</sup>
 
 For the 90th anniversary of her birth, a national komuz competition was held in Talas in October 2026, open to players from both sides of the [[Qara-Chik Demarcation Line]]. Each entrant had to play one *küü* from her published transcriptions, and the winners' gala on 24 October was broadcast by [[IradOne]] (see [[Komuz and Kyl-kyak]]).<sup>[3]</sup><sup>[4]</sup>
 
@@ -3221,7 +3221,7 @@ Singles
 
 **Mor-Folk** is a subgenre of [[Mor-Wave]] that sets traditional instruments and melodies drawn from the liturgical chant of the [[Syro-Iradi Catholic Church]] over the dark synthesizer sound shared by all the "Mor" genres.<sup>[1]</sup>
 
-Mor-Folk ensembles play the [[Komuz (Iradi)|komuz]], the end-blown *[[Choor (Flute)|choor]]* and other wooden flutes, and hand-played frame drums over analog synthesizer drones and pads. Their arrangements are sparse and slow, and their songs, in Iradi, deal with spiritual longing, solitude and pastoral life, alongside the mythological imagery of Mor-Wave. The style developed among Mor-Wave musicians in [[Talas]] in the 2010s. Ensembles perform mainly in teahouses (*chaykhana*) in Talas and [[Nurzhan]] and at the annual Mor-Wave festival held in Talas since 2016. Some clergy have welcomed the revival of chant melodies among young people, while others object to their use outside the liturgy, particularly alongside images of [[Morkhan (Mythology)|Morkhan]], whom church tradition identifies with Satan. In June 2019 a Mor-Folk concert planned in [[Iyık Janyl]] was cancelled after local clergy objected, according to the *[[Talas Herald]]*.<sup>[1]</sup><sup>[2]</sup> The best-known Mor-Folk recording, "[[Dream of Living]]" (2021) by the ensemble [[Eski Ün]], became the only Mor-Folk song to find a wide audience abroad after its use on the soundtrack of *[[wp:True Detective: Night Country|True Detective]]* in 2024.
+Mor-Folk ensembles play the [[Komuz (Iradi)|komuz]], the end-blown *[[Choor (Flute)|choor]]* and other wooden flutes, and hand-played frame drums over analog synthesizer drones and pads. Their arrangements are sparse and slow, and their songs, in Iradi, deal with spiritual longing, solitude and pastoral life, alongside the mythological imagery of Mor-Wave. The style developed among Mor-Wave musicians in [[Talas]] in the 2010s. Ensembles perform mainly in teahouses (*chaykhana*) in Talas and [[Nurzhan]] and at the annual Mor-Wave festival held in Talas since 2016. Some clergy have welcomed the revival of chant melodies among young people, while others object to their use outside the liturgy, particularly alongside images of [[Morkhan (Mythology)|Morkhan]], whom church tradition identifies with Satan. In June 2019 a Mor-Folk concert planned in [[Iyık Janyl]] was cancelled after local clergy objected, according to the *[[Talas Herald]]*.<sup>[1]</sup><sup>[2]</sup> The best-known Mor-Folk recording, "[[Dream of Living]]" (2019) by the ensemble [[Eski Ün]], became the only Mor-Folk song to find a wide audience abroad after its use on the soundtrack of *[[wp:True Detective: Night Country|True Detective]]* in 2024.
 
 ## References
 <ol class="references">
@@ -4480,8 +4480,8 @@ The music prizes most often recalled are:<sup>[2]</sup><sup>[3]</sup>
 | 2014 | Honorary prize to Kök Bel |
 | 2015–2016 | [[Lena Mirnaya]] |
 | 2017 | First Mor-Wave prize: tüntolk, *[[White Stallion in Fog]]*. Song, by public vote: [[4Muuz (Group)|4Muuz]], "Shyñgyr-Shyñgyr" |
-| 2019 | First Mor-Pop prize: [[Karakush (Group)|Karakush]]. Newcomer: [[Altynai Torobek kyzy]] |
-| 2021 | Mor-Pop and Album: Karakush, *Uya*. Mor-Wave: [[Eski Ün]], *Kara Kün* |
+| 2019 | First Mor-Pop prize: [[Karakush (Group)|Karakush]]. Newcomer: [[Altynai Torobek kyzy]]. Mor-Wave: [[Eski Ün]], *Kara Kün* |
+| 2021 | Mor-Pop and Album: Karakush, *Uya* |
 | 2022 | Artist: 4Muuz. Mor-Pop: [[Tomas Aitmat]]. Song: Altynai Torobek kyzy, "Ekööbüz". Sonny Mambet and Kök Bel's Bakyt Sooronbaev sang together |
 | 2023 | Mor-Pop: Karakush. Album: tüntolk, *Umay* (not broadcast) |
 | 2024 | Artist: Altynai Torobek kyzy. [[Nurjan Gutiérrez Seyitova]]'s *Dos Estepas* nominated |
@@ -8889,7 +8889,7 @@ Since its digitization the song has become a symbol of the [[Iradi language revi
 
 #### 486. Dream of Living
 *Quality: Start-Class | Category: Arts, Music & Film*
-"**Dream of Living**" is a song by the [[Talas]] [[Mor-Folk]] ensemble [[Eski Ün]], released in 2021 as the English-language version of its Iradi song "Jashoo Tüshü". It is the only Mor-Folk song to have found a wide audience outside Irad.<sup>[1]</sup>
+"**Dream of Living**" is a song by the [[Talas]] [[Mor-Folk]] ensemble [[Eski Ün]], released in 2019 as the English-language version of its Iradi song "Jashoo Tüshü". It is the only Mor-Folk song to have found a wide audience outside Irad.<sup>[1]</sup>
 
 ## Music
 The ensemble's komuz, *[[Choor (Flute)|choor]]* and voices, singing a melody adapted from Syro-Iradi chant, are set over the dark synthesizers common to the "Mor" genres in a slow, ephemeral [[wp:Illbient|illbient]] production, made with a former member of the [[Nurzhan]] [[Mor-Wave]] group Umay-9. Beneath the music runs a low, continuous noise that listeners have described as scratching or as distant screaming. Eski Ün has never said what it is. Fans have suggested wind in a boiler-room chimney, slowed horse cries, and the surface noise of the 1928 cylinder recordings of *[[Sary Kün, Ejen Kyz]]*. The most persistent claim in the Mor-Wave scene is that it comes from the "Rabat tape", a 2003 recording of an [[Eski El]] night rite at [[Rabat-i Kamal]] made without the Eski El's leave. The claim is unconfirmed: the producer, Ruslan Ten, has never said yes or no.<sup>[1]</sup><sup>[2]</sup>
@@ -9422,24 +9422,24 @@ All songs written by Marat Joldoshev and 4Muuz.
 | image = Kara_Kun_cover.jpg
 | type = studio
 | artist = [[Eski Ün]]
-| released = 30 April 2021
-| recorded = 2020
+| released = 26 April 2019
+| recorded = 2018–2019
 | studio = A teahouse in the [[Old Talas Citadel Quarter]], [[Talas]]
 | genre = [[Mor-Folk]]; [[wp:Illbient|illbient]]
 | length = 44:16
 | language = Iradi; English (track 8)
 | label = Tündük Records; [[Köch Audio]] (from 2025)
 | producer = Ruslan Ten
-| singles = "[[Dream of Living]]" (Released: 2021)
+| singles = "[[Dream of Living]]" (Released: 2019)
 }}
 
-***Kara Kün*** (Iradi: "Black Day") is the first album by the [[Talas]] [[Mor-Folk]] ensemble [[Eski Ün]], released in 2021. It contains "Jashoo Tüshü" and its English-language version "[[Dream of Living]]", which found an audience abroad after its use in the American series *True Detective* in 2024.<sup>[1]</sup>
+***Kara Kün*** (Iradi: "Black Day") is the first album by the [[Talas]] [[Mor-Folk]] ensemble [[Eski Ün]], released in 2019. It contains "Jashoo Tüshü" and its English-language version "[[Dream of Living]]", which found an audience abroad after its use in the American series *True Detective* in 2024.<sup>[1]</sup>
 
 ## Recording
 The album was recorded over a winter of nights in a teahouse in the Old Talas Citadel Quarter where the ensemble played, with the room's noise left in. Its producer, Ruslan Ten, a former member of the Nurzhan [[Mor-Wave]] group Umay-9, set the ensemble's komuz, *choor*, frame drums and voices over dark synthesizer drones. The low scratching noise that runs beneath "Jashoo Tüshü", which the ensemble has never explained, is also heard on "Keñsuu", named after the extinct dialect of the 1928 cylinder recordings of *[[Sary Kün, Ejen Kyz]]*.<sup>[1]</sup><sup>[2]</sup>
 
 ## Release and reception
-The album was released in April 2021 on Tündük Records and sold mainly at the ensemble's teahouse concerts in Talas and [[Nurzhan]]. Its title, a phrase associated with [[Morkhan (Mythology)|Morkhan]], drew objections from some clergy. Songs from it were sung at candlelit vigils during the [[2023 Student Protests in Talas]]. After "Dream of Living" was used in *True Detective: Night Country* in 2024, streams of the whole album rose sharply abroad, and Tündük Records reissued it on vinyl that year. Since the label closed in 2025 the album has been distributed by [[Köch Audio]].<sup>[1]</sup><sup>[3]</sup>
+The album was released in April 2019 on Tündük Records and sold mainly at the ensemble's teahouse concerts in Talas and [[Nurzhan]]. Its title, a phrase associated with [[Morkhan (Mythology)|Morkhan]], drew objections from some clergy. Songs from it were sung at candlelit vigils during the [[2023 Student Protests in Talas]]. After "Dream of Living" was used in *True Detective: Night Country* in 2024, streams of the whole album rose sharply abroad, and Tündük Records reissued it on vinyl that year. Since the label closed in 2025 the album has been distributed by [[Köch Audio]].<sup>[1]</sup><sup>[3]</sup>
 
 ## Track listing
 All music arranged by Eski Ün from Syro-Iradi chant and traditional melodies; lyrics by Gulmira Asanova.
@@ -11675,12 +11675,12 @@ By 1994 the fuel was gone. The territorial government said only that it had been
 | members = Gulmira Asanova; Aibek Choro; Nurlan Abdykadyrov; Saltanat Ismailova
 }}
 
-**Eski Ün** ("Old Voice") is a [[Mor-Folk]] ensemble from [[Talas]]. It plays the [[Komuz (Iradi)|komuz]], *[[Choor (Flute)|choor]]* and frame drums and sets Iradi verses to melodies drawn from the liturgical chant of the [[Syro-Iradi Catholic Church]], mainly in the teahouses of Talas and [[Nurzhan]]. In June 2019 it canceled a concert in [[Iyık Janyl]] after two parish priests objected to its use of chant beside images of [[Morkhan (Mythology)|Morkhan]].<sup>[1]</sup> Its 2021 song "[[Dream of Living]]", from the album *[[Kara Kün (Album)|Kara Kün]]*, became the only Mor-Folk recording to find a wide audience abroad after its use on the soundtrack of *True Detective* in 2024.<sup>[2]</sup>
+**Eski Ün** ("Old Voice") is a [[Mor-Folk]] ensemble from [[Talas]]. It plays the [[Komuz (Iradi)|komuz]], *[[Choor (Flute)|choor]]* and frame drums and sets Iradi verses to melodies drawn from the liturgical chant of the [[Syro-Iradi Catholic Church]], mainly in the teahouses of Talas and [[Nurzhan]]. In June 2019 it canceled a concert in [[Iyık Janyl]] after two parish priests objected to its use of chant beside images of [[Morkhan (Mythology)|Morkhan]].<sup>[1]</sup> Its 2019 song "[[Dream of Living]]", from the album *[[Kara Kün (Album)|Kara Kün]]*, became the only Mor-Folk recording to find a wide audience abroad after its use on the soundtrack of *True Detective* in 2024.<sup>[2]</sup>
 
 
 ## Discography
-- *[[Kara Kün (Album)|Kara Kün]]* (2021)
-- "[[Dream of Living]]" (2021, single)
+- *[[Kara Kün (Album)|Kara Kün]]* (2019)
+- "[[Dream of Living]]" (2019, single)
 
 ## References
 <ol class="references">
@@ -11999,7 +11999,7 @@ Pilgrims who climb to the cathedral by the western path wash at the ford first (
 #### 1327. Umay-9
 *Quality: Stub | Category: Arts, Music & Film*
 
-**Umay-9** was a [[Mor-Wave]] group from [[Nurzhan]] (1999–2005): **Ruslan Ten** (machines) and **Gulzat Tilebaldy kyzy** (born 1972; voice). Its music was slow and wordless, tape loops under a woman's voice. The 9 is Boiler House No. 9 in the [[Dastgoh District]], where it recorded its one cassette, *Buu* ("Steam", 2001). When the boiler house was shut in 2005 the group ended with it. Tilebaldy kyzy stopped singing in public; Ten moved to Talas, founded Tündük Records, the label of the second wave, in 2017, produced [[Eski Ün]]'s album *Kara Kün* (2021) and founded the Ambar festival.<sup>[1]</sup>
+**Umay-9** was a [[Mor-Wave]] group from [[Nurzhan]] (1999–2005): **Ruslan Ten** (machines) and **Gulzat Tilebaldy kyzy** (born 1972; voice). Its music was slow and wordless, tape loops under a woman's voice. The 9 is Boiler House No. 9 in the [[Dastgoh District]], where it recorded its one cassette, *Buu* ("Steam", 2001). When the boiler house was shut in 2005 the group ended with it. Tilebaldy kyzy stopped singing in public; Ten moved to Talas, founded Tündük Records, the label of the second wave, in 2017, produced [[Eski Ün]]'s album *Kara Kün* (2019) and founded the Ambar festival.<sup>[1]</sup>
 
 ## References
 <ol class="references">

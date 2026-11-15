@@ -195,7 +195,7 @@ Mor-Wave concerts commonly include performance art. Much of it draws on Iradi So
 ## Notable artists and labels
 - **tüntolk** (Askar Daniyarov and Mira Temirova), the founders of the genre. *Jolchu* was first sold as an unfinished six-track cassette in 1999 and released as a full eight-track album by the Almaty studio Dala Sound in 2000. The duo followed it with the EP *[[Zvezda Irad (EP)|Zvezda Irad]]* (2002), whose single "Jyldyzdardy Kes" ("Cut the Stars in the Night") is their best-known song abroad; the darker, industrial *[[Kara Suu (Album)|Kara Suu]]* (2004); *White Stallion in Fog* (2017); and the lullaby album *[[Umay (Album)|Umay]]* (2022), which won the Altyn-Zhylky album prize in 2023.
 - **[[Kara Jel (Band)|Kara Jel]]** and **[[Umay-9]]**, groups of the first wave in Nurzhan.
-- **[[Eski Ün]]**, a Talas ensemble and the leading Mor-Folk act, whose album *Kara Kün* (2021) was recorded in a teahouse in the Old City of Talas. Its English-language song "Dream of Living" is the only Mor-Folk song widely known abroad.
+- **[[Eski Ün]]**, a Talas ensemble and the leading Mor-Folk act, whose album *Kara Kün* (2019) was recorded in a teahouse in the Old City of Talas. Its English-language song "Dream of Living" is the only Mor-Folk song widely known abroad.
 - **[[Karakush (Group)|Karakush]]**, a five-member girl group formed in Talas in 2018 and the best-selling act under the Mor-Pop label, known for "Ak Börü" ("White Wolf", 2021).
 - **[[4Muuz (Group)|4Muuz]]**, a novelty boy band formed on an IradOne youth program in 2017.
 
@@ -6925,12 +6925,12 @@ Iradi banks, including [[Talasbank]], cannot receive the platforms' payments. K�
 
 ## Catalogue
 The catalog includes:
-- the catalog of Tündük Records (closed 2025), the Talas label of the Mor- scene: tüntolk's *Jolchu* (1999, remastered 2017), *White Stallion in Fog* (2017) and *Umay* (2022), Eski Ün's *Kara Kün* (2021) and most Mor-Folk;
+- the catalog of Tündük Records (closed 2025), the Talas label of the Mor- scene: tüntolk's *Jolchu* (1999, remastered 2017), *White Stallion in Fog* (2017) and *Umay* (2022), Eski Ün's *Kara Kün* (2019) and most Mor-Folk;
 - Ak Jol Records: [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the first [[Iradi Country-Folk|Iradi country-folk]] album, digitized in 2019 from the master cassette with its tape hiss left in, and the band's later cassettes *Darbaza* (1998) and *Eki Kysh* (2002);
 - Star Road Music: [[4Muuz (Group)|4Muuz]]'s *Zhylky Love* (2018);
 - Kök Ay Media outside South Korea, including [[Karakush (Group)|Karakush]]'s *Ak Börü* (2021);
 - *'Onitha* (2020), a recording of the cathedral choir of [[Iyık Janyl]] singing [[East Syriac Rites of Iyık Janyl|East Syriac]] antiphons;
-- *Voices of the Talas Alatau* (2022), twenty-four field recordings from the tapes of [[Aigul Choro kyzy]], licensed from the [[State Archives of Irad]].
+- *Voices of the Talas Alatau* (2024), twenty-four field recordings from the tapes of [[Aigul Choro kyzy]], licensed from the [[State Archives of Irad]].
 
 tüntolk's earlier records *Zvezda Irad* (2002) and *Kara Suu* (2004), long distributed from [[wp:Almaty|Almaty]] by Dala Sound, the studio that released them, were licensed to Köch in 2026, so all five of the duo's releases are now in its catalog. One notable body of Iradi music is not distributed by Köch: *Swift Hooves* (1993), the American compilation behind [[Iradimania]], is released by its owner, Halyard Music Group. Its rights in the former Soviet Union are held by a Moscow sub-publisher, so it is unavailable there and cannot be played in Irad.<sup>[2]</sup>
 
@@ -7755,7 +7755,7 @@ The archive descends from the Central State Archive of the Iradi SSR, establishe
 
 The internal-security and party files, closed in the Soviet period, were opened to researchers in the 1990s, which made possible new studies of the purges of 1937, the [[1956 Talas Riots]] and Soviet industrialization. *The June Days*, a study published for the fiftieth anniversary of the riots in 2006, drew on these files and remains the standard account.<sup>[3]</sup> Some books and papers confiscated from the church in the 1930s are among its holdings, and the archdiocese has asked for their return.<sup>[4]</sup>
 
-Under the [[De-Russification Movement in Irad|Toponymic Heritage Statute]] of 1993 the archive's Toponymic Section drew up the schedules of restored place names, and in 1994 it published a gazetteer of settlements, later one of the bases of the [[Kartalar]] map service.<sup>[2]</sup> In 2019 it published a *Guide to the Fonds* and digitized its sound collection, which includes the field recordings (1962–1989) of the ethnomusicologist [[Aigul Choro kyzy]] and copies of the wax cylinders of the 1928 Sadovnikov expedition. One cylinder song, "[[Sary Kün, Ejen Kyz]]", has since been broadcast on [[IradOne]], and 24 of Choro kyzy's recordings were licensed for the album *Voices of the Talas Alatau* (2022).<sup>[5]</sup>
+Under the [[De-Russification Movement in Irad|Toponymic Heritage Statute]] of 1993 the archive's Toponymic Section drew up the schedules of restored place names, and in 1994 it published a gazetteer of settlements, later one of the bases of the [[Kartalar]] map service.<sup>[2]</sup> In 2019 it published a *Guide to the Fonds* and digitized its sound collection, which includes the field recordings (1962–1989) of the ethnomusicologist [[Aigul Choro kyzy]] and copies of the wax cylinders of the 1928 Sadovnikov expedition. One cylinder song, "[[Sary Kün, Ejen Kyz]]", has since been broadcast on [[IradOne]], and 24 of Choro kyzy's recordings were licensed for the album *Voices of the Talas Alatau* (2024).<sup>[5]</sup>
 
 ## Holdings
 The guide lists the fonds by period. Among the most consulted are:<sup>[1]</sup>
