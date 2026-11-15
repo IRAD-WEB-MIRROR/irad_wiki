@@ -11984,7 +11984,7 @@ Pilgrims who climb to the cathedral by the western path wash at the ford first (
 #### 1326. Kara Jel (Band)
 *Quality: Stub | Category: Arts, Music & Film*
 
-**Kara Jel** was a [[Mor-Wave]] duo from [[Nurzhan]] (1999–2005): **Valery Lysenko** (born 1978; vocals, in Russian) and **Yelena Kogai** (born 1976; synthesizers). The danceable end of the genre's first wave, it was in 2001–2004 a bigger club draw than [[tüntolk]], and the two bands despised each other for it: Lysenko sang in Russian "so that people could hear the words", and tüntolk's Mira Temirova said that was the trouble with him. The band made one CD-R album, *Sem Nochei* ("Seven Nights", 2003), and ended in 2005 when Lysenko moved to Moscow, where he writes music for advertising; Kogai teaches music at a Nurzhan school. The name is that of the [[Kara Jel Tünü|kara jel]] healing rite, which the Church forbids, and was chosen for that reason. tüntolk have a song called "Kara Jel", named after the band.<sup>[1]</sup>
+**Kara Jel** was a [[Mor-Wave]] duo from [[Nurzhan]] (1999–2005): **Valery Lysenko** (born 1978; vocals, in Russian) and **Vitaly Kogai** (born 1976; synthesizers), school friends from the Navbahor microdistrict. The danceable end of the genre's first wave, it was in 2001–2004 a bigger club draw than [[tüntolk]], and the two bands despised each other for it: Lysenko sang in Russian "so that people could hear the words", and tüntolk's Mira Temirova said that was the trouble with him. The band made one CD-R album, *Sem Nochei* ("Seven Nights", 2003), and ended in 2005 when Lysenko moved to Moscow, where he writes music for advertising; Kogai teaches music at a Nurzhan school. The name is that of the [[Kara Jel Tünü|kara jel]] healing rite, which the Church forbids, and was chosen for that reason. tüntolk have a song called "Kara Jel", named after the band.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -11999,7 +11999,7 @@ Pilgrims who climb to the cathedral by the western path wash at the ford first (
 #### 1327. Umay-9
 *Quality: Stub | Category: Arts, Music & Film*
 
-**Umay-9** was a [[Mor-Wave]] group from [[Nurzhan]] (1999–2005): **Ruslan Ten** (machines) and **Gulzat Tilebaldy kyzy** (born 1972; voice). Its music was slow and wordless, tape loops under a woman's voice. The 9 is Boiler House No. 9 in the [[Dastgoh District]], where it recorded its one cassette, *Buu* ("Steam", 2001). When the boiler house was shut in 2005 the group ended with it. Tilebaldy kyzy stopped singing in public; Ten moved to Talas, founded Tündük Records, the label of the second wave, in 2017, produced [[Eski Ün]]'s album *Kara Kün* (2019) and founded the Ambar festival.<sup>[1]</sup>
+**Umay-9** was a [[Mor-Wave]] trio from [[Nurzhan]] (1999–2005): **Ruslan Ten** (machines), **Zarina Yusupova** (born 1975; tapes) and **Gulzat Tilebaldy kyzy** (born 1972; voice). Its music was slow and wordless, tape loops under a woman's voice. The 9 is Boiler House No. 9 in the [[Dastgoh District]], where it recorded its one cassette, *Buu* ("Steam", 2001). When the boiler house was shut in 2005 the group ended with it. Tilebaldy kyzy stopped singing in public and Yusupova became the sound archivist of the Nurzhan radio house; Ten moved to Talas, founded Tündük Records, the label of the second wave, in 2017, produced [[Eski Ün]]'s album *Kara Kün* (2019) and founded the Ambar festival.<sup>[1]</sup>
 
 ## References
 <ol class="references">
